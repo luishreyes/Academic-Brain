@@ -11,3 +11,4 @@ Preparación y desarrollo profesional continuo del profesorado; incluye la forma
 ## Notas que usan este concepto
 - [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]
 - [[notes/papers/2026-01-12_pd-docentes-ia-k12]]
+- [[notes/papers/2024-07-01_prompting-quimica-preservice]]

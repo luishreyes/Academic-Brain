@@ -14,3 +14,5 @@ Disciplina que estudia los procesos cognitivos, motivacionales y sociales que su
 - [[notes/papers/2024-08-13_widening-gap-ia-novatos]]
 - [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]
 - [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]
+- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]
+- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]
