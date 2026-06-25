@@ -25,3 +25,4 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]
 - [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]
 - [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]
+- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]

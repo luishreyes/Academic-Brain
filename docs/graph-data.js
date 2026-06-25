@@ -2,9 +2,9 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 13,
+    "papers": 14,
     "articles": 5,
-    "concepts": 40
+    "concepts": 41
   },
   "nodes": [
     {
@@ -93,8 +93,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "path": "concepts/aprendizaje-activo.md",
-      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
-      "degree": 4
+      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
+      "degree": 5
     },
     {
       "id": "concepts/bienestar-academico",
@@ -123,8 +123,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.",
       "path": "concepts/ciencia-y-sociedad.md",
-      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
-      "degree": 5
+      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
+      "degree": 6
     },
     {
       "id": "concepts/comunicacion-cientifica",
@@ -155,8 +155,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.",
       "path": "concepts/creatividad.md",
-      "content": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]",
-      "degree": 1
+      "content": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
+      "degree": 2
     },
     {
       "id": "concepts/desarrollo-de-farmacos",
@@ -185,6 +185,22 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.",
       "path": "concepts/descubrimiento-cientifico.md",
       "content": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/diseno-especulativo",
+      "kind": "concept",
+      "label": "diseno especulativo",
+      "keyword": "diseno-especulativo",
+      "aliases": [
+        "speculative design",
+        "critical design",
+        "diseño crítico",
+        "futuros especulativos"
+      ],
+      "definition": "Metodología de diseño que propone artefactos, escenarios y futuros alternativos para estimular el pensamiento crítico y la reflexión sobre implicaciones sociales, éticas y culturales de tecnologías emergentes.",
+      "path": "concepts/diseno-especulativo.md",
+      "content": "Metodología de diseño que propone artefactos, escenarios y futuros alternativos para estimular el pensamiento crítico y la reflexión sobre implicaciones sociales, éticas y culturales de tecnologías emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
       "degree": 1
     },
     {
@@ -231,8 +247,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
-      "degree": 13
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
+      "degree": 14
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -293,8 +309,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
-      "degree": 11
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
+      "degree": 12
     },
     {
       "id": "concepts/evaluacion-educativa",
@@ -416,8 +432,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
-      "degree": 16
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
+      "degree": 17
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -430,8 +446,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.",
       "path": "concepts/interdisciplinariedad.md",
-      "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
-      "degree": 5
+      "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
+      "degree": 6
     },
     {
       "id": "concepts/liderazgo-educativo",
@@ -873,6 +889,34 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia.md",
       "pdf_local": "sources/pdfs/hackl2026-heptagon-alfabetizacion-ia.pdf",
       "content": "## Resumen\n\nEste paper propone el *AI Literacy Heptagon*, un marco conceptual de siete dimensiones para operacionalizar la alfabetización en inteligencia artificial (AIL) en la educación superior. El punto de partida es un diagnóstico crítico: aunque existe consenso político y académico sobre la importancia de la AIL (incluso el EU AI Act la exige explícitamente), su integración curricular sigue siendo fragmentada y limitada —solo el 31,6% de los estudiantes en Alemania reportan que su programa la aborda explícitamente. La causa central identificada es la ambigüedad conceptual: sin una definición operacional clara, las instituciones no saben qué implementar.\n\nMediante una revisión integrativa de la literatura (2021–2024), los autores identifican siete dimensiones centrales de la AIL: (1) comprensión técnica, (2) competencia aplicacional, (3) pensamiento crítico y evaluación, (4) conciencia ética y razonamiento, (5) comprensión del impacto social, (6) competencia integracional y (7) conocimiento legal y regulatorio. Estas dimensiones se sintetizan en un marco heptagonal que distingue entre AIL genérica (básica para todos los estudiantes) y extensiones disciplinarias, y se articula con la taxonomía de Bloom para establecer niveles de progresión (No consciente → Principiante → Intermedio → Experto).\n\n## Contribuciones principales\n\n- Propone una definición de trabajo sintetizada de AI Literacy que integra las siete dimensiones identificadas en la literatura\n- Delinea AIL frente a conceptos relacionados: Data Literacy, Media Literacy y Computational Literacy, especificando solapamientos y elementos distintivos\n- Introduce el *AI Literacy Heptagon* como instrumento práctico para el desarrollo y análisis curricular\n- Resalta la dimensión Legal y Regulatoria (LRK) como frecuentemente subrepresentada pero crítica ante marcos normativos en evolución (EU AI Act, reglamentos sectoriales)\n- Valida el marco mediante mapeo experto de los curricula de dos programas académicos diferentes\n\n## Metodología\n\nRevisión integrativa de la literatura, con análisis de publicaciones sobre AIL en educación superior entre 2021 y 2024. El análisis abarca definiciones existentes, marcos organizacionales (UNESCO, OECD, EU) y estudios empíricos. La validación del heptágono se realizó mediante mapeo de curricula por expertos en dos programas académicos, con el objetivo de demostrar la utilidad instrumental del framework —no de validar empíricamente competencias estudiantiles.\n\n## Hallazgos clave\n\n- Las siete dimensiones cubren un espectro más amplio que los marcos existentes: los frameworks actuales enfatizan lo técnico, lo crítico y lo ético, pero suelen ignorar lo legal/regulatorio y lo integracional\n- La dimensión LRK exige formar para un \"objetivo en movimiento\": los marcos legales de IA están en construcción activa y los curricula deben preparar para la incertidumbre regulatoria\n- El modelo de Bloom permite distinguir un piso mínimo común (nivel Principiante en todas las dimensiones) de especializaciones disciplinarias, facilitando adaptaciones en distintos campos\n- El mapeo curricular reveló que los programas tienden a cubrir dimensiones éticas y de impacto social, mientras dejan brechas en competencias integracionistas y legales\n\n## Limitaciones\n\n- El estudio se enfoca en educación superior; la transferibilidad al contexto laboral requiere investigación adicional\n- La validación mediante mapeo curricular por expertos es subjetiva y no mide competencias estudiantiles reales\n- No se utilizó metodología Delphi para validación de consenso; los autores reconocen esto como dirección futura\n- El análisis bibliográfico cubre 2021–2024, período de cambio acelerado en el campo\n\n## Notas relacionadas\n\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/interdisciplinariedad]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]"
+    },
+    {
+      "id": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia",
+      "kind": "paper",
+      "label": "A Grammar of Speculation: Learning Speculative Design with Generative AI in Biodesign Education",
+      "authors": [
+        "Santiago Ojeda Ramirez",
+        "Nicole Hakim",
+        "Giovanna Danies"
+      ],
+      "year": "2026",
+      "venue": "Education Sciences",
+      "url": "https://doi.org/10.3390/educsci16010102",
+      "doi": "10.3390/educsci16010102",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "creatividad",
+        "aprendizaje-activo",
+        "etica-de-la-ia",
+        "ciencia-y-sociedad",
+        "interdisciplinariedad",
+        "diseno-especulativo"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia.md",
+      "pdf_local": "sources/pdfs/ojedaramirez2026-diseno-especulativo-biodesign-ia.pdf",
+      "content": "## Resumen\n\nEste estudio examina cómo estudiantes universitarios de diseño imaginaron y cuestionaron futuros biotecnológicos a través del trabajo especulativo con IA generativa en un curso semestral de biodesign en la Universidad de California, Irvine. Mediante codificación cualitativa inductiva y análisis del discurso visual, los autores rastrean cómo los prompts, imágenes y reflexiones de los estudiantes revelan el desarrollo progresivo de una \"gramática de la especulación\": una capacidad para moverse desde la descripción de crisis hacia el pensamiento de posibilidad orientado al diseño y el razonamiento sociopolítico sobre implicaciones ecológicas, culturales y éticas de la biotecnología.\n\nLa IA generativa actuó como mediador pedagógico clave: el feedback visual inmediato permitió a los estudiantes reconocer sus propios supuestos, cuestionar los sesgos del modelo y refinar iterativamente sus visiones especulativas. A través de ciclos repetidos de prompting y refinamiento, los estudiantes avanzaron en sus prototipos de biodesign y desarrollaron una comprensión matizada de las capacidades y límites de la IA generativa para el pensamiento especulativo y crítico.\n\n## Contribuciones principales\n\n- Introduce el concepto de \"gramática de la especulación\" como marco para entender el desarrollo del pensamiento especulativo en estudiantes de diseño\n- Documenta cómo la IA generativa puede actuar como espejo crítico que revela supuestos implícitos en el proceso creativo\n- Muestra que la iteración prompts-imagen-reflexión constituye un ciclo pedagógico efectivo para el diseño especulativo\n- Ofrece evidencia cualitativa de que el uso de IA generativa en educación puede fomentar pensamiento crítico sobre tecnología y sociedad\n\n## Metodología\n\nEstudio cualitativo en un curso semestral de biodesign a nivel universitario. Se utilizaron codificación cualitativa inductiva y análisis del discurso visual para analizar los prompts escritos, las imágenes generadas y las reflexiones escritas de los estudiantes a lo largo del semestre. No se reporta tamaño de muestra exacto en el abstract, pero el diseño es longitudinal y de caso de estudio.\n\n## Hallazgos clave\n\n- Los estudiantes evolucionaron desde descripción de problemas hacia diseño de posibilidades, mostrando un desarrollo progresivo de literacidad especulativa\n- La IA generativa facilitó el reconocimiento de supuestos culturales y sesgos al \"hacer visible\" lo que los estudiantes imaginaban pero no podían articular\n- Los estudiantes desarrollaron razonamiento sociopolítico sobre implicaciones ecológicas, culturales y éticas de escenarios biotecnológicos\n- La iteración entre prompting y resultado visual fue el motor central del aprendizaje especulativo\n- Los estudiantes ganaron conciencia crítica de las limitaciones y affordances de la IA generativa\n\n## Limitaciones\n\n- Estudio de caso en una sola institución (UC Irvine); contexto de diseño altamente especializado que limita generalización\n- La codificación inductiva cualitativa no permite medir magnitud de efectos ni comparar con grupos control\n- El marco de \"gramática de la especulación\" es propuesto desde este estudio y requiere validación en otros contextos\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/creatividad]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/interdisciplinariedad]]\n- [[concepts/diseno-especulativo]]"
     },
     {
       "id": "notes/papers/2026-01-12_pd-docentes-ia-k12",
@@ -1514,6 +1558,46 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
       "target": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
       "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia",
+      "target": "concepts/creatividad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia",
+      "target": "concepts/interdisciplinariedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia",
+      "target": "concepts/diseno-especulativo",
+      "kind": "keyword"
     },
     {
       "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
