@@ -39,6 +39,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## D
 
+**diseno-especulativo** — Metodología de diseño que propone artefactos, escenarios y futuros alternativos para estimular el pensamiento crítico y la reflexión sobre implicaciones sociales, éticas y culturales de tecnologías emergentes. _Aliases: speculative design, critical design, diseño crítico, futuros especulativos_
+
 **descubrimiento-cientifico** — El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación. _Aliases: scientific discovery, investigación científica_
 
 **desarrollo-de-farmacos** — Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos. _Aliases: drug discovery, drug development, descubrimiento de fármacos_

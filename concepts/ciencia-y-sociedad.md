@@ -14,3 +14,4 @@ Relación entre la producción científica y sus contextos sociales, políticos 
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
 - [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]
 - [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]
+- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]
