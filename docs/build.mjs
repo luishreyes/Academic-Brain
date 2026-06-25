@@ -148,6 +148,7 @@ for (const dir of ["notes/papers", "notes/articles"]) {
       keywords: data.keywords || [],
       date: data.date_added || data.date || "",
       path: rel,
+      pdf_local: data.pdf_local || "",
       content: noteContent(body),
     });
 
