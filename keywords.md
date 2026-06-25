@@ -45,6 +45,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **educacion-en-programacion** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas. _Aliases: CS education, computing education, educación en ciencias de la computación_
 
+**educacion-k12** — Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica. _Aliases: K-12 education, primary education, secondary education, educación primaria, educación secundaria, educación básica_
+
 **educacion-superior** — Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.
 
 **ensayo-controlado-aleatorio** — Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones. _Aliases: RCT, randomized controlled trial, experimento aleatorizado_
@@ -60,6 +62,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## F
 
 **filosofia** — Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral, la mente y la existencia mediante el razonamiento y el análisis conceptual; incluye método y herramientas como el método socrático. _Aliases: philosophy, filosofía moral, método socrático_
+
+**formacion-docente** — Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA. _Aliases: teacher education, teacher professional development, teacher training, desarrollo profesional docente_
 
 **futuro-del-trabajo** — Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales. _Aliases: future of work, mercado laboral, empleabilidad, automatización del empleo_
 
@@ -84,6 +88,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## K
 
 ## L
+
+**liderazgo-educativo** — Gestión, dirección y toma de decisiones en instituciones educativas; incluye el rol de directores, administradores y líderes escolares en el diseño de políticas pedagógicas y la adopción de tecnologías emergentes como la IA. _Aliases: educational leadership, school leadership, gestión educativa, administración educativa_
 
 ## M
 

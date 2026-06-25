@@ -2,9 +2,9 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 5,
+    "papers": 9,
     "articles": 5,
-    "concepts": 36
+    "concepts": 39
   },
   "nodes": [
     {
@@ -49,8 +49,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.",
       "path": "concepts/alfabetizacion-en-ia.md",
-      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
-      "degree": 1
+      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
+      "degree": 3
     },
     {
       "id": "concepts/alineamiento-de-ia",
@@ -93,8 +93,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "path": "concepts/aprendizaje-activo.md",
-      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]",
-      "degree": 1
+      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]",
+      "degree": 2
     },
     {
       "id": "concepts/bienestar-academico",
@@ -123,8 +123,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.",
       "path": "concepts/ciencia-y-sociedad.md",
-      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]",
-      "degree": 3
+      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]",
+      "degree": 4
     },
     {
       "id": "concepts/comunicacion-cientifica",
@@ -187,6 +187,24 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 2
     },
     {
+      "id": "concepts/educacion-k12",
+      "kind": "concept",
+      "label": "educacion k12",
+      "keyword": "educacion-k12",
+      "aliases": [
+        "K-12 education",
+        "primary education",
+        "secondary education",
+        "educación primaria",
+        "educación secundaria",
+        "educación básica"
+      ],
+      "definition": "Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica.",
+      "path": "concepts/educacion-k12.md",
+      "content": "Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/educacion-superior",
       "kind": "concept",
       "label": "educacion superior",
@@ -197,8 +215,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
-      "degree": 6
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]",
+      "degree": 9
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -259,8 +277,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
-      "degree": 5
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
+      "degree": 8
     },
     {
       "id": "concepts/evaluacion-educativa",
@@ -294,6 +312,22 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 1
     },
     {
+      "id": "concepts/formacion-docente",
+      "kind": "concept",
+      "label": "formacion docente",
+      "keyword": "formacion-docente",
+      "aliases": [
+        "teacher education",
+        "teacher professional development",
+        "teacher training",
+        "desarrollo profesional docente"
+      ],
+      "definition": "Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA.",
+      "path": "concepts/formacion-docente.md",
+      "content": "Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
+      "degree": 2
+    },
+    {
       "id": "concepts/futuro-del-trabajo",
       "kind": "concept",
       "label": "futuro del trabajo",
@@ -306,8 +340,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "path": "concepts/futuro-del-trabajo.md",
-      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
-      "degree": 2
+      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]",
+      "degree": 3
     },
     {
       "id": "concepts/humanidades",
@@ -320,8 +354,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos.",
       "path": "concepts/humanidades.md",
-      "content": "Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]",
-      "degree": 2
+      "content": "Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]",
+      "degree": 3
     },
     {
       "id": "concepts/impacto-de-investigacion",
@@ -366,8 +400,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
-      "degree": 9
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
+      "degree": 13
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -382,6 +416,22 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/interdisciplinariedad.md",
       "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
       "degree": 4
+    },
+    {
+      "id": "concepts/liderazgo-educativo",
+      "kind": "concept",
+      "label": "liderazgo educativo",
+      "keyword": "liderazgo-educativo",
+      "aliases": [
+        "educational leadership",
+        "school leadership",
+        "gestión educativa",
+        "administración educativa"
+      ],
+      "definition": "Gestión, dirección y toma de decisiones en instituciones educativas; incluye el rol de directores, administradores y líderes escolares en el diseño de políticas pedagógicas y la adopción de tecnologías emergentes como la IA.",
+      "path": "concepts/liderazgo-educativo.md",
+      "content": "Gestión, dirección y toma de decisiones en instituciones educativas; incluye el rol de directores, administradores y líderes escolares en el diseño de políticas pedagógicas y la adopción de tecnologías emergentes como la IA.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]",
+      "degree": 1
     },
     {
       "id": "concepts/modernizacion",
@@ -409,8 +459,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.",
       "path": "concepts/personalizacion-del-aprendizaje.md",
-      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]",
-      "degree": 2
+      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
+      "degree": 4
     },
     {
       "id": "concepts/psicologia-educativa",
@@ -471,8 +521,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.",
       "path": "concepts/revision-sistematica-de-literatura.md",
-      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
-      "degree": 2
+      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
+      "degree": 4
     },
     {
       "id": "concepts/seguridad-de-ia",
@@ -500,8 +550,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.",
       "path": "concepts/supervision-humana.md",
-      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
-      "degree": 7
+      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]",
+      "degree": 10
     },
     {
       "id": "concepts/tecnocracia",
@@ -548,6 +598,31 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 1
     },
     {
+      "id": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
+      "kind": "paper",
+      "label": "Imagining the future of artificial intelligence in education: a review of social science fiction",
+      "authors": [
+        "Iosif Gidiotis",
+        "Stefan Hrastinski"
+      ],
+      "year": "2024",
+      "venue": "Learning, Media and Technology",
+      "url": "https://doi.org/10.1080/17439884.2024.2365829",
+      "doi": "10.1080/17439884.2024.2365829",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "etica-de-la-ia",
+        "ciencia-y-sociedad",
+        "humanidades",
+        "personalizacion-del-aprendizaje",
+        "supervision-humana"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica.md",
+      "content": "## Resumen\n\nEl artículo explora cómo la ficción científico-social (social science fiction) escrita por investigadores puede usarse como método creativo y crítico para imaginar y debatir el futuro de la IA en educación (AIED). Los autores revisan 100 textos de ficción publicados en revistas académicas y libros editados —incluyendo colecciones sobre ChatGPT, diseño de ficción en educación superior y escenarios escolares del año 2030— aplicando análisis temático para identificar patrones de esperanza y preocupación sobre el papel futuro de la IA en la enseñanza y el aprendizaje.\n\nEl análisis identifica cuatro temas principales con sub-temas que articulan las tensiones centrales del campo AIED: el rol cambiante de docentes y estudiantes ante la automatización; dilemas éticos sobre privacidad, vigilancia y sesgos algorítmicos; dinámicas de personalización/adaptación y sus implicaciones para la equidad y la agencia del aprendiz; y escenarios utópicos y distópicos sobre instituciones educativas con IA integrada. Aunque las ficciones en su mayoría reproducen futuros ya anticipados en la literatura empírica, también ofrecen ilustraciones creativas de cómo esos futuros podrían materializarse. Los autores concluyen que la ficción científico-social es una herramienta valiosa para aproximarse al complejo y uncertain paisaje de AIED, estimulando reflexión y diálogo que los marcos empíricos no pueden proveer solos.\n\n## Contribuciones principales\n- Revisión y análisis temático de 100 textos de ficción científico-social sobre AIED escritos por investigadores\n- Identificación de 4 temas y sub-temas que mapean esperanzas y preocupaciones del campo\n- Defensa metodológica de la ficción especulativa como herramienta legítima de investigación educativa\n\n## Metodología\n\nRevisión de ficción publicada en revistas como *Learning, Media and Technology* y *Postdigital Science and Education*, complementada con búsquedas en bases de datos académicas. Análisis temático en 6 fases siguiendo a Braun & Clarke (2019), con codificación latente por el primer autor y revisión iterativa por el segundo.\n\n## Hallazgos clave\n- Cuatro temas principales: (1) roles de docentes y estudiantes en entornos IA; (2) ética, privacidad y vigilancia; (3) personalización y agencia del aprendiz; (4) utopías/distopías educativas\n- Las ficciones reproducen futuros ya presentes en literatura empírica, pero añaden ilustraciones creativas de cómo podrían materializarse\n- La ficción científico-social permite cuestionar supuestos sobre qué futuros de AIED son deseables\n- Potencial de la ficción para co-diseñar futuros educativos más equitativos\n\n## Limitaciones\n- Corpus limitado a ficción publicada en inglés en ciertas revistas; puede no capturar perspectivas globales\n- Análisis cualitativo interpretativo; otros lectores podrían construir temas distintos\n- No evalúa impacto real de la ficción especulativa en políticas o prácticas educativas\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/humanidades]]\n- [[concepts/supervision-humana]]"
+    },
+    {
       "id": "notes/papers/2024-08-13_widening-gap-ia-novatos",
       "kind": "paper",
       "label": "The Widening Gap: The Benefits and Harms of Generative AI for Novice Programmers",
@@ -578,6 +653,31 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-06-25",
       "path": "notes/papers/2024-08-13_widening-gap-ia-novatos.md",
       "content": "## Resumen\n\nEste estudio replica una investigación previa sobre las dificultades metacognitivas de estudiantes novatos en programación, extendiendo el diseño original para incluir herramientas de IA generativa (ChatGPT y GitHub Copilot). A través de 21 sesiones de laboratorio con observación participante, entrevista y eye tracking, los autores examinan cómo los estudiantes de CS1 usan GenAI al resolver un problema de programación desafiante. Los resultados muestran que 20 de 21 estudiantes completaron el problema —una cifra superficialmente exitosa—, pero que oculta patrones preocupantes diferenciados por nivel de desempeño.\n\nLos hallazgos centrales evidencian una \"brecha que se amplía\" (widening gap): los estudiantes con mejor desempeño y mayor autoeficacia usaron GenAI para acelerar, aceptando sugerencias útiles e ignorando las incorrectas. En cambio, los estudiantes que ya tenían dificultades vieron cómo sus problemas metacognitivos preexistentes persistían, se compoundaban y se sumaban a dificultades nuevas introducidas por la IA (como ser desviados por sugerencias de Copilot no solicitadas o seguir código de ChatGPT sin comprenderlo). Estos estudiantes expresaron disonancia cognitiva y terminaron con una \"ilusión de competencia\": pensaban haber resuelto el problema mejor de lo que realmente lo hicieron.\n\n## Contribuciones principales\n\n- Replican con extensión a GenAI las cinco dificultades metacognitivas identificadas en el estudio original (Forming, Dislodging, Location, Achievement, Progression)\n- Identifican dos tipos de uso de GenAI: uso acelerador (estudiantes de alto desempeño) y uso comprometedor (estudiantes con dificultades)\n- Conceptualizan la \"ilusión de competencia\" como dificultad metacognitiva nueva inducida por GenAI\n- Proponen formas de andamiar la experiencia GenAI de novatos y recomiendan investigación futura\n\n## Metodología\n\nEstudio de laboratorio con 21 estudiantes universitarios de CS1. Cada participante resolvió un problema de programación (implementación de un contador de positivos/negativos) con acceso libre a GitHub Copilot y ChatGPT. Los investigadores realizaron observación participante con notas de campo, entrevistas pre/post sesión y seguimiento ocular (eye tracking) para documentar comportamiento de codificación, interacción con IA y verbalización del proceso. Se usó un análisis cualitativo inductivo inspirado en la replicación del estudio anterior.\n\n## Hallazgos clave\n\n- Las cinco dificultades metacognitivas previas persisten en presencia de GenAI\n- GenAI puede compoundar dificultades: interrupciones de Copilot provocan pérdida de concentración; sugerencias de ChatGPT desvían a estudiantes del enfoque correcto\n- Estudiantes con dificultades aceptan código de GenAI sin entenderlo, generando \"deuda metacognitiva\"\n- La tasa de aceptación de sugerencias de Copilot es mayor entre estudiantes con dificultades metacognitivas (34.1% vs 24.5%)\n- El 20/21 completó el problema: la métrica de completación enmascara diferencias en comprensión real\n\n## Limitaciones\n\n- Muestra pequeña (n=21) en una sola institución; generalización limitada\n- Solo dos herramientas GenAI (Copilot + ChatGPT); el panorama de herramientas evoluciona rápido\n- El problema de programación fue único; los resultados pueden variar con distintos tipos de tareas\n- El contexto de laboratorio puede diferir del uso natural en clase\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-programacion]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/equidad-educativa]]\n- [[concepts/supervision-humana]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]"
+    },
+    {
+      "id": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo",
+      "kind": "paper",
+      "label": "Human-Machine symbiosis in educational leadership in the era of artificial intelligence (AI): Where are we heading?",
+      "authors": [
+        "Khalid Arar",
+        "Ahmed Tlili",
+        "Soheil Salha"
+      ],
+      "year": "2024",
+      "venue": "Educational Management Administration & Leadership",
+      "url": "https://doi.org/10.1177/17411432241292295",
+      "doi": "10.1177/17411432241292295",
+      "keywords": [
+        "inteligencia-artificial",
+        "liderazgo-educativo",
+        "revision-sistematica-de-literatura",
+        "supervision-humana",
+        "futuro-del-trabajo",
+        "educacion-superior"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo.md",
+      "content": "## Resumen\n\nEl paper realiza un análisis bibliométrico sistemático de la investigación sobre IA y liderazgo educativo, utilizando la base de datos Scopus para trazar el desarrollo, las características y la acumulación de conocimiento en este campo emergente. La motivación es la ausencia de una revisión comprensiva del tema a pesar del creciente interés académico y político: los líderes educativos (directores, rectores, administradores) enfrentan la adopción acelerada de IA sin directrices claras ni investigación que oriente su práctica.\n\nEl análisis revela tendencias clave, distribución geográfica, focos temáticos y conceptos principales del campo, junto con sus implicaciones para los Objetivos de Desarrollo Sostenible (ODS), particularmente el ODS 4 de educación de calidad. El paper propone un marco conceptual de simbiosis humano-IA que subraya las fortalezas complementarias: la IA excela en el análisis de grandes volúmenes de datos educativos para apoyar decisiones basadas en evidencia, mientras que los líderes humanos aportan juicio moral, empatía y valores en decisiones que afectan a personas. Los autores identifican brechas importantes: falta de directrices prácticas, escasa investigación desde perspectivas no occidentales, y ausencia de estudios que traten la IA no como herramienta externa sino como parte constitutiva del liderazgo educativo contemporáneo.\n\n## Contribuciones principales\n- Primera revisión bibliométrica comprensiva de IA y liderazgo educativo con datos de Scopus\n- Marco conceptual de simbiosis humano-IA para el liderazgo educativo\n- Mapa de tendencias, distribución geográfica y conexiones conceptuales del campo\n- Análisis de implicaciones para ODS y agenda de investigación futura\n\n## Metodología\n\nAnálisis bibliométrico de publicaciones en Scopus sobre IA y liderazgo educativo. Uso de VOSviewer para mapeo de co-citación y análisis de clústeres temáticos. El análisis identifica volumen de publicaciones, países contribuyentes, revistas más citadas, evolución de keywords y estructura conceptual del campo.\n\n## Hallazgos clave\n- Crecimiento exponencial de publicaciones sobre IA y liderazgo educativo, concentrado en pocos países\n- Temas dominantes: toma de decisiones basada en datos, sistemas de tutores inteligentes, equidad educativa y administración escolar\n- La simbiosis humano-IA es el marco conceptual emergente dominante\n- Brechas: poco trabajo desde perspectivas del Sur Global, ausencia de marcos éticos aplicados al liderazgo\n\n## Limitaciones\n- Búsqueda limitada a Scopus; puede omitir literatura relevante en otras bases o idiomas\n- El análisis bibliométrico no capta calidad ni profundidad de los argumentos\n- El campo es emergente y la literatura muy reciente, lo que limita el análisis de tendencias a largo plazo\n\n## Notas relacionadas\n- [[concepts/liderazgo-educativo]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/supervision-humana]]\n- [[concepts/revision-sistematica-de-literatura]]"
     },
     {
       "id": "notes/papers/2025-05-15_evaluacion-estructural-genai",
@@ -691,6 +791,63 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-06-25",
       "path": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia.md",
       "content": "## Resumen\n\nEste paper propone el *AI Literacy Heptagon*, un marco conceptual de siete dimensiones para operacionalizar la alfabetización en inteligencia artificial (AIL) en la educación superior. El punto de partida es un diagnóstico crítico: aunque existe consenso político y académico sobre la importancia de la AIL (incluso el EU AI Act la exige explícitamente), su integración curricular sigue siendo fragmentada y limitada —solo el 31,6% de los estudiantes en Alemania reportan que su programa la aborda explícitamente. La causa central identificada es la ambigüedad conceptual: sin una definición operacional clara, las instituciones no saben qué implementar.\n\nMediante una revisión integrativa de la literatura (2021–2024), los autores identifican siete dimensiones centrales de la AIL: (1) comprensión técnica, (2) competencia aplicacional, (3) pensamiento crítico y evaluación, (4) conciencia ética y razonamiento, (5) comprensión del impacto social, (6) competencia integracional y (7) conocimiento legal y regulatorio. Estas dimensiones se sintetizan en un marco heptagonal que distingue entre AIL genérica (básica para todos los estudiantes) y extensiones disciplinarias, y se articula con la taxonomía de Bloom para establecer niveles de progresión (No consciente → Principiante → Intermedio → Experto).\n\n## Contribuciones principales\n\n- Propone una definición de trabajo sintetizada de AI Literacy que integra las siete dimensiones identificadas en la literatura\n- Delinea AIL frente a conceptos relacionados: Data Literacy, Media Literacy y Computational Literacy, especificando solapamientos y elementos distintivos\n- Introduce el *AI Literacy Heptagon* como instrumento práctico para el desarrollo y análisis curricular\n- Resalta la dimensión Legal y Regulatoria (LRK) como frecuentemente subrepresentada pero crítica ante marcos normativos en evolución (EU AI Act, reglamentos sectoriales)\n- Valida el marco mediante mapeo experto de los curricula de dos programas académicos diferentes\n\n## Metodología\n\nRevisión integrativa de la literatura, con análisis de publicaciones sobre AIL en educación superior entre 2021 y 2024. El análisis abarca definiciones existentes, marcos organizacionales (UNESCO, OECD, EU) y estudios empíricos. La validación del heptágono se realizó mediante mapeo de curricula por expertos en dos programas académicos, con el objetivo de demostrar la utilidad instrumental del framework —no de validar empíricamente competencias estudiantiles.\n\n## Hallazgos clave\n\n- Las siete dimensiones cubren un espectro más amplio que los marcos existentes: los frameworks actuales enfatizan lo técnico, lo crítico y lo ético, pero suelen ignorar lo legal/regulatorio y lo integracional\n- La dimensión LRK exige formar para un \"objetivo en movimiento\": los marcos legales de IA están en construcción activa y los curricula deben preparar para la incertidumbre regulatoria\n- El modelo de Bloom permite distinguir un piso mínimo común (nivel Principiante en todas las dimensiones) de especializaciones disciplinarias, facilitando adaptaciones en distintos campos\n- El mapeo curricular reveló que los programas tienden a cubrir dimensiones éticas y de impacto social, mientras dejan brechas en competencias integracionistas y legales\n\n## Limitaciones\n\n- El estudio se enfoca en educación superior; la transferibilidad al contexto laboral requiere investigación adicional\n- La validación mediante mapeo curricular por expertos es subjetiva y no mide competencias estudiantiles reales\n- No se utilizó metodología Delphi para validación de consenso; los autores reconocen esto como dirección futura\n- El análisis bibliográfico cubre 2021–2024, período de cambio acelerado en el campo\n\n## Notas relacionadas\n\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/interdisciplinariedad]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]"
+    },
+    {
+      "id": "notes/papers/2026-01-12_pd-docentes-ia-k12",
+      "kind": "paper",
+      "label": "Artificial Intelligence in K-12 Education: A Systematic Review of Teachers' Professional Development Needs for AI Integration",
+      "authors": [
+        "Spyridon Aravantinos",
+        "Konstantinos Lavidas",
+        "Vassilis Komis",
+        "Thanassis Karalis",
+        "Stamatios Papadakis"
+      ],
+      "year": "2026",
+      "venue": "Computers",
+      "url": "https://doi.org/10.3390/computers15010049",
+      "doi": "10.3390/computers15010049",
+      "keywords": [
+        "alfabetizacion-en-ia",
+        "inteligencia-artificial",
+        "formacion-docente",
+        "educacion-k12",
+        "revision-sistematica-de-literatura",
+        "etica-de-la-ia",
+        "personalizacion-del-aprendizaje"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2026-01-12_pd-docentes-ia-k12.md",
+      "content": "## Resumen\n\nEsta revisión sistemática sintetiza 43 estudios empíricos (indexados en Scopus y Web of Science) siguiendo las directrices PRISMA para examinar las necesidades de formación y desarrollo profesional (PD) de docentes de educación primaria y secundaria (K-12) para la integración efectiva de la IA. El foco en K-12 responde a las características específicas de este nivel, donde el aprendizaje es estructurado y el uso de IA es predominantemente mediado por el docente. La motivación es la proliferación de programas de formación técnica sin orientación pedagógica que no garantizan integración real en el aula.\n\nEl análisis temático identifica seis temas clave: (1) prácticas de formación —incluyendo comunidades de aprendizaje profesional, autoreflexión con IA, aprendizaje basado en casos y diferenciación por nivel y área—; (2) percepciones y actitudes de docentes hacia la IA; (3) programas de desarrollo profesional continuo; (4) apoyo multinivel (institucional, organizativo, entre pares); (5) alfabetización en IA de los docentes; y (6) uso ético y responsable de la IA. Los hallazgos muestran que la formación técnica aislada es insuficiente: la integración exitosa requiere conocimiento pedagógico, actitudes positivas, apoyo organizativo y capacitación continua. El estudio propone un marco orientado a procesos con cuatro niveles que conecta investigación y práctica educativa.\n\n## Contribuciones principales\n- Síntesis de 43 estudios empíricos sobre necesidades de formación docente para IA en K-12\n- Marco de desarrollo profesional orientado a procesos en 4 niveles para integración de IA\n- Identificación de 6 temas de necesidades formativas con códigos empíricos detallados\n- Revisión de revisiones sistemáticas previas sobre IA en educación K-12\n\n## Metodología\n\nRevisión sistemática de literatura siguiendo directrices PRISMA. Búsqueda en Scopus y Web of Science. Selección y análisis de 43 estudios empíricos. Análisis temático de necesidades de formación docente con codificación sistemática de los temas.\n\n## Hallazgos clave\n- Comunidades de práctica y aprendizaje colaborativo son la estrategia de formación más mencionada\n- La autoreflexión asistida por IA (Teacher-AI Collaboration reflection) es prometedora pero requiere datos de alta calidad\n- Los docentes experimentados y novatos tienen necesidades de formación diferenciadas\n- La formación ética y la regulación son necesidades transversales reconocidas en múltiples estudios\n- La integración de IA demanda alineación de competencias técnicas con diseño pedagógico (TPACK, AI-TPACK)\n\n## Limitaciones\n- Los estudios incluidos se limitan a educación primaria y secundaria; no incluye educación superior\n- Posible sesgo de publicación al incluir solo estudios empíricos publicados en inglés\n- El marco propuesto requiere validación empírica adicional\n\n## Notas relacionadas\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/formacion-docente]]\n- [[concepts/educacion-k12]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]"
+    },
+    {
+      "id": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "kind": "paper",
+      "label": "Development and evaluation of artificial intelligence literacy training for teacher education students",
+      "authors": [
+        "Tam Hong Le",
+        "Luna Huynh",
+        "Belle Dang",
+        "Hiep-Hung Pham",
+        "Nga Thi Viet Nguyen",
+        "Andy Nguyen"
+      ],
+      "year": "2026",
+      "venue": "British Journal of Educational Technology",
+      "url": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70047",
+      "doi": "10.1111/bjet.70047",
+      "keywords": [
+        "alfabetizacion-en-ia",
+        "formacion-docente",
+        "inteligencia-artificial",
+        "educacion-superior",
+        "etica-de-la-ia",
+        "aprendizaje-activo",
+        "supervision-humana"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2026-06-25_ia-literacy-formacion-docente.md",
+      "content": "## Resumen\n\nEl estudio aborda una brecha crítica: los programas existentes de alfabetización en IA para docentes se centran casi exclusivamente en aspectos técnicos y herramientas pre-ChatGPT, descuidando dimensiones pedagógicas, éticas, sociocultural y el desarrollo del pensamiento crítico que los futuros educadores necesitan. Los estudiantes de formación docente ocupan una posición doble: son aprendices actuales y futuros mediadores del uso de IA en el aula, lo que exige una preparación específica y estructurada. Adicionalmente, las restricciones curriculares y la baja alfabetización en IA de los propios formadores de docentes limitan la implementación de intervenciones efectivas.\n\nUsando investigación basada en diseño (DBR), el estudio desarrolla y evalúa un conjunto de principios para un taller de competencias en IA generativa (GenAI). El marco integra el Modelo de Competencias en IA de la UNESCO para estudiantes y docentes, el marco TPACK y el modelo HASRL (Human–AI Shared Regulation for Learning). El taller fue primero pilotado con 14 estudiantes de maestría y luego evaluado con 29 estudiantes de formación docente. Los resultados muestran ganancias significativas en autoeficacia en competencias de IA, actitudes hacia GenAI y compromiso crítico, ético y pedagógico con las herramientas.\n\nLos hallazgos destacan que el aprendizaje transformador, activo y experiencial es esencial para preparar a los estudiantes de formación docente en sus roles cambiantes como practicantes reflexivos, co-creadores y aprendices permanentes en un mundo mediado por IA. El paper ofrece principios de diseño concretos para incorporar formación en GenAI dentro de currículos de formación docente, yendo más allá del entrenamiento técnico para fomentar metacognición, habilidades de interacción humano-IA y disposiciones críticas.\n\n## Contribuciones principales\n- Marco de principios de diseño para formación en alfabetización GenAI en programas de formación docente\n- Evidencia empírica de ganancias en autoeficacia, actitudes y compromiso ético tras intervención de taller corto\n- Integración de marcos UNESCO, TPACK y HASRL en una intervención evaluada empíricamente\n\n## Metodología\n\nInvestigación basada en diseño (DBR) con ciclos iterativos. Fase piloto: 14 estudiantes de maestría; fase de evaluación: 29 estudiantes de formación docente. Instrumentos: encuestas de autoeficacia, análisis de artefactos producidos (planificaciones de clase), y reflexiones escritas.\n\n## Hallazgos clave\n- Ganancias significativas en autoeficacia en competencias de IA tras el taller\n- Mejora en actitudes hacia GenAI y en compromiso crítico y pedagógico\n- Los principios de diseño deben incluir aprendizaje activo, reflexión metacognitiva e interacción práctica humano-IA\n- La formación técnica sola es insuficiente; se requiere integrar dimensiones éticas y sociocultural\n\n## Limitaciones\n- Muestra pequeña (14 + 29 participantes) en contexto universitario finlandés\n- Diseño de intervención corta; efectos a largo plazo no medidos\n- Puede no generalizarse a contextos con menor acceso a herramientas GenAI\n\n## Notas relacionadas\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/formacion-docente]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/supervision-humana]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]"
     },
     {
       "id": "notes/articles/2026-02-11_investigacion-impacto-mundo-real",
@@ -822,6 +979,41 @@ window.__ACADEMIC_BRAIN__ = {
   ],
   "links": [
     {
+      "source": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
+      "target": "concepts/humanidades",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
       "target": "concepts/inteligencia-artificial",
       "kind": "keyword"
@@ -865,6 +1057,36 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
       "target": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
       "kind": "related"
+    },
+    {
+      "source": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo",
+      "target": "concepts/liderazgo-educativo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
     },
     {
       "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
@@ -1069,6 +1291,91 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
       "target": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
+      "target": "concepts/formacion-docente",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
+      "target": "concepts/educacion-k12",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
+      "target": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
+      "target": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "target": "concepts/formacion-docente",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "target": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
       "kind": "related"
     },
     {

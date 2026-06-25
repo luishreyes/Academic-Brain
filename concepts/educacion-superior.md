@@ -15,3 +15,6 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]
 - [[notes/papers/2025-05-15_evaluacion-estructural-genai]]
 - [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]
+- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]
+- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]
+- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
