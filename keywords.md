@@ -33,6 +33,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **comunicacion-cientifica** — Práctica de traducir y difundir conocimiento científico a audiencias no especializadas mediante medios de comunicación, resúmenes accesibles y participación pública. _Aliases: divulgación científica, ciencia abierta, public engagement, science communication_
 
+**creatividad** — Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano. _Aliases: creativity, pensamiento creativo, creative thinking, creative problem-solving_
+
 **ciencia-y-sociedad** — Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad. _Aliases: ciencia en contexto, estudios sociales de la ciencia, STS_
 
 ## D
