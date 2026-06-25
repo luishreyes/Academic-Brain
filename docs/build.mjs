@@ -129,12 +129,12 @@ for (const { rel, abs } of listMd("concepts")) {
   conceptByKeyword.set(keyword, node.id);
 }
 
-// Notas (papers y artículos)
-for (const dir of ["notes/papers", "notes/articles"]) {
+// Notas (papers, artículos y libros)
+for (const dir of ["notes/papers", "notes/articles", "notes/books"]) {
   for (const { rel, abs } of listMd(dir)) {
     const { data, body } = parseFrontmatter(readFileSync(abs, "utf8"));
     const id = noteId(rel);
-    const kind = data.type === "paper" ? "paper" : "article";
+    const kind = data.type === "paper" ? "paper" : data.type === "book" ? "book" : "article";
     const authors = data.authors || (data.author ? [data.author] : []);
     addNode({
       id,
@@ -199,6 +199,7 @@ for (const n of nodes) {
 const counts = {
   papers: nodes.filter((n) => n.kind === "paper").length,
   articles: nodes.filter((n) => n.kind === "article").length,
+  books: nodes.filter((n) => n.kind === "book").length,
   concepts: nodes.filter((n) => n.kind === "concept").length,
 };
 
@@ -217,5 +218,5 @@ const out =
 
 writeFileSync(join(DOCS, "graph-data.js"), out);
 console.log(
-  `graph-data.js generado: ${counts.papers} papers, ${counts.articles} artículos, ${counts.concepts} conceptos, ${links.length} aristas.`
+  `graph-data.js generado: ${counts.papers} papers, ${counts.articles} artículos, ${counts.books} libros, ${counts.concepts} conceptos, ${links.length} aristas.`
 );

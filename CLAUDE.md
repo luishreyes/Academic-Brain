@@ -10,6 +10,7 @@ Vault para construir una base de conocimiento académico personal. Conecta paper
 | `sources/pdfs/` | PDFs procesados con nombre canónico — rastreados por git |
 | `notes/papers/` | Notas de papers académicos procesados |
 | `notes/articles/` | Notas de artículos periodísticos procesados |
+| `notes/books/` | Notas de libros procesados |
 | `concepts/` | Una página por keyword/concepto (construye el grafo) |
 | `keywords.md` | Taxonomía canónica de palabras clave — fuente de verdad |
 | `docs/` | Visualizador web del grafo (GitHub Pages) |
@@ -119,6 +120,42 @@ date_added:
 
 ## Contexto
 (por qué importa, qué conecta)
+
+## Notas relacionadas
+(enlaces wiki a páginas de conceptos y otras notas)
+```
+
+### Libros → `notes/books/YYYY-MM-DD_slug-del-titulo.md`
+
+```yaml
+---
+title: 
+authors: []
+year: 
+publisher: 
+url: 
+isbn: 
+pdf_local:          # ruta local al epub/pdf en Obsidian
+type: book
+keywords: []
+date_added: 
+---
+```
+
+```markdown
+# Título del libro
+
+## Resumen
+(3-5 párrafos: tesis central, estructura, argumentos, relevancia)
+
+## Ideas principales por capítulo
+- **Cap. X — "Título":** ...
+
+## Argumentos centrales
+- 
+
+## Limitaciones
+- 
 
 ## Notas relacionadas
 (enlaces wiki a páginas de conceptos y otras notas)

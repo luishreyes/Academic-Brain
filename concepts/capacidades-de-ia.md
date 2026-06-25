@@ -10,3 +10,4 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 
 ## Notas que usan este concepto
 - [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]
+- [[notes/books/2024-04-02_co-intelligence-mollick]]

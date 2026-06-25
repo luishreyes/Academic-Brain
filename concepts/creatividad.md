@@ -11,3 +11,4 @@ Capacidad de generar ideas novedosas, variadas y de alta calidad en la resoluci√
 ## Notas que usan este concepto
 - [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]
 - [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]
+- [[notes/books/2024-04-02_co-intelligence-mollick]]

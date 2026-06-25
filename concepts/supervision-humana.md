@@ -21,3 +21,4 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
 - [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]
 - [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]
+- [[notes/books/2024-04-02_co-intelligence-mollick]]
