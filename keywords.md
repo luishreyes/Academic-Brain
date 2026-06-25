@@ -41,6 +41,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## E
 
+**educacion-en-programacion** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas. _Aliases: CS education, computing education, educación en ciencias de la computación_
+
 **educacion-superior** — Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.
 
 **ensayo-controlado-aleatorio** — Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones. _Aliases: RCT, randomized controlled trial, experimento aleatorizado_
@@ -63,7 +65,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## I
 
-**impacto-de-investigacion** — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
+**impacto-de-investigacion**
+
+**integridad-academica** — Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política. _Aliases: academic integrity, deshonestidad académica, plagiarism, trampa académica_ — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
 
 **inteligencia-artificial** — Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales. _Aliases: IA, AI, machine learning (cuando se usa en sentido amplio)_
 
@@ -94,6 +98,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## Q
 
 ## R
+
+**revision-sistematica-de-literatura** — Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo. _Aliases: systematic literature review, SLR, revisión sistemática, PRISMA_
 
 ## S
 

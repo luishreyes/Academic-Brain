@@ -10,3 +10,4 @@ Disciplina que estudia los procesos cognitivos, motivacionales y sociales que su
 
 ## Notas que usan este concepto
 - [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]
+- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]

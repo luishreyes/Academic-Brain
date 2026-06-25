@@ -10,3 +10,4 @@ Estudio de los principios morales que deben guiar el diseño y comportamiento de
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]
+- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]

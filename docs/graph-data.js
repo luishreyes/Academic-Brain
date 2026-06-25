@@ -2,9 +2,9 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 1,
+    "papers": 2,
     "articles": 4,
-    "concepts": 29
+    "concepts": 32
   },
   "nodes": [
     {
@@ -63,8 +63,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.",
       "path": "concepts/alucinaciones-de-ia.md",
-      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]",
-      "degree": 3
+      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
+      "degree": 4
     },
     {
       "id": "concepts/aprendizaje-activo",
@@ -156,6 +156,21 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 1
     },
     {
+      "id": "concepts/educacion-en-programacion",
+      "kind": "concept",
+      "label": "educacion en programacion",
+      "keyword": "educacion-en-programacion",
+      "aliases": [
+        "CS education",
+        "computing education",
+        "educación en ciencias de la computación"
+      ],
+      "definition": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.",
+      "path": "concepts/educacion-en-programacion.md",
+      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/educacion-superior",
       "kind": "concept",
       "label": "educacion superior",
@@ -166,8 +181,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]",
-      "degree": 3
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
+      "degree": 4
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -213,8 +228,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]",
-      "degree": 1
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
+      "degree": 2
     },
     {
       "id": "concepts/filosofia",
@@ -277,6 +292,22 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 1
     },
     {
+      "id": "concepts/integridad-academica",
+      "kind": "concept",
+      "label": "integridad academica",
+      "keyword": "integridad-academica",
+      "aliases": [
+        "academic integrity",
+        "deshonestidad académica",
+        "plagiarism",
+        "trampa académica"
+      ],
+      "definition": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.",
+      "path": "concepts/integridad-academica.md",
+      "content": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/inteligencia-artificial",
       "kind": "concept",
       "label": "inteligencia artificial",
@@ -288,8 +319,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]",
-      "degree": 4
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
+      "degree": 5
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -345,8 +376,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.",
       "path": "concepts/psicologia-educativa.md",
-      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]",
-      "degree": 1
+      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
+      "degree": 2
     },
     {
       "id": "concepts/publicacion-academica",
@@ -362,6 +393,22 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.",
       "path": "concepts/publicacion-academica.md",
       "content": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/revision-sistematica-de-literatura",
+      "kind": "concept",
+      "label": "revision sistematica de literatura",
+      "keyword": "revision-sistematica-de-literatura",
+      "aliases": [
+        "systematic literature review",
+        "SLR",
+        "revisión sistemática",
+        "PRISMA"
+      ],
+      "definition": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.",
+      "path": "concepts/revision-sistematica-de-literatura.md",
+      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
       "degree": 1
     },
     {
@@ -390,8 +437,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.",
       "path": "concepts/supervision-humana.md",
-      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]",
-      "degree": 3
+      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
+      "degree": 4
     },
     {
       "id": "concepts/tecnocracia",
@@ -467,6 +514,36 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-06-25",
       "path": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct.md",
       "content": "## Resumen\n\nEste paper reporta un ensayo controlado aleatorio de diseño cruzado (*crossover*) realizado en Harvard durante el otoño de 2023 en un curso introductorio de física para ciencias de la vida (Physical Sciences 2, N=194). El estudio compara los resultados de aprendizaje y las percepciones de los estudiantes cuando el mismo contenido se presenta a través de un tutor de IA personalizado versus una clase presencial con metodología de aprendizaje activo de alta calidad. La contribución central es que el tutor de IA fue diseñado siguiendo exactamente las mismas buenas prácticas pedagógicas que informan la clase presencial, controlando la variable del diseño pedagógico para aislar el efecto del medio de instrucción.\n\nLa distinción respecto a estudios anteriores sobre IA en educación es el diseño pedagógico explícito del tutor. En lugar de usar ChatGPT sin guía (que produce resultados mixtos o negativos), los autores construyeron un sistema con prompts de ingeniería detallada para: (i) facilitar aprendizaje activo, (ii) gestionar la carga cognitiva, (iii) promover mentalidad de crecimiento, (iv) andamiar el contenido, (v) garantizar precisión mediante soluciones paso a paso pre-escritas, (vi) dar retroalimentación personalizada y oportuna, y (vii) permitir autopaceo. El sistema fue construido sobre GPT-4 con una plataforma propia (\"PS2 Pal\") que guía al estudiante secuencialmente por cada parte de cada problema. Los resultados muestran que el grupo con IA aprendió significativamente más en menos tiempo que el grupo con aprendizaje activo presencial, con mayor engagement y motivación.\n\n## Contribuciones principales\n\n- Primer RCT en contexto educativo auténtico que compara un tutor de IA pedagogicamente diseñado vs. aprendizaje activo presencial de calidad\n- Marco de 7 principios pedagógicos para diseñar tutores de IA efectivos (aprendizaje activo, carga cognitiva, mentalidad de crecimiento, andamiaje, precisión, retroalimentación oportuna, autopaceo)\n- Evidencia empírica sólida de que la IA bien diseñada supera —no solo iguala— el aprendizaje activo presencial\n- La personalización y el autopaceo como ventajas estructurales del tutor de IA sobre cualquier modalidad grupal\n- Propuesta de modelo híbrido: IA para introducción de material + clase presencial para habilidades de orden superior\n\n## Metodología\n\nDiseño cruzado donde cada estudiante experimenta ambas condiciones. Temas: tensión superficial (semana 1) y flujo de fluidos (semana 2). Pre-test antes de cada condición, post-test después. El tutor de IA se construyó sobre GPT-4 con prompts ricos y soluciones paso a paso pre-escritas para evitar alucinaciones; la plataforma guía al estudiante secuencialmente por cada subproblema. Controles estadísticos via regresión lineal (controlando por: pre-test, examen previo del curso, FCI, experiencia con ChatGPT, tema del contenido, versión del test, tiempo en la tarea, clustering por estudiante) y regresión cuantílica para abordar el efecto techo. Aprobado por IRB de Harvard (no. IRB23-0797). Datos disponibles en GitHub.\n\n## Hallazgos clave\n\n- Mediana post-test: IA = 4.5 vs. aprendizaje activo = 3.5 (línea base pre-test = 2.75)\n- Ganancias de aprendizaje del grupo IA más del **doble** que el grupo presencial (p < 10⁻⁸)\n- Tiempo mediano en tarea con IA: **49 min** vs. 60 min en clase; sin correlación entre tiempo y puntaje post-test (el autopaceo beneficia a todos los niveles)\n- Efecto grande estimado: **0.73 a 1.3 desviaciones estándar** (corregido por efecto techo)\n- Mayor **engagement** (4.1 vs. 3.6, p < 0.0001) y **motivación** (3.4 vs. 3.1, p < 0.001) en grupo IA\n- **83%** de estudiantes calificaron las explicaciones del tutor IA como iguales o mejores que las del instructor humano\n- El efecto se sostiene para estudiantes con FCI < 40% y > 40%, y para actitudes científicas no-expertas y expertas\n\n## Limitaciones\n\n- Aplicado a material introductorio (comprensión, aplicación y análisis en Taxonomía de Bloom) — no probado para síntesis compleja ni pensamiento crítico de orden superior\n- La precisión del tutor dependió de soluciones pre-escritas, no de razonamiento autónomo del LLM\n- Contexto específico: física introductoria en Harvard, instructores con evaluaciones por encima del promedio departamental\n- Aleatoriedad a nivel de grupos de instrucción entre pares (2–3 estudiantes), no individual\n- No mide efectos a largo plazo, retención o impacto sobre habilidades de colaboración\n\n## Notas relacionadas\n\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]] — Nature editorial que argumenta que la IA no puede reemplazar a los humanos; este paper muestra que la IA bien diseñada *sí* puede superar metodologías humanas en un dominio específico — la tensión entre los dos textos es productiva\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]] — ambos cuestionan la relación óptima entre humanos y tecnología; Fan argumenta por el complemento humanístico, este paper por el complemento pedagógico de la IA\n- [[concepts/tutoria-con-ia]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/STEM]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/ensayo-controlado-aleatorio]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/supervision-humana]]"
+    },
+    {
+      "id": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "kind": "paper",
+      "label": "Beyond the Benefits: A Systematic Review of the Harms and Consequences of Generative AI in Computing Education",
+      "authors": [
+        "Seth Bernstein",
+        "Ashfin Rahman",
+        "Nadia Sharifi",
+        "Ariunjargal Terbish",
+        "Stephen MacNeil"
+      ],
+      "year": "2025",
+      "venue": "Koli Calling '25 — 25th International Conference on Computing Education Research",
+      "url": "https://arxiv.org/abs/2510.04443",
+      "doi": "10.1145/3769994.3770036",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-en-programacion",
+        "educacion-superior",
+        "alucinaciones-de-ia",
+        "integridad-academica",
+        "psicologia-educativa",
+        "supervision-humana",
+        "etica-de-la-ia",
+        "revision-sistematica-de-literatura"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2025-10-06_danos-ia-educacion-programacion.md",
+      "content": "## Resumen\n\nEl debate sobre IA generativa en educación ha estado dominado por los beneficios: mejores explicaciones de código, tutores adaptativos, andamiaje personalizado. Este paper hace el contrapeso: una revisión sistemática de literatura (siguiendo PRISMA) sobre los **daños, riesgos y consecuencias no deseadas** de la IA generativa en la educación en ciencias de la computación. El corpus final es de 224 papers seleccionados de un universo inicial de 1.677 (ACM DL, IEEE Xplore, Scopus, 2022–2025), codificados por cuatro investigadores independientes con IRR de 0.84–0.69 (Fleiss' Kappa).\n\nEl resultado principal es una **taxonomía de daños** organizada en seis categorías: (1) *cognitivos* (adquirir conocimiento: alucinaciones y aprendizaje superficial; aplicar conocimiento: declive en resolución de problemas, homogenización de estilos de código); (2) *metacognitivos* (disrupciones en la planificación y monitoreo del propio aprendizaje; sobre-reliance y calibración de confianza); (3) *integridad académica y evaluación* (plagio habilitado por IA, políticas ambiguas, inconsistencia en la aplicación); (4) *equidad* (sesgos del modelo por idioma, raza y género; acceso desigual a herramientas); (5) *sociales* (reducción de colaboración entre pares, aislamiento); e (6) *instruccionales y logísticos* (preocupaciones de privacidad, nuevas cargas sobre el docente).\n\nLos daños cognitivos y metacognitivos dominan la literatura: 189 instancias cognitivas solo en estudiantes de cursos introductorios. Los modelos de chat (ChatGPT, Claude, Gemini) concentran los mayores recuentos: 214 instancias de integridad académica, 323 cognitivas, 266 metacognitivas. Los hallazgos más preocupantes incluyen la \"ilusión de competencia\" —los estudiantes se sienten productivos y no perciben que no han aprendido—, la homogenización del estilo de código (del 12% al 30% de submissions atípicas entre 2022 y 2023), y la tendencia de los estudiantes de menor desempeño a usar IA sin ganar aprendizaje real. En contraste, los daños sociales (reducción de interacción con pares, aislamiento) y los de equidad siguen siendo las categorías menos investigadas.\n\nEl paper identifica un **sesgo de positividad** en la literatura: los estudios con intervención de instructores reportan efectos negativos en solo el 7% de los casos (Prather et al.), mientras que esta revisión más amplia encuentra un 16.3% de papers que discuten daños. Esto puede reflejar que los investigadores tienden a publicar más los resultados favorables de sus propias intervenciones.\n\n## Contribuciones principales\n\n- Taxonomía de daños de la IA generativa específica para educación en computación (la primera de este alcance)\n- Síntesis empírica de cómo y dónde aparecen los daños según tipo de herramienta, método de investigación y población estudiantil\n- Identificación de brechas metodológicas y daños sub-estudiados (sociales, equidad, impacto en carreras)\n\n## Metodología\n\nRevisión sistemática de literatura (SLR) siguiendo PRISMA. Búsqueda en ACM DL, IEEE Xplore y Scopus con términos de dominio (\"computing education\", \"CS1\", etc.) cruzados con términos de herramienta (\"LLM\", \"ChatGPT\", \"generative AI\", etc.). Criterios de inclusión: educación superior, discusión o demostración de daños de IA. Cuatro codificadores independientes extrajeron: año, población, método, tipo de herramienta, tarea educativa y categorías de daño. Niveles de evidencia: hipotético, observacional, empírico.\n\n## Hallazgos clave\n\n- La sobre-reliance es el daño más documentado: en sesiones cortas (0–5 prompts), el 81% de los prompts eran solicitudes directas de solución\n- Estudiantes de menor proficiencia usaron IA en 67% de sus entregas (principalmente para generación y debugging) pero no superaron en desempeño a quienes programaron manualmente\n- En grupos donde TAs verificaban los outputs de ChatGPT, el grupo asistido superó en 16.5 puntos al control; sin verificación, los resultados eran inconsistentes\n- La IA tiende a beneficiar más a estudiantes ya bien preparados, amplificando la brecha preexistente (\"AI divide\")\n- Los daños sociales (estudiantes que prefieren preguntar a ChatGPT antes que a sus profesores por miedo al juicio) están emergiendo pero son poco estudiados sistemáticamente\n\n## Limitaciones\n\n- La revisión cubre solo hasta julio 2025; subreprenta conferencias con proceedings tardíos (ICER, ITiCSE 2025)\n- Foco exclusivo en educación superior; no cubre K-12\n- Solo inglés; posible sesgo de publicación hacia resultados anglófonos\n- Muchos daños aún son hipotéticos o de evidencia débil; la literatura empírica rigurosa (RCTs) es escasa\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-programacion]]\n- [[concepts/educacion-superior]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/supervision-humana]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]"
     },
     {
       "id": "notes/articles/2026-02-11_investigacion-impacto-mundo-real",
@@ -632,6 +709,56 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
       "target": "notes/articles/2026-06-25_ciencia-necesita-humanidades",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "target": "concepts/educacion-en-programacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "target": "concepts/psicologia-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "target": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
       "kind": "related"
     },
     {
