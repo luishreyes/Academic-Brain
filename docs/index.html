@@ -158,6 +158,30 @@
   }
   .ext:hover { background: var(--panel-2); }
   .empty { color: var(--muted); font-size: 12.5px; }
+
+  /* ---- Contenido de la nota renderizado (markdown) ---- */
+  .md { font-size: 13px; line-height: 1.62; color: var(--text); }
+  .md > :first-child { margin-top: 0; }
+  .md h1, .md h2, .md h3, .md h4 {
+    text-transform: none; letter-spacing: 0; font-weight: 600;
+  }
+  .md h1 { font-size: 15px; margin: 16px 0 8px; color: var(--text); }
+  .md h2 { font-size: 13px; margin: 17px 0 7px; color: var(--accent); }
+  .md h3 { font-size: 12.5px; margin: 14px 0 6px; color: var(--muted); }
+  .md h4 { font-size: 12px; margin: 12px 0 5px; color: var(--muted); }
+  .md p { margin: 0 0 10px; }
+  .md ul { margin: 0 0 11px; padding-left: 18px; }
+  .md li { margin: 0 0 5px; }
+  .md strong { color: #fff; }
+  .md em { color: var(--text); }
+  .md code {
+    background: var(--panel-2); padding: 1px 5px; border-radius: 5px;
+    font-size: 12px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+  .md a { color: var(--accent); text-decoration: none; }
+  .md a:hover { text-decoration: underline; }
+  .md a.wiki.live { cursor: pointer; border-bottom: 1px dashed rgba(167,139,250,.55); }
+  .md a.wiki.dead { color: var(--muted); cursor: default; border-bottom: 1px dotted var(--line); }
 </style>
 </head>
 <body>
@@ -539,9 +563,7 @@ function select(id) {
       kwWrap.appendChild(chip);
     });
     body.appendChild(section("Keywords", kwWrap));
-    const related = links.filter((l) => l.kind === "related" && (l.source.id === id || l.target.id === id))
-      .map((l) => (l.source.id === id ? l.target : l.source));
-    if (related.length) body.appendChild(section("Notas relacionadas", refList(related)));
+    if (n.content) body.appendChild(section("Contenido", mdEl(n.content)));
   }
 }
 
@@ -551,6 +573,72 @@ function section(title, contentEl) {
   s.appendChild(h); s.appendChild(contentEl); return s;
 }
 function defEl(text) { const d = document.createElement("div"); d.className = "def"; d.textContent = text; return d; }
+
+// ---- Renderizador mínimo de Markdown (sin dependencias) ----
+function escapeHtml(s) {
+  return s.replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+}
+function renderInline(text) {
+  let s = escapeHtml(text);
+  // Wiki-links [[ruta]] o [[ruta|etiqueta]] → enlaces internos (se cablean después)
+  s = s.replace(/\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]+))?\]\]/g, (m, path, label) => {
+    const id = path.trim().replace(/\.md$/, "");
+    const txt = (label || id.split("/").pop()).trim();
+    return `<a class="wiki" data-id="${id}">${txt}</a>`;
+  });
+  // Enlaces markdown [texto](url)
+  s = s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+  s = s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  s = s.replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, "$1<em>$2</em>");
+  s = s.replace(/(^|[^\w])_([^_\n]+)_(?!\w)/g, "$1<em>$2</em>");
+  s = s.replace(/`([^`]+)`/g, "<code>$1</code>");
+  return s;
+}
+function renderMarkdown(md) {
+  const lines = (md || "").split("\n");
+  let html = "", i = 0;
+  while (i < lines.length) {
+    const line = lines[i];
+    if (/^\s*$/.test(line)) { i++; continue; }
+    let m;
+    if ((m = line.match(/^(#{1,6})\s+(.*)$/))) {
+      const lvl = Math.min(m[1].length, 4);
+      html += `<h${lvl}>${renderInline(m[2])}</h${lvl}>`;
+      i++;
+    } else if (/^\s*[-*]\s+/.test(line)) {
+      html += "<ul>";
+      while (i < lines.length && /^\s*[-*]\s+/.test(lines[i])) {
+        html += "<li>" + renderInline(lines[i].replace(/^\s*[-*]\s+/, "")) + "</li>";
+        i++;
+      }
+      html += "</ul>";
+    } else {
+      const buf = [];
+      while (i < lines.length && !/^\s*$/.test(lines[i]) &&
+             !/^#{1,6}\s/.test(lines[i]) && !/^\s*[-*]\s+/.test(lines[i])) {
+        buf.push(lines[i]); i++;
+      }
+      html += "<p>" + renderInline(buf.join(" ")) + "</p>";
+    }
+  }
+  return html;
+}
+function mdEl(content) {
+  const d = document.createElement("div");
+  d.className = "md";
+  d.innerHTML = renderMarkdown(content);
+  d.querySelectorAll("a.wiki").forEach((a) => {
+    const t = idMap.get(a.dataset.id);
+    if (t) {
+      a.classList.add("live");
+      a.textContent = t.label;            // muestra el título legible del nodo
+      a.addEventListener("click", (e) => { e.preventDefault(); select(t.id); });
+    } else {
+      a.classList.add("dead");
+    }
+  });
+  return d;
+}
 function extLink(label, href) {
   const a = document.createElement("a"); a.className = "ext"; a.href = href;
   a.target = "_blank"; a.rel = "noopener"; a.textContent = label; return a;
