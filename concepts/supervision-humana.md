@@ -16,3 +16,6 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/papers/2024-08-13_widening-gap-ia-novatos]]
 - [[notes/papers/2025-05-15_evaluacion-estructural-genai]]
 - [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]
+- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]
+- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]
+- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]

@@ -11,3 +11,5 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 ## Notas que usan este concepto
 - [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]
 - [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]
+- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
+- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]
