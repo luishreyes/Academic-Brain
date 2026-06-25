@@ -11,3 +11,4 @@ Alcance y efecto real de los hallazgos científicos más allá de las publicacio
 ## Notas que usan este concepto
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
 - [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]
+- [[notes/books/2024-01-01_blind-spots-makary]]

@@ -10,3 +10,5 @@ Práctica de traducir y difundir conocimiento científico a audiencias no especi
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
+- [[notes/books/2024-01-01_blind-spots-makary]]
+- [[notes/books/2017-04-04_pandoras-lab-offit]]

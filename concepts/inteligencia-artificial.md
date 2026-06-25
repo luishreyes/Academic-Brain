@@ -29,3 +29,4 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]
 - [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]
 - [[notes/books/2024-04-02_co-intelligence-mollick]]
+- [[notes/books/2022-10-04_chip-war-miller]]

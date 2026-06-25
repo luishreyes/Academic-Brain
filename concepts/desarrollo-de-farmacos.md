@@ -10,3 +10,4 @@ Proceso de identificación, validación y prueba de compuestos para tratar enfer
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]
+- [[notes/books/2017-04-04_pandoras-lab-offit]]
