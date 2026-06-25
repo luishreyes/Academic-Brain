@@ -84,6 +84,17 @@
   .concept-item .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--concept); flex: none; }
   .concept-item .deg { margin-left: auto; font-size: 11px; color: var(--muted); }
   .hint { font-size: 11.5px; color: var(--muted); line-height: 1.5; }
+  .physics-row { display: flex; align-items: center; gap: 8px; padding: 4px 0; font-size: 12px; }
+  .physics-row label { flex: 0 0 120px; color: var(--muted); }
+  .physics-row input[type=range] {
+    flex: 1; -webkit-appearance: none; appearance: none;
+    height: 4px; border-radius: 2px; background: var(--line); outline: none; cursor: pointer;
+  }
+  .physics-row input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none; width: 14px; height: 14px; border-radius: 50%;
+    background: var(--accent); cursor: pointer;
+  }
+  .physics-row span { font-size: 11px; color: var(--muted); width: 34px; text-align: right; flex: none; }
 
   /* ---- Graph ---- */
   #stage { position: relative; }
@@ -223,6 +234,29 @@
         <div class="concept-list" id="concept-list"></div>
       </div>
       <div class="section">
+        <h2>Física del grafo</h2>
+        <div class="physics-row">
+          <label>Repulsión</label>
+          <input type="range" id="sl-repulsion" min="500" max="12000" step="100" value="3200" />
+          <span id="lbl-repulsion">3200</span>
+        </div>
+        <div class="physics-row">
+          <label>Atracción</label>
+          <input type="range" id="sl-attraction" min="1" max="50" step="1" value="12" />
+          <span id="lbl-attraction">0.12</span>
+        </div>
+        <div class="physics-row">
+          <label>Dist. enlaces</label>
+          <input type="range" id="sl-linkdist" min="20" max="200" step="5" value="70" />
+          <span id="lbl-linkdist">70</span>
+        </div>
+        <div class="physics-row">
+          <label>Amortiguación</label>
+          <input type="range" id="sl-damping" min="50" max="99" step="1" value="86" />
+          <span id="lbl-damping">0.86</span>
+        </div>
+      </div>
+      <div class="section">
         <h2>Cómo usar</h2>
         <p class="hint">
           Arrastra los nodos para reorganizar. Rueda para zoom, arrastra el fondo para mover.
@@ -349,6 +383,10 @@ function labelFor(n) {
 let alpha = 1;
 let alphaTarget = 0;
 const ALPHA_DECAY = 0.022;
+let simRepulsion = 3200;
+let simAttraction = 0.12;
+let simLinkDist = 70;
+let simDamping = 0.86;
 function reheat(t) { alphaTarget = t; if (alpha < t) alpha = t; }
 function tick() {
   const active = nodes.filter((n) => visibleKinds[n.kind]);
@@ -360,7 +398,7 @@ function tick() {
       const b = active[j];
       let dx = a.x - b.x, dy = a.y - b.y;
       let d2 = dx * dx + dy * dy || 0.01;
-      const f = (3200 * alpha) / d2;
+      const f = (simRepulsion * alpha) / d2;
       const d = Math.sqrt(d2);
       const fx = (dx / d) * f, fy = (dy / d) * f;
       a.vx += fx; a.vy += fy; b.vx -= fx; b.vy -= fy;
@@ -372,8 +410,8 @@ function tick() {
     if (l.kind === "related" && !showRelated) continue;
     let dx = l.target.x - l.source.x, dy = l.target.y - l.source.y;
     const d = Math.sqrt(dx * dx + dy * dy) || 0.01;
-    const ideal = l.kind === "related" ? 150 : 70;
-    const f = ((d - ideal) / d) * 0.12 * alpha;
+    const ideal = l.kind === "related" ? simLinkDist * 2 : simLinkDist;
+    const f = ((d - ideal) / d) * simAttraction * alpha;
     const fx = dx * f, fy = dy * f;
     l.source.vx += fx; l.source.vy += fy;
     l.target.vx -= fx; l.target.vy -= fy;
@@ -383,7 +421,7 @@ function tick() {
     if (n === dragNode) continue;
     n.vx += (cx - n.x) * 0.0015 * alpha;
     n.vy += (cy - n.y) * 0.0015 * alpha;
-    n.vx *= 0.86; n.vy *= 0.86;
+    n.vx *= simDamping; n.vy *= simDamping;
     n.x += n.vx; n.y += n.vy;
   }
   alpha += (alphaTarget - alpha) * ALPHA_DECAY;
@@ -515,6 +553,30 @@ const relToggle = document.querySelector(".toggle[data-edge=related]");
 relToggle.querySelector("input").addEventListener("change", (e) => {
   showRelated = e.target.checked; relToggle.classList.toggle("off", !showRelated);
 });
+
+// ===================== Sliders de física =====================
+function wireSlider(id, lblId, parse, apply) {
+  const sl = document.getElementById(id);
+  const lbl = document.getElementById(lblId);
+  sl.addEventListener("input", () => {
+    const v = parse(sl.value);
+    lbl.textContent = v;
+    apply(v);
+    reheat(0.5);
+  });
+}
+wireSlider("sl-repulsion", "lbl-repulsion",
+  v => parseInt(v),
+  v => { simRepulsion = v; });
+wireSlider("sl-attraction", "lbl-attraction",
+  v => (parseInt(v) / 100).toFixed(2),
+  v => { simAttraction = parseFloat(v); });
+wireSlider("sl-linkdist", "lbl-linkdist",
+  v => parseInt(v),
+  v => { simLinkDist = v; });
+wireSlider("sl-damping", "lbl-damping",
+  v => (parseInt(v) / 100).toFixed(2),
+  v => { simDamping = parseFloat(v); });
 
 // ===================== Detalle =====================
 const detail = document.getElementById("detail");
