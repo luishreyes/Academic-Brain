@@ -13,3 +13,4 @@ Estudio de los principios morales que deben guiar el diseño y comportamiento de
 - [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]
 - [[notes/papers/2025-05-15_evaluacion-estructural-genai]]
 - [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]
+- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]

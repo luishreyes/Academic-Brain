@@ -2,9 +2,9 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 4,
+    "papers": 5,
     "articles": 5,
-    "concepts": 35
+    "concepts": 36
   },
   "nodes": [
     {
@@ -34,6 +34,22 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).",
       "path": "concepts/agentes-de-ia.md",
       "content": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/alfabetizacion-en-ia",
+      "kind": "concept",
+      "label": "alfabetizacion en ia",
+      "keyword": "alfabetizacion-en-ia",
+      "aliases": [
+        "AI literacy",
+        "AI competency",
+        "competencias en IA",
+        "literacia en IA"
+      ],
+      "definition": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.",
+      "path": "concepts/alfabetizacion-en-ia.md",
+      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
       "degree": 1
     },
     {
@@ -181,8 +197,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
-      "degree": 5
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
+      "degree": 6
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -243,8 +259,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
-      "degree": 4
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
+      "degree": 5
     },
     {
       "id": "concepts/evaluacion-educativa",
@@ -259,8 +275,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.",
       "path": "concepts/evaluacion-educativa.md",
-      "content": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
-      "degree": 1
+      "content": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
+      "degree": 2
     },
     {
       "id": "concepts/filosofia",
@@ -350,8 +366,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
-      "degree": 8
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
+      "degree": 9
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -364,8 +380,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.",
       "path": "concepts/interdisciplinariedad.md",
-      "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]",
-      "degree": 3
+      "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
+      "degree": 4
     },
     {
       "id": "concepts/modernizacion",
@@ -439,8 +455,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.",
       "path": "concepts/regulacion-de-ia.md",
-      "content": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
-      "degree": 1
+      "content": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
+      "degree": 2
     },
     {
       "id": "concepts/revision-sistematica-de-literatura",
@@ -455,8 +471,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.",
       "path": "concepts/revision-sistematica-de-literatura.md",
-      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
-      "degree": 1
+      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
+      "degree": 2
     },
     {
       "id": "concepts/seguridad-de-ia",
@@ -648,6 +664,33 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-06-25",
       "path": "notes/papers/2025-10-06_danos-ia-educacion-programacion.md",
       "content": "## Resumen\n\nEl debate sobre IA generativa en educación ha estado dominado por los beneficios: mejores explicaciones de código, tutores adaptativos, andamiaje personalizado. Este paper hace el contrapeso: una revisión sistemática de literatura (siguiendo PRISMA) sobre los **daños, riesgos y consecuencias no deseadas** de la IA generativa en la educación en ciencias de la computación. El corpus final es de 224 papers seleccionados de un universo inicial de 1.677 (ACM DL, IEEE Xplore, Scopus, 2022–2025), codificados por cuatro investigadores independientes con IRR de 0.84–0.69 (Fleiss' Kappa).\n\nEl resultado principal es una **taxonomía de daños** organizada en seis categorías: (1) *cognitivos* (adquirir conocimiento: alucinaciones y aprendizaje superficial; aplicar conocimiento: declive en resolución de problemas, homogenización de estilos de código); (2) *metacognitivos* (disrupciones en la planificación y monitoreo del propio aprendizaje; sobre-reliance y calibración de confianza); (3) *integridad académica y evaluación* (plagio habilitado por IA, políticas ambiguas, inconsistencia en la aplicación); (4) *equidad* (sesgos del modelo por idioma, raza y género; acceso desigual a herramientas); (5) *sociales* (reducción de colaboración entre pares, aislamiento); e (6) *instruccionales y logísticos* (preocupaciones de privacidad, nuevas cargas sobre el docente).\n\nLos daños cognitivos y metacognitivos dominan la literatura: 189 instancias cognitivas solo en estudiantes de cursos introductorios. Los modelos de chat (ChatGPT, Claude, Gemini) concentran los mayores recuentos: 214 instancias de integridad académica, 323 cognitivas, 266 metacognitivas. Los hallazgos más preocupantes incluyen la \"ilusión de competencia\" —los estudiantes se sienten productivos y no perciben que no han aprendido—, la homogenización del estilo de código (del 12% al 30% de submissions atípicas entre 2022 y 2023), y la tendencia de los estudiantes de menor desempeño a usar IA sin ganar aprendizaje real. En contraste, los daños sociales (reducción de interacción con pares, aislamiento) y los de equidad siguen siendo las categorías menos investigadas.\n\nEl paper identifica un **sesgo de positividad** en la literatura: los estudios con intervención de instructores reportan efectos negativos en solo el 7% de los casos (Prather et al.), mientras que esta revisión más amplia encuentra un 16.3% de papers que discuten daños. Esto puede reflejar que los investigadores tienden a publicar más los resultados favorables de sus propias intervenciones.\n\n## Contribuciones principales\n\n- Taxonomía de daños de la IA generativa específica para educación en computación (la primera de este alcance)\n- Síntesis empírica de cómo y dónde aparecen los daños según tipo de herramienta, método de investigación y población estudiantil\n- Identificación de brechas metodológicas y daños sub-estudiados (sociales, equidad, impacto en carreras)\n\n## Metodología\n\nRevisión sistemática de literatura (SLR) siguiendo PRISMA. Búsqueda en ACM DL, IEEE Xplore y Scopus con términos de dominio (\"computing education\", \"CS1\", etc.) cruzados con términos de herramienta (\"LLM\", \"ChatGPT\", \"generative AI\", etc.). Criterios de inclusión: educación superior, discusión o demostración de daños de IA. Cuatro codificadores independientes extrajeron: año, población, método, tipo de herramienta, tarea educativa y categorías de daño. Niveles de evidencia: hipotético, observacional, empírico.\n\n## Hallazgos clave\n\n- La sobre-reliance es el daño más documentado: en sesiones cortas (0–5 prompts), el 81% de los prompts eran solicitudes directas de solución\n- Estudiantes de menor proficiencia usaron IA en 67% de sus entregas (principalmente para generación y debugging) pero no superaron en desempeño a quienes programaron manualmente\n- En grupos donde TAs verificaban los outputs de ChatGPT, el grupo asistido superó en 16.5 puntos al control; sin verificación, los resultados eran inconsistentes\n- La IA tiende a beneficiar más a estudiantes ya bien preparados, amplificando la brecha preexistente (\"AI divide\")\n- Los daños sociales (estudiantes que prefieren preguntar a ChatGPT antes que a sus profesores por miedo al juicio) están emergiendo pero son poco estudiados sistemáticamente\n\n## Limitaciones\n\n- La revisión cubre solo hasta julio 2025; subreprenta conferencias con proceedings tardíos (ICER, ITiCSE 2025)\n- Foco exclusivo en educación superior; no cubre K-12\n- Solo inglés; posible sesgo de publicación hacia resultados anglófonos\n- Muchos daños aún son hipotéticos o de evidencia débil; la literatura empírica rigurosa (RCTs) es escasa\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-programacion]]\n- [[concepts/educacion-superior]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/supervision-humana]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]"
+    },
+    {
+      "id": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "kind": "paper",
+      "label": "The AI literacy heptagon: A structured approach to AI literacy in higher education",
+      "authors": [
+        "Veronika Hackl",
+        "Alexandra Elena Müller",
+        "Maximilian Sailer"
+      ],
+      "year": "2026",
+      "venue": "Computers and Education: Artificial Intelligence",
+      "url": "https://doi.org/10.1016/j.caeai.2026.100540",
+      "doi": "10.1016/j.caeai.2026.100540",
+      "keywords": [
+        "alfabetizacion-en-ia",
+        "inteligencia-artificial",
+        "educacion-superior",
+        "etica-de-la-ia",
+        "regulacion-de-ia",
+        "revision-sistematica-de-literatura",
+        "evaluacion-educativa",
+        "interdisciplinariedad"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia.md",
+      "content": "## Resumen\n\nEste paper propone el *AI Literacy Heptagon*, un marco conceptual de siete dimensiones para operacionalizar la alfabetización en inteligencia artificial (AIL) en la educación superior. El punto de partida es un diagnóstico crítico: aunque existe consenso político y académico sobre la importancia de la AIL (incluso el EU AI Act la exige explícitamente), su integración curricular sigue siendo fragmentada y limitada —solo el 31,6% de los estudiantes en Alemania reportan que su programa la aborda explícitamente. La causa central identificada es la ambigüedad conceptual: sin una definición operacional clara, las instituciones no saben qué implementar.\n\nMediante una revisión integrativa de la literatura (2021–2024), los autores identifican siete dimensiones centrales de la AIL: (1) comprensión técnica, (2) competencia aplicacional, (3) pensamiento crítico y evaluación, (4) conciencia ética y razonamiento, (5) comprensión del impacto social, (6) competencia integracional y (7) conocimiento legal y regulatorio. Estas dimensiones se sintetizan en un marco heptagonal que distingue entre AIL genérica (básica para todos los estudiantes) y extensiones disciplinarias, y se articula con la taxonomía de Bloom para establecer niveles de progresión (No consciente → Principiante → Intermedio → Experto).\n\n## Contribuciones principales\n\n- Propone una definición de trabajo sintetizada de AI Literacy que integra las siete dimensiones identificadas en la literatura\n- Delinea AIL frente a conceptos relacionados: Data Literacy, Media Literacy y Computational Literacy, especificando solapamientos y elementos distintivos\n- Introduce el *AI Literacy Heptagon* como instrumento práctico para el desarrollo y análisis curricular\n- Resalta la dimensión Legal y Regulatoria (LRK) como frecuentemente subrepresentada pero crítica ante marcos normativos en evolución (EU AI Act, reglamentos sectoriales)\n- Valida el marco mediante mapeo experto de los curricula de dos programas académicos diferentes\n\n## Metodología\n\nRevisión integrativa de la literatura, con análisis de publicaciones sobre AIL en educación superior entre 2021 y 2024. El análisis abarca definiciones existentes, marcos organizacionales (UNESCO, OECD, EU) y estudios empíricos. La validación del heptágono se realizó mediante mapeo de curricula por expertos en dos programas académicos, con el objetivo de demostrar la utilidad instrumental del framework —no de validar empíricamente competencias estudiantiles.\n\n## Hallazgos clave\n\n- Las siete dimensiones cubren un espectro más amplio que los marcos existentes: los frameworks actuales enfatizan lo técnico, lo crítico y lo ético, pero suelen ignorar lo legal/regulatorio y lo integracional\n- La dimensión LRK exige formar para un \"objetivo en movimiento\": los marcos legales de IA están en construcción activa y los curricula deben preparar para la incertidumbre regulatoria\n- El modelo de Bloom permite distinguir un piso mínimo común (nivel Principiante en todas las dimensiones) de especializaciones disciplinarias, facilitando adaptaciones en distintos campos\n- El mapeo curricular reveló que los programas tienden a cubrir dimensiones éticas y de impacto social, mientras dejan brechas en competencias integracionistas y legales\n\n## Limitaciones\n\n- El estudio se enfoca en educación superior; la transferibilidad al contexto laboral requiere investigación adicional\n- La validación mediante mapeo curricular por expertos es subjetiva y no mide competencias estudiantiles reales\n- No se utilizó metodología Delphi para validación de consenso; los autores reconocen esto como dirección futura\n- El análisis bibliográfico cubre 2021–2024, período de cambio acelerado en el campo\n\n## Notas relacionadas\n\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/interdisciplinariedad]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]"
     },
     {
       "id": "notes/articles/2026-02-11_investigacion-impacto-mundo-real",
@@ -971,6 +1014,61 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
       "target": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "concepts/regulacion-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "concepts/interdisciplinariedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "notes/papers/2025-05-15_evaluacion-estructural-genai",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
+      "target": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
       "kind": "related"
     },
     {
