@@ -17,6 +17,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **agentes-de-ia** — Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows). _Aliases: AI agents, sistemas multi-agente, AI scientist_
 
+**alfabetizacion-en-ia** — Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación. _Aliases: AI literacy, AI competency, competencias en IA, literacia en IA_
+
 **alineamiento-de-ia** — Conjunto de técnicas y objetivos orientados a que los sistemas de IA persigan los valores, intenciones y normas previstos por sus diseñadores; incluye enfoques como el constitucionalismo de IA (reglas y principios incrustados en el modelo). _Aliases: AI alignment, alineación de IA, IA constitucional, constitutional AI_
 
 **alucinaciones-de-ia** — Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas. _Aliases: AI hallucinations, fabricación de datos por IA_
