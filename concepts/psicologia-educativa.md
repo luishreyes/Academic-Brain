@@ -12,3 +12,4 @@ Disciplina que estudia los procesos cognitivos, motivacionales y sociales que su
 - [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]
 - [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]
 - [[notes/papers/2024-08-13_widening-gap-ia-novatos]]
+- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]

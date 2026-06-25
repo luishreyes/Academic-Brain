@@ -103,6 +103,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## R
 
+**regulacion-de-ia** — Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA. _Aliases: AI regulation, gobernanza de IA, AI policy, AI governance_
+
 **revision-sistematica-de-literatura** — Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo. _Aliases: systematic literature review, SLR, revisión sistemática, PRISMA_
 
 ## S
