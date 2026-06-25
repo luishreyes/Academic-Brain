@@ -319,7 +319,13 @@ function labelFor(n) {
 }
 
 // ===================== Simulación de fuerzas =====================
+// alpha = "energía" del sistema. En reposo tiende a alphaTarget (0 → quieto).
+// Agarrar/mover un nodo sube alphaTarget y recalienta los resortes, igual
+// que en Obsidian: todo el grafo reacciona mientras arrastras.
 let alpha = 1;
+let alphaTarget = 0;
+const ALPHA_DECAY = 0.022;
+function reheat(t) { alphaTarget = t; if (alpha < t) alpha = t; }
 function tick() {
   const active = nodes.filter((n) => visibleKinds[n.kind]);
   const cx = W / 2, cy = H / 2;
@@ -343,7 +349,7 @@ function tick() {
     let dx = l.target.x - l.source.x, dy = l.target.y - l.source.y;
     const d = Math.sqrt(dx * dx + dy * dy) || 0.01;
     const ideal = l.kind === "related" ? 150 : 70;
-    const f = ((d - ideal) / d) * 0.06 * alpha;
+    const f = ((d - ideal) / d) * 0.12 * alpha;
     const fx = dx * f, fy = dy * f;
     l.source.vx += fx; l.source.vy += fy;
     l.target.vx -= fx; l.target.vy -= fy;
@@ -356,7 +362,8 @@ function tick() {
     n.vx *= 0.86; n.vy *= 0.86;
     n.x += n.vx; n.y += n.vy;
   }
-  if (alpha > 0.03) alpha *= 0.992;
+  alpha += (alphaTarget - alpha) * ALPHA_DECAY;
+  if (alpha < 0.001) alpha = 0;
   draw();
   requestAnimationFrame(tick);
 }
@@ -408,7 +415,7 @@ svg.addEventListener("click", (e) => { if (!e.target.closest(".node")) select(nu
 let dragNode = null, dragMoved = false;
 function startDragNode(e, n) {
   e.stopPropagation();
-  dragNode = n; dragMoved = false; alpha = Math.max(alpha, 0.4);
+  dragNode = n; dragMoved = false; reheat(0.5);
 }
 window.addEventListener("mousemove", (e) => {
   if (!dragNode) return;
@@ -417,7 +424,7 @@ window.addEventListener("mousemove", (e) => {
   dragNode.y = (e.clientY - r.top - view.y) / view.k;
   dragNode.vx = 0; dragNode.vy = 0; dragMoved = true;
 });
-window.addEventListener("mouseup", () => { dragNode = null; });
+window.addEventListener("mouseup", () => { if (dragNode) { dragNode = null; alphaTarget = 0; } });
 
 document.getElementById("zoom-in").onclick = () => zoomBy(1.25);
 document.getElementById("zoom-out").onclick = () => zoomBy(1 / 1.25);
@@ -477,7 +484,7 @@ document.querySelectorAll(".toggle[data-kind]").forEach((t) => {
   input.addEventListener("change", () => {
     visibleKinds[kind] = input.checked;
     t.classList.toggle("off", !input.checked);
-    alpha = Math.max(alpha, 0.5);
+    reheat(0.5);
   });
 });
 const relToggle = document.querySelector(".toggle[data-edge=related]");
