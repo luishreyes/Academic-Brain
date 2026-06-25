@@ -10,3 +10,4 @@ Dimensiones normativas y de responsabilidad en la producción y aplicación del 
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]
+- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]

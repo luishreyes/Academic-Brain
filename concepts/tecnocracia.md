@@ -10,3 +10,4 @@ Modelo de gobernanza y organización social en que el conocimiento técnico-cien
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]
+- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]
