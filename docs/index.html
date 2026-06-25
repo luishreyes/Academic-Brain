@@ -639,6 +639,7 @@ function select(id, pushHistory = true) {
     if (n.year) bits.push(n.year);
     if (n.venue) bits.push(n.venue);
     meta.textContent = bits.join(" · ");
+    if (n.pdf_local) linksRow.appendChild(extLink("Ver PDF ↗", CONFIG.repoBlobBase + n.pdf_local));
     if (n.url) linksRow.appendChild(extLink("Ver fuente ↗", n.url));
     if (n.path) linksRow.appendChild(extLink("Ver nota (.md)", CONFIG.repoBlobBase + n.path));
     // keywords como chips
