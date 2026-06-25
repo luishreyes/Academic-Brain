@@ -2,7 +2,7 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 11,
+    "papers": 12,
     "articles": 5,
     "concepts": 40
   },
@@ -18,8 +18,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.",
       "path": "concepts/STEM.md",
-      "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
-      "degree": 4
+      "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
+      "degree": 5
     },
     {
       "id": "concepts/agentes-de-ia",
@@ -123,8 +123,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.",
       "path": "concepts/ciencia-y-sociedad.md",
-      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]",
-      "degree": 4
+      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
+      "degree": 5
     },
     {
       "id": "concepts/comunicacion-cientifica",
@@ -231,8 +231,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
-      "degree": 11
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
+      "degree": 12
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -356,8 +356,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "path": "concepts/futuro-del-trabajo.md",
-      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]",
-      "degree": 3
+      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
+      "degree": 4
     },
     {
       "id": "concepts/humanidades",
@@ -370,8 +370,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos.",
       "path": "concepts/humanidades.md",
-      "content": "Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]",
-      "degree": 3
+      "content": "Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
+      "degree": 4
     },
     {
       "id": "concepts/impacto-de-investigacion",
@@ -385,8 +385,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades.",
       "path": "concepts/impacto-de-investigacion.md",
-      "content": "Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]",
-      "degree": 1
+      "content": "Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
+      "degree": 2
     },
     {
       "id": "concepts/integridad-academica",
@@ -430,8 +430,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.",
       "path": "concepts/interdisciplinariedad.md",
-      "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
-      "degree": 4
+      "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
+      "degree": 5
     },
     {
       "id": "concepts/liderazgo-educativo",
@@ -612,6 +612,34 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/universidades-chinas.md",
       "content": "Sistema universitario de China, su historia, transformaciones desde 1949, políticas educativas y dinámicas actuales de internacionalización e inversión en STEM.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]",
       "degree": 1
+    },
+    {
+      "id": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
+      "kind": "paper",
+      "label": "Shaping futures: A dialogue on chemical engineering education",
+      "authors": [
+        "Pranav Chintalapati",
+        "Greg Evans",
+        "Derek Gladwin",
+        "Marnie Jamieson",
+        "Naoko Ellis"
+      ],
+      "year": "2024",
+      "venue": "Canadian Journal of Chemical Engineering",
+      "url": "https://doi.org/10.1002/cjce.25205",
+      "doi": "10.1002/cjce.25205",
+      "keywords": [
+        "educacion-superior",
+        "STEM",
+        "interdisciplinariedad",
+        "ciencia-y-sociedad",
+        "futuro-del-trabajo",
+        "humanidades",
+        "impacto-de-investigacion"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica.md",
+      "content": "## Resumen\n\nEste paper adopta la forma poco convencional de un diálogo entre cinco académicos de distintas disciplinas —ingeniería química, estudios de energía, humanidades ambientales y educación en ingeniería— para explorar los desafíos y oportunidades que enfrenta la formación de ingenieros químicos en un contexto de transición energética y complejidad sistémica. El formato dialógico no es un recurso retórico sino una apuesta metodológica: la conversación entre perspectivas disciplinares divergentes produce un conocimiento que ninguna perspectiva sola podría generar.\n\nLos autores sostienen que la educación en ingeniería química debe ir más allá de la transmisión de competencias técnicas e incorporar pensamiento sistémico, reflexividad, literacidad ambiental y capacidad de \"futuring\" —la habilidad de imaginar y co-construir futuros deseables con distintos actores sociales. Señalan que los currículos actuales están excesivamente orientados a la industria de los combustibles fósiles y han descuidado la formación para la transición energética, la sostenibilidad y la responsabilidad social de la ingeniería.\n\n## Contribuciones principales\n\n- Propone el \"futuring\" —la práctica reflexiva de imaginar futuros alternativos— como competencia central de la formación en ingeniería química\n- Defiende la integración de enfoques de complejidad y sistemas en los currículos de ChE, reemplazando el enfoque reduccionista dominante\n- Argumenta por una mayor colaboración entre humanidades, ciencias sociales e ingeniería en el diseño curricular\n- Ejemplifica metodológicamente el diálogo como práctica investigativa válida en educación en ingeniería\n\n## Metodología\n\nDiálogo reflexivo colaborativo entre cinco investigadores de diferentes disciplinas (ingeniería química, estudios de energía, humanidades ambientales, educación en ingeniería). El texto nace de conversaciones reales, editadas y estructuradas para publicación. No es un estudio empírico en el sentido tradicional, sino un ejercicio de investigación colaborativa y reflexiva.\n\n## Hallazgos clave\n\n- La educación en ingeniería química está atrapada en paradigmas industriales del siglo XX y necesita reinventarse para la transición energética\n- El pensamiento de complejidad y los enfoques sistémicos son esenciales pero infrautilizados en los currículos de ChE\n- La colaboración interdisciplinaria con humanidades enriquece la capacidad de los ingenieros para enfrentar problemas sociotécnicos complejos\n- El \"futuring\" como práctica pedagógica fomenta la agencia y la responsabilidad social en los estudiantes de ingeniería\n- La práctica reflexiva es subvalorada en la formación técnica pero esencial para el desempeño profesional responsable\n\n## Limitaciones\n\n- El formato dialógico, aunque novedoso, es menos replicable que estudios empíricos convencionales\n- Los participantes son todos académicos de instituciones canadienses, lo que limita la generalización geográfica\n- No presenta evidencia empírica de implementación curricular; es principalmente propositivo y reflexivo\n\n## Notas relacionadas\n\n- [[concepts/educacion-superior]]\n- [[concepts/STEM]]\n- [[concepts/interdisciplinariedad]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/humanidades]]\n- [[concepts/impacto-de-investigacion]]"
     },
     {
       "id": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
@@ -1050,6 +1078,41 @@ window.__ACADEMIC_BRAIN__ = {
     }
   ],
   "links": [
+    {
+      "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
+      "target": "concepts/STEM",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
+      "target": "concepts/interdisciplinariedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
+      "target": "concepts/humanidades",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
+      "target": "concepts/impacto-de-investigacion",
+      "kind": "keyword"
+    },
     {
       "source": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
       "target": "concepts/inteligencia-artificial",

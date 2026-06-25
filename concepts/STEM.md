@@ -13,3 +13,4 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]
 - [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]
 - [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]
+- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]

@@ -12,3 +12,4 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 - [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]
 - [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]
 - [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
+- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]
