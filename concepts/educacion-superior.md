@@ -20,3 +20,4 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
 - [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]
 - [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]
+- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]

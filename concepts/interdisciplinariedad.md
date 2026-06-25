@@ -13,3 +13,4 @@ Integración de métodos, conceptos y perspectivas de distintas disciplinas para
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
 - [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]
 - [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]
+- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]
