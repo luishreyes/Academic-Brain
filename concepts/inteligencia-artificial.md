@@ -16,3 +16,4 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]
 - [[notes/papers/2024-08-13_widening-gap-ia-novatos]]
 - [[notes/papers/2025-05-15_evaluacion-estructural-genai]]
+- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]

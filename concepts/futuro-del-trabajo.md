@@ -10,3 +10,4 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]
+- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]

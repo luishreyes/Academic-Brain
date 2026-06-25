@@ -3,8 +3,8 @@ window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
     "papers": 4,
-    "articles": 4,
-    "concepts": 34
+    "articles": 5,
+    "concepts": 35
   },
   "nodes": [
     {
@@ -243,8 +243,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
-      "degree": 3
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
+      "degree": 4
     },
     {
       "id": "concepts/evaluacion-educativa",
@@ -290,8 +290,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "path": "concepts/futuro-del-trabajo.md",
-      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]",
-      "degree": 1
+      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
+      "degree": 2
     },
     {
       "id": "concepts/humanidades",
@@ -350,8 +350,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
-      "degree": 7
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
+      "degree": 8
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -407,8 +407,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.",
       "path": "concepts/psicologia-educativa.md",
-      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]",
-      "degree": 3
+      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
+      "degree": 4
     },
     {
       "id": "concepts/publicacion-academica",
@@ -424,6 +424,22 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.",
       "path": "concepts/publicacion-academica.md",
       "content": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/regulacion-de-ia",
+      "kind": "concept",
+      "label": "regulacion de ia",
+      "keyword": "regulacion-de-ia",
+      "aliases": [
+        "AI regulation",
+        "gobernanza de IA",
+        "AI policy",
+        "AI governance"
+      ],
+      "definition": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.",
+      "path": "concepts/regulacion-de-ia.md",
+      "content": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
       "degree": 1
     },
     {
@@ -468,8 +484,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.",
       "path": "concepts/supervision-humana.md",
-      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
-      "degree": 6
+      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
+      "degree": 7
     },
     {
       "id": "concepts/tecnocracia",
@@ -682,6 +698,29 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-06-25",
       "path": "notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos.md",
       "content": "## Resumen\n\nEl editorial toma como punto de partida dos estudios publicados en la misma edición de Nature sobre sistemas de agentes de IA aplicados al descubrimiento de fármacos. El primero, \"Robin\" (FutureHouse), identificó candidatos terapéuticos para la degeneración macular seca relacionada con la edad, reduciendo el tiempo del proyecto 200 veces frente al flujo de trabajo humano típico. El segundo, \"Co-Scientist\" (Google DeepMind), encontró candidatos para tratar leucemia y fibrosis hepática y, más llamativamente, reprodujo de forma independiente —en días— una hipótesis sobre resistencia antibacteriana en la que un equipo de investigadores humanos había trabajado durante casi una década.\n\nA pesar de estos resultados, el editorial argumenta que los sistemas de IA no pueden ni deben reemplazar a los científicos humanos. En ambos estudios los humanos enmarcaron los proyectos, ejecutaron los experimentos sugeridos y validaron los resultados: el modelo es de co-científico, no de autonomía total. Los riesgos de una IA completamente autónoma incluyen alucinaciones (fabricación de datos), mala interpretación de bases de datos externas y la falta de supervisión ética. Más fundamentalmente, la pericia acumulada de décadas, la creatividad \"desordenada\" de la curiosidad humana y el aprendizaje del fracaso son ingredientes que los sistemas actuales no pueden replicar. La pregunta queda abierta: mayor eficiencia no equivale necesariamente a mayor insight.\n\n## Puntos clave\n\n- \"Robin\" (FutureHouse) redujo 200x el tiempo en un proyecto de drug discovery para degeneración macular seca\n- \"Co-Scientist\" (Google) reprodujo en días una hipótesis científica sobre resistencia antibiótica que investigadores humanos tardaron ~10 años en formular\n- En ambos estudios los humanos enmarcaron el proyecto, ejecutaron experimentos y validaron resultados — el modelo es co-científico, no autónomo\n- Riesgos de IA totalmente autónoma: alucinaciones, mala interpretación de datos, ausencia de supervisión ética\n- La creatividad humana —curiosidad, juego, aprendizaje del fracaso— es irreemplazable para el descubrimiento científico\n- Cita clave: *\"We don't yet know whether greater efficiency equates to greater insight\"*\n- Llamado a los científicos a explorar el potencial de la IA sin abandonar la defensa de su propia importancia\n\n## Contexto\n\nEditorial institucional de Nature (sin autor individual) — representa la posición editorial de la revista. Publicado un mes antes del artículo de Fan (\"Why science needs the humanities more than ever\", Nature Vol 654) y con argumentos convergentes: ambos defienden la irreemplazabilidad del juicio humano frente a sistemas tecnológicos. Esta convergencia en la misma revista en el mismo período es significativa para el debate sobre IA y ciencia. Conecta directamente con el debate sobre supervisión humana en sistemas de IA, la ética del desarrollo científico y el futuro del trabajo científico.\n\n## Notas relacionadas\n\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]] — argumento paralelo: la sabiduría humana (humanidades) es irreemplazable en ciencia\n- [[concepts/inteligencia-artificial]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/descubrimiento-cientifico]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/etica-de-la-ciencia]]\n- [[concepts/supervision-humana]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/tecnocracia]]"
+    },
+    {
+      "id": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "kind": "article",
+      "label": "Norway imposes near ban on AI in elementary school",
+      "authors": [
+        "Reuters (Terje Solsvik)"
+      ],
+      "year": "2026",
+      "venue": "Internazionale / Reuters",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/06/19/norway-imposes-near-ban-on-ai-in-elementary-school",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "regulacion-de-ia",
+        "supervision-humana",
+        "psicologia-educativa",
+        "etica-de-la-ia",
+        "futuro-del-trabajo"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas.md",
+      "content": "## Resumen\n\nNoruega anuncia una prohibición casi total del uso de herramientas de IA generativa en la escuela primaria (grados 1–7, de 6 a 13 años), encuadrada en una política más amplia de reducción de pantallas en las aulas. El primer ministro Jonas Gahr Støre argumentó que el uso de IA aumenta el riesgo de que los niños salten pasos fundamentales en su educación —lectura, escritura y matemáticas— en momentos críticos del desarrollo. Las nuevas normas entran en vigor con el inicio del año escolar en agosto de 2026.\n\nEl sistema diferencia tres franjas: prohibición de facto en primaria, uso cauteloso bajo supervisión docente en secundaria baja (14–16 años), y aprendizaje activo de IA en secundaria alta (17–19 años) como preparación para el mundo laboral y universitario. La medida se suma a la prohibición de smartphones en escuelas (2024) y a los planes legislativos para restringir el acceso a redes sociales a menores de 16 años. El gobierno también anunció financiamiento para recuperar el uso de libros físicos en las aulas, revirtiendo la tendencia hacia tabletas digitales.\n\n## Puntos clave\n\n- Grados 1–7 (6–13 años): prohibición general de IA como regla\n- Grados 8–10 (14–16 años): uso cauteloso solo con supervisión docente\n- Grados 11–13 (17–19 años): aprendizaje explícito de IA para preparar a los estudiantes\n- Noruega ya había baneado smartphones en 2024 ante caída generalizada en puntajes educativos\n- El gobierno también propone legislación para reintroducir libros impresos en aulas\n- Tendencia regional: Australia y otros países también restringen redes sociales a menores\n\n## Contexto\n\nLa decisión de Noruega es una de las más concretas en el mundo respecto a la restricción de IA en educación básica, y articula explícitamente una preocupación sobre el desarrollo cognitivo infantil: que la IA no solo habilite atajos dañinos, sino que impida la consolidación de habilidades fundamentales. A diferencia de los debates sobre integridad académica en universidades (plagio, uso indebido en evaluaciones), este enfoque se centra en el impacto del desarrollo neurológico y pedagógico en etapas tempranas. Conecta con la evidencia sobre metacognición y dependencia de herramientas que se ve en contextos universitarios.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/futuro-del-trabajo]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]"
     },
     {
       "id": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
@@ -1022,6 +1061,46 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos",
       "target": "notes/articles/2026-06-25_ciencia-necesita-humanidades",
+      "kind": "related"
+    },
+    {
+      "source": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "target": "concepts/regulacion-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "target": "concepts/psicologia-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "target": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "kind": "related"
+    },
+    {
+      "source": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "target": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
       "kind": "related"
     },
     {
