@@ -15,6 +15,7 @@
     --muted: #93a0bd;
     --paper: #60a5fa;
     --article: #2dd4bf;
+    --book: #f472b6;
     --concept: #fbbf24;
     --accent: #a78bfa;
   }
@@ -147,6 +148,7 @@
   }
   .badge.paper { background: rgba(96,165,250,.18); color: var(--paper); }
   .badge.article { background: rgba(45,212,191,.18); color: var(--article); }
+  .badge.book { background: rgba(244,114,182,.18); color: var(--book); }
   .badge.concept { background: rgba(251,191,36,.18); color: var(--concept); }
   .d-title { font-size: 15.5px; line-height: 1.35; margin: 0; }
   .d-meta { font-size: 12px; color: var(--muted); margin-top: 7px; line-height: 1.5; }
@@ -230,6 +232,11 @@
           <span class="count" id="c-article">0</span>
           <input type="checkbox" checked />
         </label>
+        <label class="toggle" data-kind="book">
+          <span class="swatch" style="background:var(--book)"></span> Libros
+          <span class="count" id="c-book">0</span>
+          <input type="checkbox" checked />
+        </label>
         <label class="toggle" data-kind="concept">
           <span class="swatch" style="background:var(--concept)"></span> Conceptos
           <span class="count" id="c-concept">0</span>
@@ -308,7 +315,7 @@ const CONFIG = {
   repoBlobBase: "https://github.com/luishreyes/Academic-Brain/blob/main/",
 };
 
-const COLORS = { paper: "#60a5fa", article: "#2dd4bf", concept: "#fbbf24" };
+const COLORS = { paper: "#60a5fa", article: "#2dd4bf", book: "#f472b6", concept: "#fbbf24" };
 const DATA = window.__ACADEMIC_BRAIN__ || { nodes: [], links: [], counts: {} };
 
 // ===================== Estado =====================
@@ -329,7 +336,7 @@ for (const l of links) {
   neighbors.get(l.target.id).add(l.source.id);
 }
 
-const visibleKinds = { paper: true, article: true, concept: true };
+const visibleKinds = { paper: true, article: true, book: true, concept: true };
 let showRelated = true;
 let selectedId = null;
 let navHistory = [];
@@ -618,7 +625,7 @@ function select(id, pushHistory = true) {
   detail.classList.add("open");
   const badge = document.getElementById("d-badge");
   badge.className = "badge " + n.kind;
-  badge.textContent = n.kind === "paper" ? "Paper" : n.kind === "article" ? "Artículo" : "Concepto";
+  badge.textContent = n.kind === "paper" ? "Paper" : n.kind === "article" ? "Artículo" : n.kind === "book" ? "Libro" : "Concepto";
   document.getElementById("d-title").textContent = n.label;
 
   const meta = document.getElementById("d-meta");
@@ -748,10 +755,13 @@ function refList(items) {
 
 // ===================== Sidebar: conteos y lista de conceptos =====================
 function initSidebar() {
+  const bookCount = DATA.counts.books || 0;
+  const bookStr = bookCount ? ` · ${bookCount} ${bookCount === 1 ? "libro" : "libros"}` : "";
   document.getElementById("brand-sub").textContent =
-    `${DATA.counts.papers || 0} papers · ${DATA.counts.articles || 0} artículos · ${DATA.counts.concepts || 0} conceptos`;
+    `${DATA.counts.papers || 0} papers · ${DATA.counts.articles || 0} artículos${bookStr} · ${DATA.counts.concepts || 0} conceptos`;
   document.getElementById("c-paper").textContent = DATA.counts.papers || 0;
   document.getElementById("c-article").textContent = DATA.counts.articles || 0;
+  document.getElementById("c-book").textContent = DATA.counts.books || 0;
   document.getElementById("c-concept").textContent = DATA.counts.concepts || 0;
 
   const list = document.getElementById("concept-list");

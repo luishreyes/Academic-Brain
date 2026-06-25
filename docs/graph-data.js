@@ -4,6 +4,7 @@ window.__ACADEMIC_BRAIN__ = {
   "counts": {
     "papers": 18,
     "articles": 5,
+    "books": 1,
     "concepts": 43
   },
   "nodes": [
@@ -49,8 +50,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.",
       "path": "concepts/alfabetizacion-en-ia.md",
-      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
-      "degree": 5
+      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 6
     },
     {
       "id": "concepts/alineamiento-de-ia",
@@ -65,8 +66,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de técnicas y objetivos orientados a que los sistemas de IA persigan los valores, intenciones y normas previstos por sus diseñadores; incluye enfoques como el constitucionalismo de IA (reglas y principios incrustados en el modelo).",
       "path": "concepts/alineamiento-de-ia.md",
-      "content": "Conjunto de técnicas y objetivos orientados a que los sistemas de IA persigan los valores, intenciones y normas previstos por sus diseñadores; incluye enfoques como el constitucionalismo de IA (reglas y principios incrustados en el modelo).\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]",
-      "degree": 1
+      "content": "Conjunto de técnicas y objetivos orientados a que los sistemas de IA persigan los valores, intenciones y normas previstos por sus diseñadores; incluye enfoques como el constitucionalismo de IA (reglas y principios incrustados en el modelo).\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 2
     },
     {
       "id": "concepts/alucinaciones-de-ia",
@@ -79,8 +80,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.",
       "path": "concepts/alucinaciones-de-ia.md",
-      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
-      "degree": 6
+      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 7
     },
     {
       "id": "concepts/aprendizaje-activo",
@@ -140,8 +141,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.",
       "path": "concepts/capacidades-de-ia.md",
-      "content": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]",
-      "degree": 1
+      "content": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 2
     },
     {
       "id": "concepts/ciencia-y-sociedad",
@@ -187,8 +188,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.",
       "path": "concepts/creatividad.md",
-      "content": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
-      "degree": 2
+      "content": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 3
     },
     {
       "id": "concepts/desarrollo-de-farmacos",
@@ -279,8 +280,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
-      "degree": 17
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 18
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -341,8 +342,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
-      "degree": 13
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 14
     },
     {
       "id": "concepts/evaluacion-educativa",
@@ -404,8 +405,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "path": "concepts/futuro-del-trabajo.md",
-      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
-      "degree": 4
+      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 5
     },
     {
       "id": "concepts/humanidades",
@@ -464,8 +465,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]",
-      "degree": 19
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 20
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -614,8 +615,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.",
       "path": "concepts/supervision-humana.md",
-      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]",
-      "degree": 12
+      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 13
     },
     {
       "id": "concepts/tecnocracia",
@@ -644,8 +645,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.",
       "path": "concepts/tutoria-con-ia.md",
-      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]",
-      "degree": 4
+      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
+      "degree": 5
     },
     {
       "id": "concepts/universidades-chinas",
@@ -1298,6 +1299,35 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/articles/2026-06-25_ciencia-necesita-humanidades.md",
       "pdf_local": "sources/pdfs/fan2026-ciencia-humanidades.pdf",
       "content": "## Resumen\n\nEl artículo rechaza la narrativa dominante que enfrenta humanidades y ciencias en una competencia de suma cero. Escrito desde la experiencia del autor como subdecano del Instituto de Humanidades de la Universidad ShanghaiTech (China), Fan argumenta que las humanidades no son un complemento prescindible de la educación universitaria sino un componente fundacional, especialmente en instituciones orientadas a ciencia y tecnología. El caso de ShanghaiTech —fundada en 2013 con fuerte inversión en STEM y simultáneamente con un instituto de humanidades como unidad académica central— ilustra que ambas orientaciones pueden coexistir y reforzarse.\n\nEl texto ofrece una genealogía histórica del sistema universitario chino para explicar cómo las humanidades fueron marginadas. La fundación de la República Popular en 1949 reorganizó la educación superior siguiendo el modelo soviético: especialización técnica, expansión de escuelas de ingeniería, y desmantelamiento de universidades comprensivas. Instituciones como Tsinghua perdieron sus facultades de humanidades, y la ciencia fue elevada a imperativo nacional. Este \"alto modernismo\" —fe en la racionalidad científica y la planificación centralizada— dejó una jerarquía epistémica duradera que sigue impregnando la cultura académica y de políticas chinas.\n\nFan identifica dos desplazamientos actuales que están forzando una revaluación. Primero, crece el reconocimiento de que la ciencia no opera en un vacío social o político: el conocimiento científico está institucionalizado, es históricamente situado y tiene desequilibrios de poder incorporados. Segundo, campos como la inteligencia artificial, la biotecnología y la ciencia de datos plantean preguntas éticas, sociales y civilizacionales que la pericia técnica sola no puede resolver —desde el sesgo algorítmico hasta la sostenibilidad ambiental y las relaciones humano-máquina.\n\n## Puntos clave\n\n- La contracción de las humanidades en las universidades actuales responde a una lógica de suma cero que el autor refuta\n- La historia del sistema universitario chino muestra que la jerarquía ciencia/humanidades es una construcción política, no una jerarquía natural del conocimiento\n- La IA y la biotecnología generan problemas que requieren razonamiento ético, sensibilidad cultural y comprensión histórica — no solo pericia técnica\n- Las humanidades proveen distancia crítica respecto del tecnocratismo que las marginó\n- Metáfora final: las humanidades \"no están alcanzando a la ciencia — están atrapando a la sociedad antes de que vaya demasiado rápido\"\n\n## Contexto\n\nArtículo de opinión (*Comment*) en *Nature*, la revista científica de mayor impacto. Que aparezca en este espacio —y no en una revista de humanidades— es en sí mismo significativo: la audiencia a la que se dirige es precisamente la comunidad científica que el texto interpela. Es relevante para debates sobre reforma universitaria, ética del desarrollo de IA, interdisciplinariedad y política educativa. El caso de China como sistema universitario que vivió el ciclo completo (marginalización → reconocimiento de las humanidades) lo hace un caso de estudio útil para entender dinámicas globales.\n\n## Notas relacionadas\n\n- [[concepts/humanidades]]\n- [[concepts/educacion-superior]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/interdisciplinariedad]]\n- [[concepts/etica-de-la-ciencia]]\n- [[concepts/tecnocracia]]\n- [[concepts/modernizacion]]\n- [[concepts/universidades-chinas]]\n- [[concepts/STEM]]"
+    },
+    {
+      "id": "notes/books/2024-04-02_co-intelligence-mollick",
+      "kind": "book",
+      "label": "Co-Intelligence: Living and Working With AI",
+      "authors": [
+        "Ethan Mollick"
+      ],
+      "year": "2024",
+      "venue": "",
+      "url": "https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "futuro-del-trabajo",
+        "tutoria-con-ia",
+        "etica-de-la-ia",
+        "alucinaciones-de-ia",
+        "alineamiento-de-ia",
+        "alfabetizacion-en-ia",
+        "capacidades-de-ia",
+        "creatividad",
+        "supervision-humana",
+        "educacion-superior"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/books/2024-04-02_co-intelligence-mollick.md",
+      "pdf_local": "sources/pdfs/mollick2024-co-intelligence.epub",
+      "content": "## Resumen\n\n*Co-Intelligence* es un manual práctico para convivir con los modelos de lenguaje de gran escala (LLMs) escrito por Ethan Mollick, investigador de innovación en Wharton. El libro parte de un diagnóstico: los LLMs son una forma genuinamente nueva de inteligencia —entrenada sobre la totalidad del conocimiento humano registrado, pero radicalmente diferente de la mente humana— que ha llegado con una velocidad que desborda los marcos cognitivos e institucionales existentes. Mollick propone la metáfora de la **\"Frontera Irregular\" (Jagged Frontier)**: una frontera invisible e irregular que delimita aquello en que la IA destaca (redacción, síntesis, generación de código, brainstorming) de aquello en que falla inesperadamente. Esa frontera no puede mapearse de antemano; solo puede descubrirse experimentando, lo que convierte la experimentación activa en la competencia central de la era de la IA.\n\nEl libro estructura su argumento alrededor de cuatro reglas para la co-inteligencia: **(1) Siempre invita a la IA a la mesa** —tratarla como colaboradora por defecto; **(2) Sé el humano** —ejercer el juicio, la verificación ética y la inteligencia emocional que la IA no puede proveer; **(3) Trata a la IA como una persona** —el prompting social y asignarle un rol o persona mejora significativamente las salidas; **(4) Asume que esta es la peor IA que usarás en tu vida** —los modelos mejoran exponencialmente, por lo que cualquier flujo de trabajo diseñado hoy debe anticipar capacidades mucho mayores. Las alucinaciones —la tendencia estructural de los LLMs a generar información plausible pero incorrecta— se abordan no como bugs a corregir, sino como consecuencia arquitectónica del funcionamiento probabilístico del modelo; la verificación humana es, por tanto, irrenunciable.\n\nLos capítulos sobre educación son especialmente ricos. Mollick recupera el hallazgo de Benjamin Bloom (1984) sobre el \"problema de los 2 sigma\": la tutoría uno a uno produce mejoras de 2 desviaciones estándar respecto a la instrucción grupal —es decir, el estudiante promedio con tutor supera al 98 % de los estudiantes en aula convencional— pero ha sido históricamente imposible de escalar por costo. La tesis de Mollick es que la IA es el primer camino plausible hacia ese grial. Al mismo tiempo, advierte que la IA primero *destruirá* el modelo educativo vigente (mediante el \"Apocalipsis de las Tareas\", que hace que la verificación del aprendizaje mediante tareas para casa sea obsoleta) antes de mejorarlo. Identifica además una **brecha de formación profesional**: al automatizar las tareas de nivel entrada que históricamente funcionaron como aprendizaje práctico —el pasante, el abogado junior, el residente médico— la IA puede romper el pipeline que convierte a novatos en expertos.\n\nRespecto al futuro del trabajo, Mollick señala que el impacto de la IA invierte el patrón histórico de la automatización: en vez de desplazar primero las tareas más repetitivas y físicas, la IA tiene mayor solapamiento con el trabajo más cualificado, creativo y mejor remunerado. El libro cierra con cuatro escenarios futuros —la IA ya alcanzó su techo (muy improbable), regulación frena el desarrollo (improbable a corto plazo), mejora incremental continua (más probable), surgimiento de AGI (posible pero cronología incierta)— y con un llamado a la agencia humana: las decisiones colectivas que tomemos ahora sobre cómo usar, regular y relacionarnos con la IA moldearán lo que esta llegue a ser para la humanidad.\n\n## Ideas principales por capítulo\n\n- **Introducción (\"Tres noches sin dormir\"):** Mollick narra el momento en que los LLMs se revelaron como inteligencia genuinamente alien; introduce la Frontera Irregular\n- **Cap. 1 — \"Creando mentes alienígenas\":** historia de la IA desde el Turco Mecánico (1770) y el ratón Theseus de Shannon (1950) hasta los LLMs modernos\n- **Cap. 2 — \"Alineando al alienígena\":** los LLMs heredan sesgos del texto humano; RLHF y constitucionalismo de IA como formas de alineamiento; los modelos aprenden a presentar respuestas \"emocionalmente adecuadas\" sin comprensión real\n- **Cap. 3 — \"Cuatro reglas para la co-inteligencia\":** las cuatro reglas operativas; la Frontera Irregular como metáfora central\n- **Cap. 4 — \"La IA como persona\":** efecto del rol asignado en las salidas; ventana de contexto como \"memoria de trabajo\"; la IA habla con la voz de la humanidad porque fue entrenada en sus textos\n- **Cap. 5 — \"La IA como creativa\":** las alucinaciones como consecuencia estructural del sampleo probabilístico; la IA como herramienta para superar el bloqueo creativo y generar variedad; el número 42 y los sesgos del corpus de entrenamiento\n- **Cap. 6 — \"La IA como compañera de trabajo\":** cuatro estudios que muestran que casi todos los empleos (1.016 categorías) tienen solapamiento con la IA; el solapamiento es mayor en trabajos más cualificados y creativos; solo 36 categorías sin solapamiento (todos físicos y espaciales)\n- **Cap. 7 — \"La IA como tutora\":** Bloom's 2 sigma problem; el Apocalipsis de las Tareas; el potencial de la IA para personalizar instrucción al nivel de la tutoría uno a uno\n- **Cap. 8 — \"La IA como coach\":** la brecha de formación; el caso del cirujano robótico y el \"shadow learning\"; cómo la IA puede ser mentor de primer acceso para quienes no tienen acceso a redes profesionales\n- **Cap. 9 — \"La IA como nuestro futuro\":** cuatro escenarios de evolución; por qué la regulación global es difícil pero necesaria\n- **Epílogo — \"La IA como nosotros\":** la IA como espejo de lo mejor y peor de la humanidad; el futuro es una decisión colectiva\n\n## Argumentos centrales\n- La IA no es una herramienta pasiva sino un co-agente; la metáfora correcta es colaborador, no martillo\n- La Frontera Irregular es el marco conceptual clave: lo que la IA puede hacer hoy no es predecible sin experimentación directa\n- Las alucinaciones son estructurales, no accidentales; la supervisión humana permanece irrenunciable\n- El impacto laboral de la IA invierte el patrón histórico: afecta primero el trabajo de élite, no el manual\n- La IA puede resolver el problema de los 2 sigma en educación, pero destruirá el modelo actual antes de mejorarlo\n- La brecha de formación profesional es el mayor riesgo silencioso de la automatización de tareas básicas\n- El comportamiento de los LLMs mejora cuando se les da un rol específico y se los trata con consideración social (principio de \"tratar al AI como persona\")\n\n## Limitaciones\n- Escrito a principios de 2024; el ritmo de avance de los modelos puede haber desplazado algunos ejemplos específicos\n- Basado principalmente en experimentación personal del autor; no sigue metodología empírica sistemática\n- Perspectiva centrada en el mercado laboral y sistema educativo estadounidense\n- Las predicciones de escenarios futuros son inevitablemente especulativas\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/alineamiento-de-ia]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/creatividad]]\n- [[concepts/supervision-humana]]\n- [[concepts/educacion-superior]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]"
     }
   ],
   "links": [
@@ -2250,6 +2280,71 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/articles/2026-06-25_ciencia-necesita-humanidades",
       "target": "concepts/universidades-chinas",
       "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/alineamiento-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/creatividad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
+      "kind": "related"
+    },
+    {
+      "source": "notes/books/2024-04-02_co-intelligence-mollick",
+      "target": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "kind": "related"
     }
   ]
 };

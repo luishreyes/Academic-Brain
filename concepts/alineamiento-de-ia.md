@@ -10,3 +10,4 @@ Conjunto de técnicas y objetivos orientados a que los sistemas de IA persigan l
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]
+- [[notes/books/2024-04-02_co-intelligence-mollick]]
