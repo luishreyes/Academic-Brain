@@ -1,0 +1,15 @@
+# Obsidian local config (no compartir entre máquinas)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.obsidian/cache
+.obsidian/.cache
+
+# Archivos temporales
+*.tmp
+.DS_Store
+Thumbs.db
+
+# PDFs grandes (opcional — comentar si quieres trackear PDFs)
+# *.pdf
