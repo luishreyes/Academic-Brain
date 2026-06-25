@@ -25,11 +25,12 @@ El comando `/ingest` ya hace esto automáticamente al procesar un paper/artícul
 
 1. En GitHub: **Settings → Pages**
 2. En **Source** elegir **Deploy from a branch**
-3. Branch: la rama que estés usando (p. ej. `main` tras fusionar) · Folder: **`/docs`**
-4. Guardar. En ~1 min el sitio queda en `https://<usuario>.github.io/academic-brain/`
+3. Branch: **`main`** · Folder: **`/docs`**
+4. Guardar. En ~1 min el sitio queda en `https://luishreyes.github.io/Academic-Brain/`
 
-> Nota: el enlace "Ver nota (.md)" usa la rama configurada en `CONFIG.repoBlobBase`
-> dentro de `index.html`. Tras fusionar a `main`, cambia ahí la rama por `main`.
+> Nota: el repo debe ser **público** para usar Pages con cuenta gratuita.
+> El enlace "Ver nota (.md)" usa la rama configurada en `CONFIG.repoBlobBase`
+> dentro de `index.html` (actualmente `main`).
 
 ## Verlo localmente
 
