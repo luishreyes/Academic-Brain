@@ -22,3 +22,5 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]
 - [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
 - [[notes/papers/2026-01-12_pd-docentes-ia-k12]]
+- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]
+- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]

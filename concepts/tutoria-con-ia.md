@@ -11,3 +11,4 @@ Uso de sistemas de inteligencia artificial para proporcionar instrucción indivi
 ## Notas que usan este concepto
 - [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]
 - [[notes/papers/2024-08-13_widening-gap-ia-novatos]]
+- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]

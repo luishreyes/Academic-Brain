@@ -4,6 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Academic Brain — Visualizador</title>
+<link rel="icon" href="logo.webp" type="image/webp" />
 <style>
   :root {
     --bg: #0b1020;
@@ -343,7 +344,7 @@ nodes.forEach((n, i) => {
 });
 
 function radius(n) {
-  if (n.kind === "concept") return 4 + Math.min(n.degree || 0, 12) * 1.7;
+  if (n.kind === "concept") return 5 + Math.log((n.degree || 0) + 1) * 4;
   return 7;
 }
 

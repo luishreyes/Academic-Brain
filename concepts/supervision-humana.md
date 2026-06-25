@@ -19,3 +19,4 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]
 - [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]
 - [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
+- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]

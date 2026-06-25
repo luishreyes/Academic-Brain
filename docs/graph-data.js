@@ -2,9 +2,9 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 9,
+    "papers": 11,
     "articles": 5,
-    "concepts": 39
+    "concepts": 40
   },
   "nodes": [
     {
@@ -18,8 +18,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.",
       "path": "concepts/STEM.md",
-      "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]",
-      "degree": 2
+      "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
+      "degree": 4
     },
     {
       "id": "concepts/agentes-de-ia",
@@ -79,8 +79,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.",
       "path": "concepts/alucinaciones-de-ia.md",
-      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
-      "degree": 4
+      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
+      "degree": 5
     },
     {
       "id": "concepts/aprendizaje-activo",
@@ -93,8 +93,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "path": "concepts/aprendizaje-activo.md",
-      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]",
-      "degree": 2
+      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]",
+      "degree": 3
     },
     {
       "id": "concepts/bienestar-academico",
@@ -140,6 +140,22 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Práctica de traducir y difundir conocimiento científico a audiencias no especializadas mediante medios de comunicación, resúmenes accesibles y participación pública.",
       "path": "concepts/comunicacion-cientifica.md",
       "content": "Práctica de traducir y difundir conocimiento científico a audiencias no especializadas mediante medios de comunicación, resúmenes accesibles y participación pública.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/creatividad",
+      "kind": "concept",
+      "label": "creatividad",
+      "keyword": "creatividad",
+      "aliases": [
+        "creativity",
+        "pensamiento creativo",
+        "creative thinking",
+        "creative problem-solving"
+      ],
+      "definition": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.",
+      "path": "concepts/creatividad.md",
+      "content": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]",
       "degree": 1
     },
     {
@@ -215,8 +231,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]",
-      "degree": 9
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
+      "degree": 11
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -277,8 +293,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
-      "degree": 8
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
+      "degree": 10
     },
     {
       "id": "concepts/evaluacion-educativa",
@@ -385,8 +401,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.",
       "path": "concepts/integridad-academica.md",
-      "content": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
-      "degree": 2
+      "content": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
+      "degree": 3
     },
     {
       "id": "concepts/inteligencia-artificial",
@@ -400,8 +416,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
-      "degree": 13
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
+      "degree": 15
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -459,8 +475,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.",
       "path": "concepts/personalizacion-del-aprendizaje.md",
-      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
-      "degree": 4
+      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
+      "degree": 5
     },
     {
       "id": "concepts/psicologia-educativa",
@@ -473,8 +489,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.",
       "path": "concepts/psicologia-educativa.md",
-      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]",
-      "degree": 4
+      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]",
+      "degree": 5
     },
     {
       "id": "concepts/publicacion-academica",
@@ -550,8 +566,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.",
       "path": "concepts/supervision-humana.md",
-      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]",
-      "degree": 10
+      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]",
+      "degree": 11
     },
     {
       "id": "concepts/tecnocracia",
@@ -580,8 +596,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.",
       "path": "concepts/tutoria-con-ia.md",
-      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]",
-      "degree": 2
+      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
+      "degree": 3
     },
     {
       "id": "concepts/universidades-chinas",
@@ -819,6 +835,62 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-06-25",
       "path": "notes/papers/2026-01-12_pd-docentes-ia-k12.md",
       "content": "## Resumen\n\nEsta revisión sistemática sintetiza 43 estudios empíricos (indexados en Scopus y Web of Science) siguiendo las directrices PRISMA para examinar las necesidades de formación y desarrollo profesional (PD) de docentes de educación primaria y secundaria (K-12) para la integración efectiva de la IA. El foco en K-12 responde a las características específicas de este nivel, donde el aprendizaje es estructurado y el uso de IA es predominantemente mediado por el docente. La motivación es la proliferación de programas de formación técnica sin orientación pedagógica que no garantizan integración real en el aula.\n\nEl análisis temático identifica seis temas clave: (1) prácticas de formación —incluyendo comunidades de aprendizaje profesional, autoreflexión con IA, aprendizaje basado en casos y diferenciación por nivel y área—; (2) percepciones y actitudes de docentes hacia la IA; (3) programas de desarrollo profesional continuo; (4) apoyo multinivel (institucional, organizativo, entre pares); (5) alfabetización en IA de los docentes; y (6) uso ético y responsable de la IA. Los hallazgos muestran que la formación técnica aislada es insuficiente: la integración exitosa requiere conocimiento pedagógico, actitudes positivas, apoyo organizativo y capacitación continua. El estudio propone un marco orientado a procesos con cuatro niveles que conecta investigación y práctica educativa.\n\n## Contribuciones principales\n- Síntesis de 43 estudios empíricos sobre necesidades de formación docente para IA en K-12\n- Marco de desarrollo profesional orientado a procesos en 4 niveles para integración de IA\n- Identificación de 6 temas de necesidades formativas con códigos empíricos detallados\n- Revisión de revisiones sistemáticas previas sobre IA en educación K-12\n\n## Metodología\n\nRevisión sistemática de literatura siguiendo directrices PRISMA. Búsqueda en Scopus y Web of Science. Selección y análisis de 43 estudios empíricos. Análisis temático de necesidades de formación docente con codificación sistemática de los temas.\n\n## Hallazgos clave\n- Comunidades de práctica y aprendizaje colaborativo son la estrategia de formación más mencionada\n- La autoreflexión asistida por IA (Teacher-AI Collaboration reflection) es prometedora pero requiere datos de alta calidad\n- Los docentes experimentados y novatos tienen necesidades de formación diferenciadas\n- La formación ética y la regulación son necesidades transversales reconocidas en múltiples estudios\n- La integración de IA demanda alineación de competencias técnicas con diseño pedagógico (TPACK, AI-TPACK)\n\n## Limitaciones\n- Los estudios incluidos se limitan a educación primaria y secundaria; no incluye educación superior\n- Posible sesgo de publicación al incluir solo estudios empíricos publicados en inglés\n- El marco propuesto requiere validación empírica adicional\n\n## Notas relacionadas\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/formacion-docente]]\n- [[concepts/educacion-k12]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]"
+    },
+    {
+      "id": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
+      "kind": "paper",
+      "label": "AI-assisted design synthesis and human creativity in engineering education",
+      "authors": [
+        "Mariza Tsakalerou",
+        "Saltanat Akhmadi",
+        "Aruzhan Balgynbayeva",
+        "Yerdaulet Kumisbek"
+      ],
+      "year": "2026",
+      "venue": "Frontiers in Artificial Intelligence",
+      "url": "https://doi.org/10.3389/frai.2026.1714523",
+      "doi": "10.3389/frai.2026.1714523",
+      "keywords": [
+        "inteligencia-artificial",
+        "creatividad",
+        "supervision-humana",
+        "educacion-superior",
+        "STEM",
+        "etica-de-la-ia",
+        "aprendizaje-activo",
+        "psicologia-educativa"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2026-01-20_ia-creatividad-ingenieria.md",
+      "content": "## Resumen\n\nEl paper investiga cómo la colaboración humano-IA afecta el desarrollo creativo de estudiantes de ingeniería en experimentos de diseño por desafíos (challenge-based design). El problema central es que la IA generativa ofrece síntesis de ideas y acceso rápido a soluciones, pero su papel en la innovación genuina es disputado: la creatividad fundamentalmente humana implica experiencia encarnada, profundidad emocional y riesgo existencial que los sistemas de IA no pueden replicar. En contextos educativos, esto plantea un dilema: ¿cuándo la asistencia de IA apoya el aprendizaje creativo y cuándo lo erosiona?\n\nEl estudio aplica métricas establecidas de creatividad —fluidez, flexibilidad, originalidad y elaboración (Guilford, 1950; Torrance, 1966)— en un diseño cuasi-experimental que compara equipos asistidos por IA y equipos sin IA en el Catapult Challenge en una universidad de Kazakhstan. Los resultados muestran que, aunque la IA acelera la generación de ideas, también produce convergencia prematura, exploración reducida y compromiso funcional deficiente. Los equipos sin IA generaron mayor diversidad de variantes de diseño (60% con tres o más vs. 0% de equipos IA), mayor originalidad percibida (40% vs. 14% calificando su diseño como \"muy único\") y mejor desempeño funcional (100% vs. 29% de catapultas que \"funcionaron bien\"). Los participantes mostraron autopercepción estable de creatividad independientemente de la condición, lo que sugiere un riesgo de descarga cognitiva (cognitive offloading).\n\nLas implicaciones son significativas para la educación en ingeniería: la IA puede facilitar el acceso a conceptos y apoyar la ideación, pero la sobre-dependencia puede erosionar el aprendizaje iterativo y el desarrollo de capacidades creativas duraderas. Los autores argumentan por marcos pedagógicos proceso-conscientes y éticamente fundamentados que balanceen la aumentación tecnológica con la agencia humana.\n\n## Contribuciones principales\n- Evidencia empírica de que equipos sin IA superan a equipos asistidos por IA en fluidez, unicidad y calidad funcional de diseño\n- Conceptualización del \"cognitive offloading\" como riesgo educativo: autopercepción de creatividad inflada que enmascara déficits reales\n- Marco para entender límites de la \"creatividad asistida\" frente a la creatividad genuinamente humana (Lockhart, 2025)\n\n## Metodología\n\nDiseño cuasi-experimental. 7 equipos asistidos por IA, 5 equipos sin IA. Challenge-based design (Catapult Challenge). Métricas: Cantidad (variantes exploradas), Variedad, Unicidad percibida, y Calidad funcional. Pruebas de Mann-Whitney U (α = 0.05); efectos pequeños a grandes (r = 0.26–0.56). Muestra pequeña, resultados direccionales.\n\n## Hallazgos clave\n- Equipos sin IA: 60% exploraron ≥3 variantes de diseño vs. 0% de equipos IA (convergencia prematura)\n- Equipos sin IA: 40% calificó diseños como \"muy únicos\" vs. 14% de equipos IA\n- Equipos sin IA: 100% con catapultas funcionales vs. 29% de equipos IA\n- Autopercepción de creatividad estable en ambas condiciones → riesgo de cognitive offloading\n\n## Limitaciones\n- Muestra muy pequeña (7 + 5 equipos) en un contexto geográfico específico (Kazakhstan)\n- Falta de medición directa del cognitive offloading; es una explicación interpretativa, no medida\n- Un solo tipo de desafío (Catapult); generalización limitada a otros contextos de diseño\n\n## Notas relacionadas\n- [[concepts/creatividad]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/supervision-humana]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/STEM]]"
+    },
+    {
+      "id": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
+      "kind": "paper",
+      "label": "Evaluating AI-powered learning assistants in engineering higher education with implications for student engagement, ethics, and policy",
+      "authors": [
+        "Ramteja Sajja",
+        "Yusuf Sermet",
+        "Brian Fodale",
+        "Ibrahim Demir"
+      ],
+      "year": "2026",
+      "venue": "Scientific Reports",
+      "url": "https://doi.org/10.1038/s41598-026-39237-5",
+      "doi": "10.1038/s41598-026-39237-5",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "STEM",
+        "tutoria-con-ia",
+        "personalizacion-del-aprendizaje",
+        "integridad-academica",
+        "etica-de-la-ia",
+        "alucinaciones-de-ia"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2026-02-03_asistente-ia-educacion-superior.md",
+      "content": "## Resumen\n\nEl estudio evalúa el Educational AI Hub —un marco de asistencia de aprendizaje basado en IA generativa (GPT)— implementado en cursos de pregrado de ingeniería civil y ambiental en Tulane University. La motivación es la creciente integración de GenAI en educación superior sin suficiente evidencia empírica sobre cómo los estudiantes la perciben, adoptan y confían, especialmente en disciplinas técnicas específicas. Se usa un diseño de métodos mixtos con 71 estudiantes, más de 600 interacciones IA registradas, encuestas pre y post, y análisis cualitativo.\n\nLos hallazgos revelan una valoración ambivalente: los estudiantes perciben el asistente de IA como comparable pero no superior a la instrucción humana en calidad (solo 17% lo consideró mejor), aunque lo valoran positivamente en conveniencia (68% más conveniente que ir con el profesor) y comodidad para pedir ayuda (47% se siente más cómodo con la IA que con TA o instructor). El uso fue más alto para completar tareas y entender conceptos. Sin embargo, la incertidumbre ética —especialmente sobre política institucional e integridad académica— emergió como barrera clave: una mayoría temía que la IA facilitara el plagio, aunque preferían políticas de integración sobre prohibiciones totales. Los autores denominan esto \"disonancia ética\": los estudiantes valoran la herramienta pero temen las consecuencias disciplinarias de usarla.\n\n## Contribuciones principales\n- Evaluación empírica de un asistente IA disciplina-específico en ingeniería a nivel de pregrado (71 estudiantes, 600+ interacciones)\n- Documentación de la \"disonancia ética\" como barrera clave: utilidad valorada vs. miedo a consecuencias académicas\n- Implicaciones para política institucional: los estudiantes prefieren integración regulada sobre prohibición\n\n## Metodología\n\nMétodos mixtos: encuestas pre/post (Likert), logs de uso del sistema, análisis cualitativo de interacciones. Dos cursos de pregrado en ingeniería civil y ambiental. El Educational AI Hub es un asistente conversacional basado en GPT con acceso a documentos del curso (syllabus, notas) mediante RAG (retrieval-augmented generation).\n\n## Hallazgos clave\n- 68% de estudiantes percibió la IA como más conveniente que la instrucción humana\n- 47% se siente más cómodo con la IA que con un TA/instructor para pedir ayuda\n- Solo 17% percibió la calidad de ayuda IA como mejor que la humana\n- Mayoría expresa preocupación por alucinaciones e integridad académica\n- Estudiantes prefieren políticas de integración regulada sobre prohibición total\n\n## Limitaciones\n- Muestra pequeña (71 estudiantes) en dos cursos de una sola universidad\n- Contexto disciplinar específico (ingeniería civil/ambiental); puede no generalizarse a otras disciplinas\n- Efectos a largo plazo sobre resultados académicos no evaluados\n\n## Notas relacionadas\n- [[concepts/tutoria-con-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/integridad-academica]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]"
     },
     {
       "id": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
@@ -1336,6 +1408,91 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2026-01-12_pd-docentes-ia-k12",
       "target": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
+      "target": "concepts/creatividad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
+      "target": "concepts/STEM",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
+      "target": "concepts/psicologia-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
+      "target": "concepts/STEM",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
+      "target": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
       "kind": "related"
     },
     {
