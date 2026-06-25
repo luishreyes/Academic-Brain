@@ -11,6 +11,7 @@ Procesa el paper o artículo proporcionado y agrégalo al vault.
 ### 1. Obtener el contenido
 - Si es una URL: usar WebFetch para obtener el contenido completo
 - Si es un archivo en `inbox/`: leerlo con Read
+- Si el usuario subió un PDF directamente en el chat: Claude recibe el contenido del PDF; en el frontmatter poner `pdf_local: sources/pdfs/APELLIDO-AÑO.pdf` como sugerencia para que el usuario lo guarde localmente
 - Si es texto pegado: procesarlo directamente
 
 ### 2. Clasificar el tipo
@@ -63,6 +64,7 @@ Commitear todos los archivos modificados con mensaje: `ingest: [título corto] �
 ## Manejo de casos especiales
 
 - **Sin acceso a URL:** Pedir al usuario que pegue el texto o lo suba a `inbox/`
-- **PDF:** Leer con Read si está en el repositorio
-- **Idioma:** La nota puede estar en español o inglés según el idioma del original; los metadatos siempre en el idioma del documento
-- **Keywords:** Siempre en español si el vault está en español, o en el idioma predominante del vault
+- **PDF subido en el chat:** Claude lo lee directamente; agregar en el frontmatter `pdf_local: sources/pdfs/apellido2024.pdf` y decirle al usuario que guarde el archivo ahí localmente en Obsidian para vincularlo
+- **PDF en inbox/:** Leerlo con Read
+- **Idioma:** El resumen y los comentarios van en español; los metadatos (title, authors, journal) se conservan en el idioma original del documento
+- **Keywords:** Siempre en español para mantener coherencia del grafo

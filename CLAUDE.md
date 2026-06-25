@@ -11,6 +11,17 @@ Vault para construir una base de conocimiento académico personal. Conecta paper
 | `notes/articles/` | Notas de artículos periodísticos procesados |
 | `concepts/` | Una página por keyword/concepto (construye el grafo) |
 | `keywords.md` | Taxonomía canónica de palabras clave — fuente de verdad |
+| `sources/pdfs/` | PDFs originales (solo local, ignorado por git) |
+
+## Dónde poner los PDFs
+
+Hay tres formas equivalentes de procesar un paper en PDF:
+
+1. **Subir el PDF directamente en el chat de Claude Code** — la más rápida; Claude lo lee y crea la nota, el PDF no queda en el repo
+2. **Copiarlo a `inbox/`** — útil si el PDF ya está en el repo; Claude lo lee con `Read`
+3. **Guardarlo en `sources/pdfs/` localmente** — para tenerlo vinculado en Obsidian; esta carpeta está en `.gitignore` así que no pesa en git
+
+Cuando el PDF viene del chat, incluir en el frontmatter `pdf_local: sources/pdfs/nombre.pdf` para que el usuario sepa dónde guardarlo localmente en Obsidian.
 
 ## Regla fundamental: gestión de keywords
 
@@ -34,6 +45,7 @@ year:
 journal: 
 url: 
 doi: 
+pdf_local:          # ruta local en Obsidian, ej: sources/pdfs/apellido2024.pdf
 type: paper
 keywords: []
 date_added: 
