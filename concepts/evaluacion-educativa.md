@@ -11,3 +11,4 @@ Diseño, validez y mecanismos de evaluación del aprendizaje en educación super
 ## Notas que usan este concepto
 - [[notes/papers/2025-05-15_evaluacion-estructural-genai]]
 - [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]
+- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]

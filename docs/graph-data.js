@@ -2,7 +2,7 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 12,
+    "papers": 13,
     "articles": 5,
     "concepts": 40
   },
@@ -18,8 +18,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.",
       "path": "concepts/STEM.md",
-      "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
-      "degree": 5
+      "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
+      "degree": 6
     },
     {
       "id": "concepts/agentes-de-ia",
@@ -49,8 +49,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.",
       "path": "concepts/alfabetizacion-en-ia.md",
-      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
-      "degree": 3
+      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
+      "degree": 4
     },
     {
       "id": "concepts/alineamiento-de-ia",
@@ -79,8 +79,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.",
       "path": "concepts/alucinaciones-de-ia.md",
-      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
-      "degree": 5
+      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
+      "degree": 6
     },
     {
       "id": "concepts/aprendizaje-activo",
@@ -93,8 +93,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "path": "concepts/aprendizaje-activo.md",
-      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]",
-      "degree": 3
+      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
+      "degree": 4
     },
     {
       "id": "concepts/bienestar-academico",
@@ -231,8 +231,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]",
-      "degree": 12
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
+      "degree": 13
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -293,8 +293,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
-      "degree": 10
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
+      "degree": 11
     },
     {
       "id": "concepts/evaluacion-educativa",
@@ -309,8 +309,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.",
       "path": "concepts/evaluacion-educativa.md",
-      "content": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]",
-      "degree": 2
+      "content": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
+      "degree": 3
     },
     {
       "id": "concepts/filosofia",
@@ -416,8 +416,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]",
-      "degree": 15
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]",
+      "degree": 16
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -726,6 +726,36 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo.md",
       "pdf_local": "sources/pdfs/arar2024-simbiosis-ia-liderazgo-educativo.pdf",
       "content": "## Resumen\n\nEl paper realiza un análisis bibliométrico sistemático de la investigación sobre IA y liderazgo educativo, utilizando la base de datos Scopus para trazar el desarrollo, las características y la acumulación de conocimiento en este campo emergente. La motivación es la ausencia de una revisión comprensiva del tema a pesar del creciente interés académico y político: los líderes educativos (directores, rectores, administradores) enfrentan la adopción acelerada de IA sin directrices claras ni investigación que oriente su práctica.\n\nEl análisis revela tendencias clave, distribución geográfica, focos temáticos y conceptos principales del campo, junto con sus implicaciones para los Objetivos de Desarrollo Sostenible (ODS), particularmente el ODS 4 de educación de calidad. El paper propone un marco conceptual de simbiosis humano-IA que subraya las fortalezas complementarias: la IA excela en el análisis de grandes volúmenes de datos educativos para apoyar decisiones basadas en evidencia, mientras que los líderes humanos aportan juicio moral, empatía y valores en decisiones que afectan a personas. Los autores identifican brechas importantes: falta de directrices prácticas, escasa investigación desde perspectivas no occidentales, y ausencia de estudios que traten la IA no como herramienta externa sino como parte constitutiva del liderazgo educativo contemporáneo.\n\n## Contribuciones principales\n- Primera revisión bibliométrica comprensiva de IA y liderazgo educativo con datos de Scopus\n- Marco conceptual de simbiosis humano-IA para el liderazgo educativo\n- Mapa de tendencias, distribución geográfica y conexiones conceptuales del campo\n- Análisis de implicaciones para ODS y agenda de investigación futura\n\n## Metodología\n\nAnálisis bibliométrico de publicaciones en Scopus sobre IA y liderazgo educativo. Uso de VOSviewer para mapeo de co-citación y análisis de clústeres temáticos. El análisis identifica volumen de publicaciones, países contribuyentes, revistas más citadas, evolución de keywords y estructura conceptual del campo.\n\n## Hallazgos clave\n- Crecimiento exponencial de publicaciones sobre IA y liderazgo educativo, concentrado en pocos países\n- Temas dominantes: toma de decisiones basada en datos, sistemas de tutores inteligentes, equidad educativa y administración escolar\n- La simbiosis humano-IA es el marco conceptual emergente dominante\n- Brechas: poco trabajo desde perspectivas del Sur Global, ausencia de marcos éticos aplicados al liderazgo\n\n## Limitaciones\n- Búsqueda limitada a Scopus; puede omitir literatura relevante en otras bases o idiomas\n- El análisis bibliométrico no capta calidad ni profundidad de los argumentos\n- El campo es emergente y la literatura muy reciente, lo que limita el análisis de tendencias a largo plazo\n\n## Notas relacionadas\n- [[concepts/liderazgo-educativo]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/supervision-humana]]\n- [[concepts/revision-sistematica-de-literatura]]"
+    },
+    {
+      "id": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
+      "kind": "paper",
+      "label": "Harnessing generative AI in chemical engineering education: Implementation and evaluation of the large language model ChatGPT v3.5",
+      "authors": [
+        "Matthew Keith",
+        "Eleanor Keiller",
+        "Christopher Windows-Yule",
+        "Iain Kings",
+        "Phillip Robbins"
+      ],
+      "year": "2025",
+      "venue": "Education for Chemical Engineers",
+      "url": "https://doi.org/10.1016/j.ece.2025.01.002",
+      "doi": "10.1016/j.ece.2025.01.002",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "STEM",
+        "aprendizaje-activo",
+        "etica-de-la-ia",
+        "alucinaciones-de-ia",
+        "evaluacion-educativa",
+        "alfabetizacion-en-ia"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio.md",
+      "pdf_local": "sources/pdfs/keith2025-genai-ingenieria-quimica-laboratorio.pdf",
+      "content": "## Resumen\n\nEste estudio presenta el diseño, implementación y evaluación de una sesión de laboratorio de ingeniería química de primer año en la Universidad de Birmingham que integra ChatGPT v3.5 como herramienta pedagógica. El marco IDEE (Identify desired outcomes, Determine level of automation, Ensure ethics, Evaluate effectiveness) estructuró la intervención: los estudiantes usaron ChatGPT para derivar un modelo matemático que predice el vaciado de un tanque de agua, luego validaron experimentalmente ese modelo y completaron encuestas pre- y post-laboratorio sobre sus percepciones del uso ético y crítico de LLMs.\n\nLa mayoría de los estudiantes tenía experiencia limitada con IA generativa al inicio del curso pero anticipaba que sería útil en su vida profesional. El análisis temático reflexivo de los datos cualitativos de las encuestas post-laboratorio identificó 8 temas, siendo el más prominente la conciencia de los estudiantes sobre la necesidad de evaluar críticamente los resultados de los LLMs y sus limitaciones —incluyendo alucinaciones y errores de cálculo. El trabajo aporta evidencia inicial sobre cómo una sola sesión de laboratorio bien diseñada puede construir alfabetización en IA en ingenieros en formación.\n\n## Contribuciones principales\n\n- Aplica el marco IDEE como guía reproducible para integrar LLMs en laboratorios de ingeniería química\n- Documenta percepciones estudiantiles antes y después de la intervención mediante análisis temático reflexivo\n- Identifica 8 temas clave sobre cómo los estudiantes construyen criterio para usar LLMs en contextos técnicos\n- Ofrece un caso de estudio detallado para instituciones que buscan integrar IA generativa en currículos de ingeniería\n\n## Metodología\n\nDiseño de caso de estudio con métodos mixtos en una cohorte de Year 1 de Chemical Engineering (Universidad de Birmingham). Sesión de laboratorio de 3 horas con tres fases: (1) uso de ChatGPT para derivar un modelo de vaciado de tanque, (2) validación experimental del modelo, (3) reflexión crítica sobre las limitaciones del LLM. Se administraron encuestas de percepción pre- y post-laboratorio; los datos cualitativos se analizaron mediante análisis temático reflexivo.\n\n## Hallazgos clave\n\n- La mayoría de los estudiantes ingresó con experiencia muy limitada en IA generativa pero con expectativas positivas sobre su utilidad futura\n- Tras la sesión, los estudiantes reportaron mayor conciencia de las limitaciones, sesgos y posibilidad de errores en las respuestas de ChatGPT\n- El tema más recurrente fue la necesidad de supervisión humana y pensamiento crítico al usar LLMs en contextos técnicos\n- ChatGPT generó respuestas incorrectas en algunos casos (alucinaciones matemáticas), lo que resultó pedagógicamente valioso para ilustrar limitaciones\n- Los estudiantes percibieron la sesión como útil para aprender a usar LLMs de forma ética y efectiva\n\n## Limitaciones\n\n- Muestra pequeña de una sola cohorte en una institución del Reino Unido; sin grupo control\n- La versión evaluada (ChatGPT v3.5) puede estar desactualizada respecto a las capacidades actuales de los LLMs\n- La naturaleza auto-reportada de las encuestas limita la validez de las conclusiones sobre aprendizaje real\n- Una sola sesión de laboratorio no permite medir efectos longitudinales sobre el desarrollo de alfabetización en IA\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/STEM]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/alfabetizacion-en-ia]]"
     },
     {
       "id": "notes/papers/2025-05-15_evaluacion-estructural-genai",
@@ -1238,6 +1268,46 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo",
       "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
+      "target": "concepts/STEM",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
+      "target": "concepts/alfabetizacion-en-ia",
       "kind": "keyword"
     },
     {

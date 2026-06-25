@@ -12,3 +12,4 @@ Conjunto de metodologías pedagógicas en que el estudiante participa activament
 - [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]
 - [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]
 - [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]
+- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]
