@@ -3,8 +3,8 @@ window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
     "papers": 1,
-    "articles": 3,
-    "concepts": 24
+    "articles": 4,
+    "concepts": 29
   },
   "nodes": [
     {
@@ -35,6 +35,21 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 1
     },
     {
+      "id": "concepts/alineamiento-de-ia",
+      "kind": "concept",
+      "label": "alineamiento de ia",
+      "keyword": "alineamiento-de-ia",
+      "aliases": [
+        "AI alignment",
+        "alineación de IA",
+        "IA constitucional",
+        "constitutional AI"
+      ],
+      "definition": "Conjunto de técnicas y objetivos orientados a que los sistemas de IA persigan los valores, intenciones y normas previstos por sus diseñadores; incluye enfoques como el constitucionalismo de IA (reglas y principios incrustados en el modelo).",
+      "path": "concepts/alineamiento-de-ia.md",
+      "degree": 1
+    },
+    {
       "id": "concepts/alucinaciones-de-ia",
       "kind": "concept",
       "label": "alucinaciones de ia",
@@ -45,7 +60,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.",
       "path": "concepts/alucinaciones-de-ia.md",
-      "degree": 2
+      "degree": 3
     },
     {
       "id": "concepts/aprendizaje-activo",
@@ -172,6 +187,51 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 2
     },
     {
+      "id": "concepts/etica-de-la-ia",
+      "kind": "concept",
+      "label": "etica de la ia",
+      "keyword": "etica-de-la-ia",
+      "aliases": [
+        "AI ethics",
+        "ética de la inteligencia artificial",
+        "deontología",
+        "consecuencialismo",
+        "moral de las máquinas"
+      ],
+      "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
+      "path": "concepts/etica-de-la-ia.md",
+      "degree": 1
+    },
+    {
+      "id": "concepts/filosofia",
+      "kind": "concept",
+      "label": "filosofia",
+      "keyword": "filosofia",
+      "aliases": [
+        "philosophy",
+        "filosofía moral",
+        "método socrático"
+      ],
+      "definition": "Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral, la mente y la existencia mediante el razonamiento y el análisis conceptual; incluye método y herramientas como el método socrático.",
+      "path": "concepts/filosofia.md",
+      "degree": 1
+    },
+    {
+      "id": "concepts/futuro-del-trabajo",
+      "kind": "concept",
+      "label": "futuro del trabajo",
+      "keyword": "futuro-del-trabajo",
+      "aliases": [
+        "future of work",
+        "mercado laboral",
+        "empleabilidad",
+        "automatización del empleo"
+      ],
+      "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
+      "path": "concepts/futuro-del-trabajo.md",
+      "degree": 1
+    },
+    {
       "id": "concepts/humanidades",
       "kind": "concept",
       "label": "humanidades",
@@ -182,7 +242,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos.",
       "path": "concepts/humanidades.md",
-      "degree": 1
+      "degree": 2
     },
     {
       "id": "concepts/impacto-de-investigacion",
@@ -210,7 +270,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "degree": 3
+      "degree": 4
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -223,7 +283,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.",
       "path": "concepts/interdisciplinariedad.md",
-      "degree": 2
+      "degree": 3
     },
     {
       "id": "concepts/modernizacion",
@@ -281,6 +341,19 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 1
     },
     {
+      "id": "concepts/seguridad-de-ia",
+      "kind": "concept",
+      "label": "seguridad de ia",
+      "keyword": "seguridad-de-ia",
+      "aliases": [
+        "AI safety",
+        "seguridad de la inteligencia artificial"
+      ],
+      "definition": "Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de IA, como evadir la supervisión, engañar a usuarios o actuar fuera del control previsto.",
+      "path": "concepts/seguridad-de-ia.md",
+      "degree": 1
+    },
+    {
       "id": "concepts/supervision-humana",
       "kind": "concept",
       "label": "supervision humana",
@@ -292,7 +365,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.",
       "path": "concepts/supervision-humana.md",
-      "degree": 2
+      "degree": 3
     },
     {
       "id": "concepts/tecnocracia",
@@ -412,6 +485,32 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos.md"
+    },
+    {
+      "id": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "kind": "article",
+      "label": "Why big AI labs are hiring so many philosophers",
+      "authors": [
+        "The Economist"
+      ],
+      "year": "2026",
+      "venue": "The Economist",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "filosofia",
+        "etica-de-la-ia",
+        "seguridad-de-ia",
+        "alineamiento-de-ia",
+        "alucinaciones-de-ia",
+        "humanidades",
+        "supervision-humana",
+        "interdisciplinariedad",
+        "futuro-del-trabajo"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/articles/2026-06-24_ia-labs-contratan-filosofos.md"
     },
     {
       "id": "notes/articles/2026-06-25_ciencia-necesita-humanidades",
@@ -588,6 +687,61 @@ window.__ACADEMIC_BRAIN__ = {
     },
     {
       "source": "notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos",
+      "target": "notes/articles/2026-06-25_ciencia-necesita-humanidades",
+      "kind": "related"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "target": "concepts/filosofia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "target": "concepts/seguridad-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "target": "concepts/alineamiento-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "target": "concepts/humanidades",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "target": "concepts/interdisciplinariedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
       "target": "notes/articles/2026-06-25_ciencia-necesita-humanidades",
       "kind": "related"
     },

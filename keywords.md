@@ -17,6 +17,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **agentes-de-ia** — Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows). _Aliases: AI agents, sistemas multi-agente, AI scientist_
 
+**alineamiento-de-ia** — Conjunto de técnicas y objetivos orientados a que los sistemas de IA persigan los valores, intenciones y normas previstos por sus diseñadores; incluye enfoques como el constitucionalismo de IA (reglas y principios incrustados en el modelo). _Aliases: AI alignment, alineación de IA, IA constitucional, constitutional AI_
+
 **alucinaciones-de-ia** — Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas. _Aliases: AI hallucinations, fabricación de datos por IA_
 
 **aprendizaje-activo** — Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real. _Aliases: active learning, pedagogía activa_
@@ -45,7 +47,13 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **etica-de-la-ciencia** — Dimensiones normativas y de responsabilidad en la producción y aplicación del conocimiento científico; incluye integridad científica, consentimiento, impacto social y dilemas morales de la investigación. _Aliases: bioética, ética de la investigación_
 
+**etica-de-la-ia** — Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas. _Aliases: AI ethics, ética de la inteligencia artificial, deontología, consecuencialismo, moral de las máquinas_
+
 ## F
+
+**filosofia** — Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral, la mente y la existencia mediante el razonamiento y el análisis conceptual; incluye método y herramientas como el método socrático. _Aliases: philosophy, filosofía moral, método socrático_
+
+**futuro-del-trabajo** — Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales. _Aliases: future of work, mercado laboral, empleabilidad, automatización del empleo_
 
 ## G
 
@@ -88,6 +96,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## R
 
 ## S
+
+**seguridad-de-ia** — Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de IA, como evadir la supervisión, engañar a usuarios o actuar fuera del control previsto. _Aliases: AI safety, seguridad de la inteligencia artificial_
 
 **supervision-humana** — La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético. _Aliases: human-in-the-loop, human oversight, control humano_
 

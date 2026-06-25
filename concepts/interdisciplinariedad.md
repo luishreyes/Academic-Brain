@@ -11,3 +11,4 @@ Integración de métodos, conceptos y perspectivas de distintas disciplinas para
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
+- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]
