@@ -12,3 +12,4 @@ Principios éticos y normas institucionales que regulan el comportamiento honest
 - [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]
 - [[notes/papers/2025-05-15_evaluacion-estructural-genai]]
 - [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]
+- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]

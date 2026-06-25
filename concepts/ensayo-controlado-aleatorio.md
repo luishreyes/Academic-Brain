@@ -10,3 +10,4 @@ Diseño experimental en que los participantes son asignados aleatoriamente a con
 
 ## Notas que usan este concepto
 - [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]
+- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]

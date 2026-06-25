@@ -20,4 +20,5 @@ Estudio de los principios morales que deben guiar el diseño y comportamiento de
 - [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]
 - [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]
 - [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]
+- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]
 - [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]

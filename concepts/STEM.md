@@ -15,3 +15,5 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]
 - [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]
 - [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]
+- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]
+- [[notes/papers/2024-07-01_prompting-quimica-preservice]]

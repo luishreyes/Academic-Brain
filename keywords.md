@@ -15,6 +15,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## A
 
+**autorregulacion-del-aprendizaje** — Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición). _Aliases: self-regulated learning, SRL, aprendizaje autorregulado, metacognición_
+
 **agentes-de-ia** — Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows). _Aliases: AI agents, sistemas multi-agente, AI scientist_
 
 **alfabetizacion-en-ia** — Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación. _Aliases: AI literacy, AI competency, competencias en IA, literacia en IA_
@@ -30,6 +32,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **bienestar-academico** — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
 
 ## C
+
+**capacidades-de-ia** — Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes. _Aliases: AI capabilities, AI benchmarking, evaluación de modelos de IA, AI performance_
 
 **comunicacion-cientifica** — Práctica de traducir y difundir conocimiento científico a audiencias no especializadas mediante medios de comunicación, resúmenes accesibles y participación pública. _Aliases: divulgación científica, ciencia abierta, public engagement, science communication_
 
