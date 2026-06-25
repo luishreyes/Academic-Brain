@@ -15,6 +15,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## A
 
+**agentes-de-ia** — Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows). _Aliases: AI agents, sistemas multi-agente, AI scientist_
+
+**alucinaciones-de-ia** — Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas. _Aliases: AI hallucinations, fabricación de datos por IA_
+
 ## B
 
 ## C
@@ -22,6 +26,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **ciencia-y-sociedad** — Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad. _Aliases: ciencia en contexto, estudios sociales de la ciencia, STS_
 
 ## D
+
+**descubrimiento-cientifico** — El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación. _Aliases: scientific discovery, investigación científica_
+
+**desarrollo-de-farmacos** — Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos. _Aliases: drug discovery, drug development, descubrimiento de fármacos_
 
 ## E
 
@@ -64,6 +72,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## R
 
 ## S
+
+**supervision-humana** — La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético. _Aliases: human-in-the-loop, human oversight, control humano_
 
 **STEM** — Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.
 
