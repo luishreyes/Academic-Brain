@@ -10,3 +10,4 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]
+- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]

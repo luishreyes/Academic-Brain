@@ -10,3 +10,4 @@ Fenómeno en que sistemas de IA generan información incorrecta o fabricada pres
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]
+- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]

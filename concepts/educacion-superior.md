@@ -11,3 +11,4 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
+- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]
