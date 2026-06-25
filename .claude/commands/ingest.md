@@ -11,7 +11,7 @@ Procesa el paper o artículo proporcionado y agrégalo al vault.
 ### 1. Obtener el contenido
 - Si es una URL: usar WebFetch para obtener el contenido completo
 - Si es un archivo en `inbox/`: leerlo con Read
-- Si el usuario subió un PDF directamente en el chat: Claude recibe el contenido del PDF; en el frontmatter poner `pdf_local: sources/pdfs/APELLIDO-AÑO.pdf` como sugerencia para que el usuario lo guarde localmente
+- Si el usuario subió un PDF directamente en el chat: leerlo con pdfminer, luego copiarlo a `sources/pdfs/APELLIDO-AÑO-slug.pdf` con Bash (`cp /root/.claude/uploads/.../archivo.pdf sources/pdfs/nombre-canonico.pdf`) para que quede en el repo
 - Si es texto pegado: procesarlo directamente
 
 ### 2. Clasificar el tipo
@@ -70,7 +70,8 @@ con mensaje: `ingest: [título corto] — [tipo]`
 ## Manejo de casos especiales
 
 - **Sin acceso a URL:** Pedir al usuario que pegue el texto o lo suba a `inbox/`
-- **PDF subido en el chat:** Claude lo lee directamente; agregar en el frontmatter `pdf_local: sources/pdfs/apellido2024.pdf` y decirle al usuario que guarde el archivo ahí localmente en Obsidian para vincularlo
-- **PDF en inbox/:** Leerlo con Read
+- **PDF subido en el chat:** Leer con pdfminer, copiar a `sources/pdfs/nombre-canonico.pdf`, incluir esa ruta en el frontmatter `pdf_local:`
+- **PDF ya en sources/pdfs/:** Leerlo con pdfminer directamente desde esa ruta
+- **PDF en inbox/:** Leerlo con pdfminer desde `inbox/`
 - **Idioma:** El resumen y los comentarios van en español; los metadatos (title, authors, journal) se conservan en el idioma original del documento
 - **Keywords:** Siempre en español para mantener coherencia del grafo

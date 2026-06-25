@@ -11,7 +11,7 @@ Vault para construir una base de conocimiento académico personal. Conecta paper
 | `notes/articles/` | Notas de artículos periodísticos procesados |
 | `concepts/` | Una página por keyword/concepto (construye el grafo) |
 | `keywords.md` | Taxonomía canónica de palabras clave — fuente de verdad |
-| `sources/pdfs/` | PDFs originales (solo local, ignorado por git) |
+| `sources/pdfs/` | PDFs originales — rastreados por git |
 | `docs/` | Visualizador web del grafo (GitHub Pages) |
 
 ## Visualizador web (GitHub Pages)
@@ -26,13 +26,13 @@ El vault tiene su propio visualizador interactivo en `docs/`, servido por GitHub
 
 ## Dónde poner los PDFs
 
-Hay tres formas equivalentes de procesar un paper en PDF:
+Los PDFs viven en `sources/pdfs/` y se suben a GitHub junto con las notas. Hay dos formas de entregarle un PDF a Claude para ingest:
 
-1. **Subir el PDF directamente en el chat de Claude Code** — la más rápida; Claude lo lee y crea la nota, el PDF no queda en el repo
-2. **Copiarlo a `inbox/`** — útil si el PDF ya está en el repo; Claude lo lee con `Read`
-3. **Guardarlo en `sources/pdfs/` localmente** — para tenerlo vinculado en Obsidian; esta carpeta está en `.gitignore` así que no pesa en git
+1. **Subirlo al chat de Claude Code** — la más rápida; Claude lo lee y lo copia a `sources/pdfs/` con el nombre canónico
+2. **Subirlo directamente a GitHub en `sources/pdfs/`** — Claude lo lee con `Read` al hacer `/ingest`
 
-Cuando el PDF viene del chat, incluir en el frontmatter `pdf_local: sources/pdfs/nombre.pdf` para que el usuario sepa dónde guardarlo localmente en Obsidian.
+Convención de nombres: `apellido-primer-autor + año + slug-corto.pdf`  
+Ejemplo: `kestin2025-tutoria-ia-supera-activo.pdf`
 
 ## Regla fundamental: gestión de keywords
 
