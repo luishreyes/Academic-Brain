@@ -19,6 +19,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **alucinaciones-de-ia** — Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas. _Aliases: AI hallucinations, fabricación de datos por IA_
 
+**aprendizaje-activo** — Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real. _Aliases: active learning, pedagogía activa_
+
 ## B
 
 **bienestar-academico** — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
@@ -38,6 +40,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## E
 
 **educacion-superior** — Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.
+
+**ensayo-controlado-aleatorio** — Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones. _Aliases: RCT, randomized controlled trial, experimento aleatorizado_
 
 **etica-de-la-ciencia** — Dimensiones normativas y de responsabilidad en la producción y aplicación del conocimiento científico; incluye integridad científica, consentimiento, impacto social y dilemas morales de la investigación. _Aliases: bioética, ética de la investigación_
 
@@ -73,6 +77,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## P
 
+**personalizacion-del-aprendizaje** — Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante. _Aliases: adaptive learning, instrucción diferenciada, aprendizaje adaptativo_
+
+**psicologia-educativa** — Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas. _Aliases: educational psychology, psicología del aprendizaje_
+
 **publicacion-academica** — Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales. _Aliases: publicación científica, peer review, revistas académicas, publish or perish_
 
 ## Q
@@ -88,6 +96,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## T
 
 **tecnocracia** — Modelo de gobernanza y organización social en que el conocimiento técnico-científico tiene primacía sobre otros saberes en la toma de decisiones políticas y económicas.
+
+**tutoria-con-ia** — Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano. _Aliases: AI tutoring, tutor inteligente, intelligent tutoring system, ITS_
 
 ## U
 

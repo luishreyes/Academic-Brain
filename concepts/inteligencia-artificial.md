@@ -11,3 +11,4 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]
 - [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]
+- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]
