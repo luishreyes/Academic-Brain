@@ -199,7 +199,19 @@
 <div id="app">
   <aside id="sidebar">
     <div class="brand">
-      <h1>🧠 Academic Brain</h1>
+      <h1>
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align:-3px;margin-right:6px">
+          <circle cx="9" cy="3.5" r="2.2" fill="var(--accent)"/>
+          <circle cx="2.5" cy="13" r="2.2" fill="var(--paper)"/>
+          <circle cx="15.5" cy="13" r="2.2" fill="var(--article)"/>
+          <circle cx="9" cy="10.5" r="2" fill="var(--concept)"/>
+          <line x1="9" y1="5.7" x2="9" y2="8.5" stroke="var(--line)" stroke-width="1.3"/>
+          <line x1="9" y1="8.5" x2="2.5" y2="11.1" stroke="var(--line)" stroke-width="1.3"/>
+          <line x1="9" y1="8.5" x2="15.5" y2="11.1" stroke="var(--line)" stroke-width="1.3"/>
+          <line x1="9" y1="3.5" x2="2.5" y2="13" stroke="var(--line)" stroke-width="1" stroke-dasharray="2 2" opacity=".4"/>
+          <line x1="2.5" y1="13" x2="15.5" y2="13" stroke="var(--line)" stroke-width="1" stroke-dasharray="2 2" opacity=".4"/>
+        </svg>Academic Brain
+      </h1>
       <p id="brand-sub">Cargando…</p>
     </div>
     <div class="sb-scroll">
@@ -237,23 +249,23 @@
         <h2>Física del grafo</h2>
         <div class="physics-row">
           <label>Repulsión</label>
-          <input type="range" id="sl-repulsion" min="500" max="12000" step="100" value="3200" />
-          <span id="lbl-repulsion">3200</span>
+          <input type="range" id="sl-repulsion" min="500" max="12000" step="100" value="9000" />
+          <span id="lbl-repulsion">9000</span>
         </div>
         <div class="physics-row">
           <label>Atracción</label>
-          <input type="range" id="sl-attraction" min="1" max="50" step="1" value="12" />
-          <span id="lbl-attraction">0.12</span>
+          <input type="range" id="sl-attraction" min="1" max="50" step="1" value="18" />
+          <span id="lbl-attraction">0.18</span>
         </div>
         <div class="physics-row">
           <label>Dist. enlaces</label>
-          <input type="range" id="sl-linkdist" min="20" max="200" step="5" value="70" />
-          <span id="lbl-linkdist">70</span>
+          <input type="range" id="sl-linkdist" min="20" max="200" step="5" value="130" />
+          <span id="lbl-linkdist">130</span>
         </div>
         <div class="physics-row">
           <label>Amortiguación</label>
-          <input type="range" id="sl-damping" min="50" max="99" step="1" value="86" />
-          <span id="lbl-damping">0.86</span>
+          <input type="range" id="sl-damping" min="50" max="99" step="1" value="60" />
+          <span id="lbl-damping">0.60</span>
         </div>
       </div>
       <div class="section">
@@ -383,10 +395,10 @@ function labelFor(n) {
 let alpha = 1;
 let alphaTarget = 0;
 const ALPHA_DECAY = 0.022;
-let simRepulsion = 3200;
-let simAttraction = 0.12;
-let simLinkDist = 70;
-let simDamping = 0.86;
+let simRepulsion = 9000;
+let simAttraction = 0.18;
+let simLinkDist = 130;
+let simDamping = 0.60;
 function reheat(t) { alphaTarget = t; if (alpha < t) alpha = t; }
 function tick() {
   const active = nodes.filter((n) => visibleKinds[n.kind]);
