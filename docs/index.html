@@ -25,7 +25,8 @@
     color: var(--text);
     overflow: hidden;
   }
-  #app { display: grid; grid-template-columns: 290px 1fr; height: 100vh; }
+  #app { display: flex; height: 100vh; }
+  #stage { flex: 1; position: relative; overflow: hidden; }
 
   /* ---- Sidebar ---- */
   #sidebar {
@@ -33,7 +34,20 @@
     border-right: 1px solid var(--line);
     display: flex; flex-direction: column;
     overflow: hidden;
+    width: 290px; min-width: 290px;
+    transition: width .2s ease, min-width .2s ease;
   }
+  #sidebar.collapsed { width: 0; min-width: 0; border-right: none; }
+  #sb-toggle {
+    position: absolute; left: 0; top: 12px; z-index: 10;
+    width: 22px; height: 36px; background: var(--panel);
+    border: 1px solid var(--line); border-left: none;
+    border-radius: 0 7px 7px 0; color: var(--muted);
+    font-size: 11px; cursor: pointer; display: flex;
+    align-items: center; justify-content: center;
+    transition: left .2s ease;
+  }
+  #sb-toggle:hover { color: var(--text); background: var(--panel-2); }
   .brand { padding: 18px 18px 12px; border-bottom: 1px solid var(--line); }
   .brand h1 { font-size: 17px; margin: 0 0 2px; letter-spacing: .2px; }
   .brand p { margin: 0; font-size: 12px; color: var(--muted); }
@@ -196,6 +210,7 @@
   </aside>
 
   <div id="stage">
+    <button id="sb-toggle" title="Mostrar/ocultar panel">◀</button>
     <svg id="svg"></svg>
     <div class="zoom-controls">
       <button id="zoom-in" title="Acercar">+</button>
@@ -570,6 +585,14 @@ function initSidebar() {
       list.appendChild(item);
     });
 }
+
+// ===================== Sidebar toggle =====================
+const sbToggle = document.getElementById("sb-toggle");
+const sidebar = document.getElementById("sidebar");
+sbToggle.addEventListener("click", () => {
+  const collapsed = sidebar.classList.toggle("collapsed");
+  sbToggle.textContent = collapsed ? "▶" : "◀";
+});
 
 // ===================== Init =====================
 function resize() { W = svg.clientWidth; H = svg.clientHeight; }
