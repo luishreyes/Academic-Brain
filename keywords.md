@@ -21,7 +21,11 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## B
 
+**bienestar-academico** — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
+
 ## C
+
+**comunicacion-cientifica** — Práctica de traducir y difundir conocimiento científico a audiencias no especializadas mediante medios de comunicación, resúmenes accesibles y participación pública. _Aliases: divulgación científica, ciencia abierta, public engagement, science communication_
 
 **ciencia-y-sociedad** — Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad. _Aliases: ciencia en contexto, estudios sociales de la ciencia, STS_
 
@@ -47,6 +51,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## I
 
+**impacto-de-investigacion** — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
+
 **inteligencia-artificial** — Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales. _Aliases: IA, AI, machine learning (cuando se usa en sentido amplio)_
 
 **interdisciplinariedad** — Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola. _Aliases: transdisciplinariedad, multidisciplinariedad_
@@ -66,6 +72,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## O
 
 ## P
+
+**publicacion-academica** — Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales. _Aliases: publicación científica, peer review, revistas académicas, publish or perish_
 
 ## Q
 
