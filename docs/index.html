@@ -133,6 +133,13 @@
     float: right; background: none; border: none; color: var(--muted);
     font-size: 20px; cursor: pointer; line-height: 1; margin: -4px -4px 0 0;
   }
+  .d-back {
+    display: none; background: none; border: none; color: var(--accent);
+    font-size: 12px; cursor: pointer; padding: 0; margin-bottom: 8px;
+    align-items: center; gap: 4px;
+  }
+  .d-back.visible { display: flex; }
+  .d-back:hover { opacity: .75; }
   .badge {
     display: inline-block; font-size: 10.5px; text-transform: uppercase; letter-spacing: .6px;
     padding: 3px 8px; border-radius: 20px; font-weight: 600; margin-bottom: 9px;
@@ -281,6 +288,7 @@
     <aside id="detail">
       <div class="d-head">
         <button class="d-close" id="d-close">×</button>
+        <button class="d-back" id="d-back">← Atrás</button>
         <span class="badge" id="d-badge"></span>
         <h2 class="d-title" id="d-title"></h2>
         <div class="d-meta" id="d-meta"></div>
@@ -323,6 +331,7 @@ for (const l of links) {
 const visibleKinds = { paper: true, article: true, concept: true };
 let showRelated = true;
 let selectedId = null;
+let navHistory = [];
 let searchTerm = "";
 
 // posiciones iniciales en círculo
@@ -583,11 +592,25 @@ wireSlider("sl-damping", "lbl-damping",
 
 // ===================== Detalle =====================
 const detail = document.getElementById("detail");
-document.getElementById("d-close").onclick = () => select(null);
+document.getElementById("d-close").onclick = () => { navHistory = []; select(null); };
+document.getElementById("d-back").onclick = () => {
+  const prev = navHistory.pop();
+  if (prev) select(prev, false);
+};
 
-function select(id) {
+function select(id, pushHistory = true) {
+  if (pushHistory && selectedId && selectedId !== id) navHistory.push(selectedId);
+  const backBtn = document.getElementById("d-back");
+  if (!id) {
+    navHistory = [];
+    selectedId = null;
+    detail.classList.remove("open");
+    applyHighlight(null);
+    backBtn.classList.remove("visible");
+    return;
+  }
+  backBtn.classList.toggle("visible", navHistory.length > 0);
   selectedId = id;
-  if (!id) { detail.classList.remove("open"); applyHighlight(null); return; }
   const n = idMap.get(id);
   if (!n) return;
   applyHighlight(id);
