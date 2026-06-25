@@ -47,9 +47,13 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ensayo-controlado-aleatorio** — Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones. _Aliases: RCT, randomized controlled trial, experimento aleatorizado_
 
+**equidad-educativa** — Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos. _Aliases: educational equity, brecha de rendimiento, brecha digital en educación_
+
 **etica-de-la-ciencia** — Dimensiones normativas y de responsabilidad en la producción y aplicación del conocimiento científico; incluye integridad científica, consentimiento, impacto social y dilemas morales de la investigación. _Aliases: bioética, ética de la investigación_
 
 **etica-de-la-ia** — Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas. _Aliases: AI ethics, ética de la inteligencia artificial, deontología, consecuencialismo, moral de las máquinas_
+
+**evaluacion-educativa** — Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa. _Aliases: assessment design, evaluación del aprendizaje, diseño de evaluación, validity_
 
 ## F
 
@@ -65,9 +69,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## I
 
-**impacto-de-investigacion**
+**impacto-de-investigacion** — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
 
-**integridad-academica** — Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política. _Aliases: academic integrity, deshonestidad académica, plagiarism, trampa académica_ — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
+**integridad-academica** — Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política. _Aliases: academic integrity, deshonestidad académica, plagiarism, trampa académica_
 
 **inteligencia-artificial** — Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales. _Aliases: IA, AI, machine learning (cuando se usa en sentido amplio)_
 

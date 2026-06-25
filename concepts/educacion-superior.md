@@ -13,3 +13,4 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
 - [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]
 - [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]
+- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]

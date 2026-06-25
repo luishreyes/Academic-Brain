@@ -2,9 +2,9 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 2,
+    "papers": 4,
     "articles": 4,
-    "concepts": 32
+    "concepts": 34
   },
   "nodes": [
     {
@@ -167,8 +167,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.",
       "path": "concepts/educacion-en-programacion.md",
-      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
-      "degree": 1
+      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]",
+      "degree": 2
     },
     {
       "id": "concepts/educacion-superior",
@@ -181,8 +181,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
-      "degree": 4
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
+      "degree": 5
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -197,6 +197,21 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones.",
       "path": "concepts/ensayo-controlado-aleatorio.md",
       "content": "Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/equidad-educativa",
+      "kind": "concept",
+      "label": "equidad educativa",
+      "keyword": "equidad-educativa",
+      "aliases": [
+        "educational equity",
+        "brecha de rendimiento",
+        "brecha digital en educación"
+      ],
+      "definition": "Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos.",
+      "path": "concepts/equidad-educativa.md",
+      "content": "Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]",
       "degree": 1
     },
     {
@@ -228,8 +243,24 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
-      "degree": 2
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
+      "degree": 3
+    },
+    {
+      "id": "concepts/evaluacion-educativa",
+      "kind": "concept",
+      "label": "evaluacion educativa",
+      "keyword": "evaluacion-educativa",
+      "aliases": [
+        "assessment design",
+        "evaluación del aprendizaje",
+        "diseño de evaluación",
+        "validity"
+      ],
+      "definition": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.",
+      "path": "concepts/evaluacion-educativa.md",
+      "content": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
+      "degree": 1
     },
     {
       "id": "concepts/filosofia",
@@ -304,8 +335,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.",
       "path": "concepts/integridad-academica.md",
-      "content": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
-      "degree": 1
+      "content": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
+      "degree": 2
     },
     {
       "id": "concepts/inteligencia-artificial",
@@ -319,8 +350,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
-      "degree": 5
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
+      "degree": 7
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -362,8 +393,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.",
       "path": "concepts/personalizacion-del-aprendizaje.md",
-      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]",
-      "degree": 1
+      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]",
+      "degree": 2
     },
     {
       "id": "concepts/psicologia-educativa",
@@ -376,8 +407,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.",
       "path": "concepts/psicologia-educativa.md",
-      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
-      "degree": 2
+      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]",
+      "degree": 3
     },
     {
       "id": "concepts/publicacion-academica",
@@ -437,8 +468,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.",
       "path": "concepts/supervision-humana.md",
-      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]",
-      "degree": 4
+      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]",
+      "degree": 6
     },
     {
       "id": "concepts/tecnocracia",
@@ -467,8 +498,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.",
       "path": "concepts/tutoria-con-ia.md",
-      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]",
-      "degree": 1
+      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]",
+      "degree": 2
     },
     {
       "id": "concepts/universidades-chinas",
@@ -483,6 +514,63 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/universidades-chinas.md",
       "content": "Sistema universitario de China, su historia, transformaciones desde 1949, políticas educativas y dinámicas actuales de internacionalización e inversión en STEM.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]",
       "degree": 1
+    },
+    {
+      "id": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "kind": "paper",
+      "label": "The Widening Gap: The Benefits and Harms of Generative AI for Novice Programmers",
+      "authors": [
+        "James Prather",
+        "Brent N. Reeves",
+        "Juho Leinonen",
+        "Stephen MacNeil",
+        "Arisoa S. Randrianasolo",
+        "Brett A. Becker",
+        "Bailey Kimmel",
+        "Jared Wright",
+        "Ben Briggs"
+      ],
+      "year": "2024",
+      "venue": "ICER '24 Vol. 1 — ACM Conference on International Computing Education Research",
+      "url": "https://doi.org/10.1145/3632620.3671116",
+      "doi": "10.1145/3632620.3671116",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-en-programacion",
+        "psicologia-educativa",
+        "tutoria-con-ia",
+        "equidad-educativa",
+        "supervision-humana",
+        "personalizacion-del-aprendizaje"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2024-08-13_widening-gap-ia-novatos.md",
+      "content": "## Resumen\n\nEste estudio replica una investigación previa sobre las dificultades metacognitivas de estudiantes novatos en programación, extendiendo el diseño original para incluir herramientas de IA generativa (ChatGPT y GitHub Copilot). A través de 21 sesiones de laboratorio con observación participante, entrevista y eye tracking, los autores examinan cómo los estudiantes de CS1 usan GenAI al resolver un problema de programación desafiante. Los resultados muestran que 20 de 21 estudiantes completaron el problema —una cifra superficialmente exitosa—, pero que oculta patrones preocupantes diferenciados por nivel de desempeño.\n\nLos hallazgos centrales evidencian una \"brecha que se amplía\" (widening gap): los estudiantes con mejor desempeño y mayor autoeficacia usaron GenAI para acelerar, aceptando sugerencias útiles e ignorando las incorrectas. En cambio, los estudiantes que ya tenían dificultades vieron cómo sus problemas metacognitivos preexistentes persistían, se compoundaban y se sumaban a dificultades nuevas introducidas por la IA (como ser desviados por sugerencias de Copilot no solicitadas o seguir código de ChatGPT sin comprenderlo). Estos estudiantes expresaron disonancia cognitiva y terminaron con una \"ilusión de competencia\": pensaban haber resuelto el problema mejor de lo que realmente lo hicieron.\n\n## Contribuciones principales\n\n- Replican con extensión a GenAI las cinco dificultades metacognitivas identificadas en el estudio original (Forming, Dislodging, Location, Achievement, Progression)\n- Identifican dos tipos de uso de GenAI: uso acelerador (estudiantes de alto desempeño) y uso comprometedor (estudiantes con dificultades)\n- Conceptualizan la \"ilusión de competencia\" como dificultad metacognitiva nueva inducida por GenAI\n- Proponen formas de andamiar la experiencia GenAI de novatos y recomiendan investigación futura\n\n## Metodología\n\nEstudio de laboratorio con 21 estudiantes universitarios de CS1. Cada participante resolvió un problema de programación (implementación de un contador de positivos/negativos) con acceso libre a GitHub Copilot y ChatGPT. Los investigadores realizaron observación participante con notas de campo, entrevistas pre/post sesión y seguimiento ocular (eye tracking) para documentar comportamiento de codificación, interacción con IA y verbalización del proceso. Se usó un análisis cualitativo inductivo inspirado en la replicación del estudio anterior.\n\n## Hallazgos clave\n\n- Las cinco dificultades metacognitivas previas persisten en presencia de GenAI\n- GenAI puede compoundar dificultades: interrupciones de Copilot provocan pérdida de concentración; sugerencias de ChatGPT desvían a estudiantes del enfoque correcto\n- Estudiantes con dificultades aceptan código de GenAI sin entenderlo, generando \"deuda metacognitiva\"\n- La tasa de aceptación de sugerencias de Copilot es mayor entre estudiantes con dificultades metacognitivas (34.1% vs 24.5%)\n- El 20/21 completó el problema: la métrica de completación enmascara diferencias en comprensión real\n\n## Limitaciones\n\n- Muestra pequeña (n=21) en una sola institución; generalización limitada\n- Solo dos herramientas GenAI (Copilot + ChatGPT); el panorama de herramientas evoluciona rápido\n- El problema de programación fue único; los resultados pueden variar con distintos tipos de tareas\n- El contexto de laboratorio puede diferir del uso natural en clase\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-programacion]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/equidad-educativa]]\n- [[concepts/supervision-humana]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]"
+    },
+    {
+      "id": "notes/papers/2025-05-15_evaluacion-estructural-genai",
+      "kind": "paper",
+      "label": "Talk is cheap: why structural assessment changes are needed for a time of GenAI",
+      "authors": [
+        "Thomas Corbin",
+        "Phillip Dawson",
+        "Danny Liu"
+      ],
+      "year": "2025",
+      "venue": "Assessment & Evaluation in Higher Education",
+      "url": "https://doi.org/10.1080/02602938.2025.2503964",
+      "doi": "10.1080/02602938.2025.2503964",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "integridad-academica",
+        "evaluacion-educativa",
+        "etica-de-la-ia",
+        "supervision-humana"
+      ],
+      "date": "2026-06-25",
+      "path": "notes/papers/2025-05-15_evaluacion-estructural-genai.md",
+      "content": "## Resumen\n\nEste artículo propone una distinción conceptual entre dos tipos de respuestas institucionales al desafío que la IA generativa plantea a la evaluación educativa: los *cambios discursivos* (modificaciones basadas en instruir a los estudiantes sobre el uso permitido de GenAI) y los *cambios estructurales* (modificaciones que rediseñan la mecánica misma de las tareas de evaluación). Los autores argumentan que la mayoría de los marcos actuales —sistemas de semáforos, escalas de uso de IA, declaraciones de niveles— son predominantemente discursivos: comunican reglas pero no las hacen cumplir, creando lo que llaman una \"ilusión de aplicación\" (enforcement illusion).\n\nLa distinción central del paper es analítica y normativa: un cambio es discursivo cuando depende de la voluntad del estudiante de seguir instrucciones; es estructural cuando la arquitectura del diseño de evaluación hace que sea difícil o imposible eludir los objetivos de aprendizaje mediante IA. El artículo argumenta que la validez de la evaluación debe construirse dentro de la arquitectura del instrumento, no imponerse a través de reglas no ejecutables. Publicado en Assessment & Evaluation in Higher Education (vol. 50, núm. 7, 1087–1097), el artículo ha generado un impacto significativo con más de 56,000 vistas y 44 citas.\n\n## Contribuciones principales\n\n- Introduce la distinción conceptual entre cambios *discursivos* y *estructurales* en el diseño de evaluación\n- Diagnostica la \"ilusión de aplicación\" (enforcement illusion) en los marcos más influyentes de respuesta a GenAI\n- Argumenta que las instituciones toman prestado el lenguaje de sistemas estructurales (semáforos vehiculares) sin tener sus mecanismos de cumplimiento\n- Propone un cambio de paradigma hacia el rediseño estructural de evaluaciones que preserve la validez ante el avance de GenAI\n\n## Metodología\n\nAnálisis crítico conceptual (no empírico) de marcos prominentes de respuesta a GenAI en educación superior. Los autores revisan documentos de política institucional, frameworks publicados y literatura especializada para identificar el patrón predominante de respuestas discursivas. El argumento es normativo: a partir de la distinción propuesta, evalúan la efectividad de los marcos existentes desde el punto de vista de la validez de la evaluación.\n\n## Hallazgos clave\n\n- Los marcos actuales (traffic light systems, AI use scales, use-level statements) son predominantemente discursivos\n- La enforcement illusion es el patrón común: los sistemas adoptan el lenguaje de mecanismos con cumplimiento real (como semáforos de tráfico) sin las capacidades de aplicación que los hacen efectivos\n- El rediseño discursivo puede tener valor para orientar a los docentes en la conceptualización del uso de IA, pero desde la perspectiva de validez genera más daño que beneficio si no va acompañado de cambios estructurales\n- La validez de la evaluación requiere que el diseño del instrumento haga difícil completar la tarea sin la habilidad evaluada, independientemente del uso de IA\n\n## Limitaciones\n\n- El análisis es conceptual, no empírico: no mide el efecto real de distintos tipos de cambios en el comportamiento estudiantil\n- No propone un catálogo sistemático de qué cambios estructurales son posibles en distintos contextos disciplinarios\n- La distinción discursivo/estructural puede ser un continuo más que una dicotomía binaria\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/integridad-academica]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/supervision-humana]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]"
     },
     {
       "id": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
@@ -651,6 +739,91 @@ window.__ACADEMIC_BRAIN__ = {
     }
   ],
   "links": [
+    {
+      "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "target": "concepts/educacion-en-programacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "target": "concepts/psicologia-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "target": "concepts/equidad-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "target": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "target": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
+      "target": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
+      "target": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "kind": "related"
+    },
     {
       "source": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
       "target": "concepts/alucinaciones-de-ia",

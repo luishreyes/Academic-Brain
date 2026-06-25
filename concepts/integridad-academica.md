@@ -10,3 +10,4 @@ Principios éticos y normas institucionales que regulan el comportamiento honest
 
 ## Notas que usan este concepto
 - [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]
+- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]
