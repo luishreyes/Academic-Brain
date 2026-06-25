@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Academic Brain — Visualizador</title>
+<style>
+  :root {
+    --bg: #0b1020;
+    --panel: #131a2c;
+    --panel-2: #1b2440;
+    --line: #263150;
+    --text: #e6ecf7;
+    --muted: #93a0bd;
+    --paper: #60a5fa;
+    --article: #2dd4bf;
+    --concept: #fbbf24;
+    --accent: #a78bfa;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    overflow: hidden;
+  }
+  #app { display: grid; grid-template-columns: 290px 1fr; height: 100vh; }
+
+  /* ---- Sidebar ---- */
+  #sidebar {
+    background: var(--panel);
+    border-right: 1px solid var(--line);
+    display: flex; flex-direction: column;
+    overflow: hidden;
+  }
+  .brand { padding: 18px 18px 12px; border-bottom: 1px solid var(--line); }
+  .brand h1 { font-size: 17px; margin: 0 0 2px; letter-spacing: .2px; }
+  .brand p { margin: 0; font-size: 12px; color: var(--muted); }
+  .sb-scroll { overflow-y: auto; padding: 14px 16px 24px; flex: 1; }
+  .section { margin-bottom: 20px; }
+  .section h2 {
+    font-size: 11px; text-transform: uppercase; letter-spacing: .8px;
+    color: var(--muted); margin: 0 0 9px; font-weight: 600;
+  }
+  .search {
+    width: 100%; padding: 9px 11px; border-radius: 9px;
+    border: 1px solid var(--line); background: var(--panel-2);
+    color: var(--text); font-size: 13px; outline: none;
+  }
+  .search:focus { border-color: var(--accent); }
+  .toggle {
+    display: flex; align-items: center; gap: 9px; padding: 6px 4px;
+    font-size: 13px; cursor: pointer; user-select: none; border-radius: 7px;
+  }
+  .toggle:hover { background: var(--panel-2); }
+  .toggle input { display: none; }
+  .swatch {
+    width: 12px; height: 12px; border-radius: 50%; flex: none;
+    box-shadow: 0 0 0 2px rgba(255,255,255,.08);
+  }
+  .toggle .count { margin-left: auto; font-size: 11px; color: var(--muted); }
+  .toggle.off { opacity: .4; }
+  .concept-list { display: flex; flex-direction: column; gap: 1px; }
+  .concept-item {
+    display: flex; align-items: center; gap: 8px; padding: 6px 8px;
+    font-size: 12.5px; border-radius: 7px; cursor: pointer; color: var(--text);
+  }
+  .concept-item:hover { background: var(--panel-2); }
+  .concept-item .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--concept); flex: none; }
+  .concept-item .deg { margin-left: auto; font-size: 11px; color: var(--muted); }
+  .hint { font-size: 11.5px; color: var(--muted); line-height: 1.5; }
+
+  /* ---- Graph ---- */
+  #stage { position: relative; }
+  svg { width: 100%; height: 100%; display: block; cursor: grab; }
+  svg.panning { cursor: grabbing; }
+  .link { stroke: var(--line); stroke-width: 1; }
+  .link.related { stroke: var(--accent); stroke-dasharray: 4 3; stroke-width: 1.4; opacity: .8; }
+  .node circle { stroke: rgba(10,14,30,.85); stroke-width: 1.5; cursor: pointer; }
+  .node text {
+    font-size: 11px; fill: var(--text); pointer-events: none;
+    paint-order: stroke; stroke: rgba(8,12,26,.9); stroke-width: 3px;
+    stroke-linejoin: round;
+  }
+  .dim { opacity: .12; transition: opacity .15s; }
+  .hl text { fill: #fff; }
+
+  .zoom-controls {
+    position: absolute; right: 14px; bottom: 14px; display: flex; flex-direction: column; gap: 6px;
+  }
+  .zoom-controls button {
+    width: 34px; height: 34px; border-radius: 9px; border: 1px solid var(--line);
+    background: var(--panel); color: var(--text); font-size: 17px; cursor: pointer;
+  }
+  .zoom-controls button:hover { background: var(--panel-2); }
+
+  /* ---- Detail panel ---- */
+  #detail {
+    position: absolute; top: 0; right: 0; height: 100%; width: 340px;
+    background: var(--panel); border-left: 1px solid var(--line);
+    transform: translateX(100%); transition: transform .22s ease;
+    display: flex; flex-direction: column; overflow: hidden;
+  }
+  #detail.open { transform: translateX(0); }
+  .d-head { padding: 18px 18px 14px; border-bottom: 1px solid var(--line); }
+  .d-close {
+    float: right; background: none; border: none; color: var(--muted);
+    font-size: 20px; cursor: pointer; line-height: 1; margin: -4px -4px 0 0;
+  }
+  .badge {
+    display: inline-block; font-size: 10.5px; text-transform: uppercase; letter-spacing: .6px;
+    padding: 3px 8px; border-radius: 20px; font-weight: 600; margin-bottom: 9px;
+  }
+  .badge.paper { background: rgba(96,165,250,.18); color: var(--paper); }
+  .badge.article { background: rgba(45,212,191,.18); color: var(--article); }
+  .badge.concept { background: rgba(251,191,36,.18); color: var(--concept); }
+  .d-title { font-size: 15.5px; line-height: 1.35; margin: 0; }
+  .d-meta { font-size: 12px; color: var(--muted); margin-top: 7px; line-height: 1.5; }
+  .d-body { padding: 16px 18px; overflow-y: auto; flex: 1; }
+  .d-body h3 {
+    font-size: 11px; text-transform: uppercase; letter-spacing: .7px;
+    color: var(--muted); margin: 0 0 8px;
+  }
+  .d-section { margin-bottom: 20px; }
+  .def { font-size: 13px; line-height: 1.55; color: var(--text); }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip {
+    font-size: 11.5px; padding: 4px 9px; border-radius: 20px; cursor: pointer;
+    background: var(--panel-2); border: 1px solid var(--line); color: var(--text);
+  }
+  .chip:hover { border-color: var(--concept); color: var(--concept); }
+  .ref-list { display: flex; flex-direction: column; gap: 2px; }
+  .ref {
+    font-size: 12.5px; padding: 7px 9px; border-radius: 7px; cursor: pointer;
+    color: var(--text); display: flex; gap: 8px; align-items: center; line-height: 1.3;
+  }
+  .ref:hover { background: var(--panel-2); }
+  .ref .dot { width: 7px; height: 7px; border-radius: 50%; flex: none; margin-top: 1px; }
+  .links-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 4px; }
+  .ext {
+    font-size: 12.5px; color: var(--accent); text-decoration: none;
+    border: 1px solid var(--line); padding: 6px 11px; border-radius: 8px;
+  }
+  .ext:hover { background: var(--panel-2); }
+  .empty { color: var(--muted); font-size: 12.5px; }
+</style>
+</head>
+<body>
+<div id="app">
+  <aside id="sidebar">
+    <div class="brand">
+      <h1>🧠 Academic Brain</h1>
+      <p id="brand-sub">Cargando…</p>
+    </div>
+    <div class="sb-scroll">
+      <div class="section">
+        <h2>Buscar</h2>
+        <input id="search" class="search" placeholder="Título, autor, keyword…" autocomplete="off" />
+      </div>
+      <div class="section">
+        <h2>Mostrar</h2>
+        <label class="toggle" data-kind="paper">
+          <span class="swatch" style="background:var(--paper)"></span> Papers
+          <span class="count" id="c-paper">0</span>
+          <input type="checkbox" checked />
+        </label>
+        <label class="toggle" data-kind="article">
+          <span class="swatch" style="background:var(--article)"></span> Artículos
+          <span class="count" id="c-article">0</span>
+          <input type="checkbox" checked />
+        </label>
+        <label class="toggle" data-kind="concept">
+          <span class="swatch" style="background:var(--concept)"></span> Conceptos
+          <span class="count" id="c-concept">0</span>
+          <input type="checkbox" checked />
+        </label>
+        <label class="toggle" data-edge="related">
+          <span class="swatch" style="background:var(--accent)"></span> Enlaces directos
+          <input type="checkbox" checked />
+        </label>
+      </div>
+      <div class="section">
+        <h2>Explorar conceptos</h2>
+        <div class="concept-list" id="concept-list"></div>
+      </div>
+      <div class="section">
+        <h2>Cómo usar</h2>
+        <p class="hint">
+          Arrastra los nodos para reorganizar. Rueda para zoom, arrastra el fondo para mover.
+          Clic en un nodo para ver su detalle. Los <b>conceptos</b> (ámbar) conectan las notas
+          que comparten una misma keyword.
+        </p>
+      </div>
+    </div>
+  </aside>
+
+  <div id="stage">
+    <svg id="svg"></svg>
+    <div class="zoom-controls">
+      <button id="zoom-in" title="Acercar">+</button>
+      <button id="zoom-out" title="Alejar">−</button>
+      <button id="zoom-fit" title="Ajustar" style="font-size:13px">⤢</button>
+    </div>
+    <aside id="detail">
+      <div class="d-head">
+        <button class="d-close" id="d-close">×</button>
+        <span class="badge" id="d-badge"></span>
+        <h2 class="d-title" id="d-title"></h2>
+        <div class="d-meta" id="d-meta"></div>
+        <div class="links-row" id="d-links"></div>
+      </div>
+      <div class="d-body" id="d-body"></div>
+    </aside>
+  </div>
+</div>
+
+<script src="graph-data.js"></script>
+<script>
+// ===================== Configuración =====================
+const CONFIG = {
+  // Base para enlazar al archivo .md original en GitHub.
+  // Tras fusionar a main, cambia la rama por "main".
+  repoBlobBase: "https://github.com/luishreyes/academic-brain/blob/claude/obsidian-academic-brain-hicj0f/",
+};
+
+const COLORS = { paper: "#60a5fa", article: "#2dd4bf", concept: "#fbbf24" };
+const DATA = window.__ACADEMIC_BRAIN__ || { nodes: [], links: [], counts: {} };
+
+// ===================== Estado =====================
+const svg = document.getElementById("svg");
+const NS = "http://www.w3.org/2000/svg";
+let W = svg.clientWidth, H = svg.clientHeight;
+
+const nodes = DATA.nodes.map((n) => ({ ...n }));
+const idMap = new Map(nodes.map((n) => [n.id, n]));
+const links = DATA.links
+  .map((l) => ({ ...l, source: idMap.get(l.source), target: idMap.get(l.target) }))
+  .filter((l) => l.source && l.target);
+
+// adyacencia para resaltar vecinos
+const neighbors = new Map(nodes.map((n) => [n.id, new Set()]));
+for (const l of links) {
+  neighbors.get(l.source.id).add(l.target.id);
+  neighbors.get(l.target.id).add(l.source.id);
+}
+
+const visibleKinds = { paper: true, article: true, concept: true };
+let showRelated = true;
+let selectedId = null;
+let searchTerm = "";
+
+// posiciones iniciales en círculo
+nodes.forEach((n, i) => {
+  const a = (i / nodes.length) * Math.PI * 2;
+  n.x = W / 2 + Math.cos(a) * 220 + (i % 7) * 4;
+  n.y = H / 2 + Math.sin(a) * 220 + (i % 5) * 4;
+  n.vx = 0; n.vy = 0;
+});
+
+function radius(n) {
+  if (n.kind === "concept") return 4 + Math.min(n.degree || 0, 12) * 1.7;
+  return 7;
+}
+
+// ===================== Render SVG =====================
+const gZoom = document.createElementNS(NS, "g");
+const gLinks = document.createElementNS(NS, "g");
+const gNodes = document.createElementNS(NS, "g");
+gZoom.appendChild(gLinks); gZoom.appendChild(gNodes);
+svg.appendChild(gZoom);
+
+const linkEls = links.map((l) => {
+  const el = document.createElementNS(NS, "line");
+  el.setAttribute("class", "link" + (l.kind === "related" ? " related" : ""));
+  gLinks.appendChild(el);
+  l._el = el;
+  return el;
+});
+
+const nodeEls = nodes.map((n) => {
+  const g = document.createElementNS(NS, "g");
+  g.setAttribute("class", "node");
+  const c = document.createElementNS(NS, "circle");
+  c.setAttribute("r", radius(n));
+  c.setAttribute("fill", COLORS[n.kind]);
+  const t = document.createElementNS(NS, "text");
+  t.setAttribute("x", radius(n) + 4);
+  t.setAttribute("y", 4);
+  t.textContent = labelFor(n);
+  g.appendChild(c); g.appendChild(t);
+  gNodes.appendChild(g);
+  n._g = g; n._c = c; n._t = t;
+  g.addEventListener("mousedown", (e) => startDragNode(e, n));
+  g.addEventListener("click", (e) => { e.stopPropagation(); select(n.id); });
+  g.addEventListener("mouseenter", () => hover(n.id));
+  g.addEventListener("mouseleave", () => hover(null));
+  return g;
+});
+
+function labelFor(n) {
+  if (n.kind === "concept") return n.label;
+  const t = n.label || "";
+  return t.length > 42 ? t.slice(0, 40) + "…" : t;
+}
+
+// ===================== Simulación de fuerzas =====================
+let alpha = 1;
+function tick() {
+  const active = nodes.filter((n) => visibleKinds[n.kind]);
+  const cx = W / 2, cy = H / 2;
+  // repulsión O(n²) — suficiente para cientos de nodos
+  for (let i = 0; i < active.length; i++) {
+    const a = active[i];
+    for (let j = i + 1; j < active.length; j++) {
+      const b = active[j];
+      let dx = a.x - b.x, dy = a.y - b.y;
+      let d2 = dx * dx + dy * dy || 0.01;
+      const f = (3200 * alpha) / d2;
+      const d = Math.sqrt(d2);
+      const fx = (dx / d) * f, fy = (dy / d) * f;
+      a.vx += fx; a.vy += fy; b.vx -= fx; b.vy -= fy;
+    }
+  }
+  // atracción por aristas
+  for (const l of links) {
+    if (!visibleKinds[l.source.kind] || !visibleKinds[l.target.kind]) continue;
+    if (l.kind === "related" && !showRelated) continue;
+    let dx = l.target.x - l.source.x, dy = l.target.y - l.source.y;
+    const d = Math.sqrt(dx * dx + dy * dy) || 0.01;
+    const ideal = l.kind === "related" ? 150 : 70;
+    const f = ((d - ideal) / d) * 0.06 * alpha;
+    const fx = dx * f, fy = dy * f;
+    l.source.vx += fx; l.source.vy += fy;
+    l.target.vx -= fx; l.target.vy -= fy;
+  }
+  // centrado + integración
+  for (const n of active) {
+    if (n === dragNode) continue;
+    n.vx += (cx - n.x) * 0.0015 * alpha;
+    n.vy += (cy - n.y) * 0.0015 * alpha;
+    n.vx *= 0.86; n.vy *= 0.86;
+    n.x += n.vx; n.y += n.vy;
+  }
+  if (alpha > 0.03) alpha *= 0.992;
+  draw();
+  requestAnimationFrame(tick);
+}
+
+function draw() {
+  for (const l of links) {
+    const vis = visibleKinds[l.source.kind] && visibleKinds[l.target.kind] &&
+                (l.kind !== "related" || showRelated);
+    l._el.style.display = vis ? "" : "none";
+    if (!vis) continue;
+    l._el.setAttribute("x1", l.source.x); l._el.setAttribute("y1", l.source.y);
+    l._el.setAttribute("x2", l.target.x); l._el.setAttribute("y2", l.target.y);
+  }
+  for (const n of nodes) {
+    n._g.style.display = visibleKinds[n.kind] ? "" : "none";
+    n._g.setAttribute("transform", `translate(${n.x},${n.y})`);
+  }
+}
+
+// ===================== Zoom / Pan =====================
+const view = { x: 0, y: 0, k: 1 };
+function applyView() {
+  gZoom.setAttribute("transform", `translate(${view.x},${view.y}) scale(${view.k})`);
+}
+svg.addEventListener("wheel", (e) => {
+  e.preventDefault();
+  const r = svg.getBoundingClientRect();
+  const mx = e.clientX - r.left, my = e.clientY - r.top;
+  const factor = e.deltaY < 0 ? 1.12 : 1 / 1.12;
+  const k2 = Math.max(0.2, Math.min(4, view.k * factor));
+  view.x = mx - ((mx - view.x) / view.k) * k2;
+  view.y = my - ((my - view.y) / view.k) * k2;
+  view.k = k2; applyView();
+}, { passive: false });
+
+let panning = false, panStart = null;
+svg.addEventListener("mousedown", (e) => {
+  if (e.target.closest(".node")) return;
+  panning = true; svg.classList.add("panning");
+  panStart = { x: e.clientX - view.x, y: e.clientY - view.y };
+});
+window.addEventListener("mousemove", (e) => {
+  if (panning) { view.x = e.clientX - panStart.x; view.y = e.clientY - panStart.y; applyView(); }
+});
+window.addEventListener("mouseup", () => { panning = false; svg.classList.remove("panning"); });
+svg.addEventListener("click", (e) => { if (!e.target.closest(".node")) select(null); });
+
+// arrastrar nodos
+let dragNode = null, dragMoved = false;
+function startDragNode(e, n) {
+  e.stopPropagation();
+  dragNode = n; dragMoved = false; alpha = Math.max(alpha, 0.4);
+}
+window.addEventListener("mousemove", (e) => {
+  if (!dragNode) return;
+  const r = svg.getBoundingClientRect();
+  dragNode.x = (e.clientX - r.left - view.x) / view.k;
+  dragNode.y = (e.clientY - r.top - view.y) / view.k;
+  dragNode.vx = 0; dragNode.vy = 0; dragMoved = true;
+});
+window.addEventListener("mouseup", () => { dragNode = null; });
+
+document.getElementById("zoom-in").onclick = () => zoomBy(1.25);
+document.getElementById("zoom-out").onclick = () => zoomBy(1 / 1.25);
+document.getElementById("zoom-fit").onclick = fitView;
+function zoomBy(f) {
+  const k2 = Math.max(0.2, Math.min(4, view.k * f));
+  view.x = W / 2 - ((W / 2 - view.x) / view.k) * k2;
+  view.y = H / 2 - ((H / 2 - view.y) / view.k) * k2;
+  view.k = k2; applyView();
+}
+function fitView() {
+  const vis = nodes.filter((n) => visibleKinds[n.kind]);
+  if (!vis.length) return;
+  let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+  for (const n of vis) { minX = Math.min(minX, n.x); minY = Math.min(minY, n.y); maxX = Math.max(maxX, n.x); maxY = Math.max(maxY, n.y); }
+  const pad = 60, bw = maxX - minX + pad * 2, bh = maxY - minY + pad * 2;
+  view.k = Math.max(0.2, Math.min(2, Math.min(W / bw, H / bh)));
+  view.x = W / 2 - ((minX + maxX) / 2) * view.k;
+  view.y = H / 2 - ((minY + maxY) / 2) * view.k;
+  applyView();
+}
+
+// ===================== Resaltado / búsqueda =====================
+function hover(id) { if (!selectedId) applyHighlight(id); }
+function applyHighlight(focusId) {
+  const term = searchTerm.trim().toLowerCase();
+  nodes.forEach((n) => {
+    let on = true;
+    if (focusId) on = n.id === focusId || neighbors.get(focusId).has(n.id);
+    if (term) on = on && matches(n, term);
+    n._g.classList.toggle("dim", !on && (!!focusId || !!term));
+    n._g.classList.toggle("hl", !!focusId && n.id === focusId);
+  });
+  links.forEach((l) => {
+    let on = true;
+    if (focusId) on = l.source.id === focusId || l.target.id === focusId;
+    if (term) on = on && matches(l.source, term) && matches(l.target, term);
+    l._el.classList.toggle("dim", !on && (!!focusId || !!term));
+  });
+}
+function matches(n, term) {
+  if (!term) return true;
+  const hay = [n.label, n.keyword, (n.authors || []).join(" "), (n.keywords || []).join(" "), (n.aliases || []).join(" ")]
+    .join(" ").toLowerCase();
+  return hay.includes(term);
+}
+
+const searchEl = document.getElementById("search");
+searchEl.addEventListener("input", () => {
+  searchTerm = searchEl.value;
+  applyHighlight(selectedId);
+});
+
+// ===================== Toggles =====================
+document.querySelectorAll(".toggle[data-kind]").forEach((t) => {
+  const kind = t.dataset.kind, input = t.querySelector("input");
+  input.addEventListener("change", () => {
+    visibleKinds[kind] = input.checked;
+    t.classList.toggle("off", !input.checked);
+    alpha = Math.max(alpha, 0.5);
+  });
+});
+const relToggle = document.querySelector(".toggle[data-edge=related]");
+relToggle.querySelector("input").addEventListener("change", (e) => {
+  showRelated = e.target.checked; relToggle.classList.toggle("off", !showRelated);
+});
+
+// ===================== Detalle =====================
+const detail = document.getElementById("detail");
+document.getElementById("d-close").onclick = () => select(null);
+
+function select(id) {
+  selectedId = id;
+  if (!id) { detail.classList.remove("open"); applyHighlight(null); return; }
+  const n = idMap.get(id);
+  if (!n) return;
+  applyHighlight(id);
+  detail.classList.add("open");
+  const badge = document.getElementById("d-badge");
+  badge.className = "badge " + n.kind;
+  badge.textContent = n.kind === "paper" ? "Paper" : n.kind === "article" ? "Artículo" : "Concepto";
+  document.getElementById("d-title").textContent = n.label;
+
+  const meta = document.getElementById("d-meta");
+  const linksRow = document.getElementById("d-links");
+  const body = document.getElementById("d-body");
+  meta.innerHTML = ""; linksRow.innerHTML = ""; body.innerHTML = "";
+
+  if (n.kind === "concept") {
+    const users = links.filter((l) => l.kind === "keyword" && l.target.id === id).map((l) => l.source);
+    meta.textContent = `${users.length} ${users.length === 1 ? "nota usa" : "notas usan"} este concepto` +
+      (n.aliases && n.aliases.length ? " · alias: " + n.aliases.join(", ") : "");
+    if (n.path) linksRow.appendChild(extLink("Ver concepto (.md)", CONFIG.repoBlobBase + n.path));
+    body.appendChild(section("Definición", defEl(n.definition || "—")));
+    body.appendChild(section("Notas que lo usan", refList(users)));
+  } else {
+    const bits = [];
+    if (n.authors && n.authors.length) bits.push(n.authors.join(", "));
+    if (n.year) bits.push(n.year);
+    if (n.venue) bits.push(n.venue);
+    meta.textContent = bits.join(" · ");
+    if (n.url) linksRow.appendChild(extLink("Ver fuente ↗", n.url));
+    if (n.path) linksRow.appendChild(extLink("Ver nota (.md)", CONFIG.repoBlobBase + n.path));
+    // keywords como chips
+    const kwWrap = document.createElement("div");
+    kwWrap.className = "chips";
+    (n.keywords || []).forEach((kw) => {
+      const chip = document.createElement("span");
+      chip.className = "chip"; chip.textContent = kw;
+      const target = idMap.get("concepts/" + kw) || nodes.find((m) => m.kind === "concept" && m.keyword === kw);
+      chip.onclick = () => target && select(target.id);
+      kwWrap.appendChild(chip);
+    });
+    body.appendChild(section("Keywords", kwWrap));
+    const related = links.filter((l) => l.kind === "related" && (l.source.id === id || l.target.id === id))
+      .map((l) => (l.source.id === id ? l.target : l.source));
+    if (related.length) body.appendChild(section("Notas relacionadas", refList(related)));
+  }
+}
+
+function section(title, contentEl) {
+  const s = document.createElement("div"); s.className = "d-section";
+  const h = document.createElement("h3"); h.textContent = title;
+  s.appendChild(h); s.appendChild(contentEl); return s;
+}
+function defEl(text) { const d = document.createElement("div"); d.className = "def"; d.textContent = text; return d; }
+function extLink(label, href) {
+  const a = document.createElement("a"); a.className = "ext"; a.href = href;
+  a.target = "_blank"; a.rel = "noopener"; a.textContent = label; return a;
+}
+function refList(items) {
+  const wrap = document.createElement("div"); wrap.className = "ref-list";
+  if (!items.length) { const e = document.createElement("div"); e.className = "empty"; e.textContent = "Ninguna todavía."; return e; }
+  items.forEach((m) => {
+    const r = document.createElement("div"); r.className = "ref";
+    const dot = document.createElement("span"); dot.className = "dot"; dot.style.background = COLORS[m.kind];
+    const span = document.createElement("span"); span.textContent = m.label;
+    r.appendChild(dot); r.appendChild(span);
+    r.onclick = () => select(m.id);
+    wrap.appendChild(r);
+  });
+  return wrap;
+}
+
+// ===================== Sidebar: conteos y lista de conceptos =====================
+function initSidebar() {
+  document.getElementById("brand-sub").textContent =
+    `${DATA.counts.papers || 0} papers · ${DATA.counts.articles || 0} artículos · ${DATA.counts.concepts || 0} conceptos`;
+  document.getElementById("c-paper").textContent = DATA.counts.papers || 0;
+  document.getElementById("c-article").textContent = DATA.counts.articles || 0;
+  document.getElementById("c-concept").textContent = DATA.counts.concepts || 0;
+
+  const list = document.getElementById("concept-list");
+  nodes.filter((n) => n.kind === "concept")
+    .sort((a, b) => (b.degree || 0) - (a.degree || 0) || a.label.localeCompare(b.label))
+    .forEach((n) => {
+      const item = document.createElement("div"); item.className = "concept-item";
+      const dot = document.createElement("span"); dot.className = "dot";
+      const name = document.createElement("span"); name.textContent = n.label;
+      const deg = document.createElement("span"); deg.className = "deg"; deg.textContent = n.degree || 0;
+      item.appendChild(dot); item.appendChild(name); item.appendChild(deg);
+      item.onclick = () => select(n.id);
+      item.onmouseenter = () => hover(n.id);
+      item.onmouseleave = () => hover(null);
+      list.appendChild(item);
+    });
+}
+
+// ===================== Init =====================
+function resize() { W = svg.clientWidth; H = svg.clientHeight; }
+window.addEventListener("resize", resize);
+resize();
+initSidebar();
+applyView();
+requestAnimationFrame(tick);
+setTimeout(fitView, 600);
+</script>
+</body>
+</html>

@@ -12,6 +12,17 @@ Vault para construir una base de conocimiento académico personal. Conecta paper
 | `concepts/` | Una página por keyword/concepto (construye el grafo) |
 | `keywords.md` | Taxonomía canónica de palabras clave — fuente de verdad |
 | `sources/pdfs/` | PDFs originales (solo local, ignorado por git) |
+| `docs/` | Visualizador web del grafo (GitHub Pages) |
+
+## Visualizador web (GitHub Pages)
+
+El vault tiene su propio visualizador interactivo en `docs/`, servido por GitHub Pages — no requiere Obsidian.
+
+- `docs/index.html` — visualizador autónomo (grafo SVG + JS vanilla, sin dependencias externas): toggles por tipo, buscador, explorador de conceptos y panel de detalle con enlaces al `.md` original.
+- `docs/build.mjs` — script Node (sin dependencias) que lee las notas, conceptos y `keywords.md` y genera `docs/graph-data.js`.
+- `docs/graph-data.js` — datos del grafo (generado; no editar a mano).
+
+**Regla:** después de cualquier cambio en notas, conceptos o keywords, ejecutar `node docs/build.mjs` y commitear `docs/graph-data.js`. El comando `/ingest` ya hace esto en su paso 10.
 
 ## Dónde poner los PDFs
 

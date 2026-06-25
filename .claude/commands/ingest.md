@@ -53,13 +53,19 @@ Para cada keyword asignada a la nota:
 - Si `concepts/KEYWORD-SLUG.md` no existe → crearlo con el formato de CLAUDE.md
 - Si ya existe → agregar un enlace a la nueva nota en "Notas que usan este concepto"
 
-### 10. Confirmar y commitear
+### 10. Regenerar los datos del visualizador
+Ejecutar `node docs/build.mjs` para regenerar `docs/graph-data.js` con la
+nueva nota, sus conceptos y conexiones. Esto mantiene el visualizador web
+(GitHub Pages) sincronizado con el vault.
+
+### 11. Confirmar y commitear
 Mostrar al usuario:
 - Nombre del archivo creado
 - Lista de keywords asignadas
 - Keywords nuevas añadidas a la taxonomía (si las hay)
 
-Commitear todos los archivos modificados con mensaje: `ingest: [título corto] — [tipo]`
+Commitear todos los archivos modificados —incluyendo `docs/graph-data.js`—
+con mensaje: `ingest: [título corto] — [tipo]`
 
 ## Manejo de casos especiales
 
