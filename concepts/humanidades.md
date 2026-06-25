@@ -10,3 +10,4 @@ Disciplinas que estudian la expresión y experiencia humana: filosofía, histori
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]
+- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]
