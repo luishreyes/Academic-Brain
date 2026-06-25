@@ -1,0 +1,136 @@
+# Academic Brain
+
+Vault para construir una base de conocimiento académico personal. Conecta papers, artículos periodísticos y conceptos a través de palabras clave compartidas.
+
+## Estructura del vault
+
+| Carpeta | Contenido |
+|---|---|
+| `inbox/` | Archivos pendientes de procesar |
+| `notes/papers/` | Notas de papers académicos procesados |
+| `notes/articles/` | Notas de artículos periodísticos procesados |
+| `concepts/` | Una página por keyword/concepto (construye el grafo) |
+| `keywords.md` | Taxonomía canónica de palabras clave — fuente de verdad |
+
+## Regla fundamental: gestión de keywords
+
+**Siempre leer `keywords.md` antes de asignar cualquier keyword.**
+
+- Usar solo keywords que existan en `keywords.md`, O proponer nuevas
+- Nunca crear dos keywords que signifiquen lo mismo (ej: "ML" vs "machine learning")
+- Si existe un quasi-duplicado, usar la forma canónica de `keywords.md`
+- Al agregar una keyword nueva: añadirla a `keywords.md` con definición corta
+- Después de asignar keywords a una nota, actualizar la página de concepto en `concepts/`
+
+## Formato de notas
+
+### Papers académicos → `notes/papers/YYYY-MM-DD_slug-del-titulo.md`
+
+```yaml
+---
+title: 
+authors: []
+year: 
+journal: 
+url: 
+doi: 
+type: paper
+keywords: []
+date_added: 
+---
+```
+
+```markdown
+# Título del paper
+
+## Resumen
+(2-4 párrafos)
+
+## Contribuciones principales
+- 
+
+## Metodología
+(breve descripción)
+
+## Hallazgos clave
+- 
+
+## Limitaciones
+- 
+
+## Notas relacionadas
+(enlaces wiki a páginas de conceptos y otras notas)
+```
+
+### Artículos periodísticos → `notes/articles/YYYY-MM-DD_slug-del-titulo.md`
+
+```yaml
+---
+title: 
+author: 
+publication: 
+date: 
+url: 
+type: article
+keywords: []
+date_added: 
+---
+```
+
+```markdown
+# Título del artículo
+
+## Resumen
+(1-2 párrafos)
+
+## Puntos clave
+- 
+
+## Contexto
+(por qué importa, qué conecta)
+
+## Notas relacionadas
+(enlaces wiki a páginas de conceptos y otras notas)
+```
+
+## Formato de páginas de concepto → `concepts/KEYWORD-SLUG.md`
+
+```yaml
+---
+type: concept
+keyword: 
+aliases: []
+---
+```
+
+```markdown
+# Nombre del concepto
+
+Definición corta (copiada de keywords.md).
+
+## Notas que usan este concepto
+- [[notes/papers/...]]
+- [[notes/articles/...]]
+```
+
+## Flujo de trabajo: ingestar un paper o artículo
+
+1. Leer el contenido (URL, PDF, o texto pegado)
+2. Determinar tipo: `paper` o `article`
+3. Leer `keywords.md` para ver keywords disponibles
+4. Extraer todos los metadatos
+5. Escribir la nota con resumen y secciones estructuradas
+6. Asignar keywords de `keywords.md` (5-12 por nota)
+7. Para keywords nuevas necesarias:
+   - Verificar que no exista quasi-duplicado en `keywords.md`
+   - Si existe quasi-duplicado → usar la forma canónica
+   - Si es genuinamente nueva → añadir a `keywords.md` con definición
+8. Crear o actualizar páginas de concepto en `concepts/` para cada keyword asignada
+9. Commitear todos los cambios con mensaje descriptivo
+
+## Convenciones
+
+- Nombres de archivo: `YYYY-MM-DD_slug-corto.md` (sin tildes, sin espacios)
+- Slug del keyword en `concepts/`: minúsculas con guiones (ej: `machine-learning.md`)
+- Los wiki-links siguen el formato Obsidian: `[[ruta/al/archivo]]`
+- Fecha: formato ISO 8601 (`YYYY-MM-DD`)
