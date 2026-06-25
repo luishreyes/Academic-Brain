@@ -10,3 +10,5 @@ Estado de salud mental y satisfacción profesional de investigadores y docentes 
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
+- [[notes/books/2018-02-20_educated-tara-westover]]
+- [[notes/books/2022-09-13_the-myth-of-normal]]

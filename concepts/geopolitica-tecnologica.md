@@ -1,0 +1,12 @@
+---
+type: concept
+keyword: geopolitica-tecnologica
+aliases: [techno-geopolitics, geopolitics of technology, geopolítica de los chips, tech competition]
+---
+
+# Geopolítica tecnológica
+
+Estudio de cómo las tecnologías críticas (semiconductores, IA, redes de comunicación) se convierten en instrumentos y escenarios de competencia entre potencias; incluye controles de exportación, cadenas de suministro estratégicas y dependencia tecnológica.
+
+## Notas que usan este concepto
+- [[notes/books/2022-10-04_chip-war-miller]]

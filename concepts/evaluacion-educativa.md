@@ -14,3 +14,4 @@ Diseño, validez y mecanismos de evaluación del aprendizaje en educación super
 - [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]
 - [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]
 - [[notes/papers/2024-07-01_prompting-quimica-preservice]]
+- [[notes/books/2023-10-24_hidden-potential-grant]]

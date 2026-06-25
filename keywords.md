@@ -33,6 +33,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## C
 
+**cadenas-de-suministro-globales** — Redes internacionales de producción, distribución y ensamblaje de bienes y componentes; en tecnología incluye la concentración geográfica de fabricación avanzada, dependencias críticas y riesgos de disrupción. _Aliases: global supply chains, supply chain, cadenas de valor globales, reshoring_
+
+**comercio-y-prosperidad** — Relación entre el intercambio voluntario de bienes, servicios e ideas y el crecimiento del bienestar humano; incluye la división del trabajo, la especialización y la función de los mercados como mecanismos de coordinación descentralizada. _Aliases: trade and prosperity, free trade, comercio libre, división del trabajo, specialization_
+
 **capacidades-de-ia** — Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes. _Aliases: AI capabilities, AI benchmarking, evaluación de modelos de IA, AI performance_
 
 **comunicacion-cientifica** — Práctica de traducir y difundir conocimiento científico a audiencias no especializadas mediante medios de comunicación, resúmenes accesibles y participación pública. _Aliases: divulgación científica, ciencia abierta, public engagement, science communication_
@@ -41,7 +45,13 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ciencia-y-sociedad** — Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad. _Aliases: ciencia en contexto, estudios sociales de la ciencia, STS_
 
+**cultura-organizacional** — Conjunto de valores, normas, rituales y creencias compartidas que definen cómo funciona una organización; incluye su relación con el rendimiento, la innovación y la adopción de sistemas de gestión como los OKR. _Aliases: organizational culture, cultura corporativa, corporate culture, culture change_
+
 ## D
+
+**desigualdad-de-genero** — Diferencias sistemáticas en oportunidades, resultados y poder entre hombres y mujeres; abarca brechas salariales, educativas, laborales y de representación, así como su intersección con raza y clase social. _Aliases: gender inequality, gender gap, brecha de género, sexismo estructural_
+
+**desarrollo-del-caracter** — Proceso de formación y fortalecimiento de virtudes y disposiciones conductuales como la proactividad, la tolerancia a la incomodidad, la disciplina y la resiliencia; se distingue de las habilidades cognitivas y técnicas y puede cultivarse a lo largo de la vida adulta. _Aliases: character development, habilidades de carácter, character skills, virtudes_
 
 **diseno-especulativo** — Metodología de diseño que propone artefactos, escenarios y futuros alternativos para estimular el pensamiento crítico y la reflexión sobre implicaciones sociales, éticas y culturales de tecnologías emergentes. _Aliases: speculative design, critical design, diseño crítico, futuros especulativos_
 
@@ -50,6 +60,12 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **desarrollo-de-farmacos** — Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos. _Aliases: drug discovery, drug development, descubrimiento de fármacos_
 
 ## E
+
+**epistemologia-del-riesgo** — Estudio filosófico del conocimiento bajo incertidumbre y riesgo; incluye el problema de la inducción, la distinción entre riesgo medible e incertidumbre radical, y las implicaciones epistemológicas de distribuciones con colas pesadas. _Aliases: risk epistemology, incertidumbre radical, uncertainty, Black Swan, cisne negro, probabilidad subjetiva_
+
+**evolucion-cultural** — Proceso por el cual las ideas, tecnologías, normas y prácticas sociales cambian a lo largo del tiempo mediante mecanismos análogos a la selección natural: variación, transmisión y selección diferencial; incluye la teoría de la evolución de doble herencia y el concepto de memes. _Aliases: cultural evolution, evolución de la cultura, memética, cultural transmission, double inheritance theory_
+
+**economia-de-la-innovacion** — Campo que estudia los determinantes económicos de la innovación tecnológica: retornos crecientes, bienes no rivales, spillovers de conocimiento, propiedad intelectual y el rol del mercado y el Estado en el proceso innovador. _Aliases: economics of innovation, Schumpeter, economía del conocimiento, retornos crecientes_
 
 **educacion-en-programacion** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas. _Aliases: CS education, computing education, educación en ciencias de la computación_
 
@@ -71,13 +87,21 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **filosofia** — Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral, la mente y la existencia mediante el razonamiento y el análisis conceptual; incluye método y herramientas como el método socrático. _Aliases: philosophy, filosofía moral, método socrático_
 
+**finanzas-personales** — Gestión individual del dinero, el ahorro, la deuda, la inversión y la planificación patrimonial; incluye el comportamiento financiero, la educación financiera y las estrategias para alcanzar seguridad económica a largo plazo. _Aliases: personal finance, educación financiera, wealth building, planificación financiera, inversión personal_
+
 **formacion-docente** — Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA. _Aliases: teacher education, teacher professional development, teacher training, desarrollo profesional docente_
 
 **futuro-del-trabajo** — Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales. _Aliases: future of work, mercado laboral, empleabilidad, automatización del empleo_
 
 ## G
 
+**gestion-por-objetivos** — Marco de gestión organizacional basado en la definición explícita de objetivos ambiciosos y resultados clave medibles (OKR: Objectives and Key Results); fomenta la transparencia, la coordinación y la responsabilidad en todos los niveles de la organización. _Aliases: OKR, objectives and key results, management by objectives, MBO, gestión por resultados_
+
+**geopolitica-tecnologica** — Estudio de cómo las tecnologías críticas (semiconductores, IA, redes de comunicación) se convierten en instrumentos y escenarios de competencia entre potencias; incluye controles de exportación, cadenas de suministro estratégicas y dependencia tecnológica. _Aliases: techno-geopolitics, geopolitics of technology, geopolítica de los chips, tech competition_
+
 ## H
+
+**historia-de-la-innovacion** — Estudio histórico de cómo las innovaciones tecnológicas, científicas y sociales se desarrollaron y difundieron; examina patrones de invención incremental, resistencia institucional y atribución colectiva de la autoría. _Aliases: history of innovation, history of technology, historia de la tecnología_
 
 **humanidades** — Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos. _Aliases: ciencias humanas, artes y humanidades_
 
@@ -97,9 +121,13 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## L
 
+**liderazgo-organizacional** — Capacidad de personas en posiciones de autoridad para definir visión, movilizar equipos y gestionar el cambio en organizaciones empresariales, sin fines de lucro o gubernamentales; incluye liderazgo transformacional, coaching ejecutivo y cultura de alto rendimiento. _Aliases: organizational leadership, liderazgo empresarial, executive leadership, liderazgo transformacional_
+
 **liderazgo-educativo** — Gestión, dirección y toma de decisiones en instituciones educativas; incluye el rol de directores, administradores y líderes escolares en el diseño de políticas pedagógicas y la adopción de tecnologías emergentes como la IA. _Aliases: educational leadership, school leadership, gestión educativa, administración educativa_
 
 ## M
+
+**medicina-basada-en-evidencia** — Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio. _Aliases: evidence-based medicine, EBM, medicina basada en evidencias_
 
 **modernizacion** — Procesos de transformación social, económica e institucional guiados por ideales de progreso técnico y racionalidad científica; históricamente asociados a industrialización y construcción de Estado-nación. _Aliases: modernidad, alto modernismo_
 
@@ -108,6 +136,14 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## O
 
 ## P
+
+**pensamiento-critico-medico**
+
+**poder-y-persuasion** — Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico. _Aliases: power and persuasion, influence, maquiavelismo, strategic power, Machiavelli, realpolitik_
+
+**politica-social** — Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia. _Aliases: social policy, políticas públicas sociales, welfare policy, programas sociales_ — Capacidad para evaluar con escepticismo y rigor la evidencia científica médica, identificar sesgos institucionales y resistir el pensamiento grupal (*groupthink*) en contextos clínicos y de salud pública. _Aliases: critical thinking in medicine, medical skepticism, escepticismo médico, groupthink médico_
+
+**personalidad-introversion** — Dimensión del temperamento caracterizada por la preferencia por entornos de baja estimulación, la orientación hacia la vida interior y la tendencia a procesar la experiencia con mayor profundidad y deliberación; se distingue de la timidez y complementa a la extroversión en el espectro de la personalidad. _Aliases: introversion, extroversion, temperamento introvertido, Big Five openness, personality temperament_
 
 **personalizacion-del-aprendizaje** — Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante. _Aliases: adaptive learning, instrucción diferenciada, aprendizaje adaptativo_
 
@@ -125,6 +161,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## S
 
+**sesgo-cognitivo** — Patrones sistemáticos de desviación del razonamiento racional debidos a heurísticas y limitaciones cognitivas humanas; incluye sesgos como disponibilidad, anclaje, representatividad y sesgo de supervivencia. _Aliases: cognitive bias, heurísticas cognitivas, bias cognitivo, behavioral economics, economía conductual_
+
+**salud-y-sociedad** — Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos. _Aliases: social determinants of health, determinantes sociales de la salud, health and society, medicina social_
+
 **seguridad-de-ia** — Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de IA, como evadir la supervisión, engañar a usuarios o actuar fuera del control previsto. _Aliases: AI safety, seguridad de la inteligencia artificial_
 
 **supervision-humana** — La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético. _Aliases: human-in-the-loop, human oversight, control humano_
@@ -132,6 +172,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **STEM** — Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.
 
 ## T
+
+**trauma-y-salud** — Estudio del impacto del trauma psicológico —especialmente el trauma temprano y el trauma complejo— sobre la salud física y mental; incluye la neurobiología del estrés crónico, la epigenética del trauma y los enfoques de atención informada en trauma. _Aliases: trauma and health, trauma-informed care, trauma complejo, adverse childhood experiences, ACEs, psiconeuroinmunología_
 
 **tecnocracia** — Modelo de gobernanza y organización social en que el conocimiento técnico-científico tiene primacía sobre otros saberes en la toma de decisiones políticas y económicas.
 

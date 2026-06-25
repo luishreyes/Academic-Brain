@@ -11,3 +11,5 @@ Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso d
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]
 - [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]
+- [[notes/books/2022-10-04_chip-war-miller]]
+- [[notes/books/2020-04-04_how-innovation-works-ridley]]

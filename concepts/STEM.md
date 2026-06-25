@@ -17,3 +17,5 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]
 - [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]
 - [[notes/papers/2024-07-01_prompting-quimica-preservice]]
+- [[notes/books/2022-10-04_chip-war-miller]]
+- [[notes/books/2022-09-26_of-boys-and-men-reeves]]

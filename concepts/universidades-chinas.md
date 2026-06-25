@@ -10,3 +10,4 @@ Sistema universitario de China, su historia, transformaciones desde 1949, polít
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]
+- [[notes/books/2022-10-04_chip-war-miller]]
