@@ -6,12 +6,12 @@ Vault para construir una base de conocimiento académico personal. Conecta paper
 
 | Carpeta | Contenido |
 |---|---|
-| `inbox/` | Archivos pendientes de procesar |
+| `sources/inbox/` | PDFs nuevos subidos a GitHub, pendientes de ingest |
+| `sources/pdfs/` | PDFs procesados con nombre canónico — rastreados por git |
 | `notes/papers/` | Notas de papers académicos procesados |
 | `notes/articles/` | Notas de artículos periodísticos procesados |
 | `concepts/` | Una página por keyword/concepto (construye el grafo) |
 | `keywords.md` | Taxonomía canónica de palabras clave — fuente de verdad |
-| `sources/pdfs/` | PDFs originales — rastreados por git |
 | `docs/` | Visualizador web del grafo (GitHub Pages) |
 
 ## Visualizador web (GitHub Pages)
@@ -26,12 +26,20 @@ El vault tiene su propio visualizador interactivo en `docs/`, servido por GitHub
 
 ## Dónde poner los PDFs
 
-Los PDFs viven en `sources/pdfs/` y se suben a GitHub junto con las notas. Hay dos formas de entregarle un PDF a Claude para ingest:
+**Flujo principal:** subir PDFs a `sources/inbox/` en GitHub → escribir `/ingest` → Claude los procesa, los mueve a `sources/pdfs/` con nombre canónico y crea la nota.
 
-1. **Subirlo al chat de Claude Code** — la más rápida; Claude lo lee y lo copia a `sources/pdfs/` con el nombre canónico
-2. **Subirlo directamente a GitHub en `sources/pdfs/`** — Claude lo lee con `Read` al hacer `/ingest`
+**Alternativas:**
+- Subir al chat de Claude Code: Claude lo lee y lo copia a `sources/pdfs/` directamente
+- Pegar texto o dar URL: Claude procesa sin PDF local
 
-Convención de nombres: `apellido-primer-autor + año + slug-corto.pdf`  
+**Al hacer `/ingest` con PDFs en `sources/inbox/`:**
+1. Claude lee todos los archivos en `sources/inbox/`
+2. Los procesa (extrae metadatos, redacta resumen, asigna keywords)
+3. Mueve cada PDF a `sources/pdfs/apellido-año-slug.pdf` (nombre canónico)
+4. Elimina el archivo original de `sources/inbox/`
+5. Crea las notas, actualiza conceptos, commite todo
+
+Convención de nombres canónicos: `apellido-primer-autor + año + slug-corto.pdf`  
 Ejemplo: `kestin2025-tutoria-ia-supera-activo.pdf`
 
 ## Regla fundamental: gestión de keywords
