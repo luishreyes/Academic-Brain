@@ -11,6 +11,5 @@
 .DS_Store
 Thumbs.db
 
-# PDFs — guardados localmente en Obsidian, no en git (son archivos pesados)
-# Para vincular un PDF desde una nota usa: [[sources/pdfs/nombre-del-paper.pdf]]
-sources/pdfs/
+# PDFs — guardados en sources/pdfs/ y rastreados por git
+# Nota: el repo es privado o de uso personal; respetar derechos de autor
