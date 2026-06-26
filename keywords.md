@@ -212,6 +212,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **sesgo-cognitivo**
 
+**sostenibilidad** — Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social. _Aliases: sustainability, desarrollo sostenible, sustainable development goals, SDGs, campus sostenible, sostenibilidad universitaria_
+
 **simulacion-computacional** — Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores. _Aliases: CFD, computational simulation, computational fluid dynamics, process simulation, modelado de procesos_ — Patrones sistemáticos de desviación del razonamiento racional debidos a heurísticas y limitaciones cognitivas humanas; incluye sesgos como disponibilidad, anclaje, representatividad y sesgo de supervivencia. _Aliases: cognitive bias, heurísticas cognitivas, bias cognitivo, behavioral economics, economía conductual_
 
 **salud-y-sociedad** — Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos. _Aliases: social determinants of health, determinantes sociales de la salud, health and society, medicina social_
