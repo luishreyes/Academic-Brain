@@ -14,3 +14,4 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]
 - [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]
 - [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]
+- [[notes/papers/2025-04-03_gases-malolientes-aguas]]

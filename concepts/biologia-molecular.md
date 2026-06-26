@@ -39,3 +39,6 @@ Campo que estudia los mecanismos moleculares de los procesos biológicos: expres
 - [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]
 - [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]
 - [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]
+- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]
+- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]
+- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]

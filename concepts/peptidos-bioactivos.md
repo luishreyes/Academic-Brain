@@ -16,3 +16,5 @@ Péptidos cortos con actividad biológica (antimicrobiana, antioxidante, inmunom
 - [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]
 - [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]
 - [[notes/papers/2025-01-01_amp-downstream-processing]]
+- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]
+- [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]

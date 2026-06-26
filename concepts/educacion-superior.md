@@ -35,3 +35,4 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]
 - [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]
 - [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]
+- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]

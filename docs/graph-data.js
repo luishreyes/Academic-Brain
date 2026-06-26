@@ -2,10 +2,10 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 99,
+    "papers": 105,
     "articles": 13,
     "books": 28,
-    "concepts": 97
+    "concepts": 98
   },
   "nodes": [
     {
@@ -111,8 +111,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "path": "concepts/aprendizaje-activo.md",
-      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]",
-      "degree": 11
+      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]",
+      "degree": 12
     },
     {
       "id": "concepts/autorregulacion-del-aprendizaje",
@@ -175,8 +175,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.",
       "path": "concepts/biologia-molecular.md",
-      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]",
-      "degree": 31
+      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]",
+      "degree": 34
     },
     {
       "id": "concepts/biologia-sintetica",
@@ -226,8 +226,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.",
       "path": "concepts/biomateriales.md",
-      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]",
-      "degree": 27
+      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]",
+      "degree": 28
     },
     {
       "id": "concepts/bioquimica-computacional",
@@ -259,8 +259,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Moléculas tensoactivas de origen biológico (péptidos, lipopéptidos, glicolípidos) que reducen la tensión interfacial agua-aceite; alternativas verdes a surfactantes petroquímicos; su diseño racional combina estructura molecular y simulaciones computacionales.",
       "path": "concepts/biosurfactantes.md",
-      "content": "Moléculas tensoactivas de origen biológico (péptidos, lipopéptidos, glicolípidos) que reducen la tensión interfacial agua-aceite; alternativas verdes a surfactantes petroquímicos; su diseño racional combina estructura molecular y simulaciones computacionales.\n\n## Notas que usan este concepto\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]",
-      "degree": 3
+      "content": "Moléculas tensoactivas de origen biológico (péptidos, lipopéptidos, glicolípidos) que reducen la tensión interfacial agua-aceite; alternativas verdes a surfactantes petroquímicos; su diseño racional combina estructura molecular y simulaciones computacionales.\n\n## Notas que usan este concepto\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]",
+      "degree": 4
     },
     {
       "id": "concepts/cadenas-de-suministro-globales",
@@ -420,8 +420,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.",
       "path": "concepts/desarrollo-de-farmacos.md",
-      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]",
-      "degree": 19
+      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]",
+      "degree": 22
     },
     {
       "id": "concepts/desarrollo-del-caracter",
@@ -613,8 +613,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]",
-      "degree": 26
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]",
+      "degree": 27
     },
     {
       "id": "concepts/enfermedades-raras",
@@ -761,8 +761,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.",
       "path": "concepts/evolucion-de-laboratorio.md",
-      "content": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]",
-      "degree": 9
+      "content": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]",
+      "degree": 10
     },
     {
       "id": "concepts/filosofia",
@@ -825,8 +825,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "path": "concepts/futuro-del-trabajo.md",
-      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]",
-      "degree": 20
+      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]",
+      "degree": 21
     },
     {
       "id": "concepts/genomica",
@@ -923,6 +923,25 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 4
     },
     {
+      "id": "concepts/ingenieria-ambiental",
+      "kind": "concept",
+      "label": "ingenieria ambiental",
+      "keyword": "ingenieria-ambiental",
+      "aliases": [
+        "environmental engineering",
+        "biotecnología ambiental",
+        "tratamiento de aguas",
+        "calidad del agua",
+        "water quality",
+        "bioremediation",
+        "biorremediación"
+      ],
+      "definition": "Aplicación de principios de ingeniería y biotecnología al tratamiento y la prevención de la contaminación en agua, aire y suelo; incluye tratamiento de aguas residuales, remoción de olores y gases, biofiltración, calidad del agua y ciclos biogeoquímicos.",
+      "path": "concepts/ingenieria-ambiental.md",
+      "content": "Aplicación de principios de ingeniería y biotecnología al tratamiento y la prevención de la contaminación en agua, aire y suelo; incluye tratamiento de aguas residuales, remoción de olores y gases, biofiltración, calidad del agua y ciclos biogeoquímicos.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/ingenieria-de-alimentos",
       "kind": "concept",
       "label": "ingenieria de alimentos",
@@ -969,8 +988,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.",
       "path": "concepts/ingenieria-quimica.md",
-      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/books/2011-01-01_chemical-product-design-cussler]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]",
-      "degree": 66
+      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/books/2011-01-01_chemical-product-design-cussler]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]",
+      "degree": 68
     },
     {
       "id": "concepts/integridad-academica",
@@ -1000,8 +1019,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]",
-      "degree": 27
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]",
+      "degree": 28
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -1145,8 +1164,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.",
       "path": "concepts/nanociencia.md",
-      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]",
-      "degree": 23
+      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]",
+      "degree": 24
     },
     {
       "id": "concepts/pensamiento-critico-medico",
@@ -1178,8 +1197,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Péptidos cortos con actividad biológica (antimicrobiana, antioxidante, inmunomoduladora) derivados de proteínas mediante hidrólisis enzimática o fermentación microbiana; incluye los péptidos antimicrobianos (AMPs) y su descubrimiento in silico.",
       "path": "concepts/peptidos-bioactivos.md",
-      "content": "Péptidos cortos con actividad biológica (antimicrobiana, antioxidante, inmunomoduladora) derivados de proteínas mediante hidrólisis enzimática o fermentación microbiana; incluye los péptidos antimicrobianos (AMPs) y su descubrimiento in silico.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]",
-      "degree": 7
+      "content": "Péptidos cortos con actividad biológica (antimicrobiana, antioxidante, inmunomoduladora) derivados de proteínas mediante hidrólisis enzimática o fermentación microbiana; incluye los péptidos antimicrobianos (AMPs) y su descubrimiento in silico.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]",
+      "degree": 9
     },
     {
       "id": "concepts/percepcion-multisensorial",
@@ -1244,8 +1263,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de hidrocarburos; incluye flujos multifásicos, emulsiones de crudo, demulsificación, reología de crudos pesados y técnicas de recuperación mejorada.",
       "path": "concepts/petroleo-y-gas.md",
-      "content": "Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de hidrocarburos; incluye flujos multifásicos, emulsiones de crudo, demulsificación, reología de crudos pesados y técnicas de recuperación mejorada.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]",
-      "degree": 1
+      "content": "Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de hidrocarburos; incluye flujos multifásicos, emulsiones de crudo, demulsificación, reología de crudos pesados y técnicas de recuperación mejorada.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]",
+      "degree": 2
     },
     {
       "id": "concepts/poder-y-persuasion",
@@ -1295,8 +1314,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.",
       "path": "concepts/proteinas-recombinantes.md",
-      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]",
-      "degree": 10
+      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]",
+      "degree": 11
     },
     {
       "id": "concepts/psicologia-educativa",
@@ -1390,8 +1409,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos.",
       "path": "concepts/salud-y-sociedad.md",
-      "content": "Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]",
-      "degree": 8
+      "content": "Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]",
+      "degree": 9
     },
     {
       "id": "concepts/seguridad-de-ia",
@@ -1456,8 +1475,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.",
       "path": "concepts/sostenibilidad.md",
-      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]",
-      "degree": 5
+      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]",
+      "degree": 6
     },
     {
       "id": "concepts/supervision-humana",
@@ -3777,6 +3796,65 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nLas vesículas de membrana externa (OMVs) son estructuras esféricas que contienen una pequeña fracción del periplasma de bacterias Gram-negativas rodeada por su membrana externa. Se producen y desprenden naturalmente de la superficie bacteriana, participan en diversos procesos biológicos y tienen tamaños en el rango nanométrico, lo que las hace atractivas como nanovehículos para entrega de fármacos, antígenos y vacunas.\n\nEste trabajo metodológico desarrolla la producción y purificación de OMVs que encapsulan proteína verde fluorescente (GFP) recombinante a partir de *Escherichia coli*, como paso hacia tecnologías de OMV escalables. Se optimizan las condiciones de producción y los protocolos de purificación, usando la GFP como proteína reportera para verificar la encapsulación de carga dentro de las vesículas.\n\nEl estudio sienta bases prácticas para escalar la producción de OMVs cargadas, un cuello de botella clave para su aplicación biotecnológica y biomédica, integrando expresión recombinante, bioprocesamiento y caracterización de nanovesículas.\n\n## Contribuciones principales\n- Protocolo de producción y purificación de OMVs que encapsulan GFP recombinante en *E. coli*.\n- Uso de GFP como reportera para validar la encapsulación de carga.\n- Avance hacia tecnologías de OMV escalables para entrega de biomoléculas.\n\n## Metodología\nExpresión recombinante de GFP en *E. coli*, inducción/recuperación de OMVs, purificación y caracterización de las nanovesículas cargadas.\n\n## Hallazgos clave\n- Es posible encapsular una proteína recombinante dentro de OMVs de *E. coli*.\n- Los protocolos optimizados acercan la producción de OMVs a una escala aplicable.\n\n## Limitaciones\n- Prueba de concepto con una proteína reportera (GFP).\n- Escalado industrial aún por demostrar.\n\n## Notas relacionadas\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/biologia-molecular]]\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/ingenieria-quimica]]"
     },
     {
+      "id": "notes/papers/2024-12-02_cpp-posicion-captacion-magnetita",
+      "kind": "paper",
+      "label": "Evaluating the impact of cell-penetrating motif position on the cellular uptake of magnetite nanoparticles",
+      "authors": [
+        "Laura Salgado",
+        "Paula C. Cifuentes-Delgado",
+        "Juan Camilo Orozco",
+        "Carolina Muñoz-Camargo",
+        "Luis H. Reyes",
+        "Valentina Quezada",
+        "Juan C. Cruz"
+      ],
+      "year": "2024",
+      "venue": "Frontiers in Bioengineering and Biotechnology",
+      "url": "https://doi.org/10.3389/fbioe.2024.1450694",
+      "doi": "10.3389/fbioe.2024.1450694",
+      "keywords": [
+        "nanociencia",
+        "biomateriales",
+        "desarrollo-de-farmacos",
+        "biologia-molecular"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2024-12-02_cpp-posicion-captacion-magnetita.md",
+      "pdf_local": "sources/pdfs/salgado-2024-cpp-captacion-magnetita.pdf",
+      "content": "## Resumen\nLos péptidos penetrantes de células (cell-penetrating peptides, CPPs) se han empleado para mejorar la captación celular y la entrega intracelular de diversos nanovehículos. Entre estos, las nanopartículas (NPs) sirven como portadores adecuados para entregar moléculas bioactivas. Este estudio evalúa cómo la **posición** del motivo penetrante de células sobre la superficie/estructura del conjugado afecta la captación celular de nanopartículas de magnetita.\n\nEl trabajo conjuga CPPs con nanopartículas de magnetita en distintas configuraciones posicionales y compara su internalización celular, buscando determinar la disposición óptima del motivo para maximizar la entrega intracelular. Se analizan los efectos de la posición sobre la eficiencia de captación y las rutas de internalización.\n\nLos resultados informan el diseño racional de nanobioconjugados para entrega intracelular, mostrando que no solo la presencia sino también la ubicación del motivo penetrante condiciona el desempeño del nanovehículo.\n\n## Contribuciones principales\n- Evaluación del efecto de la posición del motivo CPP en la captación de nanopartículas de magnetita.\n- Evidencia de que la disposición del motivo, no solo su presencia, modula la internalización.\n- Guía para el diseño de nanobioconjugados de entrega intracelular.\n\n## Metodología\nConjugación de CPPs a nanopartículas de magnetita en distintas posiciones y evaluación experimental de la captación e internalización celular.\n\n## Hallazgos clave\n- La posición del motivo penetrante afecta significativamente la captación celular.\n- El diseño posicional optimiza la entrega intracelular de nanovehículos.\n\n## Limitaciones\n- Estudio in vitro; falta validación in vivo.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/biologia-molecular]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]"
+    },
+    {
+      "id": "notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante",
+      "kind": "paper",
+      "label": "DNA shuffling to improve crude-water interfacial activity in biosurfactants with OmpA protein of Escherichia coli",
+      "authors": [
+        "Vanessa Lucía Nuñez Velez",
+        "Liseth Daniela Villamizar Gomez",
+        "Jhon E. Mendoza Ospina",
+        "Yasser Hayek-Orduz",
+        "Miguel Fernandez-Niño",
+        "Silvia Restrepo Restrepo",
+        "Óscar Alberto Álvarez Solano",
+        "Luis H. Reyes Barrios",
+        "Andres F. Gonzalez Barrios"
+      ],
+      "year": "2024",
+      "venue": "PeerJ",
+      "url": "https://doi.org/10.7717/peerj.17239",
+      "doi": "10.7717/peerj.17239",
+      "keywords": [
+        "biosurfactantes",
+        "proteinas-recombinantes",
+        "biologia-molecular",
+        "evolucion-de-laboratorio",
+        "petroleo-y-gas"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante.md",
+      "pdf_local": "sources/pdfs/nunez-2024-dna-shuffling-ompa-biosurfactante.pdf",
+      "content": "## Resumen\nLos surfactantes, derivados principalmente del petróleo, reducen la tensión superficial en las interfaces, pero su lenta degradación genera problemas ambientales, lo que motiva la búsqueda de biosurfactantes efectivos y amigables con el ambiente. En estudios previos, el grupo había demostrado la actividad de tensión superficial de la proteína transmembrana OmpA de *Escherichia coli*. Aquí aplican **DNA shuffling** (barajado de ADN, una técnica de evolución dirigida in vitro) sobre el gen *ompA* para mejorar su actividad interfacial.\n\nSe evaluaron los cambios en la tensión interfacial al exponer los mutantes a una interfaz agua-aceite, con el fin de identificar los candidatos más prometedores. Dos mutantes alcanzaron valores de tensión interfacial menores (9.10 mN/m y 4.24 mN/m) que la proteína original OmpA (14.98 mN/m). Dado que los puntos isoeléctricos predichos están lejos del pH neutro, la carga de la proteína resultó un factor crucial para explicar la migración hacia la interfaz; los mutantes de bajo peso molecular no mostraron diferencia significativa en su migración.\n\nEl trabajo avanza el diseño de biosurfactantes proteicos como alternativas verdes a los surfactantes petroquímicos, con aplicaciones potenciales en recuperación mejorada de petróleo (EOR).\n\n## Contribuciones principales\n- Aplicación de DNA shuffling a *ompA* para mejorar su actividad interfacial.\n- Dos mutantes con tensión interfacial sustancialmente menor que OmpA nativa.\n- Identificación de la carga proteica como factor clave de migración a la interfaz.\n\n## Metodología\nDNA shuffling del gen *ompA*, expresión de mutantes y medición de tensión interfacial agua-aceite; análisis del punto isoeléctrico y peso molecular.\n\n## Hallazgos clave\n- La evolución dirigida mejora la actividad interfacial de una proteína biosurfactante.\n- La carga (punto isoeléctrico) gobierna la migración a la interfaz más que el peso molecular.\n\n## Limitaciones\n- Validación a escala de laboratorio en sistema agua-aceite modelo.\n- Correlación parcial entre propiedades predichas y desempeño.\n\n## Notas relacionadas\n- [[concepts/biosurfactantes]]\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/biologia-molecular]]\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/petroleo-y-gas]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]"
+    },
+    {
       "id": "notes/papers/2025-01-01_amp-analisis-estadistico-datos",
       "kind": "paper",
       "label": "Statistical analysis and data interpretation (Chapter 5)",
@@ -3797,6 +3875,31 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-01-01_amp-analisis-estadistico-datos.md",
       "pdf_local": "sources/pdfs/reyes-2025-amp-analisis-estadistico.pdf",
       "content": "## Resumen\nCapítulo 5 del libro *Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development* (Elsevier, 2025). Ante el rápido avance de los métodos computacionales para el descubrimiento de péptidos antimicrobianos (AMPs), el capítulo argumenta que una base sólida en análisis estadístico es esencial para comprender e interpretar las enormes cantidades de datos generados.\n\nDominar los conceptos y procesos fundamentales del análisis estadístico permite reconocer patrones, relaciones y tendencias en los datos, y así tomar decisiones informadas sobre la eficacia y seguridad de los AMPs. El capítulo recorre el papel de la estadística en múltiples etapas del proceso de investigación —desde la preparación de datos crudos hasta la prueba de hipótesis y la interpretación de resultados— e incluye la selección de modelos, la optimización de parámetros y la cuantificación de incertidumbres.\n\nEl objetivo es guiar al lector, de forma organizada y accesible, a través de conceptos y métodos estadísticos esenciales para evaluar el potencial de los AMPs recién descubiertos.\n\n## Contribuciones principales\n- Marco de análisis estadístico aplicado al descubrimiento computacional de AMPs.\n- Guía sobre preparación de datos, prueba de hipótesis y selección de modelos.\n- Énfasis en cuantificar incertidumbre y significancia de los resultados.\n\n## Metodología\nCapítulo de revisión sobre conceptos y procedimientos de análisis estadístico e interpretación de datos.\n\n## Hallazgos clave\n- El rigor estadístico determina la fiabilidad y validez de los datos de AMPs.\n- La interpretación correcta de los datos es clave para decisiones sobre eficacia y seguridad.\n\n## Limitaciones\n- Capítulo metodológico/conceptual, sin un caso experimental único.\n\n## Notas relacionadas\n- [[concepts/ciencia-de-datos]]\n- [[concepts/peptidos-bioactivos]]\n- [[concepts/bioquimica-computacional]]"
+    },
+    {
+      "id": "notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica",
+      "kind": "paper",
+      "label": "Physicochemical and biochemical characterization of antimicrobial peptides (Chapter 12)",
+      "authors": [
+        "Valentina Quezada",
+        "Paula Guzmán-Sastoque",
+        "María Camila Rincón-García",
+        "Luis H. Reyes",
+        "Juan C. Cruz"
+      ],
+      "year": "2025",
+      "venue": "Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development (Elsevier), cap. 12",
+      "url": "https://doi.org/10.1016/B978-0-443-15393-8.00012-9",
+      "doi": "10.1016/B978-0-443-15393-8.00012-9",
+      "keywords": [
+        "peptidos-bioactivos",
+        "biologia-molecular",
+        "desarrollo-de-farmacos"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica.md",
+      "pdf_local": "sources/pdfs/quezada-2025-amp-caracterizacion-fisicoquimica.pdf",
+      "content": "## Resumen\nCapítulo 12 del libro *Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development* (Elsevier, 2025). Los péptidos antimicrobianos (AMPs) han captado gran atención como clase prometedora de antibióticos por sus diversos mecanismos de acción —distintos a los de los antibióticos convencionales—: alteran la estructura de la membrana, inhiben la síntesis de proteínas y ADN, y reprimen procesos celulares como el plegamiento proteico y la síntesis de pared celular. Estos mecanismos múltiples les dan fuerte actividad frente a bacterias Gram-positivas y Gram-negativas, hongos y virus, incluidos patógenos resistentes, y les confieren además propiedades inmunomoduladoras.\n\nEl capítulo sostiene que una comprensión amplia de los AMPs se logra mediante el análisis profundo de sus propiedades fisicoquímicas y bioquímicas. Los análisis fisicoquímicos establecen características básicas como peso molecular, composición de aminoácidos y estructuras secundaria y terciaria; los estudios bioquímicos describen el comportamiento del péptido en contexto biológico (estabilidad, interacciones) tanto in vivo como in vitro.\n\nEstas propiedades permiten esclarecer el mecanismo de acción y asociarlo con la efectividad, sirviendo de base para el diseño racional y la optimización de AMPs como candidatos terapéuticos.\n\n## Contribuciones principales\n- Revisión de las técnicas de caracterización fisicoquímica y bioquímica de AMPs.\n- Relación entre propiedades (peso molecular, carga, estructura) y mecanismo de acción.\n- Marco para vincular caracterización con efectividad antimicrobiana.\n\n## Metodología\nCapítulo de revisión sobre métodos de caracterización fisicoquímica y bioquímica de péptidos.\n\n## Hallazgos clave\n- Las propiedades fisicoquímicas determinan el mecanismo y la eficacia de los AMPs.\n- La caracterización rigurosa es prerrequisito para el diseño racional de péptidos.\n\n## Limitaciones\n- Capítulo de revisión, sin datos experimentales propios.\n\n## Notas relacionadas\n- [[concepts/peptidos-bioactivos]]\n- [[concepts/biologia-molecular]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]"
     },
     {
       "id": "notes/papers/2025-01-01_amp-downstream-processing",
@@ -3821,6 +3924,28 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-01-01_amp-downstream-processing.md",
       "pdf_local": "sources/pdfs/almario-2025-amp-downstream-processing.pdf",
       "content": "## Resumen\nCapítulo 11 del libro *Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development* (Elsevier, 2025). Los péptidos antimicrobianos (AMPs) han emergido como agentes terapéuticos alternativos frente a patógenos multirresistentes, con amplio espectro de actividad contra bacterias, hongos, virus e incluso células cancerosas. La síntesis biotecnológica de AMPs mediante ADN recombinante y sistemas de expresión microbiana se ha convertido en una vía viable para su producción económica a gran escala.\n\nEl procesamiento aguas abajo (downstream processing, DSP) constituye una fase crucial de la fabricación biotecnológica de AMPs: comprende la recuperación y purificación del péptido objetivo a partir del medio de producción, con operaciones como ruptura celular, clarificación, separación y purificación. El capítulo subraya que el DSP puede representar hasta el 80 % del costo total de producción de un biofármaco, lo que lo convierte en un determinante económico central, y revisa las estrategias y operaciones unitarias para optimizarlo.\n\n## Contribuciones principales\n- Revisión de las operaciones de procesamiento aguas abajo (DSP) para producción de AMPs.\n- Énfasis en el DSP como principal determinante del costo de los biofármacos (hasta 80 %).\n- Estrategias de recuperación y purificación (ruptura celular, clarificación, separación).\n\n## Metodología\nCapítulo de revisión sobre operaciones unitarias y estrategias de purificación en bioprocesos de AMPs.\n\n## Hallazgos clave\n- El DSP domina el costo de producción de péptidos biofarmacéuticos.\n- La optimización de la purificación es clave para la viabilidad económica de los AMPs.\n\n## Limitaciones\n- La diversidad de AMPs dificulta protocolos de purificación universales.\n\n## Notas relacionadas\n- [[concepts/peptidos-bioactivos]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/desarrollo-de-farmacos]]"
+    },
+    {
+      "id": "notes/papers/2025-01-01_amp-introduccion-bench-to-bedside",
+      "kind": "paper",
+      "label": "Introduction — Antimicrobial peptides: From the bench to the bedside",
+      "authors": [
+        "Luis H. Reyes",
+        "Juan C. Cruz",
+        "Gregory R. Wiedman"
+      ],
+      "year": "2025",
+      "venue": "Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development (Elsevier), introducción",
+      "url": "https://doi.org/10.1016/B978-0-443-15393-8.10000-4",
+      "doi": "10.1016/B978-0-443-15393-8.10000-4",
+      "keywords": [
+        "peptidos-bioactivos",
+        "desarrollo-de-farmacos"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-01-01_amp-introduccion-bench-to-bedside.md",
+      "pdf_local": "sources/pdfs/reyes-2025-amp-introduccion-bench-bedside.pdf",
+      "content": "## Resumen\nCapítulo introductorio del libro *Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development* (Elsevier, 2025), editado por Luis H. Reyes, Juan C. Cruz y Gregory R. Wiedman. La introducción enmarca el recorrido completo de los péptidos antimicrobianos (AMPs) desde el laboratorio (bench) hasta la práctica clínica (bedside), articulando los capítulos del libro en una hoja de ruta para acelerar su descubrimiento y desarrollo.\n\nEl texto sitúa a los AMPs como respuesta a la creciente amenaza de la resistencia a los antibióticos, repasa sus ventajas como agentes terapéuticos (amplio espectro, mecanismos múltiples, actividad inmunomoduladora) y los retos que limitan su traslación clínica: producción a escala, estabilidad, toxicidad, costo y validación. Presenta la estructura del libro, que abarca diseño bioinformático, análisis estadístico, plataformas de producción biológica, cribado de bibliotecas, caracterización y procesamiento aguas abajo.\n\n## Contribuciones principales\n- Visión panorámica del campo de los AMPs como hoja de ruta editorial.\n- Articulación del recorrido \"bench-to-bedside\" y de los retos de traslación clínica.\n- Marco que integra descubrimiento, producción, caracterización y desarrollo.\n\n## Metodología\nCapítulo introductorio/editorial que sintetiza y articula los contenidos del libro.\n\n## Hallazgos clave\n- Los AMPs son candidatos clave frente a la resistencia antimicrobiana.\n- La traslación a la clínica depende de resolver producción, estabilidad y costo.\n\n## Limitaciones\n- Texto introductorio, sin contenido experimental propio.\n\n## Notas relacionadas\n- [[concepts/peptidos-bioactivos]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]"
     },
     {
       "id": "notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno",
@@ -3922,6 +4047,35 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nCapítulo 9 del libro *Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development* (Elsevier, 2025). Los péptidos son componentes versátiles del ámbito farmacéutico, con utilidades que van desde ingredientes activos hasta apoyo al descubrimiento y la entrega de fármacos, gracias a su penetración tisular, sus interacciones de alta afinidad con receptores y sus propiedades antimicrobianas. Los péptidos antimicrobianos (AMPs) son una clase prometedora de agentes terapéuticos eficaces contra bacterias, hongos y virus.\n\nEl capítulo aborda las bibliotecas de péptidos —colecciones de secuencias cortas de aminoácidos— como herramientas indispensables en el descubrimiento de fármacos, la ingeniería de proteínas y la investigación básica. Revisa las aproximaciones clásicas y emergentes para el cribado (screening) de estas bibliotecas, incluyendo métodos experimentales de alto rendimiento, tecnologías de display y enfoques in silico/computacionales, comparando sus fortalezas y limitaciones.\n\n## Contribuciones principales\n- Revisión de métodos clásicos y emergentes para el cribado de bibliotecas de AMPs.\n- Comparación de enfoques experimentales (alto rendimiento, display) e in silico.\n- Marco para seleccionar la estrategia de cribado según el objetivo de descubrimiento.\n\n## Metodología\nCapítulo de revisión sobre tecnologías de generación y cribado de bibliotecas de péptidos.\n\n## Hallazgos clave\n- Las bibliotecas de péptidos son centrales para el descubrimiento y la ingeniería de AMPs.\n- Los enfoques emergentes (in silico, ML) complementan el cribado experimental tradicional.\n\n## Limitaciones\n- Compromisos entre cobertura, costo y validez de cada método de cribado.\n\n## Notas relacionadas\n- [[concepts/peptidos-bioactivos]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/bioquimica-computacional]]\n- [[concepts/biologia-molecular]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]"
     },
     {
+      "id": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
+      "kind": "paper",
+      "label": "Fostering technical proficiency and professional skills: A multifaceted PO-PBL strategy for unit operations education",
+      "authors": [
+        "Olga Lucía Acuña",
+        "Deya Marcela Santos Carvajal",
+        "Angie D. Bolaños-Barbosa",
+        "Julian Daniel Torres-Vanegas",
+        "Oscar A. Alvarez Solano",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2025",
+      "venue": "Education for Chemical Engineers",
+      "url": "https://doi.org/10.1016/j.ece.2025.01.001",
+      "doi": "10.1016/j.ece.2025.01.001",
+      "keywords": [
+        "educacion-superior",
+        "ingenieria-quimica",
+        "aprendizaje-activo",
+        "inteligencia-artificial",
+        "futuro-del-trabajo"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias.md",
+      "pdf_local": "sources/pdfs/acuna-2025-po-pbl-operaciones-unitarias.pdf",
+      "content": "## Resumen\nEl trabajo presenta un análisis integral de la implementación y los resultados de un enfoque de Aprendizaje Basado en Problemas Orientado a Proyectos (Project-Oriented Problem-Based Learning, PO-PBL) en la educación en ingeniería química, centrado en el curso Proyecto de Operaciones Unitarias (POU). El estudio examina la eficacia del PO-PBL para desarrollar tanto la competencia técnica como las habilidades profesionales esenciales de los estudiantes.\n\nMediante un enfoque de métodos mixtos, la investigación analiza datos de cuatro semestres consecutivos —encuestas a estudiantes, métricas de desempeño y retroalimentación cualitativa—. Se exploran como estrategias complementarias la integración de la metodología de Diseño Integrado de Producto y Proceso (DIPP), elementos de gamificación y herramientas de Inteligencia Artificial Generativa (GenAI) para mejorar los resultados de aprendizaje.\n\nLos resultados indican competencias técnicas sostenidas o mejoradas a lo largo de los semestres, junto con mejoras significativas en el compromiso, la motivación y las competencias profesionales de los estudiantes, particularmente en comunicación y trabajo en equipo. El estudio aporta evidencia sobre cómo combinar PBL, diseño de proceso, gamificación e IA generativa en la formación de ingenieros químicos.\n\n## Contribuciones principales\n- Implementación y evaluación de PO-PBL en el curso de Proyecto de Operaciones Unitarias.\n- Integración de DIPP, gamificación e IA generativa como estrategias complementarias.\n- Evidencia de mejoras en habilidades profesionales (comunicación, trabajo en equipo) con métodos mixtos sobre cuatro semestres.\n\n## Metodología\nEstudio de métodos mixtos (encuestas, métricas de desempeño, retroalimentación cualitativa) a lo largo de cuatro semestres consecutivos.\n\n## Hallazgos clave\n- El PO-PBL sostiene o mejora la competencia técnica y potencia las habilidades profesionales.\n- La gamificación y la IA generativa aumentan el compromiso y la motivación.\n\n## Limitaciones\n- Estudio en un único curso e institución.\n- Componentes cualitativos sujetos a autorreporte.\n\n## Notas relacionadas\n- [[concepts/educacion-superior]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/futuro-del-trabajo]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]"
+    },
+    {
       "id": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
       "kind": "paper",
       "label": "Harnessing generative AI in chemical engineering education: Implementation and evaluation of the large language model ChatGPT v3.5",
@@ -3950,6 +4104,38 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio.md",
       "pdf_local": "sources/pdfs/keith2025-genai-ingenieria-quimica-laboratorio.pdf",
       "content": "## Resumen\n\nEste estudio presenta el diseño, implementación y evaluación de una sesión de laboratorio de ingeniería química de primer año en la Universidad de Birmingham que integra ChatGPT v3.5 como herramienta pedagógica. El marco IDEE (Identify desired outcomes, Determine level of automation, Ensure ethics, Evaluate effectiveness) estructuró la intervención: los estudiantes usaron ChatGPT para derivar un modelo matemático que predice el vaciado de un tanque de agua, luego validaron experimentalmente ese modelo y completaron encuestas pre- y post-laboratorio sobre sus percepciones del uso ético y crítico de LLMs.\n\nLa mayoría de los estudiantes tenía experiencia limitada con IA generativa al inicio del curso pero anticipaba que sería útil en su vida profesional. El análisis temático reflexivo de los datos cualitativos de las encuestas post-laboratorio identificó 8 temas, siendo el más prominente la conciencia de los estudiantes sobre la necesidad de evaluar críticamente los resultados de los LLMs y sus limitaciones —incluyendo alucinaciones y errores de cálculo. El trabajo aporta evidencia inicial sobre cómo una sola sesión de laboratorio bien diseñada puede construir alfabetización en IA en ingenieros en formación.\n\n## Contribuciones principales\n\n- Aplica el marco IDEE como guía reproducible para integrar LLMs en laboratorios de ingeniería química\n- Documenta percepciones estudiantiles antes y después de la intervención mediante análisis temático reflexivo\n- Identifica 8 temas clave sobre cómo los estudiantes construyen criterio para usar LLMs en contextos técnicos\n- Ofrece un caso de estudio detallado para instituciones que buscan integrar IA generativa en currículos de ingeniería\n\n## Metodología\n\nDiseño de caso de estudio con métodos mixtos en una cohorte de Year 1 de Chemical Engineering (Universidad de Birmingham). Sesión de laboratorio de 3 horas con tres fases: (1) uso de ChatGPT para derivar un modelo de vaciado de tanque, (2) validación experimental del modelo, (3) reflexión crítica sobre las limitaciones del LLM. Se administraron encuestas de percepción pre- y post-laboratorio; los datos cualitativos se analizaron mediante análisis temático reflexivo.\n\n## Hallazgos clave\n\n- La mayoría de los estudiantes ingresó con experiencia muy limitada en IA generativa pero con expectativas positivas sobre su utilidad futura\n- Tras la sesión, los estudiantes reportaron mayor conciencia de las limitaciones, sesgos y posibilidad de errores en las respuestas de ChatGPT\n- El tema más recurrente fue la necesidad de supervisión humana y pensamiento crítico al usar LLMs en contextos técnicos\n- ChatGPT generó respuestas incorrectas en algunos casos (alucinaciones matemáticas), lo que resultó pedagógicamente valioso para ilustrar limitaciones\n- Los estudiantes percibieron la sesión como útil para aprender a usar LLMs de forma ética y efectiva\n\n## Limitaciones\n\n- Muestra pequeña de una sola cohorte en una institución del Reino Unido; sin grupo control\n- La versión evaluada (ChatGPT v3.5) puede estar desactualizada respecto a las capacidades actuales de los LLMs\n- La naturaleza auto-reportada de las encuestas limita la validez de las conclusiones sobre aprendizaje real\n- Una sola sesión de laboratorio no permite medir efectos longitudinales sobre el desarrollo de alfabetización en IA\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/STEM]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/alfabetizacion-en-ia]]"
+    },
+    {
+      "id": "notes/papers/2025-04-03_gases-malolientes-aguas",
+      "kind": "paper",
+      "label": "Malodorous Gases in Aquatic Environments: A Comprehensive Review from Microbial Origin to Detection and Removal Techniques",
+      "authors": [
+        "Gabriela Meléndez-Plata",
+        "Jesus R. A. Mastrogiacomo",
+        "Martha L. Castellanos",
+        "Juan P. Romero",
+        "Victor Hincapié",
+        "Héctor Lizcano",
+        "Juan D. Acero",
+        "María Francisca Villegas-Torres",
+        "Jorge M. Gómez",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2025",
+      "venue": "Processes (MDPI)",
+      "url": "https://doi.org/10.3390/pr13041077",
+      "doi": "10.3390/pr13041077",
+      "keywords": [
+        "ingenieria-ambiental",
+        "ingenieria-quimica",
+        "sostenibilidad",
+        "salud-y-sociedad"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-04-03_gases-malolientes-aguas.md",
+      "pdf_local": "sources/pdfs/melendez-2025-gases-malolientes-aguas.pdf",
+      "content": "## Resumen\nLos gases malolientes —en particular el sulfuro de hidrógeno (H2S), el amoníaco (NH3) y los compuestos volátiles de azufre (VSCs)— degradan significativamente la calidad del agua, amenazan la salud pública y alteran los ecosistemas. Su producción proviene de la actividad microbiana, la sobrecarga de nutrientes y los vertidos industriales, a menudo magnificada por bajos niveles de oxígeno disuelto.\n\nEsta revisión integra el conocimiento actual sobre los ciclos microbianos del azufre y el nitrógeno para explicar cómo se forman estos gases, y examina los avances en tecnologías de detección como la cromatografía de gases y los sensores basados en láser. También evalúa diversos métodos de mitigación —enfoques biotecnológicos (biofiltros, biopercoladores), tratamientos fisicoquímicos y conversión química (proceso Claus)— dentro de los marcos regulatorios de Colombia y el mundo.\n\nUn estudio de caso del río Bogotá ejemplifica cómo los efluentes no gestionados y la eutrofización perpetúan los problemas de olor, subrayando la necesidad de estrategias integradas que reduzcan la contaminación en su origen, restauren el equilibrio ecológico y empleen intervenciones específicas. La revisión destaca soluciones innovadoras orientadas por políticas y la colaboración como pilares para proteger los ambientes acuáticos y las comunidades aledañas.\n\n## Contribuciones principales\n- Revisión integral del origen microbiano, la detección y la remoción de gases malolientes en aguas.\n- Síntesis de los ciclos del azufre y el nitrógeno como base de la formación de olores.\n- Evaluación de métodos de mitigación (biofiltros, fisicoquímicos, proceso Claus) y marcos regulatorios.\n\n## Metodología\nRevisión integral de literatura sobre origen, detección y técnicas de remoción, con estudio de caso del río Bogotá.\n\n## Hallazgos clave\n- H2S, NH3 y VSCs son los principales gases malolientes de origen microbiano en aguas.\n- Las soluciones efectivas combinan reducción en la fuente, biotecnología y política pública.\n\n## Limitaciones\n- Revisión narrativa; la eficacia de cada método depende del contexto local.\n\n## Notas relacionadas\n- [[concepts/ingenieria-ambiental]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/sostenibilidad]]\n- [[concepts/salud-y-sociedad]]"
     },
     {
       "id": "notes/papers/2025-05-15_evaluacion-estructural-genai",
@@ -7477,6 +7663,61 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2024-12-02_cpp-posicion-captacion-magnetita",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-02_cpp-posicion-captacion-magnetita",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-02_cpp-posicion-captacion-magnetita",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-02_cpp-posicion-captacion-magnetita",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-02_cpp-posicion-captacion-magnetita",
+      "target": "notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante",
+      "target": "concepts/biosurfactantes",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante",
+      "target": "concepts/proteinas-recombinantes",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante",
+      "target": "concepts/petroleo-y-gas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante",
+      "target": "notes/papers/2024-09-25_peptidos-interfaciales-in-silico",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2025-01-01_amp-analisis-estadistico-datos",
       "target": "concepts/ciencia-de-datos",
       "kind": "keyword"
@@ -7490,6 +7731,26 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2025-01-01_amp-analisis-estadistico-datos",
       "target": "concepts/bioquimica-computacional",
       "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica",
+      "target": "concepts/peptidos-bioactivos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica",
+      "target": "notes/papers/2025-01-01_amp-introduccion-bench-to-bedside",
+      "kind": "related"
     },
     {
       "source": "notes/papers/2025-01-01_amp-downstream-processing",
@@ -7510,6 +7771,26 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2025-01-01_amp-downstream-processing",
       "target": "concepts/desarrollo-de-farmacos",
       "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_amp-introduccion-bench-to-bedside",
+      "target": "concepts/peptidos-bioactivos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_amp-introduccion-bench-to-bedside",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_amp-introduccion-bench-to-bedside",
+      "target": "notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-01-01_amp-introduccion-bench-to-bedside",
+      "target": "notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica",
+      "kind": "related"
     },
     {
       "source": "notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno",
@@ -7622,6 +7903,36 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
+      "target": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
       "target": "concepts/inteligencia-artificial",
       "kind": "keyword"
@@ -7659,6 +7970,26 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
       "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-03_gases-malolientes-aguas",
+      "target": "concepts/ingenieria-ambiental",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-03_gases-malolientes-aguas",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-03_gases-malolientes-aguas",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-03_gases-malolientes-aguas",
+      "target": "concepts/salud-y-sociedad",
       "kind": "keyword"
     },
     {

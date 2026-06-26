@@ -144,6 +144,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **impacto-de-investigacion**
 
+**ingenieria-ambiental** — Aplicación de principios de ingeniería y biotecnología al tratamiento y la prevención de la contaminación en agua, aire y suelo; incluye tratamiento de aguas residuales, remoción de olores y gases, biofiltración, calidad del agua y ciclos biogeoquímicos. _Aliases: environmental engineering, biotecnología ambiental, tratamiento de aguas, calidad del agua, water quality, bioremediation, biorremediación_
+
 **ingenieria-de-alimentos** — Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios. _Aliases: food engineering, food science, ciencia de alimentos, food technology, tecnología de alimentos_
 
 **ingenieria-metabolica** — Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida. _Aliases: metabolic engineering, strain engineering, biocatalyst engineering, cell factory, ingeniería de cepas_

@@ -12,3 +12,4 @@ Moléculas tensoactivas de origen biológico (péptidos, lipopéptidos, glicolí
 - [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]
 - [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]
 - [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]
+- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]

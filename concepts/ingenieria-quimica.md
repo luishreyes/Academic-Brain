@@ -75,3 +75,5 @@ Disciplina que aplica principios de química, física y matemáticas para diseñ
 - [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]
 - [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]
 - [[notes/papers/2025-01-01_amp-downstream-processing]]
+- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]
+- [[notes/papers/2025-04-03_gases-malolientes-aguas]]
