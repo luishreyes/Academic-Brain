@@ -2,9 +2,9 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 61,
-    "articles": 7,
-    "books": 27,
+    "papers": 66,
+    "articles": 8,
+    "books": 28,
     "concepts": 90
   },
   "nodes": [
@@ -209,8 +209,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.",
       "path": "concepts/biomateriales.md",
-      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]",
-      "degree": 10
+      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]",
+      "degree": 14
     },
     {
       "id": "concepts/bioquimica-computacional",
@@ -225,8 +225,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.",
       "path": "concepts/bioquimica-computacional.md",
-      "content": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]",
-      "degree": 3
+      "content": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]",
+      "degree": 5
     },
     {
       "id": "concepts/cadenas-de-suministro-globales",
@@ -323,8 +323,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.",
       "path": "concepts/comportamiento-del-consumidor.md",
-      "content": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.\n\n## Notas que usan este concepto\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]",
-      "degree": 1
+      "content": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.\n\n## Notas que usan este concepto\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]",
+      "degree": 2
     },
     {
       "id": "concepts/comunicacion-cientifica",
@@ -386,8 +386,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.",
       "path": "concepts/desarrollo-de-farmacos.md",
-      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]",
-      "degree": 4
+      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]",
+      "degree": 6
     },
     {
       "id": "concepts/desarrollo-del-caracter",
@@ -561,8 +561,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.",
       "path": "concepts/enfermedades-raras.md",
-      "content": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]",
-      "degree": 4
+      "content": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]",
+      "degree": 5
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -773,8 +773,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.",
       "path": "concepts/genomica.md",
-      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]",
-      "degree": 13
+      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]",
+      "degree": 14
     },
     {
       "id": "concepts/geopolitica-tecnologica",
@@ -867,8 +867,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.",
       "path": "concepts/ingenieria-de-alimentos.md",
-      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]",
-      "degree": 5
+      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]",
+      "degree": 7
     },
     {
       "id": "concepts/ingenieria-metabolica",
@@ -900,8 +900,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.",
       "path": "concepts/ingenieria-quimica.md",
-      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]",
-      "degree": 41
+      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/books/2011-01-01_chemical-product-design-cussler]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]",
+      "degree": 47
     },
     {
       "id": "concepts/integridad-academica",
@@ -931,8 +931,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]",
-      "degree": 25
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]",
+      "degree": 26
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -1045,8 +1045,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas.",
       "path": "concepts/modelado-molecular.md",
-      "content": "Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]",
-      "degree": 1
+      "content": "Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]",
+      "degree": 3
     },
     {
       "id": "concepts/modernizacion",
@@ -1076,8 +1076,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.",
       "path": "concepts/nanociencia.md",
-      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]",
-      "degree": 8
+      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]",
+      "degree": 12
     },
     {
       "id": "concepts/pensamiento-critico-medico",
@@ -1287,8 +1287,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos.",
       "path": "concepts/salud-y-sociedad.md",
-      "content": "Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]",
-      "degree": 7
+      "content": "Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]",
+      "degree": 8
     },
     {
       "id": "concepts/seguridad-de-ia",
@@ -1381,8 +1381,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.",
       "path": "concepts/terapia-genica.md",
-      "content": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]",
-      "degree": 4
+      "content": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]",
+      "degree": 5
     },
     {
       "id": "concepts/trauma-y-salud",
@@ -2580,6 +2580,191 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl artículo mapea y valida el interactoma de la iduronatasa-2-sulfatasa (IDS), la enzima lisosomal deficiente en el síndrome de Hunter (mucopolisacaridosis tipo II, MPS II). El síndrome de Hunter es una enfermedad rara ligada al X causada por la acumulación de glucosaminoglucanos (GAGs) en lisosomas por deficiencia de IDS, resultando en daño multiorgánico progresivo. Comprender el interactoma de IDS —el conjunto de proteínas con las que interactúa— es fundamental para entender su procesamiento intracelular, su transporte al lisosoma y los mecanismos moleculares de la enfermedad.\n\nEl estudio utilizó el ensayo de doble híbrido en levadura (Y2H) para validar interacciones proteína-proteína entre IDS y proteínas identificadas previamente mediante análisis de co-inmunoprecipitación y espectrometría de masas. Las interacciones confirmadas incluyen proteínas del tráfico vesicular (LAMP1, LAMP2), chaperones del retículo endoplasmático (GRP78/BiP) y proteínas implicadas en la señalización de manosa-6-fosfato para targeting lisosomal. Estas interacciones arrojan luz sobre el procesamiento post-traduccional de IDS y sugieren dianas para mejorar la terapia de reemplazo enzimático (ERT).\n\n## Contribuciones principales\n\n- Primer mapa validado del interactoma de IDS en células de mamífero, usando Y2H como método de validación independiente\n- Identificación de nuevas interacciones entre IDS y proteínas del tráfico vesicular no reportadas previamente\n- Implicaciones para el diseño de variantes de IDS con mejor targeting lisosomal en ERT\n\n## Metodología\n\nConstrucción de librería Y2H de proteínas candidatas de interacción con IDS. Cribado en cepa de S. cerevisiae (PJ69-4A). Validación de interacciones positivas por co-transformación y ensayos de reporter lacZ. Bioinformática: análisis de redes de interacción con STRING y Cytoscape.\n\n## Hallazgos clave\n\n- Se validaron 12 interacciones proteína-proteína con IDS mediante Y2H, de las cuales 4 no habían sido reportadas previamente\n- Las interacciones con GRP78/BiP sugieren que el plegamiento correcto de IDS en el RE es un paso crítico y potencialmente modulable\n- Las interacciones con LAMP1/LAMP2 confirman el papel de estas proteínas en el tráfico vesicular de IDS hacia el lisosoma\n- Los datos del interactoma sugieren que variantes de IDS con afinidad mejorada por el receptor manosa-6-fosfato podrían aumentar la eficiencia de ERT\n\n## Limitaciones\n\n- El Y2H detecta interacciones binarias en el contexto de levadura; puede no reflejar interacciones dependientes de modificaciones post-traduccionales de células humanas\n- El estudio no incluye validación funcional de las interacciones identificadas en células de pacientes con MPS II\n\n## Notas relacionadas\n\n- [[concepts/enfermedades-raras]]\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/biologia-molecular]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]"
     },
     {
+      "id": "notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos",
+      "kind": "paper",
+      "label": "Novel Developments on Stimuli-Responsive Probiotic Encapsulates: From Smart Hydrogels to Nanostructured Platforms",
+      "authors": [
+        "\"Garcia-Brand",
+        "Andres J.\"",
+        "\"Quezada",
+        "Valentina\"",
+        "\"Gonzalez-Melo",
+        "Cristina\"",
+        "\"Bolaños-Barbosa",
+        "Angie D.\"",
+        "\"Cruz",
+        "Juan C.\"",
+        "\"Reyes",
+        "Luis H.\""
+      ],
+      "year": "2022",
+      "venue": "Fermentation",
+      "url": "https://doi.org/10.3390/fermentation8030117",
+      "doi": "10.3390/fermentation8030117",
+      "keywords": [
+        "biomateriales",
+        "ingenieria-quimica",
+        "ingenieria-de-alimentos",
+        "nanociencia"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos.md",
+      "pdf_local": "sources/pdfs/garcia-brand2022-probioticos-hidrogeles-estimulo-responsivos.pdf",
+      "content": "## Resumen\n\nLos probióticos han demostrado potencial terapéutico para la salud intestinal, pero su entrega oral enfrenta barreras significativas: degradación en el tracto gastrointestinal (TGI), baja adhesión al sitio de acción y tiempos de residencia insuficientes. Esta revisión aborda cómo los biomateriales con respuesta a estímulos (stimuli-responsive) pueden superar estos desafíos, diseñando matrices de encapsulación que responden a señales químicas y físicas presentes a lo largo del TGI para lograr liberación controlada de probióticos.\n\nLos autores describen sistemáticamente los estímulos del TGI explotables para el diseño: variaciones de pH (de ~1.5 en estómago a ~7.4 en intestino delgado), acción enzimática (proteasas, lipasas, glicosidasas), fuerza iónica y potencial redox. Para cada tipo de estímulo revisan polímeros responsivos disponibles —chitosan, ácido hialurónico, alginato, celulosa— y técnicas de síntesis para obtener matrices 3D programadas para responder activamente a su entorno. Se destacan hidrogeles de pH-responsivos, matrices con enzimas-responsivas y sistemas multi-estímulo capaces de responder en cascada.\n\nLos hallazgos muestran que la combinación de matrices estimulo-responsivas con estrategias de diseño racional mejora la viabilidad de los probióticos encapsulados, su adhesión al mucus intestinal y su capacidad para competir con patógenos por nutrientes y espacio. Sin embargo, los autores identifican brechas importantes: escasez de modelos preclínicos in vivo, falta de escalabilidad de las técnicas de síntesis y necesidad de datos de seguridad y costo-efectividad para viabilidad clínica.\n\nEl artículo concluye que los encapsulados estimulo-responsivos representan una plataforma prometedora para llevar los probióticos desde la investigación fundamental hasta aplicaciones clínicas, pero requieren un enfoque interdisciplinario que combine ingeniería de polímeros, ciencias de los alimentos y farmacología.\n\n## Contribuciones principales\n- Revisión comprehensiva de los estímulos del TGI explotables para diseño racional de encapsulados\n- Marco sistemático que va de la descripción de estímulos a materiales y técnicas de síntesis\n- Perspectivas clínicas y desafíos de escalabilidad para la implementación de probióticos estimulo-responsivos\n\n## Metodología\nRevisión narrativa de literatura que integra avances en biomateriales estimulo-responsivos, encapsulación de probióticos, diseño de matrices para entrega oral y perspectivas clínicas de implementación.\n\n## Hallazgos clave\n- Las condiciones de pH, actividad enzimática, fuerza iónica y potencial redox del TGI pueden aprovecharse como gatillos de liberación controlada\n- Los polímeros catiónicos (chitosan) y aniónicos (alginato, ácido hialurónico) permiten diseñar matrices pH-responsivas para diferentes segmentos del TGI\n- Las matrices multi-estímulo superan en rendimiento a los sistemas de un solo estímulo en términos de protección y liberación selectiva\n- La colonización del mucus intestinal sigue siendo el reto principal para el éxito terapéutico a largo plazo\n\n## Limitaciones\n- Los modelos preclínicos in vivo son escasos; la mayoría de estudios son in vitro\n- Las técnicas de síntesis de nanocompuestos estimulo-responsivos son difíciles de escalar industrialmente\n- Falta de datos de seguridad a largo plazo y estudios de costo-efectividad\n\n## Notas relacionadas\n- [[concepts/biomateriales]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/nanociencia]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]"
+    },
+    {
+      "id": "notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata",
+      "kind": "paper",
+      "label": "Novel antibacterial hydrogels based on gelatin/polyvinyl-alcohol and graphene oxide/silver nanoconjugates: formulation, characterization, and preliminary biocompatibility evaluation",
+      "authors": [
+        "\"Patarroyo",
+        "Jorge Luis\"",
+        "\"Cifuentes",
+        "Javier\"",
+        "\"Muñoz",
+        "Laura N.\"",
+        "\"Cruz",
+        "Juan C.\"",
+        "\"Reyes",
+        "Luis H.\""
+      ],
+      "year": "2022",
+      "venue": "Heliyon",
+      "url": "https://doi.org/10.1016/j.heliyon.2022.e09145",
+      "doi": "10.1016/j.heliyon.2022.e09145",
+      "keywords": [
+        "biomateriales",
+        "nanociencia",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata.md",
+      "pdf_local": "sources/pdfs/patarroyo2022-hidrogeles-antibacterianos-gelatin-grafeno-plata.pdf",
+      "content": "## Resumen\n\nLa resistencia a antibióticos es una crisis de salud pública generada por su uso excesivo e inadecuado. Las infecciones cutáneas, que antes se trataban con relativa facilidad, se han vuelto difíciles de manejar en muchos casos. Este trabajo propone un hidrogel tópico basado en una red polimérica de gelatina-alcohol polivinílico-ácido hialurónico (gelatin-PVA-HA) que encapsula un nanoconjugado de óxido de grafeno sobre el cual se crecen nanopartículas de plata (GO-Ag NPs), combinando las propiedades estructurales de los hidrogeles con la actividad antimicrobiana de los nanomateriales.\n\nLos nanocompuestos fueron caracterizados exhaustivamente en términos de microestructura, resistencia térmica, comportamiento reológico, distribución de tamaño de partícula, perfil de textura y estabilidad física durante un mes de estudio acelerado. Se seleccionaron los puntos del diseño experimental con mejores propiedades fisicoquímicas para la encapsulación de los nanoconjugados GO-Ag NPs. La evaluación biológica confirmó alta biocompatibilidad (efecto hemolítico menor al 5% y capacidad agregante de plaquetas entre 35–45%), y los tratamientos inhibieron el 100% del crecimiento bacteriano, demostrando eficacia antimicrobiana completa.\n\nEstos resultados posicionan al hidrogel nanocomposite como un tratamiento tópico prometedor no solo para infecciones cutáneas sino también para cicatrización de heridas, vendajes activos, bioadhesivos e ingeniería de tejidos, aprovechando la sinergia entre la red polimérica estructural y las propiedades antibacterianas de las plata y el grafeno.\n\n## Contribuciones principales\n- Formulación de hidrogel tópico con doble función: soporte estructural (gelatin-PVA-HA) y actividad antibacteriana (GO-Ag NPs)\n- Caracterización fisicoquímica y reológica completa del nanocomposite\n- Evaluación preliminar de biocompatibilidad según estándar ISO (hemólisis, agregación plaquetaria)\n\n## Metodología\nDiseño experimental de formulaciones de hidrogel; síntesis de nanoconjugados GO-Ag NPs; caracterización por microestructura, reología, DSC, distribución de tamaño y estabilidad; evaluación antimicrobiana e índice hemolítico in vitro.\n\n## Hallazgos clave\n- El hidrogel gelatin-PVA-HA encapsula los nanoconjugados GO-Ag NPs de manera estable durante al menos un mes de almacenamiento acelerado\n- Actividad antimicrobiana del 100% frente a crecimiento bacteriano\n- Baja hemólisis (<5%) y actividad agregante de plaquetas moderada (35-45%), clasificados como biocompatibles\n- Las propiedades reológicas (módulo de almacenamiento G') confirman estabilidad mecánica adecuada para aplicación tópica\n\n## Limitaciones\n- Evaluación biológica solo preliminar (in vitro); faltan estudios in vivo de toxicidad sistémica y eficacia en modelos animales\n- Falta explorar la liberación prolongada de Ag NPs y su perfil farmacocinético en tejido cutáneo\n\n## Notas relacionadas\n- [[concepts/biomateriales]]\n- [[concepts/nanociencia]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]"
+    },
+    {
+      "id": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike",
+      "kind": "paper",
+      "label": "Translocating Peptides of Biomedical Interest Obtained from the Spike (S) Glycoprotein of the SARS-CoV-2",
+      "authors": [
+        "\"Henao",
+        "Maria C.\"",
+        "\"Ocasion",
+        "Camila\"",
+        "\"Ruiz Puentes",
+        "Paola\"",
+        "\"González-Melo",
+        "Cristina\"",
+        "\"Quezada",
+        "Valentina\"",
+        "\"Cifuentes",
+        "Javier\"",
+        "\"Yepes",
+        "Arnovis\"",
+        "\"Burgos",
+        "Juan C.\"",
+        "\"Cruz",
+        "Juan C.\"",
+        "\"Reyes",
+        "Luis H.\""
+      ],
+      "year": "2022",
+      "venue": "Membranes",
+      "url": "https://doi.org/10.3390/membranes12060600",
+      "doi": "10.3390/membranes12060600",
+      "keywords": [
+        "bioquimica-computacional",
+        "biomateriales",
+        "desarrollo-de-farmacos",
+        "modelado-molecular",
+        "nanociencia",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike.md",
+      "pdf_local": "sources/pdfs/henao2022-peptidos-translocadores-sars-cov2.pdf",
+      "content": "## Resumen\n\nLa dificultad de entregar moléculas bioactivas al espacio intracelular es uno de los principales obstáculos en terapéutica. Este trabajo parte de la hipótesis de que la glicoproteína Spike (S) del SARS-CoV-2, conocida por su capacidad de interactuar con membranas celulares para mediar la infección, podría ser una fuente de péptidos con capacidad de translocación de membranas. Se identificaron tres secuencias candidatas —AHB-1, AHB-2 y AHB-3— a partir del análisis estructural de la proteína S, y se evaluaron computacionalmente y luego en sistemas in vitro.\n\nMediante simulaciones de dinámica molecular (MD) sobre un modelo de membrana DPPC (dipalmitoilfosfatidilcolina), se cuantificó la barrera energética para la translocación de cada péptido mediante muestreo de paraguas (umbrella sampling) y simulaciones de extracción de fondo plano (flat-bottom pulling). AHB-1 mostró una barrera de 14.1 kcal/mol y penetración casi completa de la membrana a los 400 ns, comparable a péptidos penetradores de células (CPPs) de referencia como TP2 y Buforin II. Los péptidos más prometedores fueron conjugados a nanopartículas de quitosano (CNPs) para mejorar su estabilidad fisiológica, y los nanoconjugados mostraron alta biocompatibilidad (hemólisis <5%, viabilidad celular >85%) y capacidad de internalización y escape endosomal en células Vero.\n\nEl trabajo valida una estrategia de ingeniería racional que utiliza el conocimiento estructural de una proteína viral para diseñar vectores de entrega intracelular, abriendo la posibilidad de usar péptidos derivados de patógenos como herramientas biomédicas para la entrega de materiales genéticos o fármacos.\n\n## Contribuciones principales\n- Identificación racional de tres péptidos translocadores (AHB-1, AHB-2, AHB-3) a partir del análisis estructural de la proteína Spike del SARS-CoV-2\n- Cuantificación energética de la translocación de membrana mediante umbrella sampling y simulaciones MD de 400 ns\n- Validación in vitro de la internalización y escape endosomal de los nanoconjugados CNPs-péptido\n\n## Metodología\nAnálisis estructural de la proteína Spike (NCBI QHD43416.1); predicción de estructura terciaria con i-Tasser; simulaciones MD con campo de fuerza GROMOS96 53A6 sobre membrana DPPC; umbrella sampling (WHAM); síntesis de nanopartículas de quitosano por gelación iónica; evaluación de biocompatibilidad (hemólisis, agregación plaquetaria, MTT en células Vero); microscopía confocal de internalización y escape endosomal.\n\n## Hallazgos clave\n- AHB-1 penetra casi completamente la membrana DPPC a 400 ns de simulación, con ∆G de 14.1 kcal/mol\n- Los nanoconjugados CNPs-AHB-1 mostraron >83% de cobertura del citosol a las 4h de exposición en células Vero\n- Alta biocompatibilidad: hemólisis <5%, citotoxicidad nula (viabilidad >85%) hasta 100 µg/mL\n- La estructura anfipática de AHB-1 (cabeza hidrofílica en C-terminal + cola hidrofóbica) explica su superior capacidad de translocación\n\n## Limitaciones\n- Los modelos de membrana (DPPC) son simplificaciones de la complejidad de membranas celulares reales\n- Falta evaluar la entrega de cargos terapéuticos reales (plásmidos, ARN) con los nanoconjugados\n- Solo se probó una línea celular (Vero); se requieren estudios en células primarias humanas\n\n## Notas relacionadas\n- [[concepts/bioquimica-computacional]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/modelado-molecular]]\n- [[concepts/nanociencia]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]"
+    },
+    {
+      "id": "notes/papers/2022-07-14_peptidos-antimicrobianos-ia",
+      "kind": "paper",
+      "label": "Rational Discovery of Antimicrobial Peptides by Means of Artificial Intelligence",
+      "authors": [
+        "\"Ruiz Puentes",
+        "Paola\"",
+        "\"Henao",
+        "Maria C.\"",
+        "\"Cifuentes",
+        "Javier\"",
+        "\"Muñoz-Camargo",
+        "Carolina\"",
+        "\"Reyes",
+        "Luis H.\"",
+        "\"Cruz",
+        "Juan C.\"",
+        "\"Arbeláez",
+        "Pablo\""
+      ],
+      "year": "2022",
+      "venue": "Membranes",
+      "url": "https://doi.org/10.3390/membranes12070708",
+      "doi": "10.3390/membranes12070708",
+      "keywords": [
+        "inteligencia-artificial",
+        "bioquimica-computacional",
+        "desarrollo-de-farmacos",
+        "modelado-molecular",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-07-14_peptidos-antimicrobianos-ia.md",
+      "pdf_local": "sources/pdfs/ruiz-puentes2022-peptidos-antimicrobianos-ia.pdf",
+      "content": "## Resumen\n\nLa resistencia a antibióticos es una crisis global de salud pública; sin embargo, la industria farmacéutica ha reducido su inversión en nuevos antibióticos por su baja rentabilidad. Los péptidos antimicrobianos (AMPs) son una alternativa prometedora con tasas de resistencia mucho menores, pero su descubrimiento por tamizaje extensivo in vitro es tedioso y costoso. Este trabajo propone un enfoque de inteligencia artificial (IA) para acelerar la identificación de AMPs con alta actividad, reduciendo la experimentación necesaria.\n\nEl modelo AMPs-Net es una red neuronal profunda (deep learning) basada en grafos moleculares que supera el estado del arte en un 8.8% en precisión media para predecir la actividad antimicrobiana y antiviral de péptidos. El modelo fue aplicado para explorar una gran biblioteca virtual de secuencias peptídicas, identificando dos motivos antimicrobianos nuevos y dos péptidos novedosos asociados a ellos. Combinando IA con simulaciones de dinámica molecular (MD), se identificó un péptido multifuncional con propiedades terapéuticas prometedoras, validando el pipeline propuesto.\n\nEl trabajo establece una cadena metodológica —predicción computacional → análisis MD → validación experimental— que puede acortar sustancialmente el ciclo de descubrimiento de AMPs. Esto es relevante dado el contexto de resistencia antibiótica y la urgencia de nuevas moléculas con mecanismos de acción distintos a los antibióticos convencionales.\n\n## Contribuciones principales\n- Modelo AMPs-Net (deep learning sobre grafos moleculares) que supera el estado del arte en +8.8% de precisión media\n- Identificación de dos motivos antimicrobianos y dos AMPs novedosos no reportados previamente\n- Identificación de un péptido multifuncional (antimicrobiano + antiviral) mediante la combinación de IA y MD\n- Validación del pipeline IA → MD → experimento para el descubrimiento eficiente de AMPs\n\n## Metodología\nRed neuronal profunda tipo AMPs-Net sobre representaciones de grafos moleculares de secuencias peptídicas; entrenamiento sobre bibliotecas de AMPs con actividad conocida; búsqueda virtual en espacio de secuencias; simulaciones de dinámica molecular para caracterizar los candidatos más prometedores; validación experimental parcial.\n\n## Hallazgos clave\n- AMPs-Net supera el estado del arte en predicción de actividad antimicrobiana y antiviral de péptidos\n- Se descubrieron dos motivos secuenciales antimicrobianos nuevos mediante el análisis de los mejores candidatos predichos\n- El péptido multifuncional identificado combina actividad antibacteriana y antiviral en una sola molécula\n- La combinación IA + MD reduce el espacio experimental a explorar y aumenta la tasa de éxito de los candidatos\n\n## Limitaciones\n- La validación experimental completa de los péptidos identificados requiere síntesis química y ensayos biológicos adicionales\n- Los modelos de IA dependen de la calidad y diversidad de los datos de entrenamiento disponibles sobre AMPs\n- La traducción clínica de AMPs enfrenta desafíos de toxicidad, estabilidad in vivo y síntesis a escala\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/bioquimica-computacional]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/modelado-molecular]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]"
+    },
+    {
+      "id": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
+      "kind": "paper",
+      "label": "Delivery and assessment of a CRISPR/nCas9-based genome editing system on in vitro models of mucopolysaccharidoses IVA assisted by magnetite-based nanoparticles",
+      "authors": [
+        "\"Leal",
+        "Andrés Felipe\"",
+        "\"Cifuentes",
+        "Javier\"",
+        "\"Torres",
+        "Carlos Emilio\"",
+        "\"Suárez",
+        "Diego\"",
+        "\"Quezada",
+        "Valentina\"",
+        "\"Gómez",
+        "Saúl Camilo\"",
+        "\"Cruz",
+        "Juan C.\"",
+        "\"Reyes",
+        "Luis H.\"",
+        "\"Espejo-Mojica",
+        "Angela Johana\"",
+        "\"Alméciga-Díaz",
+        "Carlos Javier\""
+      ],
+      "year": "2022",
+      "venue": "Scientific Reports",
+      "url": "https://doi.org/10.1038/s41598-022-19407-x",
+      "doi": "10.1038/s41598-022-19407-x",
+      "keywords": [
+        "terapia-genica",
+        "enfermedades-raras",
+        "biomateriales",
+        "nanociencia",
+        "genomica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas.md",
+      "pdf_local": "sources/pdfs/leal2022-crispr-ncas9-mps-iva-nanoparticulas.pdf",
+      "content": "## Resumen\n\nLa mucopolisacaridosis tipo IVA (MPS IVA, síndrome de Morquio A) es una enfermedad lisosomal rara causada por mutaciones en el gen GALNS, lo que resulta en la acumulación de glicosaminoglicanos (keratan sulfato y condroitín 6-sulfato) en los lisosomas. La terapia de reemplazo enzimático (TRE) disponible (elosulfase alfa, Vimizim) tiene efecto limitado sobre las manifestaciones esqueléticas y no corrige la causa genética. La terapia génica mediante CRISPR/nCas9 es la estrategia más prometedora, pero requiere vectores de entrega seguros y eficientes.\n\nEste trabajo expande el sistema CRISPR/nCas9 previamente validado in vitro para MPS IVA a múltiples líneas de fibroblastos con distintas mutaciones en GALNS, co-entregado mediante un vector no viral innovador basado en magnetoliposomas (MLPs). Los MLPs, nanopartículas magnéticas de magnetita funcionalizada con lípidos (lecitina), mostraron baja citotoxicidad en fibroblastos MPS IVA y resultados comparables a la lipofectamina comercial para la transfección. El tratamiento CRISPR/nCas9 aumentó la actividad enzimática GALNS entre 5 y 88% de los niveles del tipo salvaje y redujo significativamente la acumulación de GAGs, la masa lisosomal y el estrés oxidativo mitocondrial, con variabilidad dependiente de la mutación específica.\n\nLos resultados confirman el potencial de CRISPR/nCas9 como herramienta de edición genómica para MPS IVA y demuestran la viabilidad de los MLPs como sistema de entrega no viral seguro para terapias de edición genómica en modelos in vitro de enfermedades lisosomales raras.\n\n## Contribuciones principales\n- Expansión del sistema CRISPR/nCas9 para MPS IVA a múltiples genotipos de fibroblastos con distintas mutaciones GALNS\n- Diseño y evaluación de magnetoliposomas (MLPs) como vector no viral para co-entrega del sistema CRISPR/nCas9\n- Demostración de restauración parcial de actividad GALNS (5-88% WT) y reducción de marcadores patológicos\n\n## Metodología\nSíntesis de magnetoliposomas por hidratación de bicapa lipídica; co-entrega del sistema CRISPR/nCas9 (plásmido nCas9 + gRNAs) en fibroblastos MPS IVA de múltiples pacientes con distintas mutaciones GALNS; evaluación de actividad enzimática GALNS, acumulación de GAGs (azul de Alcian), masa lisosomal y estrés oxidativo mitocondrial (mtROS); comparación con lipofectamina como control positivo.\n\n## Hallazgos clave\n- Los MLPs son equivalentes a lipofectamina para la transfección de fibroblastos MPS IVA con baja citotoxicidad\n- Incremento de actividad GALNS entre 5% y 88% de niveles WT, dependiente de la mutación\n- Reducción significativa de GAGs, masa lisosomal y estrés oxidativo mitocondrial en fibroblastos tratados\n- Los MLPs son candidatos prometedores como vectores de entrega no virales para terapias CRISPR en enfermedades lisosomales\n\n## Limitaciones\n- Los resultados son in vitro; la eficacia y seguridad in vivo en modelos animales de MPS IVA no han sido evaluados\n- La eficiencia de edición (5-88%) es variable y dependiente de la mutación, lo que puede limitar su generalización clínica\n- Se requiere optimizar la dosis, frecuencia y vía de administración de los MLPs para uso clínico\n\n## Notas relacionadas\n- [[concepts/terapia-genica]]\n- [[concepts/enfermedades-raras]]\n- [[concepts/biomateriales]]\n- [[concepts/nanociencia]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]"
+    },
+    {
       "id": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
       "kind": "paper",
       "label": "Shaping futures: A dialogue on chemical engineering education",
@@ -3120,6 +3305,27 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl estudio aborda una brecha crítica: los programas existentes de alfabetización en IA para docentes se centran casi exclusivamente en aspectos técnicos y herramientas pre-ChatGPT, descuidando dimensiones pedagógicas, éticas, sociocultural y el desarrollo del pensamiento crítico que los futuros educadores necesitan. Los estudiantes de formación docente ocupan una posición doble: son aprendices actuales y futuros mediadores del uso de IA en el aula, lo que exige una preparación específica y estructurada. Adicionalmente, las restricciones curriculares y la baja alfabetización en IA de los propios formadores de docentes limitan la implementación de intervenciones efectivas.\n\nUsando investigación basada en diseño (DBR), el estudio desarrolla y evalúa un conjunto de principios para un taller de competencias en IA generativa (GenAI). El marco integra el Modelo de Competencias en IA de la UNESCO para estudiantes y docentes, el marco TPACK y el modelo HASRL (Human–AI Shared Regulation for Learning). El taller fue primero pilotado con 14 estudiantes de maestría y luego evaluado con 29 estudiantes de formación docente. Los resultados muestran ganancias significativas en autoeficacia en competencias de IA, actitudes hacia GenAI y compromiso crítico, ético y pedagógico con las herramientas.\n\nLos hallazgos destacan que el aprendizaje transformador, activo y experiencial es esencial para preparar a los estudiantes de formación docente en sus roles cambiantes como practicantes reflexivos, co-creadores y aprendices permanentes en un mundo mediado por IA. El paper ofrece principios de diseño concretos para incorporar formación en GenAI dentro de currículos de formación docente, yendo más allá del entrenamiento técnico para fomentar metacognición, habilidades de interacción humano-IA y disposiciones críticas.\n\n## Contribuciones principales\n- Marco de principios de diseño para formación en alfabetización GenAI en programas de formación docente\n- Evidencia empírica de ganancias en autoeficacia, actitudes y compromiso ético tras intervención de taller corto\n- Integración de marcos UNESCO, TPACK y HASRL en una intervención evaluada empíricamente\n\n## Metodología\n\nInvestigación basada en diseño (DBR) con ciclos iterativos. Fase piloto: 14 estudiantes de maestría; fase de evaluación: 29 estudiantes de formación docente. Instrumentos: encuestas de autoeficacia, análisis de artefactos producidos (planificaciones de clase), y reflexiones escritas.\n\n## Hallazgos clave\n- Ganancias significativas en autoeficacia en competencias de IA tras el taller\n- Mejora en actitudes hacia GenAI y en compromiso crítico y pedagógico\n- Los principios de diseño deben incluir aprendizaje activo, reflexión metacognitiva e interacción práctica humano-IA\n- La formación técnica sola es insuficiente; se requiere integrar dimensiones éticas y sociocultural\n\n## Limitaciones\n- Muestra pequeña (14 + 29 participantes) en contexto universitario finlandés\n- Diseño de intervención corta; efectos a largo plazo no medidos\n- Puede no generalizarse a contextos con menor acceso a herramientas GenAI\n\n## Notas relacionadas\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/formacion-docente]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/supervision-humana]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]"
     },
     {
+      "id": "notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol",
+      "kind": "article",
+      "label": "Mercadeo sensorial para una vida más saludable",
+      "authors": [
+        "Felipe Reinoso-Carvalho; Luis H. Reyes"
+      ],
+      "year": "2022",
+      "venue": "Revista P&M",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "comportamiento-del-consumidor",
+        "ingenieria-de-alimentos",
+        "salud-y-sociedad"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol.md",
+      "pdf_local": "",
+      "content": "## Resumen\n\nEste artículo de divulgación presenta los resultados de una investigación sobre cómo sonidos experienciales asociados al empaque de cerveza pueden modular positivamente las expectativas emocionales y sensoriales de los consumidores hacia la cerveza sin alcohol. Publicado en Revista P&M (Colombia, abril–mayo 2022), el trabajo de Reinoso-Carvalho y Reyes parte de una realidad epidemiológica —el incremento del consumo de alcohol durante la pandemia y sus costos en salud pública— para proponer una estrategia multisensorial que haga más atractiva la cerveza sin alcohol.\n\nLos autores realizaron dos experimentos con cientos de participantes en un contexto de comercio electrónico. El primero identificó que el sonido de cerveza vertida desde una botella genera más expectativas emocionales y sensoriales positivas que otros sonidos. El segundo demostró que presentar la imagen de una cerveza sin alcohol acompañada de ese sonido específico contrarresta las expectativas negativas habitualmente asociadas a ese producto (falta de amargura, cuerpo ligero, demasiada dulzura), logrando un set de expectativas significativamente más positivo que con la imagen sola o con otros sonidos. El estudio ilustra cómo el marketing sensorial puede usarse como herramienta para fomentar hábitos de consumo más saludables.\n\n## Puntos clave\n- El 35% de los consumidores de bebidas alcohólicas en Colombia tiene hábitos considerados perjudiciales\n- La cerveza sin alcohol está asociada a expectativas emocionales negativas (tristeza, decepción) y sensoriales desfavorables\n- El sonido de cerveza vertida desde botella es el estímulo auditivo que más eleva expectativas positivas sobre la cerveza sin alcohol\n- Los sonidos de empaque pueden redirigir las expectativas y potencialmente influir en decisiones de compra en entornos digitales\n\n## Contexto\nEl artículo conecta investigación multisensorial (diseño de experiencias de consumidor) con un objetivo de salud pública: reducir el consumo de alcohol aprovechando el crecimiento del e-commerce en Colombia. Enmarca el marketing sensorial no como herramienta puramente comercial sino como vehículo de cambio de hábitos. El trabajo se inscribe en la línea de investigación del grupo GDPP (Diseño de Productos y Procesos) de la Universidad de los Andes.\n\n## Notas relacionadas\n- [[concepts/comportamiento-del-consumidor]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/salud-y-sociedad]]"
+    },
+    {
       "id": "notes/articles/2025-04-20_openai-guia-casos-uso-ia",
       "kind": "article",
       "label": "Identifica y escala casos de uso de IA",
@@ -3438,6 +3644,28 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/books/2010-06-15_the-rational-optimist-ridley.md",
       "pdf_local": "",
       "content": "## Resumen\n\nMatt Ridley presenta en este libro una tesis audaz y contraintuitiva: la prosperidad humana no es un accidente ni el resultado de la planificación racional de ningún individuo o gobierno, sino el producto emergente del intercambio de bienes e ideas entre personas. La humanidad es la única especie que ha acumulado conocimiento de generación en generación de manera exponencial, y la clave de este fenómeno es el comercio —la capacidad de \"trocar, intercambiar y permutar\" que Adam Smith identificó como rasgo intrínseco de la naturaleza humana. Ridley propone que cuando las ideas se cruzan entre individuos a través del intercambio, se produce innovación; la especialización permite que cada persona domine su nicho y aproveche el conocimiento colectivo de todos los demás.\n\nEl argumento central del libro se construye sobre evidencia histórica y evolutiva: desde los primeros homininos en África hace 200.000 años que comenzaron a comerciar herramientas y alimentos, hasta la revolución industrial y la economía digital del siglo XXI, cada salto de prosperidad coincide con una expansión del comercio y la especialización. Ridley contrapone este optimismo empírico al pesimismo perenne de los intelectuales, quienes en cada época han predicho catástrofes —superpoblación, hambruna, agotamiento de recursos— que sistemáticamente no se han materializado gracias al ingenio humano.\n\nEl libro también aborda los dos \"grandes pesimismos\" contemporáneos: la pobreza en África y el cambio climático. Ridley argumenta que África tiene los recursos para prosperar si se le permite participar en el comercio global sin las distorsiones del proteccionismo o la ayuda internacional mal diseñada, y que la humanidad ha demostrado históricamente capacidad para adaptar sus fuentes de energía. Su postura respecto al cambio climático es la más controvertida: acepta la ciencia del calentamiento global pero cuestiona el catastrofismo de los modelos de impacto, argumentando que el crecimiento económico futuro dará las herramientas para mitigar sus efectos.\n\nLa obra culmina con el concepto de \"catalaxia\" (tomado de Hayek), el orden espontáneo que emerge de millones de transacciones individuales sin un plan central. Ridley sostiene que la innovación descentralizada y el libre comercio son las fuerzas más poderosas para elevar el nivel de vida de toda la humanidad hacia 2100, y que el mayor riesgo no es la escasez de recursos sino la restricción del intercambio de ideas y bienes por parte de gobiernos e ideologías contrarias al mercado.\n\n## Ideas principales por capítulo\n\n- **Prólogo — \"When Ideas Have Sex\":** La diferencia entre un hacha de piedra de hace 500.000 años y un ratón inalámbrico moderno no es biológica sino cultural: la especialización y el intercambio permiten que el conocimiento colectivo supere infinitamente el conocimiento individual.\n- **Cap. 1 — \"A better today\":** Documentación empírica del progreso sin precedentes en condiciones de vida, longevidad, nutrición, sanidad y acceso a bienes en los últimos 200 años, refutando la nostalgia del pasado.\n- **Cap. 2 — \"The collective brain\":** El \"cerebro colectivo\" de la humanidad emerge del intercambio y la especialización desde hace 200.000 años; la extinción periódica de este comercio (p. ej., en Tasmania) causó regresión tecnológica.\n- **Cap. 3 — \"The manufacture of virtue\":** El comercio genera confianza y normas de cooperación: datos de juegos de ultimátum muestran que los participantes integrados en economías de mercado son más generosos.\n- **Cap. 4 — \"The feeding of the nine billion\":** La revolución agrícola multiplicó la productividad alimentaria, y cada oleada tecnológica —fertilizantes, variedades de alto rendimiento, biotecnología— ha evitado las hambrunnas predichas.\n- **Cap. 5 — \"The triumph of cities\":** Las ciudades concentran el comercio y la especialización; su crecimiento es el mejor indicador de prosperidad; el comercio global —no la autosuficiencia— alimenta a las naciones.\n- **Cap. 6 — \"Escaping Malthus's trap\":** La trampa malthusiana se ha evitado repetidamente gracias a la innovación; la transición demográfica reduce la natalidad conforme crece la prosperidad.\n- **Cap. 7 — \"The release of slaves\":** Los combustibles fósiles liberaron a la humanidad de la esclavitud energética; cada unidad de energía fósil equivale a cientos de horas de trabajo humano.\n- **Cap. 8 — \"The invention of invention\":** Las ideas exhiben retornos crecientes: cuantas más ideas existen, más ideas nuevas se generan; la innovación es acumulativa y colectiva, no el resultado de genios aislados.\n- **Cap. 9 — \"Turning points: pessimism after 1900\":** Revisión histórica de las profecías catastrofistas del siglo XX (sobrepoblación, pico del petróleo, lluvia ácida, Y2K) que no se cumplieron, vinculando el pesimismo intelectual a incentivos de atención y poder.\n- **Cap. 10 — \"The two great pessimisms of today\":** Examen crítico del pesimismo sobre África y el cambio climático; Ridley acepta la ciencia del clima pero critica los modelos catastrofistas y aboga por adaptación basada en el crecimiento.\n- **Cap. 11 — \"The catallaxy\":** Síntesis: el orden espontáneo del libre intercambio de ideas y bienes es el motor de la prosperidad; el riesgo real es el intervencionismo que frena la innovación descentralizada.\n\n## Argumentos centrales\n\n- El intercambio de bienes e ideas es la causa primaria del progreso humano: la especialización convierte el conocimiento individual en inteligencia colectiva.\n- Las ideas tienen retornos crecientes, no decrecientes: cuanto más conocimiento se genera, más posibilidades nuevas de innovación emergen.\n- El pesimismo intelectual es una constante histórica que sistemáticamente sobreestima los riesgos y subestima la capacidad adaptativa humana.\n- Los combustibles fósiles han sido el mayor liberador de trabajo humano de la historia, equivalentes a miles de esclavos energéticos per cápita.\n- La transición demográfica muestra que la prosperidad reduce la natalidad de forma natural, haciendo innecesarias las políticas coercitivas de control de población.\n- África puede prosperar si se le permite participar equitativamente en el comercio global y se protegen los derechos de propiedad; la ayuda exterior mal diseñada puede ser contraproducente.\n- El catastrofismo climático sobreestima los daños futuros e ignora la capacidad de adaptación que genera el crecimiento económico continuo.\n\n## Limitaciones\n\n- La postura de Ridley sobre el cambio climático es la más controvertida: mezcla legítimamente la aceptación del consenso científico sobre el calentamiento con escepticismo sobre los modelos de impacto socioeconómico, lo que puede llevar a lectores a confundir ambos planos.\n- El libro adopta un tono tendencioso hacia el libre mercado que en ocasiones minimiza los fallos de mercado reales (externalidades, bienes públicos, poder monopólico).\n- La evidencia sobre los beneficios del comercio se presenta principalmente desde una perspectiva de economía ortodoxa anglosajona, con poca atención a corrientes heterodoxas o perspectivas del Sur Global.\n- El argumento sobre África idealiza el comercio como solución sin abordar suficientemente las asimetrías de poder en las instituciones del comercio internacional (OMC, FMI, regímenes de patentes).\n- Algunas afirmaciones sobre el futuro de la energía y la tecnología son optimistas al punto de resultar especulativas, sin base empírica sólida en el momento de publicación.\n\n## Notas relacionadas\n\n- [[concepts/historia-de-la-innovacion]]\n- [[concepts/economia-de-la-innovacion]]\n- [[concepts/modernizacion]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/sesgo-cognitivo]]\n- [[concepts/comercio-y-prosperidad]]\n- [[concepts/evolucion-cultural]]"
+    },
+    {
+      "id": "notes/books/2011-01-01_chemical-product-design-cussler",
+      "kind": "book",
+      "label": "Chemical Product Design (2nd Edition)",
+      "authors": [
+        "\"Cussler",
+        "E.L.\"",
+        "\"Moggridge",
+        "G.D.\""
+      ],
+      "year": "2011",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/books/2011-01-01_chemical-product-design-cussler.md",
+      "pdf_local": "",
+      "content": "## Resumen\n\n*Chemical Product Design* de E.L. Cussler y G.D. Moggridge (2a edición, Cambridge University Press, 2011) es un texto fundamental que introduce un enfoque sistemático para el diseño de productos químicos, distinguiéndolo del diseño de procesos tradicional. El libro parte de la premisa de que los ingenieros químicos deben ser capaces no solo de optimizar procesos existentes sino de concebir y desarrollar nuevos productos que satisfagan necesidades del mercado.\n\nLa estructura del libro sigue las cuatro etapas del proceso de diseño de producto: (1) identificación de necesidades del cliente mediante herramientas de investigación de mercado, (2) generación de ideas y conceptos de producto (benchmarking, brainstorming, análisis de propiedades), (3) selección entre alternativas mediante matrices de decisión y criterios técnicos y económicos, y (4) manufactura y escalado. Cada etapa integra fundamentos de química, ingeniería de materiales, reología, termodinámica y economía de procesos.\n\nEl texto cubre productos en tres categorías: productos moleculares (fármacos, fragancias, colorantes), productos microestructurados (emulsiones, espumas, geles, sistemas de liberación controlada) y productos funcionales (membranas, electrodos, catalizadores). La 2a edición amplía los casos de estudio y profundiza en la integración de la perspectiva de mercado desde las etapas tempranas del desarrollo.\n\n## Ideas principales por capítulo\n- **Necesidades → Ideas → Selección → Manufactura:** el framework central del libro que separa el diseño de producto del diseño de proceso\n- **Productos moleculares:** diseño guiado por estructura química y propiedades físicoquímicas\n- **Productos microestructurados:** control de morfología, reología y microestructura como palancas de diseño\n- **Análisis económico temprano:** integración de costos y mercado desde la fase de ideación\n\n## Argumentos centrales\n- El diseño de productos químicos requiere habilidades complementarias a las del diseño de procesos: investigación de mercado, creatividad y toma de decisiones bajo incertidumbre\n- La mayoría de los productos de mayor valor agregado son microestructurados o funcionales, no simplemente moléculas puras\n- El éxito comercial de un producto químico depende de entender la experiencia del usuario final tanto como las propiedades fisicoquímicas\n\n## Limitaciones\n- Orientación principalmente hacia mercados de alto valor (farmacéutico, cosmético, especialidades); menor cobertura de commodities o productos de alto volumen\n- Los casos de estudio pueden quedar desactualizados ante la rápida evolución de materiales avanzados y biotecnología\n\n## Notas relacionadas\n- [[concepts/ingenieria-quimica]]"
     },
     {
       "id": "notes/books/2012-01-23_quiet-susan-cain",
@@ -5093,6 +5321,161 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos",
+      "target": "notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata",
+      "target": "notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike",
+      "target": "concepts/bioquimica-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike",
+      "target": "concepts/modelado-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike",
+      "target": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-07-14_peptidos-antimicrobianos-ia",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-07-14_peptidos-antimicrobianos-ia",
+      "target": "concepts/bioquimica-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-07-14_peptidos-antimicrobianos-ia",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-07-14_peptidos-antimicrobianos-ia",
+      "target": "concepts/modelado-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-07-14_peptidos-antimicrobianos-ia",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-07-14_peptidos-antimicrobianos-ia",
+      "target": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
+      "target": "concepts/terapia-genica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
+      "target": "concepts/enfermedades-raras",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
+      "target": "notes/papers/2021-09-01_genome-editing-parkinson",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
+      "target": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
+      "target": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
       "target": "concepts/educacion-superior",
       "kind": "keyword"
@@ -5853,6 +6236,21 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol",
+      "target": "concepts/comportamiento-del-consumidor",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol",
+      "target": "concepts/salud-y-sociedad",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/articles/2025-04-20_openai-guia-casos-uso-ia",
       "target": "concepts/inteligencia-artificial",
       "kind": "keyword"
@@ -6325,6 +6723,11 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/books/2010-06-15_the-rational-optimist-ridley",
       "target": "concepts/sesgo-cognitivo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2011-01-01_chemical-product-design-cussler",
+      "target": "concepts/ingenieria-quimica",
       "kind": "keyword"
     },
     {

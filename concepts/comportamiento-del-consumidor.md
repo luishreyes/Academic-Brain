@@ -10,3 +10,4 @@ Estudio de las percepciones, emociones, expectativas y decisiones de los consumi
 
 ## Notas que usan este concepto
 - [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]
+- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]

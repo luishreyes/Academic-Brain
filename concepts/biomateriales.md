@@ -19,3 +19,7 @@ Materiales de origen natural o sintético diseñados para interactuar con sistem
 - [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]
 - [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]
 - [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]
+- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]
+- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]
+- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]
+- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]

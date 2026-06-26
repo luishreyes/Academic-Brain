@@ -13,3 +13,4 @@ Enfoque terapéutico que introduce, modifica o silencia material genético en c�
 - [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]
 - [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]
 - [[notes/papers/2021-09-01_genome-editing-parkinson]]
+- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]

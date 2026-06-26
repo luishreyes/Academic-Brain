@@ -13,3 +13,4 @@ Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de 
 - [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]
 - [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]
 - [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]
+- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]

@@ -10,3 +10,5 @@ Representación computacional de estructuras moleculares y sus interacciones med
 
 ## Notas que usan este concepto
 - [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]
+- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]
+- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]
