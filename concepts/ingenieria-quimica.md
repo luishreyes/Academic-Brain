@@ -33,3 +33,8 @@ Disciplina que aplica principios de química, física y matemáticas para diseñ
 - [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]
 - [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]
 - [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]
+- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]
+- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]
+- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]
+- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]
+- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]

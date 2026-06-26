@@ -31,3 +31,5 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/books/2024-04-02_co-intelligence-mollick]]
 - [[notes/books/2022-10-04_chip-war-miller]]
 - [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]
+- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]
+- [[notes/articles/2026-03-12_shape-of-thing-mollick]]

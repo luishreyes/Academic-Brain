@@ -1,0 +1,12 @@
+---
+type: concept
+keyword: comportamiento-del-consumidor
+aliases: [consumer behavior, consumer psychology, comportamiento de compra, food marketing, multisensory, sensory marketing]
+---
+
+# Comportamiento del consumidor
+
+Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.
+
+## Notas que usan este concepto
+- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]

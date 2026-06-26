@@ -47,6 +47,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **cadenas-de-suministro-globales** — Redes internacionales de producción, distribución y ensamblaje de bienes y componentes; en tecnología incluye la concentración geográfica de fabricación avanzada, dependencias críticas y riesgos de disrupción. _Aliases: global supply chains, supply chain, cadenas de valor globales, reshoring_
 
+**comportamiento-del-consumidor** — Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce. _Aliases: consumer behavior, consumer psychology, comportamiento de compra, food marketing, multisensory, sensory marketing_
+
 **comercio-y-prosperidad** — Relación entre el intercambio voluntario de bienes, servicios e ideas y el crecimiento del bienestar humano; incluye la división del trabajo, la especialización y la función de los mercados como mecanismos de coordinación descentralizada. _Aliases: trade and prosperity, free trade, comercio libre, división del trabajo, specialization_
 
 **capacidades-de-ia** — Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes. _Aliases: AI capabilities, AI benchmarking, evaluación de modelos de IA, AI performance_
@@ -131,6 +133,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## I
 
 **impacto-de-investigacion**
+
+**ingenieria-de-alimentos** — Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios. _Aliases: food engineering, food science, ciencia de alimentos, food technology, tecnología de alimentos_
 
 **ingenieria-metabolica** — Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida. _Aliases: metabolic engineering, strain engineering, biocatalyst engineering, cell factory, ingeniería de cepas_
 

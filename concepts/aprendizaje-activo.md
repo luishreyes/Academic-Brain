@@ -17,3 +17,4 @@ Conjunto de metodologías pedagógicas en que el estudiante participa activament
 - [[notes/papers/2024-07-01_prompting-quimica-preservice]]
 - [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]
 - [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]
+- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]

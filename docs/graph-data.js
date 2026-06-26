@@ -2,10 +2,10 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 43,
-    "articles": 5,
+    "papers": 49,
+    "articles": 6,
     "books": 24,
-    "concepts": 85
+    "concepts": 87
   },
   "nodes": [
     {
@@ -34,8 +34,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).",
       "path": "concepts/agentes-de-ia.md",
-      "content": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
-      "degree": 2
+      "content": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]",
+      "degree": 3
     },
     {
       "id": "concepts/alfabetizacion-en-ia",
@@ -94,8 +94,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "path": "concepts/aprendizaje-activo.md",
-      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]",
-      "degree": 8
+      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]",
+      "degree": 9
     },
     {
       "id": "concepts/autorregulacion-del-aprendizaje",
@@ -142,8 +142,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.",
       "path": "concepts/biocombustibles.md",
-      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]",
-      "degree": 8
+      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]",
+      "degree": 9
     },
     {
       "id": "concepts/biologia-molecular",
@@ -158,8 +158,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.",
       "path": "concepts/biologia-molecular.md",
-      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]",
-      "degree": 12
+      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]",
+      "degree": 14
     },
     {
       "id": "concepts/biologia-sintetica",
@@ -225,8 +225,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.",
       "path": "concepts/bioquimica-computacional.md",
-      "content": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]",
-      "degree": 2
+      "content": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]",
+      "degree": 3
     },
     {
       "id": "concepts/cadenas-de-suministro-globales",
@@ -257,8 +257,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.",
       "path": "concepts/capacidades-de-ia.md",
-      "content": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
-      "degree": 3
+      "content": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]",
+      "degree": 4
     },
     {
       "id": "concepts/ciencia-y-sociedad",
@@ -290,6 +290,24 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Relación entre el intercambio voluntario de bienes, servicios e ideas y el crecimiento del bienestar humano; incluye la división del trabajo, la especialización y la función de los mercados como mecanismos de coordinación descentralizada.",
       "path": "concepts/comercio-y-prosperidad.md",
       "content": "Relación entre el intercambio voluntario de bienes, servicios e ideas y el crecimiento del bienestar humano; incluye la división del trabajo, la especialización y la función de los mercados como mecanismos de coordinación descentralizada.\n\n## Notas que usan este concepto\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/comportamiento-del-consumidor",
+      "kind": "concept",
+      "label": "comportamiento del consumidor",
+      "keyword": "comportamiento-del-consumidor",
+      "aliases": [
+        "consumer behavior",
+        "consumer psychology",
+        "comportamiento de compra",
+        "food marketing",
+        "multisensory",
+        "sensory marketing"
+      ],
+      "definition": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.",
+      "path": "concepts/comportamiento-del-consumidor.md",
+      "content": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.\n\n## Notas que usan este concepto\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]",
       "degree": 1
     },
     {
@@ -510,8 +528,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]",
-      "degree": 22
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]",
+      "degree": 23
     },
     {
       "id": "concepts/enfermedades-raras",
@@ -722,8 +740,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "path": "concepts/futuro-del-trabajo.md",
-      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]",
-      "degree": 17
+      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]",
+      "degree": 18
     },
     {
       "id": "concepts/genomica",
@@ -739,8 +757,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.",
       "path": "concepts/genomica.md",
-      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]",
-      "degree": 9
+      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]",
+      "degree": 10
     },
     {
       "id": "concepts/geopolitica-tecnologica",
@@ -820,6 +838,23 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 4
     },
     {
+      "id": "concepts/ingenieria-de-alimentos",
+      "kind": "concept",
+      "label": "ingenieria de alimentos",
+      "keyword": "ingenieria-de-alimentos",
+      "aliases": [
+        "food engineering",
+        "food science",
+        "ciencia de alimentos",
+        "food technology",
+        "tecnología de alimentos"
+      ],
+      "definition": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.",
+      "path": "concepts/ingenieria-de-alimentos.md",
+      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]",
+      "degree": 2
+    },
+    {
       "id": "concepts/ingenieria-metabolica",
       "kind": "concept",
       "label": "ingenieria metabolica",
@@ -833,8 +868,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.",
       "path": "concepts/ingenieria-metabolica.md",
-      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]",
-      "degree": 13
+      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]",
+      "degree": 14
     },
     {
       "id": "concepts/ingenieria-quimica",
@@ -849,8 +884,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.",
       "path": "concepts/ingenieria-quimica.md",
-      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]",
-      "degree": 24
+      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]",
+      "degree": 29
     },
     {
       "id": "concepts/integridad-academica",
@@ -880,8 +915,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
-      "degree": 22
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]",
+      "degree": 24
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -1267,8 +1302,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.",
       "path": "concepts/simulacion-computacional.md",
-      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]",
-      "degree": 1
+      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]",
+      "degree": 2
     },
     {
       "id": "concepts/supervision-humana",
@@ -1878,6 +1913,32 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nLa producción porcina a gran escala genera grandes volúmenes de porquinaza (excreta porcina) asociados a malos olores, propagación de patógenos y contaminación de suelos y fuentes hídricas. Como solución sostenible, este estudio implementa un biodigestor anaerobio en la Reserva El Verjón (Colombia) para tratar la porquinaza y aprovechar el biosol (fracción sólida del digerido) como mejorador de suelos agrícolas. El objetivo es demostrar el potencial del biosol como sustituto o complemento de fertilizante comercial en el cultivo de rábano rojo (Raphanus sativus).\n\nLos resultados muestran que el peso de los rábanos fertilizados con biosol fue similar al de los fertilizados con fertilizante comercial, y las raíces desarrolladas con biosol fueron más largas. Los rábanos con biosol tomaron forma esférica, mientras que los de fertilizante comercial fueron más alargados. El fertilizante comercial produjo mejor crecimiento de hojas y tallos. Se recomienda enriquecer el biosol con nitrógeno para mejorar el crecimiento aéreo de la planta.\n\n## Contribuciones principales\n\n- Implementación de biodigestor anaerobio con porquinaza en contexto rural colombiano\n- Validación del biosol como mejorador de suelos: desempeño comparable al fertilizante comercial en peso de raíz\n- Evidencia de economía circular en producción porcina: residuo → fertilizante\n\n## Metodología\n\nBiodigestión anaerobia de porquinaza → obtención de biosol (fracción sólida) → preparación de macetas con biosol vs. fertilizante comercial vs. control → cultivo de Raphanus sativus → medición de peso, tamaño de raíz, hojas y tallos.\n\n## Hallazgos clave\n\n- Peso de rábano (raíz) comparable entre biosol y fertilizante comercial\n- Raíces más largas con biosol\n- Mejor crecimiento aéreo (hojas/tallos) con fertilizante comercial\n- Adición de N al biosol podría equiparar o superar el crecimiento aéreo del fertilizante comercial\n\n## Limitaciones\n\n- Estudio a escala de invernadero (macetas), no validado en campo agrícola real\n- Tamaño de muestra limitado\n- No se realizó análisis químico completo del biosol producido\n- El contenido de nutrientes del biosol puede variar con la composición de la dieta porcina\n\n## Notas relacionadas\n\n- [[concepts/economia-circular]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/biocombustibles]]"
     },
     {
+      "id": "notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd",
+      "kind": "paper",
+      "label": "Novel external-loop-airlift milliliter scale bioreactors for cell growth studies: Low cost design, CFD analysis and experimental characterization",
+      "authors": [
+        "Jorge Eduardo Marroquín-Fandino",
+        "Carlos Manuel Ramírez-Acosta",
+        "Hector Javier Luna-Wandurraga",
+        "Joaquín Andrés Valderrama-Rincón",
+        "Juan C. Cruz",
+        "Luis H. Reyes",
+        "Juan D. Valderrama-Rincón"
+      ],
+      "year": "2020",
+      "venue": "Journal of Biotechnology",
+      "url": "https://doi.org/10.1016/j.jbiotec.2020.09.022",
+      "doi": "10.1016/j.jbiotec.2020.09.022",
+      "keywords": [
+        "ingenieria-quimica",
+        "simulacion-computacional"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd.md",
+      "pdf_local": "sources/pdfs/marroquin2020-biorreactor-airlift-mililitros.pdf",
+      "content": "## Resumen\n\nEl escalado de bioprocesos es costoso y requiere equipamiento especializado, lo que limita la investigación en laboratorios con presupuesto reducido. Este trabajo propone una alternativa: biorreactores de bajo costo fabricados por manufactura aditiva (impresión 3D) a escala milimétrica, basados en la configuración de bucle externo tipo airlift. El diseño fue evaluado primero in silico mediante simulaciones CFD en COMSOL Multiphysics (módulo de fluidos multifásicos y rastreo de partículas), y luego construido y caracterizado experimentalmente mediante métodos de trazadores.\n\nLos estudios CFD y experimentales confirmaron condiciones de mezcla ideales y baja tensión de cizalla en el biorreactor propuesto. Se diseñaron sensores ópticos de absorbancia (OAS) de fabricación casera para monitoreo en línea de la densidad celular, calibrados contra un espectrofotómetro comercial. La viabilidad biológica del sistema se demostró cultivando E. coli y obteniendo curvas de crecimiento con tasas y densidades máximas comparables a sistemas similares de la literatura. El enfoque ofrece una plataforma asequible para experimentos de prueba de concepto previos al escalado industrial.\n\n## Contribuciones principales\n\n- Diseño y fabricación por impresión 3D de biorreactores airlift de escala milimétrica de bajo costo\n- Validación CFD (COMSOL Multiphysics) de mezcla ideal y baja cizalla en el diseño propuesto\n- Desarrollo de sensores ópticos de absorbancia (OAS) de fabricación casera para monitoreo en línea\n- Curvas de crecimiento de E. coli comparables a sistemas de referencia\n\n## Metodología\n\nDiseño conceptual del biorreactor airlift de bucle externo → simulación CFD multifásica en COMSOL (módulo de fluidos y rastreo de partículas) → fabricación por manufactura aditiva → caracterización hidrodinámica con trazadores y OAS → cultivo de E. coli y ajuste al modelo de Verhulst.\n\n## Hallazgos clave\n\n- CFD predice mezcla ideal y baja cizalla; confirmado experimentalmente (modelo de tanques en serie: n = 1)\n- Sensores OAS de fabricación casera: calibrados y funcionales para monitoreo en tiempo real\n- Curvas de crecimiento de E. coli comparables: tasa de crecimiento r ≈ 0.91, K ≈ 1.70\n- Sistema viable como alternativa de bajo costo para pruebas de concepto en bioprocesos\n- Escalado posible a partir de los parámetros identificados en el sistema milimétrico\n\n## Limitaciones\n\n- Validación solo con E. coli; comportamiento con microorganismos más complejos (filamentosos, cultivos de células animales) no evaluado\n- Los modelos CFD asumen fluido newtoniano; medios con polímeros extracelulares pueden desviarse\n- El escalado industrial requiere recalibración de los parámetros de diseño\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-quimica]]\n- [[concepts/simulacion-computacional]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]"
+    },
+    {
       "id": "notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis",
       "kind": "paper",
       "label": "Formulation and Characterization of Gelatin-Based Hydrogels for the Encapsulation of Kluyveromyces lactis—Applications in Packed-Bed Reactors and Probiotics Delivery in Humans",
@@ -1983,6 +2044,31 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nLa formación de ingenieros químicos listos para el mundo laboral requiere integrar habilidades técnicas con competencias de empleabilidad demandadas por la industria. Aunque los sistemas de colocación laboral (placements) son la forma más común de aprendizaje integrado al trabajo (WIL), las formas de WIL sin colocación pueden ser igual de efectivas sin los problemas logísticos de encontrar y asegurar la calidad de los puestos. Este estudio evalúa un curso de ingeniería química que combina WIL sin colocación con metodología de aprendizaje basado en proyectos (PBL) y el marco de Diseño Integrado de Productos y Procesos (IPPD).\n\nMediante análisis cualitativo de datos de estudiantes, docentes y socios industriales, se identificaron cinco temas clave que explican cómo las partes del curso se relacionan y promueven el aprendizaje. Los hallazgos indican que el modelo de WIL sin colocación evaluado fue efectivo para desarrollar las habilidades de empleabilidad definidas (creatividad y trabajo en equipo). Sin embargo, se identificaron oportunidades de mejora iterativa. Los aprendizajes clave pueden guiar a otras instituciones interesadas en incorporar WIL sin colocación en la educación de ingeniería química.\n\n## Contribuciones principales\n\n- Evaluación cualitativa de un modelo de WIL sin colocación en ingeniería química y alimentaria\n- Identificación de cinco temas clave que articulan las partes del curso y promueven el aprendizaje\n- Demostración de que el WIL sin colocación desarrolla efectivamente creatividad y trabajo en equipo\n- Marco metodológico transferible para implementar WIL sin colocación en otros programas de ingeniería\n\n## Metodología\n\nDiseño de curso combinando WIL sin colocación + PBL + marco IPPD → recogida de datos cualitativos (estudiantes, docentes, socios industriales) → análisis temático → identificación de cinco temas clave que explican el impacto en el aprendizaje.\n\n## Hallazgos clave\n\n- El modelo WIL sin colocación + PBL + IPPD es efectivo para desarrollar creatividad y trabajo en equipo\n- Cinco temas clave identificados articulan cómo el diseño del curso promueve el aprendizaje\n- Los socios industriales valoran la participación y el modelo de trabajo en equipo del curso\n- Oportunidades de mejora identificadas para iteraciones futuras del curso\n- El modelo es replicable en otros contextos de educación en ingeniería\n\n## Limitaciones\n\n- Estudio de caso único (una institución, un curso); la generalización requiere evaluación en otros contextos\n- Datos cualitativos: dependientes de la interpretación del investigador y la disposición de los participantes a compartir\n- No se midieron competencias de empleabilidad con instrumentos estandarizados pre/post curso\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-quimica]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/educacion-superior]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/creatividad]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]"
     },
     {
+      "id": "notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion",
+      "kind": "paper",
+      "label": "Modernizing the chemical engineering curriculum via a student-centered framework that promotes technical, professional, and technology expertise skills: The case of unit operations",
+      "authors": [
+        "Miguel Ángel Ballesteros",
+        "Juan Sebastián Sánchez",
+        "Nicolás Ratkovich",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2021",
+      "venue": "Education for Chemical Engineers",
+      "url": "https://doi.org/10.1016/j.ece.2020.12.004",
+      "doi": "10.1016/j.ece.2020.12.004",
+      "keywords": [
+        "ingenieria-quimica",
+        "aprendizaje-activo",
+        "educacion-superior"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion.md",
+      "pdf_local": "sources/pdfs/ballesteros2021-curriculo-ingenieria-modernizacion.pdf",
+      "content": "## Resumen\n\nLa formación de ingenieros capaces de afrontar los retos multidimensionales del siglo XXI requiere no solo competencias técnicas sino también habilidades profesionales (trabajo en equipo, comunicación) y dominio de tecnologías de información y comunicación (TIC). Este trabajo implementa un marco tecno-pedagógico centrado en el estudiante en el curso de Operaciones Unitarias de ingeniería química en la Universidad de los Andes, combinando aula invertida (flipped classroom), un problema PBL-OA orientado a resultados (PO-PBL) y un conjunto de herramientas e-learning interactivas.\n\nEl marco fue implementado primero como piloto (2018-1) y luego en forma completa (2018-2). Los resultados muestran mejora en la percepción estudiantil de las habilidades de trabajo en equipo y habilidades interpersonales entre el piloto y la implementación completa, atribuida a la mayor confianza y asertividad del equipo docente. Sin embargo, se identificó que las interacciones entre pares tienden a ser superficiales, limitando el desarrollo de conexiones emocionales profundas necesarias para el pensamiento complejo y la ideación. Esta limitación se propone como foco de trabajo futuro.\n\n## Contribuciones principales\n\n- Marco tecno-pedagógico centrado en el estudiante que integra aula invertida, PO-PBL y TIC para ingeniería química\n- Evaluación comparativa piloto vs. implementación completa en el curso de Operaciones Unitarias\n- Identificación de mejoras en habilidades de trabajo en equipo y habilidades interpersonales\n- Diagnóstico de la tendencia a interacciones superficiales como limitación a superar\n\n## Metodología\n\nDiseño del marco tecno-pedagógico (flipped classroom + PO-PBL + TIC) → implementación piloto (2018-1) → implementación completa (2018-2) → evaluación con encuesta CCAA de competencias técnicas, profesionales y tecnológicas → análisis comparativo.\n\n## Hallazgos clave\n\n- Mejora en percepción de trabajo en equipo y habilidades interpersonales entre piloto y versión completa\n- Las TIC promueven engagement cognitivo pero no garantizan conexiones emocionales profundas entre pares\n- Los estudiantes mostraron tendencia a interacciones superficiales, limitando el pensamiento complejo y la ideación\n- El aula invertida con PO-PBL mejora la percepción de las habilidades técnicas del curso\n- La experiencia del equipo docente es determinante para el éxito de la implementación\n\n## Limitaciones\n\n- Evaluación basada en percepción estudiantil (encuesta), sin medición directa de competencias adquiridas\n- Estudio de caso en una institución y un curso; la generalización requiere validación en otros contextos\n- No se midió el efecto a largo plazo sobre las trayectorias profesionales de los estudiantes\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-quimica]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/educacion-superior]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]"
+    },
+    {
       "id": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde",
       "kind": "paper",
       "label": "Patchy Core/Shell, Magnetite/Silver Nanoparticles via Green and Facile Synthesis: Routes to Assure Biocompatibility",
@@ -2005,6 +2091,109 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde.md",
       "pdf_local": "sources/pdfs/ramirez2020-nanoparticulas-magnetita-plata.pdf",
       "content": "## Resumen\n\nLa nanomedicina está alcanzando un nivel de madurez que permite su traslación clínica gracias al amplio espectro de aplicaciones habilitadas por materiales nanoestructurados. Las nanopartículas bimetálicas de tipo \"parche\" núcleo/concha ofrecen superficies ajustables que permiten respuestas multifuncionales. Sin embargo, el impacto ambiental y la biocompatibilidad de estos materiales representan desafíos pendientes. Este trabajo desarrolla un esquema de síntesis verde para preparar nanopartículas de magnetita/plata en configuración parche altamente biocompatibles.\n\nEl núcleo de magnetita se sintetizó por co-precipitación de FeCl₃/FeCl₂ en NaOH, seguido del crecimiento de la capa de plata parcheada usando miel natural como agente reductor (síntesis verde). Un proceso de purificación permite seleccionar las nanopartículas objetivo y eliminar reactivos tóxicos en exceso. La caracterización mostró alta biocompatibilidad: baja citotoxicidad, mínimo efecto hemolítico (<10%) y agregación plaquetaria comparable al control negativo. El trabajo también describe protocolos de conjugación superficial transferibles a múltiples químicas, útiles para aplicaciones emergentes en nanomedicina.\n\n## Contribuciones principales\n\n- Síntesis verde de nanopartículas parche magnetita/plata usando miel como agente reductor\n- Alta biocompatibilidad demostrada: citotoxicidad baja, hemólisis <10%, mínima agregación plaquetaria\n- Protocolo de purificación para selección de nanopartículas objetivo\n- Estrategias de conjugación superficial multifuncional transferibles a otras aplicaciones de nanomedicina\n\n## Metodología\n\nCo-precipitación de magnetita → crecimiento de capa de plata parcheada con miel como reductor → purificación → caracterización (UV-Vis, DLS, TGA, FTIR, SEM+EDS, TEM) → ensayos de biocompatibilidad (citotoxicidad, hemólisis, agregación plaquetaria).\n\n## Hallazgos clave\n\n- Síntesis verde reproducible con miel como reductor natural\n- Morfología parche confirmada por SEM y TEM\n- Alta biocompatibilidad: viabilidad celular alta, hemólisis <10%\n- El proceso de purificación es crítico para eliminar citotoxicidad de reactivos residuales\n- Los protocolos de conjugación permiten modificación superficial multifuncional\n\n## Limitaciones\n\n- Estudio de biocompatibilidad in vitro; la evaluación in vivo no se realizó\n- El mecanismo de formación del parche de plata y su reproducibilidad a escala requieren optimización\n- Las propiedades magnéticas de las nanopartículas finales no se cuantificaron extensamente\n\n## Notas relacionadas\n\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]"
+    },
+    {
+      "id": "notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica",
+      "kind": "paper",
+      "label": "Design, Screening, and Testing of Non-Rational Peptide Libraries with Antimicrobial Activity: In Silico and Experimental Approaches",
+      "authors": [
+        "Paola Ruiz Puentes",
+        "María C. Henao",
+        "Carlos E. Torres",
+        "Saúl C. Gómez",
+        "Laura A. Gómez",
+        "Juan C. Burgos",
+        "Pablo Arbeláez",
+        "Johann F. Osma",
+        "Carolina Muñoz-Camargo",
+        "Luis H. Reyes",
+        "Juan C. Cruz"
+      ],
+      "year": "2020",
+      "venue": "Antibiotics",
+      "url": "https://doi.org/10.3390/antibiotics9120854",
+      "doi": "10.3390/antibiotics9120854",
+      "keywords": [
+        "biologia-molecular",
+        "bioquimica-computacional",
+        "inteligencia-artificial",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica.md",
+      "pdf_local": "sources/pdfs/ruiz2020-peptidos-antimicrobianos-ia.pdf",
+      "content": "## Resumen\n\nLa resistencia antimicrobiana (AMR) es una amenaza global creciente: para 2050 se proyectan más de 10 millones de muertes anuales atribuibles a patógenos resistentes. Los péptidos antimicrobianos (AMPs) son una alternativa prometedora a los antibióticos convencionales, ya que pueden superar mecanismos de resistencia bacteriana. Sin embargo, el diseño y screening de nuevas bibliotecas de AMPs presenta desafíos computacionales y experimentales significativos. Este trabajo revisa y propone un flujo de trabajo de cuatro etapas que integra inteligencia artificial, dinámica molecular, expresión superficial en microorganismos y microfluídica para diseñar, seleccionar y validar AMPs no racionales derivados de la diversidad genómica bacteriana.\n\nLa propuesta combina: (1) algoritmos de clasificación de deep learning (capas convolucionales + unidades recurrentes GRU) para identificar candidatos AMP en bases de datos genómicas; (2) simulaciones de dinámica molecular para caracterizar interacciones con bicapas lipídicas bacterianas; (3) expresión superficial recombinante en microorganismos para screening masivo; y (4) estrategias microfluídicas basadas en gotas para identificar AMPs con las capacidades líticas deseadas. El enfoque no racional aprovecha la diversidad inherente del genoma bacteriano como fuente de diversidad de bibliotecas, diferenciándose de los enfoques racionales basados en reglas de diseño.\n\n## Contribuciones principales\n\n- Marco de cuatro etapas para diseño, screening y validación de AMPs no racionales\n- Algoritmo de clasificación deep learning (CNN + GRU) para identificar candidatos AMP en genomas bacterianos\n- Integración de dinámica molecular para evaluar interacciones peptídico-membrana\n- Estrategias microfluídicas para screening de alta densidad de bibliotecas de AMPs\n\n## Metodología\n\nBúsqueda in silico de candidatos AMP con CNN+GRU → simulaciones de dinámica molecular de interacciones con bicapas lipídicas → expresión superficial recombinante en microorganismos → screening vía microfluídica de gotas → validación experimental de actividad lítica.\n\n## Hallazgos clave\n\n- Los enfoques no racionales basados en genómica bacteriana generan bibliotecas de AMPs con mayor diversidad que los enfoques racionales\n- Los algoritmos CNN+GRU superan limitaciones de los enfoques de análisis de distribuciones multi-espacio en bases de datos grandes\n- La dinámica molecular permite discriminar candidatos con buena interacción con membranas bacterianas antes de síntesis experimental\n- El framework es extensible a otras aplicaciones de péptidos bioactivos más allá de los antimicrobianos\n\n## Limitaciones\n\n- Revisión conceptual y metodológica: los resultados experimentales de la biblioteca completa son parciales al momento de publicación\n- La validación in vivo de los AMPs identificados no se reporta\n- La escalabilidad del proceso microfluídico a grandes bibliotecas requiere optimización adicional\n\n## Notas relacionadas\n\n- [[concepts/biologia-molecular]]\n- [[concepts/bioquimica-computacional]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-quimica]]"
+    },
+    {
+      "id": "notes/papers/2020-11-06_sal-queso-costeno-multiscale",
+      "kind": "paper",
+      "label": "Application of a Multiscale Approach in the Substitution and Reduction of NaCl in Costeño-Type Artisan Cheese",
+      "authors": [
+        "Martha L. Diaz-Bustamante",
+        "Luis H. Reyes",
+        "Oscar Alberto Alvarez Solano"
+      ],
+      "year": "2020",
+      "venue": "Applied Sciences",
+      "url": "https://doi.org/10.3390/app10249008",
+      "doi": "10.3390/app10249008",
+      "keywords": [
+        "ingenieria-de-alimentos",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-11-06_sal-queso-costeno-multiscale.md",
+      "pdf_local": "sources/pdfs/diaz2020-sal-queso-costeno-multiscale.pdf",
+      "content": "## Resumen\n\nEl alto consumo de sal (NaCl) es un problema de salud pública global asociado a hipertensión y enfermedades cardiovasculares. Los quesos artesanales como el costeño colombiano tienen un contenido de sal particularmente elevado (~10% w/w), lo que los convierte en objetivos prioritarios para estrategias de reducción de sodio. Sin embargo, reducir el NaCl altera la textura, reología y microestructura del queso, por lo que se requiere un enfoque sistemático que correlacione cambios de proceso con cambios en las propiedades del producto.\n\nEste trabajo aplica un enfoque multiescala para estudiar el efecto de la reducción y sustitución parcial de NaCl (por KCl) y el aumento de temperatura de cocción en las propiedades fisicoquímicas, texturales, reológicas y microestructurales del queso costeño. Los resultados muestran que los quesos Q2 y Q3, con reducción de NaCl de 5% y 7.5% respectivamente y aumento de temperatura de cocción antes del drenaje del suero, presentan similitud con el queso control (QC) en composición fisicoquímica y atributos texturales, sin necesidad de sustitución parcial por KCl. La microestructura no se afecta significativamente por la reducción de sal.\n\n## Contribuciones principales\n\n- Aplicación de enfoque multiescala (macro y microestructura) para estudiar reducción de NaCl en queso costeño colombiano\n- Identificación de condiciones de proceso (aumento de temperatura de cocción) que permiten reducir NaCl sin pérdida de calidad textural\n- Correlación de variables de proceso, composición y propiedades texturales/reológicas\n- Base científica para diseño de quesos artesanales colombianos con menor contenido de sodio\n\n## Metodología\n\nProducción de quesos costeño con variaciones en NaCl (5% y 7.5% de reducción) y/o sustitución por KCl y temperatura de cocción → caracterización fisicoquímica, textural (TPA), reológica y microestructural → aplicación del enfoque multiescala para correlacionar proceso-producto-propiedad.\n\n## Hallazgos clave\n\n- Q2 (reducción 5% NaCl + mayor temperatura cocción) y Q3 (reducción 7.5% + temperatura) equivalentes al queso control en textura y composición\n- El aumento de temperatura de cocción antes del drenaje del suero reduce la humedad del queso, compensando la pérdida de estructura por reducción de sal\n- La microestructura no fue significativamente afectada por las variaciones de sal\n- La sustitución completa de NaCl por KCl no es recomendable por el sabor amargo resultante\n- El enfoque multiescala permite diseño sistemático de alimentos con funcionalidades específicas\n\n## Limitaciones\n\n- Estudio enfocado en propiedades físicas; la evaluación sensorial por panelistas no se reporta en detalle\n- El análisis microestructural no detectó diferencias significativas, posiblemente por la resolución del método\n- Resultados específicos para el queso costeño; la transferibilidad a otros quesos artesanales requiere validación\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/ingenieria-quimica]]"
+    },
+    {
+      "id": "notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico",
+      "kind": "paper",
+      "label": "Optimization of glycerol consumption in wild-type Escherichia coli using central carbon modeling as an alternative approach",
+      "authors": [
+        "Albert Enrique Tafur Rangel",
+        "Luis H. Reyes",
+        "Jorge Mario Gómez Ramírez",
+        "Andrés Fernando González Barrios"
+      ],
+      "year": "2021",
+      "venue": "Biofuels, Bioproducts and Biorefining",
+      "url": "https://doi.org/10.1002/bbb.2205",
+      "doi": "10.1002/bbb.2205",
+      "keywords": [
+        "ingenieria-metabolica",
+        "biocombustibles",
+        "genomica",
+        "biologia-molecular",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico.md",
+      "pdf_local": "sources/pdfs/tafur2021-glicerol-ecoli-modelado-genomico.pdf",
+      "content": "## Resumen\n\nEl glicerol es un subproducto abundante de la industria del biodiesel cuya sobreproducción reduce la competitividad económica del sector. Convertir el glicerol en compuestos valiosos (ácidos orgánicos, solventes, polímeros) mediante microorganismos como E. coli es una alternativa atractiva, pero requiere optimizar el medio de cultivo para maximizar el consumo de glicerol. Los enfoques experimentales de optimización de medios son costosos y lentos; este trabajo propone el modelado computacional del metabolismo central del carbono como alternativa para guiar el diseño del medio.\n\nUsando modelos a escala genómica (genome-scale models, GSM) y análisis del plano de fases fenotípicas del metabolismo central de E. coli ATCC 8739 con glicerol como fuente de carbono, se identificaron 19 compuestos esenciales para el crecimiento y 3 reacciones críticas (asociadas a disponibilidad de nitrógeno, fósforo y oxígeno). Con base en estos resultados computacionales, se formuló un medio suplementado con NH₄Cl, Na₂HPO₄ y K₂HPO₄ que duplicó el consumo de glicerol respecto al medio LB. El análisis transcriptómico del mejor medio reveló que el alto consumo de glicerol en condiciones aerobias depende del fósforo para evitar toxicidad por acumulación de glicerol-3-fosfato.\n\n## Contribuciones principales\n\n- Uso de modelos a escala genómica para guiar el diseño de medios de cultivo para consumo de glicerol en E. coli\n- Identificación de 3 reacciones metabólicas críticas (nitrógeno, fósforo, oxígeno) para el consumo de glicerol\n- Formulación de medio optimizado que duplica el consumo de glicerol respecto al medio LB\n- Análisis transcriptómico que explica el mecanismo de toxicidad por glicerol-3-fosfato bajo alta disponibilidad de fósforo\n\n## Metodología\n\nModelado GSM de E. coli ATCC 8739 en glicerol → análisis de plano de fases fenotípicas → identificación de compuestos esenciales → formulación de medios suplementados → validación experimental (cultivos en glicerol) → transcriptómica del mejor medio.\n\n## Hallazgos clave\n\n- 19 compuestos identificados como esenciales para el crecimiento de E. coli en glicerol\n- Nitrógeno, fósforo y oxígeno: las 3 reacciones más críticas para alto crecimiento y consumo de glicerol\n- Medio con NH₄Cl, Na₂HPO₄ y K₂HPO₄: 2× mayor consumo de glicerol que LB\n- Transcriptómica: alto consumo de glicerol aerobio depende de fósforo para evitar acumulación tóxica de glicerol-3-fosfato\n- El modelado GSM reduce el espacio experimental para optimización de medios de cultivo\n\n## Limitaciones\n\n- Estudio en E. coli silvestre; la extensión a cepas ingenierizadas requiere validación adicional\n- Los modelos GSM no capturan regulación transcripcional (se usan datos transcriptómicos a posteriori)\n- La optimización de concentraciones exactas de suplementos no se abordó computacionalmente\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/genomica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]"
+    },
+    {
+      "id": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce",
+      "kind": "paper",
+      "label": "Promoting Healthier Drinking Habits: Using Sound to Encourage the Choice for Non-Alcoholic Beers in E-Commerce",
+      "authors": [
+        "Brayan Rodríguez",
+        "Christian Arroyo",
+        "Luis H. Reyes",
+        "Felipe Reinoso-Carvalho"
+      ],
+      "year": "2021",
+      "venue": "Foods",
+      "url": "https://doi.org/10.3390/foods10092063",
+      "doi": "10.3390/foods10092063",
+      "keywords": [
+        "ingenieria-de-alimentos",
+        "comportamiento-del-consumidor"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce.md",
+      "pdf_local": "sources/pdfs/rodriguez2021-cerveza-sin-alcohol-sonido.pdf",
+      "content": "## Resumen\n\nEl consumo excesivo de alcohol causa aproximadamente 3 millones de muertes anuales mundiales, y la OMS promueve activamente la reducción del consumo. Las cervezas sin alcohol (NAB) representan una alternativa con mercado en crecimiento (~24% anual), pero tienen mala percepción sensorial respecto a las cervezas alcohólicas. Este estudio examina si los sonidos de envase de cerveza —un estímulo auditivo habitualmente ignorado en contextos digitales— pueden modular las emociones y expectativas sensoriales de los consumidores para hacer más atractiva una NAB en el contexto del e-commerce.\n\nSe realizaron dos experimentos. El Experimento 1 evaluó el efecto de diferentes sonidos de envase (abrir botella, verter, espuma) sobre las emociones y expectativas sensoriales generales de los participantes. El Experimento 2 evaluó cómo los sonidos más positivos del Experimento 1 influyen en las emociones y expectativas sensoriales asociadas a la imagen digital de una NAB. Los resultados muestran que el sonido de cerveza siendo vertida en un vaso suprime parte de la negatividad habitualmente asociada a la experiencia con una NAB. Esto sugiere que la personalización auditiva del entorno de compra virtual puede ser una herramienta efectiva para nudgear a los consumidores hacia elecciones más saludables.\n\n## Contribuciones principales\n\n- Demostración experimental de que sonidos de envase de cerveza modulan emociones y expectativas sensoriales en e-commerce\n- El sonido de vertido suprime la negatividad asociada a las cervezas sin alcohol en entornos digitales\n- Marco metodológico para el diseño de experiencias multisensoriales en plataformas de compra online\n- Evidencia para marcas y organizaciones interesadas en promover NAB mediante estrategias auditivas virtuales\n\n## Metodología\n\nExperimento 1: evaluación de múltiples sonidos de envase → efecto sobre emociones y expectativas sensoriales generales → selección de los más positivos → Experimento 2: evaluación de sonidos seleccionados sobre emociones/expectativas asociadas a imagen digital de NAB → análisis estadístico comparativo.\n\n## Hallazgos clave\n\n- El sonido de vertido de cerveza suprime la negatividad asociada a NAB en entornos digitales\n- Los sonidos de envase son moduladores efectivos de emociones y expectativas sensoriales incluso sin presencia del producto físico\n- Las experiencias multisensoriales digitales pueden ser diseñadas para nudgear hacia opciones más saludables\n- El contexto de e-commerce es sensible a la personalización auditiva del entorno de compra\n- Implicaciones prácticas para marcas y organismos de salud pública que buscan reducir el consumo de alcohol\n\n## Limitaciones\n\n- Experimentos con imágenes digitales, no con productos físicos; las expectativas pueden diferir de la experiencia real de consumo\n- La muestra puede no ser representativa de todos los segmentos de consumidores de cerveza\n- El efecto del sonido no fue medido en el contexto de compra real (comportamiento de compra efectivo vs. intención declarada)\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/comportamiento-del-consumidor]]"
     },
     {
       "id": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
@@ -2570,6 +2759,28 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/articles/2026-02-11_investigacion-impacto-mundo-real.md",
       "pdf_local": "sources/pdfs/chaplin2026-investigacion-impacto-real.pdf",
       "content": "## Resumen\n\nLan Nguyen Chaplin, investigadora de marketing especializada en comportamiento del consumidor infantil, describe cuatro pasos que tomó a partir de 2007 para asegurar que su investigación tuviera impacto más allá de las publicaciones académicas. El artículo parte de una frustración central: a pesar de publicar en las revistas correctas, su trabajo —relevante para padres, educadores y responsables de políticas— quedaba atrapado detrás de paywalls y silos disciplinares. Uno de sus papers sobre la felicidad que derivan los niños de experiencias vs. bienes materiales tardó ocho años desde la primera sumisión hasta ver la luz.\n\nLos cuatro pasos que describe son: (1) **reflexión terapéutica** — terapia para manejar el burnout del camino académico convencional y redefinir el éxito en términos propios; (2) **búsqueda de otros canales** — publicar en revistas más amplias (Journal of Happiness Studies, Child Development, Psychological Science) y trabajar con el equipo de relaciones con medios de la universidad, lo que llevó su investigación a Fortune, Forbes y The New York Times; (3) **alcance de audiencias más amplias** — escribir abiertamente sobre desafíos de la carrera académica para audiencias no especializadas; (4) **llevar la investigación a la comunidad local** — unirse a organizaciones sin ánimo de lucro para aplicar su expertise en contextos comunitarios reales.\n\n## Puntos clave\n\n- El sistema de publicación académica crea barreras (paywalls, silos, tiempos largos) que impiden que la investigación llegue a quienes la necesitan\n- Publicar fuera del nicho disciplinar propio no reduce el standing académico — puede ampliar las conexiones y el alcance\n- El equipo de relaciones con medios de la universidad es un recurso subutilizado por muchos investigadores\n- El burnout académico es tratable; redefinir el éxito más allá del \"publish or perish\" es posible y necesario\n- La reflexión terapéutica y la carta al yo futuro como herramientas de planificación de carrera\n- El compromiso comunitario como extensión natural y gratificante de la investigación académica\n- Cita clave: *\"Who is reading my work?\"* — la pregunta que motivó todos los cambios\n\n## Contexto\n\nColumna de carrera (*Nature Careers Community*) — espacio donde investigadores comparten experiencias profesionales, no hallazgos de investigación. Accedido a través del proxy de la Universidad de los Andes. Conecta con debates más amplios sobre acceso abierto, impacto real de la ciencia y bienestar en la academia. Particularmente relevante para investigadores en etapas tempranas de carrera que sienten la presión del \"publish or perish\" sin claridad sobre cómo su trabajo impacta el mundo real. Complementa temáticamente el artículo de Fan sobre las humanidades: ambos cuestionan métricas convencionales de éxito académico y reivindican una ciencia más conectada con la sociedad.\n\n## Notas relacionadas\n\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]] — también cuestiona la organización institucional del conocimiento y su relación con la sociedad\n- [[concepts/impacto-de-investigacion]]\n- [[concepts/comunicacion-cientifica]]\n- [[concepts/publicacion-academica]]\n- [[concepts/bienestar-academico]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/educacion-superior]]\n- [[concepts/interdisciplinariedad]]"
+    },
+    {
+      "id": "notes/articles/2026-03-12_shape-of-thing-mollick",
+      "kind": "article",
+      "label": "The Shape of the Thing",
+      "authors": [
+        "Ethan Mollick"
+      ],
+      "year": "2026",
+      "venue": "One Useful Thing (Substack)",
+      "url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+      "doi": "",
+      "keywords": [
+        "capacidades-de-ia",
+        "agentes-de-ia",
+        "futuro-del-trabajo",
+        "inteligencia-artificial"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/articles/2026-03-12_shape-of-thing-mollick.md",
+      "pdf_local": "",
+      "content": "## Resumen\n\nMollick argumenta que hemos entrado en una nueva era de la IA caracterizada por la transición de la \"co-inteligencia\" (humanos promoviendo modelos para tareas específicas) a la gestión de agentes autónomos capaces de completar horas de trabajo humano en minutos. Esta transición se explica por la mejora exponencial sostenida en las capacidades de los modelos, documentada en múltiples benchmarks (METR Long Tasks, GDPval, Humanity's Last Exam, Google-Proof Q&A) donde los mejores modelos alcanzan o superan el rendimiento humano de expertos en el 82% de las tareas complejas.\n\nEl artículo ilustra los cambios radicales en la organización del trabajo con el ejemplo de StrongDM, empresa que desplegó una \"Software Factory\" donde agentes de IA escriben, prueban y envían código a producción sin intervención humana. Mollick identifica tres fuerzas concurrentes: (1) mejora exponencial de capacidades, (2) experimentación radical en estructuras organizacionales aprovechando agentes, y (3) el inicio explícito del trabajo hacia la auto-mejora recursiva (RSI) por parte de los grandes laboratorios de IA (Anthropic, OpenAI, Google DeepMind). Esto genera una inestabilidad creciente en la que una sola semana puede incluir reacciones bursátiles por proyecciones de disrupción, anuncios de despidos atribuidos a la IA y conflictos regulatorios entre gobiernos y laboratorios.\n\n## Puntos clave\n\n- Transición de \"co-inteligencia\" a \"gestión de agentes\": la IA ya no requiere prompting iterativo sino dirección de alto nivel\n- Benchmarks convergentes muestran mejora exponencial sostenida sin signos claros de desaceleración\n- Caso StrongDM: agentes de IA escriben, prueban y envían software sin que humanos toquen el código\n- Auto-mejora recursiva (RSI): en la hoja de ruta explícita de todos los grandes laboratorios\n- \"Disrupción rodante\": la mejora exponencial de capacidades crea revelaciones repentinas que desestabilizan mercados, empleos y gobernanza\n\n## Contexto\n\nEste artículo actualiza el ensayo anterior de Mollick (\"Shape of the Shadow of the Thing\", octubre 2023) con la perspectiva del primer trimestre de 2026, cuando los agentes de IA (Claude Code, Codex de OpenAI, OpenClaw) son herramientas operativas en producción. Representa la visión más reciente del autor de *Co-Intelligence* sobre hacia dónde se dirige la tecnología.\n\n## Notas relacionadas\n\n- [[concepts/capacidades-de-ia]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/inteligencia-artificial]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]"
     },
     {
       "id": "notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos",
@@ -3888,6 +4099,21 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd",
+      "target": "notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis",
       "target": "concepts/biomateriales",
       "kind": "keyword"
@@ -3968,6 +4194,31 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion",
+      "target": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion",
+      "target": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde",
       "target": "concepts/nanociencia",
       "kind": "keyword"
@@ -3986,6 +4237,76 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde",
       "target": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes",
       "kind": "related"
+    },
+    {
+      "source": "notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica",
+      "target": "concepts/bioquimica-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-11-06_sal-queso-costeno-multiscale",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-11-06_sal-queso-costeno-multiscale",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico",
+      "target": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce",
+      "target": "concepts/comportamiento-del-consumidor",
+      "kind": "keyword"
     },
     {
       "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
@@ -4785,6 +5106,31 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/articles/2026-02-11_investigacion-impacto-mundo-real",
       "target": "notes/articles/2026-06-25_ciencia-necesita-humanidades",
+      "kind": "related"
+    },
+    {
+      "source": "notes/articles/2026-03-12_shape-of-thing-mollick",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-03-12_shape-of-thing-mollick",
+      "target": "concepts/agentes-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-03-12_shape-of-thing-mollick",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-03-12_shape-of-thing-mollick",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-03-12_shape-of-thing-mollick",
+      "target": "notes/books/2024-04-02_co-intelligence-mollick",
       "kind": "related"
     },
     {
