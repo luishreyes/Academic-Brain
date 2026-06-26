@@ -10,3 +10,4 @@ Gestión individual del dinero, el ahorro, la deuda, la inversión y la planific
 
 ## Notas que usan este concepto
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
+- [[notes/books/2003-01-01_intelligent-investor-graham]]

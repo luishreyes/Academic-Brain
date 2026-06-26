@@ -23,3 +23,4 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]
 - [[notes/articles/2026-03-12_shape-of-thing-mollick]]
+- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]

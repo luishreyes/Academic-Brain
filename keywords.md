@@ -57,6 +57,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **creatividad** — Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano. _Aliases: creativity, pensamiento creativo, creative thinking, creative problem-solving_
 
+**ciencia-de-datos** — Campo interdisciplinario que combina estadística, programación y dominio de conocimiento para extraer información y valor de conjuntos de datos; incluye machine learning, visualización, inferencia bayesiana y análisis de texto. _Aliases: data science, análisis de datos, estadística aplicada, data analytics_
+
 **ciencia-y-sociedad** — Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad. _Aliases: ciencia en contexto, estudios sociales de la ciencia, STS_
 
 **cultura-organizacional** — Conjunto de valores, normas, rituales y creencias compartidas que definen cómo funciona una organización; incluye su relación con el rendimiento, la innovación y la adopción de sistemas de gestión como los OKR. _Aliases: organizational culture, cultura corporativa, corporate culture, culture change_
@@ -231,6 +233,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **universidades-chinas** — Sistema universitario de China, su historia, transformaciones desde 1949, políticas educativas y dinámicas actuales de internacionalización e inversión en STEM.
 
 ## V
+
+**visualizacion-de-datos** — Arte y ciencia de representar datos e información de forma gráfica para facilitar la comprensión, el análisis y la comunicación; incluye diseño de gráficos, principios de percepción visual y narrativa con datos. _Aliases: data visualization, dataviz, gráficos estadísticos, storytelling with data, infografía de datos_
 
 ## W
 
