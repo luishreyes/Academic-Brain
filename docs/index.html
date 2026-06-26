@@ -54,11 +54,35 @@
   .brand h1 { font-size: 17px; margin: 0 0 2px; letter-spacing: .2px; }
   .brand p { margin: 0; font-size: 12px; color: var(--muted); }
   .sb-scroll { overflow-y: auto; padding: 14px 16px 24px; flex: 1; }
-  .section { margin-bottom: 20px; }
+  .section { margin-bottom: 16px; }
+  .section-hdr {
+    display: flex; align-items: center; justify-content: space-between;
+    cursor: pointer; padding: 2px 0 8px; user-select: none;
+  }
+  .section-hdr:hover h2 { color: var(--text); }
   .section h2 {
     font-size: 11px; text-transform: uppercase; letter-spacing: .8px;
-    color: var(--muted); margin: 0 0 9px; font-weight: 600;
+    color: var(--muted); margin: 0; font-weight: 600;
   }
+  .section-arrow { font-size: 9px; color: var(--muted); transition: transform .18s ease; line-height: 1; }
+  .section-hdr:hover .section-arrow { color: var(--text); }
+  .section-arrow.open { transform: rotate(0deg); }
+  .section-arrow.closed { transform: rotate(-90deg); }
+  .section-body.hidden { display: none; }
+  .cat-pills { display: flex; flex-wrap: wrap; gap: 5px; }
+  .cat-btn {
+    font-size: 11px; padding: 4px 9px; border-radius: 20px; cursor: pointer;
+    border: 1px solid var(--line); background: transparent; color: var(--muted);
+    transition: color .12s, border-color .12s, background .12s; white-space: nowrap;
+    font-family: inherit;
+  }
+  .cat-btn:hover { color: var(--text); border-color: var(--muted); }
+  .cat-btn.active[data-cat=ia]  { color:#818cf8; border-color:#818cf8; background:rgba(129,140,248,.12); }
+  .cat-btn.active[data-cat=edu] { color:#34d399; border-color:#34d399; background:rgba(52,211,153,.12); }
+  .cat-btn.active[data-cat=nat] { color:#4ade80; border-color:#4ade80; background:rgba(74,222,128,.12); }
+  .cat-btn.active[data-cat=soc] { color:#fb923c; border-color:#fb923c; background:rgba(251,146,60,.12); }
+  .cat-btn.active[data-cat=psi] { color:#e879f9; border-color:#e879f9; background:rgba(232,121,249,.12); }
+  .cat-btn.active[data-cat=met] { color:#94a3b8; border-color:#94a3b8; background:rgba(148,163,184,.12); }
   .search {
     width: 100%; padding: 9px 11px; border-radius: 9px;
     border: 1px solid var(--line); background: var(--panel-2);
@@ -221,66 +245,102 @@
         <input id="search" class="search" placeholder="Título, autor, keyword…" autocomplete="off" />
       </div>
       <div class="section">
-        <h2>Mostrar</h2>
-        <label class="toggle" data-kind="paper">
-          <span class="swatch" style="background:var(--paper)"></span> Papers
-          <span class="count" id="c-paper">0</span>
-          <input type="checkbox" checked />
-        </label>
-        <label class="toggle" data-kind="article">
-          <span class="swatch" style="background:var(--article)"></span> Artículos
-          <span class="count" id="c-article">0</span>
-          <input type="checkbox" checked />
-        </label>
-        <label class="toggle" data-kind="book">
-          <span class="swatch" style="background:var(--book)"></span> Libros
-          <span class="count" id="c-book">0</span>
-          <input type="checkbox" checked />
-        </label>
-        <label class="toggle" data-kind="concept">
-          <span class="swatch" style="background:var(--concept)"></span> Conceptos
-          <span class="count" id="c-concept">0</span>
-          <input type="checkbox" checked />
-        </label>
-        <label class="toggle" data-edge="related">
-          <span class="swatch" style="background:var(--accent)"></span> Enlaces directos
-          <input type="checkbox" checked />
-        </label>
-      </div>
-      <div class="section">
-        <h2>Explorar conceptos</h2>
-        <div class="concept-list" id="concept-list"></div>
-      </div>
-      <div class="section">
-        <h2>Física del grafo</h2>
-        <div class="physics-row">
-          <label>Repulsión</label>
-          <input type="range" id="sl-repulsion" min="500" max="12000" step="100" value="9000" />
-          <span id="lbl-repulsion">9000</span>
+        <div class="section-hdr">
+          <h2>Categorías</h2>
+          <span class="section-arrow open">▾</span>
         </div>
-        <div class="physics-row">
-          <label>Atracción</label>
-          <input type="range" id="sl-attraction" min="1" max="50" step="1" value="18" />
-          <span id="lbl-attraction">0.18</span>
-        </div>
-        <div class="physics-row">
-          <label>Dist. enlaces</label>
-          <input type="range" id="sl-linkdist" min="20" max="200" step="5" value="130" />
-          <span id="lbl-linkdist">130</span>
-        </div>
-        <div class="physics-row">
-          <label>Amortiguación</label>
-          <input type="range" id="sl-damping" min="50" max="99" step="1" value="60" />
-          <span id="lbl-damping">0.60</span>
+        <div class="section-body">
+          <div class="cat-pills">
+            <button class="cat-btn" data-cat="ia">IA y tecnología</button>
+            <button class="cat-btn" data-cat="edu">Educación</button>
+            <button class="cat-btn" data-cat="nat">Ciencias naturales</button>
+            <button class="cat-btn" data-cat="soc">Ciencias sociales</button>
+            <button class="cat-btn" data-cat="psi">Psicología</button>
+            <button class="cat-btn" data-cat="met">Métodos</button>
+          </div>
         </div>
       </div>
       <div class="section">
-        <h2>Cómo usar</h2>
-        <p class="hint">
-          Arrastra los nodos para reorganizar. Rueda para zoom, arrastra el fondo para mover.
-          Clic en un nodo para ver su detalle. Los <b>conceptos</b> (ámbar) conectan las notas
-          que comparten una misma keyword.
-        </p>
+        <div class="section-hdr">
+          <h2>Mostrar</h2>
+          <span class="section-arrow open">▾</span>
+        </div>
+        <div class="section-body">
+          <label class="toggle" data-kind="paper">
+            <span class="swatch" style="background:var(--paper)"></span> Papers
+            <span class="count" id="c-paper">0</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="toggle" data-kind="article">
+            <span class="swatch" style="background:var(--article)"></span> Artículos
+            <span class="count" id="c-article">0</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="toggle" data-kind="book">
+            <span class="swatch" style="background:var(--book)"></span> Libros
+            <span class="count" id="c-book">0</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="toggle" data-kind="concept">
+            <span class="swatch" style="background:var(--concept)"></span> Conceptos
+            <span class="count" id="c-concept">0</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="toggle" data-edge="related">
+            <span class="swatch" style="background:var(--accent)"></span> Enlaces directos
+            <input type="checkbox" checked />
+          </label>
+        </div>
+      </div>
+      <div class="section">
+        <div class="section-hdr">
+          <h2>Explorar conceptos</h2>
+          <span class="section-arrow closed">▾</span>
+        </div>
+        <div class="section-body hidden">
+          <div class="concept-list" id="concept-list"></div>
+        </div>
+      </div>
+      <div class="section">
+        <div class="section-hdr">
+          <h2>Física del grafo</h2>
+          <span class="section-arrow closed">▾</span>
+        </div>
+        <div class="section-body hidden">
+          <div class="physics-row">
+            <label>Repulsión</label>
+            <input type="range" id="sl-repulsion" min="500" max="12000" step="100" value="9000" />
+            <span id="lbl-repulsion">9000</span>
+          </div>
+          <div class="physics-row">
+            <label>Atracción</label>
+            <input type="range" id="sl-attraction" min="1" max="50" step="1" value="18" />
+            <span id="lbl-attraction">0.18</span>
+          </div>
+          <div class="physics-row">
+            <label>Dist. enlaces</label>
+            <input type="range" id="sl-linkdist" min="20" max="200" step="5" value="130" />
+            <span id="lbl-linkdist">130</span>
+          </div>
+          <div class="physics-row">
+            <label>Amortiguación</label>
+            <input type="range" id="sl-damping" min="50" max="99" step="1" value="60" />
+            <span id="lbl-damping">0.60</span>
+          </div>
+        </div>
+      </div>
+      <div class="section">
+        <div class="section-hdr">
+          <h2>Cómo usar</h2>
+          <span class="section-arrow closed">▾</span>
+        </div>
+        <div class="section-body hidden">
+          <p class="hint">
+            Arrastra los nodos para reorganizar. Rueda para zoom, arrastra el fondo para mover.
+            Clic en un nodo para ver su detalle. Los <b>conceptos</b> (ámbar) conectan las notas
+            que comparten una misma keyword.
+          </p>
+        </div>
       </div>
     </div>
   </aside>
@@ -318,6 +378,34 @@ const CONFIG = {
 const COLORS = { paper: "#60a5fa", article: "#2dd4bf", book: "#f472b6", concept: "#fbbf24" };
 const DATA = window.__ACADEMIC_BRAIN__ || { nodes: [], links: [], counts: {} };
 
+const CATEGORY_MAP = {
+  ia:  new Set(['agentes-de-ia','alfabetizacion-en-ia','alineamiento-de-ia','alucinaciones-de-ia',
+               'capacidades-de-ia','etica-de-la-ia','inteligencia-artificial','regulacion-de-ia',
+               'seguridad-de-ia','supervision-humana','tutoria-con-ia']),
+  edu: new Set(['aprendizaje-activo','autorregulacion-del-aprendizaje','bienestar-academico',
+               'diseno-especulativo','educacion-en-programacion','educacion-k12','educacion-superior',
+               'equidad-educativa','evaluacion-educativa','formacion-docente','integridad-academica',
+               'liderazgo-educativo','pensamiento-critico-medico','personalizacion-del-aprendizaje',
+               'psicologia-educativa','STEM','universidades-chinas']),
+  nat: new Set(['biocombustibles','biologia-molecular','biologia-sintetica','biomasa-lignocelulosica',
+               'biomateriales','bioquimica-computacional','desarrollo-de-farmacos','dinamica-de-poblaciones',
+               'economia-circular','enfermedades-raras','evolucion-de-laboratorio','genomica',
+               'ingenieria-de-alimentos','ingenieria-metabolica','ingenieria-quimica','metabolitos-secundarios',
+               'modelado-molecular','nanociencia','petroleo-y-gas','proteinas-recombinantes',
+               'quimica-computacional','simulacion-computacional','terapia-genica']),
+  soc: new Set(['cadenas-de-suministro-globales','ciencia-y-sociedad','comercio-y-prosperidad',
+               'cultura-organizacional','desigualdad-de-genero','economia-de-la-innovacion',
+               'etica-de-la-ciencia','evolucion-cultural','futuro-del-trabajo','geopolitica-tecnologica',
+               'gestion-por-objetivos','historia-de-la-innovacion','impacto-de-investigacion',
+               'liderazgo-organizacional','modernizacion','poder-y-persuasion','politica-social',
+               'publicacion-academica','salud-y-sociedad','tecnocracia','trauma-y-salud']),
+  psi: new Set(['comportamiento-del-consumidor','creatividad','desarrollo-del-caracter','filosofia',
+               'finanzas-personales','humanidades','personalidad-introversion','sesgo-cognitivo']),
+  met: new Set(['ciencia-de-datos','comunicacion-cientifica','descubrimiento-cientifico',
+               'ensayo-controlado-aleatorio','epistemologia-del-riesgo','interdisciplinariedad',
+               'medicina-basada-en-evidencia','revision-sistematica-de-literatura','visualizacion-de-datos']),
+};
+
 // ===================== Estado =====================
 const svg = document.getElementById("svg");
 const NS = "http://www.w3.org/2000/svg";
@@ -337,8 +425,20 @@ for (const l of links) {
 }
 
 const visibleKinds = { paper: true, article: true, book: true, concept: true };
+let activeCategories = new Set();
 let showRelated = true;
 let selectedId = null;
+
+function nodeInActiveCategories(n) {
+  if (activeCategories.size === 0) return true;
+  const kws = n.kind === "concept" ? [n.keyword] : (n.keywords || []);
+  for (const cat of activeCategories) {
+    for (const kw of kws) {
+      if (CATEGORY_MAP[cat] && CATEGORY_MAP[cat].has(kw)) return true;
+    }
+  }
+  return false;
+}
 let navHistory = [];
 let searchTerm = "";
 
@@ -409,7 +509,7 @@ let simLinkDist = 130;
 let simDamping = 0.60;
 function reheat(t) { alphaTarget = t; if (alpha < t) alpha = t; }
 function tick() {
-  const active = nodes.filter((n) => visibleKinds[n.kind]);
+  const active = nodes.filter((n) => visibleKinds[n.kind] && nodeInActiveCategories(n));
   const cx = W / 2, cy = H / 2;
   // repulsión O(n²) — suficiente para cientos de nodos
   for (let i = 0; i < active.length; i++) {
@@ -453,14 +553,16 @@ function tick() {
 function draw() {
   for (const l of links) {
     const vis = visibleKinds[l.source.kind] && visibleKinds[l.target.kind] &&
-                (l.kind !== "related" || showRelated);
+                (l.kind !== "related" || showRelated) &&
+                nodeInActiveCategories(l.source) && nodeInActiveCategories(l.target);
     l._el.style.display = vis ? "" : "none";
     if (!vis) continue;
     l._el.setAttribute("x1", l.source.x); l._el.setAttribute("y1", l.source.y);
     l._el.setAttribute("x2", l.target.x); l._el.setAttribute("y2", l.target.y);
   }
   for (const n of nodes) {
-    n._g.style.display = visibleKinds[n.kind] ? "" : "none";
+    const vis = visibleKinds[n.kind] && nodeInActiveCategories(n);
+    n._g.style.display = vis ? "" : "none";
     n._g.setAttribute("transform", `translate(${n.x},${n.y})`);
   }
 }
@@ -779,6 +881,33 @@ function initSidebar() {
       list.appendChild(item);
     });
 }
+
+// ===================== Categorías =====================
+document.querySelectorAll(".cat-btn").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const cat = btn.dataset.cat;
+    if (activeCategories.has(cat)) {
+      activeCategories.delete(cat);
+      btn.classList.remove("active");
+    } else {
+      activeCategories.add(cat);
+      btn.classList.add("active");
+    }
+    reheat(0.5);
+  });
+});
+
+// ===================== Secciones colapsables =====================
+document.querySelectorAll(".section-hdr").forEach((hdr) => {
+  hdr.addEventListener("click", () => {
+    const body = hdr.nextElementSibling;
+    const arrow = hdr.querySelector(".section-arrow");
+    const closing = !body.classList.contains("hidden");
+    body.classList.toggle("hidden", closing);
+    arrow.classList.toggle("open", !closing);
+    arrow.classList.toggle("closed", closing);
+  });
+});
 
 // ===================== Sidebar toggle =====================
 const sbToggle = document.getElementById("sb-toggle");
