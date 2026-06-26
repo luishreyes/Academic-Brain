@@ -2,10 +2,10 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 24,
+    "papers": 31,
     "articles": 5,
     "books": 24,
-    "concepts": 75
+    "concepts": 80
   },
   "nodes": [
     {
@@ -142,8 +142,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.",
       "path": "concepts/biocombustibles.md",
-      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]",
-      "degree": 2
+      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]",
+      "degree": 5
     },
     {
       "id": "concepts/biologia-molecular",
@@ -158,7 +158,41 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.",
       "path": "concepts/biologia-molecular.md",
-      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]",
+      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]",
+      "degree": 7
+    },
+    {
+      "id": "concepts/biologia-sintetica",
+      "kind": "concept",
+      "label": "biologia sintetica",
+      "keyword": "biologia-sintetica",
+      "aliases": [
+        "synthetic biology",
+        "ingeniería genética avanzada",
+        "circuitos genéticos",
+        "diseño de partes biológicas"
+      ],
+      "definition": "Campo que aplica principios de ingeniería (diseño modular, estandarización de partes) al diseño y construcción de sistemas biológicos nuevos o la re-ingeniería de sistemas existentes; incluye promotores sintéticos, circuitos genéticos y ensamblaje de genomas.",
+      "path": "concepts/biologia-sintetica.md",
+      "content": "Campo que aplica principios de ingeniería (diseño modular, estandarización de partes) al diseño y construcción de sistemas biológicos nuevos o la re-ingeniería de sistemas existentes; incluye promotores sintéticos, circuitos genéticos y ensamblaje de genomas.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/biomasa-lignocelulosica",
+      "kind": "concept",
+      "label": "biomasa lignocelulosica",
+      "keyword": "biomasa-lignocelulosica",
+      "aliases": [
+        "lignocellulosic biomass",
+        "biomasa vegetal",
+        "pretratamiento de biomasa",
+        "celulosa",
+        "hemicelulosa",
+        "lignina"
+      ],
+      "definition": "Material vegetal compuesto de celulosa, hemicelulosa y lignina; representa la fuente de carbono renovable más abundante del planeta y es materia prima para biocombustibles y bioquímicos de segunda generación.",
+      "path": "concepts/biomasa-lignocelulosica.md",
+      "content": "Material vegetal compuesto de celulosa, hemicelulosa y lignina; representa la fuente de carbono renovable más abundante del planeta y es materia prima para biocombustibles y bioquímicos de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]",
       "degree": 2
     },
     {
@@ -364,8 +398,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio cuantitativo de cómo cambia con el tiempo el tamaño, la composición y la estructura de las poblaciones biológicas; incluye modelos de crecimiento, interferencia clonal, selección natural y deriva genética.",
       "path": "concepts/dinamica-de-poblaciones.md",
-      "content": "Estudio cuantitativo de cómo cambia con el tiempo el tamaño, la composición y la estructura de las poblaciones biológicas; incluye modelos de crecimiento, interferencia clonal, selección natural y deriva genética.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]",
-      "degree": 3
+      "content": "Estudio cuantitativo de cómo cambia con el tiempo el tamaño, la composición y la estructura de las poblaciones biológicas; incluye modelos de crecimiento, interferencia clonal, selección natural y deriva genética.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]",
+      "degree": 4
     },
     {
       "id": "concepts/diseno-especulativo",
@@ -445,6 +479,23 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/educacion-superior.md",
       "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]",
       "degree": 20
+    },
+    {
+      "id": "concepts/enfermedades-raras",
+      "kind": "concept",
+      "label": "enfermedades raras",
+      "keyword": "enfermedades-raras",
+      "aliases": [
+        "rare diseases",
+        "enfermedades huérfanas",
+        "mucopolisacaridosis",
+        "terapia de reemplazo enzimático",
+        "ERT"
+      ],
+      "definition": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.",
+      "path": "concepts/enfermedades-raras.md",
+      "content": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]",
+      "degree": 1
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -574,8 +625,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.",
       "path": "concepts/evolucion-de-laboratorio.md",
-      "content": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]",
-      "degree": 3
+      "content": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]",
+      "degree": 8
     },
     {
       "id": "concepts/filosofia",
@@ -655,8 +706,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.",
       "path": "concepts/genomica.md",
-      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]",
-      "degree": 2
+      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]",
+      "degree": 6
     },
     {
       "id": "concepts/geopolitica-tecnologica",
@@ -749,8 +800,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.",
       "path": "concepts/ingenieria-metabolica.md",
-      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]",
-      "degree": 4
+      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]",
+      "degree": 11
     },
     {
       "id": "concepts/ingenieria-quimica",
@@ -765,8 +816,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.",
       "path": "concepts/ingenieria-quimica.md",
-      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]",
-      "degree": 5
+      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]",
+      "degree": 12
     },
     {
       "id": "concepts/integridad-academica",
@@ -858,6 +909,24 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio.",
       "path": "concepts/medicina-basada-en-evidencia.md",
       "content": "Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio.\n\n## Notas que usan este concepto\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]",
+      "degree": 3
+    },
+    {
+      "id": "concepts/metabolitos-secundarios",
+      "kind": "concept",
+      "label": "metabolitos secundarios",
+      "keyword": "metabolitos-secundarios",
+      "aliases": [
+        "secondary metabolites",
+        "productos naturales",
+        "carotenoides",
+        "terpenoides",
+        "policétidos",
+        "carga metabólica"
+      ],
+      "definition": "Compuestos orgánicos producidos por los organismos que no son directamente esenciales para su crecimiento o reproducción; incluyen pigmentos, antibióticos, terpenoides y carotenoides, y representan una carga metabólica cuya sobreproducción requiere estrategias especiales de ingeniería.",
+      "path": "concepts/metabolitos-secundarios.md",
+      "content": "Compuestos orgánicos producidos por los organismos que no son directamente esenciales para su crecimiento o reproducción; incluyen pigmentos, antibióticos, terpenoides y carotenoides, y representan una carga metabólica cuya sobreproducción requiere estrategias especiales de ingeniería.\n\n## Notas que usan este concepto\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]",
       "degree": 3
     },
     {
@@ -989,6 +1058,23 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.",
       "path": "concepts/politica-social.md",
       "content": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/proteinas-recombinantes",
+      "kind": "concept",
+      "label": "proteinas recombinantes",
+      "keyword": "proteinas-recombinantes",
+      "aliases": [
+        "recombinant proteins",
+        "proteínas heterólogas",
+        "expresión recombinante",
+        "cuerpos de inclusión",
+        "plegamiento proteico"
+      ],
+      "definition": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.",
+      "path": "concepts/proteinas-recombinantes.md",
+      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]",
       "degree": 1
     },
     {
@@ -1319,6 +1405,201 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos.md",
       "pdf_local": "sources/pdfs/winkler2013-adaptive-lab-evolution.pdf",
       "content": "## Resumen\n\nEste capítulo de métodos presenta protocolos detallados para tres modalidades de evolución adaptativa de laboratorio: transferencia serial en lote (batch), reactores continuos (quimiostatos) y el método VERT (Visualizing Evolution in Real-Time). Los protocolos están diseñados principalmente para E. coli y levaduras con limitación de nutrientes o presencia de inhibidores como presión selectiva, pero son adaptables a otros microorganismos y cualquier rasgo acoplable al crecimiento.\n\nEl capítulo discute las ventajas y limitaciones de cada modalidad: el batch es simple pero susceptible a deriva genética por los cuellos de botella poblacionales en cada transferencia; los sistemas continuos evitan este problema pero requieren mayor inversión en equipos; VERT añade marcaje fluorescente para visualizar la dinámica evolutiva en tiempo real. Se describen los factores que afectan los resultados —tamaño poblacional, tasa de mutación, fuerza de la presión selectiva y duración del experimento— y los equipos necesarios incluyendo citómetro de flujo para VERT.\n\n## Contribuciones principales\n\n- Protocolos detallados para tres modalidades de ALE: batch, continuo y VERT\n- Análisis comparativo de ventajas y limitaciones de cada modalidad\n- Discusión de factores que afectan los resultados evolutivos (tamaño poblacional, tasa de mutación, duración)\n- Guía práctica para el diseño de experimentos previo a su ejecución\n\n## Metodología\n\nCapítulo de métodos; incluye: listas de materiales (biológicos, químicos y de equipo), procedimientos paso a paso para cada modalidad de evolución, criterios de toma de decisiones y consideraciones para análisis downstream de los mutantes aislados.\n\n## Hallazgos clave\n\n- Batch: ventaja en simplicidad; desventaja en deriva genética por cuellos de botella\n- Continuo: elimina los cuellos de botella pero requiere biorreactores y mayor infraestructura\n- VERT: permite observar la dinámica evolutiva y reduce la pérdida de mutantes por interferencia clonal\n- La mutagénesis aleatoria puede acelerar la evolución aumentando la diversidad genética inicial\n\n## Limitaciones\n\n- Los protocolos asumen que el fenotipo de interés puede acoplarse al crecimiento\n- Capítulo de métodos: no reporta experimentos nuevos, sino sistematiza conocimiento previo del laboratorio\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/dinamica-de-poblaciones]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]"
+    },
+    {
+      "id": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
+      "kind": "paper",
+      "label": "Genetic Determinants for n-Butanol Tolerance in Evolved Escherichia coli Mutants: Cross Adaptation and Antagonistic Pleiotropy between n-Butanol and Other Stressors",
+      "authors": [
+        "Luis H. Reyes",
+        "Ali S. Abdelaal",
+        "Katy C. Kao"
+      ],
+      "year": "2013",
+      "venue": "Applied and Environmental Microbiology",
+      "url": "https://doi.org/10.1128/AEM.01703-13",
+      "doi": "10.1128/AEM.01703-13",
+      "keywords": [
+        "evolucion-de-laboratorio",
+        "ingenieria-metabolica",
+        "biocombustibles",
+        "genomica",
+        "biologia-molecular",
+        "dinamica-de-poblaciones",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos.md",
+      "pdf_local": "sources/pdfs/reyes2013-nbutanol-cross-adaptation.pdf",
+      "content": "## Resumen\n\nEste trabajo es la continuación directa del estudio VERT sobre tolerancia al n-butanol en E. coli (Reyes et al., 2012), centrándose en el linaje marcado con proteína fluorescente amarilla (YFP), cuyo mecanismo de adaptación difería del linaje GFP previamente caracterizado. Mediante análisis transcriptómico del linaje YFP bajo estrés de n-butanol, se identificaron genes adicionales relacionados con transportadores de membrana y la biosíntesis de cardiolipina —un componente lipídico clave de las membranas bacterianas— como determinantes de la tolerancia. A diferencia del mecanismo del linaje GFP (regulón Fur e hierro), estos mecanismos son específicos al n-butanol y no se transfieren a isobutanol ni etanol.\n\nEl trabajo también explora la tolerancia cruzada y la pleiotropía antagonista entre la tolerancia al n-butanol y otros estresores industrialmente relevantes. Los mutantes YFP exhiben tolerancia cruzada entre n-butanol y estrés osmótico, mientras que los mutantes GFP muestran pleiotropía antagonista entre ambos: la adaptación al n-butanol en un linaje reduce la resistencia al estrés osmótico. Estos resultados subrayan la importancia de caracterizar múltiples linajes en experimentos de evolución adaptativa y de considerar las interacciones entre paisajes adaptativos al diseñar cepas industriales sometidas a múltiples estreses simultáneos.\n\n## Contribuciones principales\n\n- Identificación de genes relacionados con transportadores de membrana y biosíntesis de cardiolipina como determinantes de tolerancia al n-butanol en el linaje YFP\n- Demostración de que los mecanismos de tolerancia difieren entre linajes evolucionados del mismo experimento\n- Evidencia de tolerancia cruzada entre n-butanol y estrés osmótico en el linaje YFP\n- Evidencia de pleiotropía antagonista entre n-butanol y estrés osmótico en el linaje GFP\n- Los mecanismos de membrana del linaje YFP son específicos al n-butanol (no transfieren a isobutanol ni etanol)\n\n## Metodología\n\nAnálisis transcriptómico (microarreglos) del linaje YFP bajo estrés de n-butanol → identificación de genes candidatos → validación mediante sobreexpresión en cepa silvestre BW25113 → análisis de tolerancia cruzada y pleiotropía antagonista entre n-butanol y otros estresores (isobutanol, etanol, estrés osmótico, polimixina B) mediante curvas de crecimiento en microplacas.\n\n## Hallazgos clave\n\n- Genes de transportadores de membrana y biosíntesis de cardiolipina confieren tolerancia al n-butanol en el linaje YFP\n- La tolerancia al n-butanol vía membrana (linaje YFP) es específica y antagonista con isobutanol y etanol\n- Linaje YFP: tolerancia cruzada n-butanol ↔ estrés osmótico\n- Linaje GFP: pleiotropía antagonista n-butanol ↔ estrés osmótico\n- Múltiples rutas evolutivas pueden coexistir en la misma población inicial\n\n## Limitaciones\n\n- El análisis se centra en dos linajes específicos; la diversidad total de mecanismos en la población puede ser mayor\n- Los mecanismos de cardiolipina no fueron completamente elucidados a nivel bioquímico\n- La transferibilidad a otros hosts de producción de biocombustibles requiere validación\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/genomica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/dinamica-de-poblaciones]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]"
+    },
+    {
+      "id": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "kind": "paper",
+      "label": "Evolutionary Engineering of Saccharomyces cerevisiae for Enhanced Tolerance to Hydrolysates of Lignocellulosic Biomass",
+      "authors": [
+        "María P. Almario",
+        "Luis H. Reyes",
+        "Katy C. Kao"
+      ],
+      "year": "2013",
+      "venue": "Biotechnology and Bioengineering",
+      "url": "https://doi.org/10.1002/bit.24938",
+      "doi": "10.1002/bit.24938",
+      "keywords": [
+        "evolucion-de-laboratorio",
+        "ingenieria-metabolica",
+        "biocombustibles",
+        "biomasa-lignocelulosica",
+        "genomica",
+        "biologia-molecular",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa.md",
+      "pdf_local": "sources/pdfs/almario2013-vert-saccharomyces-hidrolizados.pdf",
+      "content": "## Resumen\n\nLos hidrolizados de biomasa lignocelulósica son una fuente de azúcares fermentables para la producción de biocombustibles de segunda generación, pero contienen inhibidores (ácido acético, furfural, HMF) que reducen el crecimiento y la productividad de los microorganismos de fermentación. Este estudio aplica el método VERT a Saccharomyces cerevisiae para aislar mutantes con mayor tolerancia a hidrolizados y dilucidar los mecanismos moleculares subyacentes. Es la primera aplicación del método VERT a una levadura (en lugar de E. coli) y con un inhibidor multicomponente complejo.\n\nLos mutantes adaptativos aislados mostraron mejoras de hasta 57% en crecimiento en hidrolizados, y mejoras diferenciales en inhibidores individuales (ácido acético 12%, HMF 22%, furfural 24%). Curiosamente, algunos mutantes exhibieron menor aptitud en presencia de inhibidores individuales pero mayor aptitud ante combinaciones —sugiriendo efectos sinérgicos en la tolerancia. El análisis transcriptómico reveló mecanismos diversos y una posible adaptación cruzada entre estrés oxidativo y tolerancia a hidrolizados en varios mutantes.\n\n## Contribuciones principales\n\n- Primera aplicación de VERT a S. cerevisiae con un fenotipo de tolerancia a mezclas complejas de inhibidores\n- Aislamiento de mutantes con hasta 57% de mejora en crecimiento en hidrolizados de biomasa\n- Evidencia de efectos sinérgicos en tolerancia: algunos mutantes toleran mejor las combinaciones que los inhibidores individuales\n- Mecanismos moleculares distintos entre mutantes; posible adaptación cruzada estrés oxidativo–hidrolizados\n\n## Metodología\n\nSistema VERT de dos colores en S. cerevisiae → evolución adaptativa en hidrolizados de biomasa lignocelulósica → aislamiento sistemático de mutantes por citometría de flujo → análisis cinético de crecimiento en inhibidores individuales (AA, HMF, furfural) y combinaciones → análisis transcriptómico (microarreglos) de mutantes seleccionados.\n\n## Hallazgos clave\n\n- Mejoras de crecimiento: +57% en hidrolizados, +12% AA, +22% HMF, +24% furfural\n- Algunos mutantes: reducida aptitud en inhibidores individuales pero mejorada en combinaciones\n- Análisis transcriptómico: múltiples mecanismos; posible rol del estrés oxidativo en la tolerancia a hidrolizados\n- VERT funciona efectivamente en levaduras, ampliando el alcance del método\n\n## Limitaciones\n\n- Los mecanismos moleculares específicos de la tolerancia a hidrolizados no fueron completamente elucidados\n- El trabajo no identifica mutaciones específicas en el genoma de los mutantes adaptativos\n- Los hidrolizados pueden variar en composición según la fuente de biomasa y el método de pretratamiento\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/biomasa-lignocelulosica]]\n- [[concepts/genomica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]"
+    },
+    {
+      "id": "notes/papers/2013-11-18_carotenoides-levadura-ale",
+      "kind": "paper",
+      "label": "Improving carotenoids production in yeast via adaptive laboratory evolution",
+      "authors": [
+        "Luis H. Reyes",
+        "Jose M. Gomez",
+        "Katy C. Kao"
+      ],
+      "year": "2014",
+      "venue": "Metabolic Engineering",
+      "url": "https://doi.org/10.1016/j.ymben.2013.11.007",
+      "doi": "10.1016/j.ymben.2013.11.007",
+      "keywords": [
+        "evolucion-de-laboratorio",
+        "ingenieria-metabolica",
+        "metabolitos-secundarios",
+        "genomica",
+        "biologia-molecular",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2013-11-18_carotenoides-levadura-ale.md",
+      "pdf_local": "sources/pdfs/reyes2014-carotenoides-ale-levadura.pdf",
+      "content": "## Resumen\n\nLa evolución adaptativa de laboratorio se ha aplicado principalmente para mejorar robustez celular (tolerancia a inhibidores, utilización de sustratos), pero raramente para aumentar la producción de metabolitos secundarios, porque la acumulación de estos compuestos típicamente impone una carga metabólica que reduce la aptitud. Este trabajo resuelve ese problema explotando las propiedades antioxidantes de los carotenoides: al someter una cepa de S. cerevisiae ingenierizada para producir carotenoides a choque periódico de peróxido de hidrógeno, se crea una presión selectiva donde los mutantes que producen más carotenoides son más aptos (mayor resistencia oxidativa → mayor supervivencia).\n\nEl experimento resultó en una cepa hiper-productora con 3 veces más producción de carotenoides (de 6 mg/g a hasta 18 mg/g de peso celular seco) en un experimento de evolución de corto plazo. El análisis transcriptómico reveló que los genes hiper-regulados en los mejores productores se relacionan con biosíntesis de lípidos y la vía del mevalonato, sugiriendo que el aumento de la disponibilidad de precursores lipídicos y de isoprenoides contribuye al fenotipo hiper-productor.\n\n## Contribuciones principales\n\n- Primera aplicación exitosa de ALE para mejorar producción de un metabolito secundario (carotenoides) en S. cerevisiae\n- Diseño de presión selectiva basada en propiedades del producto: estrés oxidativo como fuerza impulsora\n- 3× incremento en producción de carotenoides (6→18 mg/g dcw) en evolución de corto plazo\n- Transcriptómica revela upregulación de genes de biosíntesis de lípidos y vía mevalonato\n\n## Metodología\n\nCepa S. cerevisiae ingenierizada para producción heteróloga de carotenoides → evolución adaptativa con choque periódico de H₂O₂ como presión selectiva (aprovecha propiedades antioxidantes de carotenoides) → selección de colonias con mayor pigmentación → análisis transcriptómico (microarreglos) de mutantes hiper-productores.\n\n## Hallazgos clave\n\n- El estrés oxidativo (H₂O₂) es una presión selectiva efectiva para dirigir la evolución hacia mayor producción de carotenoides\n- Producción máxima: 18 mg/g dcw (vs. 6 mg/g en cepa parental) = incremento de 3×\n- Upregulación en hiper-productores: genes de síntesis de lípidos y vía del mevalonato (precursor de isoprenoides)\n- El principio es generalizable: si un metabolito de interés confiere ventaja bajo cierta presión selectiva, ALE puede mejorar su producción\n\n## Limitaciones\n\n- El mecanismo molecular exacto del aumento de producción requiere validación bioquímica adicional\n- El diseño depende de que el metabolito de interés confiera una ventaja selectiva medible\n- La cepa ingenierizada inicial ya incluía genes heterólogos de carotenogénesis; los resultados son específicos a este contexto\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/metabolitos-secundarios]]\n- [[concepts/genomica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]"
+    },
+    {
+      "id": "notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso",
+      "kind": "paper",
+      "label": "Simultaneous conversion of all cell wall components by an oleaginous fungus without chemi-physical pretreatment",
+      "authors": [
+        "Shangxian Xie",
+        "Xing Qin",
+        "Yanbing Cheng",
+        "Dhrubojyoti Laskar",
+        "Weichuan Qiao",
+        "Su Sun",
+        "Luis H. Reyes",
+        "Xin Wang",
+        "Susie Y. Dai",
+        "Scott E. Sattler",
+        "Katy Kao",
+        "Bin Yang",
+        "Xiaoyu Zhang",
+        "Joshua S. Yuan"
+      ],
+      "year": "2015",
+      "venue": "Green Chemistry",
+      "url": "https://doi.org/10.1039/c4gc01529k",
+      "doi": "10.1039/c4gc01529k",
+      "keywords": [
+        "ingenieria-metabolica",
+        "biocombustibles",
+        "biomasa-lignocelulosica",
+        "genomica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso.md",
+      "pdf_local": "sources/pdfs/xie2015-biomasa-conversion-hongo-oleaginoso.pdf",
+      "content": "## Resumen\n\nLa conversión eficiente de biomasa lignocelulósica en biocombustibles y productos químicos requiere degradar celulosa, hemicelulosa y lignina. La lignina es el componente más recalcitrante: la mayoría de los microorganismos no la pueden degradar, y los pretratamientos químicos o físicos necesarios para romperla consumen energía y generan residuos tóxicos. Este trabajo evalúa el hongo oleaginoso Cunninghamella echinulata FR3 por su capacidad de degradar simultáneamente los tres componentes de la pared celular sin pretratamiento, y de convertir la biomasa directamente en lípidos en una plataforma de fermentación consolidada.\n\nEl estudio demuestra que C. echinulata FR3 consume lignina junto con carbohidratos durante la fermentación de muestras de sorgo (incluyendo mutantes bmr de contenido reducido de lignina), y que los rendimientos de lípidos de biomasa sin pretratar de doble mutante bmr6/bmr12 son comparables a los de biomasa silvestre pretratada con ácido diluido. El análisis transcriptómico y químico sugiere que la reacción de Fenton —que genera radicales hidroxilo— puede ser el mecanismo principal de degradación de lignina en este organismo, una estrategia similar a la observada en hongos de pudrición blanca y café basidiomicetos pero no antes descrita en hongos oleaginosos.\n\n## Contribuciones principales\n\n- Primer reporte de degradación de lignina en un hongo oleaginoso (C. echinulata FR3)\n- Fermentación consolidada sin pretratamiento: convierte simultáneamente celulosa, hemicelulosa y lignina en lípidos\n- Los rendimientos de lípidos de biomasa bmr no pretratada son comparables a los de biomasa silvestre pretratada\n- Evidencia de la reacción de Fenton como mecanismo de degradación de lignina en hongos oleaginosos\n\n## Metodología\n\nFermentación de biomasa de sorgo (silvestre y mutantes bmr6, bmr12, bmr6/bmr12) con C. echinulata FR3 con y sin pretratamiento con ácido diluido → cuantificación de componentes de la pared celular (lignina, celulosa, hemicelulosa) antes y después → análisis de producción de lípidos → transcriptómica para identificar genes de degradación de lignina → análisis químico de mecanismo de degradación.\n\n## Hallazgos clave\n\n- C. echinulata FR3 consume lignina durante la fermentación de biomasa de sorgo\n- Doble mutante bmr6/bmr12 sin pretratar: rendimiento de lípidos comparable a silvestre pretratado con ácido\n- Mecanismo de degradación de lignina: posiblemente reacción de Fenton (radicales ·OH)\n- Primera descripción de este mecanismo en un hongo oleaginoso (previamente conocido solo en basidiomicetos)\n\n## Limitaciones\n\n- El mecanismo de Fenton es una hipótesis apoyada por evidencia transcriptómica y química, no confirmación directa\n- La eficiencia de conversión varía con el tipo de biomasa y las condiciones de fermentación\n- La escalabilidad del proceso de fermentación consolidada sin pretratamiento requiere validación\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/biomasa-lignocelulosica]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-quimica]]"
+    },
+    {
+      "id": "notes/papers/2016-07-07_carotenoides-biorreactor-raman",
+      "kind": "paper",
+      "label": "Characterization of an evolved carotenoids hyper-producer of Saccharomyces cerevisiae through bioreactor parameter optimization and Raman spectroscopy",
+      "authors": [
+        "Michelle L. Olson",
+        "James Johnson",
+        "William F. Carswell",
+        "Luis H. Reyes",
+        "Ryan S. Senger",
+        "Katy C. Kao"
+      ],
+      "year": "2016",
+      "venue": "Journal of Industrial Microbiology and Biotechnology",
+      "url": "https://doi.org/10.1007/s10295-016-1808-9",
+      "doi": "10.1007/s10295-016-1808-9",
+      "keywords": [
+        "ingenieria-metabolica",
+        "evolucion-de-laboratorio",
+        "metabolitos-secundarios",
+        "biologia-molecular",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2016-07-07_carotenoides-biorreactor-raman.md",
+      "pdf_local": "sources/pdfs/olson2016-carotenoides-biorreactor-raman.pdf",
+      "content": "## Resumen\n\nEste trabajo caracteriza en biorreactor la cepa hiper-productora de carotenoides SM14 aislada mediante evolución adaptativa de laboratorio (Reyes et al., 2014), optimizando parámetros de fermentación y validando el uso de espectroscopía Raman como herramienta de monitoreo en tiempo casi real de la producción de β-caroteno. La optimización incluyó variaciones de pH, aireación y composición del medio, encontrando que un pH bajo combinado con una razón carbono:nitrógeno (C:N) de 50 maximiza la producción.\n\nEl estudio reporta una producción de 25.52 mg β-caroteno/g (peso celular seco) en la cepa evolucionada SM14 bajo las condiciones optimizadas, y demuestra que la espectroscopía Raman puede discriminar y cuantificar β-caroteno, lípidos y proteínas en cultivos de levadura de manera no invasiva y en tiempo real. Se encontró además una correlación positiva entre el contenido total de ácidos grasos y el rendimiento de β-caroteno por biomasa, lo que sugiere un vínculo metabólico entre la biosíntesis de lípidos y la de carotenoides consistente con los hallazgos transcriptómicos previos.\n\n## Contribuciones principales\n\n- Optimización de parámetros de biorreactor (pH, aireación, C:N) para la producción de β-caroteno en SM14\n- Validación de espectroscopía Raman para monitoreo en tiempo real de β-caroteno, lípidos y proteínas en levadura\n- 25.52 mg β-caroteno/g dcw en condiciones optimizadas\n- Correlación positiva entre contenido de ácidos grasos y rendimiento de β-caroteno\n\n## Metodología\n\nBiorreactores de banco (bench-top) con la cepa parental y SM14 → variación sistemática de pH, aireación y razón C:N → cuantificación de β-caroteno por HPLC → análisis por espectroscopía Raman para monitoreo en tiempo real → análisis de composición de lípidos y proteínas.\n\n## Hallazgos clave\n\n- Condición óptima: pH bajo + C:N = 50 (vs. estándar 8.8 en YNB)\n- Incremento de C:N también mejora producción en cepa parental: +298% (de 5.68 a 22.58 mg/g dcw)\n- Raman distingue y cuantifica β-caroteno, ácidos grasos y proteínas en cultivos de levadura\n- Mayor contenido de ácidos grasos en SM14 → correlación con mayor producción de β-caroteno\n\n## Limitaciones\n\n- La optimización es específica a la cepa SM14 y al medio YNB; la transferibilidad a producción a mayor escala requiere validación\n- Los valores absolutos de producción dependen fuertemente de las condiciones de fermentación\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/metabolitos-secundarios]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]"
+    },
+    {
+      "id": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica",
+      "kind": "paper",
+      "label": "Improvement in the production of the human recombinant enzyme N-acetylgalactosamine-6-sulfatase (rhGALNS) in Escherichia coli using synthetic biology approaches",
+      "authors": [
+        "Luis H. Reyes",
+        "Carolina Cardona",
+        "Luisa Pimentel",
+        "Alexander Rodríguez-López",
+        "Carlos J. Alméciga-Díaz"
+      ],
+      "year": "2017",
+      "venue": "Scientific Reports",
+      "url": "https://doi.org/10.1038/s41598-017-06367-w",
+      "doi": "10.1038/s41598-017-06367-w",
+      "keywords": [
+        "ingenieria-metabolica",
+        "biologia-molecular",
+        "biologia-sintetica",
+        "proteinas-recombinantes",
+        "enfermedades-raras",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica.md",
+      "pdf_local": "sources/pdfs/reyes2017-rhGALNS-ecoli-produccion.pdf",
+      "content": "## Resumen\n\nLa mucopolisacaridosis tipo IVA (MPS IVA, enfermedad de Morquio A) es una enfermedad lisosomal de depósito causada por la deficiencia de la enzima N-acetilgalactosamina-6-sulfatasa (GALNS). La terapia de reemplazo enzimático (TRE) con la enzima recombinante producida en células de ovario de hámster chino (CHO) tiene limitaciones importantes de costo, eficacia tisular y vida media. Este trabajo busca mejorar la producción y actividad de la enzima recombinante humana (rhGALNS) en E. coli mediante enfoques de biología sintética: promotores fisiológicamente regulados, modulación del plegamiento proteico y mejora de la formación de puentes disulfuro en el citoplasma.\n\nEl principal desafío de producir rhGALNS en E. coli es que la mayor parte se acumula como agregados proteicos inactivos (cuerpos de inclusión). El estudio demostró que la implementación de un promotor regulado por el factor sigma σS aumenta significativamente la actividad de la enzima. Asimismo, el choque osmótico durante la fermentación mejoró la actividad de rhGALNS, efecto que se atribuyó a una respuesta general al estrés y no a la acción de chaperonas individuales. La combinación del promotor proUmod con altas concentraciones de sacarosa produjo los mayores aumentos tanto en producción como en actividad enzimática.\n\n## Contribuciones principales\n\n- Uso de promotor regulado por σS (proUmod) para mejorar la producción y actividad de rhGALNS en E. coli\n- Demostración de que el choque osmótico mejora la actividad de rhGALNS mediante respuesta general al estrés (no chaperonas individuales)\n- Combinación proUmod + sacarosa: mayor incremento conjunto en producción y actividad enzimática\n- Avance en la producción de enzimas terapéuticas humanas en sistema procariota, con potencial impacto en el costo y accesibilidad de la TRE para MPS IVA\n\n## Metodología\n\nExpresión de rhGALNS en E. coli con diferentes promotores (constitutivos vs. regulados por σS) → evaluación de actividad enzimática → sobreexpresión de chaperonas nativas → aplicación de choque osmótico (concentraciones variables de NaCl y sacarosa) → optimización de concentraciones de sacarosa con promotor proUmod → cuantificación de producción y actividad.\n\n## Hallazgos clave\n\n- Promotor proUmod (regulado por σS): incremento significativo en actividad de rhGALNS\n- Choque osmótico: mejoró actividad enzimática; efecto por respuesta global al estrés, no por chaperonas específicas\n- Sobreexpresión de chaperonas: sin efecto sobre actividad de rhGALNS\n- proUmod + alta sacarosa: combinación óptima para producción y actividad\n- Relevancia clínica: E. coli como plataforma alternativa a CHO para TRE podría reducir costos de tratamiento de enfermedades raras\n\n## Limitaciones\n\n- La rhGALNS producida en E. coli carece de glucosilaciones postraduccionales presentes en la enzima de mamífero, lo que puede afectar la captación celular y la eficacia in vivo\n- Los experimentos son en escala de laboratorio; la escalabilidad del proceso requiere validación\n- La actividad específica de la enzima producida en E. coli puede diferir de la producida en CHO\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/biologia-sintetica]]\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/enfermedades-raras]]\n- [[concepts/ingenieria-quimica]]"
+    },
+    {
+      "id": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
+      "kind": "paper",
+      "label": "Growth-Coupled Carotenoids Production Using Adaptive Laboratory Evolution",
+      "authors": [
+        "Luis H. Reyes",
+        "Katy C. Kao"
+      ],
+      "year": "2018",
+      "venue": "Methods in Molecular Biology, vol. 1671",
+      "url": "https://doi.org/10.1007/978-1-4939-7295-1_20",
+      "doi": "10.1007/978-1-4939-7295-1_20",
+      "keywords": [
+        "evolucion-de-laboratorio",
+        "ingenieria-metabolica",
+        "metabolitos-secundarios",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento.md",
+      "pdf_local": "sources/pdfs/reyes2018-carotenoides-ale-metodos.pdf",
+      "content": "## Resumen\n\nEste capítulo de métodos describe en detalle la estrategia de evolución adaptativa de laboratorio acoplada al crecimiento para mejorar la producción de carotenoides en Saccharomyces cerevisiae, desarrollada originalmente en Reyes et al. (2014). El capítulo parte de la premisa de que ALE típicamente no se usa para mejorar producción de metabolitos secundarios porque estos compuestos representan una carga metabólica, reduciendo la aptitud. Sin embargo, si el metabolito de interés confiere una ventaja de supervivencia bajo una presión selectiva diseñada, esta barrera puede superarse.\n\nEl diseño clave del protocolo es la selección por estrés oxidativo: los carotenoides son antioxidantes, de modo que las celdas que producen más carotenoides son más resistentes al peróxido de hidrógeno. El capítulo detalla la construcción de la cepa productora inicial, el diseño de los regímenes de choque con H₂O₂, los criterios para identificar celdas hiper-productoras (pigmentación visual), la validación analítica de la producción, y las consideraciones para extender el principio a otros metabolitos con propiedades que puedan aprovecharse como ventaja selectiva.\n\n## Contribuciones principales\n\n- Descripción de protocolo completo para ALE acoplado a producción de metabolito secundario\n- Marco conceptual para diseñar presiones selectivas basadas en propiedades del producto\n- Criterios para identificar y aislar celdas hiper-productoras durante la evolución\n- Principio generalizable a otros metabolitos con propiedades adaptativas\n\n## Metodología\n\nCapítulo de métodos: construcción de cepa ingenierizada productora de carotenoides en S. cerevisiae → diseño de protocolo de choque con H₂O₂ → evolución adaptativa → selección por pigmentación → validación analítica de producción.\n\n## Hallazgos clave\n\n- El estrés oxidativo es una presión selectiva efectiva para seleccionar hiper-productores de carotenoides\n- El principio de \"acoplamiento al crecimiento\" puede extenderse a compuestos con otras propiedades funcionales (antimicrobianos, compuestos con actividad redox, etc.)\n- La selección visual por pigmentación facilita el screening de mutantes hiper-productores\n\n## Limitaciones\n\n- El método requiere que el metabolito de interés confiera una ventaja selectiva medible y acoplada al crecimiento\n- Capítulo de métodos: sistematiza conocimiento previo sin reportar experimentos nuevos\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/metabolitos-secundarios]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]"
     },
     {
       "id": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
@@ -2764,6 +3045,251 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
       "target": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
+      "target": "concepts/dinamica-de-poblaciones",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
+      "target": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
+      "target": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "target": "concepts/biomasa-lignocelulosica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "target": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "target": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2013-11-18_carotenoides-levadura-ale",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-11-18_carotenoides-levadura-ale",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-11-18_carotenoides-levadura-ale",
+      "target": "concepts/metabolitos-secundarios",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-11-18_carotenoides-levadura-ale",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-11-18_carotenoides-levadura-ale",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-11-18_carotenoides-levadura-ale",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-11-18_carotenoides-levadura-ale",
+      "target": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso",
+      "target": "concepts/biomasa-lignocelulosica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2016-07-07_carotenoides-biorreactor-raman",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2016-07-07_carotenoides-biorreactor-raman",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2016-07-07_carotenoides-biorreactor-raman",
+      "target": "concepts/metabolitos-secundarios",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2016-07-07_carotenoides-biorreactor-raman",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2016-07-07_carotenoides-biorreactor-raman",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2016-07-07_carotenoides-biorreactor-raman",
+      "target": "notes/papers/2013-11-18_carotenoides-levadura-ale",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica",
+      "target": "concepts/biologia-sintetica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica",
+      "target": "concepts/proteinas-recombinantes",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica",
+      "target": "concepts/enfermedades-raras",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
+      "target": "concepts/metabolitos-secundarios",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
+      "target": "notes/papers/2013-11-18_carotenoides-levadura-ale",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
+      "target": "notes/papers/2016-07-07_carotenoides-biorreactor-raman",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
+      "target": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
       "kind": "related"
     },
     {

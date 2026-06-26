@@ -35,6 +35,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **biologia-molecular** — Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes. _Aliases: molecular biology, biología celular y molecular, gene expression, molecular mechanisms_
 
+**biologia-sintetica** — Campo que aplica principios de ingeniería al diseño y construcción de sistemas biológicos nuevos o al rediseño de los existentes; incluye partes genéticas estandarizadas, circuitos regulatorios sintéticos y organismos con metabolismos rediseñados. _Aliases: synthetic biology, biología sintética, genetic circuits, synthetic genomics, metabolic design_
+
+**biomasa-lignocelulosica** — Material vegetal compuesto de celulosa, hemicelulosa y lignina que puede convertirse en biocombustibles y productos químicos; su conversión requiere superar la recalcitrancia de la lignina mediante pretratamiento biológico, químico o físico. _Aliases: lignocellulosic biomass, lignocellulose, biomass conversion, biorefinery, cellulose, lignin degradation_
+
 **bioquimica-computacional** — Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora. _Aliases: computational biochemistry, computational biology, bioquímica teórica, protein simulation_ — Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación. _Aliases: biofuels, biobutanol, n-butanol, bioethanol, combustibles renovables_ — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
 
 ## C
@@ -68,6 +72,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **desarrollo-de-farmacos** — Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos. _Aliases: drug discovery, drug development, descubrimiento de fármacos_
 
 ## E
+
+**enfermedades-raras** — Condiciones médicas con baja prevalencia poblacional; incluye errores innatos del metabolismo, enfermedades lisosomales de depósito y otras condiciones huérfanas; su tratamiento frecuentemente implica terapia de reemplazo enzimático (TRE) o génico. _Aliases: rare diseases, orphan diseases, lysosomal storage diseases, inborn errors of metabolism, enzyme replacement therapy, ERT_
 
 **epistemologia-del-riesgo**
 
@@ -145,6 +151,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **medicina-basada-en-evidencia**
 
+**metabolitos-secundarios** — Compuestos producidos por microorganismos que no son esenciales para el crecimiento celular pero tienen valor industrial, farmacéutico o nutricional; incluye terpenoides, alcaloides, policétidos, carotenoides e isoprenoides. _Aliases: secondary metabolites, natural products, productos naturales, terpenoids, isoprenoids, carotenoids_
+
 **modelado-molecular** — Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas. _Aliases: molecular modeling, molecular mechanics, molecular dynamics, MD simulation, force field, campo de fuerzas_ — Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio. _Aliases: evidence-based medicine, EBM, medicina basada en evidencias_
 
 **modernizacion** — Procesos de transformación social, económica e institucional guiados por ideales de progreso técnico y racionalidad científica; históricamente asociados a industrialización y construcción de Estado-nación. _Aliases: modernidad, alto modernismo_
@@ -158,6 +166,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## P
 
 **pensamiento-critico-medico**
+
+**proteinas-recombinantes** — Proteínas producidas mediante expresión de genes heterólogos en sistemas hospederos como E. coli, levaduras o células de mamífero; incluye enzimas terapéuticas, anticuerpos monoclonales y biosimilares para uso médico o industrial. _Aliases: recombinant proteins, biopharmaceuticals, therapeutic proteins, protein expression, enzyme production_
 
 **poder-y-persuasion** — Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico. _Aliases: power and persuasion, influence, maquiavelismo, strategic power, Machiavelli, realpolitik_
 

@@ -12,3 +12,4 @@ Estudio cuantitativo de cómo cambia con el tiempo el tamaño, la composición y
 - [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]
 - [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]
 - [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]
+- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]
