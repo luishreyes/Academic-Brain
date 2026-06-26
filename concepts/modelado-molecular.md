@@ -13,3 +13,4 @@ Representación computacional de estructuras moleculares y sus interacciones med
 - [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]
 - [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]
 - [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]
+- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]

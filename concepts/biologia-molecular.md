@@ -34,3 +34,4 @@ Campo que estudia los mecanismos moleculares de los procesos biológicos: expres
 - [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]
 - [[notes/papers/2024-01-01_casein-polimorfismos-queso]]
 - [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]
+- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]

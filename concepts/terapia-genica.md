@@ -16,3 +16,4 @@ Enfoque terapéutico que introduce, modifica o silencia material genético en c�
 - [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]
 - [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]
 - [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]
+- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]

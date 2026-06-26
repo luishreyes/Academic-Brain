@@ -26,3 +26,6 @@ Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–
 - [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]
 - [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]
 - [[notes/papers/2023-06-12_invertasa-magnetita-fos]]
+- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]
+- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]
+- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]

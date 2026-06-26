@@ -19,3 +19,6 @@ Proceso de identificación, validación y prueba de compuestos para tratar enfer
 - [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]
 - [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]
 - [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]
+- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]
+- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]
+- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]

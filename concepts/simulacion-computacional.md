@@ -14,3 +14,5 @@ Uso de modelos matemáticos y computacionales para reproducir el comportamiento 
 - [[notes/papers/2022-02-24_multiscale-productos-lacteos]]
 - [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]
 - [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]
+- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]
+- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]

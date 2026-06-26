@@ -30,3 +30,7 @@ Materiales de origen natural o sintético diseñados para interactuar con sistem
 - [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]
 - [[notes/papers/2023-06-12_invertasa-magnetita-fos]]
 - [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]
+- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]
+- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]
+- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
+- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]

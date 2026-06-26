@@ -70,3 +70,6 @@ Disciplina que aplica principios de química, física y matemáticas para diseñ
 - [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]
 - [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]
 - [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]
+- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]
+- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
+- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]
