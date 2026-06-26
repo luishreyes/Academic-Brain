@@ -11,3 +11,6 @@ Disciplina que aplica principios de química, ingeniería y ciencias de material
 ## Notas que usan este concepto
 - [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]
 - [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]
+- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]
+- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]
+- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]

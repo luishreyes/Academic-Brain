@@ -10,3 +10,4 @@ Campo que aplica principios de ingeniería (diseño modular, estandarización de
 
 ## Notas que usan este concepto
 - [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]
+- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]

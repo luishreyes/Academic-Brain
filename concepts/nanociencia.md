@@ -12,3 +12,7 @@ Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–
 - [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]
 - [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]
 - [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]
+- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]
+- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]
+- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]
+- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]
