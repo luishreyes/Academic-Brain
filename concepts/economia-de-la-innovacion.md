@@ -13,3 +13,4 @@ Campo que estudia los determinantes económicos de la innovación tecnológica: 
 - [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]
 - [[notes/books/2010-06-15_the-rational-optimist-ridley]]
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
+- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]

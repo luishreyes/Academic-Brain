@@ -17,3 +17,5 @@ Proceso de identificación, validación y prueba de compuestos para tratar enfer
 - [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]
 - [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]
 - [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]
+- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]
+- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]

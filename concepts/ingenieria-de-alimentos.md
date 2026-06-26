@@ -19,3 +19,7 @@ Disciplina que aplica principios de química, ingeniería y ciencias de material
 - [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]
 - [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]
 - [[notes/papers/2023-06-12_invertasa-magnetita-fos]]
+- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]
+- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]
+- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]
+- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]

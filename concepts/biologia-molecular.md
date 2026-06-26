@@ -30,3 +30,7 @@ Campo que estudia los mecanismos moleculares de los procesos biológicos: expres
 - [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]
 - [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]
 - [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]
+- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]
+- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]
+- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]
+- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]

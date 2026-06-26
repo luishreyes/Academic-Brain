@@ -10,3 +10,4 @@ Diseño, implementación y evaluación de programas e intervenciones gubernament
 
 ## Notas que usan este concepto
 - [[notes/books/2022-09-26_of-boys-and-men-reeves]]
+- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]

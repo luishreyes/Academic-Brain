@@ -26,3 +26,5 @@ Modificación racional del metabolismo celular para aumentar la producción de c
 - [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]
 - [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]
 - [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]
+- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]
+- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]

@@ -27,6 +27,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **aprendizaje-activo** — Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real. _Aliases: active learning, pedagogía activa_
 
+**adopcion-de-tecnologia** — Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica. _Aliases: technology adoption, diffusion of innovations, difusión de innovaciones, adopción tecnológica, technological practices_
+
 ## B
 
 **bienestar-academico**
@@ -76,6 +78,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **diseno-especulativo** — Metodología de diseño que propone artefactos, escenarios y futuros alternativos para estimular el pensamiento crítico y la reflexión sobre implicaciones sociales, éticas y culturales de tecnologías emergentes. _Aliases: speculative design, critical design, diseño crítico, futuros especulativos_
 
 **descubrimiento-cientifico** — El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación. _Aliases: scientific discovery, investigación científica_
+
+**desarrollo-rural** — Mejora de las condiciones económicas, sociales y productivas de las comunidades rurales y agrícolas; incluye sistemas de extensión agrícola, agricultura sostenible, seguridad alimentaria y desarrollo en países en vías de desarrollo. _Aliases: rural development, desarrollo agrícola, agricultura, extensión agrícola, agricultural extension, smallholder farming_
+
+**diseno-de-producto** — Diseño y optimización de productos y experiencias, en particular experiencias sensoriales y multisensoriales; metodologías para caracterizar y crear estímulos (sonido, aroma, sabor) que modulan la percepción y la respuesta del consumidor. _Aliases: product design, diseño de experiencias, experience design, product development, sensory product design_
 
 **desarrollo-de-farmacos** — Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos. _Aliases: drug discovery, drug development, descubrimiento de fármacos_
 
@@ -193,6 +199,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **personalidad-introversion** — Dimensión del temperamento caracterizada por la preferencia por entornos de baja estimulación, la orientación hacia la vida interior y la tendencia a procesar la experiencia con mayor profundidad y deliberación; se distingue de la timidez y complementa a la extroversión en el espectro de la personalidad. _Aliases: introversion, extroversion, temperamento introvertido, Big Five openness, personality temperament_
 
 **personalizacion-del-aprendizaje** — Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante. _Aliases: adaptive learning, instrucción diferenciada, aprendizaje adaptativo_
+
+**peptidos-bioactivos** — Péptidos cortos con actividad biológica (antimicrobiana, antioxidante, inmunomoduladora) derivados de proteínas mediante hidrólisis enzimática o fermentación microbiana; incluye los péptidos antimicrobianos (AMPs) y su descubrimiento in silico. _Aliases: bioactive peptides, antimicrobial peptides, AMPs, péptidos antimicrobianos, péptidos funcionales_
+
+**percepcion-multisensorial** — Estudio de cómo los sentidos interactúan e integran información; incluye las correspondencias crossmodales (p. ej., entre sonido y sabor o aroma), la percepción del sabor como fenómeno multisensorial y sus bases psicofísicas. _Aliases: multisensory perception, crossmodal correspondences, correspondencias crossmodales, percepción crossmodal, sensory perception_
 
 **psicologia-educativa** — Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas. _Aliases: educational psychology, psicología del aprendizaje_
 

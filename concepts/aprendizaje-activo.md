@@ -19,3 +19,4 @@ Conjunto de metodologías pedagógicas en que el estudiante participa activament
 - [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]
 - [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]
 - [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]
+- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]

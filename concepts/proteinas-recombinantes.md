@@ -13,3 +13,5 @@ Proteínas producidas por organismos huésped modificados genéticamente para ex
 - [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]
 - [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]
 - [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]
+- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]
+- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]

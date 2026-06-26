@@ -10,3 +10,4 @@ Arte y ciencia de representar datos e información de forma gráfica para facili
 
 ## Notas que usan este concepto
 - [[notes/books/2015-01-01_storytelling-with-data-knaflic]]
+- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]

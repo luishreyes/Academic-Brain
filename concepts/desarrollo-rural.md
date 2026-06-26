@@ -1,0 +1,12 @@
+---
+type: concept
+keyword: desarrollo-rural
+aliases: [rural development, desarrollo agrícola, agricultura, extensión agrícola, agricultural extension, smallholder farming]
+---
+
+# Desarrollo rural
+
+Mejora de las condiciones económicas, sociales y productivas de las comunidades rurales y agrícolas; incluye sistemas de extensión agrícola, agricultura sostenible, seguridad alimentaria y desarrollo en países en vías de desarrollo.
+
+## Notas que usan este concepto
+- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]
