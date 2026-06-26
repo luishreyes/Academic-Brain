@@ -14,3 +14,4 @@ Uso de sistemas de inteligencia artificial para proporcionar instrucción indivi
 - [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]
 - [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]
 - [[notes/books/2024-04-02_co-intelligence-mollick]]
+- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]

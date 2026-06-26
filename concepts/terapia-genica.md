@@ -19,3 +19,5 @@ Enfoque terapéutico que introduce, modifica o silencia material genético en c�
 - [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]
 - [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]
 - [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]
+- [[notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas]]
+- [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]

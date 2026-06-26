@@ -12,3 +12,4 @@ Diseño, implementación y evaluación de programas e intervenciones gubernament
 - [[notes/books/2022-09-26_of-boys-and-men-reeves]]
 - [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]
 - [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]
+- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]
