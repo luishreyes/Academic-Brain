@@ -15,3 +15,5 @@ Tecnología de sistemas miniaturizados para manipular fluidos a escala de microl
 - [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]
 - [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]
 - [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]
+- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]
+- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
