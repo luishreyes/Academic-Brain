@@ -11,3 +11,5 @@ Proceso de identificación, validación y prueba de compuestos para tratar enfer
 ## Notas que usan este concepto
 - [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]
 - [[notes/books/2017-04-04_pandoras-lab-offit]]
+- [[notes/papers/2021-09-01_genome-editing-parkinson]]
+- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]

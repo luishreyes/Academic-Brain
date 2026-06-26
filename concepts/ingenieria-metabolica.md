@@ -23,3 +23,5 @@ Modificación racional del metabolismo celular para aumentar la producción de c
 - [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]
 - [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]
 - [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]
+- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]
+- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]

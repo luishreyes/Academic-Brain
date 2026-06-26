@@ -19,3 +19,6 @@ Campo que estudia la estructura, función y variación de los genomas completos;
 - [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]
 - [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]
 - [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]
+- [[notes/papers/2021-09-01_genome-editing-parkinson]]
+- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]
+- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]

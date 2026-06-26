@@ -2,10 +2,10 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 49,
+    "papers": 61,
     "articles": 7,
     "books": 27,
-    "concepts": 89
+    "concepts": 90
   },
   "nodes": [
     {
@@ -158,8 +158,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.",
       "path": "concepts/biologia-molecular.md",
-      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]",
-      "degree": 14
+      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]",
+      "degree": 20
     },
     {
       "id": "concepts/biologia-sintetica",
@@ -174,8 +174,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que aplica principios de ingeniería (diseño modular, estandarización de partes) al diseño y construcción de sistemas biológicos nuevos o la re-ingeniería de sistemas existentes; incluye promotores sintéticos, circuitos genéticos y ensamblaje de genomas.",
       "path": "concepts/biologia-sintetica.md",
-      "content": "Campo que aplica principios de ingeniería (diseño modular, estandarización de partes) al diseño y construcción de sistemas biológicos nuevos o la re-ingeniería de sistemas existentes; incluye promotores sintéticos, circuitos genéticos y ensamblaje de genomas.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]",
-      "degree": 1
+      "content": "Campo que aplica principios de ingeniería (diseño modular, estandarización de partes) al diseño y construcción de sistemas biológicos nuevos o la re-ingeniería de sistemas existentes; incluye promotores sintéticos, circuitos genéticos y ensamblaje de genomas.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]",
+      "degree": 2
     },
     {
       "id": "concepts/biomasa-lignocelulosica",
@@ -209,8 +209,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.",
       "path": "concepts/biomateriales.md",
-      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]",
-      "degree": 3
+      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]",
+      "degree": 10
     },
     {
       "id": "concepts/bioquimica-computacional",
@@ -386,8 +386,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.",
       "path": "concepts/desarrollo-de-farmacos.md",
-      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]",
-      "degree": 2
+      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]",
+      "degree": 4
     },
     {
       "id": "concepts/desarrollo-del-caracter",
@@ -561,8 +561,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.",
       "path": "concepts/enfermedades-raras.md",
-      "content": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]",
-      "degree": 3
+      "content": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]",
+      "degree": 4
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -773,8 +773,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.",
       "path": "concepts/genomica.md",
-      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]",
-      "degree": 10
+      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]",
+      "degree": 13
     },
     {
       "id": "concepts/geopolitica-tecnologica",
@@ -867,8 +867,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.",
       "path": "concepts/ingenieria-de-alimentos.md",
-      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]",
-      "degree": 2
+      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]",
+      "degree": 5
     },
     {
       "id": "concepts/ingenieria-metabolica",
@@ -884,8 +884,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.",
       "path": "concepts/ingenieria-metabolica.md",
-      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]",
-      "degree": 14
+      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]",
+      "degree": 16
     },
     {
       "id": "concepts/ingenieria-quimica",
@@ -900,8 +900,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.",
       "path": "concepts/ingenieria-quimica.md",
-      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]",
-      "degree": 29
+      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]",
+      "degree": 41
     },
     {
       "id": "concepts/integridad-academica",
@@ -1014,6 +1014,23 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 3
     },
     {
+      "id": "concepts/microfluidica",
+      "kind": "concept",
+      "label": "microfluidica",
+      "keyword": "microfluidica",
+      "aliases": [
+        "microfluidics",
+        "lab-on-a-chip",
+        "microfluídica",
+        "micro total analysis systems",
+        "µTAS"
+      ],
+      "definition": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.",
+      "path": "concepts/microfluidica.md",
+      "content": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]",
+      "degree": 3
+    },
+    {
       "id": "concepts/modelado-molecular",
       "kind": "concept",
       "label": "modelado molecular",
@@ -1059,8 +1076,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.",
       "path": "concepts/nanociencia.md",
-      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]",
-      "degree": 3
+      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]",
+      "degree": 8
     },
     {
       "id": "concepts/pensamiento-critico-medico",
@@ -1175,8 +1192,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.",
       "path": "concepts/proteinas-recombinantes.md",
-      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]",
-      "degree": 2
+      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]",
+      "degree": 3
     },
     {
       "id": "concepts/psicologia-educativa",
@@ -1318,8 +1335,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.",
       "path": "concepts/simulacion-computacional.md",
-      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]",
-      "degree": 2
+      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]",
+      "degree": 3
     },
     {
       "id": "concepts/supervision-humana",
@@ -1364,8 +1381,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.",
       "path": "concepts/terapia-genica.md",
-      "content": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]",
-      "degree": 2
+      "content": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]",
+      "degree": 4
     },
     {
       "id": "concepts/trauma-y-salud",
@@ -2206,6 +2223,57 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl glicerol es un subproducto abundante de la industria del biodiesel cuya sobreproducción reduce la competitividad económica del sector. Convertir el glicerol en compuestos valiosos (ácidos orgánicos, solventes, polímeros) mediante microorganismos como E. coli es una alternativa atractiva, pero requiere optimizar el medio de cultivo para maximizar el consumo de glicerol. Los enfoques experimentales de optimización de medios son costosos y lentos; este trabajo propone el modelado computacional del metabolismo central del carbono como alternativa para guiar el diseño del medio.\n\nUsando modelos a escala genómica (genome-scale models, GSM) y análisis del plano de fases fenotípicas del metabolismo central de E. coli ATCC 8739 con glicerol como fuente de carbono, se identificaron 19 compuestos esenciales para el crecimiento y 3 reacciones críticas (asociadas a disponibilidad de nitrógeno, fósforo y oxígeno). Con base en estos resultados computacionales, se formuló un medio suplementado con NH₄Cl, Na₂HPO₄ y K₂HPO₄ que duplicó el consumo de glicerol respecto al medio LB. El análisis transcriptómico del mejor medio reveló que el alto consumo de glicerol en condiciones aerobias depende del fósforo para evitar toxicidad por acumulación de glicerol-3-fosfato.\n\n## Contribuciones principales\n\n- Uso de modelos a escala genómica para guiar el diseño de medios de cultivo para consumo de glicerol en E. coli\n- Identificación de 3 reacciones metabólicas críticas (nitrógeno, fósforo, oxígeno) para el consumo de glicerol\n- Formulación de medio optimizado que duplica el consumo de glicerol respecto al medio LB\n- Análisis transcriptómico que explica el mecanismo de toxicidad por glicerol-3-fosfato bajo alta disponibilidad de fósforo\n\n## Metodología\n\nModelado GSM de E. coli ATCC 8739 en glicerol → análisis de plano de fases fenotípicas → identificación de compuestos esenciales → formulación de medios suplementados → validación experimental (cultivos en glicerol) → transcriptómica del mejor medio.\n\n## Hallazgos clave\n\n- 19 compuestos identificados como esenciales para el crecimiento de E. coli en glicerol\n- Nitrógeno, fósforo y oxígeno: las 3 reacciones más críticas para alto crecimiento y consumo de glicerol\n- Medio con NH₄Cl, Na₂HPO₄ y K₂HPO₄: 2× mayor consumo de glicerol que LB\n- Transcriptómica: alto consumo de glicerol aerobio depende de fósforo para evitar acumulación tóxica de glicerol-3-fosfato\n- El modelado GSM reduce el espacio experimental para optimización de medios de cultivo\n\n## Limitaciones\n\n- Estudio en E. coli silvestre; la extensión a cepas ingenierizadas requiere validación adicional\n- Los modelos GSM no capturan regulación transcripcional (se usan datos transcriptómicos a posteriori)\n- La optimización de concentraciones exactas de suplementos no se abordó computacionalmente\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/genomica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]"
     },
     {
+      "id": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers",
+      "kind": "paper",
+      "label": "Delivery Systems for Nucleic Acids and Proteins: Barriers, Cell Capture Pathways and Nanocarriers",
+      "authors": [
+        "Julian D. Torres-Vanegas",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2021",
+      "venue": "Pharmaceutics",
+      "url": "https://doi.org/10.3390/pharmaceutics13030428",
+      "doi": "10.3390/pharmaceutics13030428",
+      "keywords": [
+        "biomateriales",
+        "terapia-genica",
+        "nanociencia",
+        "biologia-molecular",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers.md",
+      "pdf_local": "sources/pdfs/torres-vanegas2021-delivery-nucleic-acids-nanocarriers.pdf",
+      "content": "## Resumen\n\nEsta revisión examina los sistemas no virales de entrega de ácidos nucleicos y proteínas terapéuticas, con énfasis en cómo superan las barreras biológicas para alcanzar sus dianas celulares. El artículo mapea los obstáculos que enfrentan las cargas terapéuticas desde la administración hasta el núcleo celular: barreras extracelulares (degradación enzimática, aclaramiento inmune, distribución tisular), barreras celulares (internalización, endosomas, escape lisosomal) y barreras intracelulares (transporte nuclear). Los nanocarriers estudiados incluyen liposomas, nanopartículas lipídicas, polímeros catiónicos, nanopartículas inorgánicas y conjugados con péptidos de penetración celular.\n\nEl artículo sistematiza las rutas de internalización celular (endocitosis mediada por receptor, macropinocitosis, endocitosis dependiente e independiente de clatrina) y explica cómo distintos nanocarriers explotan o evitan cada ruta para mejorar la eficiencia de entrega. Se presta especial atención a los mecanismos de escape endosomal —un cuello de botella crítico en terapia génica no viral— y a estrategias como el efecto de esponja protónica en polímeros catiónicos y la fusión lipídica de liposomas pH-sensibles.\n\n## Contribuciones principales\n\n- Marco sistemático que integra barreras biológicas y rutas de captura celular para evaluar nanocarriers\n- Comparación de la eficiencia, toxicidad y aplicabilidad clínica de los principales sistemas no virales\n- Guía de criterios de diseño para nanopartículas según el cargo terapéutico y la diana celular\n\n## Metodología\n\nRevisión bibliográfica sistemática de literatura sobre sistemas de entrega no virales, incluyendo ensayos in vitro, in vivo y estudios clínicos de fase I/II. Enfoque en mecanismos mecanísticos de internalización y escape endosomal.\n\n## Hallazgos clave\n\n- Las nanopartículas lipídicas (LNP) son los sistemas más avanzados clínicamente, impulsadas por el éxito de las vacunas de ARNm contra COVID-19\n- El escape endosomal sigue siendo la limitación más crítica para la eficiencia de transfección de sistemas no virales\n- Los péptidos de penetración celular pueden mejorar drásticamente la internalización pero requieren conjugación cuidadosa para evitar citotoxicidad\n- La funcionalización con ligandos de targeting activo aumenta la especificidad pero añade complejidad de fabricación\n\n## Limitaciones\n\n- La eficiencia in vitro de muchos sistemas no predice bien el comportamiento in vivo\n- La mayoría de estudios clínicos con sistemas no virales son aún fase I/II, con escasos datos de eficacia a largo plazo\n\n## Notas relacionadas\n\n- [[concepts/biomateriales]]\n- [[concepts/terapia-genica]]\n- [[concepts/nanociencia]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]"
+    },
+    {
+      "id": "notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion",
+      "kind": "paper",
+      "label": "Gelatin-Graphene Oxide Nanocomposite Hydrogels for Kluyveromyces lactis Encapsulation: Potential Applications in Probiotics and Bioreactor Packings",
+      "authors": [
+        "Jorge Luis Patarroyo",
+        "Eduardo Fonseca",
+        "Javier Cifuentes",
+        "Felipe Salcedo",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2021",
+      "venue": "Biomolecules",
+      "url": "https://doi.org/10.3390/biom11070922",
+      "doi": "10.3390/biom11070922",
+      "keywords": [
+        "biomateriales",
+        "ingenieria-quimica",
+        "ingenieria-de-alimentos"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion.md",
+      "pdf_local": "sources/pdfs/patarroyo2021-gelatin-graphene-lactis.pdf",
+      "content": "## Resumen\n\nEl artículo desarrolla hidrogeles nanocompuestos de gelatina y óxido de grafeno (GO) para la encapsulación de la levadura *Kluyveromyces lactis*, con potencial de aplicación como probióticos y como soportes para biorreactores inmovilizados. La motivación central es que las formulaciones nutraceuticas basadas en microorganismos probióticos requieren matrices de encapsulación que protejan las células durante el procesamiento y la administración gastrointestinal, mientras que *K. lactis* ofrece ventajas sobre bacterias probióticas comunes por sus propiedades inmunomoduladoras y anticancerígenas.\n\nLos hidrogeles fueron sintetizados variando la concentración de GO y reticulados con transglutaminasa. La caracterización incluyó reología, microscopía electrónica de barrido (SEM) y viabilidad celular de *K. lactis* encapsulada. El GO mejoró las propiedades mecánicas del hidrogel de gelatina pura, aumentando la rigidez y la capacidad de retención de agua, sin comprometer la viabilidad de las levaduras. Los hidrogeles con 0.1–0.5% GO mostraron la mejor combinación de propiedades mecánicas y biocompatibilidad.\n\n## Contribuciones principales\n\n- Protocolo optimizado para encapsular levaduras viables en matrices de gelatina-GO\n- Caracterización mecánica y estructural de hidrogeles nanocompuestos a distintas concentraciones de GO\n- Demostración de viabilidad celular post-encapsulación superior al 80% para las formulaciones óptimas\n\n## Metodología\n\nSíntesis de hidrogeles por mezclado de gelatina tipo B con GO en suspensión acuosa, reticulación enzimática con transglutaminasa microbiana. Caracterización reológica (módulo elástico G' y viscoso G''), SEM, y ensayos de viabilidad celular por citometría de flujo y tinción con FDA/PI.\n\n## Hallazgos clave\n\n- La adición de GO aumenta el módulo elástico del hidrogel hasta 3 veces respecto a la gelatina sola\n- La viabilidad de *K. lactis* encapsulada supera el 80% a las 24 h post-encapsulación\n- Los hidrogeles muestran comportamiento viscoelástico adecuado para su uso como empaques en biorreactores de lecho fijo\n- La estructura porosa del nanocompuesto facilita el intercambio de nutrientes y metabolitos\n\n## Limitaciones\n\n- Los ensayos de resistencia gastrointestinal simulada son preliminares; falta validación en modelos animales\n- La escalabilidad de la síntesis con GO a grado alimenticio requiere evaluación regulatoria adicional\n\n## Notas relacionadas\n\n- [[concepts/biomateriales]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]"
+    },
+    {
       "id": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce",
       "kind": "paper",
       "label": "Promoting Healthier Drinking Habits: Using Sound to Encourage the Choice for Non-Alcoholic Beers in E-Commerce",
@@ -2227,6 +2295,289 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce.md",
       "pdf_local": "sources/pdfs/rodriguez2021-cerveza-sin-alcohol-sonido.pdf",
       "content": "## Resumen\n\nEl consumo excesivo de alcohol causa aproximadamente 3 millones de muertes anuales mundiales, y la OMS promueve activamente la reducción del consumo. Las cervezas sin alcohol (NAB) representan una alternativa con mercado en crecimiento (~24% anual), pero tienen mala percepción sensorial respecto a las cervezas alcohólicas. Este estudio examina si los sonidos de envase de cerveza —un estímulo auditivo habitualmente ignorado en contextos digitales— pueden modular las emociones y expectativas sensoriales de los consumidores para hacer más atractiva una NAB en el contexto del e-commerce.\n\nSe realizaron dos experimentos. El Experimento 1 evaluó el efecto de diferentes sonidos de envase (abrir botella, verter, espuma) sobre las emociones y expectativas sensoriales generales de los participantes. El Experimento 2 evaluó cómo los sonidos más positivos del Experimento 1 influyen en las emociones y expectativas sensoriales asociadas a la imagen digital de una NAB. Los resultados muestran que el sonido de cerveza siendo vertida en un vaso suprime parte de la negatividad habitualmente asociada a la experiencia con una NAB. Esto sugiere que la personalización auditiva del entorno de compra virtual puede ser una herramienta efectiva para nudgear a los consumidores hacia elecciones más saludables.\n\n## Contribuciones principales\n\n- Demostración experimental de que sonidos de envase de cerveza modulan emociones y expectativas sensoriales en e-commerce\n- El sonido de vertido suprime la negatividad asociada a las cervezas sin alcohol en entornos digitales\n- Marco metodológico para el diseño de experiencias multisensoriales en plataformas de compra online\n- Evidencia para marcas y organizaciones interesadas en promover NAB mediante estrategias auditivas virtuales\n\n## Metodología\n\nExperimento 1: evaluación de múltiples sonidos de envase → efecto sobre emociones y expectativas sensoriales generales → selección de los más positivos → Experimento 2: evaluación de sonidos seleccionados sobre emociones/expectativas asociadas a imagen digital de NAB → análisis estadístico comparativo.\n\n## Hallazgos clave\n\n- El sonido de vertido de cerveza suprime la negatividad asociada a NAB en entornos digitales\n- Los sonidos de envase son moduladores efectivos de emociones y expectativas sensoriales incluso sin presencia del producto físico\n- Las experiencias multisensoriales digitales pueden ser diseñadas para nudgear hacia opciones más saludables\n- El contexto de e-commerce es sensible a la personalización auditiva del entorno de compra\n- Implicaciones prácticas para marcas y organismos de salud pública que buscan reducir el consumo de alcohol\n\n## Limitaciones\n\n- Experimentos con imágenes digitales, no con productos físicos; las expectativas pueden diferir de la experiencia real de consumo\n- La muestra puede no ser representativa de todos los segmentos de consumidores de cerveza\n- El efecto del sonido no fue medido en el contexto de compra real (comportamiento de compra efectivo vs. intención declarada)\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/comportamiento-del-consumidor]]"
+    },
+    {
+      "id": "notes/papers/2021-09-01_genome-editing-parkinson",
+      "kind": "paper",
+      "label": "Understanding the Potential of Genome Editing in Parkinson's Disease",
+      "authors": [
+        "David Arango",
+        "Amaury Bittar",
+        "Natalia P. Esmeral",
+        "Camila Ocasión",
+        "Carolina Muñoz-Camargo",
+        "Juan C. Cruz",
+        "Luis H. Reyes",
+        "Natasha I. Bloch"
+      ],
+      "year": "2021",
+      "venue": "International Journal of Molecular Sciences",
+      "url": "https://doi.org/10.3390/ijms22179241",
+      "doi": "10.3390/ijms22179241",
+      "keywords": [
+        "terapia-genica",
+        "biologia-molecular",
+        "genomica",
+        "desarrollo-de-farmacos",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2021-09-01_genome-editing-parkinson.md",
+      "pdf_local": "sources/pdfs/arango2021-genome-editing-parkinson.pdf",
+      "content": "## Resumen\n\nEsta revisión examina el potencial de las técnicas de edición genómica —principalmente CRISPR/Cas9 y sus variantes— para investigar y tratar la enfermedad de Parkinson (EP). La EP es la segunda enfermedad neurodegenerativa más común, caracterizada por la pérdida progresiva de neuronas dopaminérgicas en la sustancia nigra. Aunque la mayoría de los casos son esporádicos, existen formas monogénicas bien caracterizadas (mutaciones en SNCA, LRRK2, PINK1, PARKIN, DJ-1) que representan dianas terapéuticas candidatas para intervención génica.\n\nEl artículo sistematiza las aplicaciones de CRISPR en modelos celulares y animales de EP: corrección de mutaciones patogénicas, modelado de la enfermedad en células iPSC, silenciamiento de genes de α-sinucleína (SNCA), y activación transcripcional de genes neuroprotectores. También se discuten las principales herramientas de edición disponibles (Cas9, Cas12a, base editors, prime editing) y sus limitaciones para aplicación terapéutica en el sistema nervioso central, incluyendo la entrega eficiente al cerebro, la especificidad de diana y los efectos off-target.\n\n## Contribuciones principales\n\n- Mapa comprehensivo de los genes y vías moleculares asociados a EP con potencial de intervención por edición genómica\n- Comparación de las plataformas de edición (Cas9, base editing, prime editing) en términos de precisión, versatilidad y seguridad para aplicaciones neurológicas\n- Análisis crítico de los desafíos de entrega al SNC y estrategias actuales (AAV, nanopartículas, exosomas)\n\n## Metodología\n\nRevisión bibliográfica de literatura sobre edición genómica en modelos de EP, incluyendo estudios en células iPSC derivadas de pacientes, modelos murinos y primates no humanos. Énfasis en estudios publicados entre 2012 y 2021.\n\n## Hallazgos clave\n\n- Las células iPSC de pacientes con EP son el modelo más relevante para validar estrategias de edición antes de ensayos clínicos\n- El silenciamiento de SNCA mediante CRISPR ha demostrado reducción de α-sinucleína agregada en modelos celulares\n- La entrega de componentes CRISPR al cerebro sigue siendo el principal cuello de botella; los vectores AAV son los más estudiados pero presentan limitaciones de capacidad\n- Las tecnologías de base editing y prime editing ofrecen mayor precisión con menor riesgo de cortes de doble cadena\n\n## Limitaciones\n\n- La mayoría de estudios son en modelos celulares o murinos; los ensayos en primates y humanos son escasos\n- Los efectos off-target de CRISPR en el contexto del SNC están insuficientemente caracterizados\n- La EP esporádica (>90% de casos) no tiene una diana genética clara, limitando el alcance de las estrategias génicas\n\n## Notas relacionadas\n\n- [[concepts/terapia-genica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/genomica]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2020-07-30_enfermedades-lisosomales-terapias-alternativas]]"
+    },
+    {
+      "id": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
+      "kind": "paper",
+      "label": "Microfluidics for Multiphase Mixing and Liposomal Encapsulation of Nanobioconjugates: Passive vs. Acoustic Systems",
+      "authors": [
+        "Kevin A. Giraldo",
+        "Juan Sebastian Bermudez",
+        "Carlos E. Torres",
+        "Luis H. Reyes",
+        "Johann F. Osma",
+        "Juan C. Cruz"
+      ],
+      "year": "2021",
+      "venue": "Fluids",
+      "url": "https://doi.org/10.3390/fluids6090309",
+      "doi": "10.3390/fluids6090309",
+      "keywords": [
+        "microfluidica",
+        "biomateriales",
+        "nanociencia",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados.md",
+      "pdf_local": "sources/pdfs/giraldo2021-microfluidica-encapsulacion-nanobioconjugados.pdf",
+      "content": "## Resumen\n\nEste artículo compara dos estrategias microflúidicas para la encapsulación de nanobioconjugados en liposomas: sistemas pasivos (basados en geometría del canal para inducir mezcla caótica) y sistemas acústicos (que utilizan ondas de ultrasonido para generar perturbaciones en el flujo). La motivación es que los nanobioconjugados —partículas funcionales con biomoléculas activas conjugadas— requieren encapsulación precisa para protegerlos y dirigirlos a tejidos específicos, y los métodos convencionales de síntesis de liposomas son difíciles de escalar y reproducir.\n\nLos dispositivos microflúidicos fueron fabricados con PDMS mediante litografía suave. Los sistemas pasivos emplearon geometrías de serpentín y de cruce (herringbone) para inducir flujo de Dean y mezcla caótica. Los sistemas acústicos integraron transductores piezoeléctricos para generar ondas acústicas superficiales (SAW). Se evaluó la eficiencia de encapsulación, el tamaño y polidispersidad de los liposomas resultantes, y la integridad de los nanobioconjugados encapsulados.\n\n## Contribuciones principales\n\n- Diseño y fabricación de chips microflúidicos pasivos y acústicos para síntesis de liposomas cargados con nanobioconjugados\n- Comparación cuantitativa de eficiencia de encapsulación, tamaño de vesículas y polidispersidad entre ambos sistemas\n- Protocolo optimizado para la producción continua y reproducible de liposomas funcionales\n\n## Metodología\n\nFabricación de chips PDMS por litografía suave. Síntesis de liposomas por nanoprecipitación asistida por microfluídica. Caracterización por DLS (tamaño y PDI), microscopía de fluorescencia y espectroscopía de correlación de fotones para eficiencia de encapsulación.\n\n## Hallazgos clave\n\n- Los sistemas acústicos producen liposomas más uniformes (PDI < 0.1) que los sistemas pasivos (PDI 0.15–0.25)\n- La eficiencia de encapsulación en sistemas acústicos es hasta 40% superior a sistemas pasivos para nanobioconjugados de alto peso molecular\n- La integración de SAW permite modulación en tiempo real del tamaño de vesículas ajustando la frecuencia y amplitud del campo acústico\n- Ambos sistemas son más reproducibles y escalables que los métodos convencionales de extrusión\n\n## Limitaciones\n\n- Los chips PDMS tienen limitaciones de biocompatibilidad con solventes orgánicos; se requieren materiales alternativos para formulaciones farmacéuticas\n- Los sistemas acústicos tienen mayor costo de fabricación e integración que los pasivos\n\n## Notas relacionadas\n\n- [[concepts/microfluidica]]\n- [[concepts/biomateriales]]\n- [[concepts/nanociencia]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]"
+    },
+    {
+      "id": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos",
+      "kind": "paper",
+      "label": "Design and Manufacture of a Low-Cost Microfluidic System for the Synthesis of Giant Liposomes for the Encapsulation of Yeast Homologues: Applications in the Screening of Membrane-Active Peptide Libraries",
+      "authors": [
+        "Saúl C. Gómez",
+        "Valentina Quezada",
+        "Isabella Quiroz",
+        "Carolina Muñoz-Camargo",
+        "Johann F. Osma",
+        "Luis H. Reyes",
+        "Juan C. Cruz"
+      ],
+      "year": "2021",
+      "venue": "Micromachines",
+      "url": "https://doi.org/10.3390/mi12111377",
+      "doi": "10.3390/mi12111377",
+      "keywords": [
+        "microfluidica",
+        "biomateriales",
+        "nanociencia",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos.md",
+      "pdf_local": "sources/pdfs/gomez2021-microfluidica-liposomas-gigantes.pdf",
+      "content": "## Resumen\n\nEl artículo presenta el diseño y fabricación de un sistema microflúidico de bajo costo para sintetizar liposomas gigantes unilamelares (GUV), destinados a encapsular homólogos de levadura como modelos de membrana para el cribado de péptidos activos en membrana (MAPs). Los MAPs —que incluyen péptidos antimicrobianos y péptidos de penetración celular— son candidatos terapéuticos prometedores, pero su evaluación experimental requiere modelos de membrana celular accesibles y reproducibles. Los GUV son vesículas de escala micrométrica (1–100 µm) que mimetizan mejor la membrana celular que los liposomas convencionales nanométricos.\n\nEl sistema microflúidico fue fabricado con técnicas accesibles (corte láser de resina acrílica y PDMS), con costo significativamente menor que los chips comerciales equivalentes. El dispositivo emplea flujo a contracorriente de fases acuosa y lipídica (método de emulsificación en flujo de chorro) para generar GUV de tamaño controlado. Se evaluó el sistema con modelos de membrana de levadura (*S. cerevisiae*) y se aplicó al cribado de MAPs sintéticos.\n\n## Contribuciones principales\n\n- Sistema microflúidico de bajo costo para síntesis de GUV con control de tamaño (5–100 µm)\n- Protocolo para encapsular modelos de membrana de levadura en GUV como plataforma de cribado\n- Validación del sistema con una biblioteca de MAPs candidatos\n\n## Metodología\n\nFabricación de chips acrílicos/PDMS por corte láser y moldeo blando. Síntesis de GUV por método de emulsificación en corriente continua. Caracterización por microscopía óptica y de fluorescencia. Cribado de MAPs mediante ensayos de permeabilización de GUV con marcadores fluorescentes.\n\n## Hallazgos clave\n\n- El sistema produce GUV con coeficiente de variación de tamaño inferior al 15%, comparable a sistemas comerciales de mayor costo\n- El costo de fabricación es >10 veces menor que los chips microflúidicos comerciales equivalentes\n- La plataforma de GUV permite discriminar entre MAPs de alta y baja actividad permeabilizante en formato de cribado de alto rendimiento\n- La encapsulación de modelos de levadura reproduce fielmente la composición lipídica de membranas celulares fúngicas\n\n## Limitaciones\n\n- Los chips de acrílico presentan mayor rugosidad superficial que PDMS puro, afectando la uniformidad del flujo a caudales muy bajos\n- El método requiere optimización de la composición lipídica para cada aplicación específica de membrana\n\n## Notas relacionadas\n\n- [[concepts/microfluidica]]\n- [[concepts/biomateriales]]\n- [[concepts/nanociencia]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]"
+    },
+    {
+      "id": "notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis",
+      "kind": "paper",
+      "label": "Highly Efficient Synthesis of Type B Gelatin and Low Molecular Weight Chitosan Nanoparticles: Potential Applications as Bioactive Molecule Carriers and Cell-Penetrating Agents",
+      "authors": [
+        "Cristina Gonzalez-Melo",
+        "Andres J. Garcia-Brand",
+        "Valentina Quezada",
+        "Luis H. Reyes",
+        "Carolina Muñoz-Camargo",
+        "Juan C. Cruz"
+      ],
+      "year": "2021",
+      "venue": "Polymers",
+      "url": "https://doi.org/10.3390/polym13234078",
+      "doi": "10.3390/polym13234078",
+      "keywords": [
+        "biomateriales",
+        "nanociencia",
+        "biologia-molecular",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis.md",
+      "pdf_local": "sources/pdfs/gonzalez-melo2021-nanoparticulas-gelatina-chitosan.pdf",
+      "content": "## Resumen\n\nEl artículo presenta protocolos optimizados para la síntesis eficiente de nanopartículas de gelatina tipo B (GNP) y quitosano de bajo peso molecular (LMWC-NP), y evalúa su potencial como vehículos de moléculas bioactivas y agentes de penetración celular. Ambos polímeros son bicompatibles, biodegradables y ampliamente disponibles, lo que los hace atractivos para aplicaciones biomédicas, pero su síntesis convencional produce nanopartículas con alta polidispersidad y rendimiento bajo.\n\nLos autores optimizaron el proceso de desolvación controlada (coacervación) para GNP y de gelificación iónica para LMWC-NP, ajustando parámetros como pH, temperatura, velocidad de adición del desolvente y relación de reticulante. El resultado son nanopartículas monodispersas (PDI < 0.2) con eficiencias de encapsulación superiores al 70% para modelos de carga (dextrano-FITC y plásmidos). Los ensayos de penetración celular en líneas HeLa y A549 mostraron internalización eficiente sin citotoxicidad significativa a las concentraciones estudiadas.\n\n## Contribuciones principales\n\n- Protocolo optimizado para síntesis de GNP con rendimiento > 85% y PDI < 0.15\n- Síntesis de LMWC-NP con carga superficial catiónica controlable, favorable para entrega de ácidos nucleicos\n- Caracterización integral: tamaño, potencial zeta, eficiencia de encapsulación y cinética de liberación\n\n## Metodología\n\nSíntesis de GNP por desolvación con etanol y reticulación con glutaraldehído. Síntesis de LMWC-NP por gelificación iónica con tripolifosfato sódico (TPP). Caracterización por DLS, AFM, FTIR y TEM. Ensayos de viabilidad (MTT) y penetración celular (microscopía confocal).\n\n## Hallazgos clave\n\n- Las GNP presentan liberación sostenida de carga en medio fisiológico durante 72–96 h\n- Las LMWC-NP con carga catiónica (+20 a +35 mV) muestran mayor eficiencia de transfección que las variantes aniónicas\n- Ambos sistemas son internalizados principalmente por endocitosis mediada por receptor en células HeLa\n- La biocompatibilidad es alta (viabilidad > 85%) para concentraciones de nanopartículas < 500 µg/mL\n\n## Limitaciones\n\n- El glutaraldehído usado como reticulante de las GNP es citotóxico a concentraciones elevadas; se requieren alternativas más biocompatibles\n- Los ensayos de penetración celular son in vitro; la relevancia in vivo requiere validación adicional\n\n## Notas relacionadas\n\n- [[concepts/biomateriales]]\n- [[concepts/nanociencia]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]"
+    },
+    {
+      "id": "notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel",
+      "kind": "paper",
+      "label": "Preparation and Characterization of an Injectable and Photo-Responsive Chitosan Methacrylate/Graphene Oxide Hydrogel: Potential Applications in Bone Tissue Adhesion and Repair",
+      "authors": [
+        "Daniela N. Céspedes-Valenzuela",
+        "Santiago Sánchez-Rentería",
+        "Javier Cifuentes",
+        "Mónica Gantiva-Diaz",
+        "Julian A. Serna",
+        "Luis H. Reyes",
+        "Carlos Ostos",
+        "Christian Cifuentes-De la Portilla",
+        "Carolina Muñoz-Camargo",
+        "Juan C. Cruz"
+      ],
+      "year": "2022",
+      "venue": "Polymers",
+      "url": "https://doi.org/10.3390/polym14010126",
+      "doi": "10.3390/polym14010126",
+      "keywords": [
+        "biomateriales",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel.md",
+      "pdf_local": "sources/pdfs/cespedes2022-chitosan-grafeno-hidrogel-hueso.pdf",
+      "content": "## Resumen\n\nEl artículo desarrolla un hidrogel inyectable y fotoresponsivo basado en quitosano metacrilato (ChMA) y óxido de grafeno (GO) para aplicaciones en adhesión y reparación de tejido óseo. La motivación es que los defectos óseos representan un problema clínico mayor y los biomateriales convencionales para su reparación (cementos óseos, injertos) presentan limitaciones de biocompatibilidad, resistencia mecánica o capacidad de adaptarse a geometrías complejas. Un hidrogel inyectable que se cure in situ mediante luz UV/visible ofrece ventajas de minimamente invasivo y ajuste a la cavidad del defecto.\n\nLos hidrogeles ChMA-GO fueron sintetizados mediante metacrilación controlada del quitosano y posterior mezcla con GO funcionalizado. La reticulación se indujo por fotoactivación con riboflavina como fotoiniciador de baja toxicidad. La caracterización incluyó reología, FTIR, SEM, ángulo de contacto y ensayos de adhesión a superficies de hidroxiapatita. Los ensayos biológicos evaluaron biocompatibilidad con osteoblastos (MC3T3-E1) y capacidad de mineralización.\n\n## Contribuciones principales\n\n- Síntesis y caracterización de hidrogeles ChMA-GO fotoreticulables con propiedades mecánicas y de adhesión mejoradas por GO\n- Protocolo de fotopolimerización con riboflavina, más biocompatible que los fotoiniciadores convencionales\n- Evaluación de biocompatibilidad con línea osteoblástica MC3T3-E1 y capacidad de mineralización\n\n## Metodología\n\nSíntesis de ChMA por reacción de quitosano con anhídrido metacrílico. Preparación de hidrogeles ChMA-GO a distintas concentraciones de GO. Fotoreticulación con luz UV (365 nm) y riboflavina. Caracterización reológica, FTIR, SEM y ensayos de adhesión a hidroxiapatita. Viabilidad celular por MTT y tinción con calceína.\n\n## Hallazgos clave\n\n- La incorporación de GO aumenta el módulo de almacenamiento del hidrogel hasta 4 veces respecto al ChMA puro\n- La adhesión a superficies de hidroxiapatita mejora con GO debido a interacciones π-π y puentes de hidrógeno adicionales\n- La viabilidad osteoblástica supera el 90% a concentraciones de GO ≤ 0.1% en peso\n- El hidrogel induce mineralización espontánea en condiciones osteogénicas in vitro\n\n## Limitaciones\n\n- Los estudios in vivo en modelos animales de defecto óseo son necesarios para validar la eficacia clínica\n- La resistencia mecánica del hidrogel es inferior a la del hueso cortical; limitado a defectos de baja carga mecánica\n\n## Notas relacionadas\n\n- [[concepts/biomateriales]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]"
+    },
+    {
+      "id": "notes/papers/2022-01-10_biobricks-genomica-sintetica",
+      "kind": "paper",
+      "label": "Introductory Chapter: From BioBricks to Synthetic Genomes",
+      "authors": [
+        "Luis H. Reyes",
+        "Miguel Fernández-Niño"
+      ],
+      "year": "2022",
+      "venue": "IntechOpen (Synthetic Genomics — From BioBricks to Synthetic Genomes)",
+      "url": "https://doi.org/10.5772/intechopen.101949",
+      "doi": "10.5772/intechopen.101949",
+      "keywords": [
+        "biologia-sintetica",
+        "biologia-molecular",
+        "genomica",
+        "ingenieria-metabolica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-01-10_biobricks-genomica-sintetica.md",
+      "pdf_local": "sources/pdfs/reyes2022-biobricks-genomica-sintetica.pdf",
+      "content": "## Resumen\n\nCapítulo introductorio de un volumen editado sobre biología sintética y genómica sintética, que traza la trayectoria del campo desde los primeros conceptos de BioBricks hasta la síntesis y ensamblaje de genomas completos. El capítulo sitúa los hitos tecnológicos que hicieron posible la ingeniería de sistemas biológicos complejos: reducción de costos de secuenciación y síntesis de ADN, herramientas de ensamblaje de piezas genéticas (BioBricks), edición genómica con CRISPR-Cas9, modelado metabólico in silico y tecnologías ómicas de segunda generación.\n\nEl texto explica cómo las BioBricks —partes estándar de ADN con funciones definidas— pueden ensamblarse en redes metabólicas artificiales dentro de organismos chassis bien caracterizados (principalmente *E. coli* y *S. cerevisiae*). Introduce el concepto de genómica sintética: el diseño y síntesis química de genomas completos o fragmentos de genoma para estudiar los principios fundamentales del genoma y ampliar las capacidades de ingeniería. Se citan los hitos del campo, incluyendo el primer genoma sintético bacteriano (JCVI-syn3.0) y la síntesis de cromosomas eucariotas artificiales en el proyecto Sc2.0.\n\n## Contribuciones principales\n\n- Marco conceptual que integra biología sintética clásica (BioBricks, redes metabólicas) con la emergente genómica sintética\n- Revisión de las tecnologías habilitantes: síntesis de ADN de bajo costo, CRISPR, secuenciación de lectura larga y metabolómica\n- Posicionamiento del campo en el contexto más amplio de la bioingeniería y la biotecnología industrial\n\n## Metodología\n\nCapítulo de revisión y perspectiva; no presenta datos experimentales originales. Síntesis de la literatura reciente sobre biología sintética y genómica sintética.\n\n## Hallazgos clave\n\n- La reducción del costo de síntesis de ADN (de >$10/bp en los 90s a <$0.01/bp en los 2020s) ha sido el principal habilitador tecnológico del campo\n- Los genomas sintéticos permiten probar hipótesis sobre la funcionalidad mínima de los genes que los experimentos de deleción convencionales no pueden resolver\n- La genómica sintética abre posibilidades para diseñar organismos con codones no naturales o rutas metabólicas completamente artificiales, con aplicaciones en producción industrial y bioseguridad\n\n## Limitaciones\n\n- Por ser un capítulo introductorio, el tratamiento de cada tema es necesariamente superficial; sirve como mapa del campo, no como revisión exhaustiva\n- La aceleración del campo puede hacer que algunos hitos referenciados sean rápidamente superados\n\n## Notas relacionadas\n\n- [[concepts/biologia-sintetica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]"
+    },
+    {
+      "id": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
+      "kind": "paper",
+      "label": "Microfluidic Synthesis and Purification of Magnetoliposomes for Potential Applications in the Gastrointestinal Delivery of Difficult-to-Transport Drugs",
+      "authors": [
+        "Carlos E. Torres",
+        "Javier Cifuentes",
+        "Saúl C. Gómez",
+        "Valentina Quezada",
+        "Kevin A. Giraldo",
+        "Paola Ruiz Puentes",
+        "Laura Rueda-Gensini",
+        "Julian A. Serna",
+        "Carolina Muñoz-Camargo",
+        "Luis H. Reyes",
+        "Johann F. Osma",
+        "Juan C. Cruz"
+      ],
+      "year": "2022",
+      "venue": "Pharmaceutics",
+      "url": "https://doi.org/10.3390/pharmaceutics14020315",
+      "doi": "10.3390/pharmaceutics14020315",
+      "keywords": [
+        "microfluidica",
+        "biomateriales",
+        "nanociencia",
+        "desarrollo-de-farmacos",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral.md",
+      "pdf_local": "sources/pdfs/torres2022-magnetoliposomas-microfluidica-entrega-oral.pdf",
+      "content": "## Resumen\n\nEste trabajo presenta la síntesis microflúidica y purificación de magnetoliposomas —liposomas que encapsulan nanopartículas magnéticas de Fe₃O₄— para la entrega gastrointestinal de fármacos de difícil transporte. Los magnetoliposomas combinan las propiedades de los liposomas (encapsulación, biocompatibilidad, recubrimiento de membrana) con las de las nanopartículas magnéticas (guía por campo externo, hipertermia localizada, imagen por MRI), abriendo posibilidades para sistemas de entrega activamente dirigidos al tracto gastrointestinal.\n\nEl sistema microflúidico desarrollado integra dos etapas: síntesis de liposomas cargados con NPs magnéticas mediante nanoprecipitación asistida por microfluídica, y purificación por diafiltración en chip. La integración de ambas etapas en un solo dispositivo reduce el tiempo de procesamiento y minimiza la contaminación entre lotes. Se evaluó el comportamiento de los magnetoliposomas bajo campos magnéticos externos y su estabilidad en medios que simulan el tracto GI (pH 1.2, 4.5 y 7.4, con enzimas digestivas).\n\n## Contribuciones principales\n\n- Plataforma integrada de síntesis-purificación de magnetoliposomas en un solo chip microflúidico\n- Caracterización del comportamiento magnético y la integridad estructural en condiciones GI simuladas\n- Evaluación de la eficiencia de encapsulación de modelos de fármacos lipofílicos e hidrofílicos\n\n## Metodología\n\nFabricación de chips PDMS multicapa. Síntesis de NPs Fe₃O₄ por coprecipitación química. Encapsulación en liposomas por nanoprecipitación microflúidica. Purificación por diafiltración en chip con membranas de 100 kDa. Caracterización: DLS, TEM, VSM (magnetometría), estabilidad en medios GI simulados.\n\n## Hallazgos clave\n\n- Los magnetoliposomas sintetizados presentan diámetro de 150–200 nm con PDI < 0.15 y contenido de Fe₃O₄ de 5–15 µg/mL por vesícula\n- La eficiencia de purificación en chip supera el 90% para la remoción de liposomas vacíos y NPs libres\n- Los magnetoliposomas retienen su integridad estructural en pH 4.5–7.4 pero muestran destabilización parcial a pH 1.2 (estómago)\n- El campo magnético externo permite retención localizada de magnetoliposomas en segmentos específicos del intestino en modelos ex vivo\n\n## Limitaciones\n\n- La estabilidad en pH gástrico (1.2) requiere recubrimiento entérico adicional para aplicación oral real\n- Los estudios de biodistribución in vivo son necesarios para validar la guía magnética en el tracto GI\n\n## Notas relacionadas\n\n- [[concepts/microfluidica]]\n- [[concepts/biomateriales]]\n- [[concepts/nanociencia]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]"
+    },
+    {
+      "id": "notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa",
+      "kind": "paper",
+      "label": "Engineering a heterologously expressed fructosyltransferase from Aspergillus oryzae N74 in Komagataella phaffii (Pichia pastoris) for kestose production",
+      "authors": [
+        "Manuela Alvarado-Obando",
+        "Nicolás Contreras",
+        "Diana León",
+        "Lina Botero",
+        "Laura Beltran",
+        "Dennis Díaz",
+        "Alexander Rodríguez-López",
+        "Luis H. Reyes",
+        "Carlos J. Alméciga-Díaz",
+        "Oscar F. Sánchez"
+      ],
+      "year": "2022",
+      "venue": "New Biotechnology",
+      "url": "https://doi.org/10.1016/j.nbt.2022.02.005",
+      "doi": "10.1016/j.nbt.2022.02.005",
+      "keywords": [
+        "ingenieria-metabolica",
+        "biologia-molecular",
+        "ingenieria-de-alimentos",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa.md",
+      "pdf_local": "sources/pdfs/alvarado-obando2022-fructosiltransferasa-pichia-kestosa.pdf",
+      "content": "## Resumen\n\nEl artículo reporta la ingeniería heteróloga de una fructosiltransferasa (FTasa) de *Aspergillus oryzae* N74 en *Komagataella phaffii* (Pichia pastoris) para la producción de kestosa, un fructo-oligosacárido (FOS) de cadena corta con propiedades prebióticas. Los FOS son uno de los prebióticos más comercializados mundialmente y su demanda crece por el interés creciente en el microbioma intestinal y la salud funcional. La producción convencional de kestosa involucra la transfructosilación de sacarosa por enzimas fúngicas, pero la producción en sistemas heterólogos más productivos como *P. pastoris* aún no estaba optimizada para esta FTasa específica.\n\nLos autores diseñaron y expresaron la FTasa de *A. oryzae* N74 en *P. pastoris* bajo el promotor AOX1 (inducible por metanol). Realizaron optimización del codón de la secuencia génica para expresión en levadura, evaluaron diferentes señales de secreción para la exportación de la enzima al medio de cultivo, y optimizaron las condiciones de fermentación (concentración de metanol, temperatura, pH) para maximizar el título de enzima activa. La kestosa producida fue purificada y caracterizada cromatográficamente.\n\n## Contribuciones principales\n\n- Primer reporte de expresión heteróloga de la FTasa de *A. oryzae* N74 en *P. pastoris* con optimización de codones\n- Optimización del proceso de fermentación para maximizar producción de kestosa en biorreactor\n- Caracterización de la pureza y rendimiento de kestosa obtenida vs. métodos convencionales con la enzima nativa\n\n## Metodología\n\nSíntesis del gen de la FTasa con optimización de codones para *K. phaffii*. Transformación en *P. pastoris* GS115. Fermentación fed-batch en biorreactor de 1 L bajo inducción con metanol. Cuantificación de FOS por HPLC-RI. Caracterización enzimática (Km, Vmax, estabilidad térmica y de pH).\n\n## Hallazgos clave\n\n- La FTasa recombinante se expresa y secreta activamente en *P. pastoris*, con actividad de hasta 450 U/mL en condiciones óptimas de fermentación\n- La optimización de codones aumentó la expresión en >3 veces respecto al gen nativo sin modificar\n- La kestosa obtenida tiene pureza > 95% tras purificación por cromatografía de intercambio iónico\n- La actividad enzimática se mantiene estable entre pH 4.5–6.5 y 40–60°C, compatible con procesos industriales\n\n## Limitaciones\n\n- La producción en *P. pastoris* requiere metanol como inductor, lo que añade costos y riesgos de seguridad en escala industrial\n- La comparación económica con la producción enzimática usando hongos nativos no fue incluida en el estudio\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]"
+    },
+    {
+      "id": "notes/papers/2022-02-24_multiscale-productos-lacteos",
+      "kind": "paper",
+      "label": "Multiscale Approach to Dairy Products Design",
+      "authors": [
+        "Martha L. Díaz-Bustamante",
+        "Miguel Fernández-Niño",
+        "Luis H. Reyes",
+        "Oscar Alberto Alvarez Solano"
+      ],
+      "year": "2022",
+      "venue": "Frontiers in Chemical Engineering",
+      "url": "https://doi.org/10.3389/fceng.2022.830314",
+      "doi": "10.3389/fceng.2022.830314",
+      "keywords": [
+        "ingenieria-de-alimentos",
+        "ingenieria-quimica",
+        "simulacion-computacional"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-02-24_multiscale-productos-lacteos.md",
+      "pdf_local": "sources/pdfs/diaz-bustamante2022-multiscale-productos-lacteos.pdf",
+      "content": "## Resumen\n\nEsta mini-revisión propone y articula un enfoque multiescala para el diseño de productos lácteos, argumentando que la comprensión integrada de las propiedades moleculares, microscópicas y macroscópicas de la leche y sus derivados es fundamental para optimizar su formulación y procesamiento. Los productos lácteos son sistemas altamente complejos donde las interacciones entre proteínas (caseínas, whey), lípidos, carbohidratos y minerales a escala molecular determinan la microestructura (geles, emulsiones, espumas) que a su vez define las propiedades sensoriales y nutricionales finales del producto.\n\nEl artículo revisa las herramientas disponibles en cada escala: simulaciones de dinámica molecular y modelos de campo de fuerza para la escala molecular, microscopía confocal y reología para la microescala, y análisis de textura y ensayos sensoriales para la macroescala. Destaca que la mayoría de los enfoques actuales en la industria láctea operan en una sola escala y propone que la integración multiescala —guiada por modelos computacionales que conecten las tres escalas— es el camino hacia un diseño racional de productos lácteos con propiedades funcionales específicas.\n\n## Contribuciones principales\n\n- Marco conceptual multiescala para el diseño de productos lácteos integrando propiedades moleculares, microscópicas y macroscópicas\n- Revisión de las herramientas computacionales y experimentales disponibles en cada escala\n- Propuesta de flujo de trabajo integrado para el diseño racional de nuevos productos lácteos\n\n## Metodología\n\nMini-revisión de literatura. Síntesis de estudios en dinámicas molecular de proteínas lácteas, caracterización reológica y microscopía de emulsiones/geles, y análisis sensorial de productos finales.\n\n## Hallazgos clave\n\n- Las propiedades texturales de yogures y quesos están determinadas principalmente por la estructura de red de caseínas a escala nanométrica-micrométrica\n- Los modelos de dinámica molecular permiten predecir la desnaturalización de proteínas whey durante el tratamiento térmico, informando el diseño de procesos de pasteurización\n- Hay una brecha significativa entre los modelos moleculares disponibles y los modelos de proceso a escala industrial; conectarlos es el principal desafío del campo\n\n## Limitaciones\n\n- La complejidad computacional de los modelos multiescala limita su aplicabilidad en tiempo real para control de proceso industrial\n- Los datos experimentales necesarios para validar modelos multiescala en productos reales son escasos en la literatura abierta\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/simulacion-computacional]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]"
+    },
+    {
+      "id": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid",
+      "kind": "paper",
+      "label": "Iduronate-2-sulfatase interactome: validation by yeast two-hybrid assay",
+      "authors": [
+        "Eliana Benincore-Flórez",
+        "Jorge El-Azaz",
+        "Gabriela Alejandra Solarte",
+        "Alexander Rodríguez",
+        "Luis H. Reyes",
+        "Carlos Javier Alméciga-Díaz",
+        "Carolina Cardona-Ramírez"
+      ],
+      "year": "2022",
+      "venue": "Heliyon",
+      "url": "https://doi.org/10.1016/j.heliyon.2022.e09031",
+      "doi": "10.1016/j.heliyon.2022.e09031",
+      "keywords": [
+        "enfermedades-raras",
+        "proteinas-recombinantes",
+        "biologia-molecular",
+        "genomica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid.md",
+      "pdf_local": "sources/pdfs/benincore2022-ids-interactoma-yeast-two-hybrid.pdf",
+      "content": "## Resumen\n\nEl artículo mapea y valida el interactoma de la iduronatasa-2-sulfatasa (IDS), la enzima lisosomal deficiente en el síndrome de Hunter (mucopolisacaridosis tipo II, MPS II). El síndrome de Hunter es una enfermedad rara ligada al X causada por la acumulación de glucosaminoglucanos (GAGs) en lisosomas por deficiencia de IDS, resultando en daño multiorgánico progresivo. Comprender el interactoma de IDS —el conjunto de proteínas con las que interactúa— es fundamental para entender su procesamiento intracelular, su transporte al lisosoma y los mecanismos moleculares de la enfermedad.\n\nEl estudio utilizó el ensayo de doble híbrido en levadura (Y2H) para validar interacciones proteína-proteína entre IDS y proteínas identificadas previamente mediante análisis de co-inmunoprecipitación y espectrometría de masas. Las interacciones confirmadas incluyen proteínas del tráfico vesicular (LAMP1, LAMP2), chaperones del retículo endoplasmático (GRP78/BiP) y proteínas implicadas en la señalización de manosa-6-fosfato para targeting lisosomal. Estas interacciones arrojan luz sobre el procesamiento post-traduccional de IDS y sugieren dianas para mejorar la terapia de reemplazo enzimático (ERT).\n\n## Contribuciones principales\n\n- Primer mapa validado del interactoma de IDS en células de mamífero, usando Y2H como método de validación independiente\n- Identificación de nuevas interacciones entre IDS y proteínas del tráfico vesicular no reportadas previamente\n- Implicaciones para el diseño de variantes de IDS con mejor targeting lisosomal en ERT\n\n## Metodología\n\nConstrucción de librería Y2H de proteínas candidatas de interacción con IDS. Cribado en cepa de S. cerevisiae (PJ69-4A). Validación de interacciones positivas por co-transformación y ensayos de reporter lacZ. Bioinformática: análisis de redes de interacción con STRING y Cytoscape.\n\n## Hallazgos clave\n\n- Se validaron 12 interacciones proteína-proteína con IDS mediante Y2H, de las cuales 4 no habían sido reportadas previamente\n- Las interacciones con GRP78/BiP sugieren que el plegamiento correcto de IDS en el RE es un paso crítico y potencialmente modulable\n- Las interacciones con LAMP1/LAMP2 confirman el papel de estas proteínas en el tráfico vesicular de IDS hacia el lisosoma\n- Los datos del interactoma sugieren que variantes de IDS con afinidad mejorada por el receptor manosa-6-fosfato podrían aumentar la eficiencia de ERT\n\n## Limitaciones\n\n- El Y2H detecta interacciones binarias en el contexto de levadura; puede no reflejar interacciones dependientes de modificaciones post-traduccionales de células humanas\n- El estudio no incluye validación funcional de las interacciones identificadas en células de pacientes con MPS II\n\n## Notas relacionadas\n\n- [[concepts/enfermedades-raras]]\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/biologia-molecular]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]"
     },
     {
       "id": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
@@ -4412,6 +4763,56 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers",
+      "target": "concepts/terapia-genica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers",
+      "target": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion",
+      "target": "notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce",
       "target": "concepts/ingenieria-de-alimentos",
       "kind": "keyword"
@@ -4420,6 +4821,276 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce",
       "target": "concepts/comportamiento-del-consumidor",
       "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-09-01_genome-editing-parkinson",
+      "target": "concepts/terapia-genica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-09-01_genome-editing-parkinson",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-09-01_genome-editing-parkinson",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-09-01_genome-editing-parkinson",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-09-01_genome-editing-parkinson",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-09-01_genome-editing-parkinson",
+      "target": "notes/papers/2020-07-30_enfermedades-lisosomales-terapias-alternativas",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
+      "target": "concepts/microfluidica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
+      "target": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos",
+      "target": "concepts/microfluidica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos",
+      "target": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos",
+      "target": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis",
+      "target": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel",
+      "target": "notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-01-10_biobricks-genomica-sintetica",
+      "target": "concepts/biologia-sintetica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-01-10_biobricks-genomica-sintetica",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-01-10_biobricks-genomica-sintetica",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-01-10_biobricks-genomica-sintetica",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-01-10_biobricks-genomica-sintetica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-01-10_biobricks-genomica-sintetica",
+      "target": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
+      "target": "concepts/microfluidica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
+      "target": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
+      "target": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa",
+      "target": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-02-24_multiscale-productos-lacteos",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-24_multiscale-productos-lacteos",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-24_multiscale-productos-lacteos",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-24_multiscale-productos-lacteos",
+      "target": "notes/papers/2020-11-06_sal-queso-costeno-multiscale",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid",
+      "target": "concepts/enfermedades-raras",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid",
+      "target": "concepts/proteinas-recombinantes",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid",
+      "target": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid",
+      "target": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
+      "kind": "related"
     },
     {
       "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
