@@ -16,3 +16,4 @@ Fenómeno en que sistemas de IA generan información incorrecta o fabricada pres
 - [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]
 - [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]
 - [[notes/books/2024-04-02_co-intelligence-mollick]]
+- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]

@@ -14,3 +14,4 @@ Dimensiones normativas y de responsabilidad en la producción y aplicación del 
 - [[notes/books/2024-01-01_blind-spots-makary]]
 - [[notes/books/2020-04-04_how-innovation-works-ridley]]
 - [[notes/books/2017-04-04_pandoras-lab-offit]]
+- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]

@@ -10,3 +10,4 @@ Sistema de producción y distribución de conocimiento científico a través de 
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
+- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]
