@@ -5,7 +5,7 @@ window.__ACADEMIC_BRAIN__ = {
     "papers": 24,
     "articles": 5,
     "books": 24,
-    "concepts": 71
+    "concepts": 75
   },
   "nodes": [
     {
@@ -144,6 +144,38 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/biocombustibles.md",
       "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]",
       "degree": 2
+    },
+    {
+      "id": "concepts/biologia-molecular",
+      "kind": "concept",
+      "label": "biologia molecular",
+      "keyword": "biologia-molecular",
+      "aliases": [
+        "molecular biology",
+        "biología celular y molecular",
+        "gene expression",
+        "molecular mechanisms"
+      ],
+      "definition": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.",
+      "path": "concepts/biologia-molecular.md",
+      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]",
+      "degree": 2
+    },
+    {
+      "id": "concepts/bioquimica-computacional",
+      "kind": "concept",
+      "label": "bioquimica computacional",
+      "keyword": "bioquimica-computacional",
+      "aliases": [
+        "computational biochemistry",
+        "computational biology",
+        "bioquímica teórica",
+        "protein simulation"
+      ],
+      "definition": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.",
+      "path": "concepts/bioquimica-computacional.md",
+      "content": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]",
+      "degree": 1
     },
     {
       "id": "concepts/cadenas-de-suministro-globales",
@@ -317,6 +349,23 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/desigualdad-de-genero.md",
       "content": "Diferencias sistemáticas en oportunidades, resultados y poder entre hombres y mujeres; abarca brechas salariales, educativas, laborales y de representación, así como su intersección con raza y clase social.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]",
       "degree": 1
+    },
+    {
+      "id": "concepts/dinamica-de-poblaciones",
+      "kind": "concept",
+      "label": "dinamica de poblaciones",
+      "keyword": "dinamica-de-poblaciones",
+      "aliases": [
+        "population dynamics",
+        "population genetics",
+        "genética de poblaciones",
+        "clonal interference",
+        "estructura poblacional"
+      ],
+      "definition": "Estudio cuantitativo de cómo cambia con el tiempo el tamaño, la composición y la estructura de las poblaciones biológicas; incluye modelos de crecimiento, interferencia clonal, selección natural y deriva genética.",
+      "path": "concepts/dinamica-de-poblaciones.md",
+      "content": "Estudio cuantitativo de cómo cambia con el tiempo el tamaño, la composición y la estructura de las poblaciones biológicas; incluye modelos de crecimiento, interferencia clonal, selección natural y deriva genética.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]",
+      "degree": 3
     },
     {
       "id": "concepts/diseno-especulativo",
@@ -844,6 +893,23 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 4
     },
     {
+      "id": "concepts/nanociencia",
+      "kind": "concept",
+      "label": "nanociencia",
+      "keyword": "nanociencia",
+      "aliases": [
+        "nanotechnology",
+        "nanotecnología",
+        "molecular electronics",
+        "electrónica molecular",
+        "nanoescala"
+      ],
+      "definition": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.",
+      "path": "concepts/nanociencia.md",
+      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/pensamiento-critico-medico",
       "kind": "concept",
       "label": "pensamiento critico medico",
@@ -1143,12 +1209,14 @@ window.__ACADEMIC_BRAIN__ = {
       "keywords": [
         "quimica-computacional",
         "modelado-molecular",
+        "bioquimica-computacional",
+        "nanociencia",
         "ingenieria-quimica"
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2007-05-18_force-constants-alanine-polypeptides.md",
       "pdf_local": "sources/pdfs/reyes2007-force-constants-alanine.pdf",
-      "content": "## Resumen\n\nEste trabajo presenta un campo de fuerzas armónico de alta precisión para polipéptidos de alanina, derivado directamente del tensor Hessiano de cálculos de teoría del funcional de la densidad (DFT). Usando el funcional híbrido B3PW91/6-31G* en Gaussian-03 y el software FUERZA para extraer constantes de fuerza a partir de derivadas segundas cartesianas, los autores calcularon parámetros de enlace y ángulo para péptidos de alanina de distintos tamaños (heptámero, octámero y nonámero). El método no requiere ajuste empírico de parámetros: las constantes emergen directamente de la estructura electrónica calculada.\n\nLos resultados muestran desviaciones estándar pequeñas entre los valores de constantes de fuerza para polipéptidos de distinta longitud, confirmando la consistencia interna del campo. Al comparar con AMBER y el Manual CRC, se encuentra que AMBER subestima sistemáticamente las constantes, mientras que el CRC reporta valores generalmente superiores; todos coinciden en que el enlace C=O doble tiene la constante más alta. Este campo de fuerzas de primeros principios reproduce el espectro vibracional de los polipéptidos y sirve de base para simulaciones de dinámica molecular orientadas a la transferencia de información a escala nanométrica.\n\n## Contribuciones principales\n\n- Campo de fuerzas armónico para alanina derivado directamente del tensor Hessiano DFT sin procedimientos de ajuste empírico\n- Implementación mediante el programa FUERZA con el funcional B3PW91/6-31G*\n- Comparación sistemática con AMBER y CRC: AMBER subestima, CRC sobreestima las constantes de enlace\n- Parámetros consistentes across heptámero, octámero y nonámero de alanina\n\n## Metodología\n\nOptimización de geometría con B3PW91/6-31G* en Gaussian-03 → cálculo del tensor Hessiano → extracción de constantes de fuerza internas con FUERZA mediante eigenanálisis de matrices de interacción por pares atómicos. Las constantes de ángulo se obtienen de las matrices de interacción de los dos enlaces que forman el ángulo. Los valores finales son promedios sobre heptámero, octámero y nonámero.\n\n## Hallazgos clave\n\n- Desviaciones estándar pequeñas en constantes de fuerza entre polipéptidos de distinto tamaño\n- AMBER: constantes de enlace consistentemente inferiores a las DFT (hasta ~50% menor para C=O)\n- El enlace C=O doble tiene la constante de fuerza más alta en todos los campos comparados\n- El campo generado reproduce el espectro vibracional requerido para simulaciones de dinámica molecular\n\n## Limitaciones\n\n- Resultados limitados a polipéptidos de alanina; la transferibilidad a otras secuencias requiere validación\n- Base 6-31G* es moderada; bases mayores podrían refinar los valores\n- No incluye validación experimental directa de las constantes de fuerza\n\n## Notas relacionadas\n\n- [[concepts/quimica-computacional]]\n- [[concepts/modelado-molecular]]\n- [[concepts/ingenieria-quimica]]"
+      "content": "## Resumen\n\nEste trabajo presenta un campo de fuerzas armónico de alta precisión para polipéptidos de alanina, derivado directamente del tensor Hessiano de cálculos de teoría del funcional de la densidad (DFT). Usando el funcional híbrido B3PW91/6-31G* en Gaussian-03 y el software FUERZA para extraer constantes de fuerza a partir de derivadas segundas cartesianas, los autores calcularon parámetros de enlace y ángulo para péptidos de alanina de distintos tamaños (heptámero, octámero y nonámero). El método no requiere ajuste empírico de parámetros: las constantes emergen directamente de la estructura electrónica calculada.\n\nLos resultados muestran desviaciones estándar pequeñas entre los valores de constantes de fuerza para polipéptidos de distinta longitud, confirmando la consistencia interna del campo. Al comparar con AMBER y el Manual CRC, se encuentra que AMBER subestima sistemáticamente las constantes, mientras que el CRC reporta valores generalmente superiores; todos coinciden en que el enlace C=O doble tiene la constante más alta. Este campo de fuerzas de primeros principios reproduce el espectro vibracional de los polipéptidos y sirve de base para simulaciones de dinámica molecular orientadas a la transferencia de información a escala nanométrica.\n\n## Contribuciones principales\n\n- Campo de fuerzas armónico para alanina derivado directamente del tensor Hessiano DFT sin procedimientos de ajuste empírico\n- Implementación mediante el programa FUERZA con el funcional B3PW91/6-31G*\n- Comparación sistemática con AMBER y CRC: AMBER subestima, CRC sobreestima las constantes de enlace\n- Parámetros consistentes across heptámero, octámero y nonámero de alanina\n\n## Metodología\n\nOptimización de geometría con B3PW91/6-31G* en Gaussian-03 → cálculo del tensor Hessiano → extracción de constantes de fuerza internas con FUERZA mediante eigenanálisis de matrices de interacción por pares atómicos. Las constantes de ángulo se obtienen de las matrices de interacción de los dos enlaces que forman el ángulo. Los valores finales son promedios sobre heptámero, octámero y nonámero.\n\n## Hallazgos clave\n\n- Desviaciones estándar pequeñas en constantes de fuerza entre polipéptidos de distinto tamaño\n- AMBER: constantes de enlace consistentemente inferiores a las DFT (hasta ~50% menor para C=O)\n- El enlace C=O doble tiene la constante de fuerza más alta en todos los campos comparados\n- El campo generado reproduce el espectro vibracional requerido para simulaciones de dinámica molecular\n\n## Limitaciones\n\n- Resultados limitados a polipéptidos de alanina; la transferibilidad a otras secuencias requiere validación\n- Base 6-31G* es moderada; bases mayores podrían refinar los valores\n- No incluye validación experimental directa de las constantes de fuerza\n\n## Notas relacionadas\n\n- [[concepts/quimica-computacional]]\n- [[concepts/modelado-molecular]]\n- [[concepts/bioquimica-computacional]]\n- [[concepts/nanociencia]]\n- [[concepts/ingenieria-quimica]]"
     },
     {
       "id": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
@@ -1167,12 +1235,13 @@ window.__ACADEMIC_BRAIN__ = {
         "ingenieria-metabolica",
         "biocombustibles",
         "genomica",
+        "biologia-molecular",
         "ingenieria-quimica"
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli.md",
       "pdf_local": "sources/pdfs/reyes2011-genomic-screens-nbutanol.pdf",
-      "content": "## Resumen\n\nEl n-butanol es un biocombustible prometedor con propiedades fisicoquímicas similares a la gasolina, pero la mayoría de los microorganismos solo toleran concentraciones de hasta 2% (v/v), lo que limita su viabilidad económica. Este estudio buscó identificar los genes de E. coli implicados en la tolerancia al n-butanol mediante una estrategia de enriquecimiento de librería genómica. Se identificaron aproximadamente 270 genes enriquecidos o agotados bajo estrés de n-butanol; de estos, se validaron experimentalmente 14 genes mediante estudios de sobreexpresión y deleción.\n\nLos genes con mayor efecto positivo sobre la tolerancia fueron entC y feoA (transporte y metabolismo de hierro), que aumentaron la tolerancia en 32.8% y 49.1% respectivamente al sobreexpresarse. La deleción del gen astE incrementó la resistencia en 48.7%. Los resultados sugieren que una mayor capacidad de transporte de hierro y una reducida resistencia ácida mejoran la tolerancia al n-butanol, posiblemente mediante modificaciones en la membrana externa. El trabajo amplía el conocimiento disponible sobre el paisaje adaptativo del fenotipo de tolerancia en E. coli.\n\n## Contribuciones principales\n\n- Estrategia de enriquecimiento de librería genómica para identificar determinantes genéticos de tolerancia a n-butanol\n- Identificación y validación experimental de 14 genes que reducen el efecto inhibitorio del n-butanol\n- Hallazgo de que genes de transporte de hierro (entC, feoA) confieren las mayores ganancias de tolerancia\n- Evidencia de que la resistencia ácida reducida puede contribuir a la tolerancia al solvente\n\n## Metodología\n\nLibrería genómica de E. coli en plásmido de alta copia → enriquecimiento bajo estrés de n-butanol → secuenciación para identificar genes enriquecidos y agotados → validación mediante: (a) sobreexpresión de 55 genes enriquecidos en cepa silvestre, (b) deleción de 84 genes agotados. Evaluación cuantitativa de tolerancia comparada con cepa control.\n\n## Hallazgos clave\n\n- ~270 genes identificados por enriquecimiento; 14 validados experimentalmente\n- entC: +32.8% tolerancia (sobreexpresión)\n- feoA: +49.1% tolerancia (sobreexpresión)\n- astE: +48.7% tolerancia (deleción)\n- Los genes de hierro sugieren modificación de la membrana externa como mecanismo de tolerancia\n\n## Limitaciones\n\n- Los mecanismos moleculares exactos de la mayoría de genes validados no fueron completamente elucidados\n- La transferibilidad de los resultados a otros hosts de producción de biocombustibles requiere validación\n- El método de librería puede no capturar determinantes genéticos que requieren múltiples genes en combinación\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-quimica]]"
+      "content": "## Resumen\n\nEl n-butanol es un biocombustible prometedor con propiedades fisicoquímicas similares a la gasolina, pero la mayoría de los microorganismos solo toleran concentraciones de hasta 2% (v/v), lo que limita su viabilidad económica. Este estudio buscó identificar los genes de E. coli implicados en la tolerancia al n-butanol mediante una estrategia de enriquecimiento de librería genómica. Se identificaron aproximadamente 270 genes enriquecidos o agotados bajo estrés de n-butanol; de estos, se validaron experimentalmente 14 genes mediante estudios de sobreexpresión y deleción.\n\nLos genes con mayor efecto positivo sobre la tolerancia fueron entC y feoA (transporte y metabolismo de hierro), que aumentaron la tolerancia en 32.8% y 49.1% respectivamente al sobreexpresarse. La deleción del gen astE incrementó la resistencia en 48.7%. Los resultados sugieren que una mayor capacidad de transporte de hierro y una reducida resistencia ácida mejoran la tolerancia al n-butanol, posiblemente mediante modificaciones en la membrana externa. El trabajo amplía el conocimiento disponible sobre el paisaje adaptativo del fenotipo de tolerancia en E. coli.\n\n## Contribuciones principales\n\n- Estrategia de enriquecimiento de librería genómica para identificar determinantes genéticos de tolerancia a n-butanol\n- Identificación y validación experimental de 14 genes que reducen el efecto inhibitorio del n-butanol\n- Hallazgo de que genes de transporte de hierro (entC, feoA) confieren las mayores ganancias de tolerancia\n- Evidencia de que la resistencia ácida reducida puede contribuir a la tolerancia al solvente\n\n## Metodología\n\nLibrería genómica de E. coli en plásmido de alta copia → enriquecimiento bajo estrés de n-butanol → secuenciación para identificar genes enriquecidos y agotados → validación mediante: (a) sobreexpresión de 55 genes enriquecidos en cepa silvestre, (b) deleción de 84 genes agotados. Evaluación cuantitativa de tolerancia comparada con cepa control.\n\n## Hallazgos clave\n\n- ~270 genes identificados por enriquecimiento; 14 validados experimentalmente\n- entC: +32.8% tolerancia (sobreexpresión)\n- feoA: +49.1% tolerancia (sobreexpresión)\n- astE: +48.7% tolerancia (deleción)\n- Los genes de hierro sugieren modificación de la membrana externa como mecanismo de tolerancia\n\n## Limitaciones\n\n- Los mecanismos moleculares exactos de la mayoría de genes validados no fueron completamente elucidados\n- La transferibilidad de los resultados a otros hosts de producción de biocombustibles requiere validación\n- El método de librería puede no capturar determinantes genéticos que requieren múltiples genes en combinación\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/genomica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-quimica]]"
     },
     {
       "id": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
@@ -1194,12 +1263,14 @@ window.__ACADEMIC_BRAIN__ = {
         "ingenieria-metabolica",
         "biocombustibles",
         "genomica",
+        "biologia-molecular",
+        "dinamica-de-poblaciones",
         "ingenieria-quimica"
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol.md",
       "pdf_local": "sources/pdfs/reyes2012-vert-nbutanol-mechanisms.pdf",
-      "content": "## Resumen\n\nEste trabajo aplica el método VERT (Visualizing Evolution in Real-Time) para mapear el paisaje adaptativo de la tolerancia al n-butanol en E. coli y dilucidar los mecanismos moleculares subyacentes. A diferencia de enfoques clásicos, VERT permite visualizar en tiempo real los eventos adaptativos —expansiones de mutantes beneficiosos— mediante el seguimiento de la proporción relativa de subpoblaciones marcadas con diferentes proteínas fluorescentes. Esto redujo significativamente la pérdida de mutantes adaptativos por interferencia clonal, fenómeno que el trabajo demuestra juega un papel importante en la estructura poblacional de E. coli bajo estrés de n-butanol.\n\nEl análisis de transcriptoma de los mutantes adaptativos aislados reveló que distintos linajes evolucionaron mecanismos de tolerancia diferentes: en una subpoblación, los genes del regulón Fur (metabolismo de hierro) estaban sobre-regulados, lo que no ocurrió en la otra. La secuenciación genómica identificó las mutaciones responsables de estos perfiles transcriptómicos. Estudios de sobreexpresión y deleción del gen de hierro permitieron hipotetizar que su regulación al alza conduce indirectamente a modificaciones en la membrana externa, contribuyendo a la tolerancia. El trabajo también combinó evolución adaptativa con genome shuffling para amplificar aún más la tolerancia al n-butanol.\n\n## Contribuciones principales\n\n- Aplicación de VERT para identificar eventos adaptativos y aislar mutantes con mayor tolerancia a n-butanol\n- Demostración de que la interferencia clonal juega un rol significativo en la evolución de E. coli bajo estrés de n-butanol\n- Identificación de dos mecanismos distintos de tolerancia en diferentes linajes evolucionados\n- Hipótesis de que la sobre-regulación de genes del regulón Fur modifica la membrana externa para conferir tolerancia\n- Combinación de VERT con genome shuffling para amplificar el fenotipo deseado\n\n## Metodología\n\nVERT con dos subpoblaciones de E. coli marcadas con GFP e YFP → seguimiento por citometría de flujo → aislamiento sistemático de mutantes adaptativos → análisis de transcriptoma (microarreglos) → secuenciación genómica → validación funcional mediante sobreexpresión y deleción de genes candidatos. Genome shuffling entre mutantes adaptativos para amplificar tolerancia.\n\n## Hallazgos clave\n\n- VERT facilitó el aislamiento de mutantes que habrían sido perdidos por interferencia clonal en evolución clásica\n- Un linaje sobre-regula genes del regulón Fur; el otro no, revelando heterogeneidad de mecanismos\n- La sobre-regulación de genes de hierro se asocia con modificaciones de la membrana externa\n- Genome shuffling + VERT: tolerancia significativamente superior a la obtenida con evolución sola\n- Validación experimental de la importancia del hierro en la tolerancia (consistente con Reyes et al., 2011)\n\n## Limitaciones\n\n- El mecanismo exacto por el que los genes de hierro modifican la membrana externa no fue completamente elucidado\n- El número de linajes analizados es pequeño; la variabilidad entre replicados evolutivos puede ser alta\n- Los resultados son específicos para E. coli en las condiciones experimentales del estudio\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]"
+      "content": "## Resumen\n\nEste trabajo aplica el método VERT (Visualizing Evolution in Real-Time) para mapear el paisaje adaptativo de la tolerancia al n-butanol en E. coli y dilucidar los mecanismos moleculares subyacentes. A diferencia de enfoques clásicos, VERT permite visualizar en tiempo real los eventos adaptativos —expansiones de mutantes beneficiosos— mediante el seguimiento de la proporción relativa de subpoblaciones marcadas con diferentes proteínas fluorescentes. Esto redujo significativamente la pérdida de mutantes adaptativos por interferencia clonal, fenómeno que el trabajo demuestra juega un papel importante en la estructura poblacional de E. coli bajo estrés de n-butanol.\n\nEl análisis de transcriptoma de los mutantes adaptativos aislados reveló que distintos linajes evolucionaron mecanismos de tolerancia diferentes: en una subpoblación, los genes del regulón Fur (metabolismo de hierro) estaban sobre-regulados, lo que no ocurrió en la otra. La secuenciación genómica identificó las mutaciones responsables de estos perfiles transcriptómicos. Estudios de sobreexpresión y deleción del gen de hierro permitieron hipotetizar que su regulación al alza conduce indirectamente a modificaciones en la membrana externa, contribuyendo a la tolerancia. El trabajo también combinó evolución adaptativa con genome shuffling para amplificar aún más la tolerancia al n-butanol.\n\n## Contribuciones principales\n\n- Aplicación de VERT para identificar eventos adaptativos y aislar mutantes con mayor tolerancia a n-butanol\n- Demostración de que la interferencia clonal juega un rol significativo en la evolución de E. coli bajo estrés de n-butanol\n- Identificación de dos mecanismos distintos de tolerancia en diferentes linajes evolucionados\n- Hipótesis de que la sobre-regulación de genes del regulón Fur modifica la membrana externa para conferir tolerancia\n- Combinación de VERT con genome shuffling para amplificar el fenotipo deseado\n\n## Metodología\n\nVERT con dos subpoblaciones de E. coli marcadas con GFP e YFP → seguimiento por citometría de flujo → aislamiento sistemático de mutantes adaptativos → análisis de transcriptoma (microarreglos) → secuenciación genómica → validación funcional mediante sobreexpresión y deleción de genes candidatos. Genome shuffling entre mutantes adaptativos para amplificar tolerancia.\n\n## Hallazgos clave\n\n- VERT facilitó el aislamiento de mutantes que habrían sido perdidos por interferencia clonal en evolución clásica\n- Un linaje sobre-regula genes del regulón Fur; el otro no, revelando heterogeneidad de mecanismos\n- La sobre-regulación de genes de hierro se asocia con modificaciones de la membrana externa\n- Genome shuffling + VERT: tolerancia significativamente superior a la obtenida con evolución sola\n- Validación experimental de la importancia del hierro en la tolerancia (consistente con Reyes et al., 2011)\n\n## Limitaciones\n\n- El mecanismo exacto por el que los genes de hierro modifican la membrana externa no fue completamente elucidado\n- El número de linajes analizados es pequeño; la variabilidad entre replicados evolutivos puede ser alta\n- Los resultados son específicos para E. coli en las condiciones experimentales del estudio\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/genomica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/dinamica-de-poblaciones]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]"
     },
     {
       "id": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas",
@@ -1217,12 +1288,13 @@ window.__ACADEMIC_BRAIN__ = {
       "keywords": [
         "evolucion-de-laboratorio",
         "ingenieria-metabolica",
+        "dinamica-de-poblaciones",
         "ingenieria-quimica"
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas.md",
       "pdf_local": "sources/pdfs/reyes2012-vert-strain-engineering-review.pdf",
-      "content": "## Resumen\n\nEsta mini-revisión describe el método VERT (Visualizing Evolution in Real-Time), una técnica de evolución adaptativa in vitro diseñada para facilitar la identificación sistemática de mutantes con mayor aptitud en el curso de la evolución. El artículo contextualiza las limitaciones de los enfoques clásicos de ingeniería evolutiva —donde los mutantes se aíslan al azar en tiempos arbitrarios— y explica cómo la interferencia clonal puede llevar a la pérdida de mutantes beneficiosos que compiten en la población.\n\nVERT aborda este problema marcando distintas subpoblaciones con proteínas fluorescentes (GFP, YFP, RFP) y monitoreando su proporción relativa mediante citometría de flujo. Las expansiones adaptativas —momentos en que un mutante beneficioso domina la población— son visibles como cambios en la proporción de colores, lo que permite aislar mutantes de forma oportuna y sistemática. Integrado con herramientas genómicas de alto rendimiento (resecuenciación, transcriptómica, proteómica), VERT facilita el mapeo del paisaje adaptativo de fenotipos complejos relevantes industrialmente.\n\n## Contribuciones principales\n\n- Revisión conceptual del paisaje adaptativo y su importancia para la ingeniería de cepas\n- Descripción del método VERT: marcaje fluorescente + citometría de flujo para visualizar eventos adaptativos en tiempo real\n- Análisis de la interferencia clonal como limitante clave en evolución adaptativa clásica\n- Integración de VERT con herramientas genómicas para mapeo del paisaje adaptativo\n\n## Metodología\n\nRevisión de literatura sobre estructura poblacional en evolución asexual, teorías de interferencia clonal (modelo de barrido periódico y modelo de interferencia múltiple) y aplicaciones de VERT en sistemas microbianos con presión selectiva acoplada al crecimiento.\n\n## Hallazgos clave\n\n- La interferencia clonal puede llevar a la pérdida de mutantes beneficiosos en experimentos de evolución adaptativa\n- VERT permite detectar eventos adaptativos como cambios en proporciones de subpoblaciones fluorescentes\n- El paisaje adaptativo puede ser rugged (múltiples óptimos locales) o plano (un solo óptimo), lo cual afecta la estrategia evolutiva\n- La combinación de VERT con herramientas ómicas expande el conocimiento sobre mecanismos de fenotipos complejos\n\n## Limitaciones\n\n- El método requiere que el fenotipo de interés pueda acoplarse al crecimiento\n- La detección de eventos adaptativos depende de la resolución del equipo de citometría de flujo\n- Artículo de revisión: no reporta experimentos propios\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/ingenieria-quimica]]"
+      "content": "## Resumen\n\nEsta mini-revisión describe el método VERT (Visualizing Evolution in Real-Time), una técnica de evolución adaptativa in vitro diseñada para facilitar la identificación sistemática de mutantes con mayor aptitud en el curso de la evolución. El artículo contextualiza las limitaciones de los enfoques clásicos de ingeniería evolutiva —donde los mutantes se aíslan al azar en tiempos arbitrarios— y explica cómo la interferencia clonal puede llevar a la pérdida de mutantes beneficiosos que compiten en la población.\n\nVERT aborda este problema marcando distintas subpoblaciones con proteínas fluorescentes (GFP, YFP, RFP) y monitoreando su proporción relativa mediante citometría de flujo. Las expansiones adaptativas —momentos en que un mutante beneficioso domina la población— son visibles como cambios en la proporción de colores, lo que permite aislar mutantes de forma oportuna y sistemática. Integrado con herramientas genómicas de alto rendimiento (resecuenciación, transcriptómica, proteómica), VERT facilita el mapeo del paisaje adaptativo de fenotipos complejos relevantes industrialmente.\n\n## Contribuciones principales\n\n- Revisión conceptual del paisaje adaptativo y su importancia para la ingeniería de cepas\n- Descripción del método VERT: marcaje fluorescente + citometría de flujo para visualizar eventos adaptativos en tiempo real\n- Análisis de la interferencia clonal como limitante clave en evolución adaptativa clásica\n- Integración de VERT con herramientas genómicas para mapeo del paisaje adaptativo\n\n## Metodología\n\nRevisión de literatura sobre estructura poblacional en evolución asexual, teorías de interferencia clonal (modelo de barrido periódico y modelo de interferencia múltiple) y aplicaciones de VERT en sistemas microbianos con presión selectiva acoplada al crecimiento.\n\n## Hallazgos clave\n\n- La interferencia clonal puede llevar a la pérdida de mutantes beneficiosos en experimentos de evolución adaptativa\n- VERT permite detectar eventos adaptativos como cambios en proporciones de subpoblaciones fluorescentes\n- El paisaje adaptativo puede ser rugged (múltiples óptimos locales) o plano (un solo óptimo), lo cual afecta la estrategia evolutiva\n- La combinación de VERT con herramientas ómicas expande el conocimiento sobre mecanismos de fenotipos complejos\n\n## Limitaciones\n\n- El método requiere que el fenotipo de interés pueda acoplarse al crecimiento\n- La detección de eventos adaptativos depende de la resolución del equipo de citometría de flujo\n- Artículo de revisión: no reporta experimentos propios\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/dinamica-de-poblaciones]]\n- [[concepts/ingenieria-quimica]]"
     },
     {
       "id": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
@@ -1240,12 +1312,13 @@ window.__ACADEMIC_BRAIN__ = {
       "keywords": [
         "evolucion-de-laboratorio",
         "ingenieria-metabolica",
+        "dinamica-de-poblaciones",
         "ingenieria-quimica"
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos.md",
       "pdf_local": "sources/pdfs/winkler2013-adaptive-lab-evolution.pdf",
-      "content": "## Resumen\n\nEste capítulo de métodos presenta protocolos detallados para tres modalidades de evolución adaptativa de laboratorio: transferencia serial en lote (batch), reactores continuos (quimiostatos) y el método VERT (Visualizing Evolution in Real-Time). Los protocolos están diseñados principalmente para E. coli y levaduras con limitación de nutrientes o presencia de inhibidores como presión selectiva, pero son adaptables a otros microorganismos y cualquier rasgo acoplable al crecimiento.\n\nEl capítulo discute las ventajas y limitaciones de cada modalidad: el batch es simple pero susceptible a deriva genética por los cuellos de botella poblacionales en cada transferencia; los sistemas continuos evitan este problema pero requieren mayor inversión en equipos; VERT añade marcaje fluorescente para visualizar la dinámica evolutiva en tiempo real. Se describen los factores que afectan los resultados —tamaño poblacional, tasa de mutación, fuerza de la presión selectiva y duración del experimento— y los equipos necesarios incluyendo citómetro de flujo para VERT.\n\n## Contribuciones principales\n\n- Protocolos detallados para tres modalidades de ALE: batch, continuo y VERT\n- Análisis comparativo de ventajas y limitaciones de cada modalidad\n- Discusión de factores que afectan los resultados evolutivos (tamaño poblacional, tasa de mutación, duración)\n- Guía práctica para el diseño de experimentos previo a su ejecución\n\n## Metodología\n\nCapítulo de métodos; incluye: listas de materiales (biológicos, químicos y de equipo), procedimientos paso a paso para cada modalidad de evolución, criterios de toma de decisiones y consideraciones para análisis downstream de los mutantes aislados.\n\n## Hallazgos clave\n\n- Batch: ventaja en simplicidad; desventaja en deriva genética por cuellos de botella\n- Continuo: elimina los cuellos de botella pero requiere biorreactores y mayor infraestructura\n- VERT: permite observar la dinámica evolutiva y reduce la pérdida de mutantes por interferencia clonal\n- La mutagénesis aleatoria puede acelerar la evolución aumentando la diversidad genética inicial\n\n## Limitaciones\n\n- Los protocolos asumen que el fenotipo de interés puede acoplarse al crecimiento\n- Capítulo de métodos: no reporta experimentos nuevos, sino sistematiza conocimiento previo del laboratorio\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]"
+      "content": "## Resumen\n\nEste capítulo de métodos presenta protocolos detallados para tres modalidades de evolución adaptativa de laboratorio: transferencia serial en lote (batch), reactores continuos (quimiostatos) y el método VERT (Visualizing Evolution in Real-Time). Los protocolos están diseñados principalmente para E. coli y levaduras con limitación de nutrientes o presencia de inhibidores como presión selectiva, pero son adaptables a otros microorganismos y cualquier rasgo acoplable al crecimiento.\n\nEl capítulo discute las ventajas y limitaciones de cada modalidad: el batch es simple pero susceptible a deriva genética por los cuellos de botella poblacionales en cada transferencia; los sistemas continuos evitan este problema pero requieren mayor inversión en equipos; VERT añade marcaje fluorescente para visualizar la dinámica evolutiva en tiempo real. Se describen los factores que afectan los resultados —tamaño poblacional, tasa de mutación, fuerza de la presión selectiva y duración del experimento— y los equipos necesarios incluyendo citómetro de flujo para VERT.\n\n## Contribuciones principales\n\n- Protocolos detallados para tres modalidades de ALE: batch, continuo y VERT\n- Análisis comparativo de ventajas y limitaciones de cada modalidad\n- Discusión de factores que afectan los resultados evolutivos (tamaño poblacional, tasa de mutación, duración)\n- Guía práctica para el diseño de experimentos previo a su ejecución\n\n## Metodología\n\nCapítulo de métodos; incluye: listas de materiales (biológicos, químicos y de equipo), procedimientos paso a paso para cada modalidad de evolución, criterios de toma de decisiones y consideraciones para análisis downstream de los mutantes aislados.\n\n## Hallazgos clave\n\n- Batch: ventaja en simplicidad; desventaja en deriva genética por cuellos de botella\n- Continuo: elimina los cuellos de botella pero requiere biorreactores y mayor infraestructura\n- VERT: permite observar la dinámica evolutiva y reduce la pérdida de mutantes por interferencia clonal\n- La mutagénesis aleatoria puede acelerar la evolución aumentando la diversidad genética inicial\n\n## Limitaciones\n\n- Los protocolos asumen que el fenotipo de interés puede acoplarse al crecimiento\n- Capítulo de métodos: no reporta experimentos nuevos, sino sistematiza conocimiento previo del laboratorio\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/dinamica-de-poblaciones]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]"
     },
     {
       "id": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
@@ -2565,6 +2638,16 @@ window.__ACADEMIC_BRAIN__ = {
     },
     {
       "source": "notes/papers/2007-05-18_force-constants-alanine-polypeptides",
+      "target": "concepts/bioquimica-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2007-05-18_force-constants-alanine-polypeptides",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2007-05-18_force-constants-alanine-polypeptides",
       "target": "concepts/ingenieria-quimica",
       "kind": "keyword"
     },
@@ -2581,6 +2664,11 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
       "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
+      "target": "concepts/biologia-molecular",
       "kind": "keyword"
     },
     {
@@ -2606,6 +2694,16 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
       "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "target": "concepts/dinamica-de-poblaciones",
       "kind": "keyword"
     },
     {
@@ -2630,6 +2728,11 @@ window.__ACADEMIC_BRAIN__ = {
     },
     {
       "source": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas",
+      "target": "concepts/dinamica-de-poblaciones",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas",
       "target": "concepts/ingenieria-quimica",
       "kind": "keyword"
     },
@@ -2641,6 +2744,11 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
       "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
+      "target": "concepts/dinamica-de-poblaciones",
       "kind": "keyword"
     },
     {

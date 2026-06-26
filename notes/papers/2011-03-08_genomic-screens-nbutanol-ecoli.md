@@ -7,7 +7,7 @@ url: https://doi.org/10.1371/journal.pone.0017678
 doi: 10.1371/journal.pone.0017678
 pdf_local: sources/pdfs/reyes2011-genomic-screens-nbutanol.pdf
 type: paper
-keywords: [ingenieria-metabolica, biocombustibles, genomica, ingenieria-quimica]
+keywords: [ingenieria-metabolica, biocombustibles, genomica, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26
 ---
 
@@ -49,4 +49,5 @@ Librería genómica de E. coli en plásmido de alta copia → enriquecimiento ba
 - [[concepts/ingenieria-metabolica]]
 - [[concepts/biocombustibles]]
 - [[concepts/genomica]]
+- [[concepts/biologia-molecular]]
 - [[concepts/ingenieria-quimica]]

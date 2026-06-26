@@ -7,7 +7,7 @@ url: https://doi.org/10.3389/fmicb.2012.00198
 doi: 10.3389/fmicb.2012.00198
 pdf_local: sources/pdfs/reyes2012-vert-strain-engineering-review.pdf
 type: paper
-keywords: [evolucion-de-laboratorio, ingenieria-metabolica, ingenieria-quimica]
+keywords: [evolucion-de-laboratorio, ingenieria-metabolica, dinamica-de-poblaciones, ingenieria-quimica]
 date_added: 2026-06-26
 ---
 
@@ -47,4 +47,5 @@ Revisión de literatura sobre estructura poblacional en evolución asexual, teor
 
 - [[concepts/evolucion-de-laboratorio]]
 - [[concepts/ingenieria-metabolica]]
+- [[concepts/dinamica-de-poblaciones]]
 - [[concepts/ingenieria-quimica]]

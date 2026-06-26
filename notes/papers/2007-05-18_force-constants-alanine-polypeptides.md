@@ -7,7 +7,7 @@ url: https://doi.org/10.1016/j.theochem.2007.05.015
 doi: 10.1016/j.theochem.2007.05.015
 pdf_local: sources/pdfs/reyes2007-force-constants-alanine.pdf
 type: paper
-keywords: [quimica-computacional, modelado-molecular, ingenieria-quimica]
+keywords: [quimica-computacional, modelado-molecular, bioquimica-computacional, nanociencia, ingenieria-quimica]
 date_added: 2026-06-26
 ---
 
@@ -47,4 +47,6 @@ Optimización de geometría con B3PW91/6-31G* en Gaussian-03 → cálculo del te
 
 - [[concepts/quimica-computacional]]
 - [[concepts/modelado-molecular]]
+- [[concepts/bioquimica-computacional]]
+- [[concepts/nanociencia]]
 - [[concepts/ingenieria-quimica]]

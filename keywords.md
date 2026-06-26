@@ -31,7 +31,11 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **bienestar-academico**
 
-**biocombustibles** — Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación. _Aliases: biofuels, biobutanol, n-butanol, bioethanol, combustibles renovables_ — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
+**biocombustibles** — Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación. _Aliases: biofuels, biobutanol, n-butanol, bioethanol, combustibles renovables_
+
+**biologia-molecular** — Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes. _Aliases: molecular biology, biología celular y molecular, gene expression, molecular mechanisms_
+
+**bioquimica-computacional** — Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora. _Aliases: computational biochemistry, computational biology, bioquímica teórica, protein simulation_ — Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación. _Aliases: biofuels, biobutanol, n-butanol, bioethanol, combustibles renovables_ — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
 
 ## C
 
@@ -51,7 +55,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## D
 
-**desigualdad-de-genero** — Diferencias sistemáticas en oportunidades, resultados y poder entre hombres y mujeres; abarca brechas salariales, educativas, laborales y de representación, así como su intersección con raza y clase social. _Aliases: gender inequality, gender gap, brecha de género, sexismo estructural_
+**desigualdad-de-genero**
+
+**dinamica-de-poblaciones** — Estudio cuantitativo de cómo cambia con el tiempo el tamaño, la composición y la estructura de las poblaciones biológicas; incluye modelos de crecimiento, interferencia clonal, selección natural y deriva genética. _Aliases: population dynamics, population genetics, genética de poblaciones, clonal interference, estructura poblacional_ — Diferencias sistemáticas en oportunidades, resultados y poder entre hombres y mujeres; abarca brechas salariales, educativas, laborales y de representación, así como su intersección con raza y clase social. _Aliases: gender inequality, gender gap, brecha de género, sexismo estructural_
 
 **desarrollo-del-caracter** — Proceso de formación y fortalecimiento de virtudes y disposiciones conductuales como la proactividad, la tolerancia a la incomodidad, la disciplina y la resiliencia; se distingue de las habilidades cognitivas y técnicas y puede cultivarse a lo largo de la vida adulta. _Aliases: character development, habilidades de carácter, character skills, virtudes_
 
@@ -144,6 +150,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **modernizacion** — Procesos de transformación social, económica e institucional guiados por ideales de progreso técnico y racionalidad científica; históricamente asociados a industrialización y construcción de Estado-nación. _Aliases: modernidad, alto modernismo_
 
 ## N
+
+**nanociencia** — Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala. _Aliases: nanotechnology, nanotecnología, molecular electronics, electrónica molecular, nanoescala_
 
 ## O
 
