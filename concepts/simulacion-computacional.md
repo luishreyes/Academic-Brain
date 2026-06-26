@@ -16,3 +16,4 @@ Uso de modelos matemáticos y computacionales para reproducir el comportamiento 
 - [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]
 - [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]
 - [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
+- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]

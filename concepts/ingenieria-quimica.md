@@ -77,3 +77,4 @@ Disciplina que aplica principios de química, física y matemáticas para diseñ
 - [[notes/papers/2025-01-01_amp-downstream-processing]]
 - [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]
 - [[notes/papers/2025-04-03_gases-malolientes-aguas]]
+- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]

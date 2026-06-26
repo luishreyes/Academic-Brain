@@ -32,3 +32,6 @@ Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–
 - [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]
 - [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]
 - [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]
+- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]
+- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]
+- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]
