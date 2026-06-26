@@ -16,3 +16,6 @@ Disciplina que aplica principios de química, ingeniería y ciencias de material
 - [[notes/papers/2022-02-24_multiscale-productos-lacteos]]
 - [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]
 - [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]
+- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]
+- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]
+- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]

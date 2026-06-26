@@ -391,7 +391,7 @@ const CATEGORY_MAP = {
                'biomateriales','bioquimica-computacional','desarrollo-de-farmacos','dinamica-de-poblaciones',
                'economia-circular','enfermedades-raras','evolucion-de-laboratorio','genomica',
                'ingenieria-de-alimentos','ingenieria-metabolica','ingenieria-quimica','metabolitos-secundarios',
-               'microfluidica','modelado-molecular','nanociencia','petroleo-y-gas','proteinas-recombinantes',
+               'biosurfactantes','microfluidica','modelado-molecular','nanociencia','petroleo-y-gas','proteinas-recombinantes',
                'quimica-computacional','simulacion-computacional','terapia-genica']),
   soc: new Set(['cadenas-de-suministro-globales','ciencia-y-sociedad','comercio-y-prosperidad',
                'cultura-organizacional','desigualdad-de-genero','economia-de-la-innovacion',
@@ -442,11 +442,12 @@ function nodeInActiveCategories(n) {
 let navHistory = [];
 let searchTerm = "";
 
-// posiciones iniciales en círculo
+// posiciones iniciales en círculo — radio escala con √n para evitar explosión
 nodes.forEach((n, i) => {
   const a = (i / nodes.length) * Math.PI * 2;
-  n.x = W / 2 + Math.cos(a) * 220 + (i % 7) * 4;
-  n.y = H / 2 + Math.sin(a) * 220 + (i % 5) * 4;
+  const r0 = Math.max(250, Math.sqrt(nodes.length) * 28);
+  n.x = W / 2 + Math.cos(a) * r0 + (i % 7) * 5;
+  n.y = H / 2 + Math.sin(a) * r0 + (i % 5) * 5;
   n.vx = 0; n.vy = 0;
 });
 
@@ -500,9 +501,9 @@ function labelFor(n) {
 // alpha = "energía" del sistema. En reposo tiende a alphaTarget (0 → quieto).
 // Agarrar/mover un nodo sube alphaTarget y recalienta los resortes, igual
 // que en Obsidian: todo el grafo reacciona mientras arrastras.
-let alpha = 1;
+let alpha = 0.6;
 let alphaTarget = 0;
-const ALPHA_DECAY = 0.022;
+const ALPHA_DECAY = 0.018;
 let simRepulsion = 9000;
 let simAttraction = 0.18;
 let simLinkDist = 130;
@@ -542,6 +543,9 @@ function tick() {
     n.vx += (cx - n.x) * 0.0015 * alpha;
     n.vy += (cy - n.y) * 0.0015 * alpha;
     n.vx *= simDamping; n.vy *= simDamping;
+    const MAX_V = 30;
+    if (n.vx > MAX_V) n.vx = MAX_V; else if (n.vx < -MAX_V) n.vx = -MAX_V;
+    if (n.vy > MAX_V) n.vy = MAX_V; else if (n.vy < -MAX_V) n.vy = -MAX_V;
     n.x += n.vx; n.y += n.vy;
   }
   alpha += (alphaTarget - alpha) * ALPHA_DECAY;

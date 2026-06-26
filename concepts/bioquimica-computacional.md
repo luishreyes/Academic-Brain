@@ -14,3 +14,5 @@ Aplicación de métodos computacionales al estudio de moléculas biológicas (pr
 - [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]
 - [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]
 - [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]
+- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]
+- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]

@@ -28,3 +28,5 @@ Campo que estudia los mecanismos moleculares de los procesos biológicos: expres
 - [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]
 - [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]
 - [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]
+- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]
+- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]

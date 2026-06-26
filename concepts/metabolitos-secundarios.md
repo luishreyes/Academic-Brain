@@ -12,3 +12,4 @@ Compuestos orgánicos producidos por los organismos que no son directamente esen
 - [[notes/papers/2013-11-18_carotenoides-levadura-ale]]
 - [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]
 - [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]
+- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]
