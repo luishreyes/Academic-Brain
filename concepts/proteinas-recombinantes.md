@@ -15,3 +15,7 @@ Proteínas producidas por organismos huésped modificados genéticamente para ex
 - [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]
 - [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]
 - [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]
+- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]
+- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]
+- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]
+- [[notes/papers/2025-01-01_amp-downstream-processing]]

@@ -29,3 +29,5 @@ Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–
 - [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]
 - [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]
 - [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
+- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]
+- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]

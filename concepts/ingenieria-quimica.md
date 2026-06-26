@@ -73,3 +73,5 @@ Disciplina que aplica principios de química, física y matemáticas para diseñ
 - [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]
 - [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
 - [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]
+- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]
+- [[notes/papers/2025-01-01_amp-downstream-processing]]

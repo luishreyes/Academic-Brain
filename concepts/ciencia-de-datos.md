@@ -12,3 +12,5 @@ Campo interdisciplinario que combina estadística, programación y dominio de co
 - [[notes/books/2016-07-01_data-science-das]]
 - [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]
 - [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]
+- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]
+- [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]

@@ -34,3 +34,5 @@ Materiales de origen natural o sintético diseñados para interactuar con sistem
 - [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]
 - [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
 - [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]
+- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]
+- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]
