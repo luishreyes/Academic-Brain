@@ -1,0 +1,12 @@
+---
+type: concept
+keyword: adopcion-de-tecnologia
+aliases: [technology adoption, diffusion of innovations, difusión de innovaciones, adopción tecnológica, technological practices]
+---
+
+# Adopción de tecnología
+
+Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.
+
+## Notas que usan este concepto
+- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]

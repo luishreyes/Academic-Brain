@@ -15,3 +15,4 @@ Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de 
 - [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]
 - [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]
 - [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]
+- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]

@@ -10,3 +10,6 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 
 ## Notas que usan este concepto
 - [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]
+- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]
+- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]
+- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]

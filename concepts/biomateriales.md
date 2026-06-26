@@ -29,3 +29,4 @@ Materiales de origen natural o sintético diseñados para interactuar con sistem
 - [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]
 - [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]
 - [[notes/papers/2023-06-12_invertasa-magnetita-fos]]
+- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]

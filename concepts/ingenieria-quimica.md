@@ -67,3 +67,6 @@ Disciplina que aplica principios de química, física y matemáticas para diseñ
 - [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]
 - [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]
 - [[notes/papers/2023-06-12_invertasa-magnetita-fos]]
+- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]
+- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]
+- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]

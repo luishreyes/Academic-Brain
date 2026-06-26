@@ -2,10 +2,10 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 77,
-    "articles": 9,
+    "papers": 86,
+    "articles": 11,
     "books": 28,
-    "concepts": 92
+    "concepts": 97
   },
   "nodes": [
     {
@@ -21,6 +21,23 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/STEM.md",
       "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]",
       "degree": 10
+    },
+    {
+      "id": "concepts/adopcion-de-tecnologia",
+      "kind": "concept",
+      "label": "adopcion de tecnologia",
+      "keyword": "adopcion-de-tecnologia",
+      "aliases": [
+        "technology adoption",
+        "diffusion of innovations",
+        "difusión de innovaciones",
+        "adopción tecnológica",
+        "technological practices"
+      ],
+      "definition": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.",
+      "path": "concepts/adopcion-de-tecnologia.md",
+      "content": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]",
+      "degree": 1
     },
     {
       "id": "concepts/agentes-de-ia",
@@ -94,8 +111,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "path": "concepts/aprendizaje-activo.md",
-      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]",
-      "degree": 10
+      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]",
+      "degree": 11
     },
     {
       "id": "concepts/autorregulacion-del-aprendizaje",
@@ -142,8 +159,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.",
       "path": "concepts/biocombustibles.md",
-      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]",
-      "degree": 9
+      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]",
+      "degree": 10
     },
     {
       "id": "concepts/biologia-molecular",
@@ -158,8 +175,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.",
       "path": "concepts/biologia-molecular.md",
-      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]",
-      "degree": 22
+      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]",
+      "degree": 26
     },
     {
       "id": "concepts/biologia-sintetica",
@@ -192,8 +209,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Material vegetal compuesto de celulosa, hemicelulosa y lignina; representa la fuente de carbono renovable más abundante del planeta y es materia prima para biocombustibles y bioquímicos de segunda generación.",
       "path": "concepts/biomasa-lignocelulosica.md",
-      "content": "Material vegetal compuesto de celulosa, hemicelulosa y lignina; representa la fuente de carbono renovable más abundante del planeta y es materia prima para biocombustibles y bioquímicos de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]",
-      "degree": 4
+      "content": "Material vegetal compuesto de celulosa, hemicelulosa y lignina; representa la fuente de carbono renovable más abundante del planeta y es materia prima para biocombustibles y bioquímicos de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]",
+      "degree": 5
     },
     {
       "id": "concepts/biomateriales",
@@ -209,8 +226,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.",
       "path": "concepts/biomateriales.md",
-      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]",
-      "degree": 20
+      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]",
+      "degree": 21
     },
     {
       "id": "concepts/bioquimica-computacional",
@@ -225,8 +242,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.",
       "path": "concepts/bioquimica-computacional.md",
-      "content": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]",
-      "degree": 7
+      "content": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]",
+      "degree": 8
     },
     {
       "id": "concepts/biosurfactantes",
@@ -340,8 +357,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.",
       "path": "concepts/comportamiento-del-consumidor.md",
-      "content": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.\n\n## Notas que usan este concepto\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]",
-      "degree": 2
+      "content": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.\n\n## Notas que usan este concepto\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]",
+      "degree": 5
     },
     {
       "id": "concepts/comunicacion-cientifica",
@@ -403,8 +420,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.",
       "path": "concepts/desarrollo-de-farmacos.md",
-      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]",
-      "degree": 8
+      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]",
+      "degree": 10
     },
     {
       "id": "concepts/desarrollo-del-caracter",
@@ -421,6 +438,24 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/desarrollo-del-caracter.md",
       "content": "Proceso de formación y fortalecimiento de virtudes y disposiciones conductuales como la proactividad, la tolerancia a la incomodidad, la disciplina y la resiliencia; se distingue de las habilidades cognitivas y técnicas y puede cultivarse a lo largo de la vida adulta.\n\n## Notas que usan este concepto\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]",
       "degree": 13
+    },
+    {
+      "id": "concepts/desarrollo-rural",
+      "kind": "concept",
+      "label": "desarrollo rural",
+      "keyword": "desarrollo-rural",
+      "aliases": [
+        "rural development",
+        "desarrollo agrícola",
+        "agricultura",
+        "extensión agrícola",
+        "agricultural extension",
+        "smallholder farming"
+      ],
+      "definition": "Mejora de las condiciones económicas, sociales y productivas de las comunidades rurales y agrícolas; incluye sistemas de extensión agrícola, agricultura sostenible, seguridad alimentaria y desarrollo en países en vías de desarrollo.",
+      "path": "concepts/desarrollo-rural.md",
+      "content": "Mejora de las condiciones económicas, sociales y productivas de las comunidades rurales y agrícolas; incluye sistemas de extensión agrícola, agricultura sostenible, seguridad alimentaria y desarrollo en países en vías de desarrollo.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]",
+      "degree": 1
     },
     {
       "id": "concepts/descubrimiento-cientifico",
@@ -470,6 +505,23 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 4
     },
     {
+      "id": "concepts/diseno-de-producto",
+      "kind": "concept",
+      "label": "diseno de producto",
+      "keyword": "diseno-de-producto",
+      "aliases": [
+        "product design",
+        "diseño de experiencias",
+        "experience design",
+        "product development",
+        "sensory product design"
+      ],
+      "definition": "Diseño y optimización de productos y experiencias, en particular experiencias sensoriales y multisensoriales; metodologías para caracterizar y crear estímulos (sonido, aroma, sabor) que modulan la percepción y la respuesta del consumidor.",
+      "path": "concepts/diseno-de-producto.md",
+      "content": "Diseño y optimización de productos y experiencias, en particular experiencias sensoriales y multisensoriales; metodologías para caracterizar y crear estímulos (sonido, aroma, sabor) que modulan la percepción y la respuesta del consumidor.\n\n## Notas que usan este concepto\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]",
+      "degree": 2
+    },
+    {
       "id": "concepts/diseno-especulativo",
       "kind": "concept",
       "label": "diseno especulativo",
@@ -498,8 +550,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible.",
       "path": "concepts/economia-circular.md",
-      "content": "Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]",
-      "degree": 1
+      "content": "Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]",
+      "degree": 2
     },
     {
       "id": "concepts/economia-de-la-innovacion",
@@ -514,8 +566,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia los determinantes económicos de la innovación tecnológica: retornos crecientes, bienes no rivales, spillovers de conocimiento, propiedad intelectual y el rol del mercado y el Estado en el proceso innovador.",
       "path": "concepts/economia-de-la-innovacion.md",
-      "content": "Campo que estudia los determinantes económicos de la innovación tecnológica: retornos crecientes, bienes no rivales, spillovers de conocimiento, propiedad intelectual y el rol del mercado y el Estado en el proceso innovador.\n\n## Notas que usan este concepto\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]",
-      "degree": 4
+      "content": "Campo que estudia los determinantes económicos de la innovación tecnológica: retornos crecientes, bienes no rivales, spillovers de conocimiento, propiedad intelectual y el rol del mercado y el Estado en el proceso innovador.\n\n## Notas que usan este concepto\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]",
+      "degree": 5
     },
     {
       "id": "concepts/educacion-en-programacion",
@@ -561,8 +613,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]",
-      "degree": 24
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]",
+      "degree": 26
     },
     {
       "id": "concepts/enfermedades-raras",
@@ -578,8 +630,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.",
       "path": "concepts/enfermedades-raras.md",
-      "content": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]",
-      "degree": 6
+      "content": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]",
+      "degree": 7
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -709,8 +761,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.",
       "path": "concepts/evolucion-de-laboratorio.md",
-      "content": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]",
-      "degree": 8
+      "content": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]",
+      "degree": 9
     },
     {
       "id": "concepts/filosofia",
@@ -773,8 +825,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "path": "concepts/futuro-del-trabajo.md",
-      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]",
-      "degree": 19
+      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]",
+      "degree": 20
     },
     {
       "id": "concepts/genomica",
@@ -790,8 +842,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.",
       "path": "concepts/genomica.md",
-      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]",
-      "degree": 15
+      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]",
+      "degree": 16
     },
     {
       "id": "concepts/geopolitica-tecnologica",
@@ -884,8 +936,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.",
       "path": "concepts/ingenieria-de-alimentos.md",
-      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]",
-      "degree": 10
+      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]",
+      "degree": 14
     },
     {
       "id": "concepts/ingenieria-metabolica",
@@ -901,8 +953,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.",
       "path": "concepts/ingenieria-metabolica.md",
-      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]",
-      "degree": 17
+      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]",
+      "degree": 19
     },
     {
       "id": "concepts/ingenieria-quimica",
@@ -917,8 +969,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.",
       "path": "concepts/ingenieria-quimica.md",
-      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/books/2011-01-01_chemical-product-design-cussler]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]",
-      "degree": 58
+      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/books/2011-01-01_chemical-product-design-cussler]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]",
+      "degree": 61
     },
     {
       "id": "concepts/integridad-academica",
@@ -1044,8 +1096,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.",
       "path": "concepts/microfluidica.md",
-      "content": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]",
-      "degree": 4
+      "content": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]",
+      "degree": 5
     },
     {
       "id": "concepts/modelado-molecular",
@@ -1111,6 +1163,40 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/pensamiento-critico-medico.md",
       "content": "Capacidad para evaluar con escepticismo y rigor la evidencia científica médica, identificar sesgos institucionales y resistir el pensamiento grupal (*groupthink*) en contextos clínicos y de salud pública.\n\n## Notas que usan este concepto\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]",
       "degree": 3
+    },
+    {
+      "id": "concepts/peptidos-bioactivos",
+      "kind": "concept",
+      "label": "peptidos bioactivos",
+      "keyword": "peptidos-bioactivos",
+      "aliases": [
+        "bioactive peptides",
+        "antimicrobial peptides",
+        "AMPs",
+        "péptidos antimicrobianos",
+        "péptidos funcionales"
+      ],
+      "definition": "Péptidos cortos con actividad biológica (antimicrobiana, antioxidante, inmunomoduladora) derivados de proteínas mediante hidrólisis enzimática o fermentación microbiana; incluye los péptidos antimicrobianos (AMPs) y su descubrimiento in silico.",
+      "path": "concepts/peptidos-bioactivos.md",
+      "content": "Péptidos cortos con actividad biológica (antimicrobiana, antioxidante, inmunomoduladora) derivados de proteínas mediante hidrólisis enzimática o fermentación microbiana; incluye los péptidos antimicrobianos (AMPs) y su descubrimiento in silico.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/percepcion-multisensorial",
+      "kind": "concept",
+      "label": "percepcion multisensorial",
+      "keyword": "percepcion-multisensorial",
+      "aliases": [
+        "multisensory perception",
+        "crossmodal correspondences",
+        "correspondencias crossmodales",
+        "percepción crossmodal",
+        "sensory perception"
+      ],
+      "definition": "Estudio de cómo los sentidos interactúan e integran información; incluye las correspondencias crossmodales (p. ej., entre sonido y sabor o aroma), la percepción del sabor como fenómeno multisensorial y sus bases psicofísicas.",
+      "path": "concepts/percepcion-multisensorial.md",
+      "content": "Estudio de cómo los sentidos interactúan e integran información; incluye las correspondencias crossmodales (p. ej., entre sonido y sabor o aroma), la percepción del sabor como fenómeno multisensorial y sus bases psicofísicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]",
+      "degree": 2
     },
     {
       "id": "concepts/personalidad-introversion",
@@ -1192,8 +1278,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.",
       "path": "concepts/politica-social.md",
-      "content": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]",
-      "degree": 1
+      "content": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]",
+      "degree": 2
     },
     {
       "id": "concepts/proteinas-recombinantes",
@@ -1209,8 +1295,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.",
       "path": "concepts/proteinas-recombinantes.md",
-      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]",
-      "degree": 4
+      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]",
+      "degree": 6
     },
     {
       "id": "concepts/psicologia-educativa",
@@ -1288,8 +1374,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.",
       "path": "concepts/revision-sistematica-de-literatura.md",
-      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]",
-      "degree": 4
+      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]",
+      "degree": 6
     },
     {
       "id": "concepts/salud-y-sociedad",
@@ -1352,8 +1438,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.",
       "path": "concepts/simulacion-computacional.md",
-      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]",
-      "degree": 3
+      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]",
+      "degree": 5
     },
     {
       "id": "concepts/sostenibilidad",
@@ -1370,8 +1456,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.",
       "path": "concepts/sostenibilidad.md",
-      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]",
-      "degree": 1
+      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]",
+      "degree": 4
     },
     {
       "id": "concepts/supervision-humana",
@@ -1481,8 +1567,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Arte y ciencia de representar datos e información de forma gráfica para facilitar la comprensión, el análisis y la comunicación; incluye diseño de gráficos, principios de percepción visual y narrativa con datos.",
       "path": "concepts/visualizacion-de-datos.md",
-      "content": "Arte y ciencia de representar datos e información de forma gráfica para facilitar la comprensión, el análisis y la comunicación; incluye diseño de gráficos, principios de percepción visual y narrativa con datos.\n\n## Notas que usan este concepto\n- [[notes/books/2015-01-01_storytelling-with-data-knaflic]]",
-      "degree": 1
+      "content": "Arte y ciencia de representar datos e información de forma gráfica para facilitar la comprensión, el análisis y la comunicación; incluye diseño de gráficos, principios de percepción visual y narrativa con datos.\n\n## Notas que usan este concepto\n- [[notes/books/2015-01-01_storytelling-with-data-knaflic]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]",
+      "degree": 2
     },
     {
       "id": "notes/papers/2007-05-18_force-constants-alanine-polypeptides",
@@ -3107,6 +3193,115 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nLos fructooligosacáridos (FOS) son prebióticos de alto interés nutricional producidos por la enzima invertasa de Saccharomyces cerevisiae (SInv) a partir de sacarosa. La inmovilización enzimática en soportes nanoestructurados permite reutilizar el biocatalizador y mejorar la eficiencia del proceso, pero requiere modelado cinético preciso para el diseño de reactores óptimos. Este trabajo investigó la inmovilización de SInv en nanopartículas de magnetita y desarrolló un modelo cinético modificado para representar la hidrólisis de sacarosa y transfructosilación.\n\nSe empleó un modelo cinético modificado con estimación de parámetros a partir de datos experimentales para simular el desempeño de reactores batch con enzima libre e inmovilizada. Adicionalmente, se desarrolló un modelo CSTR (reactor de tanque agitado continuo) para la enzima inmovilizada. Se integró también un mecanismo de reacción de glucosa oxidasa para analizar el efecto de la inhibición por glucosa en la producción de FOS.\n\nLa concentración máxima de FOS fue de 123.1 mM para la enzima libre y 125.4 mM para la inmovilizada en batch, con una concentración máxima de 73.96 mM en CSTR a una tasa de dilución de 14.2 h⁻¹. La reducción de glucosa mediante glucosa oxidasa aumentó la producción de FOS en un 2.1%. La inmovilización mejoró el rendimiento global de SInv con la ventaja adicional de recuperación y reutilización del biocatalizador.\n\n## Contribuciones principales\n- Modelo cinético modificado validado para SInv inmovilizada en magnetita para producción de FOS\n- Estrategia de diseño integral para reactores batch y CSTR con la enzima inmovilizada\n- Demostración de que la reducción de glucosa mejora la síntesis de FOS mediante glucosa oxidasa\n\n## Metodología\nInmovilización de SInv en nanopartículas de magnetita. Estimación de parámetros cinéticos por ajuste de datos experimentales. Modelado de reactores batch (enzima libre e inmovilizada) y CSTR (inmovilizada). Integración de mecanismo glucosa oxidasa para reducción de inhibición.\n\n## Hallazgos clave\n- La enzima inmovilizada alcanzó concentraciones de FOS ligeramente superiores a la libre (125.4 vs 123.1 mM en batch)\n- El CSTR óptimo opera a dilución 14.2 h⁻¹ con 73.96 mM de FOS en la salida\n- La reducción de glucosa con glucosa oxidasa aumenta 2.1% la producción de FOS\n- La inmovilización en magnetita permite recuperación magnética y reutilización del biocatalizador\n\n## Limitaciones\n- El incremento en producción de FOS con enzima inmovilizada es modesto (2.3 mM sobre la libre)\n- No se evaluó la estabilidad operacional a largo plazo del biocatalizador inmovilizado\n- El estudio se limita a condiciones de laboratorio; el escalado industrial requiere validación adicional\n\n## Notas relacionadas\n- [[concepts/biomateriales]]\n- [[concepts/nanociencia]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]"
     },
     {
+      "id": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
+      "kind": "paper",
+      "label": "Exploring Crossmodal Associations Between Sound and the Chemical Senses: A Systematic Review Including Interactive Visualizations",
+      "authors": [
+        "Brayan Rodríguez",
+        "Luis H. Reyes",
+        "Felipe Reinoso-Carvalho"
+      ],
+      "year": "2023",
+      "venue": "Multisensory Research",
+      "url": "https://doi.org/10.1163/22134808-bja10107",
+      "doi": "10.1163/22134808-bja10107",
+      "keywords": [
+        "percepcion-multisensorial",
+        "comportamiento-del-consumidor",
+        "ingenieria-de-alimentos",
+        "revision-sistematica-de-literatura",
+        "visualizacion-de-datos",
+        "diseno-de-producto"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos.md",
+      "pdf_local": "sources/pdfs/rodriguez-2023-crossmodal-sonido-sentidos-quimicos.pdf",
+      "content": "## Resumen\nPrimera revisión sistemática centrada en la influencia de sonidos —tanto intrínsecos como extrínsecos al producto— sobre los sentidos químicos (gusto y olfato), abarcando estímulos de alimentos y aromas. Los autores analizaron 95 experimentos publicados en 83 trabajos entre 2012 y 2023, documentando con detalle metodológico cada estímulo, diseño experimental, variable dependiente y técnica de análisis de datos.\n\nA través de este análisis emergieron 329 asociaciones crossmodales auditivo-quimiosensoriales distintas. La contribución metodológica más novedosa es un dashboard interactivo en Power BI —el primero de su tipo en este campo— que permite a lectores e investigadores filtrar y explorar las estadísticas de subconjuntos específicos de experimentos, superando las limitaciones de las figuras y tablas estáticas.\n\nEl trabajo sintetiza el estado del arte de la percepción multisensorial sonido-sabor-aroma y ofrece implicaciones teóricas y prácticas para la industria de alimentos y bebidas, así como para sectores adyacentes como la cosmética. Apunta hacia enfoques computacionales que faciliten la toma de decisiones en el diseño de metodologías experimentales multisensoriales.\n\n## Contribuciones principales\n- Primera revisión sistemática del efecto del sonido sobre los sentidos químicos (sabor y aroma).\n- Catálogo de 329 asociaciones crossmodales auditivo-quimiosensoriales.\n- Dashboard interactivo en Power BI como herramienta de visualización y exploración de la evidencia.\n\n## Metodología\nRevisión sistemática de 95 experimentos en 83 publicaciones (2012-2023), con codificación exhaustiva de detalles metodológicos (estímulos, diseño, variables, análisis) y construcción de una visualización interactiva.\n\n## Hallazgos clave\n- Las correspondencias entre parámetros sonoros (tono, tempo, timbre) y atributos químicos (dulzor, frescura, acidez) son robustas y recurrentes en la literatura.\n- Persiste una gran heterogeneidad metodológica que dificulta la comparación entre estudios.\n\n## Limitaciones\n- Heterogeneidad de diseños y medidas entre los estudios revisados.\n- Predominio de estímulos alimentarios sobre aromáticos.\n\n## Notas relacionadas\n- [[concepts/percepcion-multisensorial]]\n- [[concepts/comportamiento-del-consumidor]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/visualizacion-de-datos]]\n- [[concepts/diseno-de-producto]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]"
+    },
+    {
+      "id": "notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas",
+      "kind": "paper",
+      "label": "Low-cost inertial microfluidic device for microparticle separation: A laser-ablated PMMA lab-on-a-chip approach without a cleanroom",
+      "authors": [
+        "Cristian F. Rodríguez",
+        "Paula Guzmán-Sastoque",
+        "Mónica Gantiva-Diaz",
+        "Saúl C. Gómez",
+        "Valentina Quezada",
+        "Carolina Muñoz-Camargo",
+        "Johann F. Osma",
+        "Luis H. Reyes",
+        "Juan C. Cruz"
+      ],
+      "year": "2023",
+      "venue": "HardwareX",
+      "url": "https://doi.org/10.1016/j.ohx.2023.e00493",
+      "doi": "10.1016/j.ohx.2023.e00493",
+      "keywords": [
+        "microfluidica",
+        "simulacion-computacional",
+        "biomateriales",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas.md",
+      "pdf_local": "sources/pdfs/rodriguez-2023-microfluidica-pmma.pdf",
+      "content": "## Resumen\nEl trabajo presenta un separador microfluídico pasivo de bajo costo capaz de clasificar y purificar micropartículas en el rango de 15 a 40 µm según su tamaño. A diferencia de los dispositivos convencionales, que requieren costosos procesos de sala limpia (cleanroom), este se fabrica mediante ablación láser sobre sustratos de polimetilmetacrilato (PMMA), eliminando la necesidad de infraestructura especializada.\n\nAntes de fabricar, el diseño se optimizó rigurosamente con simulaciones computacionales en COMSOL Multiphysics. El desempeño se evaluó usando micropartículas de quitosano como caso de prueba, alcanzando una precisión del 96.14 % en la separación basada en tamaño.\n\nEl dispositivo ofrece una solución pragmática y accesible para laboratorios que requieren control preciso del tamaño de partícula sin las restricciones de la fabricación en sala limpia, ampliando las aplicaciones de la microfluídica en química y biología.\n\n## Contribuciones principales\n- Separador microfluídico inercial pasivo fabricado por ablación láser en PMMA, sin sala limpia.\n- Optimización del diseño mediante simulación en COMSOL Multiphysics.\n- Precisión del 96.14 % en la separación de micropartículas de 15-40 µm.\n\n## Metodología\nDiseño asistido por simulación CFD (COMSOL), fabricación por ablación láser de PMMA y validación experimental con micropartículas de quitosano.\n\n## Hallazgos clave\n- La separación inercial basada en geometría permite alta precisión sin componentes activos.\n- La fabricación de bajo costo democratiza el acceso a tecnología lab-on-a-chip.\n\n## Limitaciones\n- Validación limitada a un rango de tamaños y a partículas de quitosano.\n- Throughput acotado frente a sistemas industriales.\n\n## Notas relacionadas\n- [[concepts/microfluidica]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/biomateriales]]\n- [[concepts/ingenieria-quimica]]"
+    },
+    {
+      "id": "notes/papers/2024-01-01_casein-actividad-antimicrobiana",
+      "kind": "paper",
+      "label": "Antimicrobial activities of casein",
+      "authors": [
+        "Javier Cifuentes",
+        "Paola Ruiz Puentes",
+        "Pablo Arbeláez",
+        "Carolina Muñoz-Camargo",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2024",
+      "venue": "Casein (Elsevier, eds. M. El-Bakry & B. M. Mehta), cap. 19",
+      "url": "https://doi.org/10.1016/B978-0-443-15836-0.00001-9",
+      "doi": "10.1016/B978-0-443-15836-0.00001-9",
+      "keywords": [
+        "peptidos-bioactivos",
+        "ingenieria-de-alimentos",
+        "biologia-molecular",
+        "desarrollo-de-farmacos",
+        "bioquimica-computacional"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2024-01-01_casein-actividad-antimicrobiana.md",
+      "pdf_local": "sources/pdfs/cifuentes-2024-casein-antimicrobiano.pdf",
+      "content": "## Resumen\nCapítulo del libro *Casein* (Elsevier, 2024) dedicado a las actividades antimicrobianas de la caseína. Los productos lácteos aportan múltiples beneficios para la inmunidad y la prevención de infecciones, y entre las proteínas responsables están las caseínas, fuente reconocida de péptidos bioactivos. Estos péptidos —cadenas cortas de aminoácidos producidas in vivo por fermentación microbiana o digestión enzimática— cumplen funciones fisiológicas y exhiben bioactividades antibacterianas, antioxidantes, antitrombóticas e inmunomoduladoras.\n\nEl capítulo se centra en los péptidos antimicrobianos (AMPs) derivados de la leche, vitales para la defensa innata de superficies mucosas. Estos AMPs ganan popularidad como alternativa segura a los antibióticos, con el beneficio adicional de extender la vida útil cuando se incorporan a alimentos. Se revisan sus propiedades estructurales (longitud de secuencia, carga, anfipaticidad) y sus espectros de actividad (antibacteriano, antifúngico, antiviral).\n\nUna sección relevante aborda el descubrimiento computacional de AMPs: enfoques bioinformáticos e in silico (p. ej., BIOPEP), predicción de toxicidad y métodos de aprendizaje profundo para identificar y diseñar péptidos antimicrobianos a partir de la caseína, conectando la ciencia de alimentos con la bioquímica computacional.\n\n## Contribuciones principales\n- Revisión de las actividades antimicrobianas de la caseína y sus péptidos derivados.\n- Caracterización de propiedades estructurales que determinan la actividad de los AMPs.\n- Panorama de métodos in silico y de aprendizaje profundo para el descubrimiento de AMPs.\n\n## Metodología\nCapítulo de revisión que integra evidencia experimental y enfoques computacionales/bioinformáticos para el estudio de péptidos antimicrobianos.\n\n## Hallazgos clave\n- Los AMPs de caseína son una alternativa prometedora a los antibióticos y conservantes.\n- Las herramientas computacionales aceleran la identificación de péptidos con actividad y baja toxicidad.\n\n## Limitaciones\n- Capítulo de revisión, sin validación experimental propia.\n- La predicción in silico requiere confirmación experimental.\n\n## Notas relacionadas\n- [[concepts/peptidos-bioactivos]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/biologia-molecular]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/bioquimica-computacional]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]"
+    },
+    {
+      "id": "notes/papers/2024-01-01_casein-polimorfismos-queso",
+      "kind": "paper",
+      "label": "Casein polymorphisms and implications in cheesemaking",
+      "authors": [
+        "Fabián Ricardo",
+        "Oscar Alvarez",
+        "Juan C. Cruz",
+        "Diego Pradilla",
+        "Luis H. Reyes"
+      ],
+      "year": "2024",
+      "venue": "Casein (Elsevier, eds. M. El-Bakry & B. M. Mehta), cap. 12",
+      "url": "https://doi.org/10.1016/B978-0-443-15836-0.00007-X",
+      "doi": "10.1016/B978-0-443-15836-0.00007-X",
+      "keywords": [
+        "ingenieria-de-alimentos",
+        "biologia-molecular",
+        "genomica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2024-01-01_casein-polimorfismos-queso.md",
+      "pdf_local": "sources/pdfs/ricardo-2024-casein-polimorfismos-queso.pdf",
+      "content": "## Resumen\nCapítulo del libro *Casein* (Elsevier, 2024) que examina los polimorfismos de las caseínas (CN) y sus implicaciones en la elaboración del queso. El queso es un alimento fermentado producido desde el Neolítico que concentra los nutrientes de la leche; aunque casi todos los quesos comparten cuatro ingredientes (leche, microbios, proteasas y sal), existen más de mil variedades con atributos sensoriales y nutricionales distintos.\n\nDe todos los componentes de la leche, las caseínas son las proteínas más influyentes en los atributos físicos finales del queso. El capítulo explica cómo variables como la cantidad de caseína, el grado de proteólisis durante la preparación, los polimorfismos genéticos y las modificaciones postraduccionales (PTM) determinan el rendimiento y la calidad quesera. La composición de la leche depende a su vez de características fisiológicas del animal (raza, edad, estación).\n\nComprender los polimorfismos de las caseínas y su relación con la elaboración del queso es clave para mantener y mejorar la calidad de cada variedad. El capítulo integra la genética de las variantes de caseína con la ciencia e ingeniería del procesamiento de alimentos.\n\n## Contribuciones principales\n- Síntesis de los polimorfismos de caseína y sus variantes genéticas.\n- Relación entre composición/PTM de la caseína y atributos del queso.\n- Vínculo entre genética láctea y rendimiento en la quesería.\n\n## Metodología\nRevisión de literatura (capítulo de libro) sobre estructura, polimorfismos y procesamiento de caseínas.\n\n## Hallazgos clave\n- Los polimorfismos de caseína afectan coagulación, rendimiento y textura del queso.\n- Las modificaciones postraduccionales modulan el comportamiento de la proteína en el proceso.\n\n## Limitaciones\n- Capítulo de revisión, sin datos experimentales propios.\n\n## Notas relacionadas\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/biologia-molecular]]\n- [[concepts/genomica]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]"
+    },
+    {
       "id": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
       "kind": "paper",
       "label": "Shaping futures: A dialogue on chemical engineering education",
@@ -3134,6 +3329,130 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica.md",
       "pdf_local": "sources/pdfs/chintalapati2024-futuro-educacion-ingenieria-quimica.pdf",
       "content": "## Resumen\n\nEste paper adopta la forma poco convencional de un diálogo entre cinco académicos de distintas disciplinas —ingeniería química, estudios de energía, humanidades ambientales y educación en ingeniería— para explorar los desafíos y oportunidades que enfrenta la formación de ingenieros químicos en un contexto de transición energética y complejidad sistémica. El formato dialógico no es un recurso retórico sino una apuesta metodológica: la conversación entre perspectivas disciplinares divergentes produce un conocimiento que ninguna perspectiva sola podría generar.\n\nLos autores sostienen que la educación en ingeniería química debe ir más allá de la transmisión de competencias técnicas e incorporar pensamiento sistémico, reflexividad, literacidad ambiental y capacidad de \"futuring\" —la habilidad de imaginar y co-construir futuros deseables con distintos actores sociales. Señalan que los currículos actuales están excesivamente orientados a la industria de los combustibles fósiles y han descuidado la formación para la transición energética, la sostenibilidad y la responsabilidad social de la ingeniería.\n\n## Contribuciones principales\n\n- Propone el \"futuring\" —la práctica reflexiva de imaginar futuros alternativos— como competencia central de la formación en ingeniería química\n- Defiende la integración de enfoques de complejidad y sistemas en los currículos de ChE, reemplazando el enfoque reduccionista dominante\n- Argumenta por una mayor colaboración entre humanidades, ciencias sociales e ingeniería en el diseño curricular\n- Ejemplifica metodológicamente el diálogo como práctica investigativa válida en educación en ingeniería\n\n## Metodología\n\nDiálogo reflexivo colaborativo entre cinco investigadores de diferentes disciplinas (ingeniería química, estudios de energía, humanidades ambientales, educación en ingeniería). El texto nace de conversaciones reales, editadas y estructuradas para publicación. No es un estudio empírico en el sentido tradicional, sino un ejercicio de investigación colaborativa y reflexiva.\n\n## Hallazgos clave\n\n- La educación en ingeniería química está atrapada en paradigmas industriales del siglo XX y necesita reinventarse para la transición energética\n- El pensamiento de complejidad y los enfoques sistémicos son esenciales pero infrautilizados en los currículos de ChE\n- La colaboración interdisciplinaria con humanidades enriquece la capacidad de los ingenieros para enfrentar problemas sociotécnicos complejos\n- El \"futuring\" como práctica pedagógica fomenta la agencia y la responsabilidad social en los estudiantes de ingeniería\n- La práctica reflexiva es subvalorada en la formación técnica pero esencial para el desempeño profesional responsable\n\n## Limitaciones\n\n- El formato dialógico, aunque novedoso, es menos replicable que estudios empíricos convencionales\n- Los participantes son todos académicos de instituciones canadienses, lo que limita la generalización geográfica\n- No presenta evidencia empírica de implementación curricular; es principalmente propositivo y reflexivo\n\n## Notas relacionadas\n\n- [[concepts/educacion-superior]]\n- [[concepts/STEM]]\n- [[concepts/interdisciplinariedad]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/humanidades]]\n- [[concepts/impacto-de-investigacion]]"
+    },
+    {
+      "id": "notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa",
+      "kind": "paper",
+      "label": "Engineering the cellulolytic bacterium, Clostridium thermocellum, to co-utilize hemicellulose",
+      "authors": [
+        "Katherine J. Chou",
+        "Trevor Croft",
+        "Skyler D. Hebdon",
+        "Lauren R. Magnusson",
+        "Wei Xiong",
+        "Luis H. Reyes",
+        "Xiaowen Chen",
+        "Emily J. Miller",
+        "Danielle M. Riley",
+        "Sunnyjoy Dupuis",
+        "Kathrin A. Laramore",
+        "Lisa M. Keller",
+        "Dirk Winkelman",
+        "Pin-Ching Maness"
+      ],
+      "year": "2024",
+      "venue": "Metabolic Engineering",
+      "url": "https://doi.org/10.1016/j.ymben.2024.03.008",
+      "doi": "10.1016/j.ymben.2024.03.008",
+      "keywords": [
+        "ingenieria-metabolica",
+        "biomasa-lignocelulosica",
+        "biocombustibles",
+        "evolucion-de-laboratorio",
+        "biologia-molecular",
+        "proteinas-recombinantes"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa.md",
+      "pdf_local": "sources/pdfs/chou-2024-clostridium-thermocellum-hemicelulosa.pdf",
+      "content": "## Resumen\nEl procesamiento consolidado (Consolidated Bioprocessing, CBP) de biomasa lignocelulósica promete una producción económica de biocombustibles y químicos de segunda generación. *Clostridium thermocellum* es uno de los mejores candidatos para CBP por ser uno de los degradadores más rápidos de celulosa cristalina, pero no utiliza hemicelulosa, lo que obliga a usar co-cultivos que añaden complejidad y comprometen la robustez del proceso.\n\nEn este estudio, los autores ingenierizaron *C. thermocellum* para co-utilizar hemicelulosa sin necesidad de co-cultivo. Mediante evolución de laboratorio de una cepa previamente modificada para usar xilosa, obtuvieron el aislado clonal evolucionado KJC19-9, con una tasa de crecimiento específico en xilosa ~3 veces mayor. Para habilitar la deconstrucción completa del xilano, expresaron de forma recombinante tres β-xilosidasas de *Thermoanaerobacterium saccharolyticum*, logrando crecimiento en xilano con una de ellas.\n\nLa integración del gen de la β-xilosidasa en el genoma de KJC19-9 generó la cepa KJCBXint, capaz de co-utilizar celulosa y xilano simultáneamente y de deconstruir significativamente xilano y xilobiosa. El trabajo elimina la dependencia del co-cultivo y simplifica el bioproceso para la conversión de biomasa.\n\n## Contribuciones principales\n- Cepa evolucionada KJC19-9 con crecimiento en xilosa ~3× más rápido.\n- Expresión recombinante de β-xilosidasas para deconstrucción de xilano.\n- Cepa integrada KJCBXint capaz de co-utilizar celulosa y hemicelulosa sin co-cultivo.\n\n## Metodología\nEvolución adaptativa de laboratorio (ALE) sobre cepa modificada, expresión recombinante de enzimas heterólogas e integración génica en el genoma.\n\n## Hallazgos clave\n- La co-utilización de celulosa y xilano por un solo organismo es viable y simplifica el CBP.\n- La integración genómica estabiliza el fenotipo de deconstrucción de hemicelulosa.\n\n## Limitaciones\n- Acumulación de xilobiosa en ciertas condiciones de cultivo.\n- Validación a escala de laboratorio; falta escalado industrial.\n\n## Notas relacionadas\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biomasa-lignocelulosica]]\n- [[concepts/biocombustibles]]\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/biologia-molecular]]\n- [[concepts/proteinas-recombinantes]]"
+    },
+    {
+      "id": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica",
+      "kind": "paper",
+      "label": "Agricultural Extension for Adopting Technological Practices in Developing Countries: A Scoping Review of Barriers and Dimensions",
+      "authors": [
+        "Julián F. Becerra-Encinales",
+        "Paloma Bernal-Hernandez",
+        "Jorge A. Beltrán-Giraldo",
+        "Alexandre P. Cooman",
+        "Luis H. Reyes",
+        "Juan C. Cruz"
+      ],
+      "year": "2024",
+      "venue": "Sustainability (MDPI)",
+      "url": "https://doi.org/10.3390/su16093555",
+      "doi": "10.3390/su16093555",
+      "keywords": [
+        "revision-sistematica-de-literatura",
+        "sostenibilidad",
+        "desarrollo-rural",
+        "adopcion-de-tecnologia",
+        "politica-social"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica.md",
+      "pdf_local": "sources/pdfs/becerra-2024-extension-agricola-en.pdf",
+      "content": "## Resumen\nEsta revisión exploratoria (scoping review) emplea el marco PRISMA-ScR para analizar las complejidades de la extensión tecnológica agrícola en países en vías de desarrollo, donde factores socioeconómicos, culturales y ambientales moldean profundamente las estrategias de extensión. El objetivo fue identificar los factores críticos —tanto barreras como oportunidades— que afectan la eficacia de la extensión agrícola, con énfasis en las variaciones contextuales.\n\nA partir de una búsqueda de contribuciones académicas desde 2013 (artículos, revisiones, actas, capítulos y data papers) y mediante análisis bibliométrico, los autores sintetizan 32 registros pertinentes. El análisis se centra en la dinámica de interacción entre el personal de extensión y los agricultores, la adaptación de tecnologías a los contextos locales y la importancia de la colaboración intersectorial.\n\nLos hallazgos abogan por un cambio de paradigma: pasar de la transferencia lineal de conocimiento a un enfoque más integral que valore la comunicación bidireccional, la conciencia cultural y la participación activa de las comunidades agrícolas locales. La mejora de la adopción sostenible de tecnología agrícola pasa por una reforma profunda de los sistemas de extensión hacia modelos más inclusivos, adaptativos y atentos a las realidades de los agricultores en economías emergentes. Existe versión en español del documento (PDF).\n\n## Contribuciones principales\n- Síntesis bibliométrica (PRISMA-ScR) de 32 registros sobre extensión agrícola en países en desarrollo.\n- Identificación de barreras y dimensiones que condicionan la adopción tecnológica.\n- Propuesta de transición del modelo lineal de transferencia a uno bidireccional y contextual.\n\n## Metodología\nScoping review con protocolo PRISMA-ScR y análisis bibliométrico de literatura desde 2013.\n\n## Hallazgos clave\n- La eficacia de la extensión depende crucialmente de la adaptación al contexto local.\n- La comunicación bidireccional y la participación comunitaria son determinantes de la adopción sostenible.\n\n## Limitaciones\n- Número acotado de registros sintetizados (32).\n- Heterogeneidad de contextos limita la generalización.\n\n## Notas relacionadas\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/sostenibilidad]]\n- [[concepts/desarrollo-rural]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/politica-social]]"
+    },
+    {
+      "id": "notes/papers/2024-05-15_sound-of-freshness-perfumeria",
+      "kind": "paper",
+      "label": "Sound of freshness: Crafting multisensory experience in perfumery",
+      "authors": [
+        "Brayan Rodríguez",
+        "Monique Alves Frazon Cantu",
+        "Luis H. Reyes",
+        "Vanessa Jaqueline De Almeida Ribas Pereira",
+        "Larissa Carmona Zonta Santos",
+        "Felipe Reinoso-Carvalho"
+      ],
+      "year": "2024",
+      "venue": "Food Quality and Preference",
+      "url": "https://doi.org/10.1016/j.foodqual.2024.105228",
+      "doi": "10.1016/j.foodqual.2024.105228",
+      "keywords": [
+        "percepcion-multisensorial",
+        "comportamiento-del-consumidor",
+        "diseno-de-producto"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2024-05-15_sound-of-freshness-perfumeria.md",
+      "pdf_local": "sources/pdfs/rodriguez-2024-sound-of-freshness-perfumeria.pdf",
+      "content": "## Resumen\nLa industria del perfume enfrenta el reto de aumentar el atractivo de sus productos e involucrar a los consumidores mediante la innovación. Integrar elementos multisensoriales en la experiencia olfativa abre una vía para esa innovación. El estudio presenta una metodología novedosa para caracterizar sonidos que evocan la percepción de *frescura* en fragancias.\n\nSe realizaron tres experimentos. El Experimento 1 evaluó sonidos seleccionados para identificar los parámetros auditivos que disparan con eficacia los atributos primarios de frescura. Con base en ello, el Experimento 2 probó bandas sonoras originales alineadas con la marca usando el Test de Asociación Implícita (IAT) para investigar sus asociaciones con la frescura y los valores de marca. El Experimento 3 examinó si esas bandas sonoras modulaban la experiencia olfativa implícita de dos fragancias comerciales.\n\nLos resultados mostraron que las bandas sonoras lograron efectos específicos al realzar la forma en que las personas perciben implícitamente la frescura de una fragancia (atributos como frío, azul, ligereza). El trabajo documenta consistencias y variaciones entre medidas auto-reportadas e implícitas, y propone aplicaciones prácticas de estrategias multisensoriales para empresas cosméticas.\n\n## Contribuciones principales\n- Metodología para caracterizar sonidos evocadores de frescura en fragancias.\n- Uso del IAT para vincular bandas sonoras con frescura y valores de marca.\n- Evidencia de que el sonido modula la percepción olfativa implícita de perfumes comerciales.\n\n## Metodología\nTres experimentos conductuales con medidas auto-reportadas e implícitas (Implicit Association Test) sobre estímulos sonoros y olfativos.\n\n## Hallazgos clave\n- Bandas sonoras diseñadas pueden realzar la percepción implícita de frescura en fragancias.\n- Existen divergencias entre medidas explícitas (auto-reporte) e implícitas.\n\n## Limitaciones\n- Foco en el atributo de frescura y en dos fragancias comerciales.\n- Generalización limitada a otras categorías olfativas y culturales.\n\n## Notas relacionadas\n- [[concepts/percepcion-multisensorial]]\n- [[concepts/comportamiento-del-consumidor]]\n- [[concepts/diseno-de-producto]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]"
+    },
+    {
+      "id": "notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva",
+      "kind": "paper",
+      "label": "Novel human recombinant N-acetylgalactosamine-6-sulfate sulfatase produced in a glyco-engineered Escherichia coli strain",
+      "authors": [
+        "Luisa N. Pimentel-Vera",
+        "Alexander Rodríguez-López",
+        "Angela J. Espejo-Mojica",
+        "Aura María Ramírez",
+        "Carolina Cardona",
+        "Luis H. Reyes",
+        "Shunji Tomatsu",
+        "Thapakorn Jaroentomeechai",
+        "Matthew P. DeLisa",
+        "Oscar F. Sánchez",
+        "Carlos J. Alméciga-Díaz"
+      ],
+      "year": "2024",
+      "venue": "Heliyon",
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e32555",
+      "doi": "10.1016/j.heliyon.2024.e32555",
+      "keywords": [
+        "proteinas-recombinantes",
+        "enfermedades-raras",
+        "biologia-molecular",
+        "ingenieria-metabolica",
+        "desarrollo-de-farmacos"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva.md",
+      "pdf_local": "sources/pdfs/pimentel-vera-2024-galns-recombinante.pdf",
+      "content": "## Resumen\nLa mucopolisacaridosis IVA (MPS IVA o síndrome de Morquio A) es una enfermedad lisosomal de depósito causada por mutaciones en el gen que codifica la enzima lisosomal N-acetilgalactosamina-6-sulfato sulfatasa (GALNS), lo que provoca la acumulación de queratán sulfato y condroitín-6-sulfato. Trabajos previos lograron producir una GALNS humana recombinante activa (rGALNS) en *E. coli* BL21(DE3), pero esa enzima carecía de la glicosilación necesaria para una captación celular eficiente vía receptores.\n\nEl estudio produce una nueva rGALNS en una cepa de *E. coli* glico-ingenierizada capaz de realizar N-glicosilación, buscando una enzima con mejores propiedades para terapia de reemplazo enzimático (TRE). Se caracterizan la actividad enzimática, el patrón de glicosilación y la captación celular de la enzima producida en el hospedero modificado.\n\nEl trabajo conecta la ingeniería metabólica de hospederos bacterianos con el desarrollo de biofármacos para enfermedades raras, ofreciendo una plataforma de producción potencialmente más económica que los sistemas de células de mamífero.\n\n## Contribuciones principales\n- Producción de rGALNS en una cepa de *E. coli* con capacidad de N-glicosilación.\n- Caracterización de actividad, glicosilación y captación de la enzima recombinante.\n- Plataforma bacteriana alternativa para enzimas terapéuticas glicosiladas.\n\n## Metodología\nExpresión heteróloga en *E. coli* glico-ingenierizada, purificación y caracterización bioquímica de la enzima recombinante.\n\n## Hallazgos clave\n- La glico-ingeniería de *E. coli* permite añadir N-glicosilación a una enzima terapéutica humana.\n- La estrategia mejora las propiedades de la enzima frente a la producida en E. coli convencional.\n\n## Limitaciones\n- Validación in vitro; falta evaluación in vivo y de eficacia clínica.\n- La glicosilación bacteriana difiere de la humana, con posibles implicaciones inmunológicas.\n\n## Notas relacionadas\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/enfermedades-raras]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/desarrollo-de-farmacos]]"
     },
     {
       "id": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
@@ -3184,6 +3503,29 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2024-07-01_prompting-quimica-preservice.md",
       "pdf_local": "sources/pdfs/tassoti2024-prompting-quimica-preservice.pdf",
       "content": "## Resumen\n\nEste estudio examina cómo docentes en formación de química (preservice teachers) utilizan la IA generativa para resolver tareas propias de la enseñanza de la química. La investigación documenta una tendencia inicial dominante hacia el copy-paste como estrategia de prompting: los estudiantes trasladan directamente el enunciado de la tarea al modelo sin reformulación ni contextualización. A través de la implementación del marco \"Five S\" de prompting estructurado, el estudio sigue la evolución de las estrategias de interacción con la IA y la satisfacción percibida con las respuestas obtenidas.\n\nLos hallazgos muestran que, aunque los estudiantes inicialmente tienen dificultades para formular prompts efectivos, los marcos estructurados mejoran significativamente la calidad percibida de las respuestas de IA. El estudio argumenta que la literacidad en prompting es una competencia pedagógica emergente que debe incorporarse explícitamente en la formación inicial del profesorado de ciencias, y que la evaluación de estas competencias requiere rúbricas e instrumentos propios.\n\n## Contribuciones principales\n\n- Documenta el comportamiento de prompting inicial de docentes en formación: predominio del copy-paste directo\n- Introduce y evalúa el marco \"Five S\" como estructura pedagógica para prompting en educación química\n- Muestra que marcos de prompting estructurado mejoran la satisfacción con las respuestas de IA generativa\n- Argumenta que la ingeniería de prompts debe incorporarse en la formación inicial del profesorado de STEM\n\n## Metodología\n\nEstudio de caso con docentes en formación de química en educación superior. Se recolectaron los prompts escritos por los estudiantes en múltiples rondas de interacción con IA generativa. Se aplicó el marco \"Five S\" de prompting como intervención. Se evaluó la satisfacción de los estudiantes con las respuestas antes y después de la intervención. Análisis cualitativo de los prompts para identificar estrategias y evolución.\n\n## Hallazgos clave\n\n- El copy-paste directo del enunciado de tarea es la estrategia de prompting más común entre docentes en formación sin orientación previa\n- El uso del marco \"Five S\" aumenta significativamente la satisfacción percibida con las respuestas de IA\n- Los estudiantes desarrollan estrategias de prompting más sofisticadas con exposición guiada y práctica\n- La calidad del prompting correlaciona con la calidad percibida de las respuestas para tareas específicas de química\n- El estudio valida que la ingeniería de prompts es una habilidad enseñable y no solo intuitiva\n\n## Limitaciones\n\n- Diseño de caso sin grupo control; no permite inferir causalidad\n- La \"satisfacción percibida\" es una medida subjetiva que puede no reflejar la calidad objetiva de las respuestas\n- Muestra limitada a una cohorte de una institución; no se reporta tamaño exacto de muestra\n- El \"Five S\" no está comparado contra otros marcos de prompting\n\n## Notas relacionadas\n\n- [[concepts/formacion-docente]]\n- [[concepts/educacion-superior]]\n- [[concepts/STEM]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/evaluacion-educativa]]"
+    },
+    {
+      "id": "notes/papers/2024-07-01_yeastsim-simulador-control-procesos",
+      "kind": "paper",
+      "label": "Critique: YEASTsim - A Matlab-based simulator for teaching process control in fed-batch yeast fermentations",
+      "authors": [
+        "Juan Sebastian Jaramillo",
+        "Luis H. Reyes"
+      ],
+      "year": "2024",
+      "venue": "Education for Chemical Engineers",
+      "url": "https://doi.org/10.1016/j.ece.2024.06.005",
+      "doi": "10.1016/j.ece.2024.06.005",
+      "keywords": [
+        "ingenieria-quimica",
+        "educacion-superior",
+        "simulacion-computacional",
+        "aprendizaje-activo"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2024-07-01_yeastsim-simulador-control-procesos.md",
+      "pdf_local": "sources/pdfs/jaramillo-2024-yeastsim-control-procesos.pdf",
+      "content": "## Resumen\nEsta crítica evalúa el potencial educativo de YEASTsim, un simulador basado en MATLAB para la enseñanza del control de procesos en fermentaciones de levadura en fed-batch (*Saccharomyces cerevisiae*). El trabajo parte de un reto central de la educación en ingeniería química: la aplicación práctica del conocimiento teórico, tradicionalmente dependiente de experimentos de laboratorio costosos.\n\nLos autores posicionan las herramientas de aprendizaje basado en simulación como complementos potentes de los laboratorios, al permitir que los estudiantes investiguen procesos complejos, prueben hipótesis y desarrollen destrezas prácticas en un entorno seguro, económico y escalable. Destacan la interfaz gráfica (GUI) de YEASTsim por su facilidad de uso, que permite manipular variables intuitivamente y obtener gráficos claros del comportamiento del proceso.\n\nLa crítica analiza el simulador como herramienta interactiva para reforzar asignaturas núcleo como la Ingeniería de las Reacciones Químicas, evaluando sus fortalezas pedagógicas y sus límites como recurso de enseñanza.\n\n## Contribuciones principales\n- Evaluación pedagógica de YEASTsim para enseñar control de procesos y bioprocesos.\n- Argumento a favor del aprendizaje basado en simulación como complemento al laboratorio.\n- Análisis de la GUI y su valor para la manipulación interactiva de variables.\n\n## Metodología\nCrítica/evaluación cualitativa de una herramienta educativa de simulación de procesos.\n\n## Hallazgos clave\n- La simulación interactiva facilita el aprendizaje experiencial de control de procesos.\n- La usabilidad de la interfaz es clave para la adopción educativa de la herramienta.\n\n## Limitaciones\n- Evaluación cualitativa, sin medición empírica de resultados de aprendizaje.\n- Alcance acotado a un dominio (fermentación fed-batch de levadura).\n\n## Notas relacionadas\n- [[concepts/ingenieria-quimica]]\n- [[concepts/educacion-superior]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/aprendizaje-activo]]"
     },
     {
       "id": "notes/papers/2024-08-13_widening-gap-ia-novatos",
@@ -3689,6 +4031,51 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/articles/2023-01-01_academia-sostenibilidad-abp.md",
       "pdf_local": "",
       "content": "## Resumen\nLos profesores Luis H. Reyes y Juan C. Cruz de la Universidad de los Andes argumentan que el aprendizaje basado en proyectos (ABP) combinado con la integración de la sostenibilidad en el currículo tiene el potencial de transformar la educación universitaria y formar profesionales y ciudadanos comprometidos con un futuro más sostenible. El ABP es un enfoque pedagógico que involucra a los estudiantes en la resolución de problemas reales y significativos, permitiendo adquirir conocimientos teóricos mientras desarrollan habilidades prácticas.\n\nEl artículo propone que los campus universitarios pueden convertirse en laboratorios vivos de sostenibilidad, donde los estudiantes colaboran con la administración, el personal y la comunidad para diseñar y ejecutar proyectos sostenibles reales (eficiencia energética, gestión de residuos, sistemas de alimentación). Esta interacción permite experimentar de primera mano los desafíos de la sostenibilidad y forma estudiantes con sentido de pertenencia y responsabilidad hacia su entorno. Finalmente, los autores subrayan el rol de las alianzas universidad-empresa-sector público para involucrar a los estudiantes en proyectos de sostenibilidad comunitaria, desarrollando habilidades de liderazgo y comunicación para actores de cambio.\n\n## Puntos clave\n- El ABP en sostenibilidad desarrolla habilidades clave: trabajo en equipo, comunicación efectiva y pensamiento crítico\n- Los campus universitarios como laboratorios vivos crean oportunidades únicas de aprendizaje activo en sostenibilidad\n- La colaboración interdisciplinaria es fundamental para abordar problemas de sostenibilidad complejos\n- Las alianzas academia-empresa-comunidad potencian el impacto real de los estudiantes como agentes de cambio\n- La sostenibilidad en la educación superior contribuye a la formación de ciudadanos comprometidos con un futuro próspero para todos\n\n## Contexto\nColumna de opinión (\"Columnista Invitado\") publicada en EXPONOTAS No. 71 de ANALDEX (Asociación Nacional de Comercio Exterior de Colombia). Refleja la perspectiva de dos profesores de ingeniería de la Universidad de los Andes sobre la integración de la sostenibilidad en la formación universitaria mediante metodologías activas.\n\n## Notas relacionadas\n- [[concepts/aprendizaje-activo]]\n- [[concepts/educacion-superior]]\n- [[concepts/interdisciplinariedad]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/sostenibilidad]]"
+    },
+    {
+      "id": "notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia",
+      "kind": "article",
+      "label": "Hacia una alimentación sostenible a base de insectos en Colombia",
+      "authors": [
+        "Andrea Sánchez-Camargo, Luis H. Reyes"
+      ],
+      "year": "2023",
+      "venue": "P&M Science",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "sostenibilidad",
+        "ingenieria-de-alimentos",
+        "comportamiento-del-consumidor",
+        "economia-circular"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia.md",
+      "pdf_local": "",
+      "content": "## Resumen\nArtículo de divulgación (revista P&M Science, octubre-noviembre 2023) que explora la entomofagia —el consumo de insectos— como vía hacia una alimentación más sostenible. Ante una población mundial proyectada en 10.000 millones para 2050 y los impactos ambientales del consumo de carne (deforestación, escasez de agua, agotamiento del suelo, emisiones de gases de efecto invernadero), los autores presentan a los insectos como fuente de proteína de alto valor nutricional y bajo impacto ambiental. Hormigas y grillos pueden contener hasta 77 % de proteína frente al 28 % de la carne de res, además de ser ricos en fibra, grasas y minerales.\n\nEl texto sitúa a América Latina como el segundo mercado de insectos comestibles del mundo (México, Ecuador, Colombia, Brasil y Venezuela), describe especies de consumo tradicional en Colombia (hormiga culona *Atta laevigata*, mojojoy, termitas) y la incipiente comercialización global de productos a base de harina de insecto (barras, panes, pastas). Los principales obstáculos son la falta de marco normativo y el rechazo del consumidor —el asco y la compasión como reacciones inmediatas—, por lo que los mercados de entrada más promisorios son los especializados (deporte de alto rendimiento, nutrición de la tercera edad).\n\n## Puntos clave\n- Los insectos ofrecen alto valor nutricional con menor huella ambiental que la carne.\n- América Latina es el segundo mercado mundial de insectos comestibles.\n- Las barreras clave son regulatorias y de aceptación del consumidor (rechazo/asco).\n\n## Contexto\nDivulgación que conecta seguridad alimentaria, sostenibilidad y los Objetivos de Desarrollo Sostenible con la innovación en fuentes de proteína. Coescrito por Luis H. Reyes (Universidad de los Andes).\n\n## Notas relacionadas\n- [[concepts/sostenibilidad]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/comportamiento-del-consumidor]]\n- [[concepts/economia-circular]]"
+    },
+    {
+      "id": "notes/articles/2024-01-01_ingenieria-quimica-america-latina",
+      "kind": "article",
+      "label": "Editorial: The modern face of chemical engineering in Latin America",
+      "authors": [
+        "Luis H. Reyes, Juan C. Cruz, Oscar Alberto Alvarez Solano"
+      ],
+      "year": "2024",
+      "venue": "Education for Chemical Engineers (Elsevier)",
+      "url": "https://doi.org/10.1016/j.ece.2023.10.003",
+      "doi": "",
+      "keywords": [
+        "ingenieria-quimica",
+        "educacion-superior",
+        "sostenibilidad",
+        "futuro-del-trabajo",
+        "economia-de-la-innovacion"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/articles/2024-01-01_ingenieria-quimica-america-latina.md",
+      "pdf_local": "",
+      "content": "## Resumen\nEditorial publicado en *Education for Chemical Engineers* (vol. 46, 2024) que retrata la transformación de la ingeniería química en América Latina. La disciplina, antes ligada principalmente al petróleo y el gas, abarca hoy un vasto espectro de industrias —desde la biomedicina hasta los productos naturales sostenibles y los productos personalizados mediante avances en ciencia de polímeros y coloides—. Los ingenieros químicos dejan de ser técnicos \"tras bambalinas\" para convertirse en investigadores, innovadores y emprendedores a la vanguardia.\n\nEl editorial sostiene que América Latina, con sus abundantes recursos naturales y economías emergentes dinámicas, está bien posicionada para liderar la producción de químicos especializados a partir de fuentes sostenibles. Hace un llamado a formar a la próxima generación de ingenieros químicos con competencias diversas y principios fundamentales que impulsen la innovación y la sostenibilidad, favoreciendo el paso de una región exportadora de materias primas a una que lidere industrias de producto terminado y reduzca las disparidades socioeconómicas.\n\n## Puntos clave\n- La ingeniería química latinoamericana se diversifica más allá del petróleo y gas.\n- La región tiene ventaja competitiva en químicos especializados de fuentes sostenibles.\n- Urge formar ingenieros con competencias amplias orientadas a innovación y sostenibilidad.\n\n## Contexto\nEditorial que enmarca un número de la revista dedicado a la educación en ingeniería química en la región; conecta la formación universitaria con el desarrollo económico y la transición hacia industrias sostenibles. Firmado por investigadores de la Universidad de los Andes (Bogotá).\n\n## Notas relacionadas\n- [[concepts/ingenieria-quimica]]\n- [[concepts/educacion-superior]]\n- [[concepts/sostenibilidad]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/economia-de-la-innovacion]]"
     },
     {
       "id": "notes/articles/2025-04-20_openai-guia-casos-uso-ia",
@@ -6141,6 +6528,111 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
+      "target": "concepts/percepcion-multisensorial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
+      "target": "concepts/comportamiento-del-consumidor",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
+      "target": "concepts/visualizacion-de-datos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
+      "target": "concepts/diseno-de-producto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
+      "target": "notes/papers/2024-05-15_sound-of-freshness-perfumeria",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas",
+      "target": "concepts/microfluidica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-01_casein-actividad-antimicrobiana",
+      "target": "concepts/peptidos-bioactivos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-01_casein-actividad-antimicrobiana",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-01_casein-actividad-antimicrobiana",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-01_casein-actividad-antimicrobiana",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-01_casein-actividad-antimicrobiana",
+      "target": "concepts/bioquimica-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-01_casein-actividad-antimicrobiana",
+      "target": "notes/papers/2024-01-01_casein-polimorfismos-queso",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2024-01-01_casein-polimorfismos-queso",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-01_casein-polimorfismos-queso",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-01_casein-polimorfismos-queso",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-01-01_casein-polimorfismos-queso",
+      "target": "notes/papers/2024-01-01_casein-actividad-antimicrobiana",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
       "target": "concepts/educacion-superior",
       "kind": "keyword"
@@ -6173,6 +6665,106 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
       "target": "concepts/impacto-de-investigacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa",
+      "target": "concepts/biomasa-lignocelulosica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa",
+      "target": "concepts/proteinas-recombinantes",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica",
+      "target": "concepts/desarrollo-rural",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica",
+      "target": "concepts/politica-social",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-05-15_sound-of-freshness-perfumeria",
+      "target": "concepts/percepcion-multisensorial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-05-15_sound-of-freshness-perfumeria",
+      "target": "concepts/comportamiento-del-consumidor",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-05-15_sound-of-freshness-perfumeria",
+      "target": "concepts/diseno-de-producto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-05-15_sound-of-freshness-perfumeria",
+      "target": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva",
+      "target": "concepts/proteinas-recombinantes",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva",
+      "target": "concepts/enfermedades-raras",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva",
+      "target": "concepts/desarrollo-de-farmacos",
       "kind": "keyword"
     },
     {
@@ -6238,6 +6830,26 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2024-07-01_prompting-quimica-preservice",
       "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-01_yeastsim-simulador-control-procesos",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-01_yeastsim-simulador-control-procesos",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-01_yeastsim-simulador-control-procesos",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-01_yeastsim-simulador-control-procesos",
+      "target": "concepts/aprendizaje-activo",
       "kind": "keyword"
     },
     {
@@ -6938,6 +7550,51 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/articles/2023-01-01_academia-sostenibilidad-abp",
       "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia",
+      "target": "concepts/comportamiento-del-consumidor",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia",
+      "target": "concepts/economia-circular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-01-01_ingenieria-quimica-america-latina",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-01-01_ingenieria-quimica-america-latina",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-01-01_ingenieria-quimica-america-latina",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-01-01_ingenieria-quimica-america-latina",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-01-01_ingenieria-quimica-america-latina",
+      "target": "concepts/economia-de-la-innovacion",
       "kind": "keyword"
     },
     {

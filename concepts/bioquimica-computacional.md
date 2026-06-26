@@ -16,3 +16,4 @@ Aplicación de métodos computacionales al estudio de moléculas biológicas (pr
 - [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]
 - [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]
 - [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]
+- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]
