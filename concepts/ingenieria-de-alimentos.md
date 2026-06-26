@@ -14,3 +14,5 @@ Disciplina que aplica principios de química, ingeniería y ciencias de material
 - [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]
 - [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]
 - [[notes/papers/2022-02-24_multiscale-productos-lacteos]]
+- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]
+- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]

@@ -12,3 +12,5 @@ Aplicación de métodos computacionales al estudio de moléculas biológicas (pr
 - [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]
 - [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]
 - [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]
+- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]
+- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]

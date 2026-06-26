@@ -13,3 +13,4 @@ Relación entre las condiciones sociales, culturales y económicas y los resulta
 - [[notes/books/2024-01-01_blind-spots-makary]]
 - [[notes/books/2017-04-04_pandoras-lab-offit]]
 - [[notes/books/2022-09-26_of-boys-and-men-reeves]]
+- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]

@@ -13,3 +13,5 @@ Proceso de identificación, validación y prueba de compuestos para tratar enfer
 - [[notes/books/2017-04-04_pandoras-lab-offit]]
 - [[notes/papers/2021-09-01_genome-editing-parkinson]]
 - [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]
+- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]
+- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]
