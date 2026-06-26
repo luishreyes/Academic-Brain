@@ -12,3 +12,4 @@ Proteínas producidas por organismos huésped modificados genéticamente para ex
 - [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]
 - [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]
 - [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]
+- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]

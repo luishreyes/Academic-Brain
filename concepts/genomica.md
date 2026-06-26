@@ -23,3 +23,4 @@ Campo que estudia la estructura, función y variación de los genomas completos;
 - [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]
 - [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]
 - [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]
+- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]

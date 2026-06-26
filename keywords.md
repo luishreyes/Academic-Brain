@@ -33,6 +33,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **biomateriales** — Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas. _Aliases: biomaterials, hydrogels, scaffolds, encapsulation, drug delivery materials_
 
+**biosurfactantes** — Moléculas tensoactivas de origen biológico (péptidos, lipopéptidos, glicolípidos) que reducen la tensión interfacial agua-aceite; alternativas verdes a surfactantes petroquímicos; su diseño racional combina estructura molecular y simulaciones computacionales. _Aliases: biosurfactants, surfactantes biológicos, bioemulsificantes, tensoactivos biológicos, surface-active peptides_
+
 **biocombustibles** — Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación. _Aliases: biofuels, biobutanol, n-butanol, bioethanol, combustibles renovables_
 
 **biologia-molecular** — Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes. _Aliases: molecular biology, biología celular y molecular, gene expression, molecular mechanisms_
