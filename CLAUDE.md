@@ -56,6 +56,15 @@ El propósito del vault es descubrir conexiones genuinas entre ideas. Esto signi
 - Las conexiones que aparecen entre nodos distintos son valiosas *porque* surgieron del contenido, no de una decisión editorial
 - Un nodo aislado o poco conectado es perfectamente válido; no es un problema a corregir
 
+**Los keywords son independientes de las conexiones que generan.**
+
+Los keywords describen el contenido del paper. Punto. Si ese keyword conecta con otras notas o no, es irrelevante al momento de asignarlo. Errores a evitar:
+
+- **No subasignar** keywords porque un paper es de un dominio nuevo sin notas existentes — eso también es forzar (en la dirección opuesta)
+- **No sobreasignar** keywords genéricos para "conectar" un paper a temas que no cubre
+- La pregunta correcta siempre es: *¿este paper trata genuinamente este tema?* — no *¿este keyword conecta con otras notas?*
+- Un paper puede tener 8 keywords que no generen ninguna conexión nueva, y eso es perfectamente correcto
+
 ## Regla fundamental: gestión de keywords
 
 **Siempre leer `keywords.md` antes de asignar cualquier keyword.**
