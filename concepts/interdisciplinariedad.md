@@ -15,3 +15,4 @@ Integración de métodos, conceptos y perspectivas de distintas disciplinas para
 - [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]
 - [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]
 - [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]
+- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]

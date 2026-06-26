@@ -32,3 +32,4 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]
 - [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]
 - [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]
+- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]

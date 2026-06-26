@@ -22,3 +22,4 @@ Relación entre la producción científica y sus contextos sociales, políticos 
 - [[notes/books/2020-04-04_how-innovation-works-ridley]]
 - [[notes/books/2017-04-04_pandoras-lab-offit]]
 - [[notes/books/2010-06-15_the-rational-optimist-ridley]]
+- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]

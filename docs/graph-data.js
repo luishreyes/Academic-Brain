@@ -3,9 +3,9 @@ window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
     "papers": 77,
-    "articles": 8,
+    "articles": 9,
     "books": 28,
-    "concepts": 91
+    "concepts": 92
   },
   "nodes": [
     {
@@ -94,8 +94,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "path": "concepts/aprendizaje-activo.md",
-      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]",
-      "degree": 9
+      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]",
+      "degree": 10
     },
     {
       "id": "concepts/autorregulacion-del-aprendizaje",
@@ -305,8 +305,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.",
       "path": "concepts/ciencia-y-sociedad.md",
-      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]",
-      "degree": 18
+      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]",
+      "degree": 19
     },
     {
       "id": "concepts/comercio-y-prosperidad",
@@ -561,8 +561,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]",
-      "degree": 23
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]",
+      "degree": 24
     },
     {
       "id": "concepts/enfermedades-raras",
@@ -962,8 +962,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.",
       "path": "concepts/interdisciplinariedad.md",
-      "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]",
-      "degree": 6
+      "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]",
+      "degree": 7
     },
     {
       "id": "concepts/liderazgo-educativo",
@@ -1354,6 +1354,24 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/simulacion-computacional.md",
       "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]",
       "degree": 3
+    },
+    {
+      "id": "concepts/sostenibilidad",
+      "kind": "concept",
+      "label": "sostenibilidad",
+      "keyword": "sostenibilidad",
+      "aliases": [
+        "sustainability",
+        "desarrollo sostenible",
+        "sustainable development goals",
+        "SDGs",
+        "campus sostenible",
+        "sostenibilidad universitaria"
+      ],
+      "definition": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.",
+      "path": "concepts/sostenibilidad.md",
+      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]",
+      "degree": 1
     },
     {
       "id": "concepts/supervision-humana",
@@ -3648,6 +3666,29 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol.md",
       "pdf_local": "",
       "content": "## Resumen\n\nEste artículo de divulgación presenta los resultados de una investigación sobre cómo sonidos experienciales asociados al empaque de cerveza pueden modular positivamente las expectativas emocionales y sensoriales de los consumidores hacia la cerveza sin alcohol. Publicado en Revista P&M (Colombia, abril–mayo 2022), el trabajo de Reinoso-Carvalho y Reyes parte de una realidad epidemiológica —el incremento del consumo de alcohol durante la pandemia y sus costos en salud pública— para proponer una estrategia multisensorial que haga más atractiva la cerveza sin alcohol.\n\nLos autores realizaron dos experimentos con cientos de participantes en un contexto de comercio electrónico. El primero identificó que el sonido de cerveza vertida desde una botella genera más expectativas emocionales y sensoriales positivas que otros sonidos. El segundo demostró que presentar la imagen de una cerveza sin alcohol acompañada de ese sonido específico contrarresta las expectativas negativas habitualmente asociadas a ese producto (falta de amargura, cuerpo ligero, demasiada dulzura), logrando un set de expectativas significativamente más positivo que con la imagen sola o con otros sonidos. El estudio ilustra cómo el marketing sensorial puede usarse como herramienta para fomentar hábitos de consumo más saludables.\n\n## Puntos clave\n- El 35% de los consumidores de bebidas alcohólicas en Colombia tiene hábitos considerados perjudiciales\n- La cerveza sin alcohol está asociada a expectativas emocionales negativas (tristeza, decepción) y sensoriales desfavorables\n- El sonido de cerveza vertida desde botella es el estímulo auditivo que más eleva expectativas positivas sobre la cerveza sin alcohol\n- Los sonidos de empaque pueden redirigir las expectativas y potencialmente influir en decisiones de compra en entornos digitales\n\n## Contexto\nEl artículo conecta investigación multisensorial (diseño de experiencias de consumidor) con un objetivo de salud pública: reducir el consumo de alcohol aprovechando el crecimiento del e-commerce en Colombia. Enmarca el marketing sensorial no como herramienta puramente comercial sino como vehículo de cambio de hábitos. El trabajo se inscribe en la línea de investigación del grupo GDPP (Diseño de Productos y Procesos) de la Universidad de los Andes.\n\n## Notas relacionadas\n- [[concepts/comportamiento-del-consumidor]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/salud-y-sociedad]]"
+    },
+    {
+      "id": "notes/articles/2023-01-01_academia-sostenibilidad-abp",
+      "kind": "article",
+      "label": "Academia y sostenibilidad, un 'match' necesario",
+      "authors": [
+        "Luis H. Reyes y Juan C. Cruz"
+      ],
+      "year": "2023",
+      "venue": "EXPONOTAS (ANALDEX)",
+      "url": "https://issuu.com/analdex./docs/exponotas_no._71",
+      "doi": "",
+      "keywords": [
+        "aprendizaje-activo",
+        "educacion-superior",
+        "interdisciplinariedad",
+        "ciencia-y-sociedad",
+        "sostenibilidad"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/articles/2023-01-01_academia-sostenibilidad-abp.md",
+      "pdf_local": "",
+      "content": "## Resumen\nLos profesores Luis H. Reyes y Juan C. Cruz de la Universidad de los Andes argumentan que el aprendizaje basado en proyectos (ABP) combinado con la integración de la sostenibilidad en el currículo tiene el potencial de transformar la educación universitaria y formar profesionales y ciudadanos comprometidos con un futuro más sostenible. El ABP es un enfoque pedagógico que involucra a los estudiantes en la resolución de problemas reales y significativos, permitiendo adquirir conocimientos teóricos mientras desarrollan habilidades prácticas.\n\nEl artículo propone que los campus universitarios pueden convertirse en laboratorios vivos de sostenibilidad, donde los estudiantes colaboran con la administración, el personal y la comunidad para diseñar y ejecutar proyectos sostenibles reales (eficiencia energética, gestión de residuos, sistemas de alimentación). Esta interacción permite experimentar de primera mano los desafíos de la sostenibilidad y forma estudiantes con sentido de pertenencia y responsabilidad hacia su entorno. Finalmente, los autores subrayan el rol de las alianzas universidad-empresa-sector público para involucrar a los estudiantes en proyectos de sostenibilidad comunitaria, desarrollando habilidades de liderazgo y comunicación para actores de cambio.\n\n## Puntos clave\n- El ABP en sostenibilidad desarrolla habilidades clave: trabajo en equipo, comunicación efectiva y pensamiento crítico\n- Los campus universitarios como laboratorios vivos crean oportunidades únicas de aprendizaje activo en sostenibilidad\n- La colaboración interdisciplinaria es fundamental para abordar problemas de sostenibilidad complejos\n- Las alianzas academia-empresa-comunidad potencian el impacto real de los estudiantes como agentes de cambio\n- La sostenibilidad en la educación superior contribuye a la formación de ciudadanos comprometidos con un futuro próspero para todos\n\n## Contexto\nColumna de opinión (\"Columnista Invitado\") publicada en EXPONOTAS No. 71 de ANALDEX (Asociación Nacional de Comercio Exterior de Colombia). Refleja la perspectiva de dos profesores de ingeniería de la Universidad de los Andes sobre la integración de la sostenibilidad en la formación universitaria mediante metodologías activas.\n\n## Notas relacionadas\n- [[concepts/aprendizaje-activo]]\n- [[concepts/educacion-superior]]\n- [[concepts/interdisciplinariedad]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/sostenibilidad]]"
     },
     {
       "id": "notes/articles/2025-04-20_openai-guia-casos-uso-ia",
@@ -6872,6 +6913,31 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol",
       "target": "concepts/salud-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2023-01-01_academia-sostenibilidad-abp",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2023-01-01_academia-sostenibilidad-abp",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2023-01-01_academia-sostenibilidad-abp",
+      "target": "concepts/interdisciplinariedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2023-01-01_academia-sostenibilidad-abp",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2023-01-01_academia-sostenibilidad-abp",
+      "target": "concepts/sostenibilidad",
       "kind": "keyword"
     },
     {
