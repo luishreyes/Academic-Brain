@@ -35,3 +35,4 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/articles/2026-03-12_shape-of-thing-mollick]]
 - [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]
 - [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]
+- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]
