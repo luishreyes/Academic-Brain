@@ -43,6 +43,19 @@ El vault tiene su propio visualizador interactivo en `docs/`, servido por GitHub
 Convención de nombres canónicos: `apellido-primer-autor + año + slug-corto.pdf`  
 Ejemplo: `kestin2025-tutoria-ia-supera-activo.pdf`
 
+## Principio filosófico del vault
+
+**Las conexiones deben emerger solas, nunca ser forzadas.**
+
+El propósito del vault es descubrir conexiones genuinas entre ideas. Esto significa:
+
+- **Nunca** asignar una keyword a una nota solo porque "conecta" con notas existentes o con el tema dominante del vault
+- **Nunca** estirar el significado de una keyword para que un paper encaje en el grafo
+- Asignar únicamente las keywords que describen con precisión el contenido real de la nota
+- Si un paper de biología molecular no tiene relación con IA o educación, sus keywords serán de biología molecular — y eso es correcto
+- Las conexiones que aparecen entre nodos distintos son valiosas *porque* surgieron del contenido, no de una decisión editorial
+- Un nodo aislado o poco conectado es perfectamente válido; no es un problema a corregir
+
 ## Regla fundamental: gestión de keywords
 
 **Siempre leer `keywords.md` antes de asignar cualquier keyword.**
