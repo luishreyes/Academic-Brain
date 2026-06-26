@@ -2,7 +2,7 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 86,
+    "papers": 87,
     "articles": 11,
     "books": 28,
     "concepts": 97
@@ -357,8 +357,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.",
       "path": "concepts/comportamiento-del-consumidor.md",
-      "content": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.\n\n## Notas que usan este concepto\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]",
-      "degree": 5
+      "content": "Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce.\n\n## Notas que usan este concepto\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]",
+      "degree": 6
     },
     {
       "id": "concepts/comunicacion-cientifica",
@@ -518,8 +518,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño y optimización de productos y experiencias, en particular experiencias sensoriales y multisensoriales; metodologías para caracterizar y crear estímulos (sonido, aroma, sabor) que modulan la percepción y la respuesta del consumidor.",
       "path": "concepts/diseno-de-producto.md",
-      "content": "Diseño y optimización de productos y experiencias, en particular experiencias sensoriales y multisensoriales; metodologías para caracterizar y crear estímulos (sonido, aroma, sabor) que modulan la percepción y la respuesta del consumidor.\n\n## Notas que usan este concepto\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]",
-      "degree": 2
+      "content": "Diseño y optimización de productos y experiencias, en particular experiencias sensoriales y multisensoriales; metodologías para caracterizar y crear estímulos (sonido, aroma, sabor) que modulan la percepción y la respuesta del consumidor.\n\n## Notas que usan este concepto\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]",
+      "degree": 3
     },
     {
       "id": "concepts/diseno-especulativo",
@@ -936,8 +936,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.",
       "path": "concepts/ingenieria-de-alimentos.md",
-      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]",
-      "degree": 14
+      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]",
+      "degree": 15
     },
     {
       "id": "concepts/ingenieria-metabolica",
@@ -1000,8 +1000,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]",
-      "degree": 26
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]",
+      "degree": 27
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -1456,8 +1456,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.",
       "path": "concepts/sostenibilidad.md",
-      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]",
-      "degree": 4
+      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]",
+      "degree": 5
     },
     {
       "id": "concepts/supervision-humana",
@@ -3957,6 +3957,31 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia.md",
       "pdf_local": "sources/pdfs/lu2026-ai-scientist-automatizacion.pdf",
       "content": "## Resumen\n\nEl AI Scientist es el primer sistema capaz de automatizar de extremo a extremo el ciclo completo de investigación en inteligencia artificial: desde la generación de ideas hasta la escritura y revisión de manuscritos académicos. El sistema integra modelos de lenguaje (GPT-4o, Claude) con un entorno de ejecución de código que permite idear hipótesis, implementarlas, ejecutar experimentos mediante búsqueda en árbol y redactar artículos en formato LaTeX con figuras y análisis estadísticos. El pipeline es operado por un agente que toma decisiones autónomas en cada etapa, sin intervención humana entre pasos.\n\nEl sistema opera en dos modos: uno basado en plantillas (template-based), donde parte de un código de experimento existente y lo expande iterativamente, y otro libre (template-free) que usa búsqueda en árbol agentica para generar ideas y experimentos desde cero. El Automated Reviewer —un componente de revisión automática que emula el proceso de peer review— genera un conjunto de cinco revisiones independientes y una meta-revisión, alcanzando 69 % de balanced accuracy en aceptar/rechazar trabajos previos a su fecha de corte y 66 % después, comparables al desempeño de revisores humanos.\n\nEn una prueba real de publicación, el sistema generó tres manuscritos y los sometió al workshop ICBINB de ICLR 2025: el 70 % fue aceptado (frente al 48 % de tasa base del workshop), y uno de ellos superó la revisión con una puntuación de 6.33 (umbral: 6). Este resultado es especialmente significativo porque demuestra que un agente de IA puede producir trabajo original suficientemente riguroso para superar el escrutinio de revisores humanos en un contexto real.\n\nLos autores identifican limitaciones sustanciales: el sistema produce ideas frecuentemente derivadas o superficiales, comete errores de implementación, confabula resultados, duplica figuras y no tiene acceso a experimentos físicos o datos propios. Concluyen que los avances reales dependen de la calidad y el cómputo del modelo subyacente, que la supervisión humana sigue siendo indispensable, y que la automatización de la ciencia plantea riesgos de homogeneización del conocimiento y de erosión del reconocimiento de la contribución intelectual individual.\n\n## Contribuciones principales\n\n- Primer sistema end-to-end de automatización de investigación en IA: ideación → código → experimentos → manuscrito → revisión automática\n- Automated Reviewer con balanced accuracy comparable a revisores humanos (66-69 %)\n- Manuscrito generado que superó revisión por pares real en ICLR 2025 ICBINB workshop\n- Modo template-free con búsqueda en árbol agentica para explorar el espacio de hipótesis desde cero\n- Análisis empírico de cómo la calidad del agente y el cómputo escalan la calidad del output\n\n## Metodología\n\nEl pipeline encadena cuatro módulos: (1) **Ideación** — el agente consulta la literatura existente (vía Semantic Scholar API) y propone ideas que puntúa según novedad, viabilidad e interés; (2) **Experimentación** — escribe o modifica código Python y lo ejecuta iterativamente con retroalimentación del intérprete, usando búsqueda en árbol para explorar variantes; (3) **Redacción** — compila resultados y genera un PDF en LaTeX con tablas y figuras; (4) **Revisión automatizada** — otro agente lee el PDF, produce reseñas en formato estándar de ML y emite un score de aceptación. El template-free mode añade una fase de ideación más extensa y estructura el espacio de búsqueda como árbol con estados: borrador, ejecutado, aceptado, rechazado.\n\n## Hallazgos clave\n\n- El AI Scientist generó ideas viables y ejecutables en ML (transformers, diffusion, RL), bio-inspirada y otras áreas computacionales\n- 70 % de aceptación en ICLR 2025 ICBINB workshop; un paper con score 6.33 pasó el umbral de 6.0\n- El Automated Reviewer tiene balanced accuracy 66-69 %, similar a revisores humanos promedio\n- La calidad escala con la capacidad del modelo base (GPT-4o > modelos menos capaces) y con el cómputo invertido en búsqueda\n- Costo estimado por paper: ~15 USD en tokens de API (al momento de la publicación)\n\n## Limitaciones\n\n- Ideas frecuentemente derivadas, con poca profundidad conceptual o falsamente novedosas\n- Errores de implementación y alucinaciones en los resultados reportados\n- Incapaz de realizar experimentos físicos, acceder a datos experimentales originales o conectarse a laboratorios reales\n- Duplicación de figuras y problemas de presentación en algunos manuscritos\n- No adecuado para envío a venues principales de conferencias (solo workshop)\n- Riesgo de homogeneización del conocimiento científico y de \"gaming\" del sistema de peer review\n\n## Notas relacionadas\n\n- [[concepts/agentes-de-ia]]\n- [[concepts/descubrimiento-cientifico]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/publicacion-academica]]\n- [[concepts/etica-de-la-ciencia]]\n- [[concepts/supervision-humana]]\n- [[concepts/impacto-de-investigacion]]"
+    },
+    {
+      "id": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles",
+      "kind": "paper",
+      "label": "Generative artificial intelligence creates delicious, sustainable, and nutritious burgers",
+      "authors": [
+        "Vahidullah Taç",
+        "Christopher D. Gardner",
+        "Ellen Kuhl"
+      ],
+      "year": "2026",
+      "venue": "npj Science of Food",
+      "url": "https://doi.org/10.1038/s41538-026-00953-x",
+      "doi": "10.1038/s41538-026-00953-x",
+      "keywords": [
+        "inteligencia-artificial",
+        "ingenieria-de-alimentos",
+        "sostenibilidad",
+        "comportamiento-del-consumidor",
+        "diseno-de-producto"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles.md",
+      "pdf_local": "sources/pdfs/tac-2026-genai-hamburguesas-sostenibles.pdf",
+      "content": "## Resumen\nLas decisiones alimentarias moldean tanto la salud humana como la planetaria, pero diseñar alimentos que sean a la vez deliciosos, nutritivos y sostenibles sigue siendo un reto. El trabajo demuestra que la IA generativa puede aprender la estructura del paladar humano directamente a partir de datos masivos de recetas generadas por personas, para crear alimentos novedosos dentro de un espacio de diseño estructurado.\n\nUsando las hamburguesas como sistema modelo, la IA generativa redescubre el clásico Big Mac sin supervisión explícita y genera hamburguesas novedosas optimizadas para deliciosidad, sostenibilidad o nutrición. Comparadas con el Big Mac en una evaluación sensorial a ciegas en un restaurante con 101 participantes, sus hamburguesas \"deliciosas\" puntúan igual o mejor en agrado general, sabor y textura; su hamburguesa de champiñón logra un impacto ambiental más de un orden de magnitud menor; y su hamburguesa de frijol alcanza casi el doble de puntaje nutricional.\n\nLos resultados establecen a la IA generativa como un marco cuantitativo para aprender el gusto humano y navegar los complejos compromisos (trade-offs) del diseño racional de alimentos, abordando la aceptación del consumidor como cuello de botella central en la adopción de alimentos sostenibles y nutritivos.\n\n## Contribuciones principales\n- IA generativa que aprende la estructura del paladar humano a partir de datos de recetas.\n- Generación de alimentos optimizados para deliciosidad, sostenibilidad o nutrición dentro de un espacio de diseño.\n- Validación sensorial a ciegas (101 participantes) frente a un producto de referencia (Big Mac).\n\n## Metodología\nModelo de IA generativa entrenado con datos masivos de recetas, con definición de un espacio de diseño estructurado y evaluación sensorial a ciegas en entorno de restaurante.\n\n## Hallazgos clave\n- Las hamburguesas generadas igualan o superan al Big Mac en agrado, sabor y textura.\n- Se logran mejoras drásticas en impacto ambiental (>10×) y nutrición (~2×) sin sacrificar aceptación.\n- La aceptación del consumidor, no la disponibilidad, es el cuello de botella de la alimentación sostenible.\n\n## Limitaciones\n- Validación en un único sistema modelo (hamburguesas) y un contexto de evaluación.\n- Dependencia de la calidad y los sesgos de los datos de recetas de entrenamiento.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/sostenibilidad]]\n- [[concepts/comportamiento-del-consumidor]]\n- [[concepts/diseno-de-producto]]"
     },
     {
       "id": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
@@ -7470,6 +7495,31 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
       "target": "concepts/impacto-de-investigacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles",
+      "target": "concepts/comportamiento-del-consumidor",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles",
+      "target": "concepts/diseno-de-producto",
       "kind": "keyword"
     },
     {

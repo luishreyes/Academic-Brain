@@ -23,3 +23,4 @@ Disciplina que aplica principios de química, ingeniería y ciencias de material
 - [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]
 - [[notes/papers/2024-01-01_casein-polimorfismos-queso]]
 - [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]
+- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]
