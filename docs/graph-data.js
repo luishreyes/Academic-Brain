@@ -2,7 +2,7 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 18,
+    "papers": 19,
     "articles": 5,
     "books": 24,
     "concepts": 64
@@ -34,8 +34,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).",
       "path": "concepts/agentes-de-ia.md",
-      "content": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]",
-      "degree": 1
+      "content": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
+      "degree": 2
     },
     {
       "id": "concepts/alfabetizacion-en-ia",
@@ -80,8 +80,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.",
       "path": "concepts/alucinaciones-de-ia.md",
-      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
-      "degree": 7
+      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
+      "degree": 8
     },
     {
       "id": "concepts/aprendizaje-activo",
@@ -157,8 +157,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.",
       "path": "concepts/capacidades-de-ia.md",
-      "content": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
-      "degree": 2
+      "content": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
+      "degree": 3
     },
     {
       "id": "concepts/ciencia-y-sociedad",
@@ -282,8 +282,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.",
       "path": "concepts/descubrimiento-cientifico.md",
-      "content": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]",
-      "degree": 4
+      "content": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
+      "degree": 5
     },
     {
       "id": "concepts/desigualdad-de-genero",
@@ -440,8 +440,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Dimensiones normativas y de responsabilidad en la producción y aplicación del conocimiento científico; incluye integridad científica, consentimiento, impacto social y dilemas morales de la investigación.",
       "path": "concepts/etica-de-la-ciencia.md",
-      "content": "Dimensiones normativas y de responsabilidad en la producción y aplicación del conocimiento científico; incluye integridad científica, consentimiento, impacto social y dilemas morales de la investigación.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]",
-      "degree": 6
+      "content": "Dimensiones normativas y de responsabilidad en la producción y aplicación del conocimiento científico; incluye integridad científica, consentimiento, impacto social y dilemas morales de la investigación.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
+      "degree": 7
     },
     {
       "id": "concepts/etica-de-la-ia",
@@ -631,8 +631,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades.",
       "path": "concepts/impacto-de-investigacion.md",
-      "content": "Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-01-01_blind-spots-makary]]",
-      "degree": 3
+      "content": "Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
+      "degree": 4
     },
     {
       "id": "concepts/integridad-academica",
@@ -662,8 +662,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]",
-      "degree": 21
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
+      "degree": 22
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -849,8 +849,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.",
       "path": "concepts/publicacion-academica.md",
-      "content": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]",
-      "degree": 1
+      "content": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
+      "degree": 2
     },
     {
       "id": "concepts/regulacion-de-ia",
@@ -943,8 +943,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.",
       "path": "concepts/supervision-humana.md",
-      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
-      "degree": 13
+      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
+      "degree": 14
     },
     {
       "id": "concepts/tecnocracia",
@@ -1483,6 +1483,40 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-02-03_asistente-ia-educacion-superior.md",
       "pdf_local": "sources/pdfs/sajja2026-asistente-ia-educacion-ingenieria.pdf",
       "content": "## Resumen\n\nEl estudio evalúa el Educational AI Hub —un marco de asistencia de aprendizaje basado en IA generativa (GPT)— implementado en cursos de pregrado de ingeniería civil y ambiental en Tulane University. La motivación es la creciente integración de GenAI en educación superior sin suficiente evidencia empírica sobre cómo los estudiantes la perciben, adoptan y confían, especialmente en disciplinas técnicas específicas. Se usa un diseño de métodos mixtos con 71 estudiantes, más de 600 interacciones IA registradas, encuestas pre y post, y análisis cualitativo.\n\nLos hallazgos revelan una valoración ambivalente: los estudiantes perciben el asistente de IA como comparable pero no superior a la instrucción humana en calidad (solo 17% lo consideró mejor), aunque lo valoran positivamente en conveniencia (68% más conveniente que ir con el profesor) y comodidad para pedir ayuda (47% se siente más cómodo con la IA que con TA o instructor). El uso fue más alto para completar tareas y entender conceptos. Sin embargo, la incertidumbre ética —especialmente sobre política institucional e integridad académica— emergió como barrera clave: una mayoría temía que la IA facilitara el plagio, aunque preferían políticas de integración sobre prohibiciones totales. Los autores denominan esto \"disonancia ética\": los estudiantes valoran la herramienta pero temen las consecuencias disciplinarias de usarla.\n\n## Contribuciones principales\n- Evaluación empírica de un asistente IA disciplina-específico en ingeniería a nivel de pregrado (71 estudiantes, 600+ interacciones)\n- Documentación de la \"disonancia ética\" como barrera clave: utilidad valorada vs. miedo a consecuencias académicas\n- Implicaciones para política institucional: los estudiantes prefieren integración regulada sobre prohibición\n\n## Metodología\n\nMétodos mixtos: encuestas pre/post (Likert), logs de uso del sistema, análisis cualitativo de interacciones. Dos cursos de pregrado en ingeniería civil y ambiental. El Educational AI Hub es un asistente conversacional basado en GPT con acceso a documentos del curso (syllabus, notas) mediante RAG (retrieval-augmented generation).\n\n## Hallazgos clave\n- 68% de estudiantes percibió la IA como más conveniente que la instrucción humana\n- 47% se siente más cómodo con la IA que con un TA/instructor para pedir ayuda\n- Solo 17% percibió la calidad de ayuda IA como mejor que la humana\n- Mayoría expresa preocupación por alucinaciones e integridad académica\n- Estudiantes prefieren políticas de integración regulada sobre prohibición total\n\n## Limitaciones\n- Muestra pequeña (71 estudiantes) en dos cursos de una sola universidad\n- Contexto disciplinar específico (ingeniería civil/ambiental); puede no generalizarse a otras disciplinas\n- Efectos a largo plazo sobre resultados académicos no evaluados\n\n## Notas relacionadas\n- [[concepts/tutoria-con-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/integridad-academica]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]"
+    },
+    {
+      "id": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "kind": "paper",
+      "label": "Towards end-to-end automation of AI research",
+      "authors": [
+        "Chris Lu",
+        "Cong Lu",
+        "Robert Tjarko Lange",
+        "Yutaro Yamada",
+        "Shengran Hu",
+        "Jakob Foerster",
+        "David Ha",
+        "Jeff Clune"
+      ],
+      "year": "2026",
+      "venue": "Nature",
+      "url": "https://doi.org/10.1038/s41586-026-10265-5",
+      "doi": "10.1038/s41586-026-10265-5",
+      "keywords": [
+        "agentes-de-ia",
+        "descubrimiento-cientifico",
+        "inteligencia-artificial",
+        "capacidades-de-ia",
+        "alucinaciones-de-ia",
+        "publicacion-academica",
+        "etica-de-la-ciencia",
+        "supervision-humana",
+        "impacto-de-investigacion"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia.md",
+      "pdf_local": "sources/pdfs/lu2026-ai-scientist-automatizacion.pdf",
+      "content": "## Resumen\n\nEl AI Scientist es el primer sistema capaz de automatizar de extremo a extremo el ciclo completo de investigación en inteligencia artificial: desde la generación de ideas hasta la escritura y revisión de manuscritos académicos. El sistema integra modelos de lenguaje (GPT-4o, Claude) con un entorno de ejecución de código que permite idear hipótesis, implementarlas, ejecutar experimentos mediante búsqueda en árbol y redactar artículos en formato LaTeX con figuras y análisis estadísticos. El pipeline es operado por un agente que toma decisiones autónomas en cada etapa, sin intervención humana entre pasos.\n\nEl sistema opera en dos modos: uno basado en plantillas (template-based), donde parte de un código de experimento existente y lo expande iterativamente, y otro libre (template-free) que usa búsqueda en árbol agentica para generar ideas y experimentos desde cero. El Automated Reviewer —un componente de revisión automática que emula el proceso de peer review— genera un conjunto de cinco revisiones independientes y una meta-revisión, alcanzando 69 % de balanced accuracy en aceptar/rechazar trabajos previos a su fecha de corte y 66 % después, comparables al desempeño de revisores humanos.\n\nEn una prueba real de publicación, el sistema generó tres manuscritos y los sometió al workshop ICBINB de ICLR 2025: el 70 % fue aceptado (frente al 48 % de tasa base del workshop), y uno de ellos superó la revisión con una puntuación de 6.33 (umbral: 6). Este resultado es especialmente significativo porque demuestra que un agente de IA puede producir trabajo original suficientemente riguroso para superar el escrutinio de revisores humanos en un contexto real.\n\nLos autores identifican limitaciones sustanciales: el sistema produce ideas frecuentemente derivadas o superficiales, comete errores de implementación, confabula resultados, duplica figuras y no tiene acceso a experimentos físicos o datos propios. Concluyen que los avances reales dependen de la calidad y el cómputo del modelo subyacente, que la supervisión humana sigue siendo indispensable, y que la automatización de la ciencia plantea riesgos de homogeneización del conocimiento y de erosión del reconocimiento de la contribución intelectual individual.\n\n## Contribuciones principales\n\n- Primer sistema end-to-end de automatización de investigación en IA: ideación → código → experimentos → manuscrito → revisión automática\n- Automated Reviewer con balanced accuracy comparable a revisores humanos (66-69 %)\n- Manuscrito generado que superó revisión por pares real en ICLR 2025 ICBINB workshop\n- Modo template-free con búsqueda en árbol agentica para explorar el espacio de hipótesis desde cero\n- Análisis empírico de cómo la calidad del agente y el cómputo escalan la calidad del output\n\n## Metodología\n\nEl pipeline encadena cuatro módulos: (1) **Ideación** — el agente consulta la literatura existente (vía Semantic Scholar API) y propone ideas que puntúa según novedad, viabilidad e interés; (2) **Experimentación** — escribe o modifica código Python y lo ejecuta iterativamente con retroalimentación del intérprete, usando búsqueda en árbol para explorar variantes; (3) **Redacción** — compila resultados y genera un PDF en LaTeX con tablas y figuras; (4) **Revisión automatizada** — otro agente lee el PDF, produce reseñas en formato estándar de ML y emite un score de aceptación. El template-free mode añade una fase de ideación más extensa y estructura el espacio de búsqueda como árbol con estados: borrador, ejecutado, aceptado, rechazado.\n\n## Hallazgos clave\n\n- El AI Scientist generó ideas viables y ejecutables en ML (transformers, diffusion, RL), bio-inspirada y otras áreas computacionales\n- 70 % de aceptación en ICLR 2025 ICBINB workshop; un paper con score 6.33 pasó el umbral de 6.0\n- El Automated Reviewer tiene balanced accuracy 66-69 %, similar a revisores humanos promedio\n- La calidad escala con la capacidad del modelo base (GPT-4o > modelos menos capaces) y con el cómputo invertido en búsqueda\n- Costo estimado por paper: ~15 USD en tokens de API (al momento de la publicación)\n\n## Limitaciones\n\n- Ideas frecuentemente derivadas, con poca profundidad conceptual o falsamente novedosas\n- Errores de implementación y alucinaciones en los resultados reportados\n- Incapaz de realizar experimentos físicos, acceder a datos experimentales originales o conectarse a laboratorios reales\n- Duplicación de figuras y problemas de presentación en algunos manuscritos\n- No adecuado para envío a venues principales de conferencias (solo workshop)\n- Riesgo de homogeneización del conocimiento científico y de \"gaming\" del sistema de peer review\n\n## Notas relacionadas\n\n- [[concepts/agentes-de-ia]]\n- [[concepts/descubrimiento-cientifico]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/publicacion-academica]]\n- [[concepts/etica-de-la-ciencia]]\n- [[concepts/supervision-humana]]\n- [[concepts/impacto-de-investigacion]]"
     },
     {
       "id": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
@@ -2954,6 +2988,51 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
       "target": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
       "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "target": "concepts/agentes-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "target": "concepts/descubrimiento-cientifico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "target": "concepts/publicacion-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "target": "concepts/etica-de-la-ciencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
+      "target": "concepts/impacto-de-investigacion",
+      "kind": "keyword"
     },
     {
       "source": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
