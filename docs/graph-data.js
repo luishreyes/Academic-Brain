@@ -2,7 +2,7 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 110,
+    "papers": 121,
     "articles": 13,
     "books": 28,
     "concepts": 98
@@ -36,8 +36,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.",
       "path": "concepts/adopcion-de-tecnologia.md",
-      "content": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]",
-      "degree": 2
+      "content": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]",
+      "degree": 3
     },
     {
       "id": "concepts/agentes-de-ia",
@@ -175,8 +175,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.",
       "path": "concepts/biologia-molecular.md",
-      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]",
-      "degree": 35
+      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]",
+      "degree": 36
     },
     {
       "id": "concepts/biologia-sintetica",
@@ -226,8 +226,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.",
       "path": "concepts/biomateriales.md",
-      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]",
-      "degree": 31
+      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]\n- [[notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas]]\n- [[notes/papers/2025-01-01_nanocarriers-principios-diseno]]\n- [[notes/papers/2025-01-01_nanocarriers-polimericos]]\n- [[notes/papers/2025-01-01_nanocarriers-inorganicos]]\n- [[notes/papers/2025-01-01_nanocarriers-carbono]]\n- [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]\n- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]",
+      "degree": 38
     },
     {
       "id": "concepts/bioquimica-computacional",
@@ -307,8 +307,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo interdisciplinario que combina estadística, programación y dominio de conocimiento para extraer información y valor de conjuntos de datos; incluye machine learning, visualización, inferencia bayesiana y análisis de texto.",
       "path": "concepts/ciencia-de-datos.md",
-      "content": "Campo interdisciplinario que combina estadística, programación y dominio de conocimiento para extraer información y valor de conjuntos de datos; incluye machine learning, visualización, inferencia bayesiana y análisis de texto.\n\n## Notas que usan este concepto\n- [[notes/books/2016-07-01_data-science-das]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]",
-      "degree": 5
+      "content": "Campo interdisciplinario que combina estadística, programación y dominio de conocimiento para extraer información y valor de conjuntos de datos; incluye machine learning, visualización, inferencia bayesiana y análisis de texto.\n\n## Notas que usan este concepto\n- [[notes/books/2016-07-01_data-science-das]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]",
+      "degree": 6
     },
     {
       "id": "concepts/ciencia-y-sociedad",
@@ -420,8 +420,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.",
       "path": "concepts/desarrollo-de-farmacos.md",
-      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]",
-      "degree": 24
+      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]\n- [[notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas]]\n- [[notes/papers/2025-01-01_nanocarriers-principios-diseno]]\n- [[notes/papers/2025-01-01_nanocarriers-polimericos]]\n- [[notes/papers/2025-01-01_nanocarriers-inorganicos]]\n- [[notes/papers/2025-01-01_nanocarriers-carbono]]\n- [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]\n- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]",
+      "degree": 31
     },
     {
       "id": "concepts/desarrollo-del-caracter",
@@ -454,8 +454,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Mejora de las condiciones económicas, sociales y productivas de las comunidades rurales y agrícolas; incluye sistemas de extensión agrícola, agricultura sostenible, seguridad alimentaria y desarrollo en países en vías de desarrollo.",
       "path": "concepts/desarrollo-rural.md",
-      "content": "Mejora de las condiciones económicas, sociales y productivas de las comunidades rurales y agrícolas; incluye sistemas de extensión agrícola, agricultura sostenible, seguridad alimentaria y desarrollo en países en vías de desarrollo.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]",
-      "degree": 2
+      "content": "Mejora de las condiciones económicas, sociales y productivas de las comunidades rurales y agrícolas; incluye sistemas de extensión agrícola, agricultura sostenible, seguridad alimentaria y desarrollo en países en vías de desarrollo.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]",
+      "degree": 3
     },
     {
       "id": "concepts/descubrimiento-cientifico",
@@ -518,8 +518,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño y optimización de productos y experiencias, en particular experiencias sensoriales y multisensoriales; metodologías para caracterizar y crear estímulos (sonido, aroma, sabor) que modulan la percepción y la respuesta del consumidor.",
       "path": "concepts/diseno-de-producto.md",
-      "content": "Diseño y optimización de productos y experiencias, en particular experiencias sensoriales y multisensoriales; metodologías para caracterizar y crear estímulos (sonido, aroma, sabor) que modulan la percepción y la respuesta del consumidor.\n\n## Notas que usan este concepto\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]",
-      "degree": 3
+      "content": "Diseño y optimización de productos y experiencias, en particular experiencias sensoriales y multisensoriales; metodologías para caracterizar y crear estímulos (sonido, aroma, sabor) que modulan la percepción y la respuesta del consumidor.\n\n## Notas que usan este concepto\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-08-29_soundscapes-sostenibilidad]]",
+      "degree": 4
     },
     {
       "id": "concepts/diseno-especulativo",
@@ -550,8 +550,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible.",
       "path": "concepts/economia-circular.md",
-      "content": "Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]",
-      "degree": 2
+      "content": "Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]",
+      "degree": 3
     },
     {
       "id": "concepts/economia-de-la-innovacion",
@@ -613,8 +613,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]",
-      "degree": 27
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]",
+      "degree": 28
     },
     {
       "id": "concepts/enfermedades-raras",
@@ -710,8 +710,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
-      "degree": 14
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]",
+      "degree": 15
     },
     {
       "id": "concepts/evaluacion-educativa",
@@ -955,8 +955,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.",
       "path": "concepts/ingenieria-de-alimentos.md",
-      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]",
-      "degree": 16
+      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]",
+      "degree": 17
     },
     {
       "id": "concepts/ingenieria-metabolica",
@@ -1019,8 +1019,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]",
-      "degree": 28
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]",
+      "degree": 29
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -1115,8 +1115,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.",
       "path": "concepts/microfluidica.md",
-      "content": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]",
-      "degree": 8
+      "content": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]\n- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]",
+      "degree": 9
     },
     {
       "id": "concepts/modelado-molecular",
@@ -1164,8 +1164,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.",
       "path": "concepts/nanociencia.md",
-      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]",
-      "degree": 27
+      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]\n- [[notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas]]\n- [[notes/papers/2025-01-01_nanocarriers-principios-diseno]]\n- [[notes/papers/2025-01-01_nanocarriers-polimericos]]\n- [[notes/papers/2025-01-01_nanocarriers-inorganicos]]\n- [[notes/papers/2025-01-01_nanocarriers-carbono]]\n- [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]\n- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]",
+      "degree": 34
     },
     {
       "id": "concepts/pensamiento-critico-medico",
@@ -1214,8 +1214,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de cómo los sentidos interactúan e integran información; incluye las correspondencias crossmodales (p. ej., entre sonido y sabor o aroma), la percepción del sabor como fenómeno multisensorial y sus bases psicofísicas.",
       "path": "concepts/percepcion-multisensorial.md",
-      "content": "Estudio de cómo los sentidos interactúan e integran información; incluye las correspondencias crossmodales (p. ej., entre sonido y sabor o aroma), la percepción del sabor como fenómeno multisensorial y sus bases psicofísicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]",
-      "degree": 2
+      "content": "Estudio de cómo los sentidos interactúan e integran información; incluye las correspondencias crossmodales (p. ej., entre sonido y sabor o aroma), la percepción del sabor como fenómeno multisensorial y sus bases psicofísicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]\n- [[notes/papers/2025-08-29_soundscapes-sostenibilidad]]",
+      "degree": 3
     },
     {
       "id": "concepts/personalidad-introversion",
@@ -1246,8 +1246,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.",
       "path": "concepts/personalizacion-del-aprendizaje.md",
-      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]",
-      "degree": 6
+      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]",
+      "degree": 7
     },
     {
       "id": "concepts/petroleo-y-gas",
@@ -1297,8 +1297,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.",
       "path": "concepts/politica-social.md",
-      "content": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]",
-      "degree": 3
+      "content": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]",
+      "degree": 4
     },
     {
       "id": "concepts/proteinas-recombinantes",
@@ -1457,8 +1457,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.",
       "path": "concepts/simulacion-computacional.md",
-      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]",
-      "degree": 8
+      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]\n- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]",
+      "degree": 9
     },
     {
       "id": "concepts/sostenibilidad",
@@ -1475,8 +1475,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.",
       "path": "concepts/sostenibilidad.md",
-      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]",
-      "degree": 8
+      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2025-08-29_soundscapes-sostenibilidad]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]\n- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]",
+      "degree": 11
     },
     {
       "id": "concepts/supervision-humana",
@@ -1521,8 +1521,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.",
       "path": "concepts/terapia-genica.md",
-      "content": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]",
-      "degree": 10
+      "content": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]\n- [[notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas]]\n- [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]",
+      "degree": 12
     },
     {
       "id": "concepts/trauma-y-salud",
@@ -1555,8 +1555,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.",
       "path": "concepts/tutoria-con-ia.md",
-      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]",
-      "degree": 5
+      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]",
+      "degree": 6
     },
     {
       "id": "concepts/universidades-chinas",
@@ -4047,6 +4047,150 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nCapítulo 9 del libro *Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development* (Elsevier, 2025). Los péptidos son componentes versátiles del ámbito farmacéutico, con utilidades que van desde ingredientes activos hasta apoyo al descubrimiento y la entrega de fármacos, gracias a su penetración tisular, sus interacciones de alta afinidad con receptores y sus propiedades antimicrobianas. Los péptidos antimicrobianos (AMPs) son una clase prometedora de agentes terapéuticos eficaces contra bacterias, hongos y virus.\n\nEl capítulo aborda las bibliotecas de péptidos —colecciones de secuencias cortas de aminoácidos— como herramientas indispensables en el descubrimiento de fármacos, la ingeniería de proteínas y la investigación básica. Revisa las aproximaciones clásicas y emergentes para el cribado (screening) de estas bibliotecas, incluyendo métodos experimentales de alto rendimiento, tecnologías de display y enfoques in silico/computacionales, comparando sus fortalezas y limitaciones.\n\n## Contribuciones principales\n- Revisión de métodos clásicos y emergentes para el cribado de bibliotecas de AMPs.\n- Comparación de enfoques experimentales (alto rendimiento, display) e in silico.\n- Marco para seleccionar la estrategia de cribado según el objetivo de descubrimiento.\n\n## Metodología\nCapítulo de revisión sobre tecnologías de generación y cribado de bibliotecas de péptidos.\n\n## Hallazgos clave\n- Las bibliotecas de péptidos son centrales para el descubrimiento y la ingeniería de AMPs.\n- Los enfoques emergentes (in silico, ML) complementan el cribado experimental tradicional.\n\n## Limitaciones\n- Compromisos entre cobertura, costo y validez de cada método de cribado.\n\n## Notas relacionadas\n- [[concepts/peptidos-bioactivos]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/bioquimica-computacional]]\n- [[concepts/biologia-molecular]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]"
     },
     {
+      "id": "notes/papers/2025-01-01_nanocarriers-carbono",
+      "kind": "paper",
+      "label": "Carbon-Based Nanocarriers: Carbon Nanotubes, Graphene Oxide, Fullerenes, and Carbon Dots (Chapter 6)",
+      "authors": [
+        "Cristian F. Rodríguez",
+        "Paula Guzmán-Sastoque",
+        "Coryna Rodriguez-Bazurto",
+        "Juan C. Rojas-Hernández",
+        "Luis H. Reyes",
+        "Juan C. Cruz"
+      ],
+      "year": "2025",
+      "venue": "Nano Carriers for Nucleic Acids and Proteins (Routledge/CRC, eds. Reyes, Cruz & Pathak), cap. 6",
+      "url": "https://doi.org/10.1201/9781003473183",
+      "doi": "10.1201/9781003473183",
+      "keywords": [
+        "nanociencia",
+        "biomateriales",
+        "desarrollo-de-farmacos"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-01-01_nanocarriers-carbono.md",
+      "pdf_local": "sources/pdfs/rodriguez-2025-nanocarriers-carbono.pdf",
+      "content": "## Resumen\nCapítulo 6 del libro *Nano Carriers for Nucleic Acids and Proteins* (Routledge/CRC, 2025). Los nanocarriers de base carbono —grafeno, nanotubos de carbono (CNTs), puntos de carbono (CDs) y fullerenos— representan plataformas transformadoras en la intersección de la nanotecnología y la biomedicina. El capítulo revisa su evolución histórica, los descubrimientos clave y las metodologías de síntesis, desde enfoques top-down (exfoliación mecánica) hasta bottom-up (deposición química de vapor).\n\nDestaca sus propiedades fisicoquímicas únicas: la resistencia mecánica y conductividad del grafeno, la flexibilidad de los CNTs, la producción sostenible y fluorescencia sintonizable de los CDs, y la adaptabilidad estructural de los fullerenos. Las aplicaciones biomédicas abarcan la entrega dirigida de fármacos y genes, la bioimagen precisa, la inmovilización de péptidos terapéuticos y terapias innovadoras como los tratamientos fototérmicos y fotodinámicos.\n\n## Contribuciones principales\n- Revisión de nanocarriers de carbono (grafeno, CNTs, CDs, fullerenos) y su síntesis.\n- Relación entre propiedades fisicoquímicas y aplicaciones biomédicas.\n- Aplicaciones en entrega de fármacos/genes, bioimagen y terapias fototérmica/fotodinámica.\n\n## Metodología\nCapítulo de revisión sobre nanocarriers basados en carbono.\n\n## Hallazgos clave\n- Cada nanomaterial de carbono aporta propiedades distintivas (conductividad, fluorescencia, flexibilidad).\n- Los puntos de carbono ofrecen producción sostenible y fluorescencia sintonizable para imagen.\n\n## Limitaciones\n- Capítulo de revisión; persisten retos de toxicidad y biocompatibilidad.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]"
+    },
+    {
+      "id": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos",
+      "kind": "paper",
+      "label": "Delivery of Nucleic Acids Using Nanocarriers: siRNA and miRNA Delivery, mRNA and DNA Delivery, CRISPR-Cas Systems (Chapter 11)",
+      "authors": [
+        "Paula Guzmán-Sastoque",
+        "María Camila Monsalve",
+        "Cristian F. Rodríguez",
+        "Stiven Castellanos",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2025",
+      "venue": "Nano Carriers for Nucleic Acids and Proteins (Routledge/CRC, eds. Reyes, Cruz & Pathak), cap. 11",
+      "url": "https://doi.org/10.1201/9781003473183",
+      "doi": "10.1201/9781003473183",
+      "keywords": [
+        "nanociencia",
+        "biomateriales",
+        "terapia-genica",
+        "desarrollo-de-farmacos",
+        "biologia-molecular"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos.md",
+      "pdf_local": "sources/pdfs/guzman-sastoque-2025-nanocarriers-acidos-nucleicos.pdf",
+      "content": "## Resumen\nCapítulo 11 del libro *Nano Carriers for Nucleic Acids and Proteins* (Routledge/CRC, 2025). El capítulo aborda la entrega de ácidos nucleicos —siRNA y miRNA, mRNA y DNA, y sistemas CRISPR-Cas— mediante nanocarriers. Tras un recorrido histórico de la nanotecnología (desde los usos artesanales antiguos hasta la síntesis de nanopartículas de oro de Faraday en 1857), sitúa los nanomateriales (1-100 nm) como vehículos clave para superar las barreras de entrega de material genético.\n\nSe revisan los distintos tipos de carga genética y sus retos: la inestabilidad de los ácidos nucleicos, la degradación enzimática, la captación celular y el escape endosomal. El capítulo conecta el diseño de nanocarriers con aplicaciones de silenciamiento génico (siRNA/miRNA), expresión transitoria (mRNA), terapia génica (DNA) y edición genómica (CRISPR-Cas), cubriendo estrategias para lograr entrega eficiente y específica.\n\n## Contribuciones principales\n- Revisión de la entrega de siRNA/miRNA, mRNA/DNA y CRISPR-Cas con nanocarriers.\n- Análisis de las barreras de entrega de ácidos nucleicos y cómo superarlas.\n- Conexión entre tipo de carga genética, diseño del nanocarrier y aplicación terapéutica.\n\n## Metodología\nCapítulo de revisión sobre entrega de ácidos nucleicos mediante nanocarriers.\n\n## Hallazgos clave\n- Cada tipo de ácido nucleico impone requisitos distintos al nanocarrier.\n- El escape endosomal y la estabilidad son determinantes de la eficacia de entrega.\n\n## Limitaciones\n- Capítulo de revisión, sin datos experimentales propios.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/terapia-genica]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/biologia-molecular]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]"
+    },
+    {
+      "id": "notes/papers/2025-01-01_nanocarriers-inorganicos",
+      "kind": "paper",
+      "label": "Inorganic Nanocarriers: Gold Nanoparticles, Iron Nanoparticles, Silica Nanoparticles, Quantum Dots (Chapter 5)",
+      "authors": [
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2025",
+      "venue": "Nano Carriers for Nucleic Acids and Proteins (Routledge/CRC, eds. Reyes, Cruz & Pathak), cap. 5",
+      "url": "https://doi.org/10.1201/9781003473183",
+      "doi": "10.1201/9781003473183",
+      "keywords": [
+        "nanociencia",
+        "biomateriales",
+        "desarrollo-de-farmacos"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-01-01_nanocarriers-inorganicos.md",
+      "pdf_local": "sources/pdfs/cruz-2025-nanocarriers-inorganicos.pdf",
+      "content": "## Resumen\nCapítulo 5 del libro *Nano Carriers for Nucleic Acids and Proteins* (Routledge/CRC, 2025). Los nanocarriers inorgánicos han ganado relevancia en aplicaciones biomédicas por sus características únicas y ajustables, imposibles en formas orgánicas: mayor estabilidad, funcionalización sencilla y propiedades ópticas, magnéticas y electrónicas distintivas. Los principales son las nanopartículas de oro (AuNPs), de hierro (FeNPs), de sílice (SiNPs) y los puntos cuánticos (QDs).\n\nLas AuNPs presentan propiedades ópticas sobresalientes por resonancia de plasmón superficial (SPR), útiles para imagen y diagnóstico, y pueden convertir luz en calor para destruir selectivamente células cancerosas (terapia fototérmica), siendo multifuncionales para imagen y terapia simultáneas. Las FeNPs superparamagnéticas permiten direccionamiento magnético e hipertermia; las SiNPs ofrecen porosidad y carga elevada; y los QDs destacan en imagen por su fluorescencia sintonizable.\n\n## Contribuciones principales\n- Revisión de nanocarriers inorgánicos (oro, hierro, sílice, puntos cuánticos).\n- Aprovechamiento de propiedades ópticas (SPR) y magnéticas para teranóstica.\n- Estrategias de funcionalización para biocompatibilidad y direccionamiento.\n\n## Metodología\nCapítulo de revisión sobre nanocarriers inorgánicos.\n\n## Hallazgos clave\n- Las propiedades ópticas y magnéticas habilitan terapia e imagen simultáneas.\n- Cada material inorgánico ofrece ventajas específicas (SPR, magnetismo, fluorescencia).\n\n## Limitaciones\n- Capítulo de revisión, sin datos experimentales propios.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[notes/papers/2025-01-01_nanocarriers-carbono]]"
+    },
+    {
+      "id": "notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas",
+      "kind": "paper",
+      "label": "Introduction to Nanocarriers for Nucleic Acids and Proteins (Chapter 1)",
+      "authors": [
+        "Juan C. Cruz",
+        "Yashwant V. Pathak",
+        "Luis H. Reyes"
+      ],
+      "year": "2025",
+      "venue": "Nano Carriers for Nucleic Acids and Proteins (Routledge/CRC, eds. Reyes, Cruz & Pathak), cap. 1",
+      "url": "https://doi.org/10.1201/9781003473183",
+      "doi": "10.1201/9781003473183",
+      "keywords": [
+        "nanociencia",
+        "biomateriales",
+        "desarrollo-de-farmacos",
+        "terapia-genica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas.md",
+      "pdf_local": "sources/pdfs/cruz-2025-nanocarriers-introduccion.pdf",
+      "content": "## Resumen\nCapítulo 1 del libro *Nano Carriers for Nucleic Acids and Proteins* (Routledge/CRC, 2025, eds. Luis H. Reyes, Juan C. Cruz y Yashwant V. Pathak). Introduce la nanobiotecnología como la convergencia de la nanotecnología y la biología para abordar retos biomédicos complejos. A nanoescala (1-100 nm), los materiales exhiben propiedades únicas que permiten manipular con precisión los sistemas biológicos.\n\nEn la entrega de fármacos, las nanopartículas se diseñan para dirigirse a células o tejidos específicos, aumentando la eficacia terapéutica y minimizando efectos secundarios; las nanopartículas lipídicas (LNPs) fueron clave para entregar las vacunas de ARNm contra la COVID-19. El capítulo también repasa el papel de la nanobiotecnología en diagnóstico (nanosensores, puntos cuánticos para detección temprana de biomarcadores) y en medicina regenerativa (nanomateriales que imitan la matriz extracelular).\n\nComo capítulo introductorio, enmarca el resto del libro: las barreras de entrega de ácidos nucleicos y proteínas, los tipos de nanocarriers (lipídicos, poliméricos, inorgánicos, de carbono) y sus aplicaciones clínicas en terapia génica y oncología.\n\n## Contribuciones principales\n- Panorama de la nanobiotecnología aplicada a la entrega de ácidos nucleicos y proteínas.\n- Síntesis del papel de las nanopartículas en terapia, diagnóstico y medicina regenerativa.\n- Marco introductorio de los nanocarriers y sus barreras de entrega.\n\n## Metodología\nCapítulo introductorio de revisión.\n\n## Hallazgos clave\n- Las propiedades a nanoescala habilitan entrega dirigida y diagnóstico de alta sensibilidad.\n- Las LNPs (vacunas de ARNm) ejemplifican el impacto clínico de los nanocarriers.\n\n## Limitaciones\n- Capítulo introductorio, sin contenido experimental propio.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/terapia-genica]]\n- [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]"
+    },
+    {
+      "id": "notes/papers/2025-01-01_nanocarriers-polimericos",
+      "kind": "paper",
+      "label": "Polymer-Based Nanocarriers: Dendrimers, Polymeric Micelles, Hydrogels (Chapter 4)",
+      "authors": [
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2025",
+      "venue": "Nano Carriers for Nucleic Acids and Proteins (Routledge/CRC, eds. Reyes, Cruz & Pathak), cap. 4",
+      "url": "https://doi.org/10.1201/9781003473183",
+      "doi": "10.1201/9781003473183",
+      "keywords": [
+        "nanociencia",
+        "biomateriales",
+        "desarrollo-de-farmacos"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-01-01_nanocarriers-polimericos.md",
+      "pdf_local": "sources/pdfs/cruz-2025-nanocarriers-polimericos.pdf",
+      "content": "## Resumen\nCapítulo 4 del libro *Nano Carriers for Nucleic Acids and Proteins* (Routledge/CRC, 2025). Los nanocarriers de base polimérica —dendrímeros, micelas poliméricas e hidrogeles— están revolucionando los sistemas de entrega de fármacos dentro de la nanobiotecnología. Ofrecen ventajas como mayor solubilidad y biodisponibilidad de los fármacos, direccionamiento sitio-específico y mecanismos de liberación controlada, reduciendo la toxicidad.\n\nEl capítulo explica cómo estos sistemas superan dos obstáculos farmacológicos centrales —la baja solubilidad en agua y la limitada biodisponibilidad de muchos fármacos— mediante el encapsulamiento y la modulación de la liberación. Repasa las características estructurales de dendrímeros, micelas e hidrogeles y su aprovechamiento para terapias más dirigidas y con menos efectos secundarios.\n\n## Contribuciones principales\n- Revisión de dendrímeros, micelas poliméricas e hidrogeles como nanocarriers.\n- Estrategias para mejorar solubilidad, biodisponibilidad y liberación controlada.\n- Relación entre estructura polimérica y desempeño de entrega.\n\n## Metodología\nCapítulo de revisión sobre nanocarriers poliméricos.\n\n## Hallazgos clave\n- Los nanocarriers poliméricos mejoran la solubilidad y permiten liberación controlada.\n- Dendrímeros, micelas e hidrogeles ofrecen perfiles de entrega complementarios.\n\n## Limitaciones\n- Capítulo de revisión, sin datos experimentales propios.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[notes/papers/2025-01-01_nanocarriers-inorganicos]]"
+    },
+    {
+      "id": "notes/papers/2025-01-01_nanocarriers-principios-diseno",
+      "kind": "paper",
+      "label": "Design Principles of Nanocarriers: Size, Shape, and Surface Properties, Stimuli-Responsive Systems (Chapter 2)",
+      "authors": [
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2025",
+      "venue": "Nano Carriers for Nucleic Acids and Proteins (Routledge/CRC, eds. Reyes, Cruz & Pathak), cap. 2",
+      "url": "https://doi.org/10.1201/9781003473183",
+      "doi": "10.1201/9781003473183",
+      "keywords": [
+        "nanociencia",
+        "biomateriales",
+        "desarrollo-de-farmacos"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-01-01_nanocarriers-principios-diseno.md",
+      "pdf_local": "sources/pdfs/cruz-2025-nanocarriers-principios-diseno.pdf",
+      "content": "## Resumen\nCapítulo 2 del libro *Nano Carriers for Nucleic Acids and Proteins* (Routledge/CRC, 2025). Los nanocarriers son uno de los desarrollos más importantes en los sistemas de entrega de ácidos nucleicos y proteínas. El capítulo aborda los aspectos fundamentales del diseño —tamaño, forma, propiedades de superficie y capacidad de respuesta a estímulos— y su papel para aumentar la eficacia terapéutica y la especificidad de la entrega, especialmente en cáncer.\n\nEl tamaño es determinante de la biodistribución, la captación celular y el aclaramiento. Nanocarriers en el rango de 10-200 nm pueden aprovechar el efecto de permeabilidad y retención aumentada (EPR) para acumularse pasivamente en tumores, mientras que el tamaño también condiciona la vida media en circulación y la captación por el sistema fagocítico mononuclear. El capítulo conecta estos principios físicos con estrategias de funcionalización superficial y diseño estímulo-responsivo.\n\n## Contribuciones principales\n- Revisión de cómo tamaño, forma y superficie gobiernan el desempeño de los nanocarriers.\n- Explicación del efecto EPR y su relación con el tamaño para el direccionamiento tumoral.\n- Principios de diseño de sistemas estímulo-responsivos.\n\n## Metodología\nCapítulo de revisión sobre principios de diseño de nanocarriers.\n\n## Hallazgos clave\n- El tamaño (10-200 nm) determina biodistribución, captación y aclaramiento.\n- La funcionalización superficial y la respuesta a estímulos mejoran especificidad y control.\n\n## Limitaciones\n- Capítulo de revisión, sin datos experimentales propios.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas]]"
+    },
+    {
       "id": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
       "kind": "paper",
       "label": "Fostering technical proficiency and professional skills: A multifaceted PO-PBL strategy for unit operations education",
@@ -4334,6 +4478,33 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEste paper reporta un ensayo controlado aleatorio de diseño cruzado (*crossover*) realizado en Harvard durante el otoño de 2023 en un curso introductorio de física para ciencias de la vida (Physical Sciences 2, N=194). El estudio compara los resultados de aprendizaje y las percepciones de los estudiantes cuando el mismo contenido se presenta a través de un tutor de IA personalizado versus una clase presencial con metodología de aprendizaje activo de alta calidad. La contribución central es que el tutor de IA fue diseñado siguiendo exactamente las mismas buenas prácticas pedagógicas que informan la clase presencial, controlando la variable del diseño pedagógico para aislar el efecto del medio de instrucción.\n\nLa distinción respecto a estudios anteriores sobre IA en educación es el diseño pedagógico explícito del tutor. En lugar de usar ChatGPT sin guía (que produce resultados mixtos o negativos), los autores construyeron un sistema con prompts de ingeniería detallada para: (i) facilitar aprendizaje activo, (ii) gestionar la carga cognitiva, (iii) promover mentalidad de crecimiento, (iv) andamiar el contenido, (v) garantizar precisión mediante soluciones paso a paso pre-escritas, (vi) dar retroalimentación personalizada y oportuna, y (vii) permitir autopaceo. El sistema fue construido sobre GPT-4 con una plataforma propia (\"PS2 Pal\") que guía al estudiante secuencialmente por cada parte de cada problema. Los resultados muestran que el grupo con IA aprendió significativamente más en menos tiempo que el grupo con aprendizaje activo presencial, con mayor engagement y motivación.\n\n## Contribuciones principales\n\n- Primer RCT en contexto educativo auténtico que compara un tutor de IA pedagogicamente diseñado vs. aprendizaje activo presencial de calidad\n- Marco de 7 principios pedagógicos para diseñar tutores de IA efectivos (aprendizaje activo, carga cognitiva, mentalidad de crecimiento, andamiaje, precisión, retroalimentación oportuna, autopaceo)\n- Evidencia empírica sólida de que la IA bien diseñada supera —no solo iguala— el aprendizaje activo presencial\n- La personalización y el autopaceo como ventajas estructurales del tutor de IA sobre cualquier modalidad grupal\n- Propuesta de modelo híbrido: IA para introducción de material + clase presencial para habilidades de orden superior\n\n## Metodología\n\nDiseño cruzado donde cada estudiante experimenta ambas condiciones. Temas: tensión superficial (semana 1) y flujo de fluidos (semana 2). Pre-test antes de cada condición, post-test después. El tutor de IA se construyó sobre GPT-4 con prompts ricos y soluciones paso a paso pre-escritas para evitar alucinaciones; la plataforma guía al estudiante secuencialmente por cada subproblema. Controles estadísticos via regresión lineal (controlando por: pre-test, examen previo del curso, FCI, experiencia con ChatGPT, tema del contenido, versión del test, tiempo en la tarea, clustering por estudiante) y regresión cuantílica para abordar el efecto techo. Aprobado por IRB de Harvard (no. IRB23-0797). Datos disponibles en GitHub.\n\n## Hallazgos clave\n\n- Mediana post-test: IA = 4.5 vs. aprendizaje activo = 3.5 (línea base pre-test = 2.75)\n- Ganancias de aprendizaje del grupo IA más del **doble** que el grupo presencial (p < 10⁻⁸)\n- Tiempo mediano en tarea con IA: **49 min** vs. 60 min en clase; sin correlación entre tiempo y puntaje post-test (el autopaceo beneficia a todos los niveles)\n- Efecto grande estimado: **0.73 a 1.3 desviaciones estándar** (corregido por efecto techo)\n- Mayor **engagement** (4.1 vs. 3.6, p < 0.0001) y **motivación** (3.4 vs. 3.1, p < 0.001) en grupo IA\n- **83%** de estudiantes calificaron las explicaciones del tutor IA como iguales o mejores que las del instructor humano\n- El efecto se sostiene para estudiantes con FCI < 40% y > 40%, y para actitudes científicas no-expertas y expertas\n\n## Limitaciones\n\n- Aplicado a material introductorio (comprensión, aplicación y análisis en Taxonomía de Bloom) — no probado para síntesis compleja ni pensamiento crítico de orden superior\n- La precisión del tutor dependió de soluciones pre-escritas, no de razonamiento autónomo del LLM\n- Contexto específico: física introductoria en Harvard, instructores con evaluaciones por encima del promedio departamental\n- Aleatoriedad a nivel de grupos de instrucción entre pares (2–3 estudiantes), no individual\n- No mide efectos a largo plazo, retención o impacto sobre habilidades de colaboración\n\n## Notas relacionadas\n\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]] — Nature editorial que argumenta que la IA no puede reemplazar a los humanos; este paper muestra que la IA bien diseñada *sí* puede superar metodologías humanas en un dominio específico — la tensión entre los dos textos es productiva\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]] — ambos cuestionan la relación óptima entre humanos y tecnología; Fan argumenta por el complemento humanístico, este paper por el complemento pedagógico de la IA\n- [[concepts/tutoria-con-ia]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/STEM]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/ensayo-controlado-aleatorio]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/supervision-humana]]"
     },
     {
+      "id": "notes/papers/2025-08-29_soundscapes-sostenibilidad",
+      "kind": "paper",
+      "label": "What does sustainability sound like? Crafting soundscapes that reflect environmental and social sustainability dimensions",
+      "authors": [
+        "Brayan Rodríguez",
+        "David Guedes",
+        "João Graça",
+        "Luis H. Reyes",
+        "Margarida Vaz Garrido",
+        "Marília Prada",
+        "Felipe Reinoso-Carvalho"
+      ],
+      "year": "2025",
+      "venue": "Journal of Environmental Psychology",
+      "url": "https://doi.org/10.1016/j.jenvp.2025.102749",
+      "doi": "10.1016/j.jenvp.2025.102749",
+      "keywords": [
+        "percepcion-multisensorial",
+        "sostenibilidad",
+        "diseno-de-producto"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-08-29_soundscapes-sostenibilidad.md",
+      "pdf_local": "sources/pdfs/rodriguez-2025-soundscapes-sostenibilidad.pdf",
+      "content": "## Resumen\nEste trabajo presenta una serie de estudios que examinan cómo la música y los paisajes sonoros (soundscapes) pueden comunicar el concepto abstracto y multidimensional de la sostenibilidad. Un estudio piloto identificó descriptores sensoriales y afectivos concretos vinculados a la sostenibilidad (p. ej., natural, responsable), que luego se usaron para determinar propiedades psicoacústicas (p. ej., tono, consonancia) capaces de comunicar esos descriptores.\n\nCon base en esas propiedades, se seleccionaron y evaluaron diez bandas sonoras instrumentales por su capacidad de evocar asociaciones con la sostenibilidad, en sus dimensiones ambiental y social. El estudio integra correspondencias crossmodales, sonidos de la naturaleza, sonidos humanos y música para mapear qué cualidades sonoras transmiten ideas de sostenibilidad.\n\nEl trabajo extiende la investigación del grupo sobre percepción multisensorial al dominio de la comunicación de valores abstractos, con implicaciones para el marketing, la comunicación ambiental y el diseño de experiencias sonoras que refuercen mensajes de sostenibilidad.\n\n## Contribuciones principales\n- Metodología para identificar propiedades psicoacústicas que comunican sostenibilidad.\n- Evaluación de diez bandas sonoras según su evocación de dimensiones ambiental y social.\n- Extensión de las correspondencias crossmodales a conceptos abstractos (sostenibilidad).\n\n## Metodología\nEstudio piloto de descriptores sensoriales/afectivos seguido de selección y evaluación de bandas sonoras instrumentales (psicoacústica y asociaciones).\n\n## Hallazgos clave\n- El sonido y la música pueden transmitir el concepto abstracto de sostenibilidad.\n- Ciertas propiedades psicoacústicas se asocian con descriptores como \"natural\" o \"responsable\".\n\n## Limitaciones\n- Estímulos instrumentales seleccionados; generalización cultural por validar.\n\n## Notas relacionadas\n- [[concepts/percepcion-multisensorial]]\n- [[concepts/sostenibilidad]]\n- [[concepts/diseno-de-producto]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]"
+    },
+    {
       "id": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
       "kind": "paper",
       "label": "Beyond the Benefits: A Systematic Review of the Harms and Consequences of Generative AI in Computing Education",
@@ -4363,6 +4534,30 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-10-06_danos-ia-educacion-programacion.md",
       "pdf_local": "sources/pdfs/bernstein2025-danos-ia-cs.pdf",
       "content": "## Resumen\n\nEl debate sobre IA generativa en educación ha estado dominado por los beneficios: mejores explicaciones de código, tutores adaptativos, andamiaje personalizado. Este paper hace el contrapeso: una revisión sistemática de literatura (siguiendo PRISMA) sobre los **daños, riesgos y consecuencias no deseadas** de la IA generativa en la educación en ciencias de la computación. El corpus final es de 224 papers seleccionados de un universo inicial de 1.677 (ACM DL, IEEE Xplore, Scopus, 2022–2025), codificados por cuatro investigadores independientes con IRR de 0.84–0.69 (Fleiss' Kappa).\n\nEl resultado principal es una **taxonomía de daños** organizada en seis categorías: (1) *cognitivos* (adquirir conocimiento: alucinaciones y aprendizaje superficial; aplicar conocimiento: declive en resolución de problemas, homogenización de estilos de código); (2) *metacognitivos* (disrupciones en la planificación y monitoreo del propio aprendizaje; sobre-reliance y calibración de confianza); (3) *integridad académica y evaluación* (plagio habilitado por IA, políticas ambiguas, inconsistencia en la aplicación); (4) *equidad* (sesgos del modelo por idioma, raza y género; acceso desigual a herramientas); (5) *sociales* (reducción de colaboración entre pares, aislamiento); e (6) *instruccionales y logísticos* (preocupaciones de privacidad, nuevas cargas sobre el docente).\n\nLos daños cognitivos y metacognitivos dominan la literatura: 189 instancias cognitivas solo en estudiantes de cursos introductorios. Los modelos de chat (ChatGPT, Claude, Gemini) concentran los mayores recuentos: 214 instancias de integridad académica, 323 cognitivas, 266 metacognitivas. Los hallazgos más preocupantes incluyen la \"ilusión de competencia\" —los estudiantes se sienten productivos y no perciben que no han aprendido—, la homogenización del estilo de código (del 12% al 30% de submissions atípicas entre 2022 y 2023), y la tendencia de los estudiantes de menor desempeño a usar IA sin ganar aprendizaje real. En contraste, los daños sociales (reducción de interacción con pares, aislamiento) y los de equidad siguen siendo las categorías menos investigadas.\n\nEl paper identifica un **sesgo de positividad** en la literatura: los estudios con intervención de instructores reportan efectos negativos en solo el 7% de los casos (Prather et al.), mientras que esta revisión más amplia encuentra un 16.3% de papers que discuten daños. Esto puede reflejar que los investigadores tienden a publicar más los resultados favorables de sus propias intervenciones.\n\n## Contribuciones principales\n\n- Taxonomía de daños de la IA generativa específica para educación en computación (la primera de este alcance)\n- Síntesis empírica de cómo y dónde aparecen los daños según tipo de herramienta, método de investigación y población estudiantil\n- Identificación de brechas metodológicas y daños sub-estudiados (sociales, equidad, impacto en carreras)\n\n## Metodología\n\nRevisión sistemática de literatura (SLR) siguiendo PRISMA. Búsqueda en ACM DL, IEEE Xplore y Scopus con términos de dominio (\"computing education\", \"CS1\", etc.) cruzados con términos de herramienta (\"LLM\", \"ChatGPT\", \"generative AI\", etc.). Criterios de inclusión: educación superior, discusión o demostración de daños de IA. Cuatro codificadores independientes extrajeron: año, población, método, tipo de herramienta, tarea educativa y categorías de daño. Niveles de evidencia: hipotético, observacional, empírico.\n\n## Hallazgos clave\n\n- La sobre-reliance es el daño más documentado: en sesiones cortas (0–5 prompts), el 81% de los prompts eran solicitudes directas de solución\n- Estudiantes de menor proficiencia usaron IA en 67% de sus entregas (principalmente para generación y debugging) pero no superaron en desempeño a quienes programaron manualmente\n- En grupos donde TAs verificaban los outputs de ChatGPT, el grupo asistido superó en 16.5 puntos al control; sin verificación, los resultados eran inconsistentes\n- La IA tiende a beneficiar más a estudiantes ya bien preparados, amplificando la brecha preexistente (\"AI divide\")\n- Los daños sociales (estudiantes que prefieren preguntar a ChatGPT antes que a sus profesores por miedo al juicio) están emergiendo pero son poco estudiados sistemáticamente\n\n## Limitaciones\n\n- La revisión cubre solo hasta julio 2025; subreprenta conferencias con proceedings tardíos (ICER, ITiCSE 2025)\n- Foco exclusivo en educación superior; no cubre K-12\n- Solo inglés; posible sesgo de publicación hacia resultados anglófonos\n- Muchos daños aún son hipotéticos o de evidencia débil; la literatura empírica rigurosa (RCTs) es escasa\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-programacion]]\n- [[concepts/educacion-superior]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/supervision-humana]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]"
+    },
+    {
+      "id": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
+      "kind": "paper",
+      "label": "Synergizing Minds and Machines: Harnessing Generative AI for Transformative Biotechnology Education (Chapter 12)",
+      "authors": [
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2026",
+      "venue": "Biotechnology and AI: Technological Convergence and Information Hazards (Springer), cap. 12",
+      "url": "https://doi.org/10.1007/978-3-032-05246-9_12",
+      "doi": "10.1007/978-3-032-05246-9_12",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "personalizacion-del-aprendizaje",
+        "etica-de-la-ia",
+        "tutoria-con-ia"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2026-01-01_genai-educacion-biotecnologia.md",
+      "pdf_local": "sources/pdfs/cruz-2026-genai-educacion-biotecnologia.pdf",
+      "content": "## Resumen\nCapítulo 12 del libro *Biotechnology and AI: Technological Convergence and Information Hazards* (Springer, 2026). Examina el potencial de la Inteligencia Artificial Generativa (GenAI) para transformar la educación en biotecnología mediante el Cognitive-AI Synergy Framework (CASF), que alinea las capacidades de la IA con las etapas del desarrollo cognitivo de los estudiantes, desde la comprensión fundamental hasta habilidades avanzadas de investigación.\n\nEl marco busca optimizar el uso de herramientas GenAI mientras cultiva el pensamiento crítico, la resolución de problemas y la conciencia ética de los estudiantes. Al aprovechar la GenAI, los educadores pueden crear experiencias de aprendizaje personalizadas, simular sistemas biológicos complejos y proporcionar retroalimentación en tiempo real sobre técnicas de laboratorio, acelerando el aprendizaje y preparando a los estudiantes para una industria biotecnológica en rápida evolución.\n\nEl capítulo aborda además las consideraciones éticas y los retos de gobernanza de integrar GenAI, subrayando la necesidad de marcos de gobernanza adaptativos para una innovación responsable, y presenta la experiencia de implementación y evaluación de este enfoque en el currículo de biotecnología de la Universidad de los Andes.\n\n## Contribuciones principales\n- Propuesta del Cognitive-AI Synergy Framework (CASF) para integrar GenAI en educación en biotecnología.\n- Estrategias para aprendizaje personalizado, simulación y retroalimentación en tiempo real.\n- Reflexión ética y de gobernanza sobre el uso de GenAI en educación.\n\n## Metodología\nCapítulo conceptual con marco propio (CASF) e insumos de implementación curricular en la Universidad de los Andes.\n\n## Hallazgos clave\n- Alinear las capacidades de la GenAI con las etapas cognitivas potencia el aprendizaje.\n- La integración responsable exige marcos de gobernanza adaptativos y conciencia ética.\n\n## Limitaciones\n- Marco conceptual con evaluación institucional en curso, sin resultados a gran escala.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/tutoria-con-ia]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]"
     },
     {
       "id": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
@@ -4561,6 +4756,35 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl estudio evalúa el Educational AI Hub —un marco de asistencia de aprendizaje basado en IA generativa (GPT)— implementado en cursos de pregrado de ingeniería civil y ambiental en Tulane University. La motivación es la creciente integración de GenAI en educación superior sin suficiente evidencia empírica sobre cómo los estudiantes la perciben, adoptan y confían, especialmente en disciplinas técnicas específicas. Se usa un diseño de métodos mixtos con 71 estudiantes, más de 600 interacciones IA registradas, encuestas pre y post, y análisis cualitativo.\n\nLos hallazgos revelan una valoración ambivalente: los estudiantes perciben el asistente de IA como comparable pero no superior a la instrucción humana en calidad (solo 17% lo consideró mejor), aunque lo valoran positivamente en conveniencia (68% más conveniente que ir con el profesor) y comodidad para pedir ayuda (47% se siente más cómodo con la IA que con TA o instructor). El uso fue más alto para completar tareas y entender conceptos. Sin embargo, la incertidumbre ética —especialmente sobre política institucional e integridad académica— emergió como barrera clave: una mayoría temía que la IA facilitara el plagio, aunque preferían políticas de integración sobre prohibiciones totales. Los autores denominan esto \"disonancia ética\": los estudiantes valoran la herramienta pero temen las consecuencias disciplinarias de usarla.\n\n## Contribuciones principales\n- Evaluación empírica de un asistente IA disciplina-específico en ingeniería a nivel de pregrado (71 estudiantes, 600+ interacciones)\n- Documentación de la \"disonancia ética\" como barrera clave: utilidad valorada vs. miedo a consecuencias académicas\n- Implicaciones para política institucional: los estudiantes prefieren integración regulada sobre prohibición\n\n## Metodología\n\nMétodos mixtos: encuestas pre/post (Likert), logs de uso del sistema, análisis cualitativo de interacciones. Dos cursos de pregrado en ingeniería civil y ambiental. El Educational AI Hub es un asistente conversacional basado en GPT con acceso a documentos del curso (syllabus, notas) mediante RAG (retrieval-augmented generation).\n\n## Hallazgos clave\n- 68% de estudiantes percibió la IA como más conveniente que la instrucción humana\n- 47% se siente más cómodo con la IA que con un TA/instructor para pedir ayuda\n- Solo 17% percibió la calidad de ayuda IA como mejor que la humana\n- Mayoría expresa preocupación por alucinaciones e integridad académica\n- Estudiantes prefieren políticas de integración regulada sobre prohibición total\n\n## Limitaciones\n- Muestra pequeña (71 estudiantes) en dos cursos de una sola universidad\n- Contexto disciplinar específico (ingeniería civil/ambiental); puede no generalizarse a otras disciplinas\n- Efectos a largo plazo sobre resultados académicos no evaluados\n\n## Notas relacionadas\n- [[concepts/tutoria-con-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/integridad-academica]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]"
     },
     {
+      "id": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
+      "kind": "paper",
+      "label": "Compliance patterns in adopting sustainability practices: A cluster analysis of oil palm producers in Colombia",
+      "authors": [
+        "Julián F. Becerra-Encinales",
+        "Brayan Rodríguez",
+        "Eloína Mesa-Fuquen",
+        "Paloma Bernal-Hernández",
+        "Alexandre P. Cooman",
+        "Luis H. Reyes",
+        "Juan C. Cruz"
+      ],
+      "year": "2026",
+      "venue": "Scientific Reports",
+      "url": "https://doi.org/10.1038/s41598-026-43888-9",
+      "doi": "10.1038/s41598-026-43888-9",
+      "keywords": [
+        "sostenibilidad",
+        "desarrollo-rural",
+        "adopcion-de-tecnologia",
+        "ciencia-de-datos",
+        "politica-social"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2026-03-06_clusters-sostenibilidad-palma.md",
+      "pdf_local": "sources/pdfs/becerra-2026-clusters-sostenibilidad-palma.pdf",
+      "content": "## Resumen\nEste estudio analiza los patrones de adopción de prácticas de sostenibilidad entre productores de palma de aceite en Colombia, usando análisis de clústeres del Índice de Sostenibilidad (SI). Mediante algoritmos avanzados de minería de datos —K-means y el método de Ward— los productores se agruparon según su cumplimiento con prácticas sostenibles a nivel nacional y regional.\n\nEl análisis reveló diez tipologías distintas de productor, desde \"adoptantes avanzados\" hasta \"adoptantes rezagados\" en las dimensiones económica, ambiental y social. Entre los factores clave que influyen en la formación de clústeres están el área cultivada de palma, la escala del productor, la edad y el género; a nivel regional, el Núcleo Palmero (modelo organizacional de comercialización del fruto) emergió como variable significativa.\n\nLos hallazgos desafían la noción convencional de que la adopción de prácticas sostenibles depende principalmente de la escala, mostrando que factores contextuales son cruciales en todas las categorías. El estudio aboga por estrategias de extensión tecnológica más matizadas y específicas al contexto, contribuyendo a diseñar intervenciones a la medida que promuevan prácticas sostenibles independientemente de las características del productor. Continúa la línea de investigación del grupo sobre extensión agrícola en palma.\n\n## Contribuciones principales\n- Tipología de productores de palma (diez clústeres) por cumplimiento de sostenibilidad.\n- Uso de K-means y método de Ward sobre el Índice de Sostenibilidad.\n- Evidencia de que el contexto, no solo la escala, determina la adopción sostenible.\n\n## Metodología\nAnálisis de clústeres (K-means, Ward) y minería de datos sobre el Índice de Sostenibilidad de productores de palma.\n\n## Hallazgos clave\n- Existen diez tipologías de productor, de \"avanzados\" a \"rezagados\".\n- La adopción de sostenibilidad depende del contexto más que del tamaño del productor.\n\n## Limitaciones\n- Basado en el Índice de Sostenibilidad y variables disponibles; específico al sector palmero colombiano.\n\n## Notas relacionadas\n- [[concepts/sostenibilidad]]\n- [[concepts/desarrollo-rural]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/ciencia-de-datos]]\n- [[concepts/politica-social]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]"
+    },
+    {
       "id": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
       "kind": "paper",
       "label": "Towards end-to-end automation of AI research",
@@ -4593,6 +4817,60 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia.md",
       "pdf_local": "sources/pdfs/lu2026-ai-scientist-automatizacion.pdf",
       "content": "## Resumen\n\nEl AI Scientist es el primer sistema capaz de automatizar de extremo a extremo el ciclo completo de investigación en inteligencia artificial: desde la generación de ideas hasta la escritura y revisión de manuscritos académicos. El sistema integra modelos de lenguaje (GPT-4o, Claude) con un entorno de ejecución de código que permite idear hipótesis, implementarlas, ejecutar experimentos mediante búsqueda en árbol y redactar artículos en formato LaTeX con figuras y análisis estadísticos. El pipeline es operado por un agente que toma decisiones autónomas en cada etapa, sin intervención humana entre pasos.\n\nEl sistema opera en dos modos: uno basado en plantillas (template-based), donde parte de un código de experimento existente y lo expande iterativamente, y otro libre (template-free) que usa búsqueda en árbol agentica para generar ideas y experimentos desde cero. El Automated Reviewer —un componente de revisión automática que emula el proceso de peer review— genera un conjunto de cinco revisiones independientes y una meta-revisión, alcanzando 69 % de balanced accuracy en aceptar/rechazar trabajos previos a su fecha de corte y 66 % después, comparables al desempeño de revisores humanos.\n\nEn una prueba real de publicación, el sistema generó tres manuscritos y los sometió al workshop ICBINB de ICLR 2025: el 70 % fue aceptado (frente al 48 % de tasa base del workshop), y uno de ellos superó la revisión con una puntuación de 6.33 (umbral: 6). Este resultado es especialmente significativo porque demuestra que un agente de IA puede producir trabajo original suficientemente riguroso para superar el escrutinio de revisores humanos en un contexto real.\n\nLos autores identifican limitaciones sustanciales: el sistema produce ideas frecuentemente derivadas o superficiales, comete errores de implementación, confabula resultados, duplica figuras y no tiene acceso a experimentos físicos o datos propios. Concluyen que los avances reales dependen de la calidad y el cómputo del modelo subyacente, que la supervisión humana sigue siendo indispensable, y que la automatización de la ciencia plantea riesgos de homogeneización del conocimiento y de erosión del reconocimiento de la contribución intelectual individual.\n\n## Contribuciones principales\n\n- Primer sistema end-to-end de automatización de investigación en IA: ideación → código → experimentos → manuscrito → revisión automática\n- Automated Reviewer con balanced accuracy comparable a revisores humanos (66-69 %)\n- Manuscrito generado que superó revisión por pares real en ICLR 2025 ICBINB workshop\n- Modo template-free con búsqueda en árbol agentica para explorar el espacio de hipótesis desde cero\n- Análisis empírico de cómo la calidad del agente y el cómputo escalan la calidad del output\n\n## Metodología\n\nEl pipeline encadena cuatro módulos: (1) **Ideación** — el agente consulta la literatura existente (vía Semantic Scholar API) y propone ideas que puntúa según novedad, viabilidad e interés; (2) **Experimentación** — escribe o modifica código Python y lo ejecuta iterativamente con retroalimentación del intérprete, usando búsqueda en árbol para explorar variantes; (3) **Redacción** — compila resultados y genera un PDF en LaTeX con tablas y figuras; (4) **Revisión automatizada** — otro agente lee el PDF, produce reseñas en formato estándar de ML y emite un score de aceptación. El template-free mode añade una fase de ideación más extensa y estructura el espacio de búsqueda como árbol con estados: borrador, ejecutado, aceptado, rechazado.\n\n## Hallazgos clave\n\n- El AI Scientist generó ideas viables y ejecutables en ML (transformers, diffusion, RL), bio-inspirada y otras áreas computacionales\n- 70 % de aceptación en ICLR 2025 ICBINB workshop; un paper con score 6.33 pasó el umbral de 6.0\n- El Automated Reviewer tiene balanced accuracy 66-69 %, similar a revisores humanos promedio\n- La calidad escala con la capacidad del modelo base (GPT-4o > modelos menos capaces) y con el cómputo invertido en búsqueda\n- Costo estimado por paper: ~15 USD en tokens de API (al momento de la publicación)\n\n## Limitaciones\n\n- Ideas frecuentemente derivadas, con poca profundidad conceptual o falsamente novedosas\n- Errores de implementación y alucinaciones en los resultados reportados\n- Incapaz de realizar experimentos físicos, acceder a datos experimentales originales o conectarse a laboratorios reales\n- Duplicación de figuras y problemas de presentación en algunos manuscritos\n- No adecuado para envío a venues principales de conferencias (solo workshop)\n- Riesgo de homogeneización del conocimiento científico y de \"gaming\" del sistema de peer review\n\n## Notas relacionadas\n\n- [[concepts/agentes-de-ia]]\n- [[concepts/descubrimiento-cientifico]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/publicacion-academica]]\n- [[concepts/etica-de-la-ciencia]]\n- [[concepts/supervision-humana]]\n- [[concepts/impacto-de-investigacion]]"
+    },
+    {
+      "id": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots",
+      "kind": "paper",
+      "label": "High-Throughput Microfluidic Synthesis of Biocompatible Carbon-Dot-Loaded Liposomes: Geometry-Dependent Encapsulation and CFD Analysis of Mixing",
+      "authors": [
+        "Germán Raúl Reyes Marín",
+        "Paula Andrea Villamarín Manrique",
+        "José Sebastián Meza Mancera",
+        "Aura Natalia Barrera Guevara",
+        "Valentina Quezada",
+        "Luis H. Reyes",
+        "Cristian F. Rodríguez",
+        "Juan Carlos Cruz"
+      ],
+      "year": "2026",
+      "venue": "ACS Omega",
+      "url": "https://doi.org/10.1021/acsomega.5c13301",
+      "doi": "10.1021/acsomega.5c13301",
+      "keywords": [
+        "microfluidica",
+        "simulacion-computacional",
+        "nanociencia",
+        "biomateriales",
+        "desarrollo-de-farmacos"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots.md",
+      "pdf_local": "sources/pdfs/reyes-marin-2026-microfluidica-liposomas-carbon-dots.pdf",
+      "content": "## Resumen\nLas plataformas microfluídicas ofrecen control preciso sobre la síntesis de nanocarriers, pero siguen subexplotadas para la producción de bajo costo de sistemas multifuncionales de liposomas cargados con puntos de carbono (CD-liposomas). Este trabajo optimiza la síntesis de liposomas cargados con CDs usando cuatro geometrías de micromezclador en PMMA —Serpentine, SARS, Circular Features (CF) y Chambers— y vincula cuantitativamente el desempeño de encapsulación, la física del mezclado y modelos de dinámica de fluidos computacional (CFD).\n\nTodos los dispositivos produjeron vesículas monodispersas de ~150-200 nm. Los experimentos combinando dos caudales totales (TFR = 75 y 150 mL/h) y tres relaciones de caudal (FRR = 1:1, 1:2, 2:1) revelaron que la FRR es el parámetro dominante: una relación lípido-acuosa de 2:1 produjo eficiencias de encapsulación significativamente mayores en todas las geometrías, mientras que el TFR no tuvo efecto significativo, permitiendo operación de alto rendimiento a 150 mL/h. El dispositivo Chambers exhibió el mejor desempeño, con eficiencias de encapsulación cercanas al 90 %.\n\nPara racionalizar estas tendencias, se compararon los perfiles experimentales de mezclado con simulaciones en COMSOL Multiphysics (marcos Mixture y Euler-Euler con distintos cierres RANS), integrando experimento y modelado para guiar el diseño de micromezcladores.\n\n## Contribuciones principales\n- Síntesis microfluídica de alto rendimiento de liposomas cargados con puntos de carbono.\n- Identificación de la relación de caudal (FRR) como parámetro dominante de la encapsulación.\n- Vinculación de desempeño experimental con modelos CFD (COMSOL) para cuatro geometrías.\n\n## Metodología\nSíntesis en cuatro geometrías de micromezclador PMMA, variación de TFR y FRR, y modelado CFD (COMSOL, marcos Mixture y Euler-Euler con cierres RANS).\n\n## Hallazgos clave\n- La FRR 2:1 maximiza la eficiencia de encapsulación; el TFR no es significativo (permite alto rendimiento).\n- La geometría Chambers alcanza eficiencias cercanas al 90 %.\n\n## Limitaciones\n- Validación con un sistema modelo (CD-liposomas); escalado industrial por demostrar.\n\n## Notas relacionadas\n- [[concepts/microfluidica]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]\n- [[notes/papers/2025-01-01_nanocarriers-carbono]]"
+    },
+    {
+      "id": "notes/papers/2026-04-10_klactis-scp-proteina-soya",
+      "kind": "paper",
+      "label": "Multiscale Analysis of Kluyveromyces lactis SCP in a Fermented Soy Protein Matrix",
+      "authors": [
+        "Martha L. Diaz-Bustamante",
+        "Luis H. Reyes",
+        "Miguel Fernández-Niño",
+        "Oscar Alberto Alvarez Solano"
+      ],
+      "year": "2026",
+      "venue": "ACS Omega",
+      "url": "https://doi.org/10.1021/acsomega.5c13283",
+      "doi": "10.1021/acsomega.5c13283",
+      "keywords": [
+        "ingenieria-de-alimentos",
+        "sostenibilidad",
+        "economia-circular"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2026-04-10_klactis-scp-proteina-soya.md",
+      "pdf_local": "sources/pdfs/diaz-bustamante-2026-klactis-scp-soya.pdf",
+      "content": "## Resumen\nEste estudio evaluó el impacto de incorporar proteína unicelular (single-cell protein, SCP) de *Kluyveromyces lactis* en matrices de aislado de proteína de soya (SPI) para desarrollar un análogo de yogur, aplicando un marco analítico multiescala. Se prepararon cuatro formulaciones sustituyendo SPI por 0, 25, 50 y 75 % de SCP.\n\nLa adición de SCP aceleró la fermentación, modificó la organización de la red proteica y afectó la textura y la capacidad de retención de agua (WHC). Al 25 % de reemplazo, la SCP produjo una estructura más abierta con poros más grandes manteniendo la continuidad de la red de SPI, logrando la mayor firmeza y consistencia, con mayor módulo de almacenamiento y viscosidad (gel reforzado y más elástico); la firmeza aumentó 54 % (de 30,5 a 47,0 g) frente al control. Niveles más altos de SCP (≥50 %) debilitaron las propiedades mecánicas, mientras que la WHC solo aumentó significativamente al 75 %.\n\nLos resultados respaldan el potencial de la SCP como ingrediente sostenible en alimentos fermentados de base vegetal, en el contexto de la búsqueda de fuentes proteicas con menor huella ambiental ante el crecimiento poblacional.\n\n## Contribuciones principales\n- Evaluación multiescala de SCP de *K. lactis* en análogos de yogur de proteína de soya.\n- Identificación del 25 % de reemplazo como óptimo para firmeza y consistencia.\n- Respaldo a la SCP como ingrediente proteico sostenible en alimentos vegetales fermentados.\n\n## Metodología\nMarco analítico multiescala (red proteica, reología, textura, WHC) sobre cuatro formulaciones con 0-75 % de SCP.\n\n## Hallazgos clave\n- Al 25 % de SCP, la firmeza aumentó 54 % manteniendo la continuidad de la red.\n- Niveles ≥50 % debilitan las propiedades mecánicas; la WHC mejora solo al 75 %.\n\n## Limitaciones\n- Estudio a escala de laboratorio; falta evaluación sensorial y de aceptación.\n\n## Notas relacionadas\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/sostenibilidad]]\n- [[concepts/economia-circular]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]"
     },
     {
       "id": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles",
@@ -8041,6 +8319,141 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2025-01-01_nanocarriers-carbono",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-carbono",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-carbono",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-carbono",
+      "target": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos",
+      "target": "concepts/terapia-genica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos",
+      "target": "notes/papers/2025-04-09_nanoteranostica-terapia-genica",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-inorganicos",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-inorganicos",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-inorganicos",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-inorganicos",
+      "target": "notes/papers/2025-01-01_nanocarriers-carbono",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas",
+      "target": "concepts/terapia-genica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas",
+      "target": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-polimericos",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-polimericos",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-polimericos",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-polimericos",
+      "target": "notes/papers/2025-01-01_nanocarriers-inorganicos",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-principios-diseno",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-principios-diseno",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-principios-diseno",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_nanocarriers-principios-diseno",
+      "target": "notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
       "target": "concepts/educacion-superior",
       "kind": "keyword"
@@ -8361,6 +8774,31 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2025-08-29_soundscapes-sostenibilidad",
+      "target": "concepts/percepcion-multisensorial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-08-29_soundscapes-sostenibilidad",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-08-29_soundscapes-sostenibilidad",
+      "target": "concepts/diseno-de-producto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-08-29_soundscapes-sostenibilidad",
+      "target": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-08-29_soundscapes-sostenibilidad",
+      "target": "notes/papers/2024-05-15_sound-of-freshness-perfumeria",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
       "target": "concepts/inteligencia-artificial",
       "kind": "keyword"
@@ -8408,6 +8846,36 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
       "target": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
+      "target": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
       "kind": "related"
     },
     {
@@ -8696,6 +9164,41 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
+      "target": "concepts/desarrollo-rural",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
+      "target": "concepts/ciencia-de-datos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
+      "target": "concepts/politica-social",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
+      "target": "notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
+      "target": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
       "target": "concepts/agentes-de-ia",
       "kind": "keyword"
@@ -8739,6 +9242,61 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
       "target": "concepts/impacto-de-investigacion",
       "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots",
+      "target": "concepts/microfluidica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots",
+      "target": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots",
+      "target": "notes/papers/2025-01-01_nanocarriers-carbono",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-04-10_klactis-scp-proteina-soya",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-10_klactis-scp-proteina-soya",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-10_klactis-scp-proteina-soya",
+      "target": "concepts/economia-circular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-10_klactis-scp-proteina-soya",
+      "target": "notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal",
+      "kind": "related"
     },
     {
       "source": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles",

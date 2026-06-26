@@ -15,3 +15,4 @@ Adaptación de contenidos, ritmo e instrucción a las características, necesida
 - [[notes/papers/2026-01-12_pd-docentes-ia-k12]]
 - [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]
 - [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]
+- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]

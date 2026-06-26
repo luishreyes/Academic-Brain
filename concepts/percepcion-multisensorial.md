@@ -11,3 +11,4 @@ Estudio de cómo los sentidos interactúan e integran información; incluye las 
 ## Notas que usan este concepto
 - [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]
 - [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]
+- [[notes/papers/2025-08-29_soundscapes-sostenibilidad]]

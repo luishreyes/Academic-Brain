@@ -18,3 +18,4 @@ Tecnología de sistemas miniaturizados para manipular fluidos a escala de microl
 - [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]
 - [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
 - [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]
+- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]

@@ -37,3 +37,4 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]
 - [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]
 - [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]
+- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]

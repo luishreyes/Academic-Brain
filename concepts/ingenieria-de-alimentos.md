@@ -25,3 +25,4 @@ Disciplina que aplica principios de química, ingeniería y ciencias de material
 - [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]
 - [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]
 - [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]
+- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]

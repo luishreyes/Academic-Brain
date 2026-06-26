@@ -17,3 +17,6 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/papers/2025-04-03_gases-malolientes-aguas]]
 - [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]
 - [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]
+- [[notes/papers/2025-08-29_soundscapes-sostenibilidad]]
+- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]
+- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]

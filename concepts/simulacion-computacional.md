@@ -17,3 +17,4 @@ Uso de modelos matemáticos y computacionales para reproducir el comportamiento 
 - [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]
 - [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
 - [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]
+- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]
