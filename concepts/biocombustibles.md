@@ -14,3 +14,6 @@ Combustibles derivados de biomasa o producidos por microorganismos mediante ferm
 - [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]
 - [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]
 - [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]
+- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]
+- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]
+- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]

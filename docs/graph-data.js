@@ -2,10 +2,10 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 31,
+    "papers": 43,
     "articles": 5,
     "books": 24,
-    "concepts": 80
+    "concepts": 85
   },
   "nodes": [
     {
@@ -94,8 +94,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "path": "concepts/aprendizaje-activo.md",
-      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]",
-      "degree": 6
+      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]",
+      "degree": 8
     },
     {
       "id": "concepts/autorregulacion-del-aprendizaje",
@@ -142,8 +142,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.",
       "path": "concepts/biocombustibles.md",
-      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]",
-      "degree": 5
+      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]",
+      "degree": 8
     },
     {
       "id": "concepts/biologia-molecular",
@@ -158,8 +158,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.",
       "path": "concepts/biologia-molecular.md",
-      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]",
-      "degree": 7
+      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]",
+      "degree": 12
     },
     {
       "id": "concepts/biologia-sintetica",
@@ -192,8 +192,25 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Material vegetal compuesto de celulosa, hemicelulosa y lignina; representa la fuente de carbono renovable más abundante del planeta y es materia prima para biocombustibles y bioquímicos de segunda generación.",
       "path": "concepts/biomasa-lignocelulosica.md",
-      "content": "Material vegetal compuesto de celulosa, hemicelulosa y lignina; representa la fuente de carbono renovable más abundante del planeta y es materia prima para biocombustibles y bioquímicos de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]",
-      "degree": 2
+      "content": "Material vegetal compuesto de celulosa, hemicelulosa y lignina; representa la fuente de carbono renovable más abundante del planeta y es materia prima para biocombustibles y bioquímicos de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]",
+      "degree": 4
+    },
+    {
+      "id": "concepts/biomateriales",
+      "kind": "concept",
+      "label": "biomateriales",
+      "keyword": "biomateriales",
+      "aliases": [
+        "biomaterials",
+        "hydrogels",
+        "scaffolds",
+        "encapsulation",
+        "drug delivery materials"
+      ],
+      "definition": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.",
+      "path": "concepts/biomateriales.md",
+      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]",
+      "degree": 3
     },
     {
       "id": "concepts/bioquimica-computacional",
@@ -208,8 +225,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.",
       "path": "concepts/bioquimica-computacional.md",
-      "content": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]",
-      "degree": 1
+      "content": "Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]",
+      "degree": 2
     },
     {
       "id": "concepts/cadenas-de-suministro-globales",
@@ -304,8 +321,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.",
       "path": "concepts/creatividad.md",
-      "content": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]",
-      "degree": 13
+      "content": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]",
+      "degree": 14
     },
     {
       "id": "concepts/cultura-organizacional",
@@ -418,6 +435,22 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 1
     },
     {
+      "id": "concepts/economia-circular",
+      "kind": "concept",
+      "label": "economia circular",
+      "keyword": "economia-circular",
+      "aliases": [
+        "circular economy",
+        "bioeconomía",
+        "waste valorization",
+        "economía regenerativa"
+      ],
+      "definition": "Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible.",
+      "path": "concepts/economia-circular.md",
+      "content": "Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/economia-de-la-innovacion",
       "kind": "concept",
       "label": "economia de la innovacion",
@@ -477,8 +510,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]",
-      "degree": 20
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]",
+      "degree": 22
     },
     {
       "id": "concepts/enfermedades-raras",
@@ -494,8 +527,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.",
       "path": "concepts/enfermedades-raras.md",
-      "content": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]",
-      "degree": 1
+      "content": "Condiciones de baja prevalencia (menos de 1 en 2000 personas) frecuentemente de origen genético; muchas son errores innatos del metabolismo que requieren terapias especializadas como el reemplazo enzimático recombinante.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]",
+      "degree": 3
     },
     {
       "id": "concepts/ensayo-controlado-aleatorio",
@@ -689,8 +722,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "path": "concepts/futuro-del-trabajo.md",
-      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]",
-      "degree": 16
+      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]",
+      "degree": 17
     },
     {
       "id": "concepts/genomica",
@@ -706,8 +739,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.",
       "path": "concepts/genomica.md",
-      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]",
-      "degree": 6
+      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]",
+      "degree": 9
     },
     {
       "id": "concepts/geopolitica-tecnologica",
@@ -800,8 +833,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.",
       "path": "concepts/ingenieria-metabolica.md",
-      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]",
-      "degree": 11
+      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]",
+      "degree": 13
     },
     {
       "id": "concepts/ingenieria-quimica",
@@ -816,8 +849,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.",
       "path": "concepts/ingenieria-quimica.md",
-      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]",
-      "degree": 12
+      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]",
+      "degree": 24
     },
     {
       "id": "concepts/integridad-academica",
@@ -975,8 +1008,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.",
       "path": "concepts/nanociencia.md",
-      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]",
-      "degree": 1
+      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]",
+      "degree": 3
     },
     {
       "id": "concepts/pensamiento-critico-medico",
@@ -1027,6 +1060,23 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 6
     },
     {
+      "id": "concepts/petroleo-y-gas",
+      "kind": "concept",
+      "label": "petroleo y gas",
+      "keyword": "petroleo-y-gas",
+      "aliases": [
+        "oil and gas",
+        "petroleum engineering",
+        "crudo pesado",
+        "heavy crude oil",
+        "demulsification"
+      ],
+      "definition": "Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de hidrocarburos; incluye flujos multifásicos, emulsiones de crudo, demulsificación, reología de crudos pesados y técnicas de recuperación mejorada.",
+      "path": "concepts/petroleo-y-gas.md",
+      "content": "Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de hidrocarburos; incluye flujos multifásicos, emulsiones de crudo, demulsificación, reología de crudos pesados y técnicas de recuperación mejorada.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/poder-y-persuasion",
       "kind": "concept",
       "label": "poder y persuasion",
@@ -1074,8 +1124,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.",
       "path": "concepts/proteinas-recombinantes.md",
-      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]",
-      "degree": 1
+      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]",
+      "degree": 2
     },
     {
       "id": "concepts/psicologia-educativa",
@@ -1204,6 +1254,23 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 11
     },
     {
+      "id": "concepts/simulacion-computacional",
+      "kind": "concept",
+      "label": "simulacion computacional",
+      "keyword": "simulacion-computacional",
+      "aliases": [
+        "CFD",
+        "computational simulation",
+        "computational fluid dynamics",
+        "process simulation",
+        "modelado de procesos"
+      ],
+      "definition": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.",
+      "path": "concepts/simulacion-computacional.md",
+      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/supervision-humana",
       "kind": "concept",
       "label": "supervision humana",
@@ -1231,6 +1298,23 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/tecnocracia.md",
       "content": "Modelo de gobernanza y organización social en que el conocimiento técnico-científico tiene primacía sobre otros saberes en la toma de decisiones políticas y económicas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2022-10-04_chip-war-miller]]",
       "degree": 3
+    },
+    {
+      "id": "concepts/terapia-genica",
+      "kind": "concept",
+      "label": "terapia genica",
+      "keyword": "terapia-genica",
+      "aliases": [
+        "gene therapy",
+        "genome editing",
+        "CRISPR",
+        "terapia génica",
+        "edición genómica"
+      ],
+      "definition": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.",
+      "path": "concepts/terapia-genica.md",
+      "content": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]",
+      "degree": 2
     },
     {
       "id": "concepts/trauma-y-salud",
@@ -1579,6 +1663,34 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nLa mucopolisacaridosis tipo IVA (MPS IVA, enfermedad de Morquio A) es una enfermedad lisosomal de depósito causada por la deficiencia de la enzima N-acetilgalactosamina-6-sulfatasa (GALNS). La terapia de reemplazo enzimático (TRE) con la enzima recombinante producida en células de ovario de hámster chino (CHO) tiene limitaciones importantes de costo, eficacia tisular y vida media. Este trabajo busca mejorar la producción y actividad de la enzima recombinante humana (rhGALNS) en E. coli mediante enfoques de biología sintética: promotores fisiológicamente regulados, modulación del plegamiento proteico y mejora de la formación de puentes disulfuro en el citoplasma.\n\nEl principal desafío de producir rhGALNS en E. coli es que la mayor parte se acumula como agregados proteicos inactivos (cuerpos de inclusión). El estudio demostró que la implementación de un promotor regulado por el factor sigma σS aumenta significativamente la actividad de la enzima. Asimismo, el choque osmótico durante la fermentación mejoró la actividad de rhGALNS, efecto que se atribuyó a una respuesta general al estrés y no a la acción de chaperonas individuales. La combinación del promotor proUmod con altas concentraciones de sacarosa produjo los mayores aumentos tanto en producción como en actividad enzimática.\n\n## Contribuciones principales\n\n- Uso de promotor regulado por σS (proUmod) para mejorar la producción y actividad de rhGALNS en E. coli\n- Demostración de que el choque osmótico mejora la actividad de rhGALNS mediante respuesta general al estrés (no chaperonas individuales)\n- Combinación proUmod + sacarosa: mayor incremento conjunto en producción y actividad enzimática\n- Avance en la producción de enzimas terapéuticas humanas en sistema procariota, con potencial impacto en el costo y accesibilidad de la TRE para MPS IVA\n\n## Metodología\n\nExpresión de rhGALNS en E. coli con diferentes promotores (constitutivos vs. regulados por σS) → evaluación de actividad enzimática → sobreexpresión de chaperonas nativas → aplicación de choque osmótico (concentraciones variables de NaCl y sacarosa) → optimización de concentraciones de sacarosa con promotor proUmod → cuantificación de producción y actividad.\n\n## Hallazgos clave\n\n- Promotor proUmod (regulado por σS): incremento significativo en actividad de rhGALNS\n- Choque osmótico: mejoró actividad enzimática; efecto por respuesta global al estrés, no por chaperonas específicas\n- Sobreexpresión de chaperonas: sin efecto sobre actividad de rhGALNS\n- proUmod + alta sacarosa: combinación óptima para producción y actividad\n- Relevancia clínica: E. coli como plataforma alternativa a CHO para TRE podría reducir costos de tratamiento de enfermedades raras\n\n## Limitaciones\n\n- La rhGALNS producida en E. coli carece de glucosilaciones postraduccionales presentes en la enzima de mamífero, lo que puede afectar la captación celular y la eficacia in vivo\n- Los experimentos son en escala de laboratorio; la escalabilidad del proceso requiere validación\n- La actividad específica de la enzima producida en E. coli puede diferir de la producida en CHO\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/biologia-sintetica]]\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/enfermedades-raras]]\n- [[concepts/ingenieria-quimica]]"
     },
     {
+      "id": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
+      "kind": "paper",
+      "label": "Engineering cellulolytic bacterium Clostridium thermocellum to co-ferment cellulose- and hemicellulose-derived sugars simultaneously",
+      "authors": [
+        "Wei Xiong",
+        "Luis H. Reyes",
+        "Katherine J. Chou",
+        "William E. Michener",
+        "Pin-Ching Maness"
+      ],
+      "year": "2018",
+      "venue": "Biotechnology and Bioengineering",
+      "url": "https://doi.org/10.1002/bit.26590",
+      "doi": "10.1002/bit.26590",
+      "keywords": [
+        "biomasa-lignocelulosica",
+        "ingenieria-metabolica",
+        "biocombustibles",
+        "biologia-molecular",
+        "genomica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion.md",
+      "pdf_local": "sources/pdfs/xiong2018-clostridium-xylose-celulosa.pdf",
+      "content": "## Resumen\n\nClostridium thermocellum es una bacteria termófila y anaeróbica capaz de fermentar directamente biomasa celulósica gracias a su celulasoma extracelular, lo que la convierte en candidata ideal para el \"procesamiento biológico consolidado\" (CBP). Sin embargo, una limitación crítica es que no puede crecer naturalmente en xilosa, el azúcar de 5 carbonos más abundante en la hemicelulosa. Esto restringe la eficiencia del CBP al componente celulósico de la biomasa vegetal. Este trabajo ingeniería C. thermocellum DSM 1313 para co-fermentar simultáneamente celulosa y hemicelulosa mediante la introducción de los genes xylAB (xilosoisomerasa y xilulocinasa) de Thermoanaerobacter ethanolicus, integrados en el genoma de forma dirigida.\n\nLa cepa ingenierizada co-fermentó xilosa con glucosa, celobiosa y celulosa sin represión catabólica de carbono. El trabajo demuestra que la producción de H₂ y etanol se duplicó cuando se consumieron xilosa y celulosa simultáneamente en comparación con celulosa sola. Además, la cepa puede utilizar xilo-oligómeros (grado de polimerización 2–7), lo que amplía el alcance de la conversión de hemicelulosa. Los estudios de trazadores isotópicos confirmaron que la vía de catabolismo de xilosa contribuye a la producción de etanol a partir de xilano.\n\n## Contribuciones principales\n\n- Primera integración genómica dirigida de xylAB en C. thermocellum para crecimiento en xilosa sin represión catabólica de carbono\n- Co-fermentación simultánea de xilosa con glucosa, celobiosa y celulosa\n- Duplicación de producción de H₂ y etanol en co-fermentación vs. celulosa sola\n- Utilización de xilo-oligómeros (DP 2–7), no solo xilosa libre\n- Evidencia isotópica de que el catabolismo de xilosa contribuye a producción de etanol desde xilano\n\n## Metodología\n\nConstrucción de cepa C. thermocellum con integración cromosómica de xylAB (de T. ethanolicus) → fermentación con distintos sustratos (xilosa + glucosa/celobiosa/celulosa) → cuantificación de H₂, etanol y consumo de azúcares → estudios de trazadores isotópicos (13C) para asignación de flujos metabólicos.\n\n## Hallazgos clave\n\n- C. thermocellum KJC335: crece en xilosa + celulosa sin represión catabólica\n- H₂ y etanol 2× mayores en co-fermentación vs. celulosa sola\n- La cepa utiliza xilo-oligómeros con DP hasta 7\n- La integración génica dirigida elimina la necesidad de plásmidos\n- Potencial para el \"Next-Generation CBP\" con una sola especie que co-fermenta celulosa y hemicelulosa\n\n## Limitaciones\n\n- La cepa produce principalmente etanol e H₂; no se evaluó para otros productos de interés industrial\n- La eficiencia comparada con pretratamiento convencional + cóctel enzimático requiere validación a mayor escala\n- El crecimiento en xilosa como sustrato único sigue siendo limitado comparado con glucosa o celobiosa\n\n## Notas relacionadas\n\n- [[concepts/biomasa-lignocelulosica]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/biologia-molecular]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]"
+    },
+    {
       "id": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
       "kind": "paper",
       "label": "Growth-Coupled Carotenoids Production Using Adaptive Laboratory Evolution",
@@ -1600,6 +1712,299 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento.md",
       "pdf_local": "sources/pdfs/reyes2018-carotenoides-ale-metodos.pdf",
       "content": "## Resumen\n\nEste capítulo de métodos describe en detalle la estrategia de evolución adaptativa de laboratorio acoplada al crecimiento para mejorar la producción de carotenoides en Saccharomyces cerevisiae, desarrollada originalmente en Reyes et al. (2014). El capítulo parte de la premisa de que ALE típicamente no se usa para mejorar producción de metabolitos secundarios porque estos compuestos representan una carga metabólica, reduciendo la aptitud. Sin embargo, si el metabolito de interés confiere una ventaja de supervivencia bajo una presión selectiva diseñada, esta barrera puede superarse.\n\nEl diseño clave del protocolo es la selección por estrés oxidativo: los carotenoides son antioxidantes, de modo que las celdas que producen más carotenoides son más resistentes al peróxido de hidrógeno. El capítulo detalla la construcción de la cepa productora inicial, el diseño de los regímenes de choque con H₂O₂, los criterios para identificar celdas hiper-productoras (pigmentación visual), la validación analítica de la producción, y las consideraciones para extender el principio a otros metabolitos con propiedades que puedan aprovecharse como ventaja selectiva.\n\n## Contribuciones principales\n\n- Descripción de protocolo completo para ALE acoplado a producción de metabolito secundario\n- Marco conceptual para diseñar presiones selectivas basadas en propiedades del producto\n- Criterios para identificar y aislar celdas hiper-productoras durante la evolución\n- Principio generalizable a otros metabolitos con propiedades adaptativas\n\n## Metodología\n\nCapítulo de métodos: construcción de cepa ingenierizada productora de carotenoides en S. cerevisiae → diseño de protocolo de choque con H₂O₂ → evolución adaptativa → selección por pigmentación → validación analítica de producción.\n\n## Hallazgos clave\n\n- El estrés oxidativo es una presión selectiva efectiva para seleccionar hiper-productores de carotenoides\n- El principio de \"acoplamiento al crecimiento\" puede extenderse a compuestos con otras propiedades funcionales (antimicrobianos, compuestos con actividad redox, etc.)\n- La selección visual por pigmentación facilita el screening de mutantes hiper-productores\n\n## Limitaciones\n\n- El método requiere que el metabolito de interés confiera una ventaja selectiva medible y acoplada al crecimiento\n- Capítulo de métodos: sistematiza conocimiento previo sin reportar experimentos nuevos\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/metabolitos-secundarios]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]"
+    },
+    {
+      "id": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones",
+      "kind": "paper",
+      "label": "Applying PBL methodologies to the chemical engineering courses: Unit operations and modeling and simulation, using a joint course project",
+      "authors": [
+        "Miguel A. Ballesteros",
+        "Miguel A. Daza",
+        "Juan P. Valdés",
+        "Nicolás Ratkovich",
+        "Luis H. Reyes"
+      ],
+      "year": "2019",
+      "venue": "Education for Chemical Engineers",
+      "url": "https://doi.org/10.1016/j.ece.2019.01.005",
+      "doi": "10.1016/j.ece.2019.01.005",
+      "keywords": [
+        "ingenieria-quimica",
+        "aprendizaje-activo",
+        "educacion-superior"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones.md",
+      "pdf_local": "sources/pdfs/ballesteros2019-pbl-ingenieria-quimica.pdf",
+      "content": "## Resumen\n\nLas asignaturas de Operaciones Unitarias y Modelado y Simulación son fundamentales en la formación de ingenieros químicos, pero los estudiantes frecuentemente las perciben como campos de conocimiento separados y no desarrollan la capacidad de integrarlas para resolver problemas reales. Este trabajo describe la implementación de una metodología de Aprendizaje Basado en Proyectos (PBL) en el rediseño de ambas asignaturas, articuladas mediante un proyecto integrador conjunto: el diseño, ensamblaje y caracterización de una bomba centrífuga, analizada tanto experimentalmente como computacionalmente.\n\nLa encuesta realizada al final del curso reveló que el 85% de los estudiantes valoró positivamente el componente de diseño del proyecto, reconociendo que benefició su proceso de aprendizaje. Los estudiantes apreciaron el reto que representó el proyecto, que los obligó a recurrir a fuentes de información y áreas de conocimiento externas a los cursos. Las limitaciones identificadas incluyeron el alcance limitado del proyecto y la falta de conexión con otros temas de los cursos.\n\n## Contribuciones principales\n\n- Implementación de PBL en dos asignaturas clásicas de ingeniería química mediante proyecto integrador\n- Diseño, ensamblaje y caracterización experimental + CFD de bomba centrífuga como proyecto conjunto\n- Validación positiva del 85% de estudiantes encuestados\n- Marco replicable para integrar Operaciones Unitarias y Modelado y Simulación\n\n## Metodología\n\nRediseño curricular de dos asignaturas de pregrado → proyecto integrador (bomba centrífuga) → análisis experimental y por simulación CFD → encuesta de satisfacción post-curso.\n\n## Hallazgos clave\n\n- El PBL con proyecto integrador interdisciplinar mejora la percepción estudiantil sobre el aprendizaje\n- El componente de diseño físico (fabricación con impresión 3D) fue especialmente valorado\n- Los estudiantes buscaron activamente conocimientos adicionales más allá del contenido del curso\n- Oportunidades de mejora: ampliar la conexión del proyecto con más temas del programa\n\n## Limitaciones\n\n- Alcance del proyecto limitado en relación con el contenido total de los cursos\n- Encuesta de autopercepción, sin medición objetiva de resultados de aprendizaje\n- Resultado específico al contexto de la Universidad de los Andes\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-quimica]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/educacion-superior]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]"
+    },
+    {
+      "id": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
+      "kind": "paper",
+      "label": "Identification of the iduronate-2-sulfatase proteome in wild-type mouse brain",
+      "authors": [
+        "Carolina Cardona",
+        "Eliana Benincore",
+        "Natalia Pimentel",
+        "Luis H. Reyes",
+        "Camilo Patarroyo",
+        "Alexander Rodríguez-López",
+        "Mercedes M. Rufián",
+        "Luis Alejandro Barrera",
+        "Carlos J. Alméciga-Díaz"
+      ],
+      "year": "2019",
+      "venue": "Heliyon",
+      "url": "https://doi.org/10.1016/j.heliyon.2019.e01667",
+      "doi": "10.1016/j.heliyon.2019.e01667",
+      "keywords": [
+        "enfermedades-raras",
+        "biologia-molecular",
+        "bioquimica-computacional",
+        "genomica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps.md",
+      "pdf_local": "sources/pdfs/cardona2019-ids-proteoma-cerebro.pdf",
+      "content": "## Resumen\n\nLa mucopolisacaridosis tipo II (MPS II, síndrome de Hunter) es una enfermedad lisosomal de depósito causada por la deficiencia de la enzima iduronato-2-sulfatasa (IDS), que lleva a la acumulación de glucosaminoglicanos heparán y dermatán sulfato. Para comprender mejor la función fisiológica de IDS en el sistema nervioso central, este estudio identifica el proteoma de IDS en cerebro de ratón silvestre: la distribución espacial de la enzima y el conjunto de proteínas con las que interactúa.\n\nMediante purificación por afinidad y espectrometría de masas se identificaron 187 proteínas interactoras de IDS, incluyendo hidrolasas, proteínas del citoesqueleto, transportadores y chaperonas. La inmunorreactividad de IDS mostró una señal robusta en todo el cerebro, incluyendo neuronas y astrocitos. Se identificaron complejos citosólicos de IDS con proteínas de nodos altamente conectados (hubs) con funciones catalíticas, redox y estructurales. Los resultados se validaron mediante co-inmunoprecipitación y Blue Native PAGE, y las predicciones de interacción se apoyaron con herramientas de bioinformática.\n\n## Contribuciones principales\n\n- Identificación de 187 proteínas interactoras de IDS en cerebro de ratón mediante afinidad + espectrometría de masas\n- Descripción de la distribución cerebral de IDS: neuronal, astrocítica y ampliamente distribuida\n- Identificación de complejos citosólicos de IDS con proteínas hub de alta conectividad\n- Primeras evidencias de la red proteica específica de IDS en el SNC\n- Base para entender el rol fisiológico de IDS más allá de la degradación de GAGs\n\n## Metodología\n\nInmunofluorescencia para distribución de IDS en cerebro → purificación por afinidad de proteínas interactoras → espectrometría de masas para identificación → predicción de interacciones con herramientas bioinformáticas → validación por co-inmunoprecipitación y Blue Native PAGE.\n\n## Hallazgos clave\n\n- IDS presente en neuronas y astrocitos de todo el cerebro de ratón\n- 187 proteínas interactoras identificadas: hidrolasas, chaperonas, transportadores, proteínas redox\n- Complejos citosólicos de IDS con hubs proteicos multifuncionales\n- Las interacciones predichas computacionalmente se confirmaron experimentalmente para proteínas seleccionadas\n- Los datos revelan posibles funciones no canónicas de IDS en el SNC\n\n## Limitaciones\n\n- Estudio en cerebro de ratón silvestre; la relevancia en el contexto de MPS II (sin IDS) requiere validación en modelos de la enfermedad\n- La purificación por afinidad puede capturar interacciones indirectas o de baja afinidad\n- La función de muchas de las 187 proteínas interactoras en relación con IDS permanece sin caracterizar\n\n## Notas relacionadas\n\n- [[concepts/enfermedades-raras]]\n- [[concepts/biologia-molecular]]\n- [[concepts/bioquimica-computacional]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]"
+    },
+    {
+      "id": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica",
+      "kind": "paper",
+      "label": "Transcriptomic analysis of a Clostridium thermocellum strain engineered to utilize xylose: responses to xylose versus cellobiose feeding",
+      "authors": [
+        "Albert E. Tafur Rangel",
+        "Trevor Croft",
+        "Andrés Fernando González Barrios",
+        "Luis H. Reyes",
+        "Pin-Ching Maness",
+        "Katherine J. Chou"
+      ],
+      "year": "2020",
+      "venue": "Scientific Reports",
+      "url": "https://doi.org/10.1038/s41598-020-71428-6",
+      "doi": "10.1038/s41598-020-71428-6",
+      "keywords": [
+        "biomasa-lignocelulosica",
+        "genomica",
+        "ingenieria-metabolica",
+        "biologia-molecular",
+        "biocombustibles",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica.md",
+      "pdf_local": "sources/pdfs/tafur2020-clostridium-xylose-transcriptomica.pdf",
+      "content": "## Resumen\n\nClostridium thermocellum es capaz de fermentar directamente biomasa celulósica pero no puede crecer naturalmente en xilosa. La cepa KJC335, ingenierizada para incorporar una vía heteróloga de catabolismo de xilosa (xylAB), fue utilizada en el trabajo anterior (Xiong et al. 2018). Este estudio profundiza en los mecanismos de adaptación de KJC335 mediante transcriptómica comparativa: xilosa vs. celobiosa como fuente de carbono primaria, para identificar genes y vías críticas para el metabolismo de xilosa.\n\nSe identificaron 417 genes expresados diferencialmente (DEGs, log₂ FC >|1|) y 106 genes altamente DEGs (log₂ FC >|2|). Entre los genes más regulados hacia arriba: dos transportadores putativos de azúcar (cbpC y cbpD) y genes de transcetolasa (tktAB), que sugieren rutas de transporte y metabolismo de xilosa. Notablemente, genes de quimiotaxis y motilidad se sobreexpresaron marcadamente al alimentar xilosa. Los genes celulasomales mostraron expresión altamente variable. Los genes regulados hacia abajo incluyeron procesos redox, unión a ATP y componentes de membrana.\n\n## Contribuciones principales\n\n- Primer análisis transcriptómico de C. thermocellum ingenierizado para xilosa (KJC335) vs. celobiosa\n- Identificación de 417 DEGs; transportadores cbpC y cbpD como candidatos para transporte de xilosa\n- Transcetolasas tktAB: clave para el metabolismo de xilosa en pentosa fosfato\n- Sobreexpresión de genes de quimiotaxis/motilidad en respuesta a xilosa: mecanismo inesperado\n- Base transcriptómica para el \"Next-Generation CBP\" con co-fermentación de celulosa + hemicelulosa\n\n## Metodología\n\nCultivo de KJC335 con xilosa vs. celobiosa como fuente de carbono → extracción de RNA y RNA-seq → análisis de expresión diferencial (DEGs con log₂ FC) → anotación funcional (Gene Ontology) → validación de candidatos seleccionados.\n\n## Hallazgos clave\n\n- 417 DEGs (|log₂ FC| > 1); 106 altamente DEGs (|log₂ FC| > 2)\n- cbpC y cbpD sobreexpresados: posibles transportadores de xilosa\n- tktAB sobreexpresados: transcetolasa crítica para pentosa fosfato y metabolismo de xilosa\n- Genes de quimiotaxis y motilidad marcadamente sobreexpresados con xilosa\n- Genes celulasomales: expresión muy variable, sugiriendo reordenamiento del programa de degradación de biomasa\n\n## Limitaciones\n\n- Análisis transcriptómico sin validación proteómica o metabólica de las hipótesis funcionales\n- Las diferencias de crecimiento entre xilosa y celobiosa pueden confundir la interpretación de algunos DEGs\n- Los mecanismos exactos de los transportadores cbpC y cbpD para xilosa requieren validación funcional\n\n## Notas relacionadas\n\n- [[concepts/biomasa-lignocelulosica]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/biocombustibles]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]"
+    },
+    {
+      "id": "notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia",
+      "kind": "paper",
+      "label": "Demulsification of Colombian Heavy Crude Oil (W/O) Emulsions: Insights into the Instability Mechanisms, Chemical Structure, and Performance of Different Commercial Demulsifiers",
+      "authors": [
+        "Mariana Acosta",
+        "Luis H. Reyes",
+        "Juan C. Cruz",
+        "Diego Pradilla"
+      ],
+      "year": "2020",
+      "venue": "Energy & Fuels",
+      "url": "https://doi.org/10.1021/acs.energyfuels.0c00313",
+      "doi": "10.1021/acs.energyfuels.0c00313",
+      "keywords": [
+        "petroleo-y-gas",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia.md",
+      "pdf_local": "sources/pdfs/acosta2020-demulsificacion-crudo-pesado.pdf",
+      "content": "## Resumen\n\nLa producción de crudo pesado en Colombia requiere el uso de agua presurizada (fracturación hidráulica, inyección de agua), lo que genera emulsiones agua-en-aceite (W/O) estables que son difíciles de separar. Los desmulsificantes comerciales disponibles funcionan bien en crudos ligeros (API > 20°) pero fallan frecuentemente en crudos pesados y extrapesados. Este trabajo desarrolla y valida un protocolo cuantitativo mejorado para evaluar la desmulsificación química de emulsiones de crudo pesado colombiano, combinando medidas de retrodispersión/transmisión (Turbiscan) con pruebas en botella tradicionales.\n\nLa evaluación de una amplia variedad de desmulsificantes comerciales sobre emulsiones de crudo pesado de un campo colombiano revela que la actividad interfacial elevada y la cinética rápida no son criterios suficientes para lograr la separación de fases. Los mejores desmulsificantes (separación de agua ~85%) mostraron baja reducción de la tensión interfacial en equilibrio (IFT ~20 mN/m). El análisis HPLC-MS demostró que la configuración espacial y química del desmulsificante, así como los efectos estéricos, son determinantes del rendimiento. Los datos sugieren que la separación se activa cuando el desmulsificante aumenta la diferencia de densidad entre fases (~5% en promedio).\n\n## Contribuciones principales\n\n- Protocolo cuantitativo mejorado para evaluar desmulsificación química: Turbiscan + prueba en botella\n- Demostración de que la actividad interfacial y la cinética rápida no predicen el rendimiento en crudo pesado\n- Identificación de configuración química y efectos estéricos como factores clave del rendimiento\n- Mecanismo propuesto: el desmulsificante aumenta la diferencia de densidad entre fases como disparador de la separación\n\n## Metodología\n\nPreparación de emulsiones W/O de crudo pesado colombiano → adición de desmulsificantes comerciales → medición de transmisión/retrodispersión (Turbiscan) en tiempo real → pruebas en botella (temperatura, tiempo de separación) → caracterización de tensión interfacial y tamaño de gotas → análisis HPLC-MS de la estructura química de los desmulsificantes.\n\n## Hallazgos clave\n\n- Mejores desmulsificantes: separación de agua ~85%, con IFT en equilibrio relativamente alta (~20 mN/m)\n- Relación inversa entre actividad interfacial rápida y rendimiento de separación\n- La configuración espacial y estérica del desmulsificante determina el rendimiento\n- Mecanismo de separación: aumento de diferencia de densidad entre fases, no solo reducción de IFT\n- El protocolo Turbiscan permite monitoreo cuantitativo en tiempo real vs. la subjetividad de la prueba en botella\n\n## Limitaciones\n\n- Experimentos con emulsiones de crudo de un solo campo colombiano; la transferibilidad requiere validación con otras fuentes de crudo\n- El mecanismo de densidades es una hipótesis apoyada por correlaciones, no confirmación directa del mecanismo\n- Las condiciones de laboratorio pueden diferir de las condiciones de campo\n\n## Notas relacionadas\n\n- [[concepts/petroleo-y-gas]]\n- [[concepts/ingenieria-quimica]]"
+    },
+    {
+      "id": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
+      "kind": "paper",
+      "label": "Lysosomal storage diseases: current therapies and future alternatives",
+      "authors": [
+        "Andrés Felipe Leal",
+        "Angela Johana Espejo-Mojica",
+        "Oscar F. Sánchez",
+        "Carlos Manuel Ramírez",
+        "Luis Humberto Reyes",
+        "Juan C. Cruz",
+        "Carlos Javier Alméciga-Díaz"
+      ],
+      "year": "2020",
+      "venue": "Journal of Molecular Medicine",
+      "url": "https://doi.org/10.1007/s00109-020-01935-6",
+      "doi": "10.1007/s00109-020-01935-6",
+      "keywords": [
+        "enfermedades-raras",
+        "proteinas-recombinantes",
+        "biologia-molecular",
+        "terapia-genica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas.md",
+      "pdf_local": "sources/pdfs/leal2020-enfermedades-lisosomales-terapias.pdf",
+      "content": "## Resumen\n\nLas enfermedades de depósito lisosomal (LSDs) son un grupo de aproximadamente 50 errores innatos del metabolismo causados por mutaciones en genes que codifican proteínas lisosomales (hidrolasas, proteínas de membrana, cofactores, transportadores). La pérdida de función lisosomal desregula procesos celulares críticos: autofagia, homeostasis de lípidos, reparación de membrana y señalización celular. Esta revisión sistematiza el estado actual de las terapias para LSDs y presenta las alternativas emergentes.\n\nLas terapias establecidas incluyen la terapia de reemplazo enzimático (TRE), la terapia de reducción de sustrato (TRS) y las chaperonas farmacológicas. Las limitativas de estas estrategias (costo, eficacia limitada en SNC, vida media corta) han impulsado el desarrollo de terapias génicas, especialmente mediante edición genómica con CRISPR/Cas9, que abre horizontes para corregir permanentemente la causa subyacente de estas enfermedades. La revisión también discute los debates bioéticos actuales sobre la edición genómica en humanos.\n\n## Contribuciones principales\n\n- Revisión comprehensiva de terapias actuales para LSDs: TRE, TRS, chaperonas, trasplante de células madre hematopoyéticas\n- Descripción detallada de tecnologías de edición genómica: ZFN, TALEN, CRISPR/Cas9 y sus aplicaciones en LSDs\n- Síntesis del estado del arte en terapia génica para LSDs específicas\n- Análisis de los retos y debates bioéticos de la edición genómica germinal\n\n## Metodología\n\nRevisión de literatura sobre LSDs → síntesis de terapias establecidas y emergentes → descripción de mecanismos de edición genómica → evaluación de avances clínicos por enfermedad → análisis de desafíos y debates bioéticos.\n\n## Hallazgos clave\n\n- La TRE sigue siendo el estándar de oro para muchas LSDs, pero con limitaciones críticas (costo, penetración al SNC)\n- CRISPR/Cas9 ofrece la posibilidad de corrección permanente en células ex vivo e in vivo\n- Los avances en vectores virales (AAV) permiten mayor especificidad de tejido y mayor eficiencia\n- El debate bioético sobre edición de línea germinal sigue abierto y regulado de forma diferente por país\n- Las terapias combinadas (génica + enzimática) son prometedoras para LSDs con afectación neurológica\n\n## Limitaciones\n\n- Revisión narrativa, no sistemática; puede no capturar todos los estudios relevantes\n- Muchas terapias génicas están en fases preclínicas o de ensayo clínico temprano\n- La edición genómica enfrenta desafíos de eficiencia, seguridad y regulación antes de aplicación clínica amplia\n\n## Notas relacionadas\n\n- [[concepts/enfermedades-raras]]\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/biologia-molecular]]\n- [[concepts/terapia-genica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]"
+    },
+    {
+      "id": "notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano",
+      "kind": "paper",
+      "label": "Aprovechamiento del biosol producido por biodigestión anaerobia de porquinaza para la fertilización de rábano rojo",
+      "authors": [
+        "Juan Sebastián Sánchez-Gómez",
+        "Esteban Adrián Fuenzalida-Sandoval",
+        "Laura Sánchez-Amézquita",
+        "Daniela Cassés-Franceschi",
+        "Laura Camila Rivera-Ramos",
+        "Luis Humberto Reyes-Barrios",
+        "Juan Manuel Fajardo-Pinilla"
+      ],
+      "year": "2020",
+      "venue": "Revista Ontare",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "economia-circular",
+        "ingenieria-quimica",
+        "biocombustibles"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano.md",
+      "pdf_local": "sources/pdfs/sanchez2020-biosol-porquinaza-fertilizacion.pdf",
+      "content": "## Resumen\n\nLa producción porcina a gran escala genera grandes volúmenes de porquinaza (excreta porcina) asociados a malos olores, propagación de patógenos y contaminación de suelos y fuentes hídricas. Como solución sostenible, este estudio implementa un biodigestor anaerobio en la Reserva El Verjón (Colombia) para tratar la porquinaza y aprovechar el biosol (fracción sólida del digerido) como mejorador de suelos agrícolas. El objetivo es demostrar el potencial del biosol como sustituto o complemento de fertilizante comercial en el cultivo de rábano rojo (Raphanus sativus).\n\nLos resultados muestran que el peso de los rábanos fertilizados con biosol fue similar al de los fertilizados con fertilizante comercial, y las raíces desarrolladas con biosol fueron más largas. Los rábanos con biosol tomaron forma esférica, mientras que los de fertilizante comercial fueron más alargados. El fertilizante comercial produjo mejor crecimiento de hojas y tallos. Se recomienda enriquecer el biosol con nitrógeno para mejorar el crecimiento aéreo de la planta.\n\n## Contribuciones principales\n\n- Implementación de biodigestor anaerobio con porquinaza en contexto rural colombiano\n- Validación del biosol como mejorador de suelos: desempeño comparable al fertilizante comercial en peso de raíz\n- Evidencia de economía circular en producción porcina: residuo → fertilizante\n\n## Metodología\n\nBiodigestión anaerobia de porquinaza → obtención de biosol (fracción sólida) → preparación de macetas con biosol vs. fertilizante comercial vs. control → cultivo de Raphanus sativus → medición de peso, tamaño de raíz, hojas y tallos.\n\n## Hallazgos clave\n\n- Peso de rábano (raíz) comparable entre biosol y fertilizante comercial\n- Raíces más largas con biosol\n- Mejor crecimiento aéreo (hojas/tallos) con fertilizante comercial\n- Adición de N al biosol podría equiparar o superar el crecimiento aéreo del fertilizante comercial\n\n## Limitaciones\n\n- Estudio a escala de invernadero (macetas), no validado en campo agrícola real\n- Tamaño de muestra limitado\n- No se realizó análisis químico completo del biosol producido\n- El contenido de nutrientes del biosol puede variar con la composición de la dieta porcina\n\n## Notas relacionadas\n\n- [[concepts/economia-circular]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/biocombustibles]]"
+    },
+    {
+      "id": "notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis",
+      "kind": "paper",
+      "label": "Formulation and Characterization of Gelatin-Based Hydrogels for the Encapsulation of Kluyveromyces lactis—Applications in Packed-Bed Reactors and Probiotics Delivery in Humans",
+      "authors": [
+        "Jorge Luis Patarroyo",
+        "Juan Sebastian Florez-Rojas",
+        "Diego Pradilla",
+        "Juan D. Valderrama-Rincón",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2020",
+      "venue": "Polymers",
+      "url": "https://doi.org/10.3390/polym12061287",
+      "doi": "10.3390/polym12061287",
+      "keywords": [
+        "biomateriales",
+        "ingenieria-quimica",
+        "biologia-molecular"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis.md",
+      "pdf_local": "sources/pdfs/patarroyo2020-hidrogeles-gelatina-encapsulacion.pdf",
+      "content": "## Resumen\n\nLa administración oral de probióticos basados en microorganismos enfrenta el problema de la pérdida significativa de bioactividad al pasar por el tracto gastrointestinal. Para superar esta limitación, este trabajo propone encapsular la levadura probiótica Kluyveromyces lactis en hidrogeles de gelatina reticulada químicamente con glutaraldehído, como estrategia para proteger las células en distintos entornos. La gelatina es comercialmente disponible y de bajo costo, lo que es crítico para la escalabilidad.\n\nSe varió la concentración de glutaraldehído (agente reticulante) y de gelatina, encontrando que hidrogeles con alta concentración de gelatina (7.5% p/v) y 3.0–5.0% p/p de glutaraldehído ofrecen el mejor balance de propiedades: poros de 5–10 µm, rigidez suficiente (fuerza de ruptura ~1 N) y resistencia mecánica bajo condiciones de cizalla y pH extremo. Las células encapsuladas mostraron viabilidades de ~95% en operación en biorreactor y ~50% en medios simulados del tracto GI. Los hidrogeles mantuvieron su firmeza y resistencia estructural después de los tratamientos.\n\n## Contribuciones principales\n\n- Formulación y caracterización completa de hidrogeles de gelatina reticulada para encapsulación de K. lactis\n- Evaluación de viabilidad celular en operación de biorreactor de lecho empacado (~95%) y tracto GI simulado (~50%)\n- Identificación de parámetros críticos: tamaño de poro, rigidez y estabilidad química como determinantes de la encapsulación efectiva\n- Plataforma de bajo costo y escalable para probióticos y aplicaciones enzimáticas en biorreactor\n\n## Metodología\n\nPreparación de hidrogeles variando concentraciones de gelatina y glutaraldehído → caracterización morfológica (SEM), fisicoquímica, mecánica, térmica y reológica → encapsulación de K. lactis → prueba en biorreactor de lecho empacado → prueba de viabilidad en medios GI simulados.\n\n## Hallazgos clave\n\n- Condición óptima: 7.5% gelatina + 3.0–5.0% glutaraldehído (poros 5–10 µm, resistencia mecánica adecuada)\n- Viabilidad celular en biorreactor: ~95%\n- Viabilidad en GI simulado: ~50% (vs. <1% sin encapsulación)\n- Rigidez final post-tratamiento: ~50% del valor inicial, pero con resistencia mantenida\n- La estabilidad estructural a pH extremo y alta cizalla es la propiedad diferencial del sistema\n\n## Limitaciones\n\n- Experimentos in vitro (tracto GI simulado); la validación in vivo en modelo animal o humano es necesaria\n- El efecto de la esterilización del hidrogel en las propiedades mecánicas y la viabilidad no se evaluó\n- El mecanismo de respuesta mecánica bajo condiciones extremas requiere más investigación\n\n## Notas relacionadas\n\n- [[concepts/biomateriales]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/biologia-molecular]]"
+    },
+    {
+      "id": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes",
+      "kind": "paper",
+      "label": "PH-Responsive, Cell-Penetrating, Core/Shell Magnetite/Silver Nanoparticles for the Delivery of Plasmids: Preparation, Characterization, and Preliminary In Vitro Evaluation",
+      "authors": [
+        "Carlos M. Ramírez-Acosta",
+        "Javier Cifuentes",
+        "Maria Claudia Castellanos",
+        "Rodolfo José Moreno",
+        "Carolina Muñoz-Camargo",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2020",
+      "venue": "Pharmaceutics",
+      "url": "https://doi.org/10.3390/pharmaceutics12060561",
+      "doi": "10.3390/pharmaceutics12060561",
+      "keywords": [
+        "nanociencia",
+        "biomateriales",
+        "terapia-genica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes.md",
+      "pdf_local": "sources/pdfs/ramirez2020-nanoparticulas-entrega-plasmidos.pdf",
+      "content": "## Resumen\n\nLa terapia génica ofrece oportunidades terapéuticas para cáncer, enfermedades neurodegenerativas, deficiencias de proteínas y trastornos autoinmunes, pero enfrenta desafíos críticos: bajas tasas de transfección, inestabilidad en condiciones fisiológicas y baja especificidad hacia células diana. Los vectores no virales basados en nanomateriales estructurados son una alternativa prometedora a los vectores virales. Este trabajo desarrolla y evalúa in vitro un vehículo nanoparticulado penetrante celular basado en nanopartículas de núcleo/concha de magnetita/plata.\n\nEl sistema diseñado consiste en un núcleo de magnetita (co-precipitación de FeCl₃/FeCl₂) con una capa de plata, funcionalizado con un polímero pH-responsivo (pDMAEMA) y el péptido penetrante celular Buforina II unido mediante PEA. Los nanocojugados (magnetita/plata-pDMAEMA-PEA-BUFII) fueron caracterizados exhaustivamente. La viabilidad de células Vero en presencia de nanocojugados fue >95%, con baja hemólisis (<10%) y agregación plaquetaria comparable al control negativo. La cobertura citoplasmática de ~50% en células Vero y neuroblastoma confirma la capacidad de penetración celular.\n\n## Contribuciones principales\n\n- Diseño y caracterización de nanocojugados magnetita/plata-pDMAEMA-PEA-BUFII para entrega de plásmidos\n- Demostración de penetración celular (~50% cobertura citoplasmática) con alta biocompatibilidad (viabilidad >95%)\n- Funcionalización pH-responsiva para liberación controlada de DNA circular\n- Plataforma modular: el proceso de conjugación es transferible a otras químicas superficiales\n\n## Metodología\n\nSíntesis de nanopartículas magnetita/plata → funcionalización con pDMAEMA y Buforina II (vía PEA) → conjugación con DNA plasmídico → caracterización (UV-Vis, DLS, TGA, FTIR, SEM+EDS, TEM) → encapsulación en liposomas de lecitina (magnetoliposomas) → evaluación de viabilidad celular, hemólisis y agregación plaquetaria → microscopía de penetración celular.\n\n## Hallazgos clave\n\n- Nanocojugados: alta biocompatibilidad (viabilidad Vero >95%, hemólisis <10%)\n- Cobertura citoplasmática ~50% en células Vero y neuroblastoma\n- El sistema pH-responsivo permite liberación controlada del plásmido\n- Magnetoliposomas: mayor eficiencia de penetración pero menor viabilidad celular (~80%)\n- El sistema es no viral, evitando las limitaciones de inmunogenicidad de los vectores virales\n\n## Limitaciones\n\n- Evaluación in vitro preliminar; la eficiencia de transfección real (expresión del gen transportado) no se evaluó en detalle\n- La toxicidad de los magnetoliposomas (~80% viabilidad) requiere optimización\n- La estabilidad del sistema in vivo y la especificidad celular no se evaluaron\n\n## Notas relacionadas\n\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/terapia-genica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]"
+    },
+    {
+      "id": "notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores",
+      "kind": "paper",
+      "label": "CFD and Experimental Characterization of a Bioreactor: Analysis via Power Curve, Flow Patterns and kLa",
+      "authors": [
+        "Luis A. Ramírez",
+        "Edwar L. Pérez",
+        "Cesar García Díaz",
+        "Dumar Andrés Camacho Luengas",
+        "Nicolas Ratkovich",
+        "Luis H. Reyes"
+      ],
+      "year": "2020",
+      "venue": "Processes",
+      "url": "https://doi.org/10.3390/pr8070878",
+      "doi": "10.3390/pr8070878",
+      "keywords": [
+        "ingenieria-quimica",
+        "simulacion-computacional"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores.md",
+      "pdf_local": "sources/pdfs/ramirez2020-biorreactor-cfd-kla.pdf",
+      "content": "## Resumen\n\nLas operaciones de mezcla en procesos biológicos son críticas para el escalado y la transferencia de calor y masa. Este trabajo caracteriza un biorreactor de banco (bench-top) con distintas configuraciones de impeladores, velocidades de agitación y tasas de transferencia de oxígeno, combinando simulaciones CFD (dinámica de fluidos computacional) con experimentos. El objetivo es demostrar cómo el tipo de impelador y el régimen de flujo afectan drásticamente la operación del biorreactor.\n\nEl biorreactor con impelador tipo Rushton genera un kLa de 0.0056 s⁻¹ a 250 RPM y 5 L/min de aireación, con un consumo de energía considerable. Se demuestra que el diámetro del agitador es determinante: con propeladores de menor diámetro se reduce el consumo energético y la tasa máxima de cizalla. Los valores de kLa obtenidos para distintas configuraciones se comparan con los rangos máximos de cizalla tolerables por diferentes cultivos celulares, poniendo en perspectiva el impacto en aplicaciones biotecnológicas.\n\n## Contribuciones principales\n\n- Caracterización experimental + CFD de biorreactor de banco con múltiples configuraciones de impelador\n- Determinación de kLa para distintas configuraciones y condiciones de agitación y aireación\n- Análisis de consumo energético en función del diámetro y tipo de impelador\n- Comparación de valores de cizalla con tolerancias de diferentes cultivos celulares para guía de diseño\n\n## Metodología\n\nSimulaciones CFD en ANSYS Fluent de biorreactor con distintos impeladores (Rushton, propeladores de distintos diámetros) → validación experimental de curvas de potencia y patrones de flujo → medición experimental de kLa → comparación entre configuraciones.\n\n## Hallazgos clave\n\n- Rushton (10 cm, 250 RPM, 5 L/min): kLa = 0.0056 s⁻¹; alto consumo energético\n- Propeladores de menor diámetro: menor consumo energético, menor cizalla máxima (0.723 vs. 2.376 s⁻¹)\n- El tipo de impelador y el régimen de flujo afectan drásticamente el kLa y la cizalla\n- Los resultados CFD validados por experimentos ofrecen herramienta de diseño confiable\n- Impacto directo en diseño de biorreactores para procesos biotecnológicos sensibles a la cizalla\n\n## Limitaciones\n\n- Estudio en biorreactor de banco; el escalado a nivel industrial puede cambiar los patrones de flujo\n- Los modelos CFD utilizan simplificaciones (fluido newtoniano, geometría ideal) que pueden diferir en caldos reales\n- No se evaluaron cultivos celulares reales; los valores de cizalla se comparan con datos de literatura\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-quimica]]\n- [[concepts/simulacion-computacional]]"
+    },
+    {
+      "id": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica",
+      "kind": "paper",
+      "label": "Improving employability skills through non-placement work-integrated learning in chemical and food engineering: A case study",
+      "authors": [
+        "Alison K. Reedy",
+        "María Lucía Guerrero Farías",
+        "Luis H. Reyes",
+        "Diego Pradilla"
+      ],
+      "year": "2020",
+      "venue": "Education for Chemical Engineers",
+      "url": "https://doi.org/10.1016/j.ece.2020.09.002",
+      "doi": "10.1016/j.ece.2020.09.002",
+      "keywords": [
+        "ingenieria-quimica",
+        "aprendizaje-activo",
+        "educacion-superior",
+        "futuro-del-trabajo",
+        "creatividad"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica.md",
+      "pdf_local": "sources/pdfs/reedy2020-wil-employability-quimica.pdf",
+      "content": "## Resumen\n\nLa formación de ingenieros químicos listos para el mundo laboral requiere integrar habilidades técnicas con competencias de empleabilidad demandadas por la industria. Aunque los sistemas de colocación laboral (placements) son la forma más común de aprendizaje integrado al trabajo (WIL), las formas de WIL sin colocación pueden ser igual de efectivas sin los problemas logísticos de encontrar y asegurar la calidad de los puestos. Este estudio evalúa un curso de ingeniería química que combina WIL sin colocación con metodología de aprendizaje basado en proyectos (PBL) y el marco de Diseño Integrado de Productos y Procesos (IPPD).\n\nMediante análisis cualitativo de datos de estudiantes, docentes y socios industriales, se identificaron cinco temas clave que explican cómo las partes del curso se relacionan y promueven el aprendizaje. Los hallazgos indican que el modelo de WIL sin colocación evaluado fue efectivo para desarrollar las habilidades de empleabilidad definidas (creatividad y trabajo en equipo). Sin embargo, se identificaron oportunidades de mejora iterativa. Los aprendizajes clave pueden guiar a otras instituciones interesadas en incorporar WIL sin colocación en la educación de ingeniería química.\n\n## Contribuciones principales\n\n- Evaluación cualitativa de un modelo de WIL sin colocación en ingeniería química y alimentaria\n- Identificación de cinco temas clave que articulan las partes del curso y promueven el aprendizaje\n- Demostración de que el WIL sin colocación desarrolla efectivamente creatividad y trabajo en equipo\n- Marco metodológico transferible para implementar WIL sin colocación en otros programas de ingeniería\n\n## Metodología\n\nDiseño de curso combinando WIL sin colocación + PBL + marco IPPD → recogida de datos cualitativos (estudiantes, docentes, socios industriales) → análisis temático → identificación de cinco temas clave que explican el impacto en el aprendizaje.\n\n## Hallazgos clave\n\n- El modelo WIL sin colocación + PBL + IPPD es efectivo para desarrollar creatividad y trabajo en equipo\n- Cinco temas clave identificados articulan cómo el diseño del curso promueve el aprendizaje\n- Los socios industriales valoran la participación y el modelo de trabajo en equipo del curso\n- Oportunidades de mejora identificadas para iteraciones futuras del curso\n- El modelo es replicable en otros contextos de educación en ingeniería\n\n## Limitaciones\n\n- Estudio de caso único (una institución, un curso); la generalización requiere evaluación en otros contextos\n- Datos cualitativos: dependientes de la interpretación del investigador y la disposición de los participantes a compartir\n- No se midieron competencias de empleabilidad con instrumentos estandarizados pre/post curso\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-quimica]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/educacion-superior]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/creatividad]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]"
+    },
+    {
+      "id": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde",
+      "kind": "paper",
+      "label": "Patchy Core/Shell, Magnetite/Silver Nanoparticles via Green and Facile Synthesis: Routes to Assure Biocompatibility",
+      "authors": [
+        "Carlos M. Ramírez-Acosta",
+        "Javier Cifuentes",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2020",
+      "venue": "Nanomaterials",
+      "url": "https://doi.org/10.3390/nano10091857",
+      "doi": "10.3390/nano10091857",
+      "keywords": [
+        "nanociencia",
+        "biomateriales",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde.md",
+      "pdf_local": "sources/pdfs/ramirez2020-nanoparticulas-magnetita-plata.pdf",
+      "content": "## Resumen\n\nLa nanomedicina está alcanzando un nivel de madurez que permite su traslación clínica gracias al amplio espectro de aplicaciones habilitadas por materiales nanoestructurados. Las nanopartículas bimetálicas de tipo \"parche\" núcleo/concha ofrecen superficies ajustables que permiten respuestas multifuncionales. Sin embargo, el impacto ambiental y la biocompatibilidad de estos materiales representan desafíos pendientes. Este trabajo desarrolla un esquema de síntesis verde para preparar nanopartículas de magnetita/plata en configuración parche altamente biocompatibles.\n\nEl núcleo de magnetita se sintetizó por co-precipitación de FeCl₃/FeCl₂ en NaOH, seguido del crecimiento de la capa de plata parcheada usando miel natural como agente reductor (síntesis verde). Un proceso de purificación permite seleccionar las nanopartículas objetivo y eliminar reactivos tóxicos en exceso. La caracterización mostró alta biocompatibilidad: baja citotoxicidad, mínimo efecto hemolítico (<10%) y agregación plaquetaria comparable al control negativo. El trabajo también describe protocolos de conjugación superficial transferibles a múltiples químicas, útiles para aplicaciones emergentes en nanomedicina.\n\n## Contribuciones principales\n\n- Síntesis verde de nanopartículas parche magnetita/plata usando miel como agente reductor\n- Alta biocompatibilidad demostrada: citotoxicidad baja, hemólisis <10%, mínima agregación plaquetaria\n- Protocolo de purificación para selección de nanopartículas objetivo\n- Estrategias de conjugación superficial multifuncional transferibles a otras aplicaciones de nanomedicina\n\n## Metodología\n\nCo-precipitación de magnetita → crecimiento de capa de plata parcheada con miel como reductor → purificación → caracterización (UV-Vis, DLS, TGA, FTIR, SEM+EDS, TEM) → ensayos de biocompatibilidad (citotoxicidad, hemólisis, agregación plaquetaria).\n\n## Hallazgos clave\n\n- Síntesis verde reproducible con miel como reductor natural\n- Morfología parche confirmada por SEM y TEM\n- Alta biocompatibilidad: viabilidad celular alta, hemólisis <10%\n- El proceso de purificación es crítico para eliminar citotoxicidad de reactivos residuales\n- Los protocolos de conjugación permiten modificación superficial multifuncional\n\n## Limitaciones\n\n- Estudio de biocompatibilidad in vitro; la evaluación in vivo no se realizó\n- El mecanismo de formación del parche de plata y su reproducibilidad a escala requieren optimización\n- Las propiedades magnéticas de las nanopartículas finales no se cuantificaron extensamente\n\n## Notas relacionadas\n\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]"
     },
     {
       "id": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
@@ -3258,6 +3663,46 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
+      "target": "concepts/biomasa-lignocelulosica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
+      "target": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
+      "target": "notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
       "target": "concepts/evolucion-de-laboratorio",
       "kind": "keyword"
@@ -3290,6 +3735,256 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
       "target": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones",
+      "target": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
+      "target": "concepts/enfermedades-raras",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
+      "target": "concepts/bioquimica-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
+      "target": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
+      "target": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica",
+      "target": "concepts/biomasa-lignocelulosica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica",
+      "target": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia",
+      "target": "concepts/petroleo-y-gas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
+      "target": "concepts/enfermedades-raras",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
+      "target": "concepts/proteinas-recombinantes",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
+      "target": "concepts/terapia-genica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
+      "target": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
+      "target": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano",
+      "target": "concepts/economia-circular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes",
+      "target": "concepts/terapia-genica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes",
+      "target": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica",
+      "target": "concepts/creatividad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica",
+      "target": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde",
+      "target": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes",
       "kind": "related"
     },
     {

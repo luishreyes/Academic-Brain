@@ -16,3 +16,7 @@ Campo que estudia los mecanismos moleculares de los procesos biológicos: expres
 - [[notes/papers/2013-11-18_carotenoides-levadura-ale]]
 - [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]
 - [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]
+- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]
+- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]
+- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]
+- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]

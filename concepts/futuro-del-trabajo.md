@@ -21,3 +21,4 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 - [[notes/books/2010-06-15_the-rational-optimist-ridley]]
 - [[notes/books/2022-09-26_of-boys-and-men-reeves]]
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
+- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]

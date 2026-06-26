@@ -29,3 +29,5 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/books/2024-04-02_co-intelligence-mollick]]
 - [[notes/books/2018-02-20_educated-tara-westover]]
 - [[notes/books/2022-09-26_of-boys-and-men-reeves]]
+- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]
+- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]

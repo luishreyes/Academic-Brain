@@ -20,3 +20,5 @@ Modificación racional del metabolismo celular para aumentar la producción de c
 - [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]
 - [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]
 - [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]
+- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]
+- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]
