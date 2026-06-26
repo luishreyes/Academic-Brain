@@ -18,3 +18,6 @@ Aplicación de métodos computacionales al estudio de moléculas biológicas (pr
 - [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]
 - [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]
 - [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]
+- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]
+- [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]
+- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]

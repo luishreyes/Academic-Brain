@@ -28,3 +28,5 @@ Modificación racional del metabolismo celular para aumentar la producción de c
 - [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]
 - [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]
 - [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]
+- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]
+- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]
