@@ -31,3 +31,4 @@ Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–
 - [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
 - [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]
 - [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]
+- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]

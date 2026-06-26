@@ -10,3 +10,4 @@ Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de h
 
 ## Notas que usan este concepto
 - [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]
+- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]

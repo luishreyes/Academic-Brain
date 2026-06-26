@@ -19,3 +19,4 @@ Proteínas producidas por organismos huésped modificados genéticamente para ex
 - [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]
 - [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]
 - [[notes/papers/2025-01-01_amp-downstream-processing]]
+- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]

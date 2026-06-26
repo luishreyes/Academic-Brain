@@ -25,3 +25,4 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 - [[notes/articles/2026-03-12_shape-of-thing-mollick]]
 - [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]
 - [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]
+- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]
