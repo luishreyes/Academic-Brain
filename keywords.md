@@ -29,7 +29,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## B
 
-**bienestar-academico** — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
+**bienestar-academico**
+
+**biocombustibles** — Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación. _Aliases: biofuels, biobutanol, n-butanol, bioethanol, combustibles renovables_ — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
 
 ## C
 
@@ -61,7 +63,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## E
 
-**epistemologia-del-riesgo** — Estudio filosófico del conocimiento bajo incertidumbre y riesgo; incluye el problema de la inducción, la distinción entre riesgo medible e incertidumbre radical, y las implicaciones epistemológicas de distribuciones con colas pesadas. _Aliases: risk epistemology, incertidumbre radical, uncertainty, Black Swan, cisne negro, probabilidad subjetiva_
+**epistemologia-del-riesgo**
+
+**evolucion-de-laboratorio** — Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos. _Aliases: adaptive laboratory evolution, ALE, evolutionary engineering, in vitro evolution, VERT, visualizing evolution in real-time_ — Estudio filosófico del conocimiento bajo incertidumbre y riesgo; incluye el problema de la inducción, la distinción entre riesgo medible e incertidumbre radical, y las implicaciones epistemológicas de distribuciones con colas pesadas. _Aliases: risk epistemology, incertidumbre radical, uncertainty, Black Swan, cisne negro, probabilidad subjetiva_
 
 **evolucion-cultural** — Proceso por el cual las ideas, tecnologías, normas y prácticas sociales cambian a lo largo del tiempo mediante mecanismos análogos a la selección natural: variación, transmisión y selección diferencial; incluye la teoría de la evolución de doble herencia y el concepto de memes. _Aliases: cultural evolution, evolución de la cultura, memética, cultural transmission, double inheritance theory_
 
@@ -95,7 +99,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## G
 
-**gestion-por-objetivos** — Marco de gestión organizacional basado en la definición explícita de objetivos ambiciosos y resultados clave medibles (OKR: Objectives and Key Results); fomenta la transparencia, la coordinación y la responsabilidad en todos los niveles de la organización. _Aliases: OKR, objectives and key results, management by objectives, MBO, gestión por resultados_
+**gestion-por-objetivos**
+
+**genomica** — Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos. _Aliases: genomics, genome sequencing, transcriptomics, -omics, bioinformatics_ — Marco de gestión organizacional basado en la definición explícita de objetivos ambiciosos y resultados clave medibles (OKR: Objectives and Key Results); fomenta la transparencia, la coordinación y la responsabilidad en todos los niveles de la organización. _Aliases: OKR, objectives and key results, management by objectives, MBO, gestión por resultados_
 
 **geopolitica-tecnologica** — Estudio de cómo las tecnologías críticas (semiconductores, IA, redes de comunicación) se convierten en instrumentos y escenarios de competencia entre potencias; incluye controles de exportación, cadenas de suministro estratégicas y dependencia tecnológica. _Aliases: techno-geopolitics, geopolitics of technology, geopolítica de los chips, tech competition_
 
@@ -107,7 +113,11 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## I
 
-**impacto-de-investigacion** — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
+**impacto-de-investigacion**
+
+**ingenieria-metabolica** — Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida. _Aliases: metabolic engineering, strain engineering, biocatalyst engineering, cell factory, ingeniería de cepas_
+
+**ingenieria-quimica** — Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial. _Aliases: chemical engineering, biochemical engineering, proceso industrial, ingeniería de procesos_ — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
 
 **integridad-academica** — Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política. _Aliases: academic integrity, deshonestidad académica, plagiarism, trampa académica_
 
@@ -127,7 +137,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## M
 
-**medicina-basada-en-evidencia** — Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio. _Aliases: evidence-based medicine, EBM, medicina basada en evidencias_
+**medicina-basada-en-evidencia**
+
+**modelado-molecular** — Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas. _Aliases: molecular modeling, molecular mechanics, molecular dynamics, MD simulation, force field, campo de fuerzas_ — Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio. _Aliases: evidence-based medicine, EBM, medicina basada en evidencias_
 
 **modernizacion** — Procesos de transformación social, económica e institucional guiados por ideales de progreso técnico y racionalidad científica; históricamente asociados a industrialización y construcción de Estado-nación. _Aliases: modernidad, alto modernismo_
 
@@ -152,6 +164,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **publicacion-academica** — Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales. _Aliases: publicación científica, peer review, revistas académicas, publish or perish_
 
 ## Q
+
+**quimica-computacional** — Uso de métodos computacionales (mecánica cuántica, mecánica molecular, dinámica molecular) para estudiar sistemas químicos; incluye cálculos DFT, campos de fuerza ab initio y simulaciones atomísticas de moléculas y materiales. _Aliases: computational chemistry, DFT, density functional theory, química teórica, ab initio_
 
 ## R
 

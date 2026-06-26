@@ -2,10 +2,10 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 19,
+    "papers": 24,
     "articles": 5,
     "books": 24,
-    "concepts": 64
+    "concepts": 71
   },
   "nodes": [
     {
@@ -127,6 +127,23 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/bienestar-academico.md",
       "content": "Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del \"publish or perish\" y redefinición del éxito académico.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]",
       "degree": 5
+    },
+    {
+      "id": "concepts/biocombustibles",
+      "kind": "concept",
+      "label": "biocombustibles",
+      "keyword": "biocombustibles",
+      "aliases": [
+        "biofuels",
+        "biobutanol",
+        "n-butanol",
+        "bioethanol",
+        "combustibles renovables"
+      ],
+      "definition": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.",
+      "path": "concepts/biocombustibles.md",
+      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]",
+      "degree": 2
     },
     {
       "id": "concepts/cadenas-de-suministro-globales",
@@ -494,6 +511,24 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 1
     },
     {
+      "id": "concepts/evolucion-de-laboratorio",
+      "kind": "concept",
+      "label": "evolucion de laboratorio",
+      "keyword": "evolucion-de-laboratorio",
+      "aliases": [
+        "adaptive laboratory evolution",
+        "ALE",
+        "evolutionary engineering",
+        "in vitro evolution",
+        "VERT",
+        "visualizing evolution in real-time"
+      ],
+      "definition": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.",
+      "path": "concepts/evolucion-de-laboratorio.md",
+      "content": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]",
+      "degree": 3
+    },
+    {
       "id": "concepts/filosofia",
       "kind": "concept",
       "label": "filosofia",
@@ -556,6 +591,23 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/futuro-del-trabajo.md",
       "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]",
       "degree": 16
+    },
+    {
+      "id": "concepts/genomica",
+      "kind": "concept",
+      "label": "genomica",
+      "keyword": "genomica",
+      "aliases": [
+        "genomics",
+        "genome sequencing",
+        "transcriptomics",
+        "-omics",
+        "bioinformatics"
+      ],
+      "definition": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.",
+      "path": "concepts/genomica.md",
+      "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]",
+      "degree": 2
     },
     {
       "id": "concepts/geopolitica-tecnologica",
@@ -633,6 +685,39 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/impacto-de-investigacion.md",
       "content": "Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
       "degree": 4
+    },
+    {
+      "id": "concepts/ingenieria-metabolica",
+      "kind": "concept",
+      "label": "ingenieria metabolica",
+      "keyword": "ingenieria-metabolica",
+      "aliases": [
+        "metabolic engineering",
+        "strain engineering",
+        "biocatalyst engineering",
+        "cell factory",
+        "ingeniería de cepas"
+      ],
+      "definition": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.",
+      "path": "concepts/ingenieria-metabolica.md",
+      "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]",
+      "degree": 4
+    },
+    {
+      "id": "concepts/ingenieria-quimica",
+      "kind": "concept",
+      "label": "ingenieria quimica",
+      "keyword": "ingenieria-quimica",
+      "aliases": [
+        "chemical engineering",
+        "biochemical engineering",
+        "proceso industrial",
+        "ingeniería de procesos"
+      ],
+      "definition": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.",
+      "path": "concepts/ingenieria-quimica.md",
+      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]",
+      "degree": 5
     },
     {
       "id": "concepts/integridad-academica",
@@ -725,6 +810,24 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/medicina-basada-en-evidencia.md",
       "content": "Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio.\n\n## Notas que usan este concepto\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]",
       "degree": 3
+    },
+    {
+      "id": "concepts/modelado-molecular",
+      "kind": "concept",
+      "label": "modelado molecular",
+      "keyword": "modelado-molecular",
+      "aliases": [
+        "molecular modeling",
+        "molecular mechanics",
+        "molecular dynamics",
+        "MD simulation",
+        "force field",
+        "campo de fuerzas"
+      ],
+      "definition": "Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas.",
+      "path": "concepts/modelado-molecular.md",
+      "content": "Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]",
+      "degree": 1
     },
     {
       "id": "concepts/modernizacion",
@@ -851,6 +954,23 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/publicacion-academica.md",
       "content": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
       "degree": 2
+    },
+    {
+      "id": "concepts/quimica-computacional",
+      "kind": "concept",
+      "label": "quimica computacional",
+      "keyword": "quimica-computacional",
+      "aliases": [
+        "computational chemistry",
+        "DFT",
+        "density functional theory",
+        "química teórica",
+        "ab initio"
+      ],
+      "definition": "Uso de métodos computacionales (mecánica cuántica, mecánica molecular, dinámica molecular) para estudiar sistemas químicos; incluye cálculos DFT, campos de fuerza ab initio y simulaciones atomísticas de moléculas y materiales.",
+      "path": "concepts/quimica-computacional.md",
+      "content": "Uso de métodos computacionales (mecánica cuántica, mecánica molecular, dinámica molecular) para estudiar sistemas químicos; incluye cálculos DFT, campos de fuerza ab initio y simulaciones atomísticas de moléculas y materiales.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]",
+      "degree": 1
     },
     {
       "id": "concepts/regulacion-de-ia",
@@ -1007,6 +1127,125 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/universidades-chinas.md",
       "content": "Sistema universitario de China, su historia, transformaciones desde 1949, políticas educativas y dinámicas actuales de internacionalización e inversión en STEM.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/books/2022-10-04_chip-war-miller]]",
       "degree": 2
+    },
+    {
+      "id": "notes/papers/2007-05-18_force-constants-alanine-polypeptides",
+      "kind": "paper",
+      "label": "Determination of precise harmonic force constants for alanine polypeptides",
+      "authors": [
+        "Luis H. Reyes",
+        "Jorge M. Seminario"
+      ],
+      "year": "2007",
+      "venue": "Journal of Molecular Structure: THEOCHEM",
+      "url": "https://doi.org/10.1016/j.theochem.2007.05.015",
+      "doi": "10.1016/j.theochem.2007.05.015",
+      "keywords": [
+        "quimica-computacional",
+        "modelado-molecular",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2007-05-18_force-constants-alanine-polypeptides.md",
+      "pdf_local": "sources/pdfs/reyes2007-force-constants-alanine.pdf",
+      "content": "## Resumen\n\nEste trabajo presenta un campo de fuerzas armónico de alta precisión para polipéptidos de alanina, derivado directamente del tensor Hessiano de cálculos de teoría del funcional de la densidad (DFT). Usando el funcional híbrido B3PW91/6-31G* en Gaussian-03 y el software FUERZA para extraer constantes de fuerza a partir de derivadas segundas cartesianas, los autores calcularon parámetros de enlace y ángulo para péptidos de alanina de distintos tamaños (heptámero, octámero y nonámero). El método no requiere ajuste empírico de parámetros: las constantes emergen directamente de la estructura electrónica calculada.\n\nLos resultados muestran desviaciones estándar pequeñas entre los valores de constantes de fuerza para polipéptidos de distinta longitud, confirmando la consistencia interna del campo. Al comparar con AMBER y el Manual CRC, se encuentra que AMBER subestima sistemáticamente las constantes, mientras que el CRC reporta valores generalmente superiores; todos coinciden en que el enlace C=O doble tiene la constante más alta. Este campo de fuerzas de primeros principios reproduce el espectro vibracional de los polipéptidos y sirve de base para simulaciones de dinámica molecular orientadas a la transferencia de información a escala nanométrica.\n\n## Contribuciones principales\n\n- Campo de fuerzas armónico para alanina derivado directamente del tensor Hessiano DFT sin procedimientos de ajuste empírico\n- Implementación mediante el programa FUERZA con el funcional B3PW91/6-31G*\n- Comparación sistemática con AMBER y CRC: AMBER subestima, CRC sobreestima las constantes de enlace\n- Parámetros consistentes across heptámero, octámero y nonámero de alanina\n\n## Metodología\n\nOptimización de geometría con B3PW91/6-31G* en Gaussian-03 → cálculo del tensor Hessiano → extracción de constantes de fuerza internas con FUERZA mediante eigenanálisis de matrices de interacción por pares atómicos. Las constantes de ángulo se obtienen de las matrices de interacción de los dos enlaces que forman el ángulo. Los valores finales son promedios sobre heptámero, octámero y nonámero.\n\n## Hallazgos clave\n\n- Desviaciones estándar pequeñas en constantes de fuerza entre polipéptidos de distinto tamaño\n- AMBER: constantes de enlace consistentemente inferiores a las DFT (hasta ~50% menor para C=O)\n- El enlace C=O doble tiene la constante de fuerza más alta en todos los campos comparados\n- El campo generado reproduce el espectro vibracional requerido para simulaciones de dinámica molecular\n\n## Limitaciones\n\n- Resultados limitados a polipéptidos de alanina; la transferibilidad a otras secuencias requiere validación\n- Base 6-31G* es moderada; bases mayores podrían refinar los valores\n- No incluye validación experimental directa de las constantes de fuerza\n\n## Notas relacionadas\n\n- [[concepts/quimica-computacional]]\n- [[concepts/modelado-molecular]]\n- [[concepts/ingenieria-quimica]]"
+    },
+    {
+      "id": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
+      "kind": "paper",
+      "label": "Genomic Library Screens for Genes Involved in n-Butanol Tolerance in Escherichia coli",
+      "authors": [
+        "Luis H. Reyes",
+        "Maria P. Almario",
+        "Katy C. Kao"
+      ],
+      "year": "2011",
+      "venue": "PLoS ONE",
+      "url": "https://doi.org/10.1371/journal.pone.0017678",
+      "doi": "10.1371/journal.pone.0017678",
+      "keywords": [
+        "ingenieria-metabolica",
+        "biocombustibles",
+        "genomica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli.md",
+      "pdf_local": "sources/pdfs/reyes2011-genomic-screens-nbutanol.pdf",
+      "content": "## Resumen\n\nEl n-butanol es un biocombustible prometedor con propiedades fisicoquímicas similares a la gasolina, pero la mayoría de los microorganismos solo toleran concentraciones de hasta 2% (v/v), lo que limita su viabilidad económica. Este estudio buscó identificar los genes de E. coli implicados en la tolerancia al n-butanol mediante una estrategia de enriquecimiento de librería genómica. Se identificaron aproximadamente 270 genes enriquecidos o agotados bajo estrés de n-butanol; de estos, se validaron experimentalmente 14 genes mediante estudios de sobreexpresión y deleción.\n\nLos genes con mayor efecto positivo sobre la tolerancia fueron entC y feoA (transporte y metabolismo de hierro), que aumentaron la tolerancia en 32.8% y 49.1% respectivamente al sobreexpresarse. La deleción del gen astE incrementó la resistencia en 48.7%. Los resultados sugieren que una mayor capacidad de transporte de hierro y una reducida resistencia ácida mejoran la tolerancia al n-butanol, posiblemente mediante modificaciones en la membrana externa. El trabajo amplía el conocimiento disponible sobre el paisaje adaptativo del fenotipo de tolerancia en E. coli.\n\n## Contribuciones principales\n\n- Estrategia de enriquecimiento de librería genómica para identificar determinantes genéticos de tolerancia a n-butanol\n- Identificación y validación experimental de 14 genes que reducen el efecto inhibitorio del n-butanol\n- Hallazgo de que genes de transporte de hierro (entC, feoA) confieren las mayores ganancias de tolerancia\n- Evidencia de que la resistencia ácida reducida puede contribuir a la tolerancia al solvente\n\n## Metodología\n\nLibrería genómica de E. coli en plásmido de alta copia → enriquecimiento bajo estrés de n-butanol → secuenciación para identificar genes enriquecidos y agotados → validación mediante: (a) sobreexpresión de 55 genes enriquecidos en cepa silvestre, (b) deleción de 84 genes agotados. Evaluación cuantitativa de tolerancia comparada con cepa control.\n\n## Hallazgos clave\n\n- ~270 genes identificados por enriquecimiento; 14 validados experimentalmente\n- entC: +32.8% tolerancia (sobreexpresión)\n- feoA: +49.1% tolerancia (sobreexpresión)\n- astE: +48.7% tolerancia (deleción)\n- Los genes de hierro sugieren modificación de la membrana externa como mecanismo de tolerancia\n\n## Limitaciones\n\n- Los mecanismos moleculares exactos de la mayoría de genes validados no fueron completamente elucidados\n- La transferibilidad de los resultados a otros hosts de producción de biocombustibles requiere validación\n- El método de librería puede no capturar determinantes genéticos que requieren múltiples genes en combinación\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-quimica]]"
+    },
+    {
+      "id": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "kind": "paper",
+      "label": "Visualizing evolution in real time to determine the molecular mechanisms of n-butanol tolerance in Escherichia coli",
+      "authors": [
+        "Luis H. Reyes",
+        "Maria P. Almario",
+        "James Winkler",
+        "Margarita M. Orozco",
+        "Katy C. Kao"
+      ],
+      "year": "2012",
+      "venue": "Metabolic Engineering",
+      "url": "https://doi.org/10.1016/j.ymben.2012.05.002",
+      "doi": "10.1016/j.ymben.2012.05.002",
+      "keywords": [
+        "evolucion-de-laboratorio",
+        "ingenieria-metabolica",
+        "biocombustibles",
+        "genomica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol.md",
+      "pdf_local": "sources/pdfs/reyes2012-vert-nbutanol-mechanisms.pdf",
+      "content": "## Resumen\n\nEste trabajo aplica el método VERT (Visualizing Evolution in Real-Time) para mapear el paisaje adaptativo de la tolerancia al n-butanol en E. coli y dilucidar los mecanismos moleculares subyacentes. A diferencia de enfoques clásicos, VERT permite visualizar en tiempo real los eventos adaptativos —expansiones de mutantes beneficiosos— mediante el seguimiento de la proporción relativa de subpoblaciones marcadas con diferentes proteínas fluorescentes. Esto redujo significativamente la pérdida de mutantes adaptativos por interferencia clonal, fenómeno que el trabajo demuestra juega un papel importante en la estructura poblacional de E. coli bajo estrés de n-butanol.\n\nEl análisis de transcriptoma de los mutantes adaptativos aislados reveló que distintos linajes evolucionaron mecanismos de tolerancia diferentes: en una subpoblación, los genes del regulón Fur (metabolismo de hierro) estaban sobre-regulados, lo que no ocurrió en la otra. La secuenciación genómica identificó las mutaciones responsables de estos perfiles transcriptómicos. Estudios de sobreexpresión y deleción del gen de hierro permitieron hipotetizar que su regulación al alza conduce indirectamente a modificaciones en la membrana externa, contribuyendo a la tolerancia. El trabajo también combinó evolución adaptativa con genome shuffling para amplificar aún más la tolerancia al n-butanol.\n\n## Contribuciones principales\n\n- Aplicación de VERT para identificar eventos adaptativos y aislar mutantes con mayor tolerancia a n-butanol\n- Demostración de que la interferencia clonal juega un rol significativo en la evolución de E. coli bajo estrés de n-butanol\n- Identificación de dos mecanismos distintos de tolerancia en diferentes linajes evolucionados\n- Hipótesis de que la sobre-regulación de genes del regulón Fur modifica la membrana externa para conferir tolerancia\n- Combinación de VERT con genome shuffling para amplificar el fenotipo deseado\n\n## Metodología\n\nVERT con dos subpoblaciones de E. coli marcadas con GFP e YFP → seguimiento por citometría de flujo → aislamiento sistemático de mutantes adaptativos → análisis de transcriptoma (microarreglos) → secuenciación genómica → validación funcional mediante sobreexpresión y deleción de genes candidatos. Genome shuffling entre mutantes adaptativos para amplificar tolerancia.\n\n## Hallazgos clave\n\n- VERT facilitó el aislamiento de mutantes que habrían sido perdidos por interferencia clonal en evolución clásica\n- Un linaje sobre-regula genes del regulón Fur; el otro no, revelando heterogeneidad de mecanismos\n- La sobre-regulación de genes de hierro se asocia con modificaciones de la membrana externa\n- Genome shuffling + VERT: tolerancia significativamente superior a la obtenida con evolución sola\n- Validación experimental de la importancia del hierro en la tolerancia (consistente con Reyes et al., 2011)\n\n## Limitaciones\n\n- El mecanismo exacto por el que los genes de hierro modifican la membrana externa no fue completamente elucidado\n- El número de linajes analizados es pequeño; la variabilidad entre replicados evolutivos puede ser alta\n- Los resultados son específicos para E. coli en las condiciones experimentales del estudio\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biocombustibles]]\n- [[concepts/genomica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]"
+    },
+    {
+      "id": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas",
+      "kind": "paper",
+      "label": "Visualizing evolution in real-time method for strain engineering",
+      "authors": [
+        "Luis H. Reyes",
+        "James Winkler",
+        "Katy C. Kao"
+      ],
+      "year": "2012",
+      "venue": "Frontiers in Microbiology",
+      "url": "https://doi.org/10.3389/fmicb.2012.00198",
+      "doi": "10.3389/fmicb.2012.00198",
+      "keywords": [
+        "evolucion-de-laboratorio",
+        "ingenieria-metabolica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas.md",
+      "pdf_local": "sources/pdfs/reyes2012-vert-strain-engineering-review.pdf",
+      "content": "## Resumen\n\nEsta mini-revisión describe el método VERT (Visualizing Evolution in Real-Time), una técnica de evolución adaptativa in vitro diseñada para facilitar la identificación sistemática de mutantes con mayor aptitud en el curso de la evolución. El artículo contextualiza las limitaciones de los enfoques clásicos de ingeniería evolutiva —donde los mutantes se aíslan al azar en tiempos arbitrarios— y explica cómo la interferencia clonal puede llevar a la pérdida de mutantes beneficiosos que compiten en la población.\n\nVERT aborda este problema marcando distintas subpoblaciones con proteínas fluorescentes (GFP, YFP, RFP) y monitoreando su proporción relativa mediante citometría de flujo. Las expansiones adaptativas —momentos en que un mutante beneficioso domina la población— son visibles como cambios en la proporción de colores, lo que permite aislar mutantes de forma oportuna y sistemática. Integrado con herramientas genómicas de alto rendimiento (resecuenciación, transcriptómica, proteómica), VERT facilita el mapeo del paisaje adaptativo de fenotipos complejos relevantes industrialmente.\n\n## Contribuciones principales\n\n- Revisión conceptual del paisaje adaptativo y su importancia para la ingeniería de cepas\n- Descripción del método VERT: marcaje fluorescente + citometría de flujo para visualizar eventos adaptativos en tiempo real\n- Análisis de la interferencia clonal como limitante clave en evolución adaptativa clásica\n- Integración de VERT con herramientas genómicas para mapeo del paisaje adaptativo\n\n## Metodología\n\nRevisión de literatura sobre estructura poblacional en evolución asexual, teorías de interferencia clonal (modelo de barrido periódico y modelo de interferencia múltiple) y aplicaciones de VERT en sistemas microbianos con presión selectiva acoplada al crecimiento.\n\n## Hallazgos clave\n\n- La interferencia clonal puede llevar a la pérdida de mutantes beneficiosos en experimentos de evolución adaptativa\n- VERT permite detectar eventos adaptativos como cambios en proporciones de subpoblaciones fluorescentes\n- El paisaje adaptativo puede ser rugged (múltiples óptimos locales) o plano (un solo óptimo), lo cual afecta la estrategia evolutiva\n- La combinación de VERT con herramientas ómicas expande el conocimiento sobre mecanismos de fenotipos complejos\n\n## Limitaciones\n\n- El método requiere que el fenotipo de interés pueda acoplarse al crecimiento\n- La detección de eventos adaptativos depende de la resolución del equipo de citometría de flujo\n- Artículo de revisión: no reporta experimentos propios\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/ingenieria-quimica]]"
+    },
+    {
+      "id": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
+      "kind": "paper",
+      "label": "Adaptive Laboratory Evolution for Strain Engineering",
+      "authors": [
+        "James Winkler",
+        "Luis H. Reyes",
+        "Katy C. Kao"
+      ],
+      "year": "2013",
+      "venue": "Methods in Molecular Biology, vol. 985",
+      "url": "https://doi.org/10.1007/978-1-62703-299-5_11",
+      "doi": "10.1007/978-1-62703-299-5_11",
+      "keywords": [
+        "evolucion-de-laboratorio",
+        "ingenieria-metabolica",
+        "ingenieria-quimica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos.md",
+      "pdf_local": "sources/pdfs/winkler2013-adaptive-lab-evolution.pdf",
+      "content": "## Resumen\n\nEste capítulo de métodos presenta protocolos detallados para tres modalidades de evolución adaptativa de laboratorio: transferencia serial en lote (batch), reactores continuos (quimiostatos) y el método VERT (Visualizing Evolution in Real-Time). Los protocolos están diseñados principalmente para E. coli y levaduras con limitación de nutrientes o presencia de inhibidores como presión selectiva, pero son adaptables a otros microorganismos y cualquier rasgo acoplable al crecimiento.\n\nEl capítulo discute las ventajas y limitaciones de cada modalidad: el batch es simple pero susceptible a deriva genética por los cuellos de botella poblacionales en cada transferencia; los sistemas continuos evitan este problema pero requieren mayor inversión en equipos; VERT añade marcaje fluorescente para visualizar la dinámica evolutiva en tiempo real. Se describen los factores que afectan los resultados —tamaño poblacional, tasa de mutación, fuerza de la presión selectiva y duración del experimento— y los equipos necesarios incluyendo citómetro de flujo para VERT.\n\n## Contribuciones principales\n\n- Protocolos detallados para tres modalidades de ALE: batch, continuo y VERT\n- Análisis comparativo de ventajas y limitaciones de cada modalidad\n- Discusión de factores que afectan los resultados evolutivos (tamaño poblacional, tasa de mutación, duración)\n- Guía práctica para el diseño de experimentos previo a su ejecución\n\n## Metodología\n\nCapítulo de métodos; incluye: listas de materiales (biológicos, químicos y de equipo), procedimientos paso a paso para cada modalidad de evolución, criterios de toma de decisiones y consideraciones para análisis downstream de los mutantes aislados.\n\n## Hallazgos clave\n\n- Batch: ventaja en simplicidad; desventaja en deriva genética por cuellos de botella\n- Continuo: elimina los cuellos de botella pero requiere biorreactores y mayor infraestructura\n- VERT: permite observar la dinámica evolutiva y reduce la pérdida de mutantes por interferencia clonal\n- La mutagénesis aleatoria puede acelerar la evolución aumentando la diversidad genética inicial\n\n## Limitaciones\n\n- Los protocolos asumen que el fenotipo de interés puede acoplarse al crecimiento\n- Capítulo de métodos: no reporta experimentos nuevos, sino sistematiza conocimiento previo del laboratorio\n\n## Notas relacionadas\n\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]"
     },
     {
       "id": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
@@ -2314,6 +2553,111 @@ window.__ACADEMIC_BRAIN__ = {
     }
   ],
   "links": [
+    {
+      "source": "notes/papers/2007-05-18_force-constants-alanine-polypeptides",
+      "target": "concepts/quimica-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2007-05-18_force-constants-alanine-polypeptides",
+      "target": "concepts/modelado-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2007-05-18_force-constants-alanine-polypeptides",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "target": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
+      "target": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
+      "target": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
+      "kind": "related"
+    },
     {
       "source": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
       "target": "concepts/educacion-superior",
