@@ -10,3 +10,5 @@ Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–
 
 ## Notas que usan este concepto
 - [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]
+- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]
+- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]

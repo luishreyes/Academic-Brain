@@ -16,3 +16,4 @@ Capacidad de generar ideas novedosas, variadas y de alta calidad en la resoluci√
 - [[notes/books/2020-04-04_how-innovation-works-ridley]]
 - [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]
 - [[notes/books/2012-01-23_quiet-susan-cain]]
+- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]

@@ -15,3 +15,6 @@ Campo que estudia la estructura, función y variación de los genomas completos;
 - [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]
 - [[notes/papers/2013-11-18_carotenoides-levadura-ale]]
 - [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]
+- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]
+- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]
+- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]

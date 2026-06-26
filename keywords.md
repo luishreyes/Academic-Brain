@@ -31,6 +31,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **bienestar-academico**
 
+**biomateriales** — Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas. _Aliases: biomaterials, hydrogels, scaffolds, encapsulation, drug delivery materials_
+
 **biocombustibles** — Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación. _Aliases: biofuels, biobutanol, n-butanol, bioethanol, combustibles renovables_
 
 **biologia-molecular** — Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes. _Aliases: molecular biology, biología celular y molecular, gene expression, molecular mechanisms_
@@ -77,9 +79,12 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **epistemologia-del-riesgo**
 
+
 **evolucion-de-laboratorio** — Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos. _Aliases: adaptive laboratory evolution, ALE, evolutionary engineering, in vitro evolution, VERT, visualizing evolution in real-time_ — Estudio filosófico del conocimiento bajo incertidumbre y riesgo; incluye el problema de la inducción, la distinción entre riesgo medible e incertidumbre radical, y las implicaciones epistemológicas de distribuciones con colas pesadas. _Aliases: risk epistemology, incertidumbre radical, uncertainty, Black Swan, cisne negro, probabilidad subjetiva_
 
 **evolucion-cultural** — Proceso por el cual las ideas, tecnologías, normas y prácticas sociales cambian a lo largo del tiempo mediante mecanismos análogos a la selección natural: variación, transmisión y selección diferencial; incluye la teoría de la evolución de doble herencia y el concepto de memes. _Aliases: cultural evolution, evolución de la cultura, memética, cultural transmission, double inheritance theory_
+
+**economia-circular** — Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible. _Aliases: circular economy, bioeconomía, waste valorization, economía regenerativa_
 
 **economia-de-la-innovacion** — Campo que estudia los determinantes económicos de la innovación tecnológica: retornos crecientes, bienes no rivales, spillovers de conocimiento, propiedad intelectual y el rol del mercado y el Estado en el proceso innovador. _Aliases: economics of innovation, Schumpeter, economía del conocimiento, retornos crecientes_
 
@@ -167,6 +172,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **pensamiento-critico-medico**
 
+**petroleo-y-gas** — Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de hidrocarburos; incluye flujos multifásicos, emulsiones de crudo, demulsificación, reología de crudos pesados y técnicas de recuperación mejorada. _Aliases: oil and gas, petroleum engineering, crudo pesado, heavy crude oil, demulsification_
+
 **proteinas-recombinantes** — Proteínas producidas mediante expresión de genes heterólogos en sistemas hospederos como E. coli, levaduras o células de mamífero; incluye enzimas terapéuticas, anticuerpos monoclonales y biosimilares para uso médico o industrial. _Aliases: recombinant proteins, biopharmaceuticals, therapeutic proteins, protein expression, enzyme production_
 
 **poder-y-persuasion** — Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico. _Aliases: power and persuasion, influence, maquiavelismo, strategic power, Machiavelli, realpolitik_
@@ -193,7 +200,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## S
 
-**sesgo-cognitivo** — Patrones sistemáticos de desviación del razonamiento racional debidos a heurísticas y limitaciones cognitivas humanas; incluye sesgos como disponibilidad, anclaje, representatividad y sesgo de supervivencia. _Aliases: cognitive bias, heurísticas cognitivas, bias cognitivo, behavioral economics, economía conductual_
+**sesgo-cognitivo**
+
+**simulacion-computacional** — Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores. _Aliases: CFD, computational simulation, computational fluid dynamics, process simulation, modelado de procesos_ — Patrones sistemáticos de desviación del razonamiento racional debidos a heurísticas y limitaciones cognitivas humanas; incluye sesgos como disponibilidad, anclaje, representatividad y sesgo de supervivencia. _Aliases: cognitive bias, heurísticas cognitivas, bias cognitivo, behavioral economics, economía conductual_
 
 **salud-y-sociedad** — Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos. _Aliases: social determinants of health, determinantes sociales de la salud, health and society, medicina social_
 
@@ -208,6 +217,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **trauma-y-salud** — Estudio del impacto del trauma psicológico —especialmente el trauma temprano y el trauma complejo— sobre la salud física y mental; incluye la neurobiología del estrés crónico, la epigenética del trauma y los enfoques de atención informada en trauma. _Aliases: trauma and health, trauma-informed care, trauma complejo, adverse childhood experiences, ACEs, psiconeuroinmunología_
 
 **tecnocracia** — Modelo de gobernanza y organización social en que el conocimiento técnico-científico tiene primacía sobre otros saberes en la toma de decisiones políticas y económicas.
+
+**terapia-genica** — Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes. _Aliases: gene therapy, genome editing, CRISPR, terapia génica, edición genómica_
 
 **tutoria-con-ia** — Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano. _Aliases: AI tutoring, tutor inteligente, intelligent tutoring system, ITS_
 

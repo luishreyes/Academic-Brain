@@ -1,0 +1,12 @@
+---
+type: concept
+keyword: economia-circular
+aliases: [circular economy, bioeconomía, waste valorization, economía regenerativa]
+---
+
+# Economía circular
+
+Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible.
+
+## Notas que usan este concepto
+- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]
