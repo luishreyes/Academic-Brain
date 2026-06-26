@@ -15,3 +15,5 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]
 - [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]
 - [[notes/papers/2025-04-03_gases-malolientes-aguas]]
+- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]
+- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]

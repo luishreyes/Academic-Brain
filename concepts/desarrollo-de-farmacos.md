@@ -31,3 +31,5 @@ Proceso de identificación, validación y prueba de compuestos para tratar enfer
 - [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]
 - [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]
 - [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]
+- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]
+- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]

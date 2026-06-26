@@ -2,7 +2,7 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 105,
+    "papers": 110,
     "articles": 13,
     "books": 28,
     "concepts": 98
@@ -36,8 +36,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.",
       "path": "concepts/adopcion-de-tecnologia.md",
-      "content": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]",
-      "degree": 1
+      "content": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]",
+      "degree": 2
     },
     {
       "id": "concepts/agentes-de-ia",
@@ -175,8 +175,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.",
       "path": "concepts/biologia-molecular.md",
-      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]",
-      "degree": 34
+      "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]",
+      "degree": 35
     },
     {
       "id": "concepts/biologia-sintetica",
@@ -226,8 +226,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.",
       "path": "concepts/biomateriales.md",
-      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]",
-      "degree": 28
+      "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]",
+      "degree": 31
     },
     {
       "id": "concepts/bioquimica-computacional",
@@ -420,8 +420,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.",
       "path": "concepts/desarrollo-de-farmacos.md",
-      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]",
-      "degree": 22
+      "content": "Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos existentes.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]",
+      "degree": 24
     },
     {
       "id": "concepts/desarrollo-del-caracter",
@@ -454,8 +454,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Mejora de las condiciones económicas, sociales y productivas de las comunidades rurales y agrícolas; incluye sistemas de extensión agrícola, agricultura sostenible, seguridad alimentaria y desarrollo en países en vías de desarrollo.",
       "path": "concepts/desarrollo-rural.md",
-      "content": "Mejora de las condiciones económicas, sociales y productivas de las comunidades rurales y agrícolas; incluye sistemas de extensión agrícola, agricultura sostenible, seguridad alimentaria y desarrollo en países en vías de desarrollo.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]",
-      "degree": 1
+      "content": "Mejora de las condiciones económicas, sociales y productivas de las comunidades rurales y agrícolas; incluye sistemas de extensión agrícola, agricultura sostenible, seguridad alimentaria y desarrollo en países en vías de desarrollo.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]",
+      "degree": 2
     },
     {
       "id": "concepts/descubrimiento-cientifico",
@@ -955,8 +955,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.",
       "path": "concepts/ingenieria-de-alimentos.md",
-      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]",
-      "degree": 15
+      "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]",
+      "degree": 16
     },
     {
       "id": "concepts/ingenieria-metabolica",
@@ -988,8 +988,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.",
       "path": "concepts/ingenieria-quimica.md",
-      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/books/2011-01-01_chemical-product-design-cussler]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]",
-      "degree": 68
+      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/books/2011-01-01_chemical-product-design-cussler]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]",
+      "degree": 69
     },
     {
       "id": "concepts/integridad-academica",
@@ -1115,8 +1115,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.",
       "path": "concepts/microfluidica.md",
-      "content": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]",
-      "degree": 7
+      "content": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]",
+      "degree": 8
     },
     {
       "id": "concepts/modelado-molecular",
@@ -1164,8 +1164,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.",
       "path": "concepts/nanociencia.md",
-      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]",
-      "degree": 24
+      "content": "Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]",
+      "degree": 27
     },
     {
       "id": "concepts/pensamiento-critico-medico",
@@ -1297,8 +1297,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.",
       "path": "concepts/politica-social.md",
-      "content": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]",
-      "degree": 2
+      "content": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]",
+      "degree": 3
     },
     {
       "id": "concepts/proteinas-recombinantes",
@@ -1457,8 +1457,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.",
       "path": "concepts/simulacion-computacional.md",
-      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]",
-      "degree": 7
+      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]",
+      "degree": 8
     },
     {
       "id": "concepts/sostenibilidad",
@@ -1475,8 +1475,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.",
       "path": "concepts/sostenibilidad.md",
-      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]",
-      "degree": 6
+      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]",
+      "degree": 8
     },
     {
       "id": "concepts/supervision-humana",
@@ -1521,8 +1521,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.",
       "path": "concepts/terapia-genica.md",
-      "content": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]",
-      "degree": 8
+      "content": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]",
+      "degree": 10
     },
     {
       "id": "concepts/trauma-y-salud",
@@ -4138,6 +4138,90 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nLos gases malolientes —en particular el sulfuro de hidrógeno (H2S), el amoníaco (NH3) y los compuestos volátiles de azufre (VSCs)— degradan significativamente la calidad del agua, amenazan la salud pública y alteran los ecosistemas. Su producción proviene de la actividad microbiana, la sobrecarga de nutrientes y los vertidos industriales, a menudo magnificada por bajos niveles de oxígeno disuelto.\n\nEsta revisión integra el conocimiento actual sobre los ciclos microbianos del azufre y el nitrógeno para explicar cómo se forman estos gases, y examina los avances en tecnologías de detección como la cromatografía de gases y los sensores basados en láser. También evalúa diversos métodos de mitigación —enfoques biotecnológicos (biofiltros, biopercoladores), tratamientos fisicoquímicos y conversión química (proceso Claus)— dentro de los marcos regulatorios de Colombia y el mundo.\n\nUn estudio de caso del río Bogotá ejemplifica cómo los efluentes no gestionados y la eutrofización perpetúan los problemas de olor, subrayando la necesidad de estrategias integradas que reduzcan la contaminación en su origen, restauren el equilibrio ecológico y empleen intervenciones específicas. La revisión destaca soluciones innovadoras orientadas por políticas y la colaboración como pilares para proteger los ambientes acuáticos y las comunidades aledañas.\n\n## Contribuciones principales\n- Revisión integral del origen microbiano, la detección y la remoción de gases malolientes en aguas.\n- Síntesis de los ciclos del azufre y el nitrógeno como base de la formación de olores.\n- Evaluación de métodos de mitigación (biofiltros, fisicoquímicos, proceso Claus) y marcos regulatorios.\n\n## Metodología\nRevisión integral de literatura sobre origen, detección y técnicas de remoción, con estudio de caso del río Bogotá.\n\n## Hallazgos clave\n- H2S, NH3 y VSCs son los principales gases malolientes de origen microbiano en aguas.\n- Las soluciones efectivas combinan reducción en la fuente, biotecnología y política pública.\n\n## Limitaciones\n- Revisión narrativa; la eficacia de cada método depende del contexto local.\n\n## Notas relacionadas\n- [[concepts/ingenieria-ambiental]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/sostenibilidad]]\n- [[concepts/salud-y-sociedad]]"
     },
     {
+      "id": "notes/papers/2025-04-09_nanoteranostica-terapia-genica",
+      "kind": "paper",
+      "label": "Nanotheranostics Revolutionizing Gene Therapy: Emerging Applications in Gene Delivery Enhancement",
+      "authors": [
+        "Paula Guzmán-Sastoque",
+        "Cristian F. Rodríguez",
+        "María Camila Monsalve",
+        "Stiven Castellanos",
+        "Andrés Manrique-Moreno",
+        "Luis H. Reyes",
+        "Juan C. Cruz"
+      ],
+      "year": "2025",
+      "venue": "Journal of Nanotheranostics (MDPI)",
+      "url": "https://doi.org/10.3390/jnt6020010",
+      "doi": "10.3390/jnt6020010",
+      "keywords": [
+        "nanociencia",
+        "terapia-genica",
+        "biomateriales",
+        "desarrollo-de-farmacos",
+        "biologia-molecular"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-04-09_nanoteranostica-terapia-genica.md",
+      "pdf_local": "sources/pdfs/guzman-sastoque-2025-nanoteranostica-terapia-genica.pdf",
+      "content": "## Resumen\nLos nanoteranósticos —materiales a nanoescala que cumplen funciones diagnósticas y terapéuticas a la vez— están transformando rápidamente la terapia génica al abordar los retos críticos de entrega. Esta revisión explora el diseño y la ingeniería de diversos sistemas de nanopartículas (lipídicas, poliméricas, inorgánicas e híbridas) para mejorar la estabilidad, el direccionamiento y el escape endosomal de las cargas genéticas.\n\nEl trabajo analiza cómo las capacidades de imagen en tiempo real integradas en estas plataformas permiten la localización precisa y la liberación controlada de genes, mejorando la eficacia del tratamiento y reduciendo los efectos fuera de blanco. Se destacan estrategias clave para superar las barreras de entrega (efecto esponja de protones, disrupción fototérmica) y lograr localización nuclear, junto con avances recientes en sistemas estímulo-responsivos que facilitan el control espaciotemporal de la expresión génica.\n\nEnsayos clínicos y estudios preclínicos demuestran el papel creciente de los nanoteranósticos en el manejo del cáncer, trastornos hereditarios y enfermedades cardiovasculares y neurológicas. La revisión también aborda los obstáculos regulatorios y de manufactura que deben superarse para la adopción clínica generalizada de las terapias génicas basadas en nanopartículas.\n\n## Contribuciones principales\n- Revisión del diseño de nanopartículas (lipídicas, poliméricas, inorgánicas, híbridas) para terapia génica.\n- Integración de imagen en tiempo real para entrega génica guiada y controlada.\n- Estrategias para escape endosomal, localización nuclear y control estímulo-responsivo.\n\n## Metodología\nRevisión de literatura sobre plataformas nanoteranósticas y sus aplicaciones en terapia génica.\n\n## Hallazgos clave\n- Los nanoteranósticos combinan diagnóstico y terapia para una entrega génica más precisa.\n- Los sistemas estímulo-responsivos permiten control espaciotemporal de la expresión génica.\n\n## Limitaciones\n- Persisten retos regulatorios y de manufactura para la traslación clínica.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/terapia-genica]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/biologia-molecular]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]"
+    },
+    {
+      "id": "notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal",
+      "kind": "paper",
+      "label": "Sustainability Assessment in Craft Beer Production: Environmental, Economic, and Exergetic Analyses",
+      "authors": [
+        "Olga P. Fuentes",
+        "Santiago Vásquez",
+        "Diana M. Trujillo",
+        "Mauricio E. Sánchez",
+        "Juan C. Cruz",
+        "Luis H. Reyes"
+      ],
+      "year": "2025",
+      "venue": "ACS Sustainable Resource Management",
+      "url": "https://doi.org/10.1021/acssusresmgt.4c00374",
+      "doi": "10.1021/acssusresmgt.4c00374",
+      "keywords": [
+        "sostenibilidad",
+        "ingenieria-quimica",
+        "ingenieria-de-alimentos"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal.md",
+      "pdf_local": "sources/pdfs/fuentes-2025-sostenibilidad-cerveza-artesanal.pdf",
+      "content": "## Resumen\nLa industria de la cerveza artesanal ha crecido notablemente —ya supera el 15 % del mercado global de cerveza—, lo que aumenta la demanda de prácticas sostenibles y subraya la necesidad de investigación enfocada en su sostenibilidad. Este estudio evalúa la producción de cerveza artesanal desde tres perspectivas: ambiental, económica y exergética.\n\nEl análisis de ciclo de vida (LCA) identificó las materias primas (51 %) y el transporte (31 %) como los principales contribuyentes al impacto ambiental. Un análisis de sensibilidad sobre el origen de las materias primas (Europa, Brasil, Argentina) mostró que abastecerse desde Brasil en lugar de Europa reduce los impactos hasta en un 22 %. El análisis económico confirmó la viabilidad de la producción, con un valor presente neto de US$ 49.422, una tasa interna de retorno modificada del 16,92 % y una relación beneficio-costo de 3,02.\n\nEl análisis exergético identificó la primera filtración como el mayor contribuyente a la destrucción de exergía (68 %), señalando oportunidades de eficiencia energética. El estudio integra las tres perspectivas para orientar la mejora de procesos y la toma de decisiones hacia una industria cervecera artesanal más sostenible.\n\n## Contribuciones principales\n- Evaluación de sostenibilidad de la cerveza artesanal combinando LCA, análisis económico y exergético.\n- Identificación de materias primas y transporte como principales impactos ambientales.\n- Detección de la primera filtración como el mayor punto de destrucción de exergía.\n\n## Metodología\nAnálisis de ciclo de vida (LCA), análisis económico (VPN, TIR, B/C) y análisis exergético del proceso productivo.\n\n## Hallazgos clave\n- Cambiar el origen de materias primas (a Brasil) reduce impactos hasta 22 %.\n- La producción es económicamente viable (B/C = 3,02).\n- La eficiencia energética debe enfocarse en la etapa de filtración.\n\n## Limitaciones\n- Resultados dependientes de supuestos de inventario y contexto geográfico.\n\n## Notas relacionadas\n- [[concepts/sostenibilidad]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]"
+    },
+    {
+      "id": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
+      "kind": "paper",
+      "label": "Magnetoliposomes for nanomedicine: synthesis, characterization, and applications in drug, gene, and peptide delivery",
+      "authors": [
+        "Cristian F. Rodríguez",
+        "Paula Guzmán-Sastoque",
+        "Alan Santacruz-Belalcazar",
+        "Coryna Rodriguez",
+        "Paula Villamarina",
+        "Luis H. Reyes",
+        "Juan C. Cruz"
+      ],
+      "year": "2025",
+      "venue": "Expert Opinion on Drug Delivery",
+      "url": "https://doi.org/10.1080/17425247.2025.2506829",
+      "doi": "10.1080/17425247.2025.2506829",
+      "keywords": [
+        "nanociencia",
+        "biomateriales",
+        "desarrollo-de-farmacos",
+        "terapia-genica",
+        "microfluidica"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina.md",
+      "pdf_local": "sources/pdfs/rodriguez-2025-magnetoliposomas-nanomedicina.pdf",
+      "content": "## Resumen\nLos magnetoliposomas representan un avance transformador en nanomedicina al integrar nanopartículas magnéticas con estructuras liposomales, creando plataformas de entrega multifuncionales que superan limitaciones clave de los portadores convencionales de fármacos. Estos sistemas híbridos permiten el direccionamiento de precisión mediante campos magnéticos externos, la liberación controlada por hipertermia magnética y capacidades teranósticas en tiempo real, ofreciendo un control espaciotemporal sin precedentes de la administración terapéutica.\n\nLa revisión (centrada en estudios de 2023-2025) examina los principios fundamentales de diseño de los magnetoliposomas —composición de la bicapa, estrategias de integración de nanopartículas y propiedades fisicoquímicas que gobiernan su desempeño biológico—. Evalúa de forma sistemática las metodologías de síntesis, desde la hidratación de película delgada tradicional hasta los enfoques avanzados de microfluídica, destacando su impacto en la estabilidad coloidal, la encapsulación de fármacos y el potencial de escalado.\n\nTambién revisa las técnicas de caracterización esenciales para el control de calidad y la aprobación regulatoria, y las aplicaciones en oncología, entrega de genes, neurología y enfermedades infecciosas, respaldadas por evidencia experimental reciente. La opinión de los expertos señala que, pese a su versatilidad terapéutica, la traslación clínica aún enfrenta retos importantes.\n\n## Contribuciones principales\n- Revisión de principios de diseño, síntesis y caracterización de magnetoliposomas.\n- Comparación de métodos de síntesis (película delgada vs. microfluídica) y su impacto en estabilidad y escalado.\n- Panorama de aplicaciones en entrega de fármacos, genes y péptidos (oncología, neurología, infecciosas).\n\n## Metodología\nRevisión de literatura (2023-2025) sobre diseño, síntesis, caracterización y aplicaciones de magnetoliposomas.\n\n## Hallazgos clave\n- Los magnetoliposomas permiten direccionamiento magnético, liberación por hipertermia y teranóstica.\n- La microfluídica mejora la reproducibilidad y el potencial de escalado de la síntesis.\n\n## Limitaciones\n- La traslación clínica enfrenta retos de estandarización, escalado y regulación.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/terapia-genica]]\n- [[concepts/microfluidica]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]"
+    },
+    {
       "id": "notes/papers/2025-05-15_evaluacion-estructural-genai",
       "kind": "paper",
       "label": "Talk is cheap: why structural assessment changes are needed for a time of GenAI",
@@ -4162,6 +4246,60 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-05-15_evaluacion-estructural-genai.md",
       "pdf_local": "sources/pdfs/corbin2025-talk-is-cheap-evaluacion.pdf",
       "content": "## Resumen\n\nEste artículo propone una distinción conceptual entre dos tipos de respuestas institucionales al desafío que la IA generativa plantea a la evaluación educativa: los *cambios discursivos* (modificaciones basadas en instruir a los estudiantes sobre el uso permitido de GenAI) y los *cambios estructurales* (modificaciones que rediseñan la mecánica misma de las tareas de evaluación). Los autores argumentan que la mayoría de los marcos actuales —sistemas de semáforos, escalas de uso de IA, declaraciones de niveles— son predominantemente discursivos: comunican reglas pero no las hacen cumplir, creando lo que llaman una \"ilusión de aplicación\" (enforcement illusion).\n\nLa distinción central del paper es analítica y normativa: un cambio es discursivo cuando depende de la voluntad del estudiante de seguir instrucciones; es estructural cuando la arquitectura del diseño de evaluación hace que sea difícil o imposible eludir los objetivos de aprendizaje mediante IA. El artículo argumenta que la validez de la evaluación debe construirse dentro de la arquitectura del instrumento, no imponerse a través de reglas no ejecutables. Publicado en Assessment & Evaluation in Higher Education (vol. 50, núm. 7, 1087–1097), el artículo ha generado un impacto significativo con más de 56,000 vistas y 44 citas.\n\n## Contribuciones principales\n\n- Introduce la distinción conceptual entre cambios *discursivos* y *estructurales* en el diseño de evaluación\n- Diagnostica la \"ilusión de aplicación\" (enforcement illusion) en los marcos más influyentes de respuesta a GenAI\n- Argumenta que las instituciones toman prestado el lenguaje de sistemas estructurales (semáforos vehiculares) sin tener sus mecanismos de cumplimiento\n- Propone un cambio de paradigma hacia el rediseño estructural de evaluaciones que preserve la validez ante el avance de GenAI\n\n## Metodología\n\nAnálisis crítico conceptual (no empírico) de marcos prominentes de respuesta a GenAI en educación superior. Los autores revisan documentos de política institucional, frameworks publicados y literatura especializada para identificar el patrón predominante de respuestas discursivas. El argumento es normativo: a partir de la distinción propuesta, evalúan la efectividad de los marcos existentes desde el punto de vista de la validez de la evaluación.\n\n## Hallazgos clave\n\n- Los marcos actuales (traffic light systems, AI use scales, use-level statements) son predominantemente discursivos\n- La enforcement illusion es el patrón común: los sistemas adoptan el lenguaje de mecanismos con cumplimiento real (como semáforos de tráfico) sin las capacidades de aplicación que los hacen efectivos\n- El rediseño discursivo puede tener valor para orientar a los docentes en la conceptualización del uso de IA, pero desde la perspectiva de validez genera más daño que beneficio si no va acompañado de cambios estructurales\n- La validez de la evaluación requiere que el diseño del instrumento haga difícil completar la tarea sin la habilidad evaluada, independientemente del uso de IA\n\n## Limitaciones\n\n- El análisis es conceptual, no empírico: no mide el efecto real de distintos tipos de cambios en el comportamiento estudiantil\n- No propone un catálogo sistemático de qué cambios estructurales son posibles en distintos contextos disciplinarios\n- La distinción discursivo/estructural puede ser un continuo más que una dicotomía binaria\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/integridad-academica]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/supervision-humana]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]"
+    },
+    {
+      "id": "notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas",
+      "kind": "paper",
+      "label": "A Systemic Approach to Sustainable Technological Extension: A Dynamic Model for Oil Palm Cultivation in Colombia",
+      "authors": [
+        "Julián F. Becerra-Encinales",
+        "Jair D. Rodríguez-Ortega",
+        "Alexandre P. Cooman",
+        "Luis H. Reyes",
+        "Juan C. Cruz"
+      ],
+      "year": "2025",
+      "venue": "Sustainability (MDPI)",
+      "url": "https://doi.org/10.3390/su17104706",
+      "doi": "10.3390/su17104706",
+      "keywords": [
+        "sostenibilidad",
+        "desarrollo-rural",
+        "adopcion-de-tecnologia",
+        "politica-social"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas.md",
+      "pdf_local": "sources/pdfs/becerra-2025-extension-palma-dinamica-sistemas.pdf",
+      "content": "## Resumen\nEste estudio desarrolla un modelo conceptual sistémico para analizar la dinámica de la extensión tecnológica y su impacto en la sostenibilidad del sector productivo de palma de aceite en Colombia. Con un enfoque metodológico basado en dinámica de sistemas, integra múltiples fuentes de información —el Índice de Sostenibilidad (SI), caracterizaciones socioeconómicas de los productores y hallazgos etnográficos— para identificar actores clave y sus interacciones, modelando relaciones causales y bucles de retroalimentación.\n\nEn contraste con el modelo lineal tradicional de transferencia de tecnología, el modelo revela estructuras dinámicas no lineales: diez bucles sistémicos (seis reforzadores y cuatro balanceadores) que explican cómo interactúan la adopción tecnológica, el cumplimiento legal y regulatorio, y el nivel de riesgo del SI mediante mecanismos de retroalimentación. Más allá de una representación estructural del sistema, ofrece orientación concreta para la formulación de políticas e intervenciones adaptadas a distintas tipologías de productores.\n\nTeóricamente, amplía la comprensión de los procesos de difusión, extensión y adopción de tecnología en sistemas agrícolas complejos de países en desarrollo. En la práctica, brinda una herramienta de análisis y planeación para fortalecer la sostenibilidad del sector palmero colombiano, con potencial aplicabilidad a otros contextos agroindustriales. El trabajo continúa la línea de la revisión de extensión agrícola del mismo grupo.\n\n## Contribuciones principales\n- Modelo de dinámica de sistemas para la extensión tecnológica en palma de aceite.\n- Identificación de diez bucles sistémicos (seis reforzadores, cuatro balanceadores).\n- Orientación para políticas e intervenciones según tipología de productor.\n\n## Metodología\nModelado conceptual basado en dinámica de sistemas, integrando el Índice de Sostenibilidad, caracterizaciones socioeconómicas e insumos etnográficos.\n\n## Hallazgos clave\n- La adopción tecnológica, el cumplimiento regulatorio y el riesgo de sostenibilidad se retroalimentan de forma no lineal.\n- Se requieren esquemas de incentivos progresivos, extensión participativa y marcos regulatorios integrados.\n\n## Limitaciones\n- Modelo conceptual; aún falta la simulación dinámica cuantitativa de escenarios.\n\n## Notas relacionadas\n- [[concepts/sostenibilidad]]\n- [[concepts/desarrollo-rural]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/politica-social]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]"
+    },
+    {
+      "id": "notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica",
+      "kind": "paper",
+      "label": "A mathematical phase field model predicts superparamagnetic nanoparticle accelerated fusion of HeLa spheroids for field guided biofabrication",
+      "authors": [
+        "Cristian F. Rodríguez",
+        "Valentina Quezada",
+        "Paula Guzmán-Sastoque",
+        "Juan Camilo Orozco",
+        "Luis H. Reyes",
+        "Johann F. Osma",
+        "Carolina Muñoz-Camargo",
+        "Juan C. Cruz"
+      ],
+      "year": "2025",
+      "venue": "Scientific Reports",
+      "url": "https://doi.org/10.1038/s41598-025-04495-2",
+      "doi": "10.1038/s41598-025-04495-2",
+      "keywords": [
+        "simulacion-computacional",
+        "nanociencia",
+        "biomateriales"
+      ],
+      "date": "2026-06-26",
+      "path": "notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica.md",
+      "pdf_local": "sources/pdfs/rodriguez-2025-phase-field-esferoides-magnetica.pdf",
+      "content": "## Resumen\nLos modelos de tejido in vitro son cruciales para la medicina regenerativa, el descubrimiento de fármacos y la reducción de la experimentación animal. La bioimpresión 3D, en especial con manipulación magnética de esferoides celulares, ofrece control preciso de la arquitectura tisular, pero los modelos matemáticos existentes no capturan con precisión la interacción entre la dinámica biológica y las fuerzas magnéticas durante la fusión de esferoides.\n\nEste estudio desarrolló y validó un modelo matemático de campo de fase (phase field) que simula la fusión de esferoides asistida magnéticamente, considerando la migración celular, la adhesión y los efectos de campos magnéticos externos. El modelo integra principios de mecánica celular, dinámica de fluidos y magnetostática, implementados en COMSOL Multiphysics. La validación experimental usó esferoides de células HeLa bioimpresos con nanopartículas superparamagnéticas de óxido de hierro (SPIONs), monitoreando la fusión con y sin campo magnético externo mediante microscopía confocal.\n\nEl modelo predijo con precisión la fusión acelerada bajo manipulación magnética, reduciendo el tiempo de fusión de ~7 días (sin campo) a 2 días, con altos valores de R² (>0,99 para fusión de dos esferoides y >0,97 para sistemas multiesferoide). Representa un avance de alta precisión para optimizar protocolos de bioimpresión y diseñar construcciones tisulares complejas guiadas por campo.\n\n## Contribuciones principales\n- Modelo de campo de fase validado para la fusión magnética de esferoides celulares.\n- Integración de mecánica celular, dinámica de fluidos y magnetostática en COMSOL.\n- Reducción del tiempo de fusión de ~7 a 2 días bajo campo magnético, con R² > 0,97.\n\n## Metodología\nModelo matemático de campo de fase en COMSOL Multiphysics, validado con esferoides de HeLa bioimpresos con SPIONs y microscopía confocal; evaluación con métricas estadísticas (MAE, RMSE, R², Bland-Altman).\n\n## Hallazgos clave\n- La manipulación magnética acelera la fusión de esferoides (de 7 a 2 días).\n- El modelo predice con alta fidelidad la fusión de dos y múltiples esferoides.\n\n## Limitaciones\n- Mayor variabilidad de error al aumentar la complejidad (sistemas de cuatro esferoides).\n- Validación con una línea celular (HeLa).\n\n## Notas relacionadas\n- [[concepts/simulacion-computacional]]\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]"
     },
     {
       "id": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
@@ -7993,6 +8131,91 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-04-09_nanoteranostica-terapia-genica",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-09_nanoteranostica-terapia-genica",
+      "target": "concepts/terapia-genica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-09_nanoteranostica-terapia-genica",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-09_nanoteranostica-terapia-genica",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-09_nanoteranostica-terapia-genica",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-09_nanoteranostica-terapia-genica",
+      "target": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal",
+      "target": "notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
+      "target": "concepts/desarrollo-de-farmacos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
+      "target": "concepts/terapia-genica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
+      "target": "concepts/microfluidica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
+      "target": "notes/papers/2025-04-09_nanoteranostica-terapia-genica",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
+      "target": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
       "target": "concepts/inteligencia-artificial",
       "kind": "keyword"
@@ -8030,6 +8253,51 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
       "target": "notes/papers/2024-08-13_widening-gap-ia-novatos",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas",
+      "target": "concepts/desarrollo-rural",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas",
+      "target": "concepts/politica-social",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas",
+      "target": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica",
+      "target": "concepts/nanociencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica",
+      "target": "notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma",
       "kind": "related"
     },
     {
