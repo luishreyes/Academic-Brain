@@ -290,6 +290,10 @@
             <span class="swatch" style="background:var(--accent)"></span> Enlaces directos
             <input type="checkbox" checked />
           </label>
+          <label class="toggle" id="labels-toggle">
+            <span class="swatch" style="background:var(--muted)"></span> Etiquetas
+            <input type="checkbox" checked />
+          </label>
         </div>
       </div>
       <div class="section">
@@ -427,6 +431,7 @@ for (const l of links) {
 const visibleKinds = { paper: true, article: true, book: true, concept: true };
 let activeCategories = new Set();
 let showRelated = true;
+let showLabels = true;
 let selectedId = null;
 
 function nodeInActiveCategories(n) {
@@ -568,6 +573,7 @@ function draw() {
     const vis = visibleKinds[n.kind] && nodeInActiveCategories(n);
     n._g.style.display = vis ? "" : "none";
     n._g.setAttribute("transform", `translate(${n.x},${n.y})`);
+    if (n._t) n._t.style.display = (showLabels && vis) ? "" : "none";
   }
 }
 
@@ -678,6 +684,10 @@ document.querySelectorAll(".toggle[data-kind]").forEach((t) => {
 const relToggle = document.querySelector(".toggle[data-edge=related]");
 relToggle.querySelector("input").addEventListener("change", (e) => {
   showRelated = e.target.checked; relToggle.classList.toggle("off", !showRelated);
+});
+const labelsToggle = document.getElementById("labels-toggle");
+labelsToggle.querySelector("input").addEventListener("change", (e) => {
+  showLabels = e.target.checked; labelsToggle.classList.toggle("off", !showLabels); draw();
 });
 
 // ===================== Sliders de física =====================
