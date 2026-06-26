@@ -18,3 +18,4 @@ Campo que estudia la estructura, función y variación de los genomas completos;
 - [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]
 - [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]
 - [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]
+- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]

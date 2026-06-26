@@ -17,3 +17,4 @@ Combustibles derivados de biomasa o producidos por microorganismos mediante ferm
 - [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]
 - [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]
 - [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]
+- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]

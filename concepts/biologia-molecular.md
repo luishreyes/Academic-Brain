@@ -20,3 +20,5 @@ Campo que estudia los mecanismos moleculares de los procesos biológicos: expres
 - [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]
 - [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]
 - [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]
+- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]
+- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]

@@ -10,3 +10,4 @@ Uso de modelos matemáticos y computacionales para reproducir el comportamiento 
 
 ## Notas que usan este concepto
 - [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]
+- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]
