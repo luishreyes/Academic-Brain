@@ -7,7 +7,7 @@ url: https://doi.org/10.1007/978-1-62703-299-5_11
 doi: 10.1007/978-1-62703-299-5_11
 pdf_local: sources/pdfs/winkler2013-adaptive-lab-evolution.pdf
 type: paper
-keywords: [evolucion-de-laboratorio, ingenieria-metabolica, ingenieria-quimica]
+keywords: [evolucion-de-laboratorio, ingenieria-metabolica, dinamica-de-poblaciones, ingenieria-quimica]
 date_added: 2026-06-26
 ---
 
@@ -46,6 +46,7 @@ Capítulo de métodos; incluye: listas de materiales (biológicos, químicos y d
 
 - [[concepts/evolucion-de-laboratorio]]
 - [[concepts/ingenieria-metabolica]]
+- [[concepts/dinamica-de-poblaciones]]
 - [[concepts/ingenieria-quimica]]
 - [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]
 - [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]

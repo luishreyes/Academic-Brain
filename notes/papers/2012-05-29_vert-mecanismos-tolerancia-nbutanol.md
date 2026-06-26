@@ -7,7 +7,7 @@ url: https://doi.org/10.1016/j.ymben.2012.05.002
 doi: 10.1016/j.ymben.2012.05.002
 pdf_local: sources/pdfs/reyes2012-vert-nbutanol-mechanisms.pdf
 type: paper
-keywords: [evolucion-de-laboratorio, ingenieria-metabolica, biocombustibles, genomica, ingenieria-quimica]
+keywords: [evolucion-de-laboratorio, ingenieria-metabolica, biocombustibles, genomica, biologia-molecular, dinamica-de-poblaciones, ingenieria-quimica]
 date_added: 2026-06-26
 ---
 
@@ -51,5 +51,7 @@ VERT con dos subpoblaciones de E. coli marcadas con GFP e YFP → seguimiento po
 - [[concepts/ingenieria-metabolica]]
 - [[concepts/biocombustibles]]
 - [[concepts/genomica]]
+- [[concepts/biologia-molecular]]
+- [[concepts/dinamica-de-poblaciones]]
 - [[concepts/ingenieria-quimica]]
 - [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]
