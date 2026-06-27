@@ -102,6 +102,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **educacion-en-programacion** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas. _Aliases: CS education, computing education, educación en ciencias de la computación_
 
+**educacion-en-ingenieria** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la ingeniería; incluye diseño curricular, desarrollo de competencias profesionales y transversales, pedagogías basadas en proyectos y la integración de competencias emergentes (como la IA) en los programas de ingeniería. _Aliases: engineering education, educación en ingeniería, first-year engineering, ingeniería de primer año, currículo de ingeniería_
+
 **educacion-k12** — Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica. _Aliases: K-12 education, primary education, secondary education, educación primaria, educación secundaria, educación básica_
 
 **educacion-superior** — Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.
@@ -188,6 +190,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## P
 
+**pensamiento-critico** — Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas. _Aliases: critical thinking, juicio crítico, razonamiento crítico, higher-order thinking, evaluación crítica_
+
 **pensamiento-critico-medico**
 
 **petroleo-y-gas** — Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de hidrocarburos; incluye flujos multifásicos, emulsiones de crudo, demulsificación, reología de crudos pesados y técnicas de recuperación mejorada. _Aliases: oil and gas, petroleum engineering, crudo pesado, heavy crude oil, demulsification_
@@ -207,6 +211,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **percepcion-multisensorial** — Estudio de cómo los sentidos interactúan e integran información; incluye las correspondencias crossmodales (p. ej., entre sonido y sabor o aroma), la percepción del sabor como fenómeno multisensorial y sus bases psicofísicas. _Aliases: multisensory perception, crossmodal correspondences, correspondencias crossmodales, percepción crossmodal, sensory perception_
 
 **psicologia-educativa** — Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas. _Aliases: educational psychology, psicología del aprendizaje_
+
+**psicometria** — Teoría y métodos de construcción, validación y análisis de instrumentos de medición psicológica y educativa; incluye fiabilidad, validez, análisis factorial (exploratorio/confirmatorio) y modelos de ecuaciones estructurales para el desarrollo de escalas. _Aliases: psychometrics, psicometría, factor analysis, análisis factorial, scale validation, validación de escalas, CFA, EFA, structural equation modeling_
 
 **publicacion-academica** — Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales. _Aliases: publicación científica, peer review, revistas académicas, publish or perish_
 

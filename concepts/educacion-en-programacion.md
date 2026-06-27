@@ -11,3 +11,4 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la p
 ## Notas que usan este concepto
 - [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]
 - [[notes/papers/2024-08-13_widening-gap-ia-novatos]]
+- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]

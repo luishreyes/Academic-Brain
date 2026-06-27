@@ -22,3 +22,7 @@ Conjunto de metodologías pedagógicas en que el estudiante participa activament
 - [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]
 - [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]
 - [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]
+- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]
+- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]
+- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]
+- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]
