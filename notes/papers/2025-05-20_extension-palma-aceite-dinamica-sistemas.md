@@ -5,7 +5,7 @@ year: 2025
 journal: Sustainability (MDPI)
 url: https://doi.org/10.3390/su17104706
 doi: 10.3390/su17104706
-pdf_local: sources/pdfs/becerra-2025-extension-palma-dinamica-sistemas.pdf
+pdf_local: sources/pdfs/agro-sostenibilidad/becerra-2025-extension-palma-dinamica-sistemas.pdf
 type: paper
 keywords: [sostenibilidad, desarrollo-rural, adopcion-de-tecnologia, politica-social]
 date_added: 2026-06-26

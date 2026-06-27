@@ -5,7 +5,7 @@ year: 2022
 journal: "Frontiers in Chemistry"
 url: "https://doi.org/10.3389/fchem.2022.974218"
 doi: "10.3389/fchem.2022.974218"
-pdf_local: "sources/pdfs/torres-vanegas-2022-bufii-grafeno-endosomal.pdf"
+pdf_local: sources/pdfs/nanomedicina-terapias/torres-vanegas-2022-bufii-grafeno-endosomal.pdf
 type: paper
 keywords: [biomateriales, nanociencia, bioquimica-computacional, desarrollo-de-farmacos, ingenieria-quimica]
 date_added: 2026-06-26

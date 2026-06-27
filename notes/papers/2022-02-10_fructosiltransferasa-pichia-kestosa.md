@@ -5,7 +5,7 @@ year: 2022
 journal: New Biotechnology
 url: https://doi.org/10.1016/j.nbt.2022.02.005
 doi: 10.1016/j.nbt.2022.02.005
-pdf_local: sources/pdfs/alvarado-obando2022-fructosiltransferasa-pichia-kestosa.pdf
+pdf_local: sources/pdfs/biotecnologia-metabolica/alvarado-obando2022-fructosiltransferasa-pichia-kestosa.pdf
 type: paper
 keywords: [ingenieria-metabolica, biologia-molecular, ingenieria-de-alimentos, ingenieria-quimica]
 date_added: 2026-06-26

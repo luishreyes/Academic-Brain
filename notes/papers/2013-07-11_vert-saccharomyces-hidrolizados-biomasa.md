@@ -5,7 +5,7 @@ year: 2013
 journal: Biotechnology and Bioengineering
 url: https://doi.org/10.1002/bit.24938
 doi: 10.1002/bit.24938
-pdf_local: sources/pdfs/almario2013-vert-saccharomyces-hidrolizados.pdf
+pdf_local: sources/pdfs/biotecnologia-metabolica/almario2013-vert-saccharomyces-hidrolizados.pdf
 type: paper
 keywords: [evolucion-de-laboratorio, ingenieria-metabolica, biocombustibles, biomasa-lignocelulosica, genomica, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26

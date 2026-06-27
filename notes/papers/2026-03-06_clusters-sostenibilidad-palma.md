@@ -5,7 +5,7 @@ year: 2026
 journal: Scientific Reports
 url: https://doi.org/10.1038/s41598-026-43888-9
 doi: 10.1038/s41598-026-43888-9
-pdf_local: sources/pdfs/becerra-2026-clusters-sostenibilidad-palma.pdf
+pdf_local: sources/pdfs/agro-sostenibilidad/becerra-2026-clusters-sostenibilidad-palma.pdf
 type: paper
 keywords: [sostenibilidad, desarrollo-rural, adopcion-de-tecnologia, ciencia-de-datos, politica-social]
 date_added: 2026-06-26

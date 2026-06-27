@@ -5,7 +5,7 @@ year: 2021
 journal: Biofuels, Bioproducts and Biorefining
 url: https://doi.org/10.1002/bbb.2205
 doi: 10.1002/bbb.2205
-pdf_local: sources/pdfs/tafur2021-glicerol-ecoli-modelado-genomico.pdf
+pdf_local: sources/pdfs/biotecnologia-metabolica/tafur2021-glicerol-ecoli-modelado-genomico.pdf
 type: paper
 keywords: [ingenieria-metabolica, biocombustibles, genomica, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26

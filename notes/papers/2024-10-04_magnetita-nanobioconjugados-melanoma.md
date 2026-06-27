@@ -5,7 +5,7 @@ year: 2024
 journal: ACS Omega
 url: https://doi.org/10.1021/acsomega.4c07415
 doi: 10.1021/acsomega.4c07415
-pdf_local: sources/pdfs/diaz-2024-magnetita-nanobioconjugados-melanoma.pdf
+pdf_local: sources/pdfs/nanomedicina-terapias/diaz-2024-magnetita-nanobioconjugados-melanoma.pdf
 type: paper
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos]
 date_added: 2026-06-26

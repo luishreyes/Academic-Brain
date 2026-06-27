@@ -5,7 +5,7 @@ year: 2022
 journal: Heliyon
 url: https://doi.org/10.1016/j.heliyon.2022.e09031
 doi: 10.1016/j.heliyon.2022.e09031
-pdf_local: sources/pdfs/benincore2022-ids-interactoma-yeast-two-hybrid.pdf
+pdf_local: sources/pdfs/nanomedicina-terapias/benincore2022-ids-interactoma-yeast-two-hybrid.pdf
 type: paper
 keywords: [enfermedades-raras, proteinas-recombinantes, biologia-molecular, genomica, ingenieria-quimica]
 date_added: 2026-06-26

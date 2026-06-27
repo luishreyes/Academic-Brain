@@ -5,7 +5,7 @@ year: 2021
 journal: Fluids
 url: https://doi.org/10.3390/fluids6090309
 doi: 10.3390/fluids6090309
-pdf_local: sources/pdfs/giraldo2021-microfluidica-encapsulacion-nanobioconjugados.pdf
+pdf_local: sources/pdfs/microfluidica/giraldo2021-microfluidica-encapsulacion-nanobioconjugados.pdf
 type: paper
 keywords: [microfluidica, biomateriales, nanociencia, ingenieria-quimica]
 date_added: 2026-06-26

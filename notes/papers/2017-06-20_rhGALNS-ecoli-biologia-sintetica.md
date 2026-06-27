@@ -5,7 +5,7 @@ year: 2017
 journal: Scientific Reports
 url: https://doi.org/10.1038/s41598-017-06367-w
 doi: 10.1038/s41598-017-06367-w
-pdf_local: sources/pdfs/reyes2017-rhGALNS-ecoli-produccion.pdf
+pdf_local: sources/pdfs/biotecnologia-metabolica/reyes2017-rhGALNS-ecoli-produccion.pdf
 type: paper
 keywords: [ingenieria-metabolica, biologia-molecular, biologia-sintetica, proteinas-recombinantes, enfermedades-raras, ingenieria-quimica]
 date_added: 2026-06-26

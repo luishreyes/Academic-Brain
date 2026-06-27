@@ -5,7 +5,7 @@ year: 2020
 journal: Revista Ontare
 url: ""
 doi: ""
-pdf_local: sources/pdfs/sanchez2020-biosol-porquinaza-fertilizacion.pdf
+pdf_local: sources/pdfs/biotecnologia-metabolica/sanchez2020-biosol-porquinaza-fertilizacion.pdf
 type: paper
 keywords: [economia-circular, ingenieria-quimica, biocombustibles]
 date_added: 2026-06-26

@@ -5,7 +5,7 @@ year: 2022
 journal: Scientific Reports
 url: https://doi.org/10.1038/s41598-022-19407-x
 doi: 10.1038/s41598-022-19407-x
-pdf_local: sources/pdfs/leal2022-crispr-ncas9-mps-iva-nanoparticulas.pdf
+pdf_local: sources/pdfs/nanomedicina-terapias/leal2022-crispr-ncas9-mps-iva-nanoparticulas.pdf
 type: paper
 keywords: [terapia-genica, enfermedades-raras, biomateriales, nanociencia, genomica, ingenieria-quimica]
 date_added: 2026-06-26

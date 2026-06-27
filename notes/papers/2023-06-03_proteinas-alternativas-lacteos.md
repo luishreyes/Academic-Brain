@@ -5,7 +5,7 @@ year: 2023
 journal: "Heliyon"
 url: "https://doi.org/10.1016/j.heliyon.2023.e16974"
 doi: "10.1016/j.heliyon.2023.e16974"
-pdf_local: "sources/pdfs/diaz-bustamante-2023-proteinas-alternativas-lacteos.pdf"
+pdf_local: sources/pdfs/biotecnologia-metabolica/diaz-bustamante-2023-proteinas-alternativas-lacteos.pdf
 type: paper
 keywords: [ingenieria-de-alimentos, proteinas-recombinantes, ingenieria-quimica]
 date_added: 2026-06-26

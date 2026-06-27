@@ -5,7 +5,7 @@ year: 2011
 journal: PLoS ONE
 url: https://doi.org/10.1371/journal.pone.0017678
 doi: 10.1371/journal.pone.0017678
-pdf_local: sources/pdfs/reyes2011-genomic-screens-nbutanol.pdf
+pdf_local: sources/pdfs/biotecnologia-metabolica/reyes2011-genomic-screens-nbutanol.pdf
 type: paper
 keywords: [ingenieria-metabolica, biocombustibles, genomica, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26

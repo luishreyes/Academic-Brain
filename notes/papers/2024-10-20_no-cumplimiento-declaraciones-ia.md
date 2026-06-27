@@ -5,7 +5,7 @@ year: 2025
 journal: Assessment & Evaluation in Higher Education
 url: https://doi.org/10.1080/02602938.2024.2415654
 doi: 10.1080/02602938.2024.2415654
-pdf_local: sources/pdfs/gonsalves2025-no-cumplimiento-declaraciones-ia.pdf
+pdf_local: sources/pdfs/ia-educacion/gonsalves2025-no-cumplimiento-declaraciones-ia.pdf
 type: paper
 keywords: [integridad-academica, evaluacion-educativa, etica-de-la-ia, educacion-superior, psicologia-educativa]
 date_added: 2026-06-25

@@ -5,7 +5,7 @@ year: 2022
 journal: "Chemical Engineering Science"
 url: "https://doi.org/10.1016/j.ces.2022.118208"
 doi: "10.1016/j.ces.2022.118208"
-pdf_local: "sources/pdfs/ricardo-2022-tension-superficial-random-forest.pdf"
+pdf_local: sources/pdfs/peptidos-proteinas/ricardo-2022-tension-superficial-random-forest.pdf
 type: paper
 keywords: [ingenieria-quimica, ciencia-de-datos, biosurfactantes]
 date_added: 2026-06-26

@@ -5,7 +5,7 @@ year: 2025
 journal: Education for Chemical Engineers
 url: https://doi.org/10.1016/j.ece.2025.01.002
 doi: 10.1016/j.ece.2025.01.002
-pdf_local: sources/pdfs/keith2025-genai-ingenieria-quimica-laboratorio.pdf
+pdf_local: sources/pdfs/ia-educacion/keith2025-genai-ingenieria-quimica-laboratorio.pdf
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, STEM, aprendizaje-activo, etica-de-la-ia, alucinaciones-de-ia, evaluacion-educativa, alfabetizacion-en-ia]
 date_added: 2026-06-25

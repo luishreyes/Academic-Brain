@@ -5,7 +5,7 @@ year: 2022
 journal: "Process Biochemistry"
 url: "https://doi.org/10.1016/j.procbio.2022.11.012"
 doi: "10.1016/j.procbio.2022.11.012"
-pdf_local: "sources/pdfs/perez-bejarano-2022-biosurfactantes-peptidos-md.pdf"
+pdf_local: sources/pdfs/peptidos-proteinas/perez-bejarano-2022-biosurfactantes-peptidos-md.pdf
 type: paper
 keywords: [ingenieria-quimica, bioquimica-computacional, modelado-molecular, biosurfactantes]
 date_added: 2026-06-26

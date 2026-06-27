@@ -5,7 +5,7 @@ year: 2025
 journal: Journal of Environmental Psychology
 url: https://doi.org/10.1016/j.jenvp.2025.102749
 doi: 10.1016/j.jenvp.2025.102749
-pdf_local: sources/pdfs/rodriguez-2025-soundscapes-sostenibilidad.pdf
+pdf_local: sources/pdfs/multisensorial-consumo/rodriguez-2025-soundscapes-sostenibilidad.pdf
 type: paper
 keywords: [percepcion-multisensorial, sostenibilidad, diseno-de-producto]
 date_added: 2026-06-26

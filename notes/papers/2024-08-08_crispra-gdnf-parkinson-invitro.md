@@ -5,7 +5,7 @@ year: 2024
 journal: Frontiers in Bioengineering and Biotechnology
 url: https://doi.org/10.3389/fbioe.2024.1420183
 doi: 10.3389/fbioe.2024.1420183
-pdf_local: sources/pdfs/guzman-sastoque-2024-crispra-gdnf-parkinson.pdf
+pdf_local: sources/pdfs/nanomedicina-terapias/guzman-sastoque-2024-crispra-gdnf-parkinson.pdf
 type: paper
 keywords: [terapia-genica, biologia-molecular, nanociencia, biomateriales, desarrollo-de-farmacos]
 date_added: 2026-06-26

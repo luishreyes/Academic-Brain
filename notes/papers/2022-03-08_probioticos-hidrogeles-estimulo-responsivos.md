@@ -5,7 +5,7 @@ year: 2022
 journal: Fermentation
 url: https://doi.org/10.3390/fermentation8030117
 doi: 10.3390/fermentation8030117
-pdf_local: sources/pdfs/garcia-brand2022-probioticos-hidrogeles-estimulo-responsivos.pdf
+pdf_local: sources/pdfs/nanomedicina-terapias/garcia-brand2022-probioticos-hidrogeles-estimulo-responsivos.pdf
 type: paper
 keywords: [biomateriales, ingenieria-quimica, ingenieria-de-alimentos, nanociencia]
 date_added: 2026-06-26

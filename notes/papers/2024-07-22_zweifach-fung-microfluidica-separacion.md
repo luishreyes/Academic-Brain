@@ -5,7 +5,7 @@ year: 2024
 journal: Micromachines
 url: https://doi.org/10.3390/mi15070932
 doi: 10.3390/mi15070932
-pdf_local: sources/pdfs/rodriguez-2024-zweifach-fung-microfluidica.pdf
+pdf_local: sources/pdfs/microfluidica/rodriguez-2024-zweifach-fung-microfluidica.pdf
 type: paper
 keywords: [microfluidica, simulacion-computacional, ingenieria-quimica]
 date_added: 2026-06-26

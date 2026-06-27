@@ -5,7 +5,7 @@ year: 2020
 journal: Energy & Fuels
 url: https://doi.org/10.1021/acs.energyfuels.0c00313
 doi: 10.1021/acs.energyfuels.0c00313
-pdf_local: sources/pdfs/acosta2020-demulsificacion-crudo-pesado.pdf
+pdf_local: sources/pdfs/modelado-y-simulacion/acosta2020-demulsificacion-crudo-pesado.pdf
 type: paper
 keywords: [petroleo-y-gas, ingenieria-quimica]
 date_added: 2026-06-26

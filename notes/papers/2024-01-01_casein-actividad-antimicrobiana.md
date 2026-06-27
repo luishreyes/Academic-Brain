@@ -5,7 +5,7 @@ year: 2024
 journal: "Casein (Elsevier, eds. M. El-Bakry & B. M. Mehta), cap. 19"
 url: https://doi.org/10.1016/B978-0-443-15836-0.00001-9
 doi: 10.1016/B978-0-443-15836-0.00001-9
-pdf_local: sources/pdfs/cifuentes-2024-casein-antimicrobiano.pdf
+pdf_local: sources/pdfs/peptidos-proteinas/cifuentes-2024-casein-antimicrobiano.pdf
 type: paper
 keywords: [peptidos-bioactivos, ingenieria-de-alimentos, biologia-molecular, desarrollo-de-farmacos, bioquimica-computacional]
 date_added: 2026-06-26
