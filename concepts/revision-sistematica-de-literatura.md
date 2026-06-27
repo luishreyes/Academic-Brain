@@ -15,3 +15,4 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2026-01-12_pd-docentes-ia-k12]]
 - [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]
 - [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]
+- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]

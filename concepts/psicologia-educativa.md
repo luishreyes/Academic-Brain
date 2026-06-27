@@ -25,3 +25,5 @@ Disciplina que estudia los procesos cognitivos, motivacionales y sociales que su
 - [[notes/books/2000-01-01_the-48-laws-of-power-greene]]
 - [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]
 - [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]
+- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]
+- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]

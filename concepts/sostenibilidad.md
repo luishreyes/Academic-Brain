@@ -20,3 +20,6 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/papers/2025-08-29_soundscapes-sostenibilidad]]
 - [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]
 - [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]
+- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]
+- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]
+- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]

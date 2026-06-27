@@ -12,3 +12,5 @@ Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos i
 - [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]
 - [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]
 - [[notes/articles/2026-03-12_shape-of-thing-mollick]]
+- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]
+- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]

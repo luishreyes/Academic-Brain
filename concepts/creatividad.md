@@ -17,3 +17,5 @@ Capacidad de generar ideas novedosas, variadas y de alta calidad en la resoluci√
 - [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]
 - [[notes/books/2012-01-23_quiet-susan-cain]]
 - [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]
+- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]
+- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]

@@ -15,3 +15,4 @@ Campo interdisciplinario que combina estadística, programación y dominio de co
 - [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]
 - [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]
 - [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]
+- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]
