@@ -5,7 +5,7 @@ year: 2025
 journal: "Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development (Elsevier), cap. 11"
 url: https://doi.org/10.1016/B978-0-443-15393-8.00011-7
 doi: 10.1016/B978-0-443-15393-8.00011-7
-pdf_local: sources/pdfs/peptidos-proteinas/almario-2025-amp-downstream-processing.pdf
+pdf_local: sources/pdfs/peptides-proteins/almario-2025-amp-downstream-processing.pdf
 type: paper
 keywords: [peptidos-bioactivos, ingenieria-quimica, proteinas-recombinantes, desarrollo-de-farmacos]
 date_added: 2026-06-26

@@ -5,7 +5,7 @@ year: 2007
 journal: "Journal of Molecular Structure: THEOCHEM"
 url: https://doi.org/10.1016/j.theochem.2007.05.015
 doi: 10.1016/j.theochem.2007.05.015
-pdf_local: sources/pdfs/nanomedicina-terapias/reyes2007-force-constants-alanine.pdf
+pdf_local: sources/pdfs/nanomedicine-drug-delivery/reyes2007-force-constants-alanine.pdf
 type: paper
 keywords: [quimica-computacional, modelado-molecular, bioquimica-computacional, nanociencia, ingenieria-quimica]
 date_added: 2026-06-26

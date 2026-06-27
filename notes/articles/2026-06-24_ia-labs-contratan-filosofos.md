@@ -17,7 +17,7 @@ keywords:
   - supervision-humana
   - interdisciplinariedad
   - futuro-del-trabajo
-pdf_local: sources/pdfs/ia-ciencia-sociedad/economist2026-filosofos-ia.pdf
+pdf_local: sources/pdfs/ai-science-society/economist2026-filosofos-ia.pdf
 date_added: 2026-06-25
 ---
 

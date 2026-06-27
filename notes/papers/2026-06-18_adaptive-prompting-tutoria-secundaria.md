@@ -5,7 +5,7 @@ year: 2026
 journal: "arXiv (preprint)"
 url: https://arxiv.org/abs/2606.20138
 doi: 10.48550/arXiv.2606.20138
-pdf_local: sources/pdfs/ia-educacion/chang-2026-adaptive-prompting-tutoria.pdf
+pdf_local: sources/pdfs/ai-education/chang-2026-adaptive-prompting-tutoria.pdf
 type: paper
 keywords: [tutoria-con-ia, personalizacion-del-aprendizaje, educacion-k12, inteligencia-artificial, aprendizaje-activo]
 date_added: 2026-06-27

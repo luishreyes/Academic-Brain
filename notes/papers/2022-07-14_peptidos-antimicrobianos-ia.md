@@ -5,7 +5,7 @@ year: 2022
 journal: Membranes
 url: https://doi.org/10.3390/membranes12070708
 doi: 10.3390/membranes12070708
-pdf_local: sources/pdfs/nanomedicina-terapias/ruiz-puentes2022-peptidos-antimicrobianos-ia.pdf
+pdf_local: sources/pdfs/nanomedicine-drug-delivery/ruiz-puentes2022-peptidos-antimicrobianos-ia.pdf
 type: paper
 keywords: [inteligencia-artificial, bioquimica-computacional, desarrollo-de-farmacos, modelado-molecular, ingenieria-quimica]
 date_added: 2026-06-26

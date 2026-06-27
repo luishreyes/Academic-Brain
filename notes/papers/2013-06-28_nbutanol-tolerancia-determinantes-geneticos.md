@@ -5,7 +5,7 @@ year: 2013
 journal: Applied and Environmental Microbiology
 url: https://doi.org/10.1128/AEM.01703-13
 doi: 10.1128/AEM.01703-13
-pdf_local: sources/pdfs/biotecnologia-metabolica/reyes2013-nbutanol-cross-adaptation.pdf
+pdf_local: sources/pdfs/metabolic-biotechnology/reyes2013-nbutanol-cross-adaptation.pdf
 type: paper
 keywords: [evolucion-de-laboratorio, ingenieria-metabolica, biocombustibles, genomica, biologia-molecular, dinamica-de-poblaciones, ingenieria-quimica]
 date_added: 2026-06-26

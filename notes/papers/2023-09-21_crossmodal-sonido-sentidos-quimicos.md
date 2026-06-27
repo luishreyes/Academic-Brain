@@ -5,7 +5,7 @@ year: 2023
 journal: Multisensory Research
 url: https://doi.org/10.1163/22134808-bja10107
 doi: 10.1163/22134808-bja10107
-pdf_local: sources/pdfs/multisensorial-consumo/rodriguez-2023-crossmodal-sonido-sentidos-quimicos.pdf
+pdf_local: sources/pdfs/multisensory-consumer/rodriguez-2023-crossmodal-sonido-sentidos-quimicos.pdf
 type: paper
 keywords: [percepcion-multisensorial, comportamiento-del-consumidor, ingenieria-de-alimentos, revision-sistematica-de-literatura, visualizacion-de-datos, diseno-de-producto]
 date_added: 2026-06-26

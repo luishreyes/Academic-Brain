@@ -5,7 +5,7 @@ year: 2021
 journal: Micromachines
 url: https://doi.org/10.3390/mi12111377
 doi: 10.3390/mi12111377
-pdf_local: sources/pdfs/microfluidica/gomez2021-microfluidica-liposomas-gigantes.pdf
+pdf_local: sources/pdfs/microfluidics/gomez2021-microfluidica-liposomas-gigantes.pdf
 type: paper
 keywords: [microfluidica, biomateriales, nanociencia, ingenieria-quimica]
 date_added: 2026-06-26

@@ -5,7 +5,7 @@ year: 2024
 journal: Frontiers in Bioengineering and Biotechnology
 url: https://doi.org/10.3389/fbioe.2024.1436352
 doi: 10.3389/fbioe.2024.1436352
-pdf_local: sources/pdfs/nanomedicina-terapias/torres-vanegas-2024-omv-gfp-ecoli.pdf
+pdf_local: sources/pdfs/nanomedicine-drug-delivery/torres-vanegas-2024-omv-gfp-ecoli.pdf
 type: paper
 keywords: [proteinas-recombinantes, biologia-molecular, nanociencia, biomateriales, ingenieria-quimica]
 date_added: 2026-06-26

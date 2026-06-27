@@ -5,7 +5,7 @@ year: 2024
 journal: "Educational Management Administration & Leadership"
 url: https://doi.org/10.1177/17411432241292295
 doi: 10.1177/17411432241292295
-pdf_local: sources/pdfs/ia-educacion/arar2024-simbiosis-ia-liderazgo-educativo.pdf
+pdf_local: sources/pdfs/ai-education/arar2024-simbiosis-ia-liderazgo-educativo.pdf
 type: paper
 keywords: [inteligencia-artificial, liderazgo-educativo, revision-sistematica-de-literatura, supervision-humana, futuro-del-trabajo, educacion-superior]
 date_added: 2026-06-25

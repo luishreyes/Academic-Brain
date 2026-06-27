@@ -5,7 +5,7 @@ year: 2014
 journal: Metabolic Engineering
 url: https://doi.org/10.1016/j.ymben.2013.11.007
 doi: 10.1016/j.ymben.2013.11.007
-pdf_local: sources/pdfs/biotecnologia-metabolica/reyes2014-carotenoides-ale-levadura.pdf
+pdf_local: sources/pdfs/metabolic-biotechnology/reyes2014-carotenoides-ale-levadura.pdf
 type: paper
 keywords: [evolucion-de-laboratorio, ingenieria-metabolica, metabolitos-secundarios, genomica, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26

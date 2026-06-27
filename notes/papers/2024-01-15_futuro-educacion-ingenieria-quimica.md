@@ -5,7 +5,7 @@ year: 2024
 journal: Canadian Journal of Chemical Engineering
 url: https://doi.org/10.1002/cjce.25205
 doi: 10.1002/cjce.25205
-pdf_local: sources/pdfs/educacion-ingenieria/chintalapati2024-futuro-educacion-ingenieria-quimica.pdf
+pdf_local: sources/pdfs/engineering-education/chintalapati2024-futuro-educacion-ingenieria-quimica.pdf
 type: paper
 keywords: [educacion-superior, STEM, interdisciplinariedad, ciencia-y-sociedad, futuro-del-trabajo, humanidades, impacto-de-investigacion]
 date_added: 2026-06-25

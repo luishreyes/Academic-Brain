@@ -5,7 +5,7 @@ year: 2021
 journal: Education for Chemical Engineers
 url: https://doi.org/10.1016/j.ece.2020.12.004
 doi: 10.1016/j.ece.2020.12.004
-pdf_local: sources/pdfs/educacion-ingenieria/ballesteros2021-curriculo-ingenieria-modernizacion.pdf
+pdf_local: sources/pdfs/engineering-education/ballesteros2021-curriculo-ingenieria-modernizacion.pdf
 type: paper
 keywords: [ingenieria-quimica, aprendizaje-activo, educacion-superior]
 date_added: 2026-06-26

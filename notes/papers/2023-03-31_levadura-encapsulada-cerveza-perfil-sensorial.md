@@ -5,7 +5,7 @@ year: 2023
 journal: "Polymers"
 url: "https://doi.org/10.3390/polym15071742"
 doi: "10.3390/polym15071742"
-pdf_local: sources/pdfs/nanomedicina-terapias/bolanos-barbosa-2023-levadura-encapsulada-cerveza.pdf
+pdf_local: sources/pdfs/nanomedicine-drug-delivery/bolanos-barbosa-2023-levadura-encapsulada-cerveza.pdf
 type: paper
 keywords: [biomateriales, ingenieria-de-alimentos, ingenieria-quimica]
 date_added: 2026-06-26

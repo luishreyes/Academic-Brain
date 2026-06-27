@@ -5,7 +5,7 @@ year: 2020
 journal: Journal of Biotechnology
 url: https://doi.org/10.1016/j.jbiotec.2020.09.022
 doi: 10.1016/j.jbiotec.2020.09.022
-pdf_local: sources/pdfs/educacion-ingenieria/marroquin2020-biorreactor-airlift-mililitros.pdf
+pdf_local: sources/pdfs/engineering-education/marroquin2020-biorreactor-airlift-mililitros.pdf
 type: paper
 keywords: [ingenieria-quimica, simulacion-computacional]
 date_added: 2026-06-26

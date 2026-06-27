@@ -5,7 +5,7 @@ year: 2024
 journal: Sustainability (MDPI)
 url: https://doi.org/10.3390/su16093555
 doi: 10.3390/su16093555
-pdf_local: sources/pdfs/agro-sostenibilidad/becerra-2024-extension-agricola-en.pdf
+pdf_local: sources/pdfs/agriculture-sustainability/becerra-2024-extension-agricola-en.pdf
 type: paper
 keywords: [revision-sistematica-de-literatura, sostenibilidad, desarrollo-rural, adopcion-de-tecnologia, politica-social]
 date_added: 2026-06-26

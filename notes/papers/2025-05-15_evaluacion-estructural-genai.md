@@ -5,7 +5,7 @@ year: 2025
 journal: "Assessment & Evaluation in Higher Education"
 url: https://doi.org/10.1080/02602938.2025.2503964
 doi: 10.1080/02602938.2025.2503964
-pdf_local: sources/pdfs/ia-educacion/corbin2025-talk-is-cheap-evaluacion.pdf
+pdf_local: sources/pdfs/ai-education/corbin2025-talk-is-cheap-evaluacion.pdf
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, integridad-academica, evaluacion-educativa, etica-de-la-ia, supervision-humana]
 date_added: 2026-06-25

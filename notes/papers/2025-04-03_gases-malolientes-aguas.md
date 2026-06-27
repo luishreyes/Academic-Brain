@@ -5,7 +5,7 @@ year: 2025
 journal: Processes (MDPI)
 url: https://doi.org/10.3390/pr13041077
 doi: 10.3390/pr13041077
-pdf_local: sources/pdfs/agro-sostenibilidad/melendez-2025-gases-malolientes-aguas.pdf
+pdf_local: sources/pdfs/agriculture-sustainability/melendez-2025-gases-malolientes-aguas.pdf
 type: paper
 keywords: [ingenieria-ambiental, ingenieria-quimica, sostenibilidad, salud-y-sociedad]
 date_added: 2026-06-26

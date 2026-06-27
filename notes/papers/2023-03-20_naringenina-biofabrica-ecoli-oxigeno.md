@@ -5,7 +5,7 @@ year: 2023
 journal: "Biomolecules"
 url: "https://doi.org/10.3390/biom13030565"
 doi: "10.3390/biom13030565"
-pdf_local: sources/pdfs/biotecnologia-metabolica/parra-daza-2023-naringenina-biofabrica-ecoli.pdf
+pdf_local: sources/pdfs/metabolic-biotechnology/parra-daza-2023-naringenina-biofabrica-ecoli.pdf
 type: paper
 keywords: [ingenieria-metabolica, biologia-sintetica, biologia-molecular, ingenieria-quimica, metabolitos-secundarios]
 date_added: 2026-06-26

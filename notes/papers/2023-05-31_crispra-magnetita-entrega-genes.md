@@ -5,7 +5,7 @@ year: 2023
 journal: "Nanomaterials"
 url: "https://doi.org/10.3390/nano13111782"
 doi: "10.3390/nano13111782"
-pdf_local: sources/pdfs/nanomedicina-terapias/arango-2023-crispra-magnetita-entrega-genes.pdf
+pdf_local: sources/pdfs/nanomedicine-drug-delivery/arango-2023-crispra-magnetita-entrega-genes.pdf
 type: paper
 keywords: [terapia-genica, biomateriales, nanociencia, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26

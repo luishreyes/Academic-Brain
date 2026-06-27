@@ -5,7 +5,7 @@ year: 2024
 journal: Micromachines
 url: https://doi.org/10.3390/mi15081057
 doi: 10.3390/mi15081057
-pdf_local: sources/pdfs/microfluidica/rodriguez-2024-separacion-magnetica-microfluidica.pdf
+pdf_local: sources/pdfs/microfluidics/rodriguez-2024-separacion-magnetica-microfluidica.pdf
 type: paper
 keywords: [microfluidica, simulacion-computacional, nanociencia, biomateriales, ingenieria-quimica]
 date_added: 2026-06-26

@@ -5,7 +5,7 @@ year: 2022
 journal: Frontiers in Chemical Engineering
 url: https://doi.org/10.3389/fceng.2022.830314
 doi: 10.3389/fceng.2022.830314
-pdf_local: sources/pdfs/ingenieria-alimentos/diaz-bustamante2022-multiscale-productos-lacteos.pdf
+pdf_local: sources/pdfs/food-engineering/diaz-bustamante2022-multiscale-productos-lacteos.pdf
 type: paper
 keywords: [ingenieria-de-alimentos, ingenieria-quimica, simulacion-computacional]
 date_added: 2026-06-26

@@ -5,7 +5,7 @@ year: 2025
 journal: "Koli Calling '25 — 25th International Conference on Computing Education Research"
 url: https://arxiv.org/abs/2510.04443
 doi: 10.1145/3769994.3770036
-pdf_local: sources/pdfs/ia-educacion/bernstein2025-danos-ia-cs.pdf
+pdf_local: sources/pdfs/ai-education/bernstein2025-danos-ia-cs.pdf
 type: paper
 keywords:
   - inteligencia-artificial
