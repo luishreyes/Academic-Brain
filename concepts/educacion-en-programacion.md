@@ -17,3 +17,4 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la p
 - [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]
 - [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]
 - [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]
+- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]

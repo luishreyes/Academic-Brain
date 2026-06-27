@@ -10,3 +10,4 @@ Estudio de cómo las tecnologías críticas (semiconductores, IA, redes de comun
 
 ## Notas que usan este concepto
 - [[notes/books/2022-10-04_chip-war-miller]]
+- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]

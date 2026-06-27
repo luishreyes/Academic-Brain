@@ -10,3 +10,4 @@ Aplicación de principios de ingeniería y biotecnología al tratamiento y la pr
 
 ## Notas que usan este concepto
 - [[notes/papers/2025-04-03_gases-malolientes-aguas]]
+- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]

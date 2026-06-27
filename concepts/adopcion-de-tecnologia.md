@@ -18,3 +18,5 @@ Procesos por los cuales individuos, organizaciones o comunidades incorporan nuev
 - [[notes/papers/2024-04-01_ai-assessment-scale-aias]]
 - [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]
 - [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]
+- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]
+- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]

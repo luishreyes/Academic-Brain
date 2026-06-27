@@ -43,3 +43,8 @@ Principios éticos y normas institucionales que regulan el comportamiento honest
 - [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]
 - [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]
 - [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]
+- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]
+- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]
+- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]
+- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]
+- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]

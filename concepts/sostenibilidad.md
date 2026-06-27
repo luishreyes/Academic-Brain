@@ -24,3 +24,7 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]
 - [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]
 - [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]
+- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]
+- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
+- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]
+- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]

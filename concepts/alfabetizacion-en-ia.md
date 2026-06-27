@@ -46,3 +46,6 @@ Conjunto de competencias necesarias para comprender, evaluar críticamente y usa
 - [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]
 - [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]
 - [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]
+- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]
+- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]
+- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]

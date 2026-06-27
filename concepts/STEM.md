@@ -19,3 +19,6 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/papers/2024-07-01_prompting-quimica-preservice]]
 - [[notes/books/2022-10-04_chip-war-miller]]
 - [[notes/books/2022-09-26_of-boys-and-men-reeves]]
+- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]
+- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]
+- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]

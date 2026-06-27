@@ -14,3 +14,7 @@ Representación computacional de estructuras moleculares y sus interacciones med
 - [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]
 - [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]
 - [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]
+- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]
+- [[notes/papers/2025-06-06_genai-catalisis-revision]]
+- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]
+- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]

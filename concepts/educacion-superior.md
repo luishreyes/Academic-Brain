@@ -74,3 +74,7 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]
 - [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]
 - [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]
+- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]
+- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]
+- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]
+- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]
