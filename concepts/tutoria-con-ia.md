@@ -18,3 +18,5 @@ Uso de sistemas de inteligencia artificial para proporcionar instrucción indivi
 - [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]
 - [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]
 - [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]
+- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]
+- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]

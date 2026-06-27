@@ -17,3 +17,5 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 - [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]
 - [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]
 - [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]
+- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]
+- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]

@@ -26,3 +26,5 @@ Conjunto de metodologías pedagógicas en que el estudiante participa activament
 - [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]
 - [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]
 - [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]
+- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]
+- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]

@@ -19,3 +19,4 @@ Capacidad de generar ideas novedosas, variadas y de alta calidad en la resoluci√
 - [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]
 - [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]
 - [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]
+- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]

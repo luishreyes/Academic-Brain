@@ -10,3 +10,4 @@ Teoría y métodos de construcción, validación y análisis de instrumentos de 
 
 ## Notas que usan este concepto
 - [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]
+- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]
