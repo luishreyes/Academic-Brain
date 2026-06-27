@@ -14,3 +14,4 @@ Educación primaria y secundaria que abarca desde los primeros años escolares h
 - [[notes/books/2023-10-24_hidden-potential-grant]]
 - [[notes/books/2022-09-26_of-boys-and-men-reeves]]
 - [[notes/books/2012-01-23_quiet-susan-cain]]
+- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]
