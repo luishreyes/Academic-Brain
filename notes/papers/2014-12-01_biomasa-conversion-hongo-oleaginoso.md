@@ -5,7 +5,7 @@ year: 2015
 journal: Green Chemistry
 url: https://doi.org/10.1039/c4gc01529k
 doi: 10.1039/c4gc01529k
-pdf_local: sources/pdfs/biotecnologia-metabolica/xie2015-biomasa-conversion-hongo-oleaginoso.pdf
+pdf_local: sources/pdfs/metabolic-biotechnology/xie2015-biomasa-conversion-hongo-oleaginoso.pdf
 type: paper
 keywords: [ingenieria-metabolica, biocombustibles, biomasa-lignocelulosica, genomica, ingenieria-quimica]
 date_added: 2026-06-26

@@ -5,7 +5,7 @@ year: 2020
 journal: Scientific Reports
 url: https://doi.org/10.1038/s41598-020-71428-6
 doi: 10.1038/s41598-020-71428-6
-pdf_local: sources/pdfs/biotecnologia-metabolica/tafur2020-clostridium-xylose-transcriptomica.pdf
+pdf_local: sources/pdfs/metabolic-biotechnology/tafur2020-clostridium-xylose-transcriptomica.pdf
 type: paper
 keywords: [biomasa-lignocelulosica, genomica, ingenieria-metabolica, biologia-molecular, biocombustibles, ingenieria-quimica]
 date_added: 2026-06-26

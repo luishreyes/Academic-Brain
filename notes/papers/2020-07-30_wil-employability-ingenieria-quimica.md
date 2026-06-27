@@ -5,7 +5,7 @@ year: 2020
 journal: Education for Chemical Engineers
 url: https://doi.org/10.1016/j.ece.2020.09.002
 doi: 10.1016/j.ece.2020.09.002
-pdf_local: sources/pdfs/educacion-ingenieria/reedy2020-wil-employability-quimica.pdf
+pdf_local: sources/pdfs/engineering-education/reedy2020-wil-employability-quimica.pdf
 type: paper
 keywords: [ingenieria-quimica, aprendizaje-activo, educacion-superior, futuro-del-trabajo, creatividad]
 date_added: 2026-06-26

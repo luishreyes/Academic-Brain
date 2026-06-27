@@ -5,7 +5,7 @@ year: 2024
 journal: "ICER '24 Vol. 1 — ACM Conference on International Computing Education Research"
 url: https://doi.org/10.1145/3632620.3671116
 doi: 10.1145/3632620.3671116
-pdf_local: sources/pdfs/ia-educacion/reeves2024-widening-gap-ia-novatos.pdf
+pdf_local: sources/pdfs/ai-education/reeves2024-widening-gap-ia-novatos.pdf
 type: paper
 keywords: [inteligencia-artificial, educacion-en-programacion, psicologia-educativa, tutoria-con-ia, equidad-educativa, supervision-humana, personalizacion-del-aprendizaje]
 date_added: 2026-06-25

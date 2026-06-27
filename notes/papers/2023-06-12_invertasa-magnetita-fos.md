@@ -5,7 +5,7 @@ year: 2023
 journal: "ChemEngineering"
 url: "https://doi.org/10.3390/chemengineering7030055"
 doi: "10.3390/chemengineering7030055"
-pdf_local: sources/pdfs/nanomedicina-terapias/polania-melo-2023-invertasa-magnetita-fos.pdf
+pdf_local: sources/pdfs/nanomedicine-drug-delivery/polania-melo-2023-invertasa-magnetita-fos.pdf
 type: paper
 keywords: [biomateriales, nanociencia, ingenieria-de-alimentos, ingenieria-quimica]
 date_added: 2026-06-26

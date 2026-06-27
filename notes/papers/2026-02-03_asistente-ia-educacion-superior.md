@@ -5,7 +5,7 @@ year: 2026
 journal: "Scientific Reports"
 url: https://doi.org/10.1038/s41598-026-39237-5
 doi: 10.1038/s41598-026-39237-5
-pdf_local: sources/pdfs/ia-educacion/sajja2026-asistente-ia-educacion-ingenieria.pdf
+pdf_local: sources/pdfs/ai-education/sajja2026-asistente-ia-educacion-ingenieria.pdf
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, STEM, tutoria-con-ia, personalizacion-del-aprendizaje, integridad-academica, etica-de-la-ia, alucinaciones-de-ia]
 date_added: 2026-06-25

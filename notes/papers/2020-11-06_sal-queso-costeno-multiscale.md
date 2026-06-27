@@ -5,7 +5,7 @@ year: 2020
 journal: Applied Sciences
 url: https://doi.org/10.3390/app10249008
 doi: 10.3390/app10249008
-pdf_local: sources/pdfs/ingenieria-alimentos/diaz2020-sal-queso-costeno-multiscale.pdf
+pdf_local: sources/pdfs/food-engineering/diaz2020-sal-queso-costeno-multiscale.pdf
 type: paper
 keywords: [ingenieria-de-alimentos, ingenieria-quimica]
 date_added: 2026-06-26

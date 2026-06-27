@@ -5,7 +5,7 @@ year: 2024
 journal: Education for Chemical Engineers
 url: https://doi.org/10.1016/j.ece.2024.06.005
 doi: 10.1016/j.ece.2024.06.005
-pdf_local: sources/pdfs/educacion-ingenieria/jaramillo-2024-yeastsim-control-procesos.pdf
+pdf_local: sources/pdfs/engineering-education/jaramillo-2024-yeastsim-control-procesos.pdf
 type: paper
 keywords: [ingenieria-quimica, educacion-superior, simulacion-computacional, aprendizaje-activo]
 date_added: 2026-06-26

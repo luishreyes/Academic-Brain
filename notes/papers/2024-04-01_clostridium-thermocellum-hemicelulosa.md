@@ -5,7 +5,7 @@ year: 2024
 journal: Metabolic Engineering
 url: https://doi.org/10.1016/j.ymben.2024.03.008
 doi: 10.1016/j.ymben.2024.03.008
-pdf_local: sources/pdfs/biotecnologia-metabolica/chou-2024-clostridium-thermocellum-hemicelulosa.pdf
+pdf_local: sources/pdfs/metabolic-biotechnology/chou-2024-clostridium-thermocellum-hemicelulosa.pdf
 type: paper
 keywords: [ingenieria-metabolica, biomasa-lignocelulosica, biocombustibles, evolucion-de-laboratorio, biologia-molecular, proteinas-recombinantes]
 date_added: 2026-06-26

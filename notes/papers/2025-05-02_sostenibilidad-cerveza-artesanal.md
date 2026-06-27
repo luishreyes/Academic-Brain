@@ -5,7 +5,7 @@ year: 2025
 journal: ACS Sustainable Resource Management
 url: https://doi.org/10.1021/acssusresmgt.4c00374
 doi: 10.1021/acssusresmgt.4c00374
-pdf_local: sources/pdfs/ingenieria-alimentos/fuentes-2025-sostenibilidad-cerveza-artesanal.pdf
+pdf_local: sources/pdfs/food-engineering/fuentes-2025-sostenibilidad-cerveza-artesanal.pdf
 type: paper
 keywords: [sostenibilidad, ingenieria-quimica, ingenieria-de-alimentos]
 date_added: 2026-06-26

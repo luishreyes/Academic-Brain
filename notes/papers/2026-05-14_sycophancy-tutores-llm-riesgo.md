@@ -5,7 +5,7 @@ year: 2026
 journal: "arXiv (preprint)"
 url: https://arxiv.org/abs/2605.14604
 doi: 10.48550/arXiv.2605.14604
-pdf_local: sources/pdfs/ia-educacion/kasneci-2026-sycophancy-tutores-llm.pdf
+pdf_local: sources/pdfs/ai-education/kasneci-2026-sycophancy-tutores-llm.pdf
 type: paper
 keywords: [tutoria-con-ia, seguridad-de-ia, alineamiento-de-ia, capacidades-de-ia, psicologia-educativa]
 date_added: 2026-06-27

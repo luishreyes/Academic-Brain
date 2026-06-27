@@ -5,7 +5,7 @@ year: 2022
 journal: Polymers
 url: https://doi.org/10.3390/polym14010126
 doi: 10.3390/polym14010126
-pdf_local: sources/pdfs/nanomedicina-terapias/cespedes2022-chitosan-grafeno-hidrogel-hueso.pdf
+pdf_local: sources/pdfs/nanomedicine-drug-delivery/cespedes2022-chitosan-grafeno-hidrogel-hueso.pdf
 type: paper
 keywords: [biomateriales, ingenieria-quimica]
 date_added: 2026-06-26

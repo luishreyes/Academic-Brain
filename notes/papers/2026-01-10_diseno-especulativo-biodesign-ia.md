@@ -5,7 +5,7 @@ year: 2026
 journal: Education Sciences
 url: https://doi.org/10.3390/educsci16010102
 doi: 10.3390/educsci16010102
-pdf_local: sources/pdfs/educacion-ingenieria/ojedaramirez2026-diseno-especulativo-biodesign-ia.pdf
+pdf_local: sources/pdfs/engineering-education/ojedaramirez2026-diseno-especulativo-biodesign-ia.pdf
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, creatividad, aprendizaje-activo, etica-de-la-ia, ciencia-y-sociedad, interdisciplinariedad, diseno-especulativo]
 date_added: 2026-06-25

@@ -5,7 +5,7 @@ year: 2019
 journal: Heliyon
 url: https://doi.org/10.1016/j.heliyon.2019.e01667
 doi: 10.1016/j.heliyon.2019.e01667
-pdf_local: sources/pdfs/nanomedicina-terapias/cardona2019-ids-proteoma-cerebro.pdf
+pdf_local: sources/pdfs/nanomedicine-drug-delivery/cardona2019-ids-proteoma-cerebro.pdf
 type: paper
 keywords: [enfermedades-raras, biologia-molecular, bioquimica-computacional, genomica, ingenieria-quimica]
 date_added: 2026-06-26

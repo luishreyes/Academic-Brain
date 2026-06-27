@@ -16,7 +16,7 @@ keywords:
   - inteligencia-artificial
   - supervision-humana
   - tecnocracia
-pdf_local: sources/pdfs/nanomedicina-terapias/nature2026-ia-ciencia-sin-humanos.pdf
+pdf_local: sources/pdfs/nanomedicine-drug-delivery/nature2026-ia-ciencia-sin-humanos.pdf
 date_added: 2026-06-25
 ---
 

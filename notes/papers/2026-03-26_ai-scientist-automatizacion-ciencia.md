@@ -5,7 +5,7 @@ year: 2026
 journal: Nature
 url: https://doi.org/10.1038/s41586-026-10265-5
 doi: 10.1038/s41586-026-10265-5
-pdf_local: sources/pdfs/ia-ciencia-sociedad/lu2026-ai-scientist-automatizacion.pdf
+pdf_local: sources/pdfs/ai-science-society/lu2026-ai-scientist-automatizacion.pdf
 type: paper
 keywords: [agentes-de-ia, descubrimiento-cientifico, inteligencia-artificial, capacidades-de-ia, alucinaciones-de-ia, publicacion-academica, etica-de-la-ciencia, supervision-humana, impacto-de-investigacion]
 date_added: 2026-06-26

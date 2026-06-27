@@ -5,7 +5,7 @@ year: 2024
 journal: "Casein (Elsevier, eds. M. El-Bakry & B. M. Mehta), cap. 12"
 url: https://doi.org/10.1016/B978-0-443-15836-0.00007-X
 doi: 10.1016/B978-0-443-15836-0.00007-X
-pdf_local: sources/pdfs/ingenieria-alimentos/ricardo-2024-casein-polimorfismos-queso.pdf
+pdf_local: sources/pdfs/food-engineering/ricardo-2024-casein-polimorfismos-queso.pdf
 type: paper
 keywords: [ingenieria-de-alimentos, biologia-molecular, genomica]
 date_added: 2026-06-26

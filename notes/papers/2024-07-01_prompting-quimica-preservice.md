@@ -5,7 +5,7 @@ year: 2024
 journal: Journal of Chemical Education
 url: https://doi.org/10.1021/acs.jchemed.4c00212
 doi: 10.1021/acs.jchemed.4c00212
-pdf_local: sources/pdfs/ia-educacion/tassoti2024-prompting-quimica-preservice.pdf
+pdf_local: sources/pdfs/ai-education/tassoti2024-prompting-quimica-preservice.pdf
 type: paper
 keywords: [formacion-docente, educacion-superior, STEM, alfabetizacion-en-ia, aprendizaje-activo, evaluacion-educativa]
 date_added: 2026-06-25
