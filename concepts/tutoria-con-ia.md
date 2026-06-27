@@ -15,3 +15,6 @@ Uso de sistemas de inteligencia artificial para proporcionar instrucción indivi
 - [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]
 - [[notes/books/2024-04-02_co-intelligence-mollick]]
 - [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]
+- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]
+- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]
+- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]

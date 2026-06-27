@@ -23,3 +23,5 @@ Disciplina que estudia los procesos cognitivos, motivacionales y sociales que su
 - [[notes/books/2022-09-26_of-boys-and-men-reeves]]
 - [[notes/books/2012-01-23_quiet-susan-cain]]
 - [[notes/books/2000-01-01_the-48-laws-of-power-greene]]
+- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]
+- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]
