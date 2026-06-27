@@ -5,7 +5,7 @@ year: 2020
 journal: Pharmaceutics
 url: https://doi.org/10.3390/pharmaceutics12060561
 doi: 10.3390/pharmaceutics12060561
-pdf_local: sources/pdfs/ramirez2020-nanoparticulas-entrega-plasmidos.pdf
+pdf_local: sources/pdfs/nanomedicina-terapias/ramirez2020-nanoparticulas-entrega-plasmidos.pdf
 type: paper
 keywords: [nanociencia, biomateriales, terapia-genica, ingenieria-quimica]
 date_added: 2026-06-26

@@ -5,7 +5,7 @@ year: 2022
 journal: Membranes
 url: https://doi.org/10.3390/membranes12060600
 doi: 10.3390/membranes12060600
-pdf_local: sources/pdfs/henao2022-peptidos-translocadores-sars-cov2.pdf
+pdf_local: sources/pdfs/nanomedicina-terapias/henao2022-peptidos-translocadores-sars-cov2.pdf
 type: paper
 keywords: [bioquimica-computacional, biomateriales, desarrollo-de-farmacos, modelado-molecular, nanociencia, ingenieria-quimica]
 date_added: 2026-06-26

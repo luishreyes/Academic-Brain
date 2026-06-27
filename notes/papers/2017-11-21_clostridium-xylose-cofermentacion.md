@@ -5,7 +5,7 @@ year: 2018
 journal: Biotechnology and Bioengineering
 url: https://doi.org/10.1002/bit.26590
 doi: 10.1002/bit.26590
-pdf_local: sources/pdfs/xiong2018-clostridium-xylose-celulosa.pdf
+pdf_local: sources/pdfs/biotecnologia-metabolica/xiong2018-clostridium-xylose-celulosa.pdf
 type: paper
 keywords: [biomasa-lignocelulosica, ingenieria-metabolica, biocombustibles, biologia-molecular, genomica, ingenieria-quimica]
 date_added: 2026-06-26

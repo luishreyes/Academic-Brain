@@ -5,7 +5,7 @@ year: 2021
 journal: International Journal of Molecular Sciences
 url: https://doi.org/10.3390/ijms22179241
 doi: 10.3390/ijms22179241
-pdf_local: sources/pdfs/arango2021-genome-editing-parkinson.pdf
+pdf_local: sources/pdfs/nanomedicina-terapias/arango2021-genome-editing-parkinson.pdf
 type: paper
 keywords: [terapia-genica, biologia-molecular, genomica, desarrollo-de-farmacos, ingenieria-quimica]
 date_added: 2026-06-26

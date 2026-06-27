@@ -5,7 +5,7 @@ year: 2025
 journal: "Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development (Elsevier), cap. 1"
 url: https://doi.org/10.1016/B978-0-443-15393-8.00001-4
 doi: 10.1016/B978-0-443-15393-8.00001-4
-pdf_local: sources/pdfs/reyes-2025-amp-metodos-bioinformaticos.pdf
+pdf_local: sources/pdfs/peptidos-proteinas/reyes-2025-amp-metodos-bioinformaticos.pdf
 type: paper
 keywords: [peptidos-bioactivos, bioquimica-computacional, desarrollo-de-farmacos, ciencia-de-datos]
 date_added: 2026-06-26

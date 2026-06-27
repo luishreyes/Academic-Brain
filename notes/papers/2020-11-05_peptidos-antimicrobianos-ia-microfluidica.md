@@ -5,7 +5,7 @@ year: 2020
 journal: Antibiotics
 url: https://doi.org/10.3390/antibiotics9120854
 doi: 10.3390/antibiotics9120854
-pdf_local: sources/pdfs/ruiz2020-peptidos-antimicrobianos-ia.pdf
+pdf_local: sources/pdfs/modelado-y-simulacion/ruiz2020-peptidos-antimicrobianos-ia.pdf
 type: paper
 keywords: [biologia-molecular, bioquimica-computacional, inteligencia-artificial, ingenieria-quimica]
 date_added: 2026-06-26

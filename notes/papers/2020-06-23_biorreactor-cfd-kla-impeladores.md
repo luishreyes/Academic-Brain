@@ -5,7 +5,7 @@ year: 2020
 journal: Processes
 url: https://doi.org/10.3390/pr8070878
 doi: 10.3390/pr8070878
-pdf_local: sources/pdfs/ramirez2020-biorreactor-cfd-kla.pdf
+pdf_local: sources/pdfs/educacion-ingenieria/ramirez2020-biorreactor-cfd-kla.pdf
 type: paper
 keywords: [ingenieria-quimica, simulacion-computacional]
 date_added: 2026-06-26

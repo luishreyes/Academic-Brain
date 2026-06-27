@@ -5,7 +5,7 @@ year: 2024
 journal: The Journal of Physical Chemistry B (ACS)
 url: https://doi.org/10.1021/acs.jpcb.4c04036
 doi: 10.1021/acs.jpcb.4c04036
-pdf_local: sources/pdfs/ricardo-2024-peptidos-interfaciales-in-silico.pdf
+pdf_local: sources/pdfs/peptidos-proteinas/ricardo-2024-peptidos-interfaciales-in-silico.pdf
 type: paper
 keywords: [biosurfactantes, modelado-molecular, bioquimica-computacional, ciencia-de-datos]
 date_added: 2026-06-26

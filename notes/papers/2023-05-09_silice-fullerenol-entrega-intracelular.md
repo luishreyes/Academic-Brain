@@ -5,7 +5,7 @@ year: 2023
 journal: "Frontiers in Bioengineering and Biotechnology"
 url: "https://doi.org/10.3389/fbioe.2023.1184973"
 doi: "10.3389/fbioe.2023.1184973"
-pdf_local: "sources/pdfs/ravelo-nieto-2023-silice-fullerenol-entrega.pdf"
+pdf_local: sources/pdfs/nanomedicina-terapias/ravelo-nieto-2023-silice-fullerenol-entrega.pdf
 type: paper
 keywords: [biomateriales, nanociencia, desarrollo-de-farmacos, ingenieria-quimica]
 date_added: 2026-06-26

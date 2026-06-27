@@ -5,7 +5,7 @@ year: 2018
 journal: "Methods in Molecular Biology, vol. 1671"
 url: https://doi.org/10.1007/978-1-4939-7295-1_20
 doi: 10.1007/978-1-4939-7295-1_20
-pdf_local: sources/pdfs/reyes2018-carotenoides-ale-metodos.pdf
+pdf_local: sources/pdfs/biotecnologia-metabolica/reyes2018-carotenoides-ale-metodos.pdf
 type: paper
 keywords: [evolucion-de-laboratorio, ingenieria-metabolica, metabolitos-secundarios, ingenieria-quimica]
 date_added: 2026-06-26

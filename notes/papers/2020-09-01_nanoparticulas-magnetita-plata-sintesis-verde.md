@@ -5,7 +5,7 @@ year: 2020
 journal: Nanomaterials
 url: https://doi.org/10.3390/nano10091857
 doi: 10.3390/nano10091857
-pdf_local: sources/pdfs/ramirez2020-nanoparticulas-magnetita-plata.pdf
+pdf_local: sources/pdfs/nanomedicina-terapias/ramirez2020-nanoparticulas-magnetita-plata.pdf
 type: paper
 keywords: [nanociencia, biomateriales, ingenieria-quimica]
 date_added: 2026-06-26

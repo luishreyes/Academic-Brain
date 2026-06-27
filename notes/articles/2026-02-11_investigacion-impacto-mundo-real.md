@@ -14,7 +14,7 @@ keywords:
   - impacto-de-investigacion
   - interdisciplinariedad
   - publicacion-academica
-pdf_local: sources/pdfs/chaplin2026-investigacion-impacto-real.pdf
+pdf_local: sources/pdfs/educacion-ingenieria/chaplin2026-investigacion-impacto-real.pdf
 date_added: 2026-06-25
 ---
 

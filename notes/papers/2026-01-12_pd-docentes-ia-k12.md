@@ -5,7 +5,7 @@ year: 2026
 journal: "Computers"
 url: https://doi.org/10.3390/computers15010049
 doi: 10.3390/computers15010049
-pdf_local: sources/pdfs/aravantinos2026-pd-docentes-ia-k12.pdf
+pdf_local: sources/pdfs/ia-educacion/aravantinos2026-pd-docentes-ia-k12.pdf
 type: paper
 keywords: [alfabetizacion-en-ia, inteligencia-artificial, formacion-docente, educacion-k12, revision-sistematica-de-literatura, etica-de-la-ia, personalizacion-del-aprendizaje]
 date_added: 2026-06-25

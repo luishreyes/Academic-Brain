@@ -5,7 +5,7 @@ year: 2021
 journal: Pharmaceutics
 url: https://doi.org/10.3390/pharmaceutics13030428
 doi: 10.3390/pharmaceutics13030428
-pdf_local: sources/pdfs/torres-vanegas2021-delivery-nucleic-acids-nanocarriers.pdf
+pdf_local: sources/pdfs/nanomedicina-terapias/torres-vanegas2021-delivery-nucleic-acids-nanocarriers.pdf
 type: paper
 keywords: [biomateriales, terapia-genica, nanociencia, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26

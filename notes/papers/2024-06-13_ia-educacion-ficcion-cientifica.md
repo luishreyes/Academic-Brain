@@ -5,7 +5,7 @@ year: 2024
 journal: "Learning, Media and Technology"
 url: https://doi.org/10.1080/17439884.2024.2365829
 doi: 10.1080/17439884.2024.2365829
-pdf_local: sources/pdfs/gidiotis2024-ia-educacion-ficcion-cientifica.pdf
+pdf_local: sources/pdfs/ia-educacion/gidiotis2024-ia-educacion-ficcion-cientifica.pdf
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, etica-de-la-ia, ciencia-y-sociedad, humanidades, personalizacion-del-aprendizaje, supervision-humana]
 date_added: 2026-06-25

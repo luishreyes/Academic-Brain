@@ -5,7 +5,7 @@ year: 2026
 journal: "Biotechnology and AI: Technological Convergence and Information Hazards (Springer), cap. 12"
 url: https://doi.org/10.1007/978-3-032-05246-9_12
 doi: 10.1007/978-3-032-05246-9_12
-pdf_local: sources/pdfs/cruz-2026-genai-educacion-biotecnologia.pdf
+pdf_local: sources/pdfs/ia-educacion/cruz-2026-genai-educacion-biotecnologia.pdf
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, personalizacion-del-aprendizaje, etica-de-la-ia, tutoria-con-ia]
 date_added: 2026-06-26

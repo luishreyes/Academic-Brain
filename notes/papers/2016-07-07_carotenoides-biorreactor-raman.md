@@ -5,7 +5,7 @@ year: 2016
 journal: Journal of Industrial Microbiology and Biotechnology
 url: https://doi.org/10.1007/s10295-016-1808-9
 doi: 10.1007/s10295-016-1808-9
-pdf_local: sources/pdfs/olson2016-carotenoides-biorreactor-raman.pdf
+pdf_local: sources/pdfs/biotecnologia-metabolica/olson2016-carotenoides-biorreactor-raman.pdf
 type: paper
 keywords: [ingenieria-metabolica, evolucion-de-laboratorio, metabolitos-secundarios, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26

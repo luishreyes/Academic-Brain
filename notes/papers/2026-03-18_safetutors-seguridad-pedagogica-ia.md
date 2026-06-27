@@ -5,7 +5,7 @@ year: 2026
 journal: "arXiv (preprint)"
 url: https://arxiv.org/abs/2603.17373
 doi: 10.48550/arXiv.2603.17373
-pdf_local: sources/pdfs/hazra-2026-safetutors-seguridad-pedagogica.pdf
+pdf_local: sources/pdfs/ia-educacion/hazra-2026-safetutors-seguridad-pedagogica.pdf
 type: paper
 keywords: [tutoria-con-ia, seguridad-de-ia, capacidades-de-ia, inteligencia-artificial, psicologia-educativa]
 date_added: 2026-06-27
