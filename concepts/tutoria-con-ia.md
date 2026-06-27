@@ -20,3 +20,5 @@ Uso de sistemas de inteligencia artificial para proporcionar instrucción indivi
 - [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]
 - [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]
 - [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]
+- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]
+- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]

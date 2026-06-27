@@ -30,3 +30,5 @@ Distribución equitativa de oportunidades y resultados de aprendizaje; incluye e
 - [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]
 - [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]
 - [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]
+- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]
+- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]

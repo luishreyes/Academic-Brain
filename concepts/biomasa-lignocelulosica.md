@@ -14,3 +14,4 @@ Material vegetal compuesto de celulosa, hemicelulosa y lignina; representa la fu
 - [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]
 - [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]
 - [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]
+- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]

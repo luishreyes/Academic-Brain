@@ -17,3 +17,6 @@ Campo interdisciplinario que combina estadística, programación y dominio de co
 - [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]
 - [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]
 - [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]
+- [[notes/papers/2025-06-06_genai-catalisis-revision]]
+- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]
+- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]

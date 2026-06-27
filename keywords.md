@@ -134,6 +134,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **gestion-por-objetivos**
 
+**grafos-de-conocimiento** — Estructuras de datos que representan entidades como nodos y sus relaciones como aristas etiquetadas (incluye property graphs / Neo4j); usadas para modelar dominios estructurados y servir de contexto recuperable a sistemas de IA. _Aliases: knowledge graph, grafo de conocimiento, labeled property graph, LPG, Neo4j, property graph_
+
+**generacion-aumentada-por-recuperacion** — Técnica que enriquece las respuestas de un LLM recuperando información relevante de una fuente externa (documentos, base de datos o grafo) e insertándola como contexto en el prompt; reduce alucinaciones y aporta datos de dominio; incluye la variante basada en grafos (graph-RAG). _Aliases: retrieval-augmented generation, RAG, graph-RAG, generación aumentada por recuperación_
+
 **genomica** — Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos. _Aliases: genomics, genome sequencing, transcriptomics, -omics, bioinformatics_ — Marco de gestión organizacional basado en la definición explícita de objetivos ambiciosos y resultados clave medibles (OKR: Objectives and Key Results); fomenta la transparencia, la coordinación y la responsabilidad en todos los niveles de la organización. _Aliases: OKR, objectives and key results, management by objectives, MBO, gestión por resultados_
 
 **geopolitica-tecnologica** — Estudio de cómo las tecnologías críticas (semiconductores, IA, redes de comunicación) se convierten en instrumentos y escenarios de competencia entre potencias; incluye controles de exportación, cadenas de suministro estratégicas y dependencia tecnológica. _Aliases: techno-geopolitics, geopolitics of technology, geopolítica de los chips, tech competition_
@@ -157,6 +161,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **ingenieria-quimica** — Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial. _Aliases: chemical engineering, biochemical engineering, proceso industrial, ingeniería de procesos_ — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
 
 **integridad-academica** — Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política. _Aliases: academic integrity, deshonestidad académica, plagiarism, trampa académica_
+
+**ia-explicable** — Métodos para hacer interpretables las decisiones de modelos de IA; incluye mapas de saliencia/localización (Grad-CAM), importancia de variables y explicaciones post-hoc. _Aliases: explainable AI, XAI, interpretabilidad, Grad-CAM, saliency maps_
 
 **inteligencia-artificial** — Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales. _Aliases: IA, AI, machine learning (cuando se usa en sentido amplio)_
 
@@ -224,6 +230,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## R
 
+**razonamiento-cuantitativo-llm** — Capacidad de los grandes modelos de lenguaje para resolver problemas matemáticos, aritméticos y de cálculo cuantitativo; incluye benchmarks de razonamiento numérico, exactitud computacional y la brecha entre fluidez lingüística y precisión numérica. _Aliases: LLM mathematical reasoning, quantitative reasoning, numerical reasoning, math benchmarks for LLMs_
+
 **regulacion-de-ia** — Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA. _Aliases: AI regulation, gobernanza de IA, AI policy, AI governance_
 
 **retroalimentacion-con-ia** — Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico. _Aliases: AI feedback, AI grading, automated feedback, calificación con IA, retroalimentación automatizada, retroalimentación_
@@ -250,6 +258,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **trauma-y-salud** — Estudio del impacto del trauma psicológico —especialmente el trauma temprano y el trauma complejo— sobre la salud física y mental; incluye la neurobiología del estrés crónico, la epigenética del trauma y los enfoques de atención informada en trauma. _Aliases: trauma and health, trauma-informed care, trauma complejo, adverse childhood experiences, ACEs, psiconeuroinmunología_
 
+**taxonomia-de-bloom** — Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, analizar, evaluar, crear) usado para diseñar currículo y evaluación, y para mapear la complejidad cognitiva de tareas; sirve de referencia para evaluar el razonamiento de la IA frente a la progresión cognitiva humana. _Aliases: Bloom's taxonomy, taxonomía de Bloom, niveles cognitivos_
+
 **tecnocracia** — Modelo de gobernanza y organización social en que el conocimiento técnico-científico tiene primacía sobre otros saberes en la toma de decisiones políticas y económicas.
 
 **terapia-genica** — Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes. _Aliases: gene therapy, genome editing, CRISPR, terapia génica, edición genómica_
@@ -261,6 +271,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **universidades-chinas** — Sistema universitario de China, su historia, transformaciones desde 1949, políticas educativas y dinámicas actuales de internacionalización e inversión en STEM.
 
 ## V
+
+**vision-por-computadora** — Campo de la IA que extrae información de imágenes y video mediante redes neuronales (CNN); incluye clasificación de imágenes, detección y localización de objetos, y aprendizaje por transferencia sobre modelos preentrenados. _Aliases: computer vision, visión artificial, image classification, CNN, transfer learning_
 
 **visualizacion-de-datos** — Arte y ciencia de representar datos e información de forma gráfica para facilitar la comprensión, el análisis y la comunicación; incluye diseño de gráficos, principios de percepción visual y narrativa con datos. _Aliases: data visualization, dataviz, gráficos estadísticos, storytelling with data, infografía de datos_
 

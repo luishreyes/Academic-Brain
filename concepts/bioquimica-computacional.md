@@ -21,3 +21,4 @@ Aplicación de métodos computacionales al estudio de moléculas biológicas (pr
 - [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]
 - [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]
 - [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]
+- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]

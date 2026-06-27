@@ -11,3 +11,6 @@ Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y p
 ## Notas que usan este concepto
 - [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]
 - [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]
+- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]
+- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]
+- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]

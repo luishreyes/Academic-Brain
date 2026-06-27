@@ -12,3 +12,4 @@ Campo que aplica principios de ingeniería (diseño modular, estandarización de
 - [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]
 - [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]
 - [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]
+- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]

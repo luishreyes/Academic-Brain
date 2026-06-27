@@ -26,3 +26,7 @@ Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso d
 - [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]
 - [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]
 - [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]
+- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]
+- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]
+- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]
+- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]

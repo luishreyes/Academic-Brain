@@ -19,3 +19,5 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2026-01-29_authentic-assessment-genai]]
 - [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]
 - [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]
+- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]
+- [[notes/papers/2024-05-09_genai-process-systems-engineering]]
