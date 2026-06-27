@@ -75,6 +75,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **desarrollo-del-caracter** — Proceso de formación y fortalecimiento de virtudes y disposiciones conductuales como la proactividad, la tolerancia a la incomodidad, la disciplina y la resiliencia; se distingue de las habilidades cognitivas y técnicas y puede cultivarse a lo largo de la vida adulta. _Aliases: character development, habilidades de carácter, character skills, virtudes_
 
+**deteccion-de-texto-ia** — Herramientas y técnicas para identificar texto o código generado por IA en trabajos académicos (Turnitin AI, GPTZero, Copyleaks, ZeroGPT, clasificadores de OpenAI); incluye su exactitud, falsos positivos/negativos, vulnerabilidad al parafraseo, watermarking y sesgo contra escritores no nativos. _Aliases: AI detection tools, AI text detectors, detección de contenido generado por IA, AI-generated text detection_
+
 **diseno-especulativo** — Metodología de diseño que propone artefactos, escenarios y futuros alternativos para estimular el pensamiento crítico y la reflexión sobre implicaciones sociales, éticas y culturales de tecnologías emergentes. _Aliases: speculative design, critical design, diseño crítico, futuros especulativos_
 
 **descubrimiento-cientifico** — El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación. _Aliases: scientific discovery, investigación científica_
@@ -223,6 +225,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## R
 
 **regulacion-de-ia** — Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA. _Aliases: AI regulation, gobernanza de IA, AI policy, AI governance_
+
+**retroalimentacion-con-ia** — Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico. _Aliases: AI feedback, AI grading, automated feedback, calificación con IA, retroalimentación automatizada, retroalimentación_
 
 **revision-sistematica-de-literatura** — Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo. _Aliases: systematic literature review, SLR, revisión sistemática, PRISMA_
 

@@ -12,3 +12,6 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la i
 - [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]
 - [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]
 - [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]
+- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]
+- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]
+- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]

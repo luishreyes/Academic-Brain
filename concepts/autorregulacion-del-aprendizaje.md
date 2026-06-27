@@ -15,3 +15,4 @@ Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso
 - [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]
 - [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]
 - [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]
+- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]

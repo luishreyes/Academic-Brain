@@ -12,3 +12,8 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la p
 - [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]
 - [[notes/papers/2024-08-13_widening-gap-ia-novatos]]
 - [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]
+- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]
+- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]
+- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]
+- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]
+- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]

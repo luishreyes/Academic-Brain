@@ -23,3 +23,4 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]
 - [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]
 - [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]
+- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]

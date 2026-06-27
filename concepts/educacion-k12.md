@@ -24,3 +24,4 @@ Educación primaria y secundaria que abarca desde los primeros años escolares h
 - [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]
 - [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]
 - [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]
+- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]

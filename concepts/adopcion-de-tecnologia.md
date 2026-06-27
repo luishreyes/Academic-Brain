@@ -15,3 +15,6 @@ Procesos por los cuales individuos, organizaciones o comunidades incorporan nuev
 - [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]
 - [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]
 - [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]
+- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]
+- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]
+- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]

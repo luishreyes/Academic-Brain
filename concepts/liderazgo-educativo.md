@@ -11,3 +11,4 @@ Gestión, dirección y toma de decisiones en instituciones educativas; incluye e
 ## Notas que usan este concepto
 - [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
 - [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]
+- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]
