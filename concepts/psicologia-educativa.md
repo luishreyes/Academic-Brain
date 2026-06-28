@@ -29,3 +29,5 @@ Disciplina que estudia los procesos cognitivos, motivacionales y sociales que su
 - [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]
 - [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]
 - [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]
+- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]
+- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]

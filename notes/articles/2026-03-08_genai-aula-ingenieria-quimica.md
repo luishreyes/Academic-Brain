@@ -28,7 +28,7 @@ En cuanto a estrategias, Lindsey relata que pasó de defender la prohibición (s
 - La reflexión obligatoria al final de cada tarea ("enséñame cómo lo usaste") fomenta honestidad y revela casos de uso no anticipados.
 - El "uso responsable" debe incluir la dimensión de sostenibilidad: huella energética, hídrica y de minerales críticos de la IA.
 - Tres ejemplos prácticos por curso:
-  - **Laboratorio de operaciones unitarias (pregrado):** usar GenAI para migrar de Excel a Python en análisis de datos, validando los resultados contra una línea base conocida y practicando hábitos de prompt-engineering.
+  - **Laboratorio de operaciones unitarias (pregrado):** usar GenAI para migrar de Excel a Python en análisis de datos, validando los resultados contra una línea base conocida y practicando hábitos de ingenieria-de-prompts.
   - **Fenómenos de transporte (posgrado, aporte de Prof. Ronald Larson):** auditar una solución generada por U-M GPT para enseñar a evaluar críticamente el trabajo de la IA en lugar de tratarla como autoridad; expone que soluciones técnicamente válidas pueden estar pedagógicamente desalineadas.
   - **Termodinámica (pregrado):** usar GenAI para evaluar la propia comprensión, exigiendo verificar cada afirmación contra las fuentes citadas y entregar capturas de los pasajes usados.
 

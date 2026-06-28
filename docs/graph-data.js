@@ -2,10 +2,10 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 190,
-    "articles": 29,
+    "papers": 218,
+    "articles": 33,
     "books": 28,
-    "concepts": 109
+    "concepts": 116
   },
   "nodes": [
     {
@@ -19,8 +19,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.",
       "path": "concepts/STEM.md",
-      "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]",
-      "degree": 13
+      "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]",
+      "degree": 14
     },
     {
       "id": "concepts/adopcion-de-tecnologia",
@@ -36,8 +36,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.",
       "path": "concepts/adopcion-de-tecnologia.md",
-      "content": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]",
-      "degree": 11
+      "content": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]",
+      "degree": 15
     },
     {
       "id": "concepts/agentes-de-ia",
@@ -51,8 +51,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).",
       "path": "concepts/agentes-de-ia.md",
-      "content": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]",
-      "degree": 19
+      "content": "Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows).\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]",
+      "degree": 25
     },
     {
       "id": "concepts/alfabetizacion-en-ia",
@@ -67,8 +67,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.",
       "path": "concepts/alfabetizacion-en-ia.md",
-      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]",
-      "degree": 40
+      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]",
+      "degree": 45
     },
     {
       "id": "concepts/alineamiento-de-ia",
@@ -97,8 +97,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.",
       "path": "concepts/alucinaciones-de-ia.md",
-      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]",
-      "degree": 32
+      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]",
+      "degree": 45
     },
     {
       "id": "concepts/aprendizaje-activo",
@@ -111,8 +111,24 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "path": "concepts/aprendizaje-activo.md",
-      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]",
-      "degree": 19
+      "content": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]",
+      "degree": 29
+    },
+    {
+      "id": "concepts/aprendizaje-en-contexto",
+      "kind": "concept",
+      "label": "aprendizaje en contexto",
+      "keyword": "aprendizaje-en-contexto",
+      "aliases": [
+        "in-context learning",
+        "ICL",
+        "few-shot learning",
+        "aprendizaje en contexto"
+      ],
+      "definition": "Capacidad de un LLM para aprender una tarea a partir de ejemplos provistos en el prompt, sin actualizar sus pesos; base del few-shot prompting.",
+      "path": "concepts/aprendizaje-en-contexto.md",
+      "content": "Capacidad de un LLM para aprender una tarea a partir de ejemplos provistos en el prompt, sin actualizar sus pesos; base del few-shot prompting.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]",
+      "degree": 1
     },
     {
       "id": "concepts/autorregulacion-del-aprendizaje",
@@ -127,8 +143,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición).",
       "path": "concepts/autorregulacion-del-aprendizaje.md",
-      "content": "Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición).\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]",
-      "degree": 10
+      "content": "Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición).\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]",
+      "degree": 12
     },
     {
       "id": "concepts/bienestar-academico",
@@ -159,8 +175,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.",
       "path": "concepts/biocombustibles.md",
-      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]",
-      "degree": 10
+      "content": "Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]",
+      "degree": 11
     },
     {
       "id": "concepts/biologia-molecular",
@@ -291,8 +307,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.",
       "path": "concepts/capacidades-de-ia.md",
-      "content": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]",
-      "degree": 38
+      "content": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]",
+      "degree": 47
     },
     {
       "id": "concepts/ciencia-de-datos",
@@ -468,8 +484,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.",
       "path": "concepts/descubrimiento-cientifico.md",
-      "content": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]",
-      "degree": 9
+      "content": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]",
+      "degree": 13
     },
     {
       "id": "concepts/desigualdad-de-genero",
@@ -599,8 +615,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la ingeniería; incluye diseño curricular, desarrollo de competencias profesionales y transversales, pedagogías basadas en proyectos y la integración de competencias emergentes (como la IA) en los programas de ingeniería.",
       "path": "concepts/educacion-en-ingenieria.md",
-      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la ingeniería; incluye diseño curricular, desarrollo de competencias profesionales y transversales, pedagogías basadas en proyectos y la integración de competencias emergentes (como la IA) en los programas de ingeniería.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]",
-      "degree": 17
+      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la ingeniería; incluye diseño curricular, desarrollo de competencias profesionales y transversales, pedagogías basadas en proyectos y la integración de competencias emergentes (como la IA) en los programas de ingeniería.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]",
+      "degree": 34
     },
     {
       "id": "concepts/educacion-en-programacion",
@@ -614,8 +630,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.",
       "path": "concepts/educacion-en-programacion.md",
-      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]",
-      "degree": 9
+      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]",
+      "degree": 11
     },
     {
       "id": "concepts/educacion-k12",
@@ -632,8 +648,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica.",
       "path": "concepts/educacion-k12.md",
-      "content": "Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]",
-      "degree": 17
+      "content": "Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]",
+      "degree": 18
     },
     {
       "id": "concepts/educacion-superior",
@@ -646,8 +662,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]",
-      "degree": 72
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]",
+      "degree": 81
     },
     {
       "id": "concepts/enfermedades-raras",
@@ -711,8 +727,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos.",
       "path": "concepts/equidad-educativa.md",
-      "content": "Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]",
-      "degree": 23
+      "content": "Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]",
+      "degree": 25
     },
     {
       "id": "concepts/etica-de-la-ciencia",
@@ -743,8 +759,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]",
-      "degree": 50
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]",
+      "degree": 53
     },
     {
       "id": "concepts/evaluacion-educativa",
@@ -759,8 +775,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.",
       "path": "concepts/evaluacion-educativa.md",
-      "content": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]",
-      "degree": 51
+      "content": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]",
+      "degree": 62
     },
     {
       "id": "concepts/evolucion-cultural",
@@ -842,8 +858,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA.",
       "path": "concepts/formacion-docente.md",
-      "content": "Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]",
-      "degree": 23
+      "content": "Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]",
+      "degree": 25
     },
     {
       "id": "concepts/futuro-del-trabajo",
@@ -858,8 +874,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "path": "concepts/futuro-del-trabajo.md",
-      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]",
-      "degree": 39
+      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]",
+      "degree": 41
     },
     {
       "id": "concepts/generacion-aumentada-por-recuperacion",
@@ -874,8 +890,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Técnica que enriquece las respuestas de un LLM recuperando información relevante de una fuente externa e insertándola como contexto en el prompt; reduce alucinaciones y aporta datos de dominio; incluye la variante basada en grafos (graph-RAG).",
       "path": "concepts/generacion-aumentada-por-recuperacion.md",
-      "content": "Técnica que enriquece las respuestas de un LLM recuperando información relevante de una fuente externa e insertándola como contexto en el prompt; reduce alucinaciones y aporta datos de dominio; incluye la variante basada en grafos (graph-RAG).\n\n## Notas que usan este concepto\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2025-07-06_talking-like-pids]]",
-      "degree": 2
+      "content": "Técnica que enriquece las respuestas de un LLM recuperando información relevante de una fuente externa e insertándola como contexto en el prompt; reduce alucinaciones y aporta datos de dominio; incluye la variante basada en grafos (graph-RAG).\n\n## Notas que usan este concepto\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]",
+      "degree": 9
     },
     {
       "id": "concepts/genomica",
@@ -942,8 +958,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estructuras de datos que representan entidades como nodos y sus relaciones como aristas etiquetadas (property graphs / Neo4j); usadas para modelar dominios estructurados y servir de contexto recuperable a sistemas de IA.",
       "path": "concepts/grafos-de-conocimiento.md",
-      "content": "Estructuras de datos que representan entidades como nodos y sus relaciones como aristas etiquetadas (property graphs / Neo4j); usadas para modelar dominios estructurados y servir de contexto recuperable a sistemas de IA.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2025-07-06_talking-like-pids]]",
-      "degree": 2
+      "content": "Estructuras de datos que representan entidades como nodos y sus relaciones como aristas etiquetadas (property graphs / Neo4j); usadas para modelar dominios estructurados y servir de contexto recuperable a sistemas de IA.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]",
+      "degree": 4
     },
     {
       "id": "concepts/historia-de-la-innovacion",
@@ -988,8 +1004,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Métodos para hacer interpretables las decisiones de modelos de IA; incluye mapas de saliencia/localización (Grad-CAM), importancia de variables y explicaciones post-hoc.",
       "path": "concepts/ia-explicable.md",
-      "content": "Métodos para hacer interpretables las decisiones de modelos de IA; incluye mapas de saliencia/localización (Grad-CAM), importancia de variables y explicaciones post-hoc.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]",
-      "degree": 1
+      "content": "Métodos para hacer interpretables las decisiones de modelos de IA; incluye mapas de saliencia/localización (Grad-CAM), importancia de variables y explicaciones post-hoc.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]",
+      "degree": 2
     },
     {
       "id": "concepts/impacto-de-investigacion",
@@ -1023,7 +1039,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Aplicación de principios de ingeniería y biotecnología al tratamiento y la prevención de la contaminación en agua, aire y suelo; incluye tratamiento de aguas residuales, remoción de olores y gases, biofiltración, calidad del agua y ciclos biogeoquímicos.",
       "path": "concepts/ingenieria-ambiental.md",
       "content": "Aplicación de principios de ingeniería y biotecnología al tratamiento y la prevención de la contaminación en agua, aire y suelo; incluye tratamiento de aguas residuales, remoción de olores y gases, biofiltración, calidad del agua y ciclos biogeoquímicos.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]",
-      "degree": 2
+      "degree": 4
     },
     {
       "id": "concepts/ingenieria-de-alimentos",
@@ -1041,6 +1057,40 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/ingenieria-de-alimentos.md",
       "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]",
       "degree": 17
+    },
+    {
+      "id": "concepts/ingenieria-de-prompts",
+      "kind": "concept",
+      "label": "ingenieria de prompts",
+      "keyword": "ingenieria-de-prompts",
+      "aliases": [
+        "prompt engineering",
+        "ingeniería de prompts",
+        "prompting",
+        "chain-of-thought",
+        "few-shot prompting"
+      ],
+      "definition": "Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LLM para obtener respuestas precisas y útiles; incluye estrategias como zero/few-shot, chain-of-thought y plantillas estructuradas.",
+      "path": "concepts/ingenieria-de-prompts.md",
+      "content": "Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LLM para obtener respuestas precisas y útiles; incluye estrategias como zero/few-shot, chain-of-thought y plantillas estructuradas.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]",
+      "degree": 2
+    },
+    {
+      "id": "concepts/ingenieria-de-sistemas",
+      "kind": "concept",
+      "label": "ingenieria de sistemas",
+      "keyword": "ingenieria-de-sistemas",
+      "aliases": [
+        "systems engineering",
+        "systems theory",
+        "STAMP",
+        "pensamiento sistémico",
+        "process systems engineering"
+      ],
+      "definition": "Enfoque para diseñar y analizar sistemas complejos sociotécnicos considerando componentes, interacciones y propiedades emergentes; incluye la teoría de sistemas aplicada a la seguridad (STAMP/STPA) y la ingeniería de sistemas de procesos.",
+      "path": "concepts/ingenieria-de-sistemas.md",
+      "content": "Enfoque para diseñar y analizar sistemas complejos sociotécnicos considerando componentes, interacciones y propiedades emergentes; incluye la teoría de sistemas aplicada a la seguridad (STAMP/STPA) y la ingeniería de sistemas de procesos.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]",
+      "degree": 1
     },
     {
       "id": "concepts/ingenieria-metabolica",
@@ -1072,8 +1122,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.",
       "path": "concepts/ingenieria-quimica.md",
-      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/books/2011-01-01_chemical-product-design-cussler]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]",
-      "degree": 87
+      "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/books/2011-01-01_chemical-product-design-cussler]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]",
+      "degree": 107
     },
     {
       "id": "concepts/integridad-academica",
@@ -1088,8 +1138,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.",
       "path": "concepts/integridad-academica.md",
-      "content": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]",
-      "degree": 42
+      "content": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]",
+      "degree": 48
     },
     {
       "id": "concepts/inteligencia-artificial",
@@ -1103,8 +1153,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]",
-      "degree": 100
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]",
+      "degree": 131
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -1217,8 +1267,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas.",
       "path": "concepts/modelado-molecular.md",
-      "content": "Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]",
-      "degree": 9
+      "content": "Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]",
+      "degree": 10
     },
     {
       "id": "concepts/modernizacion",
@@ -1281,8 +1331,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas.",
       "path": "concepts/pensamiento-critico.md",
-      "content": "Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]",
-      "degree": 32
+      "content": "Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]",
+      "degree": 47
     },
     {
       "id": "concepts/peptidos-bioactivos",
@@ -1332,8 +1382,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Dimensión del temperamento caracterizada por la preferencia por entornos de baja estimulación, la orientación hacia la vida interior y la tendencia a procesar la experiencia con mayor profundidad y deliberación; se distingue de la timidez y complementa a la extroversión en el espectro de la personalidad.",
       "path": "concepts/personalidad-introversion.md",
-      "content": "Dimensión del temperamento caracterizada por la preferencia por entornos de baja estimulación, la orientación hacia la vida interior y la tendencia a procesar la experiencia con mayor profundidad y deliberación; se distingue de la timidez y complementa a la extroversión en el espectro de la personalidad.\n\n## Notas que usan este concepto\n- [[notes/books/2012-01-23_quiet-susan-cain]]",
-      "degree": 1
+      "content": "Dimensión del temperamento caracterizada por la preferencia por entornos de baja estimulación, la orientación hacia la vida interior y la tendencia a procesar la experiencia con mayor profundidad y deliberación; se distingue de la timidez y complementa a la extroversión en el espectro de la personalidad.\n\n## Notas que usan este concepto\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]",
+      "degree": 2
     },
     {
       "id": "concepts/personalizacion-del-aprendizaje",
@@ -1347,8 +1397,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.",
       "path": "concepts/personalizacion-del-aprendizaje.md",
-      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]",
-      "degree": 10
+      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]",
+      "degree": 11
     },
     {
       "id": "concepts/petroleo-y-gas",
@@ -1402,6 +1452,24 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 4
     },
     {
+      "id": "concepts/procesamiento-de-lenguaje-natural",
+      "kind": "concept",
+      "label": "procesamiento de lenguaje natural",
+      "keyword": "procesamiento-de-lenguaje-natural",
+      "aliases": [
+        "natural language processing",
+        "NLP",
+        "PLN",
+        "word embeddings",
+        "BERT",
+        "text embeddings"
+      ],
+      "definition": "Campo de la IA que permite a las máquinas analizar, interpretar y generar lenguaje humano; incluye embeddings (BERT, Word2Vec, TF-IDF), clasificación y clustering de texto, y modelos de lenguaje.",
+      "path": "concepts/procesamiento-de-lenguaje-natural.md",
+      "content": "Campo de la IA que permite a las máquinas analizar, interpretar y generar lenguaje humano; incluye embeddings (BERT, Word2Vec, TF-IDF), clasificación y clustering de texto, y modelos de lenguaje.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/proteinas-recombinantes",
       "kind": "concept",
       "label": "proteinas recombinantes",
@@ -1415,8 +1483,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.",
       "path": "concepts/proteinas-recombinantes.md",
-      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]",
-      "degree": 11
+      "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]",
+      "degree": 12
     },
     {
       "id": "concepts/psicologia-educativa",
@@ -1429,8 +1497,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.",
       "path": "concepts/psicologia-educativa.md",
-      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]",
-      "degree": 28
+      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]",
+      "degree": 30
     },
     {
       "id": "concepts/psicometria",
@@ -1483,8 +1551,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de métodos computacionales (mecánica cuántica, mecánica molecular, dinámica molecular) para estudiar sistemas químicos; incluye cálculos DFT, campos de fuerza ab initio y simulaciones atomísticas de moléculas y materiales.",
       "path": "concepts/quimica-computacional.md",
-      "content": "Uso de métodos computacionales (mecánica cuántica, mecánica molecular, dinámica molecular) para estudiar sistemas químicos; incluye cálculos DFT, campos de fuerza ab initio y simulaciones atomísticas de moléculas y materiales.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]",
-      "degree": 7
+      "content": "Uso de métodos computacionales (mecánica cuántica, mecánica molecular, dinámica molecular) para estudiar sistemas químicos; incluye cálculos DFT, campos de fuerza ab initio y simulaciones atomísticas de moléculas y materiales.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]",
+      "degree": 8
     },
     {
       "id": "concepts/razonamiento-cuantitativo-llm",
@@ -1499,8 +1567,24 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Capacidad de los grandes modelos de lenguaje para resolver problemas matemáticos, aritméticos y de cálculo cuantitativo; incluye benchmarks de razonamiento numérico, exactitud computacional y la brecha entre fluidez lingüística y precisión numérica.",
       "path": "concepts/razonamiento-cuantitativo-llm.md",
-      "content": "Capacidad de los grandes modelos de lenguaje para resolver problemas matemáticos, aritméticos y de cálculo cuantitativo; incluye benchmarks de razonamiento numérico, exactitud computacional y la brecha entre fluidez lingüística y precisión numérica.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]",
-      "degree": 2
+      "content": "Capacidad de los grandes modelos de lenguaje para resolver problemas matemáticos, aritméticos y de cálculo cuantitativo; incluye benchmarks de razonamiento numérico, exactitud computacional y la brecha entre fluidez lingüística y precisión numérica.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]",
+      "degree": 8
+    },
+    {
+      "id": "concepts/razonamiento-multimodal",
+      "kind": "concept",
+      "label": "razonamiento multimodal",
+      "keyword": "razonamiento-multimodal",
+      "aliases": [
+        "multimodal reasoning",
+        "multimodal LLM",
+        "razonamiento multimodal",
+        "vision-language models"
+      ],
+      "definition": "Capacidad de los modelos de IA para integrar y razonar sobre múltiples modalidades (texto, imágenes, diagramas, fórmulas); incluye la interpretación de figuras científicas, diagramas de proceso y notación matemática.",
+      "path": "concepts/razonamiento-multimodal.md",
+      "content": "Capacidad de los modelos de IA para integrar y razonar sobre múltiples modalidades (texto, imágenes, diagramas, fórmulas); incluye la interpretación de figuras científicas, diagramas de proceso y notación matemática.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]",
+      "degree": 1
     },
     {
       "id": "concepts/regulacion-de-ia",
@@ -1515,8 +1599,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.",
       "path": "concepts/regulacion-de-ia.md",
-      "content": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]",
-      "degree": 24
+      "content": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]",
+      "degree": 25
     },
     {
       "id": "concepts/retroalimentacion-con-ia",
@@ -1533,8 +1617,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico.",
       "path": "concepts/retroalimentacion-con-ia.md",
-      "content": "Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]",
-      "degree": 5
+      "content": "Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]",
+      "degree": 12
     },
     {
       "id": "concepts/revision-sistematica-de-literatura",
@@ -1549,8 +1633,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.",
       "path": "concepts/revision-sistematica-de-literatura.md",
-      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]",
-      "degree": 12
+      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]",
+      "degree": 14
     },
     {
       "id": "concepts/salud-y-sociedad",
@@ -1579,8 +1663,29 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de IA, como evadir la supervisión, engañar a usuarios o actuar fuera del control previsto.",
       "path": "concepts/seguridad-de-ia.md",
-      "content": "Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de IA, como evadir la supervisión, engañar a usuarios o actuar fuera del control previsto.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]",
-      "degree": 8
+      "content": "Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de IA, como evadir la supervisión, engañar a usuarios o actuar fuera del control previsto.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]",
+      "degree": 10
+    },
+    {
+      "id": "concepts/seguridad-de-procesos",
+      "kind": "concept",
+      "label": "seguridad de procesos",
+      "keyword": "seguridad-de-procesos",
+      "aliases": [
+        "process safety",
+        "process hazard analysis",
+        "PHA",
+        "HAZOP",
+        "STPA",
+        "hazard analysis",
+        "análisis de peligros",
+        "QRA",
+        "inherently safer design"
+      ],
+      "definition": "Disciplina de la ingeniería química dedicada a prevenir incidentes en plantas de proceso mediante el análisis sistemático de peligros y operabilidad; incluye HAZOP, STPA, análisis de peligros de proceso (PHA), análisis cuantitativo de riesgo (QRA) y diseño inherentemente más seguro.",
+      "path": "concepts/seguridad-de-procesos.md",
+      "content": "Disciplina de la ingeniería química dedicada a prevenir incidentes en plantas de proceso mediante el análisis sistemático de peligros y operabilidad; incluye HAZOP, STPA, análisis de peligros de proceso (PHA), análisis cuantitativo de riesgo (QRA) y diseño inherentemente más seguro.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]",
+      "degree": 2
     },
     {
       "id": "concepts/sesgo-cognitivo",
@@ -1613,8 +1718,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.",
       "path": "concepts/simulacion-computacional.md",
-      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]\n- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]",
-      "degree": 19
+      "content": "Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]\n- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]",
+      "degree": 27
     },
     {
       "id": "concepts/sostenibilidad",
@@ -1631,8 +1736,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.",
       "path": "concepts/sostenibilidad.md",
-      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2025-08-29_soundscapes-sostenibilidad]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]\n- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]",
-      "degree": 19
+      "content": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.\n\n## Notas que usan este concepto\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2025-08-29_soundscapes-sostenibilidad]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]\n- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]",
+      "degree": 23
     },
     {
       "id": "concepts/supervision-humana",
@@ -1646,8 +1751,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.",
       "path": "concepts/supervision-humana.md",
-      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]",
-      "degree": 48
+      "content": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]",
+      "degree": 62
     },
     {
       "id": "concepts/taxonomia-de-bloom",
@@ -1661,8 +1766,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, analizar, evaluar, crear) usado para diseñar currículo y evaluación, y para mapear la complejidad cognitiva de tareas; sirve de referencia para evaluar el razonamiento de la IA frente a la progresión cognitiva humana.",
       "path": "concepts/taxonomia-de-bloom.md",
-      "content": "Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, analizar, evaluar, crear) usado para diseñar currículo y evaluación, y para mapear la complejidad cognitiva de tareas; sirve de referencia para evaluar el razonamiento de la IA frente a la progresión cognitiva humana.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]",
-      "degree": 1
+      "content": "Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, analizar, evaluar, crear) usado para diseñar currículo y evaluación, y para mapear la complejidad cognitiva de tareas; sirve de referencia para evaluar el razonamiento de la IA frente a la progresión cognitiva humana.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]",
+      "degree": 2
     },
     {
       "id": "concepts/tecnocracia",
@@ -1696,6 +1801,22 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 12
     },
     {
+      "id": "concepts/termodinamica",
+      "kind": "concept",
+      "label": "termodinamica",
+      "keyword": "termodinamica",
+      "aliases": [
+        "thermodynamics",
+        "termodinámica",
+        "equilibrio de fases",
+        "phase equilibrium"
+      ],
+      "definition": "Rama de la ingeniería química y la física que estudia la energía, el calor, el trabajo y el equilibrio de fases; asignatura núcleo de la ingeniería química usada como dominio de prueba para evaluar el razonamiento de los LLMs.",
+      "path": "concepts/termodinamica.md",
+      "content": "Rama de la ingeniería química y la física que estudia la energía, el calor, el trabajo y el equilibrio de fases; asignatura núcleo de la ingeniería química usada como dominio de prueba para evaluar el razonamiento de los LLMs.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]",
+      "degree": 2
+    },
+    {
       "id": "concepts/trauma-y-salud",
       "kind": "concept",
       "label": "trauma y salud",
@@ -1726,8 +1847,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.",
       "path": "concepts/tutoria-con-ia.md",
-      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]",
-      "degree": 13
+      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]",
+      "degree": 22
     },
     {
       "id": "concepts/universidades-chinas",
@@ -1757,8 +1878,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo de la IA que extrae información de imágenes y video mediante redes neuronales (CNN); incluye clasificación de imágenes, detección y localización de objetos, y aprendizaje por transferencia sobre modelos preentrenados.",
       "path": "concepts/vision-por-computadora.md",
-      "content": "Campo de la IA que extrae información de imágenes y video mediante redes neuronales (CNN); incluye clasificación de imágenes, detección y localización de objetos, y aprendizaje por transferencia sobre modelos preentrenados.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]",
-      "degree": 1
+      "content": "Campo de la IA que extrae información de imágenes y video mediante redes neuronales (CNN); incluye clasificación de imágenes, detección y localización de objetos, y aprendizaje por transferencia sobre modelos preentrenados.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]",
+      "degree": 2
     },
     {
       "id": "concepts/visualizacion-de-datos",
@@ -3541,6 +3662,35 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nPrimera revisión sistemática centrada en la influencia de sonidos —tanto intrínsecos como extrínsecos al producto— sobre los sentidos químicos (gusto y olfato), abarcando estímulos de alimentos y aromas. Los autores analizaron 95 experimentos publicados en 83 trabajos entre 2012 y 2023, documentando con detalle metodológico cada estímulo, diseño experimental, variable dependiente y técnica de análisis de datos.\n\nA través de este análisis emergieron 329 asociaciones crossmodales auditivo-quimiosensoriales distintas. La contribución metodológica más novedosa es un dashboard interactivo en Power BI —el primero de su tipo en este campo— que permite a lectores e investigadores filtrar y explorar las estadísticas de subconjuntos específicos de experimentos, superando las limitaciones de las figuras y tablas estáticas.\n\nEl trabajo sintetiza el estado del arte de la percepción multisensorial sonido-sabor-aroma y ofrece implicaciones teóricas y prácticas para la industria de alimentos y bebidas, así como para sectores adyacentes como la cosmética. Apunta hacia enfoques computacionales que faciliten la toma de decisiones en el diseño de metodologías experimentales multisensoriales.\n\n## Contribuciones principales\n- Primera revisión sistemática del efecto del sonido sobre los sentidos químicos (sabor y aroma).\n- Catálogo de 329 asociaciones crossmodales auditivo-quimiosensoriales.\n- Dashboard interactivo en Power BI como herramienta de visualización y exploración de la evidencia.\n\n## Metodología\nRevisión sistemática de 95 experimentos en 83 publicaciones (2012-2023), con codificación exhaustiva de detalles metodológicos (estímulos, diseño, variables, análisis) y construcción de una visualización interactiva.\n\n## Hallazgos clave\n- Las correspondencias entre parámetros sonoros (tono, tempo, timbre) y atributos químicos (dulzor, frescura, acidez) son robustas y recurrentes en la literatura.\n- Persiste una gran heterogeneidad metodológica que dificulta la comparación entre estudios.\n\n## Limitaciones\n- Heterogeneidad de diseños y medidas entre los estudios revisados.\n- Predominio de estímulos alimentarios sobre aromáticos.\n\n## Notas relacionadas\n- [[concepts/percepcion-multisensorial]]\n- [[concepts/comportamiento-del-consumidor]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/visualizacion-de-datos]]\n- [[concepts/diseno-de-producto]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]"
     },
     {
+      "id": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion",
+      "kind": "paper",
+      "label": "Complementary role of large language models in educating undergraduate design of distillation column: Methodology development",
+      "authors": [
+        "Zong Yang Kong",
+        "Vincentius Surya Kurnia Adi",
+        "Juan Gabriel Segovia-Hernández",
+        "Jaka Sunarso"
+      ],
+      "year": "2023",
+      "venue": "Digital Chemical Engineering",
+      "url": "https://doi.org/10.1016/j.dche.2023.100126",
+      "doi": "10.1016/j.dche.2023.100126",
+      "keywords": [
+        "inteligencia-artificial",
+        "ingenieria-quimica",
+        "educacion-en-ingenieria",
+        "simulacion-computacional",
+        "pensamiento-critico",
+        "etica-de-la-ia",
+        "supervision-humana",
+        "razonamiento-cuantitativo-llm"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion.md",
+      "pdf_local": "sources/pdfs/cheme-applications/kong_2023_chatgpt-distillation-column-design.pdf",
+      "content": "## Resumen\n\nEl artículo propone una metodología para integrar grandes modelos de lenguaje (LLM), específicamente ChatGPT 3.5 gratuito, en cursos de transferencia de masa de pregrado en ingeniería química, usando como tarea representativa el diseño de columnas de destilación. Los autores parten del reconocimiento de que ChatGPT es inevitable en la vida de los estudiantes pese a su inestabilidad computacional y su tendencia a producir resultados inconsistentes o erróneos en cálculos complejos. Frente a ello, el rol del docente no es prohibir la herramienta sino enseñar su uso responsable, efectivo y sinérgico junto con los principios fundamentales de la disciplina.\n\nLa propuesta plantea a ChatGPT como herramienta auxiliar para generar diseños preliminares (número de etapas, ubicación de alimentación, relación de reflujo, paquete termodinámico) que los estudiantes deben validar y verificar con software de simulación de procesos (Aspen Plus) y con cálculos manuales mediante el método de McCabe-Thiele. El núcleo pedagógico es un proceso de verificación doble: contrastar las sugerencias del LLM contra la literatura establecida y contra los cálculos manuales propios del estudiante. Las discrepancias entre estos resultados se usan deliberadamente para detonar preguntas, discusión y un entendimiento más profundo de los principios de transferencia de masa.\n\nEl trabajo demuestra la metodología con dos casos de estudio de separación binaria (n-heptano/isobutanol y propano/isobutano), tomados de trabajos de Luyben. En ambos, las sugerencias de ChatGPT producen diseños razonablemente cercanos a la literatura, aunque con desviaciones notables en consumo energético (cargas de condensador y rehervidor) y relación de reflujo, y a veces requiriendo iteraciones sucesivas hasta alcanzar las purezas objetivo. El artículo cierra con implicaciones pedagógicas (integración curricular, facilitación, consideraciones éticas, mejora continua), recomendaciones concretas de implementación (sesiones de laboratorio durante la segunda mitad del curso) y direcciones futuras como el desarrollo de modelos GPT especializados para destilación.\n\n## Contribuciones principales\n\n- Una metodología estructurada de seis pasos para incorporar ChatGPT como herramienta auxiliar en el diseño de columnas de destilación en pregrado.\n- Un proceso de verificación doble (literatura + cálculo manual) que convierte las discrepancias del LLM en oportunidades de aprendizaje en lugar de errores a evitar.\n- Dos casos de estudio reproducibles que ejemplifican beneficios y limitaciones concretas de ChatGPT frente a Aspen Plus y al método de McCabe-Thiele.\n- Recomendaciones pedagógicas y curriculares detalladas (delivery en sesiones de laboratorio, diseño de asignaciones, evaluación) para docentes de transferencia de masa.\n\n## Metodología\n\nEstudio metodológico/demostrativo basado en dos casos de estudio. Pasos: (1) identificación de casos de estudio de la literatura y extracción de criterios de separación y datos termodinámicos; (2) consulta a ChatGPT para sugerir parámetros de diseño sin proporcionarle los parámetros previos; (3) refinamiento iterativo e interactivo de las consultas; (4) análisis de los cálculos mostrados por ChatGPT; (5) validación y verificación con Aspen Plus, contra la literatura y mediante cálculo manual con McCabe-Thiele; (6) identificación de retos y consideraciones clave. Se usó deliberadamente la versión gratuita ChatGPT 3.5 para mostrar accesibilidad sin costo.\n\n## Hallazgos clave\n\n- En el Caso 1 (n-heptano/isobutanol), ChatGPT propuso 30 etapas frente a las 31 de Luyben y una alimentación cercana, pero alcanzó purezas de 99.99 mol.% superando el objetivo de 99.9 mol.%, con aumentos de 43 % y 34 % en cargas de condensador y rehervidor; tras activar las design specs en Aspen Plus, los diseños resultan muy similares.\n- El cálculo manual con McCabe-Thiele produjo menos etapas (16, alimentación en la etapa 4), quedándose corto frente a la pureza objetivo y consumiendo más energía, lo que ilustra el valor didáctico de comparar enfoques.\n- En el Caso 2 (propano/isobutano), la sugerencia inicial de ChatGPT no alcanzó las purezas objetivo (96 mol.% destilado), requiriendo un proceso iterativo: tras una revisión, ChatGPT aumentó las etapas y la relación de reflujo (de 3 a 4) y logró superar las especificaciones.\n- ChatGPT comete errores en cálculos complejos y en la elección del paquete termodinámico (inicialmente NRTL, corregido a UNIQUAC tras prompting), confirmando que no puede usarse como única fuente.\n- Los diseños generados por ChatGPT sirven como \"diseño inicial\" para optimización posterior con algoritmos como PSO, GA o recocido simulado integrados vía Aspen Plus + MATLAB.\n\n## Limitaciones\n\n- Es un trabajo demostrativo/metodológico sin evaluación empírica con estudiantes; los autores anuncian un estudio de seguimiento (cursos en Sunway University y National Chung Hsing University, sept. 2023) con resultados pendientes.\n- Solo se abordan dos casos de separación binaria conventional, simplificados deliberadamente para pregrado; no cubre destilación batch, flash, azeotrópica ni configuraciones complejas.\n- Las respuestas de ChatGPT no son reproducibles (varían entre consultas), lo que dificulta estandarizar la experiencia de aprendizaje.\n- Inestabilidad computacional reconocida del LLM en cálculos cuantitativos; depende fuertemente de la pericia del docente y de conocimiento de dominio para refinar las consultas.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/razonamiento-cuantitativo-llm]]"
+    },
+    {
       "id": "notes/papers/2023-10-05_mails-meta-ai-literacy-scale",
       "kind": "paper",
       "label": "MAILS - Meta AI literacy scale: Development and testing of an AI literacy questionnaire based on well-founded competency models and psychological change- and meta-competencies",
@@ -3655,6 +3805,37 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2023-12-01_contra-deteccion-ia-evaluacion.md",
       "pdf_local": "sources/pdfs/assessment-redesign/ardito_2023_contra-genai-detection.pdf",
       "content": "## Resumen\n\nArdito presenta un análisis crítico de las herramientas de detección de IA generativa empleadas para proteger la integridad académica en la educación superior. Partiendo de la rápida masificación de ChatGPT desde noviembre de 2022 y la proliferación de detectores comerciales (Turnitin, GptZero, CopyLeaks, ZeroGPT, entre otros), el autor argumenta que confiar en la detección es una estrategia fundamentalmente defectuosa y desalineada con un panorama educativo en el que la IA tiene un rol cada vez más amplio.\n\nEl paper sintetiza evidencia de estudios, artículos periodísticos y testimonios de estudiantes para mostrar dos clases de problemas. La primera es técnica: los detectores son vulnerables a ataques de paráfrasis, estrategias de prompting, ajuste de parámetros (temperatura, top-P) y servicios de prueba y error; además, dado que el núcleo de la IA es la automatización, cualquier vulnerabilidad puede reproducirse y difundirse en días. A medida que los modelos mejoran (GPT-4 frente a GPT-3.5), la detección se convierte en un juego del gato y el ratón siempre un paso atrás, hasta el punto asintótico en que la detección se vuelve paradójica (la \"Biblioteca de Babel\" de Borges). También señala el sesgo contra hablantes no nativos de inglés (baja perplejidad, como ocurre al marcar la Constitución de EE. UU. como generada por IA), la contaminación de datasets post-2023 y la inviabilidad del watermarking.\n\nLa segunda clase de problemas es más profunda y filosófica: los detectores están desalineados con el objetivo real (discernir la contribución original del estudiante, no la similitud con la salida de un LLM) y no son falsables, ya que no aportan evidencia verificable —comparado con la situación kafkiana de \"El proceso\" de Josef K., donde el acusado no puede probar su inocencia—. Con una tasa de falsos positivos del 1 %, un estudiante con 70 entregas a lo largo de su carrera tiene un 50,5 % de probabilidad de ser acusado erróneamente al menos una vez, lo que genera ansiedad, erosiona la confianza y reproduce los problemas de la vigilancia tipo proctoring durante la COVID-19. Los detectores tampoco distinguen el uso bueno del malo (caso de Alice vs. Bob), son incompatibles con la cocreación y obstaculizan la tecnología de accesibilidad.\n\nComo alternativa, Ardito propone enseñar el uso crítico y ético de la IA generativa. Recurre a la analogía histórica de la calculadora: en lugar de detección post-hoc, se rediseñaron los objetivos de aprendizaje y se crearon condiciones controladas (exámenes presenciales) para las competencias que deben evaluarse sin IA. Aboga por evaluaciones auténticas, hitos con interacción humana directa, métodos alternativos (evaluaciones grupales, presentaciones, exámenes orales, revisión por pares, portafolios), divulgación transparente del uso de IA y políticas alineadas con los principios del Russell Group. Cita a la Universidad de Manchester y Vanderbilt como instituciones que ya prohibieron o desaconsejaron los detectores.\n\n## Contribuciones principales\n\n- Sistematiza las vulnerabilidades técnicas de los detectores de IA (paráfrasis, prompting, ajuste de parámetros, contaminación de datasets, fragilidad del watermarking).\n- Argumenta que la detección de IA es estructuralmente distinta de la detección de plagio: no falsable, sin verificación independiente y desalineada con el objetivo educativo real.\n- Cuantifica el riesgo de falsos positivos acumulados a lo largo de una carrera académica (50,5 % con FPR del 1 % y 70 entregas).\n- Propone un marco alternativo basado en enseñar el uso crítico/ético de la IA, evaluación auténtica y reincorporación del elemento humano.\n\n## Metodología\n\nAnálisis crítico y argumentativo (no empírico). Sintetiza estudios académicos, artículos de prensa, testimonios de estudiantes, políticas institucionales y casos documentados; incorpora la experiencia del autor como docente de matemáticas y participante en grupos focales con estudiantes.\n\n## Hallazgos clave\n\n- Los humanos sobreestiman su capacidad de detectar texto generado por IA, por lo que el juicio docente no es fiable.\n- Toda vulnerabilidad de un detector se vuelve crítica porque puede automatizarse y difundirse rápidamente; la detección queda permanentemente rezagada frente a modelos más capaces.\n- Los detectores pueden marcar desproporcionadamente a hablantes no nativos de inglés por su menor perplejidad (aunque la evidencia sobre el sesgo aún es insuficiente y disputada).\n- Los detectores no distinguen el uso legítimo (cocreación, refinamiento, accesibilidad) del fraudulento, penalizando paradójicamente al estudiante que usa la IA de forma honesta para pulir su texto.\n- Las políticas de detección y vigilancia (incluido el prompt sharing y el fingerprinting) generan ansiedad, desconfianza y normalizan la vigilancia, en detrimento de la libertad académica.\n- La analogía con la calculadora muestra que la respuesta correcta es rediseñar objetivos y evaluaciones, no detectar post-hoc.\n\n## Limitaciones\n\n- Es un ensayo argumentativo, no un estudio empírico: no aporta datos primarios propios sobre tasas de detección.\n- El cálculo del 50,5 % asume una tasa de falsos positivos uniforme del 1 %, una simplificación.\n- La evidencia sobre el sesgo contra no nativos es reconocida como aún insuficiente y disputada (estudio de Stanford vs. blog de Turnitin).\n- Propone un marco general sin prescribir soluciones concretas de evaluación, dejándolas a investigación futura.\n\n## Notas relacionadas\n\n- [[concepts/integridad-academica]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/equidad-educativa]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/supervision-humana]]\n- [[concepts/regulacion-de-ia]]"
+    },
+    {
+      "id": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "kind": "paper",
+      "label": "Beyond Traditional Teaching: The Potential of Large Language Models and Chatbots in Graduate Engineering Education",
+      "authors": [
+        "Mahyar Abedi",
+        "Ibrahem Alshybani",
+        "Muhammad Rubayat Bin Shahadat",
+        "Michael S. Murillo"
+      ],
+      "year": "2023",
+      "venue": "arXiv (preprint)",
+      "url": "https://arxiv.org/abs/2309.13059",
+      "doi": "10.48550/arXiv.2309.13059",
+      "keywords": [
+        "tutoria-con-ia",
+        "inteligencia-artificial",
+        "educacion-en-ingenieria",
+        "educacion-superior",
+        "capacidades-de-ia",
+        "razonamiento-cuantitativo-llm",
+        "alucinaciones-de-ia",
+        "retroalimentacion-con-ia",
+        "integridad-academica",
+        "STEM"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado.md",
+      "pdf_local": "sources/pdfs/cheme-applications/abedi_2023_chatbot-graduate-fluid-mechanics-preprint.pdf",
+      "content": "## Resumen\n\nEl artículo explora la integración de grandes modelos de lenguaje (LLMs) y chatbots en la educación de ingeniería de posgrado, usando un curso de mecánica de fluidos como caso de estudio. Tras situar la discusión en la historia de las disrupciones tecnológicas de la educación (imprenta, pizarra, radio, calculadoras, internet), los autores introducen los fundamentos técnicos de los LLMs —aprendizaje automático y profundo, arquitectura transformer, mecanismos de atención, GPUs/TPUs, preentrenamiento y fine-tuning— para que los instructores comprendan el funcionamiento de estas herramientas antes de adoptarlas.\n\nEl corazón del trabajo es un estudio empírico: los autores construyeron un banco de 75 preguntas de mecánica de fluidos de nivel posgrado (25 conceptuales, 25 analíticas y 25 matemáticas) y evaluaron la exactitud de ChatGPT-3.5, ChatGPT-4 y ChatGPT-4 con el plugin Wolfram Alpha. Compararon además distintas estrategias de prompting (Input/Output, Chain of Thought y Tree of Thought). Los modelos respondieron correctamente el 100% de las preguntas conceptuales y, con prompt CoT, el 100% de las analíticas; sin embargo, la mayor exactitud en preguntas matemáticas fue 84% (ChatGPT-4 con Wolfram y CoT), evidenciando una brecha entre la fluidez lingüística y la precisión numérica.\n\nEl paper documenta también las ventajas pedagógicas observadas (aprendizaje autodirigido, retroalimentación instantánea, reducción de la carga del instructor), el efecto transformador del prompting inteligente y de plugins (Wolfram, Advanced Data Analysis/Code Interpreter, AskYourPDF, ScholarAI, Custom Instructions) sobre las capacidades del chatbot. Cierra advirtiendo sobre desafíos y dimensiones éticas —alucinaciones, conocimiento desactualizado, contenido dañino, privacidad, sobredependencia, sesgos e integridad académica— y aboga por un enfoque equilibrado en el que el chatbot complemente, no reemplace, la enseñanza humana.\n\n## Contribuciones principales\n\n- Marco conceptual accesible para instructores sobre cómo funcionan los LLMs y chatbots (transformer, atención, temperatura, preentrenamiento/fine-tuning).\n- Estudio empírico de exactitud de ChatGPT-3.5/4 y ChatGPT-4+Wolfram sobre un banco de 75 preguntas de mecánica de fluidos clasificadas por tipo cognitivo (conceptual, analítica, matemática).\n- Evidencia comparativa del efecto de las estrategias de prompting (I/O vs. CoT vs. ToT) sobre el desempeño.\n- Catálogo de plugins y herramientas (Wolfram, Advanced Data Analysis, AskYourPDF, ScholarAI, Custom Instructions) con aplicaciones concretas en un curso de posgrado.\n- Discusión de implicaciones éticas y recomendaciones para una adopción responsable en STEM.\n\n## Metodología\n\nSelección aleatoria de 75 preguntas de un curso de mecánica de fluidos de posgrado (25 conceptuales, 25 analíticas, 25 matemáticas). Cada pregunta se planteó en un hilo separado, sin historial ni retroalimentación previa. Para preguntas analíticas y matemáticas se usaron prompts I/O y CoT; el prompt ToT (versión de Hulbert) solo se usó en conceptuales por su bajo desempeño en problemas analíticos/matemáticos. El criterio de evaluación fue binario (correcto/incorrecto); las respuestas parcialmente correctas se contaron como incorrectas. Se evaluaron tres configuraciones: ChatGPT-3.5, ChatGPT-4 y ChatGPT-4 con plugin Wolfram.\n\n## Hallazgos clave\n\n- 100% de exactitud en preguntas conceptuales para ChatGPT-3.5 y 4.\n- 100% de exactitud en preguntas analíticas con prompt CoT en los tres modelos.\n- Máximo 84% de exactitud en preguntas matemáticas (ChatGPT-4 + Wolfram, CoT); la brecha matemática es la limitación central.\n- CoT supera consistentemente a I/O, sobre todo en preguntas matemáticas.\n- El plugin Wolfram reduce sustancialmente los errores de cálculo aritmético.\n- Dos fuentes principales de error matemático: razonamiento matemático incorrecto (supuestos/ecuaciones erróneas) y cálculos incorrectos en la ejecución.\n\n## Limitaciones\n\n- ChatGPT no leía bien datos de tablas o imágenes, por lo que se evitaron problemas que los requerían.\n- Resultados atados a versiones y momento específicos del estudio; el comportamiento del modelo puede cambiar con nuevas versiones o con el tiempo.\n- Naturaleza estocástica de los modelos: las salidas no son estáticas y pueden variar.\n- Criterio binario de evaluación (sin crédito parcial), que puede subestimar respuestas parcialmente útiles.\n\n## Notas relacionadas\n\n- [[concepts/tutoria-con-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/educacion-superior]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/razonamiento-cuantitativo-llm]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/STEM]]"
     },
     {
       "id": "notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria",
@@ -4193,6 +4374,59 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nEsta crítica evalúa el potencial educativo de YEASTsim, un simulador basado en MATLAB para la enseñanza del control de procesos en fermentaciones de levadura en fed-batch (*Saccharomyces cerevisiae*). El trabajo parte de un reto central de la educación en ingeniería química: la aplicación práctica del conocimiento teórico, tradicionalmente dependiente de experimentos de laboratorio costosos.\n\nLos autores posicionan las herramientas de aprendizaje basado en simulación como complementos potentes de los laboratorios, al permitir que los estudiantes investiguen procesos complejos, prueben hipótesis y desarrollen destrezas prácticas en un entorno seguro, económico y escalable. Destacan la interfaz gráfica (GUI) de YEASTsim por su facilidad de uso, que permite manipular variables intuitivamente y obtener gráficos claros del comportamiento del proceso.\n\nLa crítica analiza el simulador como herramienta interactiva para reforzar asignaturas núcleo como la Ingeniería de las Reacciones Químicas, evaluando sus fortalezas pedagógicas y sus límites como recurso de enseñanza.\n\n## Contribuciones principales\n- Evaluación pedagógica de YEASTsim para enseñar control de procesos y bioprocesos.\n- Argumento a favor del aprendizaje basado en simulación como complemento al laboratorio.\n- Análisis de la GUI y su valor para la manipulación interactiva de variables.\n\n## Metodología\nCrítica/evaluación cualitativa de una herramienta educativa de simulación de procesos.\n\n## Hallazgos clave\n- La simulación interactiva facilita el aprendizaje experiencial de control de procesos.\n- La usabilidad de la interfaz es clave para la adopción educativa de la herramienta.\n\n## Limitaciones\n- Evaluación cualitativa, sin medición empírica de resultados de aprendizaje.\n- Alcance acotado a un dominio (fermentación fed-batch de levadura).\n\n## Notas relacionadas\n- [[concepts/ingenieria-quimica]]\n- [[concepts/educacion-superior]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/aprendizaje-activo]]"
     },
     {
+      "id": "notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros",
+      "kind": "paper",
+      "label": "Hazard analysis in the era of AI: Assessing the usefulness of ChatGPT4 in STPA hazard analysis",
+      "authors": [
+        "Stavroula Charalampidou",
+        "Apostolos Zeleskidis",
+        "Ioannis M. Dokas"
+      ],
+      "year": "2024",
+      "venue": "Safety Science",
+      "url": "https://doi.org/10.1016/j.ssci.2024.106608",
+      "doi": "10.1016/j.ssci.2024.106608",
+      "keywords": [
+        "inteligencia-artificial",
+        "capacidades-de-ia",
+        "alucinaciones-de-ia",
+        "supervision-humana",
+        "seguridad-de-procesos",
+        "ingenieria-de-sistemas"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros.md",
+      "pdf_local": "sources/pdfs/cheme-applications/charalampidou_2024_chatgpt-stpa-hazard-analysis.pdf",
+      "content": "## Resumen\n\nEl artículo investiga la utilidad de los grandes modelos de lenguaje (LLM), específicamente ChatGPT-4 de OpenAI, para apoyar el análisis de peligros STPA (Systems Theoretic Process Analysis) en sistemas socio-técnicos. STPA es un método derivado del modelo de accidentes STAMP que permite identificar las circunstancias operativas bajo las cuales los controladores de un sistema pueden ejecutar acciones de control inseguras. Para evaluar al LLM, los autores recrearon con ChatGPT-4 un análisis STPA previamente verificado sobre el sistema ROLFER (Robotic Lifeguard For Emergency Rescue), un dron cuadricóptero autónomo de búsqueda y rescate diseñado para asistir a personas en riesgo de ahogamiento.\n\nEl método siguió cinco pasos: describir el sistema al LLM (sin indicarle que actuaría como ingeniero de seguridad), definir las fronteras del análisis (pérdidas, peligros y restricciones de seguridad), generar acciones de control inseguras (UCA), generar escenarios de pérdida y finalmente generar especificaciones de seguridad. Los resultados generados por ChatGPT-4 se compararon con los del equipo humano de seguridad que había aplicado STPA al mismo sistema. El equipo humano había tardado de 4 a 5 semanas (con cuatro reuniones de tres horas con los desarrolladores), mientras que el proceso asistido por LLM se completó en menos de 8 horas, más unas 8 horas de validación.\n\nLos hallazgos muestran un valor desigual. ChatGPT-4 fue beneficioso en la generación de escenarios de pérdida y especificaciones de seguridad, y especialmente en formular preguntas sobre el sistema (generó 35) que ayudaron a los analistas a comprenderlo mejor y a reducir el tiempo de lluvia de ideas y consulta con desarrolladores. Sin embargo, presentó deficiencias graves en la generación de UCA: de 138 UCA producidas, 69 eran incorrectas, carecían de contexto o estaban mal categorizadas (1 de cada 2 no era aceptable), incluyendo 4 alucinaciones sobre información no aportada. El LLM tendió a producir respuestas con patrones repetitivos (parafraseo del prompt, conteos arbitrarios) y su desempeño se deterioró a medida que se alargaba el intercambio de mensajes.\n\nLa conclusión central es que ChatGPT-4 no puede usarse como herramienta de validación autónoma de un análisis STPA y sus salidas siempre deben ser verificadas por expertos. No obstante, puede ser una herramienta potente de apoyo: para generar preguntas de comprensión del sistema, hacer lluvia de ideas, producir escenarios de pérdida y especificaciones de seguridad, y detectar UCA o especificaciones duplicadas.\n\n## Contribuciones principales\n\n- Primer estudio que evalúa ChatGPT-4 (frente a trabajos previos con GPT-3/3.5) aplicado de forma detallada a un análisis STPA en un sistema socio-técnico real.\n- Modelo paso a paso reproducible (cinco pasos) para conducir las etapas 3 y 4 de STPA con asistencia de un LLM.\n- Comparación cuantitativa del tiempo necesario para completar el análisis con y sin LLM (de 4-5 semanas a ~16 horas).\n- Caracterización empírica de fortalezas y debilidades del LLM por etapa de STPA, con clasificación de validez de las UCA generadas.\n\n## Metodología\n\nEstudio de caso comparativo. Se aplicaron las etapas 3 (UCA) y 4 (escenarios de pérdida) de STPA al sistema ROLFER usando ChatGPT-4, mediante prompts derivados del manual STPA (Leveson y Thomas, 2018). Los resultados se contrastaron con un análisis STPA humano previamente verificado del mismo sistema (Charalampidou et al., 2020). Las UCA generadas por el LLM se clasificaron en cuatro categorías de validez: correctas, incorrectas, en lugar equivocado, y necesitadas de más contexto.\n\n## Hallazgos clave\n\n- De 138 UCA generadas por ChatGPT-4: 69 correctas, 31 incorrectas, 20 en categoría equivocada y 18 que requerían más contexto; 4 fueron alucinaciones.\n- Los analistas humanos generaron 57 UCA; de ellas, 46 fueron también generadas por el LLM en alguna forma. El LLM tendía a condensar varias verificaciones humanas en una sola UCA.\n- ChatGPT-4 generó una UCA correcta que los humanos no habían identificado, derivando en una nueva especificación de seguridad válida.\n- Los escenarios de pérdida fueron mayormente correctos y útiles; los erróneos eran fáciles de descartar, a diferencia de las UCA erróneas, difíciles de detectar para un analista sin experiencia.\n- El desempeño del LLM se degradó con la longitud del intercambio (errores de numeración, ortografía y patrones repetitivos).\n- El tiempo total con LLM fue de menos de 8 horas de análisis más ~8 horas de validación, frente a 4-5 semanas del equipo humano.\n\n## Limitaciones\n\n- Estudio de un único sistema (ROLFER) y un único LLM (ChatGPT-4), lo que limita la generalización de la metodología propuesta.\n- El conocimiento de ChatGPT-4 estaba limitado a datos hasta septiembre de 2021 y al contexto descrito en el chat; no aprende de la experiencia ni mantiene un contexto extenso.\n- La validación dependió de un análisis humano previo tomado como referencia de verdad; no se exploró su uso en sistemas sin análisis previo.\n- No se evaluaron otros LLM (Bard, Bing Chat, etc.), señalado como trabajo futuro.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/seguridad-de-procesos]]\n- [[concepts/ingenieria-de-sistemas]]"
+    },
+    {
+      "id": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias",
+      "kind": "paper",
+      "label": "Enhancing Learning and Collaboration in a Unit Operations Course: Using AI as a Catalyst to Create Engaging Problem-Based Learning Scenarios",
+      "authors": [
+        "Bruno Ramos",
+        "Rodrigo Condotta"
+      ],
+      "year": "2024",
+      "venue": "Journal of Chemical Education",
+      "url": "https://doi.org/10.1021/acs.jchemed.4c00244",
+      "doi": "10.1021/acs.jchemed.4c00244",
+      "keywords": [
+        "educacion-en-ingenieria",
+        "ingenieria-quimica",
+        "aprendizaje-activo",
+        "inteligencia-artificial",
+        "simulacion-computacional",
+        "evaluacion-educativa",
+        "taxonomia-de-bloom",
+        "pensamiento-critico"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias.md",
+      "pdf_local": "sources/pdfs/cheme-applications/ramos_2024_ai-pbl-unit-operations-dryer.pdf",
+      "content": "## Resumen\n\nEste artículo describe una experiencia pedagógica en un curso de Operaciones Unitarias (cuarto año de Ingeniería Química, FEI University Centre, Brasil) en la que se usó ChatGPT como apoyo para diseñar una actividad de aprendizaje basado en problemas (PBL). La tarea pedía a los estudiantes diseñar y simular un secador industrial para aplicaciones de relevancia social y económica en Brasil (secado de mezclas farmacéuticas, leche en polvo, granos de café, lodos de aguas residuales, catalizador agotado, pulpa de celulosa, fragmentos de mineral para minería de litio, entre otros). El secado es el tema que los estudiantes encuentran consistentemente más difícil, y los autores vieron una oportunidad para mejorar el compromiso mediante PBL.\n\nEl rol central del LLM (ChatGPT 4.0) fue catalizar la preparación de la actividad: sugerir y diversificar los temas de los casos, redactar borradores de los enunciados (en formato de carta del director de proyecto al equipo de diseño), proponer roles de equipo y rúbricas de evaluación, y generar datos iniciales para la simulación (curvas de secado, distribuciones de tamaño de partícula). Los autores subrayan que la IA no reemplazó al docente: los datos numéricos generados solían ser poco realistas y debieron procesarse con datos experimentales, y todo el contenido textual fue revisado para asegurar precisión y alineación pedagógica. La elaboración de los siete casos de estudio se completó en dos días de trabajo, frente al día completo que normalmente requeriría preparar un solo caso.\n\nLa actividad se estructuró en cinco etapas a lo largo de cuatro sesiones presenciales (formación de grupos, distribución de roles, análisis y simulación con Aspen Plus, revisión de borradores con retroalimentación, y presentación tipo pitch). Los grupos de 5-6 estudiantes asumían roles diferenciados (líder, expertos en simulación, ingenieros de proceso, ingenieros de innovación) evaluados de forma distinta. Los resultados muestran que más del 90% de los estudiantes reportaron mayor compromiso, mejor dinámica de equipo y mejor aprendizaje; el desempeño en el examen final fue notablemente bueno en el tema de secado, sugiriendo que el compromiso se tradujo en aprendizaje. La comparación con una segunda actividad PBL sobre torres de enfriamiento (sin apoyo de IA y con un único problema homogéneo) sugiere que la diversidad de escenarios habilitada por el LLM enriqueció la experiencia, aunque los autores reconocen que este efecto no se midió directamente.\n\n## Contribuciones principales\n\n- Demuestra un uso del LLM centrado en el docente (no en el estudiante): la IA como \"catalizador pedagógico\" para reducir la barrera de tiempo en la preparación de actividades de aprendizaje activo.\n- Aporta un ejemplo concreto y replicable de prompts usados para generar enunciados, roles, rúbricas y datos de simulación.\n- Integra simulación de procesos con software comercial (Aspen Plus) dentro de una actividad PBL alineada a competencias y a niveles cognitivos superiores de la taxonomía de Bloom revisada.\n\n## Metodología\n\nEstudio de caso de una intervención pedagógica con 42 estudiantes divididos en 8 grupos (edición 2023/2). La evaluación combinó: (i) distribución de calificaciones por entregable (memorial de cálculo/hoja de cálculo, informe, presentación) comparada con una actividad PBL sin IA; (ii) encuesta anónima tipo Likert respondida por 22 estudiantes (50%); y (iii) análisis del desempeño en el examen final por tema (secado vs. adsorción y otros). No se aplicó un andamiaje formalizado; el apoyo fue informal mediante complejidad incremental, mentoría grupal y colaboración entre pares.\n\n## Hallazgos clave\n\n- Más del 90% de los estudiantes reportaron aumento de compromiso, mejor trabajo en equipo y mejor aprendizaje percibido.\n- Calificación final alta y consistente (8.11 ± 1.11; mediana 8.04; IQR 1.87), con mejor desempeño en presentaciones y menor en la hoja de cálculo (asociada a niveles cognitivos más altos).\n- La preparación de los siete casos tomó dos días frente al día por caso del método tradicional: ahorro sustancial de tiempo docente.\n- Las percepciones más positivas fueron la relación con el instructor, la adecuación de la actividad y la sensación de aprendizaje efectivo; el roleplay con roles asignados se valoró positivamente.\n- En el examen final, los estudiantes rindieron especialmente bien en secado (el tema trabajado con PBL asistido por IA), sugiriendo retención del aprendizaje.\n\n## Limitaciones\n\n- Los datos numéricos generados por el LLM eran frecuentemente poco realistas y requerían corrección manual con datos experimentales.\n- El supuesto beneficio de los LLM para enriquecer la experiencia PBL no se midió directamente; la comparación con la actividad de torres de enfriamiento es especulativa (y, de hecho, esa actividad obtuvo una calificación final mayor pese a ser menos preferida).\n- Muestra pequeña, de un solo curso e institución; la encuesta tuvo 50% de respuesta y fue anónima/voluntaria.\n- Los estudiantes señalaron el tiempo insuficiente y la poca familiaridad con el simulador de procesos como puntos problemáticos.\n\n## Notas relacionadas\n\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/taxonomia-de-bloom]]\n- [[concepts/pensamiento-critico]]"
+    },
+    {
       "id": "notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion",
       "kind": "paper",
       "label": "Zweifach–Fung Microfluidic Device for Efficient Microparticle Separation: Cost-Effective Fabrication Using CO2 Laser-Ablated PMMA",
@@ -4333,7 +4567,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica.md",
-      "pdf_local": "sources/pdfs/capability-reliability/vidhani_2024_human-ai-prompt-engineering-chemistry.pdf",
+      "pdf_local": "sources/pdfs/capability-reliability/vidhani_2024_human-ai-ingenieria-de-prompts-chemistry.pdf",
       "content": "## Resumen\n\nEl estudio examina cómo la ingeniería de prompts (prompt engineering) puede guiar a ChatGPT-3.5 hacia respuestas confiables y precisas en química general de nivel universitario. Partiendo de la premisa de que la mayoría de los usuarios —especialmente estudiantes— emplean el modelo en su configuración por defecto, los autores evalúan una batería de 30 preguntas de opción múltiple clasificadas según la taxonomía de Bloom (niveles \"apply\", \"understand\" y \"remember\"). En diez exámenes (cinco presentando las 30 preguntas a la vez y cinco de forma secuencial), ChatGPT-3.5 obtuvo un promedio del 62%, un avance notable frente a los puntajes reportados meses antes (18-22%), pero con dificultades concentradas en las preguntas de nivel \"apply\".\n\nEl trabajo demuestra que refinamientos aparentemente menores en la redacción del prompt transforman radicalmente la exactitud del modelo. Técnicas como aportar pistas contextuales, definir explícitamente los símbolos (p. ej. \">\" y \"<\"), enunciar restricciones implícitas (como las reglas de PEMDAS o el orden de operaciones), reemplazar formatos abiertos de \"rellenar el espacio\" por preguntas directas, calibrar la cantidad de información de contexto y aplicar instrucciones específicas del campo (química) elevaron la precisión, en varios casos, de 1-5 aciertos sobre 10 hasta 10 sobre 10. Un ejemplo emblemático es la sustitución del adjetivo \"lowest\" por \"least\", que llevó al modelo del fracaso sistemático al 100% de aciertos, evidenciando cómo la sutileza del lenguaje condiciona la interpretación del modelo.\n\nLos autores enmarcan estos hallazgos en el concepto de inteligencia humano-IA (HAI), en el que la IA complementa la inteligencia humana en lugar de reemplazarla. La elaboración cuidadosa de prompts se presenta como el elemento clave del lado humano de esa colaboración, y la supervisión humana como salvaguarda frente a las alucinaciones y la generación de información incorrecta. El estudio concluye ofreciendo a los educadores una posible hoja de ruta para incorporar ChatGPT al aula de química, reconociendo a la vez las limitaciones persistentes del modelo, sobre todo en tareas de aplicación y cálculo.\n\n## Contribuciones principales\n\n- Documenta empíricamente cómo distintas técnicas de ingeniería de prompts mejoran la exactitud de ChatGPT-3.5 en química general universitaria, con resultados cuantificados (aciertos sobre 10 intentos).\n- Muestra que detalles lingüísticos y de formato mínimos (un paréntesis, definir un símbolo, cambiar \"lowest\" por \"least\") tienen efectos profundos y a veces decisivos sobre la fiabilidad de las respuestas.\n- Vincula los errores con los niveles cognitivos de la taxonomía de Bloom, identificando el nivel \"apply\" como el más problemático.\n- Propone una hoja de ruta práctica para que docentes integren ChatGPT como herramienta instruccional, enmarcada en el paradigma de colaboración humano-IA (HAI).\n\n## Metodología\n\nEstudio de caso con ChatGPT-3.5 (versión gratuita) usando 30 preguntas de opción múltiple de química general I, clasificadas por taxonomía de Bloom. Las preguntas se presentaron de dos modos (todas a la vez vs. secuencialmente), repetidos cinco veces cada uno (diez exámenes). Las preguntas con tasa de error >50% se sometieron a refinamiento iterativo de prompts. Cada prompt refinado se probó en diez iteraciones, comparando la repetición dentro de una misma ventana de contexto frente a ventanas separadas, borrando el historial de chat entre revisiones para aislar el efecto de cada cambio. Se aplicaron controles de fiabilidad (misma condición) y replicabilidad (condiciones distintas). Adicionalmente, se comparó ChatGPT-3.5 con ChatGPT-4.0 sobre el mismo conjunto.\n\n## Hallazgos clave\n\n- ChatGPT-3.5 promedió 62-65% en química general; rindió ligeramente mejor con preguntas presentadas individualmente (65%) que en bloque (60%).\n- Los errores se concentraron en preguntas de nivel \"apply\" de Bloom; el modelo entendía conceptos pero fallaba al aplicarlos a escenarios concretos.\n- Aportar contexto y definir símbolos, enunciar restricciones implícitas (PEMDAS, colocación de electrones), evitar formatos de \"rellenar el espacio\" y dar instrucciones específicas del campo elevaron la precisión, frecuentemente hasta 10/10.\n- El exceso de contexto también degrada el rendimiento: eliminar información introductoria innecesaria subió la exactitud de 50% a 100% en un caso.\n- Cambiar \"lowest\" por \"least\" produjo un salto a 100% de aciertos, revelando la sensibilidad del modelo a matices léxicos.\n- Las respuestas fueron consistentes con independencia de repetir el prompt en la misma ventana de contexto o en ventanas separadas: la calidad depende más de la formulación del prompt que del contexto acumulado.\n- ChatGPT-4.0 alcanzó 93% (28/30) frente al 65% de ChatGPT-3.5, aunque ambos fallaron en el fotón de menor energía del átomo de hidrógeno de Bohr y en el orden de series isoelectrónicas.\n\n## Limitaciones\n\n- Estudio de caso de un solo curso (química general I) con 30 preguntas; muestra limitada para generalizar.\n- Los autores señalan que diez exámenes son insuficientes para una prueba t pareada que determine qué modo de presentación es superior.\n- Resultados atados a versiones específicas y fechadas de ChatGPT (3.5 y 4.0, finales de 2023), de validez temporal limitada dada la rápida evolución de los modelos.\n- Persisten fallos no resueltos por prompting en cálculos con cifras significativas y en algunos conceptos (transiciones electrónicas, series isoelectrónicas).\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/educacion-superior]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/STEM]]"
     },
     {
@@ -4398,6 +4632,36 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nLas micro y nanopartículas de óxido de hierro superparamagnéticas (SPIONs) tienen aplicaciones importantes en ingeniería biomédica y química. Este estudio presenta el desarrollo y evaluación de un dispositivo microfluídico novedoso y de bajo costo para la purificación e hiperconcentración de estas partículas magnéticas, fabricado mediante ablación láser de polimetilmetacrilato (PMMA).\n\nEl dispositivo aprovecha el control preciso de la dinámica de fluidos para separar partículas magnéticas de las no magnéticas. Su desempeño se evaluó mediante simulaciones multifísicas y pruebas empíricas, separando nanopartículas de magnetita de puntos de carbono azules, y micropartículas de magnetita de micropartículas de poliestireno, a distintos caudales totales (TFR). Para nanopartículas alcanzó un recall de hasta 93.3 ± 4 % y una precisión de 95.9 ± 1.2 % a un TFR óptimo de 2 mL/h, superando ampliamente modelos previos (recall del 50 %). Para micropartículas logró una exactitud del 98.1 ± 1 %.\n\nEl modelo lagrangiano capturó eficazmente la dinámica de separación, con buena concordancia entre simulación y experimento, reforzando el valor de la microfluídica accesible para manipular materiales magnéticos.\n\n## Contribuciones principales\n- Dispositivo microfluídico de bajo costo (PMMA, ablación láser) para separar partículas magnéticas.\n- Recall del 93.3 % y precisión del 95.9 % en nanopartículas; exactitud del 98.1 % en micropartículas.\n- Concordancia estrecha entre modelo lagrangiano y resultados experimentales.\n\n## Metodología\nSimulaciones multifísicas (incluido modelo lagrangiano) y validación experimental con magnetita, puntos de carbono y poliestireno a distintos caudales.\n\n## Hallazgos clave\n- Mejora sustancial sobre modelos previos (recall del 50 % → 93.3 %).\n- La separación magnética pasiva es viable y precisa en un chip de bajo costo.\n\n## Limitaciones\n- Validación con tipos de partículas específicos.\n- Throughput acotado por el caudal óptimo.\n\n## Notas relacionadas\n- [[concepts/microfluidica]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/ingenieria-quimica]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]"
     },
     {
+      "id": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "kind": "paper",
+      "label": "Generative artificial intelligence in chemical engineering spans multiple scales",
+      "authors": [
+        "Benjamin Decardi-Nelson",
+        "Abdulelah S. Alshehri",
+        "Fengqi You"
+      ],
+      "year": "2024",
+      "venue": "Frontiers in Chemical Engineering",
+      "url": "https://doi.org/10.3389/fceng.2024.1458156",
+      "doi": "10.3389/fceng.2024.1458156",
+      "keywords": [
+        "inteligencia-artificial",
+        "ingenieria-quimica",
+        "descubrimiento-cientifico",
+        "modelado-molecular",
+        "quimica-computacional",
+        "simulacion-computacional",
+        "agentes-de-ia",
+        "proteinas-recombinantes",
+        "alucinaciones-de-ia",
+        "sostenibilidad"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica.md",
+      "pdf_local": "sources/pdfs/cheme-applications/decardinelson_2024_genai-multiscale-cheme.pdf",
+      "content": "## Resumen\n\nEste artículo de perspectiva (Frontiers in Chemical Engineering, 2024) argumenta que la inteligencia artificial generativa (GenAI), en particular los grandes modelos de lenguaje (LLMs), está impactando la ingeniería química a través de múltiples escalas, desde la mecánica cuántica hasta la optimización macroscópica a nivel de empresa. Los autores sostienen que las representaciones textuales de procesos químicos y biológicos pueden tratarse como lenguajes no estructurados codificados, lo que crea un paralelismo con las tareas de procesamiento de lenguaje natural y permite aplicar GenAI más allá del NLP convencional.\n\nLos autores describen el panorama de modelos GenAI grandes: LLMs, modelos grandes de visión-lenguaje (LVLMs) y modelos grandes de decisión (LDMs), construidos sobre arquitecturas de aprendizaje profundo como redes generativas adversarias (GANs), autoencoders, modelos autorregresivos (Transformers), modelos de difusión y modelos de flujo. Cada arquitectura captura patrones de datos distintos y genera nuevas instancias.\n\nA lo largo de las escalas, presentan ejemplos concretos: a nivel cuántico y molecular, GenAI acelera el descubrimiento de productos novedosos (mejora de dureza de nanomateriales en esmalte dental mediante modelos generativos con regresión de imágenes; generación de catalizadores con energías de enlace optimizadas vía autoencoders variacionales informados por DFT; diseño de proteínas funcionales con el modelo de difusión Chroma). A escalas mayores, GenAI mejora el diseño de procesos y la eficiencia operativa, e integrado en plataformas robóticas autónomas (GPT-Lab) puede transformar la planificación y ejecución de experimentos químicos hacia laboratorios autodirigidos. La GenAI interpretable también enriquece la comprensión científica de fenómenos complejos en fluidos e interfaces.\n\nEl artículo cierra discutiendo retos y oportunidades: la calidad y disponibilidad de datos de dominio (frecuentemente propietarios, escasos o inconsistentes), la interpretabilidad y la tendencia a alucinar de los modelos, y las implicaciones éticas y regulatorias del despliegue de sistemas autónomos. Los autores proponen colaboración internacional, estándares de representación de datos, plataformas abiertas, benchmarks específicos del dominio y la integración con modelado de primeros principios para mejorar la confiabilidad.\n\n## Contribuciones principales\n\n- Marco conceptual que organiza las aplicaciones de GenAI en ingeniería química a lo largo de cinco escalas: cuántica, molecular, unidad de proceso, planta y empresa.\n- Tabla de aplicaciones que asocia disciplinas de ingeniería química (ingeniería biomolecular, análisis ambiental, ingeniería de reacciones, ingeniería de procesos, control de procesos, materia blanda, separaciones, fenómenos de transporte, termodinámica) con técnicas generativas concretas.\n- Identificación de áreas prometedoras: modelos fundacionales adaptables a tareas diversas, sistemas multimodales que integran datos heterogéneos y modelos de lenguaje para extracción de conocimiento.\n\n## Metodología\n\nArtículo de perspectiva (no experimental): revisión y síntesis crítica de la literatura reciente sobre GenAI aplicada a la ingeniería química, ilustrada con ejemplos representativos y una tabla de mapeo disciplina-técnica generativa.\n\n## Hallazgos clave\n\n- GenAI es intrínsecamente multiescala en ingeniería química: una misma familia de técnicas generativas sirve desde el diseño molecular hasta la optimización de cadenas de suministro a nivel empresarial.\n- Los modelos de difusión (p. ej. Chroma) son especialmente efectivos para el diseño de proteínas y estados de transición; las GANs y autoencoders variacionales destacan en materiales, sensores blandos y estructuras cristalinas.\n- La integración de GenAI con plataformas robóticas (GPT-Lab, flujo Analysis-Retrieval-Mining-Feedback-Execution) acerca la autonomía de proceso completo en laboratorios autodirigidos.\n- La integración con modelado de primeros principios mejora interpretabilidad y confiabilidad.\n\n## Limitaciones\n\n- Es un artículo de perspectiva con ejemplos ilustrativos limitados, no una revisión sistemática ni un estudio empírico.\n- Persisten barreras críticas: datos de dominio escasos/propietarios, falta de interpretabilidad y alucinaciones, y ausencia de benchmarks y métricas específicas para aplicaciones críticas de seguridad.\n- Las implicaciones éticas, de privacidad y seguridad del despliegue de sistemas GenAI autónomos quedan sin resolver y requieren marcos regulatorios.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/descubrimiento-cientifico]]\n- [[concepts/modelado-molecular]]\n- [[concepts/quimica-computacional]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/sostenibilidad]]"
+    },
+    {
       "id": "notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria",
       "kind": "paper",
       "label": "A Roles-Based Competency Framework for Integrating Artificial Intelligence (AI) in Engineering Courses",
@@ -4421,6 +4685,36 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria.md",
       "pdf_local": "sources/pdfs/ai-literacy-competency/schleiss_2024_rcaie-roles-competency-framework.pdf",
       "content": "## Resumen\nEste *practice paper* propone un marco para integrar la inteligencia artificial en cursos y currículos disciplinares de ingeniería. El uso de la IA en ingeniería es un área emergente pero en crecimiento, y los conocimientos, habilidades y capacidades (KSAs) asociados son novedosos y dinámicos, lo que dificulta que el profesorado construya un mapa mental de cómo abordar su incorporación.\n\nLos autores avanzan una concepción de competencias **basada en roles** para ayudar al profesorado disciplinar a identificar e implementar competencias de IA dentro de los currículos de ingeniería. El marco se apoya en trabajos previos sobre alfabetización y competencias en IA y en la investigación emergente sobre el uso de la IA en ingeniería. Para ilustrar su uso, se presentan dos casos ejemplares.\n\nEl trabajo discute los retos de implementación y enfatiza la necesidad de un enfoque *embebido*, donde las preocupaciones sobre IA se integren transversalmente a lo largo de múltiples cursos del programa, especialmente para enseñar el desarrollo y uso responsable y ético de la IA.\n\n## Contribuciones principales\n- Marco de competencias de IA basado en roles para currículos de ingeniería.\n- Enfoque embebido: integración transversal de la IA a lo largo del programa.\n- Dos casos ejemplares de aplicación del marco.\n\n## Metodología\nPaper de práctica/conceptual: síntesis de literatura sobre alfabetización y competencias en IA, con ilustración mediante casos.\n\n## Hallazgos clave\n- Una concepción basada en roles facilita al profesorado mapear competencias de IA por implementar.\n- La integración debe ser transversal y abarcar el desarrollo responsable y ético de la IA.\n\n## Limitaciones\n- Marco conceptual ilustrado con casos, sin validación empírica amplia.\n\n## Notas relacionadas\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/educacion-superior]]\n- [[concepts/formacion-docente]]\n- [[concepts/interdisciplinariedad]]\n- [[concepts/etica-de-la-ia]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]"
+    },
+    {
+      "id": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "kind": "paper",
+      "label": "GenAI in the classroom: Customized GPT roleplay for process safety education",
+      "authors": [
+        "Christopher D.F. Honig",
+        "Aditya Desu",
+        "John Franklin"
+      ],
+      "year": "2024",
+      "venue": "Education for Chemical Engineers",
+      "url": "https://doi.org/10.1016/j.ece.2024.09.001",
+      "doi": "10.1016/j.ece.2024.09.001",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-en-ingenieria",
+        "ingenieria-quimica",
+        "tutoria-con-ia",
+        "evaluacion-educativa",
+        "alucinaciones-de-ia",
+        "adopcion-de-tecnologia",
+        "generacion-aumentada-por-recuperacion",
+        "integridad-academica",
+        "personalidad-introversion"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos.md",
+      "pdf_local": "sources/pdfs/cheme-applications/honig_2024_gpt-roleplay-process-safety.pdf",
+      "content": "## Resumen\n\nEl artículo describe e evalúa una innovación pedagógica para la enseñanza de la seguridad de procesos en ingeniería química, implementada en una asignatura de tercer año (\"Safety and Sustainability Case Studies\") de la Universidad de Melbourne. La propuesta combina tres estrategias: (1) integrar la experiencia directa de ingenieros profesionales con larga trayectoria (consultores de industria, frecuentemente al final de su carrera o recién jubilados) para enseñar estudios de caso de incidentes reales de seguridad; (2) reemplazar las presentaciones orales cortas tradicionales por un formato de \"engineering meeting\" tipo viva/defensa, más dinámico y auténtico; y (3) usar IA generativa (GPT) para escalar y complementar (1) y (2), reduciendo costos y mejorando el acceso y la diversidad de estilos de aprendizaje.\n\nLos autores construyeron dos chatbots personalizados —un \"AI-consultant\" que simula al consultor de industria y un \"AI-engineering meeting\" que simula al académico que conduce la viva— mediante llamadas a la API de GPT-4 con Streamlit como interfaz, sin usar los GPTs nativos de OpenAI por falta de flexibilidad. Los prompts de sistema se nutrieron de cuestionarios detallados a los consultores (su estilo de habla, jerga industrial, detalles del incidente, lecciones aprendidas y reflexiones personales), y se incorporaron recursos adicionales mediante generación aumentada por recuperación (RAG).\n\nUn eje conceptual central es el tratamiento de las \"alucinaciones\". Los autores argumentan que enmarcar al GPT como roleplay de un humano (en lugar de como fuente de verdad factual) mitiga el problema, porque elimina las expectativas implícitas de fiabilidad y \"compellability\" que los estudiantes proyectan sobre los recursos del curso. Introducen además el concepto de \"designed fallibility\" (falibilidad diseñada): un chatbot infalible no sería óptimo, porque la cultura de seguridad exige que el ingeniero junior cuestione críticamente incluso a colegas senior; conviene que el bot cometa errores con una frecuencia y arquitectura similares a las de los humanos que emula, para que los estudiantes mantengan el escepticismo. Se añadieron además instrucciones y reglas condicionales para que el bot responda \"no estoy seguro\" o pida aclaraciones ante preguntas fuera de alcance.\n\nLa evaluación, de métodos mixtos (encuesta Likert de 5 puntos y análisis de contenido cualitativo inductivo) sobre 41 respuestas completas de una clase de 70, halla impactos positivos en aprendizaje y compromiso. Los consultores de industria y el formato de viva recibieron fuerte respaldo; la adopción voluntaria de las herramientas de IA fue alta (83 % usó el AI-consultant, 71 % el AI-engineering meeting), con una valoración de utilidad más moderada pero superior a la esperada por los autores, quienes habían concebido la IA solo como solución de escala.\n\n## Contribuciones principales\n\n- Diseño replicable de una actividad de aula que combina consultores de industria, evaluación tipo viva (\"engineering meeting\") y chatbots GPT personalizados que hacen roleplay de esos roles, con recursos de apoyo para otros docentes.\n- Reformulación del problema de las alucinaciones: enmarcar el GPT como roleplay humano (no como fuente factual) para neutralizar las expectativas de fiabilidad y \"compellability\".\n- Concepto de \"designed fallibility\": en educación en seguridad, un chatbot que erre como un humano es preferible a uno infalible, porque preserva el escepticismo crítico exigido por la cultura de seguridad.\n- Evidencia empírica (métodos mixtos) de alta adopción voluntaria y percepción positiva de las herramientas, incluyendo un hallazgo inesperado sobre estudiantes introvertidos.\n\n## Metodología\n\nEstudio evaluativo de métodos mixtos en una sola asignatura (caso de estudio educativo). Instrumento de encuesta validado (templates Likert de estudios previos en dominio público más enunciados a medida, con revisión por colegas y pilotaje). Componente cuantitativo: escala Likert de 5 puntos reportada como promedios y porcentajes de acuerdo/desacuerdo. Componente cualitativo: análisis de contenido inductivo (convenciones de Krippendorff) con biblioteca de 33 códigos agrupados en temas, codificado en Excel; se verificó fiabilidad intra-codificador recodificando a los 4 meses (alta reproducibilidad). Tasa de respuesta del 59 % (41/70 completas). Datos anonimizados; uso verificado además por IPs únicas en Streamlit (78 usuarios únicos).\n\n## Hallazgos clave\n\n- Fuerte respuesta positiva a los consultores de industria (Q4.1.1: promedio 4.3, 80 % de acuerdo); fue el tema más mencionado como más beneficioso para el aprendizaje (37 %).\n- Al comparar tiempo con consultores frente a tiempo con docentes, el apoyo se modera (49 % de acuerdo, 39 % sin preferencia): los estudiantes valoran roles complementarios de académicos e industria casi por igual.\n- El \"engineering meeting\" (viva) recibió fuerte afirmación (Q4.2.1: 4.5, 90 % de acuerdo) y se considera más práctico que otras evaluaciones; además es más resistente al ghost-writing con GPT que reportes y presentaciones.\n- Adopción voluntaria alta de la IA (83 % AI-consultant; 71 % AI-engineering meeting). Utilidad percibida positiva pero más moderada (Q4.3.1: 3.8, 58-59 % de acuerdo).\n- Hallazgo inesperado: 29 % de estudiantes se sintió más cómodo preguntando al AI-consultant que a un consultor real (asociado tentativamente a introversión y al temor de \"perder la cara\" en grupo).\n- \"Performance expectancy\" (expectativa de fiabilidad) fue la principal barrera de adopción; usos de la IA: investigar/verificar información, claridad de explicaciones, superar barreras de idioma y rapidez de respuesta.\n\n## Limitaciones\n\n- Muestra pequeña (clase de 70, 41 respuestas), lo que reduce la precisión de los hallazgos.\n- Las encuestas miden la percepción de aprendizaje del estudiante como proxy del aprendizaje real, no el aprendizaje en sí; los estudiantes tienden a sobreestimar su competencia.\n- El primer autor era el coordinador de la asignatura, lo que pudo influir en las percepciones reportadas.\n- Las tres innovaciones (consultores, viva, IA) son difíciles de desacoplar para aislar el efecto de la IA.\n- No se realizó codificación por un segundo evaluador (sin fiabilidad inter-codificador / Krippendorff's Alpha).\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/generacion-aumentada-por-recuperacion]]\n- [[concepts/integridad-academica]]\n- [[concepts/personalidad-introversion]]"
     },
     {
       "id": "notes/papers/2024-09-25_peptidos-interfaciales-in-silico",
@@ -4833,6 +5127,38 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nCapítulo 9 del libro *Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development* (Elsevier, 2025). Los péptidos son componentes versátiles del ámbito farmacéutico, con utilidades que van desde ingredientes activos hasta apoyo al descubrimiento y la entrega de fármacos, gracias a su penetración tisular, sus interacciones de alta afinidad con receptores y sus propiedades antimicrobianas. Los péptidos antimicrobianos (AMPs) son una clase prometedora de agentes terapéuticos eficaces contra bacterias, hongos y virus.\n\nEl capítulo aborda las bibliotecas de péptidos —colecciones de secuencias cortas de aminoácidos— como herramientas indispensables en el descubrimiento de fármacos, la ingeniería de proteínas y la investigación básica. Revisa las aproximaciones clásicas y emergentes para el cribado (screening) de estas bibliotecas, incluyendo métodos experimentales de alto rendimiento, tecnologías de display y enfoques in silico/computacionales, comparando sus fortalezas y limitaciones.\n\n## Contribuciones principales\n- Revisión de métodos clásicos y emergentes para el cribado de bibliotecas de AMPs.\n- Comparación de enfoques experimentales (alto rendimiento, display) e in silico.\n- Marco para seleccionar la estrategia de cribado según el objetivo de descubrimiento.\n\n## Metodología\nCapítulo de revisión sobre tecnologías de generación y cribado de bibliotecas de péptidos.\n\n## Hallazgos clave\n- Las bibliotecas de péptidos son centrales para el descubrimiento y la ingeniería de AMPs.\n- Los enfoques emergentes (in silico, ML) complementan el cribado experimental tradicional.\n\n## Limitaciones\n- Compromisos entre cobertura, costo y validez de cada método de cribado.\n\n## Notas relacionadas\n- [[concepts/peptidos-bioactivos]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/bioquimica-computacional]]\n- [[concepts/biologia-molecular]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]"
     },
     {
+      "id": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
+      "kind": "paper",
+      "label": "ChatGMP: A case of AI chatbots in chemical engineering education towards the automation of repetitive tasks",
+      "authors": [
+        "Fiammetta Caccavale",
+        "Carina L. Gargalo",
+        "Julian Kager",
+        "Steen Larsen",
+        "Krist V. Gernaey",
+        "Ulrich Krühne"
+      ],
+      "year": "2025",
+      "venue": "Computers and Education: Artificial Intelligence",
+      "url": "https://doi.org/10.1016/j.caeai.2024.100354",
+      "doi": "10.1016/j.caeai.2024.100354",
+      "keywords": [
+        "inteligencia-artificial",
+        "tutoria-con-ia",
+        "educacion-en-ingenieria",
+        "educacion-superior",
+        "ingenieria-quimica",
+        "alucinaciones-de-ia",
+        "generacion-aumentada-por-recuperacion",
+        "aprendizaje-activo",
+        "supervision-humana"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp.md",
+      "pdf_local": "sources/pdfs/cheme-applications/caccavale_2025_chatgmp-interview-gmp.pdf",
+      "content": "## Resumen\n\nEl trabajo presenta ChatGMP, un chatbot basado en un Large Language Model (LLM) preentrenado, integrado al currículo de un curso de maestría sobre Buenas Prácticas de Manufactura (GMP) en la Technical University of Denmark (DTU). El curso incluye un ejercicio de auditoría en el que los estudiantes, en el rol de auditores, interrogan a una empresa farmacéutica ficticia (\"Pharma A/S\") representada tradicionalmente por los profesores. Los estudiantes deben formular preguntas razonadas para obtener la documentación necesaria y redactar un informe que determine si la empresa cumple las regulaciones. Dado que la auditoría exige que tres profesores realicen entre 7 y 8 entrevistas presenciales cada uno (tarea repetitiva y agotadora que limita el cupo del curso), ChatGMP busca automatizar este proceso.\n\nEl sistema reemplaza al profesor como auditado: los estudiantes escriben preguntas y el chatbot responde de forma coherente y muestra documentos relevantes mediante ventanas emergentes. Técnicamente, ChatGMP se construyó a partir de 35 auditorías grabadas en video (semestres de 2022 y 2023), de las que se extrajo audio (MoviePy), se realizó diarización de hablantes (pyannote 3.1), transcripción (Whisper de OpenAI) y curaduría manual para generar un dataset de pares pregunta-respuesta en formato JSON, anonimizado conforme al GDPR. El modelo final fue FLAN-T5 base (elegido frente a T5 y LLaMA 2 por su equilibrio entre desempeño y tiempo de ejecución en una sola GPU local). Mediante prompt engineering e in-context learning con búsqueda semántica por similitud coseno, se recupera la respuesta histórica más parecida y se inyecta como contexto, reduciendo las alucinaciones sin necesidad de fine-tuning.\n\nPara evaluar la iniciativa se comparó el desempeño de ChatGMP con el de los profesores físicos mediante métricas de calidad (BLEU y similitud coseno) y encuestas a estudiantes y profesores. En la edición 2024 del curso, 3 de 21 grupos se ofrecieron voluntariamente a auditar con el chatbot. Las pruebas estadísticas (Mann-Whitney U para RQ1-RQ3 y Chi-cuadrado para RQ4) no encontraron diferencias significativas (p > 0.05) entre los grupos que auditaron con profesor y con ChatGMP, lo que sugiere que ambos accedieron a la misma información y lograron aprendizajes similares.\n\nLos estudiantes que usaron ChatGMP se mostraron satisfechos y recomendarían la herramienta a futuros estudiantes, aunque señalaron limitaciones: tiempo de respuesta lento, interfaz básica, necesidad de formular preguntas muy precisas, respuestas a veces repetidas o incorrectas, y la imposibilidad de comunicación por voz. El experimento se plantea como una primera prueba positiva que abre la discusión sobre cómo usar LLMs en educación sin pretender eliminar al profesor.\n\n## Contribuciones principales\n- Presenta ChatGMP, un chatbot de dominio específico que sustituye al profesor en un ejercicio de auditoría GMP en un curso real de maestría.\n- Documenta una pipeline reproducible de construcción de dataset a partir de grabaciones de audio (diarización, speech-to-text, curaduría) anonimizada según GDPR.\n- Demuestra empíricamente, mediante pruebas estadísticas, que no hay diferencia significativa entre la experiencia de aprendizaje con el chatbot y con los profesores.\n- Aporta una discusión balanceada sobre oportunidades (reducir carga docente, ampliar cupo, gamificar) y limitaciones de los LLMs en educación.\n\n## Metodología\nCaso de estudio con experimento de campo en un curso de GMP con ~120 estudiantes. Construcción de un dataset de pares pregunta-respuesta desde 35 auditorías grabadas (MoviePy para audio, diarización con pyannote 3.1, transcripción con Whisper, curaduría manual). Modelo FLAN-T5 base preentrenado, con prompt engineering basado en recuperación de contexto por similitud coseno (in-context learning, inferencia zero-shot), desplegado localmente con Flask y front-end en HTML sobre una GPU NVIDIA RTX 2060. Evaluación cuantitativa con BLEU y similitud coseno; evaluación de percepción con encuestas a 3 grupos de estudiantes voluntarios y a los 3 profesores; análisis estadístico con prueba de Mann-Whitney U (RQ1-RQ3) y Chi-cuadrado (RQ4).\n\n## Hallazgos clave\n- No hubo diferencia estadísticamente significativa (p > 0.05) entre los grupos auditados por profesor y por ChatGMP en satisfacción, calidad de respuestas y recomendación.\n- FLAN-T5 base obtuvo similitud coseno alta (0.68) con menor runtime (19.0 s) frente a LLaMA 2 (0.72 coseno, 38.9 s); BLEU bajo (0.39) atribuido a sinónimos y exclusión de redundancia.\n- Los estudiantes accedieron a la misma información y documentos que el grupo control, alcanzando objetivos de aprendizaje equivalentes.\n- La percepción de los estudiantes mejoró semanas después de la experiencia respecto a la encuesta inmediata.\n- La recuperación de contexto por búsqueda semántica redujo las alucinaciones y evitó el fine-tuning, ahorrando recursos computacionales.\n\n## Limitaciones\n- Muestra muy pequeña de grupos voluntarios (3 de 21) y subset reducido de preguntas (N=10) para métricas.\n- El chatbot exige preguntas muy precisas; problemas con sinónimos no programados y respuestas repetidas o contradictorias con el alcance documental.\n- Tiempo de respuesta lento (~30 s) e interfaz básica; solo comunicación escrita (sin voz), percibida como artificial y estresante por algunos estudiantes.\n- Participación voluntaria y posible solapamiento entre las dos encuestas concernientes a ChatGMP, lo que limita la comparabilidad.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/educacion-superior]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/generacion-aumentada-por-recuperacion]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/supervision-humana]]"
+    },
+    {
       "id": "notes/papers/2025-01-01_chatgpt-error-rates-mlr",
       "kind": "paper",
       "label": "Why you shouldn't fully trust ChatGPT: A synthesis of this AI tool's error rates across disciplines and the software engineering lifecycle",
@@ -5145,6 +5471,36 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-02-02_redesigning-assessments-gen-ai.md",
       "pdf_local": "sources/pdfs/assessment-redesign/khlaif_2025_redesigning-assessments-framework.pdf",
       "content": "## Resumen\n\nEl estudio examina las motivaciones de profesores universitarios para rediseñar las evaluaciones de sus cursos ante la irrupción de la inteligencia artificial generativa (Gen AI) y propone un marco conceptual para guiar ese rediseño. La investigación se sitúa en un contexto poco estudiado —universidades palestinas, con restricciones económicas y políticas— y busca llenar el vacío de literatura sobre cómo la Gen AI puede transformar la naturaleza misma de la evaluación, más allá de automatizar la calificación o dar retroalimentación instantánea.\n\nMediante una metodología cualitativa (entrevistas semiestructuradas, grupos focales y análisis documental de evaluaciones rediseñadas), 61 docentes de ciencias médicas, humanidades, ingeniería, ciencias sociales, naturales y negocios participaron a partir de una serie de talleres formativos. El análisis temático (deductivo e inductivo) identificó cinco motivaciones principales para rediseñar las evaluaciones: preparar a los estudiantes para el trabajo futuro, la adaptación tecnológica, mantener la integridad académica, la política institucional y las consideraciones éticas.\n\nEl estudio también identificó cinco desafíos centrales: mantener la integridad académica, las demandas de tiempo y recursos, las preocupaciones de equidad y accesibilidad, la resistencia al cambio y la falta de directrices y formación claras. A partir de estos hallazgos, los autores desarrollaron el marco conceptual \"Against, Avoid, Adopt, and Explore\" (AAAE), que clasifica los tipos de evaluación según el grado de integración de la Gen AI permitido, desde su prohibición total hasta su uso como socio creativo del aprendizaje.\n\nEl concepto articulador es el de \"evaluación resistente a la IA\" (AI-resistant assessment): tareas que minimizan la dependencia de herramientas Gen AI y enfatizan habilidades que la IA no puede replicar, como el pensamiento crítico, la creatividad y la toma de decisiones éticas, ancladas teóricamente en el constructivismo social de Vygotsky.\n\n## Contribuciones principales\n\n- Propone el marco conceptual AAAE (Against, Avoid, Adopt, Explore) para clasificar y rediseñar evaluaciones según el nivel de integración de la Gen AI.\n- Aporta evidencia empírica desde un contexto del Sur Global (Palestina), poco representado en el discurso sobre IA en educación.\n- Sistematiza cinco motivaciones y cinco desafíos del profesorado al rediseñar evaluaciones en la era de la Gen AI.\n- Define operativamente la \"evaluación resistente a la IA\" y la fundamenta en el constructivismo social.\n\n## Metodología\n\nEstudio cualitativo con tres componentes: 25 entrevistas semiestructuradas (30-45 min), cuatro grupos focales (9 participantes cada uno, 36 en total) y análisis documental de evaluaciones rediseñadas. Total: 61 docentes seleccionados por muestreo intencional desde un grupo de 155 que asistieron a talleres formativos. Las entrevistas y grupos focales se realizaron en árabe con traducción inversa y equivalencia conceptual. Análisis temático inductivo según el procedimiento de seis pasos de Braun y Clarke (2006), codificado en NVivo. Fiabilidad interevaluadores del 89%; estrategia de triangulación entre las tres fuentes de datos.\n\n## Hallazgos clave\n\n- Cinco motivaciones para rediseñar evaluaciones: preparación para el trabajo futuro, adaptación tecnológica, integridad académica, política institucional y consideraciones éticas.\n- Cinco desafíos: mantener la integridad académica, demandas de tiempo y recursos, equidad y accesibilidad, resistencia al cambio, y falta de directrices y formación.\n- El marco AAAE define cuatro principios: Against (sin uso de Gen AI, evalúa habilidades de orden inferior mediante exámenes orales/escritos), Avoid (evaluaciones donde la Gen AI tiene dificultades: portafolios, reflexiones, evaluación basada en desempeño), Adopt (integración de Gen AI para refinar ideas o productos) y Explore (Gen AI como socio en resolución de problemas, co-diseño y creatividad).\n- Emergieron nuevos enfoques de evaluación: producto-proceso, basada en competencias y evaluación auténtica con aplicaciones del mundo real.\n- La brecha de acceso a herramientas de IA e infraestructura digital es una amenaza directa a la equidad de las evaluaciones rediseñadas.\n\n## Limitaciones\n\n- El marco AAAE es conceptual y requiere validación empírica futura.\n- Muestra acotada a un contexto específico (universidades palestinas, docentes adoptantes tempranos), lo que limita la generalización.\n- Datos basados en autorreporte de profesores mediante muestreo intencional.\n- No examina el impacto de los rediseños en los resultados de aprendizaje de los estudiantes.\n\n## Notas relacionadas\n\n- [[concepts/evaluacion-educativa]]\n- [[concepts/integridad-academica]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/formacion-docente]]\n- [[concepts/equidad-educativa]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/supervision-humana]]\n</content>\n</invoke>"
+    },
+    {
+      "id": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "kind": "paper",
+      "label": "Generative AI in engineering education: understanding acceptance and use of new GPT teaching tools within a UTAUT framework",
+      "authors": [
+        "Christopher Honig",
+        "Shannon Rios",
+        "Aditya Desu"
+      ],
+      "year": "2025",
+      "venue": "Australasian Journal of Engineering Education",
+      "url": "https://doi.org/10.1080/22054952.2025.2467500",
+      "doi": "10.1080/22054952.2025.2467500",
+      "keywords": [
+        "educacion-en-ingenieria",
+        "inteligencia-artificial",
+        "adopcion-de-tecnologia",
+        "ingenieria-quimica",
+        "alfabetizacion-en-ia",
+        "alucinaciones-de-ia",
+        "tutoria-con-ia",
+        "evaluacion-educativa",
+        "personalizacion-del-aprendizaje",
+        "pensamiento-critico"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria.md",
+      "pdf_local": "sources/pdfs/cheme-applications/honig_2025_utaut-gpt-teaching-tools.pdf",
+      "content": "## Resumen\n\nEl estudio examina la adopción de herramientas de enseñanza basadas en IA generativa (genAI) en un curso de pregrado de tercer año de ingeniería química (\"Safety and Sustainability Case Studies\") en la Universidad de Melbourne. Los autores implementaron dos chatbots personalizados basados en GPT (inicialmente GPT-3.5 turbo, luego GPT-4): el primero simula a un consultor de la industria al que los estudiantes pueden entrevistar en el contexto de un incidente histórico de seguridad de procesos; el segundo simula a un académico que conduce un viva/defensa oral para evaluar la comprensión del caso. Ambas actividades eran voluntarias y no contaban para la calificación.\n\nEl análisis se enmarca en la Teoría Unificada de Aceptación y Uso de la Tecnología (UTAUT), que explica la aceptación tecnológica mediante cuatro constructos: Expectativa de Desempeño, Expectativa de Esfuerzo, Influencia Social y Condiciones Facilitadoras. Mediante un enfoque exploratorio de métodos mixtos (encuestas a estudiantes con escala Likert de 5 puntos más preguntas abiertas analizadas temáticamente, n=41 respuestas, tasa efectiva del 59%) y el registro de uso real del software (78 usuarios únicos por IP en una clase de 70), se documentó una alta adopción voluntaria de las herramientas (83% para el consultor IA, 71% para el viva IA).\n\nEl hallazgo central es que la Expectativa de Desempeño es el factor más significativo, actuando simultáneamente como principal barrera y como principal facilitador de la adopción. Las preocupaciones sobre la precisión, las alucinaciones, la confiabilidad y el alcance de las herramientas dominaron las razones para no usarlas. La Influencia Social no apareció en absoluto en las respuestas cualitativas, y la Expectativa de Esfuerzo y las Condiciones Facilitadoras tuvieron una influencia menor.\n\nUn resultado inesperado fue que un subconjunto de estudiantes prefirió interactuar con los chatbots de IA antes que con consultores o académicos humanos. Los autores interpretan esto como una oportunidad desatendida de la IA para abordar la ansiedad social como barrera de aprendizaje, ofreciendo formas de acceso alternativas y de bajo riesgo para estudiantes con necesidades diversas. Un rasgo de diseño deliberado de las herramientas es que el chatbot NO se presenta como una fuente de \"verdad infalible\", sino como un consultor humano falible: se le instruye a responder \"no lo sé\" o \"eso está fuera del alcance\" para suprimir alucinaciones y para cultivar la alfabetización en IA y la evaluación crítica de los estudiantes.\n\n## Contribuciones principales\n\n- Aplica empíricamente el marco UTAUT (raramente usado en investigación directa) a herramientas de enseñanza GPT personalizadas en educación terciaria, no solo a ChatGPT genérico.\n- Documenta alta adopción voluntaria de chatbots GPT de rol (consultor de industria y viva simulado) en un curso de seguridad de ingeniería química.\n- Identifica la Expectativa de Desempeño como barrera y facilitador dominante, con la confiabilidad/alucinaciones como principal freno.\n- Revela una preferencia de un subgrupo de estudiantes por la IA sobre la interacción humana, señalando su potencial para mitigar la ansiedad social en el aprendizaje.\n- Propone un diseño pedagógico de IA \"falible\" (roleplay de consultor no infalible) que reduce el impacto de las alucinaciones y desarrolla la alfabetización en IA.\n\n## Metodología\n\nEstudio exploratorio de métodos mixtos en un único curso. Instrumento de encuesta validado a partir de encuestas UTAUT previas y preguntas nuevas a medida (Likert de 5 puntos: 25 preguntas, 12 relevantes a la pregunta de investigación; más 2 preguntas abiertas). El componente cualitativo se sometió a análisis temático (33 códigos, 14 temas) mapeado a los cuatro constructos UTAUT y clasificado por sentimiento positivo/negativo. Los datos cuantitativos se reportaron como porcentaje de acuerdo/desacuerdo en lugar de medias y desviaciones (los autores justifican que las puntuaciones Likert no son lineales ni necesariamente normales). El uso autorreportado se validó cruzándolo con direcciones IP únicas registradas. n=41 respuestas completas de una clase de 70.\n\n## Hallazgos clave\n\n- Alta adopción voluntaria: ~86% del cohorte usó las herramientas pese a no tener valor en la calificación; 78 usuarios únicos por IP en una clase de 70.\n- Expectativa de Desempeño fue el constructo más prominente (n=89 comentarios), tanto como barrera (n=43: \"AI lacking\", \"AI wrong\", \"AI mistrust\", \"untransferable\") como facilitador (n=46: prepara, da claridad, construye comprensión).\n- Las respuestas Likert fueron consistentemente más positivas que las respuestas escritas, sugiriendo posible sesgo o desconexión entre evaluación y experiencia real.\n- 97.5% de estudiantes afirmó comprender bien las limitaciones de ChatGPT, lo que puede reflejar sobreconfianza frente a los hallazgos cualitativos.\n- Influencia Social ausente en el análisis cualitativo; los estudiantes percibieron más apoyo de sus pares que de las instituciones para usar genAI.\n- Un subgrupo de estudiantes prefiere la IA a la interacción humana, sin que esto implique aversión total al contacto presencial.\n\n## Limitaciones\n\n- Tamaño de cohorte pequeño (clase de 70, n=41) y baja potencia estadística; mayor error estándar y posible inflación de p-valores.\n- La naturaleza voluntaria y la novedad de la tecnología introducen sesgo de autoselección.\n- El análisis temático es más subjetivo y menos teóricamente guiado que otros métodos; no permite indagar el porqué de las opiniones.\n- No se capturaron factores moderadores (rendimiento académico previo, experiencia tecnológica, demografía) que podrían mediar las percepciones.\n- Hallazgos limitados a un solo curso y contexto institucional, restringiendo la generalización.\n\n## Notas relacionadas\n\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/pensamiento-critico]]"
     },
     {
       "id": "notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas",
@@ -5731,6 +6087,36 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEsta revisión (perspective) sintetiza el estado del arte de la inteligencia artificial generativa (generative AI) aplicada a la investigación en catálisis, un campo que sustenta más del 90% de los productos de la industria química. Los autores argumentan que, a diferencia de la IA discriminativa tradicional —basada en reglas y dependiente de grandes volúmenes de datos etiquetados—, la IA generativa aprende las distribuciones de datos existentes para producir muestras nuevas (moléculas, superficies, estructuras, espectros), lo que la hace especialmente adecuada para un dominio caracterizado por un vasto espacio de exploración, tipos de datos diversos y relaciones de mapeo complejas.\n\nEl trabajo introduce las cuatro familias de modelos generativos relevantes: redes generativas antagónicas (GAN), modelos de difusión (DM), autoencoders variacionales (VAE) y grandes modelos de lenguaje (LLM) basados en la arquitectura Transformer. Para cada uno se describe su mecanismo de funcionamiento y sus compromisos (por ejemplo, las GAN producen alta fidelidad pero baja diversidad; los VAE generan muestras diversas pero de menor calidad; los DM son estables pero lentos; los LLM son potentes pero propensos a la alucinación).\n\nA continuación se presentan casos de aplicación organizados en tres ejes: (1) diseño y optimización de catalizadores, donde esquemas como DFT-GAN, VAE para complejos metálicos, OM-Diff y MAGECS aceleran el diseño inverso de catalizadores con propiedades objetivo; (2) mejora de técnicas de caracterización, donde modelos como DCGAN, ESRGAN, U-net GAN y Cycle-GAN reconstruyen estructuras 3D, mejoran la relación señal-ruido en microscopía STEM y correlacionan espectros con estructuras; y (3) nuevos paradigmas de investigación impulsados por LLM (CatBERTa, CatGPT, CMDL), incluyendo minería de literatura, predicción de energías de adsorción y agentes autónomos que diseñan, planifican y ejecutan experimentos.\n\nFinalmente, los autores discuten los retos prácticos —establecer conjuntos de datos de alta calidad, desarrollar modelos generativos avanzados y multimodales, integrar múltiples métodos de investigación y mitigar las alucinaciones de los LLM— y delinean perspectivas futuras como el descubrimiento de nuevas rutas catalíticas, la generación multimodal y la automatización experimental con robots de laboratorio guiados por IA.\n\n## Contribuciones principales\n- Marco organizador que clasifica las aplicaciones de IA generativa en catálisis en tres dominios: diseño/optimización de catalizadores, mejora de caracterización y nuevos paradigmas de investigación.\n- Síntesis comparativa de las cuatro arquitecturas generativas (GAN, DM, VAE, LLM) con sus mecanismos y compromisos para el contexto catalítico.\n- Compendio de casos de estudio concretos (DFT-GAN, MAGECS, GLIDER, OM-Diff, CatGPT, etc.) que demuestran eficiencia y aplicabilidad general.\n- Identificación de retos prácticos y de una agenda prospectiva para la integración de IA generativa en la investigación catalítica.\n\n## Metodología\nRevisión narrativa tipo \"perspective\" que recopila y organiza literatura reciente sobre IA generativa en catálisis. No realiza experimentos propios; sintetiza esquemas computacionales y experimentales de terceros, ilustrando cada categoría con casos representativos y figuras explicativas de los flujos de trabajo (DFT-GAN, MAGECS, Cycle-GAN, CatGPT, agentes autónomos basados en LLM).\n\n## Hallazgos clave\n- La combinación de modelos generativos con DFT o potenciales de redes neuronales universales (UNNP) permite el diseño dirigido de superficies de aleación con frecuencias de recambio (TOF) hasta diez veces mayores que el conjunto original (caso Rh-Ru para síntesis de amoníaco).\n- El diseño inverso con VAE y modelos de difusión (OM-Diff) genera miles de catalizadores válidos y novedosos condicionados a propiedades objetivo (p. ej., energía de adición oxidativa para acoplamientos de Suzuki), con bajos errores frente a cálculos DFT.\n- MAGECS generó 250000 superficies de aleación plausibles; cinco fueron sintetizadas y dos mostraron alta actividad y selectividad en la reducción de CO2.\n- Los GAN aplicados a microscopía (DCGAN, ESRGAN, Cycle-GAN) reconstruyen estructuras 3D, reducen ruido y cuantifican nanopartículas, abaratando la caracterización.\n- Los LLM (CatBERTa, CatGPT) predicen energías de adsorción desde texto y generan estructuras de catalizadores válidas; ChatGPT puede impulsar agentes autónomos que ejecutan experimentos de múltiples pasos.\n\n## Limitaciones\n- Las alucinaciones de los LLM (falacias lógicas, hechos fabricados, sesgos derivados de los datos) exigen verificación humana de las salidas.\n- La calidad de las muestras generadas depende críticamente de la completitud y calidad del conjunto de entrenamiento; datasets simplificados introducen imprecisión \"de abajo hacia arriba\".\n- Existe un compromiso difícil de equilibrar entre eficiencia y precisión en la generación.\n- La IA generativa depende de la acumulación de datos existentes y de soluciones diseñadas por científicos, por lo que aún no automatiza la investigación sin intervención humana.\n- Al ser un \"perspective\" sin experimentación propia, la evidencia es de carácter sintético y selectivo, no sistemático.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/quimica-computacional]]\n- [[concepts/modelado-molecular]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/descubrimiento-cientifico]]\n- [[concepts/ciencia-de-datos]]"
     },
     {
+      "id": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "kind": "paper",
+      "label": "Generative AI in Chemical Engineering Education: Rebuilding Thermodynamics, Material and Energy Balances and Kinetics Courses with AI and Chemical Engineering Students' Perception of AI",
+      "authors": [
+        "Betul Bilgin",
+        "Christopher V.H.-H. Chen",
+        "Stephanie Butler Velegol"
+      ],
+      "year": "2025",
+      "venue": "ASEE Annual Conference & Exposition",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "educacion-en-ingenieria",
+        "inteligencia-artificial",
+        "ingenieria-quimica",
+        "evaluacion-educativa",
+        "formacion-docente",
+        "integridad-academica",
+        "pensamiento-critico",
+        "alfabetizacion-en-ia",
+        "razonamiento-cuantitativo-llm",
+        "supervision-humana"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica.md",
+      "pdf_local": "sources/pdfs/cheme-applications/bilgin_2025_rebuilding-thermo-meb-kinetics-asee.pdf",
+      "content": "## Resumen\n\nEste estudio explora el rediseño completo de tres cursos fundamentales de ingeniería química —Termodinámica, Balances de Materia y Energía, y Cinética— usando IA generativa (ChatGPT-4o) para generar el syllabus, contenidos del curso, tareas, cuestionarios y casos de estudio. Tres profesores de tres instituciones distintas (University of Illinois Chicago, Columbia University y Penn State) rediseñaron de forma independiente uno de los cursos basándose únicamente en una batería estandarizada de prompts, deliberadamente sin subir libros de texto ni materiales externos, para evaluar la capacidad de la IA de guiar el desarrollo del curso por sí misma.\n\nEn paralelo, se investigaron las percepciones estudiantiles mediante una encuesta de fin de semestre (otoño 2024) aplicada a 78 estudiantes de segundo año (Introducción a Termodinámica) y de último año (Diseño Senior I) en UIC. El instrumento combinó nueve preguntas tipo Likert —adaptadas de las escalas AIAS-4 y GAAIS— con tres preguntas abiertas, capturando el uso actual de herramientas de IA, su fiabilidad percibida y la confianza de los estudiantes al usarlas para resolver problemas de ingeniería.\n\nLas reflexiones docentes indican que la IA es eficaz para acelerar las etapas iniciales del diseño (syllabus, objetivos de aprendizaje, alineación con criterios ABET, ideación de casos), pero produce materiales superficiales, genéricos y a veces conceptualmente erróneos (p. ej., manejo incorrecto de los conceptos de reciclo y acumulación en balances de materia, o de procesos en estado estacionario), lo que exige validación y adaptación experta. Del lado estudiantil, la adopción de IA es muy alta (87% sophomores, 92% seniors), con ChatGPT como herramienta dominante; el escepticismo inicial evolucionó hacia una aceptación estratégica, manteniendo baja confianza en la exactitud de las salidas y alta conciencia de sus limitaciones, especialmente en cálculos matemáticos complejos.\n\n## Contribuciones principales\n\n- Documenta un proceso de rediseño curricular impulsado por IA aplicado simultáneamente a tres cursos núcleo de ingeniería química en tres instituciones, ofreciendo un \"roadmap\" replicable.\n- Aporta una batería estandarizada de prompts (generación de syllabus, mapeo con capítulos del libro, planes de lección, mapeo con resultados ABET, objetivos de aprendizaje, preguntas y casos) para rediseño de cursos.\n- Caracteriza las percepciones de fiabilidad y confianza en IA de estudiantes de ingeniería química, contrastando estudiantes de segundo y último año.\n\n## Metodología\n\nEnfoque de métodos mixtos. (1) Estudios de caso cualitativos: tres docentes rediseñaron un curso cada uno con ChatGPT-4o usando solo los prompts especificados, y entregaron reflexiones de una página. (2) Encuesta cuantitativa-cualitativa: 78 estudiantes respondieron 9 ítems Likert (1–5) y 3 preguntas abiertas. Los datos Likert se analizaron con estadística descriptiva e inferencial (t-tests, p < 0.05) comparando sophomores vs. seniors y subgrupos de género y etnia; las respuestas abiertas se analizaron temáticamente.\n\n## Hallazgos clave\n\n- Adopción de IA muy alta y normalizada: 87.2% (sophomores) y 92.3% (seniors) reportan uso previo de IA con fines académicos; ChatGPT es dominante.\n- Patrones de uso que maduran con el nivel: los sophomores usan IA para comprensión de conceptos, apoyo en programación (VBA/MATLAB) y verificación de tareas; los seniors para redacción técnica, comunicación profesional, síntesis de literatura y problemas de diseño.\n- Diferencias estadísticamente significativas (p < 0.05) entre cohortes en percepción de resolución de problemas (3.76 vs. 2.65) y expectativas de desempeño académico.\n- Baja confianza en la exactitud de las salidas de IA en ambos grupos (≈2.87 vs. 2.65) y alta conciencia de limitaciones (4.36 vs. 4.54).\n- La IA falla en cálculos matemáticos complejos (\"ChatGPT can barely do math\"), llevando a los estudiantes a usarla como apoyo conceptual y de verificación más que como fuente de respuestas numéricas.\n- En el diseño docente, la IA ahorra tiempo en syllabus y casos, pero genera contenido sin profundidad y con errores conceptuales (reciclo, acumulación, estado estacionario), requiriendo supervisión experta.\n- Diferencias sutiles de género sin significancia estadística: las mujeres mostraron mejor evaluación crítica de salidas; los hombres, mayor confianza y confianza en la exactitud.\n\n## Limitaciones\n\n- Encuesta limitada a una sola institución (UIC) y tres cursos, restringiendo la generalización.\n- El desempeño depende de la plataforma específica (se usó la versión gratuita/ChatGPT-4o); modelos premium podrían mejorar resultados.\n- La rápida evolución de la IA puede volver obsoletos algunos hallazgos para el momento de la publicación.\n- Inconsistencias menores en el instrumento reportado (la Tabla 2 lista Q1–Q4 duplicadas como Q6–Q9).\n\n## Notas relacionadas\n\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/formacion-docente]]\n- [[concepts/integridad-academica]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/razonamiento-cuantitativo-llm]]\n- [[concepts/supervision-humana]]"
+    },
+    {
       "id": "notes/papers/2025-07-06_talking-like-pids",
       "kind": "paper",
       "label": "Talking like Piping and Instrumentation Diagrams (P&IDs)",
@@ -6022,6 +6408,75 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl auge de la IA generativa (ChatGPT y modelos similares) ha empujado a las universidades a adoptar herramientas de detección de texto generado por IA —Turnitin AI, GPTZero, Copyleaks, ZeroGPT, CrossPlag, entre otras— como respuesta a las amenazas a la integridad académica. Esta revisión narrativa de literatura sintetiza 24 artículos revisados por pares publicados entre 2021 y 2024, organizados en torno a tres ejes: la implementación institucional de las herramientas en los marcos de integridad académica, su efectividad y limitaciones técnicas, y las implicaciones éticas, procedimentales y pedagógicas que generan para estudiantes y docentes.\n\nEl hallazgo central es que las herramientas de detección, aunque ofrecen una solución escalable, son técnicamente poco confiables: producen falsos positivos y falsos negativos con frecuencia, fallan ante texto parafraseado u ofuscado, no están entrenadas para los modelos más recientes (p. ej. GPT-4) y carecen de transparencia en sus criterios de clasificación. La evidencia es mixta entre estudios: algunos hallan que ciertos detectores (Quillbot ~95%, Turnitin) superan al juicio humano, mientras que otros documentan que la mayoría de las herramientas clasifican de forma errática el texto y el código generados por IA.\n\nUna preocupación transversal es el sesgo lingüístico: los estudiantes no nativos de inglés (ESL/EFL) corren mayor riesgo de falsos positivos porque su sintaxis y estructura se asemejan al texto generado por IA, lo que plantea problemas de equidad, debido proceso y admisibilidad de estas herramientas como evidencia en procesos disciplinarios. A ello se suman inquietudes éticas sobre vigilancia, consentimiento y la erosión de la confianza entre docentes y estudiantes cuando la detección se despliega de forma unilateral.\n\nLos autores documentan además vacíos en las políticas institucionales: pocas universidades han actualizado sus marcos de integridad para contemplar la IA generativa, la aplicación es inconsistente entre docentes y departamentos, y la capacitación del profesorado es limitada. La conclusión normativa es un llamado a abandonar los enfoques punitivos en favor de pedagogías que integren la IA, enfatizando el uso ético, la alfabetización en IA, el rediseño de evaluaciones (borradores, exámenes orales, defensas) y estrategias centradas en el estudiante. Se discuten innovaciones emergentes como el watermarking y los sistemas híbridos de detección, aunque persisten retos de implementación.\n\n## Contribuciones principales\n\n- Síntesis temática de 24 estudios revisados por pares (2021-2024) sobre detección de IA en educación superior, organizada según tres preguntas de investigación (política institucional, desempeño técnico, ética/pedagogía).\n- Sistematización de las limitaciones técnicas de los detectores: falsos positivos/negativos, vulnerabilidad al parafraseo, desfase frente a modelos nuevos y opacidad de criterios.\n- Documentación del sesgo contra escritores no nativos de inglés y sus implicaciones de equidad y debido proceso.\n- Argumento normativo a favor de un giro desde la detección punitiva hacia el rediseño de evaluaciones y la integración pedagógica ética de la IA.\n\n## Metodología\n\nRevisión narrativa de literatura (anclada en paradigmas interpretativistas) sobre publicaciones revisadas por pares accedidas vía ERIC, EBSCOhost y JSTOR. Estrategia de búsqueda booleana documentada (Tabla 1) y criterios explícitos de inclusión/exclusión (Tabla 2). La búsqueda inicial arrojó 128 registros, reducidos a 24 estudios tras depuración y cribado. La calidad de la revisión se evaluó con el instrumento SANRA (Scale for the Assessment of Narrative Review Articles, 6 ítems, 0-2 puntos) y el proceso de selección se documentó con un diagrama de flujo PRISMA-ScR.\n\n## Hallazgos clave\n\n- Los detectores de IA son inconsistentes y producen falsos positivos/negativos; su fiabilidad cae frente a texto parafraseado, ofuscado o generado por modelos recientes (GPT-4).\n- Resultados mixtos entre estudios: algunos reportan alta precisión de herramientas concretas (Quillbot ~95.59%, Turnitin como la más fiable en un estudio cross-country); otros, desempeño deficiente, incluido el caso de código generado por IA.\n- En un estudio sobre ensayos de Oxford, los ensayos de IA (media 60.46) no difirieron significativamente de los humanos (63.57; p = 0.10), aunque carecían de profundidad y contexto cultural.\n- Los detectores de dominio específico (BERT, DistilBERT) alcanzaron precisión casi perfecta en su dominio, pero generalizan mal entre dominios.\n- Sesgo sistemático contra estudiantes ESL/EFL: la sofisticación lingüística se confunde con autoría de IA, elevando el riesgo de falsos positivos y de penalización injusta.\n- Vacíos de política: ausencia de directrices específicas sobre IA, aplicación inconsistente y formación docente limitada generan confusión en estudiantes y profesores.\n- 87% de estudiantes en un estudio mostraron comprensión inadecuada de las consecuencias del mal uso de la IA; se prioriza la alfabetización en IA sobre la sanción.\n\n## Limitaciones\n\n- Diseño de revisión narrativa: no busca cobertura exhaustiva y depende de la interpretación de los autores, con menor reproducibilidad que una revisión sistemática estricta.\n- Restringida a literatura en inglés y a la ventana 2021-2024, lo que excluye fuentes no anglófonas y desarrollos posteriores.\n- La evidencia primaria sintetizada es heterogénea y a menudo basada en escenarios de prueba artificiales más que en contextos de aula reales, con muestras pequeñas en varios estudios.\n- Solo se incluyeron fuentes revisadas por pares (se excluyen preprints, informes y literatura gris).\n\n## Notas relacionadas\n\n- [[concepts/deteccion-de-texto-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/educacion-superior]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/equidad-educativa]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/revision-sistematica-de-literatura]]"
     },
     {
+      "id": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
+      "kind": "paper",
+      "label": "Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review",
+      "authors": [
+        "Rafael Martínez-Peláez",
+        "Luis J. Mena",
+        "Homero Toral-Cruz",
+        "Alberto Ochoa-Brust",
+        "Víctor Flores",
+        "Rodolfo Ostos",
+        "Julio C. Ramírez Pacheco",
+        "Apolinar González Potes",
+        "Ramón A. Félix",
+        "Vanessa G. Félix"
+      ],
+      "year": "2025",
+      "venue": "Systems (MDPI)",
+      "url": "https://doi.org/10.3390/systems13111013",
+      "doi": "10.3390/systems13111013",
+      "keywords": [
+        "inteligencia-artificial",
+        "pensamiento-critico",
+        "educacion-superior",
+        "revision-sistematica-de-literatura",
+        "aprendizaje-activo"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior.md",
+      "pdf_local": "sources/pdfs/cheme-applications/martinez-pelaez_2025_llm-critical-thinking-higher-ed-review.pdf",
+      "content": "## Resumen\nEsta revisión de literatura examina si los grandes modelos de lenguaje (LLMs) pueden fomentar el pensamiento crítico, el trabajo en equipo y las habilidades de resolución de problemas en la educación superior. Ante el rápido desarrollo de la IA en los últimos años, los LLMs han ganado prominencia como herramientas educativas, pero su efecto sobre las competencias de orden superior sigue en debate.\n\nEl trabajo sintetiza la evidencia publicada (desde 2023) sobre el uso de LLMs en contextos universitarios, identificando tanto oportunidades —apoyo a la indagación, andamiaje, retroalimentación— como riesgos para el desarrollo autónomo de estas habilidades (dependencia, descarga cognitiva). Los autores organizan los hallazgos en torno a las tres competencias objetivo y discuten las condiciones bajo las cuales los LLMs apoyan, en lugar de sustituir, el desarrollo del pensamiento crítico y la colaboración.\n\n## Contribuciones principales\n- Síntesis de la literatura sobre LLMs y competencias de orden superior en educación superior.\n- Organización de la evidencia en torno a pensamiento crítico, trabajo en equipo y resolución de problemas.\n- Identificación de condiciones para un uso que potencie (no sustituya) estas habilidades.\n\n## Metodología\nRevisión de literatura de estudios publicados desde 2023 sobre LLMs en educación superior.\n\n## Hallazgos clave\n- Los LLMs pueden apoyar el pensamiento crítico y la colaboración bajo diseños pedagógicos adecuados.\n- Existe riesgo de descarga cognitiva y dependencia si su uso no se estructura.\n\n## Limitaciones\n- Campo incipiente con evidencia heterogénea y de corto plazo.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/educacion-superior]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/aprendizaje-activo]]"
+    },
+    {
+      "id": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "kind": "paper",
+      "label": "Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review",
+      "authors": [
+        "Rafael Martínez-Peláez",
+        "Luis J. Mena",
+        "Homero Toral-Cruz",
+        "Alberto Ochoa-Brust",
+        "Apolinar González Potes",
+        "Víctor Flores",
+        "Rodolfo Ostos",
+        "Julio C. Ramírez Pacheco",
+        "Ramón A. Félix",
+        "Vanessa G. Félix"
+      ],
+      "year": "2025",
+      "venue": "Systems",
+      "url": "https://doi.org/10.3390/systems13111013",
+      "doi": "10.3390/systems13111013",
+      "keywords": [
+        "revision-sistematica-de-literatura",
+        "inteligencia-artificial",
+        "educacion-superior",
+        "pensamiento-critico",
+        "aprendizaje-activo",
+        "retroalimentacion-con-ia",
+        "evaluacion-educativa",
+        "equidad-educativa",
+        "futuro-del-trabajo",
+        "autorregulacion-del-aprendizaje"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision.md",
+      "pdf_local": "sources/pdfs/cheme-applications/martinez-pelaez_2025_llm-critical-thinking-higher.pdf",
+      "content": "## Resumen\n\nEsta revisión sistemática de literatura, conducida bajo el protocolo PRISMA 2020 y registrada en PROSPERO (CRD420251165731), analiza cómo se están adoptando los grandes modelos de lenguaje (LLMs) en la educación superior y en qué medida pueden ayudar a desarrollar pensamiento crítico, trabajo en equipo y resolución de problemas. La búsqueda se realizó en la Web of Science Core Collection para estudios publicados entre 2023 y 2024, partiendo de 203 documentos que, tras eliminar duplicados y aplicar criterios de inclusión y exclusión, se redujeron a 22 artículos incluidos en el análisis final.\n\nEl marco conceptual sitúa el problema en una brecha persistente entre las competencias que desarrollan los sistemas de educación superior y las que demanda el mercado laboral: enseñanza centrada en la memorización, currículos desalineados con la práctica, clases numerosas (típicamente más de 40 estudiantes), retroalimentación tardía o ausente, y evaluaciones que premian el recuerdo factual por encima de la aplicación. Los autores argumentan que los LLMs, como la forma más accesible de IA generativa, podrían mitigar estos problemas estructurales.\n\nLos hallazgos se organizan en torno a cuatro preguntas de investigación (RQ1–RQ4). Los LLMs fomentarían el pensamiento crítico precisamente porque a menudo producen respuestas incompletas o incorrectas, obligando a los estudiantes a cuestionar, verificar y corregir la información, en un ciclo de validación que refuerza el juicio analítico y la independencia mental. Además, simulan escenarios reales que conectan teoría y práctica, ofrecen retroalimentación personalizada y escalable en clases grandes, y permiten reorientar la evaluación hacia tareas auténticas basadas en competencias. Un análisis de co-ocurrencia de palabras clave con VOSviewer identifica tres clústeres temáticos: integración de la IA en entornos educativos, integridad académica y cuestiones centradas en el estudiante, y capacidades técnicas de los LLMs.\n\nLos autores concluyen que los efectos de los LLMs son transversales y de naturaleza sistémica: pueden mejorar la equidad educativa, fortalecer la preparación para el mundo laboral y fomentar la innovación, pero su impacto depende de políticas institucionales, alfabetización en IA, preparación docente y salvaguarda de la integridad académica.\n\n## Contribuciones principales\n\n- Síntesis sistemática (PRISMA 2020, 22 artículos 2023–2024) de la evidencia sobre LLMs en educación superior, organizada en torno a cuatro preguntas: pensamiento crítico/colaboración, brecha teoría-práctica, retroalimentación en clases grandes y diseño de evaluaciones.\n- Identifica un mecanismo pedagógico contraintuitivo: las respuestas imperfectas de los LLMs como disparador del pensamiento crítico mediante ciclos de verificación y corrección.\n- Análisis bibliométrico de distribución geográfica, editoriales, áreas de investigación y co-ocurrencia de keywords (VOSviewer) del corpus revisado.\n- Encuadra a los LLMs como catalizadores de reforma educativa sistémica, no solo como herramientas de instrucción.\n\n## Metodología\n\nRevisión sistemática de literatura siguiendo PRISMA 2020, con registro en PROSPERO. Fuente única: Web of Science Core Collection. Dos cadenas de búsqueda combinando (\"LLM\" / \"Large Language Model\") con \"Higher Education\", restringidas a artículos de revista revisados por pares en inglés publicados entre enero de 2023 y diciembre de 2024. De 203 registros iniciales → 165 sin duplicados → 48 evaluados por elegibilidad mediante cinco criterios (C1–C5: foco en enseñanza-aprendizaje, uso directo de LLMs por estudiantes, campo pedagógico o disciplinar, uso práctico/empírico, evidencia estructurada) → 22 artículos finales. Análisis descriptivo y de co-ocurrencia de keywords con VOSviewer v1.6.19.\n\n## Hallazgos clave\n\n- **RQ1 (pensamiento crítico, colaboración, resolución de problemas):** los LLMs fomentan estas competencias mediante interacción repetida, reflexión y verificación de salidas potencialmente erróneas; actúan como catalizadores de colaboración simulando rúbricas, revisores expertos o pares de distintas disciplinas.\n- **RQ2 (brecha teoría-práctica):** los LLMs simulan escenarios reales, casos clínicos y dilemas éticos, y apoyan ciclos de prueba-depuración en STEM, alineando el currículo con demandas laborales y promoviendo aprendizaje autónomo.\n- **RQ3 (retroalimentación en clases grandes):** ofrecen respuestas instantáneas, personalizadas y disponibles en cualquier momento, reducen la dependencia del docente, refuerzan el aprendizaje autorregulado (autoevaluaciones, metacognición) y disminuyen la carga de trabajo del profesorado.\n- **RQ4 (evaluación):** ayudan a diseñar rúbricas y reactivos variados, desplazando la evaluación del recuerdo factual hacia tareas auténticas basadas en competencias y de orden cognitivo superior.\n- El corpus se concentra en editoriales de acceso abierto (Frontiers, MDPI) y en áreas de Educación y Ciencias de la Computación; EE. UU., Alemania, Australia e Inglaterra lideran la producción.\n\n## Limitaciones\n\n- Búsqueda restringida a una sola base de datos (Web of Science), sin Scopus u otras fuentes.\n- Solo artículos de revista revisados por pares; se excluyeron actas, capítulos y preprints.\n- Los estudios incluidos no abordan a fondo los retos de la adopción (ética, privacidad, sobredependencia).\n- Ventana temporal limitada a 2023–2024, los dos primeros años de la tecnología, lo que limita la madurez de la evidencia empírica.\n- Predominio de evidencia conceptual y descriptiva sobre evidencia empírica robusta de resultados de aprendizaje.\n\n## Notas relacionadas\n\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/equidad-educativa]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/autorregulacion-del-aprendizaje]]"
+    },
+    {
       "id": "notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior",
       "kind": "paper",
       "label": "Institutional Policies on Artificial Intelligence in Higher Education: Frameworks and Best Practices for Faculty",
@@ -6195,6 +6650,36 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl estudio desarrolla y valida la escala FALCON-AI (Faculty Artificial Intelligence Literacy and Competency), un instrumento conciso y listo para usar que mide la alfabetización y competencia en IA de los profesores universitarios a través de sus tres dominios de trabajo: docencia, investigación y servicio/administración. Los autores parten de un vacío en la literatura: los instrumentos existentes de alfabetización en IA se diseñaron para el público general, estudiantes de K-12, profesores de K-12 o estudiantes universitarios, pero ninguno captura las responsabilidades específicas y contextualizadas de los docentes de educación superior ni cuenta con validación psicométrica adecuada para este rol.\n\nEl marco teórico adoptado es el Critical Tech-Resilient Literacies (CTRL), que conceptualiza la alfabetización en IA como tres literacidades interrelacionadas y \"apiladas\": literacidad funcional (entender y usar la IA), literacidad evaluativa (discernir fortalezas, debilidades y sesgos de las herramientas y elegir la adecuada) y literacidad ética (decidir de forma informada si, cuándo y cómo usar la IA). Estas tres literacidades se cruzan con cuatro dominios de trabajo docente (general, docencia, investigación, servicio/administración), generando un marco de 3 × 4 (12 dimensiones) que guía la generación de ítems.\n\nEl proceso de desarrollo fue dirigido por la teoría e incluyó varias etapas: generación de un banco inicial de 43 ítems adaptados y creados a partir de escalas previas; validación de contenido con cuatro expertos humanos en entrevistas estructuradas (Zoom, sin compartir los ítems por anticipado), complementada con un revisor basado en GPT (ChatGPT 5.2 Thinking) como mecanismo de triangulación; pilotaje con 269 respuestas válidas; análisis factorial confirmatorio (CFA) con estimador de máxima verosimilitud robusto (MLR); y reducción de ítems para minimizar la fatiga del respondente.\n\nLa escala final de 23 ítems mostró buen ajuste para el modelo de medición de Alfabetización en IA (CFI = .926, TLI = .918, RMSEA = .064, SRMR = .054) y un ajuste mejorado pero comparativamente más débil para el modelo de Trabajo Docente (CFI = .876, TLI = .860, RMSEA = .084, SRMR = .062). La consistencia interna fue fuerte: subescalas de Alfabetización en IA con α = .83–.91, subescalas de Trabajo Docente con α = .75–.89 y fiabilidad global de α = .95.\n\n## Contribuciones principales\n- Propone un constructo de alfabetización en IA docente como competencia multidimensional, situada en el rol (role-embedded), que integra proficiencia técnica, juicio crítico y responsabilidad ética, distinto de las escalas generales o centradas en el estudiante.\n- Aporta el marco 3 × 4 (tres literacidades CTRL × cuatro dominios de trabajo docente) como estructura conceptual para mapear competencias en IA del profesorado.\n- Entrega un instrumento validado de 23 ítems, listo para usarse a nivel individual (autodiagnóstico, fijar metas de desarrollo profesional) e institucional (detectar brechas, diseñar talleres, evaluar intervenciones pre/post).\n- Demuestra metodológicamente el uso de un revisor basado en GPT como complemento triangulador de la validación de contenido humana.\n\n## Metodología\nEstudio de desarrollo y validación de escala psicométrica. Validación de contenido con índices CVI (clarity y relevance, tratando ratings de 2-3 como aceptables, umbral I-CVI ≥ .70) y CVR de Lawshe para la necesidad (umbral .49 según Ayre & Scally para panel de cinco). Pilotaje en Qualtrics con escala Likert de cinco puntos; muestra de 269 participantes (profesores titulares y de planta, asistentes graduados, posdoctorados y personal universitario), reclutada por conveniencia. Dos modelos CFA independientes (uno de tres factores de literacidad, otro de cuatro factores de trabajo docente) modelados como factores de primer orden correlacionados, estimados con MLR; ajuste evaluado con χ², CFI, TLI, RMSEA y SRMR. Fiabilidad por alfa de Cronbach. Análisis en R 4.5.1.\n\n## Hallazgos clave\n- El modelo de Alfabetización en IA (funcional, evaluativa, ética) alcanzó buen ajuste y las tres dimensiones, aunque distinguibles, están fuertemente correlacionadas (r = .78–.88), apoyando un constructo multidimensional.\n- El modelo de Trabajo Docente (general, docencia, investigación, servicio) tuvo ajuste más débil (CFI/TLI por debajo de .90) y algunas cargas factoriales bajas (hasta .488), señalando indicadores menos robustos en ese eje.\n- Las calificaciones de GPT mostraron alta concordancia con los expertos humanos: IRA de .77–.85 solo entre humanos y .79–.87 al incluir GPT, sin desviación sistemática; cualitativamente GPT identificó ambigüedades, ítems compuestos y desalineaciones literacidad-ítem similares a las de los humanos.\n- Fiabilidad global alta (α = .95), en parte porque los dos constructos comparten los mismos ítems.\n\n## Limitaciones\n- Muestra reclutada por conveniencia (redes sociales, listas, contactos profesionales), con posible sesgo de autoselección hacia participantes más interesados o expuestos a la IA; restricción de rango y generalizabilidad limitadas.\n- Basada en autorreporte tipo Likert: mide alfabetización y competencia percibidas, no desempeño observado; susceptible a deseabilidad social y sobreestimación.\n- El modelo de Trabajo Docente mostró ajuste comparativamente débil y cargas bajas en algunos ítems; requiere muestras mayores y más diversas.\n- La rápida evolución de la IA implica que ciertos ítems operativos podrán quedar obsoletos; los autores conciben FALCON-AI como un \"instrumento vivo\" a revisar periódicamente.\n\n## Notas relacionadas\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/educacion-superior]]\n- [[concepts/formacion-docente]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/supervision-humana]]\n- [[concepts/inteligencia-artificial]]"
     },
     {
+      "id": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "kind": "paper",
+      "label": "Using Generative Artificial Intelligence to Support Undergraduate Learning in Computing in Chemical Engineering Course",
+      "authors": [
+        "Sihe Zhang",
+        "Torsten Maier",
+        "Susan Farhat"
+      ],
+      "year": "2026",
+      "venue": "ASEE Annual Conference & Exposition",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-en-ingenieria",
+        "educacion-en-programacion",
+        "ingenieria-quimica",
+        "autorregulacion-del-aprendizaje",
+        "pensamiento-critico",
+        "retroalimentacion-con-ia",
+        "integridad-academica",
+        "alfabetizacion-en-ia",
+        "aprendizaje-activo"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica.md",
+      "pdf_local": "sources/pdfs/cheme-applications/zhang_2026_genai-computing-course.pdf",
+      "content": "## Resumen\n\nEl trabajo describe la integración intencional de IA generativa (GenAI) como facilitadora del aprendizaje —no como proveedora de soluciones— en un curso obligatorio de computación de nivel sophomore (200) en ingeniería química en Kettering University. El curso se centra en herramientas computacionales y de simulación como Excel con VBA, MATLAB y AspenPlus, y aborda dificultades habituales de los estudiantes de primeros años: traducir enunciados y modelos físicos a algoritmos, conectar fórmulas con soluciones, depurar errores de sintaxis y lógica, y gestionar la frustración ante la falta de retroalimentación inmediata.\n\nLos autores diseñaron una serie de actividades de aprendizaje sobre programación en VBA y MATLAB para resolver problemas de ingeniería química, con usos deliberados de GenAI orientados a reforzar conceptos, aumentar la confianza, promover el aprendizaje activo y el pensamiento crítico reflexivo. GenAI se empleó para dar retroalimentación instantánea sobre código, generar plantillas de cálculo y asistir en el desarrollo de algoritmos. Cada actividad se acompañó de prompts de reflexión estructurada que guían al estudiante a examinar críticamente el papel de la IA, reconocer sus limitaciones, proponer mejoras y desarrollar hábitos de uso responsable.\n\nEl uso de GenAI se rigió por cuatro principios: (1) la IA es facilitadora, no solucionadora; (2) el estudiante debe evaluar los resultados generados; (3) debe declarar de forma transparente el uso de IA; y (4) es responsable de la corrección de la solución. La observación del desempeño de los estudiantes sugiere que infundir GenAI en el proceso de enseñanza mejora la capacidad de respuesta, reduce la ansiedad computacional, aumenta la comprensión de la sintaxis y permite un aprendizaje personalizado e iterativo.\n\nEl estudio se presenta como caso exploratorio (exento de revisión IRB, con consentimiento informado), con limitaciones de muestra y alcance, pero ofrece guías prácticas para integrar GenAI en cursos de computación de ingeniería química manteniendo el desarrollo de competencias computacionales centrales y minimizando la sobredependencia.\n\n## Contribuciones principales\n\n- Marco pedagógico de cuatro principios (baseline, reflexión, transparencia, validez) para usar GenAI como facilitador, no como solucionador, en un curso de computación.\n- Tres actividades de aprendizaje concretas: desarrollo de algoritmos con prompting de GenAI, generación/depuración de código con comparación frente al código propio, y reflexión documentada sobre la utilización y limitaciones de la IA.\n- Recomendaciones prácticas para instructores: declarar reglas de uso de GenAI en sílabo y tareas, incluir el porqué de cada requisito, exigir documentación reflexiva del uso, y tratar la alfabetización en GenAI como un resultado de aprendizaje explícito con un paso de verificación.\n\n## Metodología\n\nImplementación en un curso requerido de 200-level de computación en ingeniería química (Kettering University), tomado típicamente en segundo año. Tras cuatro semanas de introducción a macros VBA, funciones definidas por el usuario, UserForms y MATLAB, se aplicaron dos tareas: codificar un UserForm de diagnóstico médico (fiebre/medicación según edad y temperatura) en VBA, y programar en MATLAB la solución de un sistema de EDO de un reactor batch no isotérmico. La evaluación combinó ensayos reflexivos (lógica, transparencia, reflexión), efectividad y corrección de los programas, y desempeño en las tareas (lógica del diagrama de flujo, variables/bucles redundantes, pasos faltantes). Comparación cualitativa frente a cohortes previas sin uso de IA.\n\n## Hallazgos clave\n\n- Aumento del 0–50% en las tasas de finalización de tareas frente a términos previos, en retos de codificación de nivel principiante; el rango amplio refleja diferencias en experiencia previa y hábitos de reflexión/revisión.\n- Mejora significativa en calidad del código (flujo lógico, estructura, formato de sintaxis), aunque la comprensión conceptual (prioridad de ejecución condicional, iteraciones, contadores) requirió aprendizaje previo sin IA.\n- Reducción de la ansiedad computacional, mayor confianza al iniciar la codificación, menos tiempo atascado en depuración, y mayor participación activa en clase.\n- Mayor conciencia de las limitaciones de la GenAI: los estudiantes reportaron que sin conocimiento del tema los errores de la IA pasan desapercibidos, y que la responsabilidad de validar recae en el usuario (\"una buena referencia, como un libro de texto, pero no un reemplazo del conocimiento\").\n\n## Limitaciones\n\n- Variedad limitada de problemas de computación de ingeniería química empleados.\n- Lapso temporal y número de sesiones del curso reducidos.\n- Número total de estudiantes participantes pequeño.\n- Variabilidad en la calidad de las respuestas de GenAI.\n- Alto tiempo del instructor para diseñar tareas y rúbricas con suficiente andamiaje que prevenga la sobredependencia.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/educacion-en-programacion]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/autorregulacion-del-aprendizaje]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/aprendizaje-activo]]"
+    },
+    {
       "id": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
       "kind": "paper",
       "label": "Synergizing Minds and Machines: Harnessing Generative AI for Transformative Biotechnology Education (Chapter 12)",
@@ -6217,6 +6702,32 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-01-01_genai-educacion-biotecnologia.md",
       "pdf_local": "sources/pdfs/ai-education/cruz-2026-genai-educacion-biotecnologia.pdf",
       "content": "## Resumen\nCapítulo 12 del libro *Biotechnology and AI: Technological Convergence and Information Hazards* (Springer, 2026). Examina el potencial de la Inteligencia Artificial Generativa (GenAI) para transformar la educación en biotecnología mediante el Cognitive-AI Synergy Framework (CASF), que alinea las capacidades de la IA con las etapas del desarrollo cognitivo de los estudiantes, desde la comprensión fundamental hasta habilidades avanzadas de investigación.\n\nEl marco busca optimizar el uso de herramientas GenAI mientras cultiva el pensamiento crítico, la resolución de problemas y la conciencia ética de los estudiantes. Al aprovechar la GenAI, los educadores pueden crear experiencias de aprendizaje personalizadas, simular sistemas biológicos complejos y proporcionar retroalimentación en tiempo real sobre técnicas de laboratorio, acelerando el aprendizaje y preparando a los estudiantes para una industria biotecnológica en rápida evolución.\n\nEl capítulo aborda además las consideraciones éticas y los retos de gobernanza de integrar GenAI, subrayando la necesidad de marcos de gobernanza adaptativos para una innovación responsable, y presenta la experiencia de implementación y evaluación de este enfoque en el currículo de biotecnología de la Universidad de los Andes.\n\n## Contribuciones principales\n- Propuesta del Cognitive-AI Synergy Framework (CASF) para integrar GenAI en educación en biotecnología.\n- Estrategias para aprendizaje personalizado, simulación y retroalimentación en tiempo real.\n- Reflexión ética y de gobernanza sobre el uso de GenAI en educación.\n\n## Metodología\nCapítulo conceptual con marco propio (CASF) e insumos de implementación curricular en la Universidad de los Andes.\n\n## Hallazgos clave\n- Alinear las capacidades de la GenAI con las etapas cognitivas potencia el aprendizaje.\n- La integración responsable exige marcos de gobernanza adaptativos y conciencia ética.\n\n## Limitaciones\n- Marco conceptual con evaluación institucional en curso, sin resultados a gran escala.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/tutoria-con-ia]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]"
+    },
+    {
+      "id": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica",
+      "kind": "paper",
+      "label": "Integrating artificial-intelligence assistance into chemical process control education",
+      "authors": [
+        "Zuyi Huang"
+      ],
+      "year": "2026",
+      "venue": "Education for Chemical Engineers",
+      "url": "https://doi.org/10.1016/j.ece.2025.10.002",
+      "doi": "10.1016/j.ece.2025.10.002",
+      "keywords": [
+        "educacion-en-ingenieria",
+        "ingenieria-quimica",
+        "tutoria-con-ia",
+        "inteligencia-artificial",
+        "aprendizaje-activo",
+        "alfabetizacion-en-ia",
+        "pensamiento-critico",
+        "simulacion-computacional"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica.md",
+      "pdf_local": "sources/pdfs/cheme-applications/huang_2026_ai-process-control-education.pdf",
+      "content": "## Resumen\n\nEl control de procesos químicos es uno de los cursos más exigentes matemáticamente del currículo de ingeniería química: requiere dominar ecuaciones diferenciales ordinarias (EDO), transformadas de Laplace, funciones de transferencia y diseño de controladores PID. En la Universidad de Villanova, Zuyi Huang desarrolló un proyecto piloto que integra asistencia de inteligencia artificial (el chatbot ChatGPT) a lo largo de toda la cadena de modelado y control, organizado en tres módulos: (1) codificación en Python para simulación de EDO, (2) transformadas de Laplace e inversa con estimación de parámetros de funciones de transferencia, y (3) ajuste (tuning) de controladores PID.\n\nEl curso siguió un diseño cuasi-flipped classroom: antes de cada sesión los estudiantes recibían videos y handouts que introducían la teoría y demostraban código de ejemplo en Google Colab; el tiempo de clase se dedicaba sobre todo a una breve sesión de preguntas (~10 min) y a aclarar conceptos, mientras que el grueso del trabajo se hacía de forma independiente. Se instruyó a los estudiantes a pedir al modelo de lenguaje que explicara ecuaciones, generara y depurara código Python, e interpretara el significado físico de los modelos. El enfoque evolucionó entre módulos: en el Módulo 1 los estudiantes dependían fuertemente de la IA para aprender desde cero, mientras que en los Módulos 2 y 3 el instructor proporcionó programas de ejemplo que los estudiantes debían adaptar, un andamiaje (scaffolding) que redujo el riesgo de propagar errores de salidas de IA no verificadas.\n\nCincuenta y nueve estudiantes completaron los tres módulos; 47 respondieron una encuesta anónima de 15 preguntas (13 de escala Likert de cinco puntos y 2 abiertas) que medía la confianza en programación Python, la comprensión del modelado de EDO y conceptos de control, la capacidad de usar herramientas de IA eficazmente y la aplicabilidad percibida a problemas reales. Las medias oscilaron entre 3.28 y 4.36. La calificación más alta (4.36) correspondió a la efectividad del proyecto para mostrar cómo la IA y la programación pueden aplicarse a la ingeniería química, seguida de la disposición a recomendar los módulos (4.23). Las puntuaciones más bajas fueron para la transformada de Laplace (3.36) y la transformada inversa de Laplace (3.28), temas matemáticamente intensivos que requieren más apoyo instruccional.\n\nLos comentarios cualitativos revelan que los estudiantes valoraron la novedad y el desarrollo de habilidades de codificación y exposición a herramientas de IA, pero pidieron instrucciones más claras y mayor orientación. Un desafío recurrente fue la dificultad para juzgar si las salidas de ChatGPT eran correctas, lo que subraya la necesidad de enseñar no solo a consultar la IA de forma efectiva sino a evaluar críticamente sus respuestas.\n\n## Contribuciones principales\n\n- Presenta un enfoque totalmente integrado de educación asistida por IA en control de procesos químicos que abarca toda la cadena modelado–control (EDO, Laplace, funciones de transferencia y ajuste de controladores) en un único marco coherente.\n- Combina la programación en Python en Google Colab con estrategias estructuradas de interacción con IA para tender un puente entre conceptos teóricos y aplicaciones prácticas.\n- Aporta un diseño instruccional progresivo que desplaza al estudiante desde la dependencia de la IA hacia la modificación y validación de código con andamiaje.\n\n## Metodología\n\nEstudio piloto observacional en el curso de nivel senior CHE4202 Chemical Process Control (Villanova University, primavera 2025). Tres módulos secuenciales con handouts, videos pre-clase y reportes escritos; cada estudiante debía pedir a ChatGPT que generara un problema de aplicación del mundo real para resolverlo. La evaluación combinó la valoración del instructor sobre reportes y programas Python (correctitud de ecuaciones, calidad del código, claridad de gráficos) y una encuesta anónima de 15 preguntas con análisis estadístico descriptivo (media ± desviación estándar).\n\n## Hallazgos clave\n\n- Ganancias moderadas a altas en múltiples objetivos de aprendizaje; media máxima 4.36 (aplicación de IA y programación a la ingeniería química).\n- La mayoría de los estudiantes completó las tareas exitosamente; solo cinco de 59 obtuvieron puntajes bajos.\n- Temas matemáticamente intensivos (Laplace 3.36, Laplace inversa 3.28) recibieron las puntuaciones más bajas y siguen requiriendo apoyo del instructor.\n- La verificación de las salidas de IA fue un punto débil persistente; usar una segunda herramienta (Gemini) como contraste no eliminó las inconsistencias.\n\n## Limitaciones\n\n- Integración limitada a un solo curso y un solo semestre, lo que restringe conclusiones sobre ganancias de aprendizaje de largo plazo o transferencia de habilidades.\n- Variabilidad en la experiencia previa de Python afectó el desempeño; estudiantes sin base de codificación avanzaron más lento.\n- Estudio sin grupo de control; los resultados se basan en autoevaluación por encuesta y en la evaluación del instructor, no en una medición causal del aprendizaje.\n\n## Notas relacionadas\n\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/simulacion-computacional]]"
     },
     {
       "id": "notes/papers/2026-01-01_monitoreo-visual-biomasa-genai",
@@ -6306,6 +6817,32 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia.md",
       "pdf_local": "sources/pdfs/ai-education/hackl2026-heptagon-alfabetizacion-ia.pdf",
       "content": "## Resumen\n\nEste paper propone el *AI Literacy Heptagon*, un marco conceptual de siete dimensiones para operacionalizar la alfabetización en inteligencia artificial (AIL) en la educación superior. El punto de partida es un diagnóstico crítico: aunque existe consenso político y académico sobre la importancia de la AIL (incluso el EU AI Act la exige explícitamente), su integración curricular sigue siendo fragmentada y limitada —solo el 31,6% de los estudiantes en Alemania reportan que su programa la aborda explícitamente. La causa central identificada es la ambigüedad conceptual: sin una definición operacional clara, las instituciones no saben qué implementar.\n\nMediante una revisión integrativa de la literatura (2021–2024), los autores identifican siete dimensiones centrales de la AIL: (1) comprensión técnica, (2) competencia aplicacional, (3) pensamiento crítico y evaluación, (4) conciencia ética y razonamiento, (5) comprensión del impacto social, (6) competencia integracional y (7) conocimiento legal y regulatorio. Estas dimensiones se sintetizan en un marco heptagonal que distingue entre AIL genérica (básica para todos los estudiantes) y extensiones disciplinarias, y se articula con la taxonomía de Bloom para establecer niveles de progresión (No consciente → Principiante → Intermedio → Experto).\n\n## Contribuciones principales\n\n- Propone una definición de trabajo sintetizada de AI Literacy que integra las siete dimensiones identificadas en la literatura\n- Delinea AIL frente a conceptos relacionados: Data Literacy, Media Literacy y Computational Literacy, especificando solapamientos y elementos distintivos\n- Introduce el *AI Literacy Heptagon* como instrumento práctico para el desarrollo y análisis curricular\n- Resalta la dimensión Legal y Regulatoria (LRK) como frecuentemente subrepresentada pero crítica ante marcos normativos en evolución (EU AI Act, reglamentos sectoriales)\n- Valida el marco mediante mapeo experto de los curricula de dos programas académicos diferentes\n\n## Metodología\n\nRevisión integrativa de la literatura, con análisis de publicaciones sobre AIL en educación superior entre 2021 y 2024. El análisis abarca definiciones existentes, marcos organizacionales (UNESCO, OECD, EU) y estudios empíricos. La validación del heptágono se realizó mediante mapeo de curricula por expertos en dos programas académicos, con el objetivo de demostrar la utilidad instrumental del framework —no de validar empíricamente competencias estudiantiles.\n\n## Hallazgos clave\n\n- Las siete dimensiones cubren un espectro más amplio que los marcos existentes: los frameworks actuales enfatizan lo técnico, lo crítico y lo ético, pero suelen ignorar lo legal/regulatorio y lo integracional\n- La dimensión LRK exige formar para un \"objetivo en movimiento\": los marcos legales de IA están en construcción activa y los curricula deben preparar para la incertidumbre regulatoria\n- El modelo de Bloom permite distinguir un piso mínimo común (nivel Principiante en todas las dimensiones) de especializaciones disciplinarias, facilitando adaptaciones en distintos campos\n- El mapeo curricular reveló que los programas tienden a cubrir dimensiones éticas y de impacto social, mientras dejan brechas en competencias integracionistas y legales\n\n## Limitaciones\n\n- El estudio se enfoca en educación superior; la transferibilidad al contexto laboral requiere investigación adicional\n- La validación mediante mapeo curricular por expertos es subjetiva y no mide competencias estudiantiles reales\n- No se utilizó metodología Delphi para validación de consenso; los autores reconocen esto como dirección futura\n- El análisis bibliográfico cubre 2021–2024, período de cambio acelerado en el campo\n\n## Notas relacionadas\n\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/interdisciplinariedad]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]"
+    },
+    {
+      "id": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa",
+      "kind": "paper",
+      "label": "Automating Excel Tasks with Generative AI: Supporting Innovation in Mass Transfer Separations Education",
+      "authors": [
+        "Moisés García-Morales"
+      ],
+      "year": "2026",
+      "venue": "Journal of Chemical Education",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.jchemed.5c01531",
+      "doi": "10.1021/acs.jchemed.5c01531",
+      "keywords": [
+        "ingenieria-quimica",
+        "educacion-en-ingenieria",
+        "inteligencia-artificial",
+        "aprendizaje-activo",
+        "simulacion-computacional",
+        "educacion-en-programacion",
+        "pensamiento-critico",
+        "supervision-humana"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa.md",
+      "pdf_local": "sources/pdfs/cheme-applications/garcia-morales_2026_genai-excel-vba-mass-transfer-separations.pdf",
+      "content": "## Resumen\n\nEste reporte técnico, publicado en el *Journal of Chemical Education*, describe cómo la creación de macros VBA (Visual Basic for Applications) asistida por IA generativa puede mejorar la enseñanza de las Separaciones por Transferencia de Masa en ingeniería química. El autor argumenta que, frente a simuladores comerciales como Aspen Plus o Aspen Hysys —costosos, complejos y propensos a generar un \"efecto caja negra\" en el que el estudiante no percibe las ecuaciones ni la estrategia de solución—, una hoja de cálculo en Excel programada por el propio estudiante prioriza el valor educativo y obliga a involucrarse con los cálculos subyacentes.\n\nPara demostrar el potencial del enfoque, se diseñó un simulador casero de destilación fraccionada multietapa con una interfaz gráfica atractiva en Excel, capaz de identificar condiciones óptimas y límite de operación en una columna de destilación de etapas en equilibrio. El simulador emplea un método paso a paso (en lugar de los métodos matriciales de los simuladores comerciales), funciones lógicas anidadas (\"IF\", \"AND\"), el comando \"GoalSeek\" y macros grabadas para resolver balances de masa, temperaturas, número de etapas y razón de reflujo. La IA (Copilot de Microsoft, gratuita; también ChatGPT o Gemini) se usa de forma iterativa para generar y depurar el código VBA a partir de descripciones precisas de la funcionalidad deseada, refinándolo en sucesivas rondas hasta lograr el comportamiento buscado.\n\nEl trabajo también reporta una implementación en aula durante el curso 2024-25 con estudiantes de tercer año del Grado en Ingeniería Química Industrial de la Universidad de Huelva (España), en un ejercicio más sencillo: el cálculo del perfil de composición y la altura de columna en un sistema de absorción empacado. Ninguno de los estudiantes tenía experiencia previa con macros VBA. Se propone un marco estructurado y replicable de seis pasos (definir un problema repetitivo, resolverlo manualmente, introducir VBA de forma incremental, incorporar IA generativa, asignar tareas, y fomentar la escritura de código propio), con una progresión scaffolded de cuatro etapas (grabación de macros, replicación manual, bucles asistidos por IA, y detección dinámica de rangos).\n\nEl autor sostiene que el enfoque produce un aprendizaje más significativo (la IA explica el código generado) e inclusivo (accesible incluso a quienes tienen conocimientos limitados de programación), y que cierra una brecha curricular frecuente: la programación introductoria (típicamente en C++) rara vez se conecta con aplicaciones disciplinares. Los estudiantes reportaron unánimemente que escribir VBA fue más práctico que su curso introductorio de programación de primer año.\n\n## Contribuciones principales\n\n- Presenta un simulador de destilación fraccionada multietapa programado íntegramente en Excel/VBA, con interfaz gráfica, como alternativa pedagógica de bajo costo a Aspen Plus, con resultados consistentes con el software profesional.\n- Propone un marco estructurado y replicable de seis pasos para integrar la programación VBA asistida por IA generativa en cursos técnicos de ingeniería.\n- Describe una secuencia scaffolded de cuatro etapas (grabación de macro, replicación manual, bucles con ayuda de IA, detección dinámica de rangos) para un ejercicio de absorción empacada.\n- Documenta la naturaleza iterativa del trabajo con IA (cinco rondas de refinamiento de Copilot ilustradas en la Figura 2) como parte del proceso de aprendizaje.\n\n## Metodología\n\nReporte técnico de tipo demostrativo y experiencia docente. Combina (1) el desarrollo de un simulador de destilación basado en un método paso a paso aplicable a mezclas multicomponente bajo dos restricciones (ausencia de componentes no clave HNK/LNK, y ausencia de componentes distribuidos entre clave pesado y clave ligero), usando funciones lógicas, GoalSeek y macros VBA generadas iterativamente con Copilot; y (2) una implementación en aula (curso 2024-25, Universidad de Huelva, ~estudiantes de tercer año sin experiencia en VBA) de un ejercicio más simple sobre absorción empacada, con una sesión de 90 minutos suficiente para completarlo. La evaluación es exploratoria y cualitativa (retroalimentación de los estudiantes), sin diseño experimental controlado.\n\n## Hallazgos clave\n\n- Es posible reproducir cálculos de separación profesionales en Excel/VBA con resultados consistentes con Aspen Plus, manteniendo la transparencia de las ecuaciones.\n- La IA generativa permite a estudiantes sin conocimientos de VBA crear y depurar macros funcionales mediante prompts precisos y refinamiento iterativo.\n- Usar Copilot gratuito para generar código VBA (que el estudiante debe copiar, interpretar y adaptar) fomenta mayor compromiso con los conceptos de programación que los add-ins de IA que ocultan el manejo de módulos.\n- Los estudiantes valoraron el VBA como más práctico y útil a corto plazo que su curso introductorio de programación (C++), especialmente para proyectos de fin de grado.\n\n## Limitaciones\n\n- Evaluación exploratoria y anecdótica: la \"retroalimentación unánime\" de los estudiantes no proviene de un instrumento validado ni de un diseño controlado.\n- Muestra acotada a un curso, una institución y un autor que imparte la asignatura desde hace más de dos décadas; generalización limitada.\n- Requiere que los estudiantes lleven portátiles propios y dispone de tiempo (proyectos de fin de grado), lo que puede no encajar en currículos rígidos.\n- No se analizan riesgos del uso de IA (alucinaciones de código, dependencia, verificación) más allá de mencionar el refinamiento iterativo.\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-quimica]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/educacion-en-programacion]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/supervision-humana]]"
     },
     {
       "id": "notes/papers/2026-01-08_llm-ecuaciones-ingenieria",
@@ -6675,6 +7212,34 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl artículo propone un marco computacional asistido por IA generativa que usa modelos de lenguaje de gran tamaño (LLMs) como orquestadores de cálculos de procesos electroquímicos para celdas de combustible de membrana de intercambio protónico (PEMFC), celdas de combustible de óxido sólido (SOFC) y baterías de flujo redox de vanadio (VRFB). El problema de fondo es que estos sistemas se rigen por ecuaciones de transporte-cinética acopladas, no lineales y multiescala: los solucionadores mecanísticos (COMSOL, Fluent, OpenFOAM) ofrecen alta fidelidad física pero exigen mucha pericia y tiempo (desarrollar un nuevo diseño de PEMFC puede tomar 6-12 meses), mientras que los sustitutos puramente basados en datos (ANN, aprendizaje por refuerzo profundo) son frágiles ante el cambio de distribución.\n\nEl marco combina tres componentes: generación aumentada por recuperación (RAG) sobre literatura, manuales y cuadernos de laboratorio; prompting con restricciones físicas; y razonamiento integrado con herramientas (tool-integrated reasoning) que invoca solucionadores externos (MATLAB, COMSOL LiveLink, Aspen). Una métrica de similitud híbrida (coseno + distancia de Mahalanobis + penalizaciones físicas) ancla el razonamiento del LLM en parámetros y ecuaciones físicamente compatibles con el régimen operativo objetivo. Una arquitectura multiagente (Planner, Retriever, Modeler, Executor, Critic) coordina el refinamiento iterativo: las violaciones de restricciones o los fallos del solucionador disparan prompts de autocorrección.\n\nLa evaluación usa dos conjuntos de datos complementarios: datos sintéticos de simuladores físicos para benchmarking controlado, y datos de Aspen Plus de simulaciones industriales de alta fidelidad validadas contra mediciones experimentales. Para la descomposición de la curva de polarización de PEMFC, el marco logra un RMSE de 9.6 mV (sintético) y 7.8 mV (Aspen), reduciendo las violaciones de restricciones de 48%/42% a 1.2%/0.5%. Para la optimización de VRFB, la eficiencia energética alcanza 79.1% (sintético) y 74.9% (Aspen). Un estudio de usuario preliminar (N=5) muestra una reducción del 85% en el esfuerzo humano (de 85 a 11 minutos por tarea).\n\nLos autores enfatizan que el LLM no reemplaza a los solucionadores mecanísticos —que siguen siendo la fuente de predicciones de alta fidelidad— sino que automatiza el ensamblaje de ecuaciones, la recuperación de parámetros y el análisis de escenarios. Defienden prácticas de IA responsable (registros de auditoría, cuantificación de incertidumbre, supervisión humana) como requisito para el despliegue industrial en sistemas críticos para la seguridad.\n\n## Contribuciones principales\n\n- Un marco asistido por IA generativa, específico de dominio, que acopla RAG, prompting con restricciones físicas y razonamiento integrado con herramientas para el modelado y optimización de procesos electroquímicos, diseñado para interactuar directamente con solucionadores mecanísticos.\n- Una métrica de similitud híbrida (coseno + Mahalanobis + penalizaciones físicas) para recuperar ecuaciones y parámetros, con estudio empírico de su impacto en la calidad del anclaje.\n- Dos casos de estudio (descomposición de polarización de PEMFC y optimización voltaje-eficiencia de VRFB) con análisis comparativos y de ablación frente a ANN, ePCDNN, DRL y baselines mecanísticos, midiendo exactitud, latencia, interpretabilidad y reducción de esfuerzo humano.\n- Articulación de rutas de integración hacia gemelos digitales industriales, detección y diagnóstico de fallas (FDD) y apoyo a la decisión de operadores, con consideraciones de IA responsable.\n\n## Metodología\n\nFlujo cerrado de trabajo: intención del usuario → ecuaciones → código → solucionador → validación → decisión. El LLM parsea una especificación en lenguaje natural y la descompone en subtareas (recuperación de parámetros, formulación de ecuaciones, generación de código, ejecución del solucionador, visualización de residuales). El RAG usa fragmentos de 150-300 tokens con embeddings de BERT adaptados al dominio (768 dimensiones) e indexación HNSW para búsqueda aproximada de vecinos cercanos. La validación de restricciones opera en dos etapas (sintáctica: análisis dimensional vía parsing AST; semántica: conservación de carga/masa y límites termodinámicos), con un bucle de autorrefinamiento de hasta tres iteraciones. Se evalúan seis estrategias acumulativas de prompting, desde LLM base (sin RAG ni restricciones) hasta LLM con autoconsistencia y bucle verificador. Los baselines incluyen solucionadores mecanísticos (COMSOL 6.1), ANN, ePCDNN, DRL (dueling DQN) y optimización multiagente con LLM.\n\n## Hallazgos clave\n\n- PEMFC: RMSE de 9.57 mV (R² = 0.9919) en datos sintéticos, una mejora del 65% sobre el baseline de simulación física sin IA (RMSE = 27.66 mV).\n- La recuperación etiquetada con física logra 89% de exactitud frente a 42% de la búsqueda semántica ingenua.\n- Las restricciones físicas reducen las violaciones dimensionales y los desajustes de unidades en 97-99% (de 48%/42% a 1.2%/0.5%).\n- El razonamiento integrado con herramientas reduce los errores de compilación del 30% a menos del 1% mediante refinamiento iterativo.\n- El flujo asistido por LLM reduce el tiempo de modelado en 87% (de 85 a 11 min) y automatiza el 80% de las tareas; la tasa de éxito del solucionador supera el 95%.\n- VRFB: eficiencia energética del 79.1% (sintético) y 74.9% (Aspen).\n- ~85% del tiempo total se gasta en la ejecución del solucionador; la capa de orquestación de IA introduce sobrecarga modesta (<20%).\n\n## Limitaciones\n\n- La demostración experimental se restringe a casos de PEMFC y VRFB; para otras químicas (SOFC, Li-ion) los parámetros y restricciones deberían curarse y añadirse explícitamente a los módulos RAG/Validador.\n- Tanto los datos sintéticos como los de Aspen Plus difieren de la medición experimental directa: variabilidad de manufactura, degradación de electrodos y artefactos de medición se capturan solo parcialmente.\n- El estudio de usuario es preliminar y muy pequeño (N=5 ingenieros).\n- Persisten violaciones residuales del 9-12% en casos límite donde las heurísticas del verificador de restricciones son insuficientemente estrictas.\n- Las PDFs completas de artículos de terceros usados en la base RAG no pueden redistribuirse por restricciones de copyright; los usuarios deben aportar sus propias bibliotecas.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/sostenibilidad]]\n- [[concepts/capacidades-de-ia]]"
     },
     {
+      "id": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos",
+      "kind": "paper",
+      "label": "New Era of AI in Chemical Process Safety: Foundation Models",
+      "authors": [
+        "Haoyu Yang",
+        "Tylee L. Kareck",
+        "Qingsheng Wang"
+      ],
+      "year": "2026",
+      "venue": "ACS Chemical Health & Safety",
+      "url": "https://doi.org/10.1021/acs.chas.5c00227",
+      "doi": "10.1021/acs.chas.5c00227",
+      "keywords": [
+        "ingenieria-quimica",
+        "inteligencia-artificial",
+        "generacion-aumentada-por-recuperacion",
+        "vision-por-computadora",
+        "alucinaciones-de-ia",
+        "seguridad-de-ia",
+        "supervision-humana",
+        "capacidades-de-ia"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos.md",
+      "pdf_local": "sources/pdfs/cheme-applications/yang_2026_foundation-models-process-safety.pdf",
+      "content": "## Resumen\n\nEste Commentary, publicado en *ACS Chemical Health & Safety*, sostiene que la comunidad de seguridad de procesos químicos está entrando en una nueva era impulsada por los modelos fundacionales (foundation models), dejando atrás el aprendizaje profundo específico de tareas e intensivo en etiquetas para adoptar marcos de razonamiento preentrenados y adaptables. Los autores contrastan el paradigma del ML/DL convencional —entrenado desde cero, con grandes conjuntos de datos etiquetados y baja transferibilidad— frente a los modelos fundacionales, que se preentrenan a gran escala y se adaptan mediante prompting, ajuste fino (SFT) o recuperación, ofreciendo razonamiento explícito mediado por lenguaje y mayor auditabilidad.\n\nDesde la perspectiva del lenguaje, los grandes modelos de lenguaje (LLMs) combinados con generación aumentada por recuperación (RAG) permiten operacionalizar la \"materia oscura\" de los datos industriales no estructurados —narrativas de incidentes, registros de mantenimiento, registros de gestión del cambio (MOC) y procedimientos operativos estándar (SOPs)— convirtiéndolos en salidas enlazadas a evidencia que apoyan el análisis de causa raíz (RCA) auditable y flujos de trabajo semiautomatizados de estudios HAZOP. Los autores enfatizan tratar al LLM no como un oráculo sino como una capa de razonamiento y comunicación deliberadamente restringida y anclada (grounding), apoyada en tres palancas recurrentes: ingeniería de prompts, SFT y RAG.\n\nDesde la perspectiva de la visión, los modelos fundacionales de visión (VFMs) promptables como Segment Anything Model 3 (SAM 3) y los sistemas multimodales (MLLMs) llevan el monitoreo de seguridad más allá de la detección binaria hacia la segmentación semántica y la discriminación contextual. La segmentación a nivel de píxel preserva la morfología de las llamas (forma, continuidad, propagación), permitiendo una caracterización interpretable y consciente de la morfología de amenazas dinámicas como el fuego. Evidencia preliminar sobre el conjunto de datos público FLAME muestra que SAM 3 y un pipeline MLLM basado en Gemma-3-27B-it superan en recall y F1 a detectores de fuego convencionales sin reentrenamiento específico.\n\nPese a la promesa, los autores advierten que el despliegue en entornos críticos para la seguridad exige escrutinio riguroso. Identifican barreras clave —riesgos de alucinación, deriva ontológica, privacidad y restricciones de gobernanza, así como la inadecuación de los benchmarks genéricos para requisitos de grado ingenieril— y proponen una hoja de ruta centrada en \"los datos como infraestructura\": supervisión sintética supervisada por expertos, protocolos de evaluación y alineamiento moldeados por el dominio, y flujos híbridos que integran conocimiento físico y capas de validación. La tesis final es que los modelos fundacionales deben concebirse no como tomadores de decisiones autónomos, sino como capas de razonamiento transparentes y conscientes del contexto que empoderan a los expertos humanos.\n\n## Contribuciones principales\n\n- Sintetiza las aplicaciones emergentes de los modelos fundacionales en seguridad de procesos químicos bajo una óptica centrada en la modalidad (lenguaje y visión).\n- Propone el uso de RAG con anclaje consciente de la estructura (structure-aware grounding) alineado con ontologías de seguridad, recuperando evidencia como elementos tipados (equipos, desviaciones, causas, consecuencias, salvaguardas, barreras).\n- Plantea el HAZOP multimodal como aplicación nativa de los modelos fundacionales y un módulo de IA \"advisory-only\" (solo asesor) sobre la infraestructura de seguridad existente.\n- Formula el principio de \"datos como infraestructura\" mediante datos sintéticos supervisados por expertos bajo restricciones de confidencialidad.\n- Replantea el alineamiento como adherencia a estándares de ingeniería codificados, no como modelado genérico de preferencias humanas.\n\n## Metodología\n\nEs un artículo de tipo *Commentary / Outlook*: revisión narrativa y síntesis conceptual de la literatura emergente, no un estudio empírico. Incluye una comparación tabular entre ML/DL convencional y modelos fundacionales, ejemplos ilustrativos (un reporte de incidente público de la BSEE para RCA) y una evaluación interna ilustrativa sobre el conjunto de datos público FLAME, comparando SAM 3 y un pipeline MLLM basado en Gemma-3-27B-it contra detectores de referencia bajo el mismo protocolo.\n\n## Hallazgos clave\n\n- Los modelos fundacionales transfieren mejor que los modelos específicos de tarea: la baja exactitud de detectores CNN/ViT previos sobre FLAME refleja límites de transferibilidad, no de capacidad arquitectónica.\n- SAM 3 y el pipeline MLLM logran mayor recall y F1 que detectores convencionales sin reentrenamiento, con ganancias pronunciadas en llamas pequeñas, parcialmente ocluidas y fondos visualmente abigarrados.\n- La distinción entre detección y segmentación es \"epistémica\": determina si el modelo solo señala un peligro o permite razonar sobre su comportamiento físico y evolución.\n- La fluidez de los modelos en entornos críticos es un pasivo, no un activo: la alucinación sigue siendo un riesgo central pese a los mecanismos de anclaje.\n- Los pipelines RAG son vulnerables a inyección de prompts y envenenamiento de la recuperación; el monitoreo visual, a manipulación de cámaras e interferencia adversaria/ambiental.\n\n## Limitaciones\n\n- Como Commentary, no aporta validación empírica sistemática; la evaluación sobre FLAME es ilustrativa y restringida a un único conjunto de datos y protocolo.\n- Existe una brecha de evaluación: faltan estándares de oro para tareas generativas abiertas (HAZOP, RCA) y métricas a nivel de píxel inadecuadas para fenómenos amorfos como fuego o dispersión de gas.\n- Persiste la escasez de datos de seguridad expertos, confidenciales y rara vez etiquetados de forma estandarizada.\n- El despliegue de SAM 3 y MLLMs aún requiere validación sistemática por escenario industrial, geometría de cámara y condiciones ambientales.\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-quimica]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/generacion-aumentada-por-recuperacion]]\n- [[concepts/vision-por-computadora]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/seguridad-de-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/capacidades-de-ia]]"
+    },
+    {
       "id": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
       "kind": "paper",
       "label": "Compliance patterns in adopting sustainability practices: A cluster analysis of oil palm producers in Colombia",
@@ -6733,6 +7298,39 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica.md",
       "pdf_local": "sources/pdfs/capability-reliability/chew_2026_ai-chemeng-promise-to-practice.pdf",
       "content": "## Resumen\n\nEsta revisión y artículo de perspectiva, centrado en la industria, sostiene que la inteligencia artificial (IA) en ingeniería química ha pasado \"de la promesa a la práctica\". Tomando como punto de referencia una perspectiva de 2019 (\"¿está aquí, finalmente?\"), los autores evalúan los desarrollos técnicos y organizacionales posteriores: los modelos físicamente informados (gray-box / caja gris) ganan terreno, el aprendizaje por refuerzo (RL) complementa al control predictivo basado en modelos (MPC), y la IA generativa potencia la documentación, la digitalización de P&ID/PFD y los flujos de trabajo de seguridad. El valor a corto plazo surge donde la IA *aumenta* —no reemplaza— la práctica de ingeniería de sistemas de proceso (PSE), por ejemplo mediante soft sensing y modelos sustitutos (surrogates).\n\nLa tesis central es que el cuello de botella decisivo no es la capacidad algorítmica sino el *despliegue confiable*: los modelos de IA deben tratarse como cualquier otro sistema de ingeniería, con validación, monitoreo y gobernanza. Capacidades como operaciones autónomas, análisis HAZOP totalmente automatizado y descubrimiento mecanicista a gran escala permanecen en etapa de investigación, mientras que el soft sensing, el monitoreo, el modelado híbrido y el soporte a la decisión ya son prácticos. Encuestas recientes confirman la brecha de adopción: el 40% de los encuestados considera la IA poco confiable, el 92% reporta escasez de expertos en IA y solo el 16% alcanzó su objetivo relacionado con IA.\n\nEl artículo distingue explícitamente las capacidades \"de grado investigación\" de las \"listas para industria\" y ancla sus recomendaciones a marcos regulatorios emergentes (EU AI Act, NIST AI Risk Management Framework). Aborda en detalle el modelado mecanicista y explicable (PINNs, operadores neuronales, SINDy/UDE), el control de procesos en la era del RL (incluyendo el caso real de Yokogawa/JSR con el algoritmo FKDPP operando 35 días de forma autónoma), MLOps para industrias de proceso, análisis de ciclo de vida (LCA) prospectivo asistido por ML, gobernanza/estándares (IEC 61511, IEC 62443, ISO/IEC 42001, AMLAS) y la integración de la IA en la educación en ingeniería química.\n\nLa conclusión es optimista pero condicionada: con laboratorios incubadora, benchmarks abiertos y pipelines educativos rediseñados, la IA puede convertirse en un \"co-trabajador\" seguro, confiable y sostenible en las industrias de proceso en cuestión de años.\n\n## Contribuciones principales\n\n- Síntesis centrada en la industria que vincula los avances recientes de IA con los requisitos prácticos para un despliegue seguro, confiable y escalable, en contraste con revisiones previas enfocadas en algoritmos aislados.\n- Marco conceptual sobre el \"grayness\" (grado de gobernanza física) de los modelos: trade-off entre costo computacional (white-box) y requerimiento de datos (black-box), con el gray-box como punto medio robusto en entornos con datos escasos.\n- Distinción explícita entre capacidades de grado investigación y capacidades listas para la industria, anclada a flujos de trabajo reales (control, seguridad, sostenibilidad, educación).\n- \"Scorecard\" que evalúa las predicciones de la perspectiva de 2019 frente a lo que efectivamente se materializó (soft sensing y diagnóstico se volvieron rutina; GenAI superó las expectativas; los modelos híbridos superaron a los puramente black-box).\n- Protocolo operacional para MLOps industrial (modo \"shadow\", capas de seguridad, monitoreo de drift, requalificación por triggers, despliegue CI/CD con artefactos versionados y aprobaciones auditables).\n\n## Metodología\n\nRevisión narrativa y perspectiva, no sistemática. Los autores (academia — Chalmers — junto con Siemens) sintetizan literatura técnica reciente, casos comerciales reportados por proveedores y marcos regulatorios/de estándares. Organizan el análisis en torno a dominios de trabajo de ingeniería reales (GenAI, IA mecanicista/explicable, control con RL, MLOps, LCA, gobernanza y educación) e ilustran con ejemplos comerciales que explícitamente no constituyen respaldos a proveedores específicos.\n\n## Hallazgos clave\n\n- El cuello de botella es el despliegue confiable, no la capacidad algorítmica; los modelos de IA deben gestionarse como ciclos de vida de ingeniería (commissioning, monitoreo, detección de drift, requalificación, redespliegue).\n- Los modelos gray-box (físicamente informados) superan a los black-box en entornos con datos escasos y restricciones estrictas, ofreciendo mejor generalización y extrapolación más segura.\n- El RL complementa —no reemplaza— al MPC/PID clásico; el \"control-informed RL\" (que incorpora estructura de control clásica y certificados de estabilidad) es el punto medio pragmático. El despliegue industrial a gran escala sigue siendo limitado.\n- La GenAI ya es creíble para copilotos de documentos, digitalización de P&ID/PFD (salida compatible con DEXPI/ISO 15926) y soporte a HAZOP, pero el HAZOP automatizado completo no reemplaza el trabajo experto.\n- El consenso industrial es mantener los sistemas de ML como *advisory* o supervisorios, preservando los interlocks de seguridad existentes y el control de cambios con comportamiento fail-safe.\n- La gobernanza pasó de opcional a esperada: EU AI Act (en vigor desde el 1 de agosto de 2024, con obligaciones escalonadas 2025–2027) y NIST AI RMF como complemento voluntario.\n\n## Limitaciones\n\n- Es una perspectiva narrativa, no una revisión sistemática; selección de fuentes y casos sujeta a criterio de los autores.\n- Varios casos industriales provienen de materiales reportados por proveedores; la validación independiente revisada por pares sigue siendo limitada.\n- Coautoría con Siemens (Industrial Copilot, COMOS) implica un posible interés; los autores aclaran que los ejemplos comerciales ilustran capacidades y no son respaldos.\n- La integridad y disponibilidad de datos a escala de planta siguen siendo barreras no resueltas (setpoints inconsistentes, intervenciones manuales mal registradas, transferencia laboratorio→industria).\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/sostenibilidad]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/adopcion-de-tecnologia]]"
+    },
+    {
+      "id": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "kind": "paper",
+      "label": "FermBench: A new benchmark for measuring the capabilities of LLMs on fermentation knowledge",
+      "authors": [
+        "Fiammetta Caccavale",
+        "Adem R.N. Aouichaoui",
+        "Ulrich Krühne",
+        "Krist V. Gernaey",
+        "Carina L. Gargalo"
+      ],
+      "year": "2026",
+      "venue": "Computers and Education: Artificial Intelligence",
+      "url": "https://doi.org/10.1016/j.caeai.2026.100577",
+      "doi": "10.1016/j.caeai.2026.100577",
+      "keywords": [
+        "capacidades-de-ia",
+        "inteligencia-artificial",
+        "ingenieria-quimica",
+        "educacion-en-ingenieria",
+        "biocombustibles",
+        "tutoria-con-ia",
+        "evaluacion-educativa",
+        "alucinaciones-de-ia",
+        "pensamiento-critico",
+        "generacion-aumentada-por-recuperacion",
+        "supervision-humana"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion.md",
+      "pdf_local": "sources/pdfs/cheme-applications/caccavale_2026_fermbench-fermentation-llm-benchmark.pdf",
+      "content": "## Resumen\n\nEl estudio aborda una pregunta práctica para la educación en ingeniería (bio)química: ¿son los chatbots de IA generativa lo suficientemente buenos como para apoyar el aprendizaje sobre fermentación, y existe alguna diferencia significativa de rendimiento entre ellos que justifique recomendar uno sobre otro? Para responderla, los autores introducen FermBench, un conjunto de datos de preguntas abiertas sobre procesos de fermentación, recolectadas mediante encuestas a participantes de escuelas de formación bajo la iniciativa DIG4BIO (118 preguntas tras curación). El dataset se libera públicamente.\n\nCon FermBench se evalúan cinco LLM que alimentan chatbots comerciales de uso masivo en su versión gratuita al momento del experimento (abril 2025): ChatGPT (GPT-3.5-turbo), Claude (Claude 3.7 Sonnet), Gemini (Gemini 2.0 Flash), DeepSeek (DeepSeek-V3) y le Chat (Mistral Large). Deliberadamente se usaron las versiones gratuitas y no las de razonamiento, pensando en estudiantes que no pueden o no quieren pagar suscripciones.\n\nEl marco experimental combina tres enfoques de evaluación: métricas automáticas (similitud coseno, F1, BLEU, más reducción de dimensionalidad con PCA/t-SNE/UMAP), anotación por expertos humanos (9 anotadores con doctorado o en curso en ingeniería química, puntuando en escala Likert 1-5 ocho parámetros: exactitud factual, exhaustividad, coherencia, concisión, legibilidad, utilidad, perspicacia y calidad general) y el enfoque LLM-as-a-Judge (usando Gemma y GPT-4o como jueces). Se aplicó análisis estadístico no paramétrico (test de Friedman seguido de Nemenyi post-hoc) y acuerdo inter-anotador (alfa de Krippendorff).\n\nEl hallazgo central es que la línea base de conocimiento de todos los modelos es alta y satisfactoria: ningún LLM resultó significativamente mejor de forma global, y los jueces no lograron coincidir en un \"mejor modelo\". Las diferencias significativas emergen solo en dimensiones de orden superior (perspicacia, exhaustividad), donde Gemini y DeepSeek forman un \"estrato técnico\" diferenciado. Un resultado llamativo es que las respuestas curadas por expertos no son necesariamente mejores que las generadas por los chatbots. La conclusión pedagógica es que la elección de chatbot debería guiarse por directrices institucionales/gubernamentales y preferencias personales informadas, más que por una superioridad demostrada de un modelo.\n\n## Contribuciones principales\n\n- Introducción de FermBench, primer benchmark de preguntas abiertas específicamente sobre fermentación, liberado públicamente.\n- Marco experimental robusto que triangula métricas automáticas, anotación humana experta y LLM-as-a-Judge para evaluar respuestas abiertas sin ground truth único.\n- Benchmark comparativo de cinco chatbots comerciales (ChatGPT, Claude, Gemini, DeepSeek, le Chat) en su versión gratuita.\n- Evidencia de que las respuestas curadas por expertos no superan consistentemente a las generadas por LLM.\n- Enriquecimiento del LLM propio FermentAI (basado en RAG, embebido en la plataforma e-learning BioVL) con las respuestas curadas.\n\n## Metodología\n\nRecolección de preguntas vía encuesta anónima a participantes de dos escuelas de formación (DIG4BIO), curadas hasta 118 preguntas. Generación de respuestas vía API de cada modelo, tres corridas por modelo para controlar estocasticidad. Evaluación triple: (i) métricas automáticas N-gram (BLEU, F1) y semánticas (coseno), con visualización por PCA/t-SNE/UMAP; (ii) anotación humana por 9 expertos sobre 15 preguntas representativas (Likert 1-5 en ocho parámetros), más comparación pareada (10 pares únicos) y comparación generadas vs. curadas; (iii) LLM-as-a-Judge con Gemma (gemma-3-4b-it) y GPT-4o usando el mismo guion que los humanos. Análisis estadístico: Friedman + Nemenyi post-hoc, significancia relativa a ChatGPT; acuerdo inter-anotador con alfa de Krippendorff.\n\n## Hallazgos clave\n\n- La línea base de todos los modelos es alta; ningún LLM es significativamente superior de forma global.\n- Gemini y DeepSeek forman un \"estrato técnico\" superior en perspicacia (p < 0.001) y exhaustividad, según jueces humanos y LLM.\n- Los expertos humanos prefirieron en promedio a Gemini (4.4), seguido de DeepSeek (4.27); ChatGPT obtuvo el promedio más bajo (3.87).\n- Claude y ChatGPT fueron los más concisos y legibles, pero esa concisión penalizó otros parámetros.\n- GPT-4o actúa como \"juez de estilo\" (sensible a concisión, con sesgo de lenidad y efecto techo); Gemma es un \"juez de alta resolución\" que preserva mayor granularidad evaluativa.\n- Las respuestas curadas por expertos no son necesariamente mejores que las generadas; los chatbots a veces superan a los anotadores.\n- En exactitud factual, coherencia y legibilidad todos los modelos operan en un \"techo\" de rendimiento.\n\n## Limitaciones\n\n- Acuerdo inter-anotador muy bajo (alfa de Krippendorff ≈ 0.083 en pareadas, 0.043 en scoring): los resultados son observaciones preliminares, no directrices pedagógicas validadas.\n- \"Deserción de anotadores\": de un diseño inicial mayor se redujo a 15 preguntas y aun así no todos completaron la tarea (proceso de ~70 días, costoso y laborioso).\n- Se usaron versiones gratuitas y no de razonamiento de los modelos; los resultados pueden no extrapolarse a las versiones de pago o más recientes.\n- Campo de cambio muy rápido: los modelos evaluados quedan rápidamente desactualizados.\n- Anotadores reclutados de la red profesional de los autores, lo que limita la generalización.\n- El dataset de entrenamiento de los LLM no es público, dificultando garantizar corrección y equidad de las fuentes.\n\n## Notas relacionadas\n\n- [[concepts/capacidades-de-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/biocombustibles]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/generacion-aumentada-por-recuperacion]]\n- [[concepts/supervision-humana]]"
     },
     {
       "id": "notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales",
@@ -6852,6 +7450,35 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl AI Scientist es el primer sistema capaz de automatizar de extremo a extremo el ciclo completo de investigación en inteligencia artificial: desde la generación de ideas hasta la escritura y revisión de manuscritos académicos. El sistema integra modelos de lenguaje (GPT-4o, Claude) con un entorno de ejecución de código que permite idear hipótesis, implementarlas, ejecutar experimentos mediante búsqueda en árbol y redactar artículos en formato LaTeX con figuras y análisis estadísticos. El pipeline es operado por un agente que toma decisiones autónomas en cada etapa, sin intervención humana entre pasos.\n\nEl sistema opera en dos modos: uno basado en plantillas (template-based), donde parte de un código de experimento existente y lo expande iterativamente, y otro libre (template-free) que usa búsqueda en árbol agentica para generar ideas y experimentos desde cero. El Automated Reviewer —un componente de revisión automática que emula el proceso de peer review— genera un conjunto de cinco revisiones independientes y una meta-revisión, alcanzando 69 % de balanced accuracy en aceptar/rechazar trabajos previos a su fecha de corte y 66 % después, comparables al desempeño de revisores humanos.\n\nEn una prueba real de publicación, el sistema generó tres manuscritos y los sometió al workshop ICBINB de ICLR 2025: el 70 % fue aceptado (frente al 48 % de tasa base del workshop), y uno de ellos superó la revisión con una puntuación de 6.33 (umbral: 6). Este resultado es especialmente significativo porque demuestra que un agente de IA puede producir trabajo original suficientemente riguroso para superar el escrutinio de revisores humanos en un contexto real.\n\nLos autores identifican limitaciones sustanciales: el sistema produce ideas frecuentemente derivadas o superficiales, comete errores de implementación, confabula resultados, duplica figuras y no tiene acceso a experimentos físicos o datos propios. Concluyen que los avances reales dependen de la calidad y el cómputo del modelo subyacente, que la supervisión humana sigue siendo indispensable, y que la automatización de la ciencia plantea riesgos de homogeneización del conocimiento y de erosión del reconocimiento de la contribución intelectual individual.\n\n## Contribuciones principales\n\n- Primer sistema end-to-end de automatización de investigación en IA: ideación → código → experimentos → manuscrito → revisión automática\n- Automated Reviewer con balanced accuracy comparable a revisores humanos (66-69 %)\n- Manuscrito generado que superó revisión por pares real en ICLR 2025 ICBINB workshop\n- Modo template-free con búsqueda en árbol agentica para explorar el espacio de hipótesis desde cero\n- Análisis empírico de cómo la calidad del agente y el cómputo escalan la calidad del output\n\n## Metodología\n\nEl pipeline encadena cuatro módulos: (1) **Ideación** — el agente consulta la literatura existente (vía Semantic Scholar API) y propone ideas que puntúa según novedad, viabilidad e interés; (2) **Experimentación** — escribe o modifica código Python y lo ejecuta iterativamente con retroalimentación del intérprete, usando búsqueda en árbol para explorar variantes; (3) **Redacción** — compila resultados y genera un PDF en LaTeX con tablas y figuras; (4) **Revisión automatizada** — otro agente lee el PDF, produce reseñas en formato estándar de ML y emite un score de aceptación. El template-free mode añade una fase de ideación más extensa y estructura el espacio de búsqueda como árbol con estados: borrador, ejecutado, aceptado, rechazado.\n\n## Hallazgos clave\n\n- El AI Scientist generó ideas viables y ejecutables en ML (transformers, diffusion, RL), bio-inspirada y otras áreas computacionales\n- 70 % de aceptación en ICLR 2025 ICBINB workshop; un paper con score 6.33 pasó el umbral de 6.0\n- El Automated Reviewer tiene balanced accuracy 66-69 %, similar a revisores humanos promedio\n- La calidad escala con la capacidad del modelo base (GPT-4o > modelos menos capaces) y con el cómputo invertido en búsqueda\n- Costo estimado por paper: ~15 USD en tokens de API (al momento de la publicación)\n\n## Limitaciones\n\n- Ideas frecuentemente derivadas, con poca profundidad conceptual o falsamente novedosas\n- Errores de implementación y alucinaciones en los resultados reportados\n- Incapaz de realizar experimentos físicos, acceder a datos experimentales originales o conectarse a laboratorios reales\n- Duplicación de figuras y problemas de presentación en algunos manuscritos\n- No adecuado para envío a venues principales de conferencias (solo workshop)\n- Riesgo de homogeneización del conocimiento científico y de \"gaming\" del sistema de peer review\n\n## Notas relacionadas\n\n- [[concepts/agentes-de-ia]]\n- [[concepts/descubrimiento-cientifico]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/publicacion-academica]]\n- [[concepts/etica-de-la-ciencia]]\n- [[concepts/supervision-humana]]\n- [[concepts/impacto-de-investigacion]]"
     },
     {
+      "id": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas",
+      "kind": "paper",
+      "label": "Can You Help ChatGPT Get an \\\"A\\\" in Organic Chemistry? Teaching Effective Prompting of Large Language Models for Reaction Prediction",
+      "authors": [
+        "Elizabeth S. Thrall",
+        "Olivia M. Vanden Assem",
+        "Julia A. Schneider",
+        "Joshua Schrier",
+        "Sebastian Tassoti"
+      ],
+      "year": "2026",
+      "venue": "Journal of Chemical Education",
+      "url": "https://doi.org/10.1021/acs.jchemed.5c01712",
+      "doi": "10.1021/acs.jchemed.5c01712",
+      "keywords": [
+        "inteligencia-artificial",
+        "alfabetizacion-en-ia",
+        "educacion-superior",
+        "pensamiento-critico",
+        "ingenieria-de-prompts",
+        "aprendizaje-en-contexto",
+        "generacion-aumentada-por-recuperacion"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas.md",
+      "pdf_local": "sources/pdfs/cheme-applications/thrall_2026_chatgpt-prompting-organic-reaction-prediction.pdf",
+      "content": "## Resumen\n\nEste artículo (de tipo \"Activity\" en el *Journal of Chemical Education*) presenta y evalúa una actividad de laboratorio, de unas 3 horas de duración, que introduce a estudiantes de primer semestre de química orgánica al uso de modelos de lenguaje de gran tamaño (LLMs) como ChatGPT para predecir el resultado de reacciones químicas, concretamente reacciones de adición a alquenos. La premisa de los autores es que, aunque los LLMs alcanzan un desempeño notable en tareas de química, su rendimiento óptimo depende de un uso adecuado —en especial de buenas técnicas de prompting—, y que normalmente a los estudiantes de química no se les enseñan estrategias para usar estas herramientas en tareas distintas a la escritura.\n\nLa actividad expone a los estudiantes a varios conceptos: representaciones moleculares (nombres IUPAC frente a cadenas SMILES), digitalización de reacciones químicas, la práctica de aprendizaje automático de separar datos en conjuntos de entrenamiento y prueba (train-test split), y dos estrategias generalizables de prompting. La primera es el método de las \"Cinco S\" (Set the Scene / Be Specific / Simplify your Language / Structure the Output / Share Feedback) para redactar prompts efectivos. La segunda es el aprendizaje en contexto (in-context learning, ICL) de pocos ejemplos (few-shot), en el que se incluyen unos pocos ejemplos relevantes dentro del propio prompt como alternativa accesible al ajuste fino (fine-tuning); los autores señalan su parentesco con la generación aumentada por recuperación (RAG).\n\nLa actividad se implementó por separado en la Fordham University (EE. UU., 18 estudiantes) y en la Universidad de Graz (Austria, 30 estudiantes), usando ChatGPT (modelo 4o, con descensos a 4o-mini al agotar las consultas gratuitas). Tras una primera implementación en Fordham se detectaron problemas (la actividad resultaba demasiado abierta, confusión entre IUPAC y SMILES, estereoquímica no abordada explícitamente, dificultades logísticas de compartir datos), por lo que se revisó para Graz: se usó IUPAC de forma exclusiva (SMILES como opción), se trató explícitamente la estereoquímica y se proporcionó una plantilla colaborativa de hoja de cálculo.\n\nLa evaluación se basó en encuestas anónimas pre y post laboratorio con escalas Likert de cinco puntos, analizadas con la prueba no paramétrica de Mann-Whitney U. Los estudiantes de ambas sedes reportaron haber alcanzado sus objetivos de aprendizaje y disfrutar la actividad. Hubo una mejora significativa y de gran tamaño de efecto en la afirmación \"puedo escribir prompts efectivos\" (antes Mdn = 3, después Mdn = 4), pero ningún cambio en la confianza hacia las respuestas de la IA ni en la tendencia a usarlas sin verificarlas —un resultado que los autores interpretan favorablemente: los estudiantes ganaron confianza en sus habilidades de prompting sin volverse acríticos frente a la herramienta.\n\n## Contribuciones principales\n\n- Diseño de una actividad de laboratorio reproducible que integra el uso de LLMs en la enseñanza de química orgánica de primer semestre, dominio poco explorado hasta ahora.\n- Aplicación pedagógica del marco de las \"Cinco S\" para enseñar prompting efectivo y del aprendizaje en contexto (few-shot ICL) como alternativa accesible al fine-tuning.\n- Vinculación de conceptos de química (representaciones moleculares, reacciones de adición a alquenos, estereoquímica) con conceptos de aprendizaje automático (train-test split, ICL).\n- Evaluación empírica mediante encuestas pre/post en dos contextos institucionales y culturales distintos (EE. UU. y Austria).\n\n## Metodología\n\nEstudio de implementación de una intervención educativa en dos universidades. La actividad consta de cuatro secciones (representaciones moleculares, train-test split, prompting con las \"Cinco S\", y aprendizaje en contexto), con una reflexión final. La evaluación se realizó con encuestas anónimas prelab (10 ítems) y postlab (28 ítems) en escala Likert de cinco puntos; tres ítems se repitieron en formato pre-post. El análisis estadístico usó la prueba de Mann-Whitney U (apta para datos ordinales y muestras pequeñas), reportando valores U, z, p y tamaños de efecto r. Muestras finales: n = 14 (Fordham) y n = 29 (Graz). Las reacciones se tomaron de los libros de texto de cada curso (Smith; Clayden et al.) y se digitalizaron con ChemDraw.\n\n## Hallazgos clave\n\n- Los estudiantes percibieron haber alcanzado sus objetivos de aprendizaje en aprendizaje automático, prompting con las \"Cinco S\" y con ICL (Mdn = 5 en los tres casos).\n- Mejora significativa y de gran tamaño de efecto (r = 0.554) en la autopercepción de capacidad para escribir prompts efectivos (de Mdn = 3 a Mdn = 4).\n- No cambió la confianza en las respuestas de la IA ni el uso acrítico de ellas, lo que los autores consideran deseable como forma de enseñar sobre IA generativa.\n- En la implementación revisada (Graz), los estudiantes reportaron mayor confianza y actitud más positiva hacia la IA generativa y mayor satisfacción global con el laboratorio.\n- Observaciones técnicas: el desempeño fue algo mejor con nombres IUPAC que con SMILES; mezclar ambos identificadores en los prompts empeoraba los resultados; los modelos predecían bien los isómeros estructurales pero fallaban en estereoquímica sin un prompting adecuado; bromaciones se predecían mejor que hidroboraciones.\n\n## Limitaciones\n\n- La evaluación se basa en autopercepción de los estudiantes mediante encuestas, no en mediciones objetivas del desempeño en la predicción de reacciones.\n- Muestras pequeñas (n = 14 y n = 29) y dos contextos institucionales específicos.\n- Las dos implementaciones no fueron idénticas (la versión de Graz fue revisada), lo que limita la comparación directa entre sedes.\n- Inestabilidad del entorno: cambios de modelo (degradación a 4o-mini), límites de consultas gratuitas y una caída de servicio de ChatGPT afectaron la ejecución; el rápido cambio del panorama de LLMs dificulta especificar un modelo concreto.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/educacion-superior]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/ingenieria-de-prompts]]\n- [[concepts/aprendizaje-en-contexto]]\n- [[concepts/generacion-aumentada-por-recuperacion]]"
+    },
+    {
       "id": "notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente",
       "kind": "paper",
       "label": "Sketch2Simulation: Automating Flowsheet Generation via Multi Agent Large Language Models",
@@ -6963,6 +7590,62 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-04-27_assess-ai-literacy-misalignment.md",
       "pdf_local": "sources/pdfs/ai-literacy-competency/zhang_2026_assess-ai-literacy-misalignment.pdf",
       "content": "## Resumen\n\nEl estudio aborda un problema central en la medición de la alfabetización en IA de los docentes de K-12: la mayoría de los instrumentos existentes se apoyan o bien en autorreportes (self-report, SR) —que capturan percepciones y actitudes— o bien en pruebas objetivas de desempeño (objective-based, OB) —que capturan competencias demostradas—, pero rara vez ambos dentro de un marco compartido que permita comparar la competencia percibida frente a la demostrada. Los autores desarrollan y validan psicométricamente ambos tipos de instrumentos sobre el marco establecido de cuatro dimensiones de Ng et al. (Concept/Conocer, Use/Usar, Evaluate/Evaluar y Ethics/Ética).\n\nA partir de una encuesta a 358 docentes taiwaneses de K-12 (muestra analítica final de 288), construyen una prueba objetiva de 25 ítems de opción múltiple basados en escenarios pedagógicos realistas y una escala de autorreporte de 15 ítems Likert adaptada de la AILS-CCS. Mediante un modelo de Rasch (1PL), análisis factorial exploratorio y confirmatorio (CFA) demuestran estabilidad psicométrica: la prueba objetiva converge en una estructura de tres factores (Comprensión Conceptual, Evaluación de Capacidades, Uso Práctico y Ético) y la escala de autorreporte confirma una estructura de cuatro factores. La fiabilidad es buena (KR-20 = 0.862; alfas entre .63 y .85) y el ajuste del modelo es aceptable o bueno.\n\nEl hallazgo más relevante es la baja correlación entre los factores SR y OB (r = 0.07 a 0.24), lo que indica que la percepción de los docentes sobre su propia competencia está débilmente asociada con su desempeño real; ambos instrumentos no son intercambiables. Un análisis de perfiles latentes (LPA) identifica seis perfiles distintos en la muestra completa, que abarcan sobreestimación (SR alto / OB bajo), subestimación (SR bajo / OB promedio) y alineamiento (SR ≈ OB).\n\nAl segmentar por experiencia previa en alfabetización en IA, emergen contrastes claros: la sobreestimación aparece solo entre docentes con experiencia previa (y de forma más leve y calibrada), mientras que un perfil único de \"bajo-bajo\" (SR y OB ambos muy por debajo del promedio) aparece exclusivamente entre quienes carecen de experiencia previa. Los autores interpretan la discrepancia SR-OB en términos de sesgos metacognitivos como el efecto Dunning-Kruger, y proponen los instrumentos como herramientas diagnósticas para el desarrollo profesional docente y para analíticas de aprendizaje escalables.\n\n## Contribuciones principales\n\n- Validación psicométrica conjunta de instrumentos SR y OB de alfabetización en IA docente sobre un marco compartido de cuatro dimensiones (Concept, Use, Evaluate, Ethics), permitiendo comparar competencia percibida y demostrada.\n- Evidencia empírica de que las medidas SR y OB están débilmente correlacionadas (r = 0.07-0.24) y no pueden usarse de forma intercambiable.\n- Identificación, mediante análisis de perfiles latentes, de seis perfiles de docentes que distinguen sobreestimación, subestimación y alineamiento entre percepción y desempeño.\n- Demostración de que la experiencia previa en alfabetización en IA reduce los desajustes extremos y favorece una autoevaluación más equilibrada.\n- Incorporación explícita de la dimensión de Ética tanto en las medidas SR como OB, extendiendo marcos previos centrados en lo conceptual, técnico y pedagógico.\n\n## Metodología\n\nEncuesta transversal aplicada en febrero de 2025 a docentes pre- y en-servicio de K-12 en Taiwán (358 respuestas; muestra analítica de 288 tras excluir autorreportes incompletos). Instrumentos: 25 ítems objetivos de opción múltiple basados en escenarios y 15 ítems de autorreporte Likert de 5 puntos, alineados con el marco de Ng et al. y la escala AILS-CCS. El análisis combina: (1) modelo de Rasch de un parámetro (1PL) con KR-20, mapa de Wright y estadísticos de ajuste Infit/Outfit para evaluar estabilidad psicométrica de la prueba objetiva; (2) análisis factorial exploratorio (oblimin) y confirmatorio (CFA) con índices de ajuste global (CFI, TLI, RMSEA, SRMR); y (3) análisis de perfiles latentes (LPA) con modelos de mezcla gaussiana, seleccionando el número de perfiles vía AIC/BIC, aplicado a la muestra total y a los subgrupos con y sin experiencia previa.\n\n## Hallazgos clave\n\n- La prueba objetiva es psicométricamente estable: alta fiabilidad (KR-20 = 0.862), buen ajuste ítem-persona y unidimensionalidad aproximada tras eliminar 5 ítems mal ajustados; estructura final de 18 ítems en tres factores.\n- La escala de autorreporte confirma una estructura de cuatro factores (modelo refinado de 13 ítems) con buen ajuste (CFI = .970, TLI = .961, RMSEA = .054) y alta consistencia interna (alfa = .889).\n- Las correlaciones entre factores SR y OB son uniformemente bajas (r = 0.07 a 0.24): autopercepción y desempeño están débilmente vinculados.\n- El LPA en la muestra completa rinde seis perfiles que abarcan sobreestimación, subestimación, alineamiento y un perfil de competencia objetiva fuerte con autorreporte promedio.\n- La sobreestimación (SR alto / OB bajo) aparece solo entre docentes con experiencia previa en IA; el perfil \"bajo-bajo\" es exclusivo de quienes no tienen experiencia previa.\n- La experiencia previa en alfabetización en IA se asocia con menos desajustes extremos y autoevaluaciones más calibradas; la discrepancia se enmarca como un posible efecto Dunning-Kruger.\n\n## Limitaciones\n\n- El análisis no separó a los docentes por estatus pre-servicio/en-servicio ni por años de experiencia docente, lo que limita el examen de cómo varían los perfiles según estos factores demográficos.\n- La prueba objetiva basada en escenarios no fue adaptada a materias o niveles de grado específicos.\n- Se detectó un posible efecto techo (19 respondientes con estimaciones de habilidad extremas), lo que sugiere la necesidad de ítems más difíciles para diferenciar a los docentes de mayor desempeño.\n- Marcos recientes incluyen dimensiones (Detect AI, IA generativa) cuyos ítems suelen ser demasiado técnicos para docentes de K-12, midiendo desconocimiento de terminología más que capacidad de integración pedagógica.\n- Muestra circunscrita a Taiwán, lo que puede limitar la generalización a otros contextos.\n\n## Notas relacionadas\n\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/formacion-docente]]\n- [[concepts/educacion-k12]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/sesgo-cognitivo]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/adopcion-de-tecnologia]]"
+    },
+    {
+      "id": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra",
+      "kind": "paper",
+      "label": "Generative artificial intelligence (Gen-AI)-driven method for hazard scenario generation in chemical process systems",
+      "authors": [
+        "Chen Yang",
+        "Tanjin Amin",
+        "Zaman Sajid",
+        "Faisal Khan"
+      ],
+      "year": "2026",
+      "venue": "Process Safety and Environmental Protection",
+      "url": "https://doi.org/10.1016/j.psep.2026.108977",
+      "doi": "10.1016/j.psep.2026.108977",
+      "keywords": [
+        "ingenieria-quimica",
+        "inteligencia-artificial",
+        "agentes-de-ia",
+        "grafos-de-conocimiento",
+        "supervision-humana",
+        "simulacion-computacional",
+        "descubrimiento-cientifico"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra.md",
+      "pdf_local": "sources/pdfs/cheme-applications/yang_2026_genai-hazard-scenario-generation-qra.pdf",
+      "content": "## Resumen\n\nLa generación precisa y exhaustiva de escenarios de peligro es el primer paso del análisis cuantitativo de riesgos (QRA) en la industria de procesos químicos. Los enfoques tradicionales (HAZOP, árboles de fallos, árboles de eventos, bowtie, redes bayesianas) dependen fuertemente de expertos, lo que los hace lentos, costosos y poco escalables; además, los escenarios suelen presentarse en forma descriptiva, con poca información sobre cómo se desarrollan causalmente dentro del sistema. Este trabajo propone un marco que combina IA generativa con conocimiento humano para abordar estas brechas.\n\nEl método genera automáticamente nuevos escenarios a partir de diagramas de flujo de proceso (PFD) y escenarios predefinidos, usando una red de isomorfismo de grafos (GIN) como codificador acoplada a un decodificador transformer secuencial (arquitectura graph-to-sequence). El PFD se representa como un grafo dirigido donde los nodos son operaciones unitarias con 14 parámetros (vaporización, fase, presión, temperatura, ignición, confinamiento, toxicidad, etc.) y las aristas indican el flujo de material. Los estados textuales de los nodos se convierten en embeddings mediante el tokenizador y codificador T5 de Google. El escenario de salida se modela como una cadena causal de condiciones parámetro–estado que conecta una condición inicial con una consecuencia final (incendio, explosión o toxicidad).\n\nPosteriormente, expertos humanos verifican y puntúan los escenarios generados (escala 0–5), con pesos asignados mediante el Ordinal Priority Approach (OPA). Así, el marco integra las fortalezas de la generación automática (velocidad, exhaustividad, capacidad de proponer escenarios novedosos) con la validación experta (plausibilidad lógica). El modelo se entrenó con 7600 pares grafo-texto generados por un marco basado en reglas (división 8:1:1: 5985 entrenamiento, 855 validación, 760 prueba).\n\nDos estudios de caso basados en informes reales de la U.S. Chemical Safety Board (CSB) —la explosión de nube de vapor confinada en CAI Inc. (Danvers, 2006) y el incendio de GLP en la refinería Valero–McKee (Sunray, 2007)— demuestran que el método puede mejorar la robustez de la identificación de peligros y la generación de escenarios. Es una prueba de concepto que establece la viabilidad de integrar aprendizaje sobre grafos y modelado generativo para la construcción estructurada de escenarios de peligro.\n\n## Contribuciones principales\n\n- Introduce la IA generativa (Gen-AI) en el análisis de peligros de procesos (process hazard analysis).\n- Combina las fortalezas de la IA y del juicio humano en lugar de depender de uno solo de los dos enfoques.\n- Proporciona un medio más rápido y confiable de generación de escenarios, acelerando potencialmente el proceso QRA.\n- Permite visualizar múltiples peligros en forma causal (gráfico causal), algo valioso pero generalmente ausente en métodos convencionales como HAZOP.\n- Demuestra la capacidad del modelo de generar escenarios de accidente novedosos no presentes en el conjunto de datos ni en la base de conocimiento experta.\n\n## Metodología\n\nMarco integrado humano-IA en cuatro pasos: (1) construcción de una base de datos de escenarios a partir de PFDs y conocimiento de dominio; (2) desarrollo y validación del modelo Gen-AI; (3) generación de escenarios de peligro en forma causal; (4) evaluación y verificación por expertos.\n\nEl modelo es un graph-to-sequence: un codificador GIN (con la expresividad del test de isomorfismo de Weisfeiler–Lehman, agregación inyectiva y MLPs) codifica el PFD al espacio latente, y un decodificador transformer autorregresivo genera la secuencia de la cadena causal mediante atención cruzada sobre los embeddings de los nodos. El entrenamiento usa teacher-forcing y pérdida de entropía cruzada. La inferencia emplea beam search para producir un conjunto diverso de escenarios de alta probabilidad (cinco por PFD, ~10 s). La evaluación usa una métrica personalizada de pares causales (precisión, recall, F1) además de BLEU-4 y ROUGE-2. Implementado en PyTorch con Deep Graph Library; entrenamiento de 100 épocas (~1 h 16 min) con AdamW en GPU RTX 4060.\n\n## Hallazgos clave\n\n- El modelo alcanza alto desempeño: F1 promedio ~0.96, BLEU-4 ~0.977 y ROUGE-2 F1 ~0.98 en los conjuntos de entrenamiento, validación y prueba.\n- En el caso 1 (explosión de nube de vapor), el escenario correcto recibió la puntuación experta más alta (4.8/5); escenarios alternativos físicamente inconsistentes recibieron puntuaciones bajas, pero algunos representaban cadenas causales coherentes no observadas previamente (capacidad de generación novedosa).\n- En el caso 2 (incendio jet en la unidad de desasfaltado con propano), el modelo predijo correctamente el peligro y la vía de evolución; varios escenarios de explosión de nube de vapor por vías distintas resultaron plausibles dado que distribuciones complejas de planta pueden crear confinamiento localizado.\n- La verificación experta es esencial porque los modelos generativos aprenden patrones estadísticos, no reglas lógicas explícitas, y pueden producir salidas fluidas pero causalmente incorrectas.\n\n## Limitaciones\n\n- Prueba de concepto con PFDs simplificados y un conjunto reducido de tipos de peligro (incendio, explosión, toxicidad).\n- Todos los parámetros se discretizan en estados categóricos, cada uno con un solo estado en un momento dado; no se modelan estados probabilísticos.\n- No se consideran explícitamente las variaciones espacio-temporales, el comportamiento termodinámico complejo ni las interacciones dinámicas del proceso; en procesos altamente dinámicos la suposición de estados estáticos limita la representación de mecanismos de escalada temporal.\n- Las interacciones entre parámetros se rigen por un marco basado en reglas predefinido, no por modelos físicos detallados.\n- Se requieren mejoras adicionales antes de aplicar el marco en la práctica industrial.\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-quimica]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/grafos-de-conocimiento]]\n- [[concepts/supervision-humana]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/descubrimiento-cientifico]]"
+    },
+    {
+      "id": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos",
+      "kind": "paper",
+      "label": "Large language model agent for user-friendly chemical process simulations",
+      "authors": [
+        "Jingkang Liang",
+        "Niklas Groll",
+        "Gürkan Sin"
+      ],
+      "year": "2026",
+      "venue": "Digital Chemical Engineering",
+      "url": "https://doi.org/10.1016/j.dche.2026.100312",
+      "doi": "10.1016/j.dche.2026.100312",
+      "keywords": [
+        "ingenieria-quimica",
+        "simulacion-computacional",
+        "agentes-de-ia",
+        "inteligencia-artificial",
+        "educacion-en-ingenieria",
+        "supervision-humana",
+        "alucinaciones-de-ia",
+        "adopcion-de-tecnologia"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos.md",
+      "pdf_local": "sources/pdfs/cheme-applications/liang_2026_llm-agent-process-simulations.pdf",
+      "content": "## Resumen\n\nLos simuladores de procesos químicos comerciales son herramientas centrales para diseñar, analizar y optimizar sistemas industriales, pero su uso exige curvas de aprendizaje pronunciadas, configuración manual extensa y experiencia de dominio que tarda años en desarrollarse. Esto restringe la exploración temprana por parte de usuarios inexpertos. Para reducir esta barrera, los autores integran un agente basado en un modelo de lenguaje grande (LLM) con el simulador comercial AVEVA Process Simulation (APS) a través del Model Context Protocol (MCP), permitiendo interactuar en lenguaje natural con simulaciones rigurosas de procesos.\n\nLa arquitectura desacopla el razonamiento del LLM de la ejecución determinista: el agente (Claude Desktop con Claude Sonnet 4.0 como modelo por defecto) actúa como cliente MCP, planifica acciones y orquesta llamadas a herramientas, mientras un servidor MCP construido con FastMCP expone un conjunto curado de 16 herramientas que envuelven la API de Python de APS. Todos los cálculos físicos (balances de masa y energía, equilibrio termodinámico, convergencia del solver) permanecen bajo control del solver validado de APS, lo que preserva el rigor y la reproducibilidad. El MCP funciona como una frontera de abstracción explícita entre el LLM y las operaciones específicas del simulador.\n\nEl marco se evalúa con tres casos de estudio de complejidad creciente, usando el ejemplo \"C1 - Water Methanol Separation\" (separación binaria agua-metanol por destilación) como sistema de referencia. El primer caso muestra al agente analizando autónomamente un flowsheet, identificando oportunidades de mejora y optimizando iterativamente (p. ej., ajustando la relación de reflujo para alcanzar >95 mol% de pureza de metanol). El segundo evalúa la síntesis autónoma de flowsheets en dos modos: un diálogo paso a paso (construcción guiada, adecuada para contextos educativos) y un único prompt (construcción rápida de líneas base para refinamiento posterior). El tercero evalúa la estabilidad variando la versión del LLM, el estilo de prompting y la complejidad del proceso.\n\nLos autores concluyen que el marco beneficia tanto a usuarios novatos (traduciendo conceptos técnicos y demostrando flujos de trabajo con fines educativos) como a practicantes experimentados (automatizando la extracción de datos, acelerando tareas rutinarias y apoyando la lluvia de ideas). Las limitaciones actuales se concentran en la interpretación de los resultados físicos: errores de razonamiento menores como sobreafirmaciones excesivamente optimistas, simplificaciones o sugerencias engañosas (p. ej., afirmar ahorros energéticos del 20-40% no verificados), por lo que la supervisión experta sigue siendo necesaria y las recomendaciones se tratan como hipótesis a verificar antes de implementarse.\n\n## Contribuciones principales\n\n- Primera integración —según los autores— totalmente implementada y reproducible de un servidor MCP con un simulador de procesos comercial, evaluada tanto en modo guiado como de mayor autonomía (operación dual-mode).\n- Diseño modular y extensible que desacopla el razonamiento del LLM de la ejecución determinista del simulador, permitiendo reutilizar el conjunto de herramientas entre distintos LLMs o aplicaciones anfitrionas sin reentrenar el modelo.\n- Conjunto curado de 16 herramientas que abstrae la API de Python de APS en operaciones de alto nivel alineadas con los pasos habituales de un ingeniero de procesos.\n- Marco de evaluación orientado a la confiabilidad que combina criterios cuantitativos (llamadas correctas a herramientas, exactitud numérica, errores técnicos) y cualitativos (seguridad, efectividad, claridad).\n\n## Metodología\n\nMarco agéntico que conecta un LLM (Claude Desktop / Claude Sonnet 4.0) como cliente MCP con APS (versión 2025) mediante un servidor MCP construido con FastMCP que expone 16 herramientas tipadas sobre la API de scripting de Python de APS. Evaluación mediante tres casos de estudio (análisis de flowsheet, síntesis de flowsheet en modo paso a paso y de un solo prompt, y prueba de estabilidad) sobre los ejemplos \"C1 - Water Methanol Separation\" y \"A6G - Ammonia Synthesis EQ\", con métricas cuantitativas y valoración cualitativa por niveles de calidad (A-E).\n\n## Hallazgos clave\n\n- En el análisis, el agente ejecutó una secuencia lógica de 7 llamadas a herramientas, accedió a 356 de 2006 variables y presentó al usuario solo 24 valores relevantes; todos los valores numéricos reportados fueron correctos.\n- En la optimización, ajustó la relación de reflujo a 1.45 para elevar la pureza de metanol del destilado de 84.2 a 95.1 mol%, manteniendo la pureza de agua en fondos y cuantificando el compromiso energético (+6%).\n- Las respuestas se mantuvieron estables ante variaciones en versiones del LLM, tipos de prompting y complejidad de los flowsheets.\n- La mayoría de las sugerencias de mejora se clasificaron en categorías de alta calidad (A/B); ninguna fue completamente incorrecta, pero algunas eran irrelevantes para el problema específico o potencialmente engañosas (p. ej., eficiencia de bandeja del 100%).\n\n## Limitaciones\n\n- Tendencia del LLM a \"sobregenerar\" listas largas que priorizan amplitud sobre profundidad, abrumando a usuarios inexpertos cuando no se imponen restricciones explícitas en el prompt.\n- Errores menores de razonamiento en la interpretación de resultados físicos: afirmaciones excesivamente optimistas o engañosas (ahorros energéticos del 20-40% no verificados, suposiciones de optimalidad sin probar).\n- Requiere supervisión experta (human-in-the-loop); las recomendaciones son hipótesis que deben verificarse antes de implementarse.\n- Validación limitada a un simulador (APS) y a ejemplos de su biblioteca; no se evalúan procesos industriales complejos de gran escala.\n\n## Notas relacionadas\n\n- [[concepts/ingenieria-quimica]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/supervision-humana]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/adopcion-de-tecnologia]]"
     },
     {
       "id": "notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo",
@@ -7098,6 +7781,33 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl estudio aborda una brecha crítica: los programas existentes de alfabetización en IA para docentes se centran casi exclusivamente en aspectos técnicos y herramientas pre-ChatGPT, descuidando dimensiones pedagógicas, éticas, sociocultural y el desarrollo del pensamiento crítico que los futuros educadores necesitan. Los estudiantes de formación docente ocupan una posición doble: son aprendices actuales y futuros mediadores del uso de IA en el aula, lo que exige una preparación específica y estructurada. Adicionalmente, las restricciones curriculares y la baja alfabetización en IA de los propios formadores de docentes limitan la implementación de intervenciones efectivas.\n\nUsando investigación basada en diseño (DBR), el estudio desarrolla y evalúa un conjunto de principios para un taller de competencias en IA generativa (GenAI). El marco integra el Modelo de Competencias en IA de la UNESCO para estudiantes y docentes, el marco TPACK y el modelo HASRL (Human–AI Shared Regulation for Learning). El taller fue primero pilotado con 14 estudiantes de maestría y luego evaluado con 29 estudiantes de formación docente. Los resultados muestran ganancias significativas en autoeficacia en competencias de IA, actitudes hacia GenAI y compromiso crítico, ético y pedagógico con las herramientas.\n\nLos hallazgos destacan que el aprendizaje transformador, activo y experiencial es esencial para preparar a los estudiantes de formación docente en sus roles cambiantes como practicantes reflexivos, co-creadores y aprendices permanentes en un mundo mediado por IA. El paper ofrece principios de diseño concretos para incorporar formación en GenAI dentro de currículos de formación docente, yendo más allá del entrenamiento técnico para fomentar metacognición, habilidades de interacción humano-IA y disposiciones críticas.\n\n## Contribuciones principales\n- Marco de principios de diseño para formación en alfabetización GenAI en programas de formación docente\n- Evidencia empírica de ganancias en autoeficacia, actitudes y compromiso ético tras intervención de taller corto\n- Integración de marcos UNESCO, TPACK y HASRL en una intervención evaluada empíricamente\n\n## Metodología\n\nInvestigación basada en diseño (DBR) con ciclos iterativos. Fase piloto: 14 estudiantes de maestría; fase de evaluación: 29 estudiantes de formación docente. Instrumentos: encuestas de autoeficacia, análisis de artefactos producidos (planificaciones de clase), y reflexiones escritas.\n\n## Hallazgos clave\n- Ganancias significativas en autoeficacia en competencias de IA tras el taller\n- Mejora en actitudes hacia GenAI y en compromiso crítico y pedagógico\n- Los principios de diseño deben incluir aprendizaje activo, reflexión metacognitiva e interacción práctica humano-IA\n- La formación técnica sola es insuficiente; se requiere integrar dimensiones éticas y sociocultural\n\n## Limitaciones\n- Muestra pequeña (14 + 29 participantes) en contexto universitario finlandés\n- Diseño de intervención corta; efectos a largo plazo no medidos\n- Puede no generalizarse a contextos con menor acceso a herramientas GenAI\n\n## Notas relacionadas\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/formacion-docente]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/supervision-humana]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]"
     },
     {
+      "id": "notes/papers/2026-06-27_capchat-genai-capstone",
+      "kind": "paper",
+      "label": "Integrating Generative AI Tools into the Capstone Course",
+      "authors": [
+        "Farid Farahmand",
+        "Shivakumar Mathapathi"
+      ],
+      "year": "2025",
+      "venue": "ASEE Annual Conference (American Society for Engineering Education)",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "educacion-en-ingenieria",
+        "inteligencia-artificial",
+        "tutoria-con-ia",
+        "retroalimentacion-con-ia",
+        "evaluacion-educativa",
+        "pensamiento-critico",
+        "integridad-academica",
+        "sostenibilidad"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-06-27_capchat-genai-capstone.md",
+      "pdf_local": "sources/pdfs/cheme-applications/farahmand_2025_capchat-capstone.pdf",
+      "content": "## Resumen\n\nEl artículo describe la integración de una herramienta de IA generativa, ChatGPT, en el curso capstone (proyecto de grado) de un programa de ingeniería eléctrica en Sonoma State University. Los autores desarrollaron un chatbot personalizado llamado CAPCHAT (Capstone Guide Chatbot), construido con la interfaz de OpenAI y el GPT Builder sobre GPT-4, diseñado para ayudar a estudiantes de último año a refinar los requisitos de marketing e ingeniería de sus proyectos. El contexto del problema es la dificultad de gestionar la experiencia capstone en programas pequeños, donde un único docente supervisa varios equipos y el tiempo limitado de clase impide dar retroalimentación detallada y temprana a cada grupo.\n\nEl curso capstone se estructura en dos cursos consecutivos: EE 492 (planeación, ideación y descubrimiento de clientes en otoño) y EE 493 (desarrollo de prototipo, pruebas y análisis de mercado en primavera). CAPCHAT se enfoca en la primera fase, guiando a los estudiantes en definir la aplicación y la base de clientes, identificar atributos de marketing, formular requisitos de ingeniería, considerar el ciclo de vida y la disposición final del producto, evaluar el impacto social y las preocupaciones éticas, e identificar puntos potenciales de falla. El chatbot está deliberadamente diseñado para no entregar soluciones completas, sino para apoyar un proceso iterativo de retroalimentación.\n\nLa herramienta se pilotó con 22 estudiantes de último año. Cada equipo elaboró primero una versión inicial de la definición de su proyecto y luego una versión revisada tras interactuar individualmente con CAPCHAT, seguida de una encuesta de retroalimentación. Cerca del 70% de los estudiantes encontró la herramienta beneficiosa para abordar requisitos de marketing e ingeniería, referencia a estándares, análisis de fallas y consideraciones de sostenibilidad. La comparación cualitativa de entregas \"antes\" y \"después\" mostró mejoras en precisión, claridad e incorporación de tolerancias y parámetros medibles.\n\nEl artículo también discute riesgos: dependencia excesiva de la tecnología, sesgos en las respuestas de la IA, limitaciones técnicas y de accesibilidad, erosión de las habilidades de colaboración, preocupaciones de privacidad y seguridad de datos, y la expectativa errónea de los estudiantes de que la herramienta entregue soluciones finales. Los autores recomiendan integrar el chatbot tempranamente en el proceso y ofrecer instrucción formal sobre su uso.\n\n## Contribuciones principales\n\n- Diseño e implementación de CAPCHAT, un chatbot personalizado basado en GPT-4 adaptado al currículo capstone de ingeniería eléctrica.\n- Metodología de desarrollo en 7 pasos usando el GPT Builder de OpenAI (definir propósito, preparar contenido, plataforma prediseñada, entrenamiento con datasets específicos del curso, pruebas, despliegue, iteración).\n- Estudio piloto con 22 estudiantes y comparación cualitativa de requisitos de proyecto antes y después de usar la herramienta.\n- Discusión estructurada de riesgos y consideraciones éticas de incorporar IA generativa en cursos de diseño.\n\n## Metodología\n\nEstudio de caso con un piloto de un año sobre 22 estudiantes de último año en el curso EE 492. Los estudiantes produjeron una definición inicial del proyecto y luego una versión revisada tras interactuar individualmente con CAPCHAT (una semana). Se recogió retroalimentación mediante una encuesta corta (no anónima) y se realizó una comparación cualitativa de las entregas antes/después (value proposition, requisitos de ingeniería y de marketing). El desarrollo del chatbot se hizo con la interfaz de OpenAI y el GPT Builder sobre GPT-4.\n\n## Hallazgos clave\n\n- Cerca del 70% de los estudiantes encontró la herramienta beneficiosa para refinar requisitos de marketing e ingeniería, estándares, análisis de fallas y sostenibilidad; fue especialmente valorada para definir requisitos de marketing.\n- 8 de 22 estudiantes (un tercio) reportaron no haber usado ChatGPT antes, contradiciendo la suposición de los docentes de uso generalizado.\n- Las entregas \"después\" mostraron mayor precisión: tolerancias, límites de consumo de potencia y rangos de estabilidad ambiental medibles, frente a descripciones genéricas iniciales.\n- Recomendación recurrente de los estudiantes: introducir la herramienta más temprano en el proceso y dar instrucciones más claras sobre cómo usarla.\n- Muchos estudiantes esperaban que la herramienta diera soluciones completas en lugar de retroalimentación iterativa.\n\n## Limitaciones\n\n- Muestra pequeña (22 estudiantes) en un único programa y curso; resultados cualitativos, sin grupo de control formal ni medición cuantitativa rigurosa.\n- Encuestas y entregas no anónimas, lo que puede sesgar las respuestas.\n- Integración tardía de la herramienta en el ciclo del proyecto limitó su potencial de ahorro de tiempo.\n- Precisión variable de las salidas del chatbot, que requieren validación y refinamiento por parte de los estudiantes.\n- Riesgos no resueltos: sobredependencia, sesgos, accesibilidad, erosión de la colaboración y privacidad de datos.\n\n## Notas relacionadas\n\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/integridad-academica]]\n- [[concepts/sostenibilidad]]"
+    },
+    {
       "id": "notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria",
       "kind": "paper",
       "label": "EngiBench: A Benchmark for Evaluating Large Language Models on Engineering Problem Solving",
@@ -7129,6 +7839,235 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria.md",
       "pdf_local": "sources/pdfs/capability-reliability/zhou_2025_engibench-engineering-problem-solving.pdf",
       "content": "## Resumen\n\nEngiBench es un benchmark jerárquico diseñado para evaluar la capacidad de los grandes modelos de lenguaje (LLMs) para resolver problemas de ingeniería del mundo real. A diferencia de los benchmarks matemáticos existentes (GSM8K, MATH, Omni-MATH), que se centran en problemas bien definidos y de respuesta cerrada, EngiBench aborda la complejidad de la ingeniería real, donde los problemas implican incertidumbre, contexto y escenarios abiertos que van más allá del cálculo simbólico.\n\nEl benchmark organiza las tareas en tres niveles de dificultad creciente: Nivel 1 (recuperación de conocimiento fundamental, cálculo de un solo paso), Nivel 2 (razonamiento contextual multi-paso bajo restricciones bien definidas) y Nivel 3 (modelado abierto con incertidumbre, información incompleta y objetivos en conflicto). Cubre tres grandes subcampos de la ingeniería —Sistemas y Control (939 problemas), Físico y Estructural (354) y Químico y Biológico (467)— y define la \"capacidad de resolución de problemas de ingeniería\" como cuatro dimensiones: extracción de información, razonamiento específico de dominio, toma de decisiones multi-objetivo y manejo de la incertidumbre.\n\nPara diagnosticar dónde y por qué fallan los modelos, cada problema se reescribe sistemáticamente en tres variantes controladas: perturbada (cambios numéricos y semánticos para medir robustez y reducir solapamiento con datos de preentrenamiento), aumentada con conocimiento (añade fórmulas y definiciones para separar déficits de conocimiento de fallos de razonamiento) y abstracción matemática (elimina el contexto de ingeniería para aislar la capacidad matemática pura). Las tareas abiertas de Nivel 3 se evalúan con rúbricas diseñadas por expertos.\n\nLos resultados sobre 16 LLMs muestran una clara estratificación: la precisión decae con la complejidad de la tarea, se degrada bajo perturbaciones menores y permanece muy por debajo del desempeño humano en tareas de alto nivel. Incluso los modelos más fuertes (GPT-4.1, Claude 3.7 Sonnet) alcanzan puntajes cercanos a 7.0 en Nivel 3, frente al promedio humano experto de 8.74. Los autores concluyen que los LLMs actuales todavía carecen del razonamiento de alto nivel necesario para la ingeniería real.\n\n## Contribuciones principales\n\n- Uno de los primeros benchmarks que evalúa sistemáticamente a los LLMs en problemas de ingeniería del mundo real, no solo matemáticos.\n- Diseño jerárquico de tres niveles de dificultad con múltiples variantes por problema, que permite un análisis fino de las capacidades y limitaciones de razonamiento.\n- Primera colección sistemática de tareas de ingeniería abiertas (43 problemas de competiciones de modelado) con rúbricas oficiales y soluciones de referencia validadas por expertos.\n- Evaluación de un conjunto amplio de LLMs mainstream (cerrados y abiertos), con hallazgos orientados al desarrollo de futuros modelos.\n\n## Metodología\n\nBenchmark de evaluación zero-shot sobre 16 LLMs (cerrados: GPT-4.1/Mini/Nano, Claude 3.7 y 3.5 Sonnet, Gemini 2.5 y 2.0 Flash; abiertos: GLM-4, Qwen2.5, Llama 4 y 3.3, DeepSeek-V3 y R1, Mixtral-8x7B). Los datos provienen de benchmarks públicos, materiales educativos universitarios y competiciones de modelado, filtrados por relevancia de ingeniería. Niveles 1 y 2 se puntúan de forma binaria con verificación cruzada multi-modelo y revisión humana; el Nivel 3 usa evaluación basada en rúbricas, calificada por LLMs y calibrada por anotadores humanos. Se introducen puntajes humanos de referencia (envíos ganadores de competiciones y soluciones de estudiantes destacados) bajo la misma rúbrica.\n\n## Hallazgos clave\n\n- Estratificación clara de desempeño: alta precisión en Nivel 1, moderada en Nivel 2, fuerte caída en Nivel 3.\n- La variante perturbada produce caídas de precisión (p. ej. -9.3% GPT-4.1 Nano, -11.4% Qwen2.5-7B en Nivel 2), revelando dependencia del pattern matching y riesgo de contaminación por preentrenamiento.\n- El conocimiento explícito y la abstracción matemática mejoran el desempeño: el reto principal no es el cálculo, sino traducir descripciones en lenguaje natural a formulaciones estructuradas.\n- Los modelos pequeños son mucho más sensibles a las variantes de entrada, indicando generalización limitada.\n- Los LLMs manejan bien la extracción de información pero fallan en razonamiento de dominio y manejo de incertidumbre; todos quedan por debajo del experto humano (8.74) en Nivel 3.\n- Correlación positiva entre desempeño en tareas estructuradas y abiertas, con excepciones: Llama 4 rinde bien en estructuradas pero falla en abiertas (razonamiento de alto nivel débil).\n\n## Limitaciones\n\n- No incluye tareas multimodales (diagramas, esquemas, tablas): todas las entradas son solo texto.\n- Excluye tareas de contexto largo que exceden los límites de entrada de los LLMs actuales.\n- La construcción del dataset requiere un esfuerzo humano sustancial (recolección, generación de respuestas, validación de variantes).\n\n## Notas relacionadas\n\n- [[concepts/capacidades-de-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/pensamiento-critico]]"
+    },
+    {
+      "id": "notes/papers/2026-06-27_llm-automatizan-hazop",
+      "kind": "paper",
+      "label": "Can large language models automate the HAZOP process without human intervention?",
+      "authors": [
+        "Junseo Lee",
+        "Sunhwa Park",
+        "Sehyeon Oh",
+        "Byungchol Ma"
+      ],
+      "year": "2026",
+      "venue": "Safety Science",
+      "url": "https://doi.org/10.1016/j.ssci.2025.107039",
+      "doi": "10.1016/j.ssci.2025.107039",
+      "keywords": [
+        "seguridad-de-procesos",
+        "ingenieria-quimica",
+        "inteligencia-artificial",
+        "capacidades-de-ia",
+        "supervision-humana",
+        "procesamiento-de-lenguaje-natural"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-06-27_llm-automatizan-hazop.md",
+      "pdf_local": "sources/pdfs/cheme-applications/lee_2026_llm-automate-hazop.pdf",
+      "content": "## Resumen\n\nEl estudio investiga si modelos de lenguaje multimodales de última generación (LLMs) pueden ejecutar de forma autónoma el proceso completo de Estudio de Peligros y Operabilidad (HAZOP) sin intervención humana. HAZOP es una herramienta cualitativa de análisis de peligros de proceso (PHA) ampliamente usada en la industria química, tradicionalmente realizada en sesiones de lluvia de ideas dirigidas por expertos, que combinan parámetros de proceso con palabras guía para identificar desviaciones, causas, consecuencias y salvaguardas. Por su alto consumo de tiempo y dependencia de experticia, ha sido objeto de esfuerzos de automatización desde los años 80.\n\nSe evaluaron cuatro LLMs (GPT4o, GPT4o-mini, LLAMA 3.2 y Gemini 2.0) generando hojas de trabajo HAZOP automáticas a partir de un mismo diagrama de tuberías e instrumentación (P&ID), con un prompt estandarizado y minimalista. Las salidas se compararon contra una hoja de referencia preparada por expertos (tomada de *HAZOP: Guide to Best Practice*, Crawley y Tyler, 2015) en dos dimensiones: (1) rendimiento del modelo —similitud mediante métricas BERT (precisión, recall, F1) y costo computacional— y (2) rendimiento HAZOP —validez de los escenarios generados (mediante embeddings BERT, reducción PCA y clustering K-means) y diversidad de salvaguardas (clasificadas en diseño inherentemente seguro/pasivas, activas y procedimentales)—.\n\nLos cuatro modelos lograron alta similitud con la referencia (F1 > 86 %), confirmando capacidad para producir hojas HAZOP con buena fidelidad semántica y contextual. LLAMA fue el más económico (0.011 USD por hoja), mientras que Gemini generó el mayor número de escenarios (34.3 por hoja) y de salvaguardas (1.79 por desviación). Sin embargo, la proporción de escenarios semánticamente válidos fue baja (0.19 a 0.37) y las salvaguardas estuvieron fuertemente sesgadas hacia medidas procedimentales —las menos confiables en la jerarquía de gestión de riesgos—, evidenciando diversidad limitada en estrategias de mitigación.\n\nLos autores concluyen que los LLMs actuales tienen potencial como herramientas asistivas en seguridad de procesos, pero no son aptos para automatización total sin supervisión humana. Recomiendan investigación futura en ingeniería de prompts avanzada, ajuste fino específico de dominio y mejores capacidades de razonamiento, así como descomponer la tarea HAZOP en pasos modulares con prompts y temperaturas dedicados.\n\n## Contribuciones principales\n\n- Primer estudio que evalúa la aplicabilidad de LLMs dentro de la metodología tradicional HAZOP (a diferencia de trabajos previos en STPA, FMEA o FRAM).\n- Propone un marco estructurado y reproducible para evaluar LLMs en HAZOP en dos dimensiones: rendimiento del modelo (similitud + costo) y rendimiento HAZOP (validez de escenarios + diversidad de salvaguardas).\n- Benchmark comparativo de cuatro LLMs líderes (GPT4o, GPT4o-mini, LLAMA 3.2, Gemini 2.0) bajo condiciones idénticas y prompt estandarizado.\n- Esquema de categorización e indexación de salvaguardas (ISD/pasivas, activas, procedimentales) para evaluación cuantitativa de su diversidad.\n\n## Metodología\n\nFlujo de tres pasos: (1) Generación de HAZOP vía LLMs —cada modelo recibe un mismo P&ID, descripción de proceso, procedimientos operativos y guías HAZOP, y genera hojas en formato tabular (Guideword/Effect/Cause/Consequence/Safeguard); se generan 10 hojas por cada valor de temperatura (0.1, 0.5, 1.0), 120 hojas en total. (2) Word embedding —estandarización de términos y conversión a vectores numéricos con BERT. (3) Evaluación —similitud mediante alineación de filas por similitud coseno y métricas BERT (P, R, F1); costo por hoja según políticas de precios de API y hardware (Azure para LLAMA); validez de escenarios mediante PCA + clustering K-means (k=3 por método del codo) y razón de escenarios válidos; validación manual de una submuestra (120 escenarios). Salvaguardas clasificadas según la jerarquía de gestión de riesgos (Baybutt, 2016).\n\n## Hallazgos clave\n\n- Similitud alta y homogénea entre modelos: F1 de 86.7 % (GPT4o), 86.5 % (GPT4o-mini y Gemini), 86.2 % (LLAMA).\n- Costo: LLAMA 3.2 el más barato (0.011 USD/hoja, open-source pero exige hardware); GPT4o-mini el más barato entre comerciales; Gemini 2.0 el más caro (0.115 USD) por su procesamiento multimodal.\n- Cantidad de escenarios: Gemini lideró (34.3/hoja), seguido de LLAMA (22.4), GPT4o (20.3) y GPT4o-mini (16.4); solo Gemini superó las 25 escenarios de la referencia.\n- Validez baja de escenarios (razón de escenarios válidos): GPT4o 37 %, Gemini 33 %, GPT4o-mini 20 %, LLAMA 19 %; existe un trade-off claro entre volumen y relevancia (LLAMA genera mucho pero con baja validez).\n- La temperatura afectó principalmente la diversidad lingüística superficial (léxico, fraseo), no el razonamiento lógico estructurado requerido para los escenarios.\n- Salvaguardas fuertemente sesgadas hacia medidas procedimentales, las menos robustas; diversidad limitada de estrategias de mitigación.\n\n## Limitaciones\n\n- Proporción baja de escenarios semánticamente válidos (0.19–0.37), insuficiente para aplicación práctica directa.\n- Sesgo hacia salvaguardas procedimentales y baja diversidad de medidas de mitigación.\n- Uso de un único prompt amplio para toda la hoja, limitando el efecto de la temperatura al plano estilístico.\n- Sensibilidad del clustering K-means a outliers; algunos escenarios \"inválidos\" (p. ej., despresurización en LLAMA) podían ser plausibles pero quedaron fuera por no figurar en la referencia experta.\n- Dependencia indispensable de supervisión humana: los LLMs se posicionan como herramientas asistivas, no autónomas.\n\n## Notas relacionadas\n\n- [[concepts/seguridad-de-procesos]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/procesamiento-de-lenguaje-natural]]"
+    },
+    {
+      "id": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes",
+      "kind": "paper",
+      "label": "Exploring the Capacity of Large Language Models to Simulate Students' Scientific Thinking: Insights for Responsive Teaching",
+      "authors": [
+        "Ha Nguyen",
+        "Jie Cao"
+      ],
+      "year": "2026",
+      "venue": "Journal of Science Education and Technology",
+      "url": "https://doi.org/10.1007/s10956-026-10333-5",
+      "doi": "10.1007/s10956-026-10333-5",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-k12",
+        "psicologia-educativa",
+        "capacidades-de-ia",
+        "formacion-docente",
+        "retroalimentacion-con-ia",
+        "supervision-humana",
+        "evaluacion-educativa"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes.md",
+      "pdf_local": "sources/pdfs/cheme-applications/nguyen_2026_llm-simulate-student-scientific-thinking.pdf",
+      "content": "## Resumen\n\nEl estudio investiga si distintos grandes modelos de lenguaje (LLMs) pueden simular de forma realista las ideas que los estudiantes de K-12 producirían en actividades de aprendizaje de ciencias, con el fin de apoyar la enseñanza responsiva (*responsive teaching*). La enseñanza responsiva busca elicitar, poner en primer plano y profundizar la sustancia de las ideas de los estudiantes, conectándolas con perspectivas disciplinares; sin embargo, anticipar y generar esas ideas durante la planeación de clases es una tarea laboriosa que exige conocimiento del contenido y del contexto instruccional. Los autores proponen usar LLMs para externalizar posibles ideas estudiantiles y aliviar esa carga.\n\nSe evaluaron seis modelos —GPT-5-mini, GPT-4o, Claude Sonnet 4, Gemini 2.5 Flash, Mistral 7B y Llama-4-17B— generando 8.820 ideas simuladas a partir de 49 planes de lección de OpenSciEd (alineados con los Next Generation Science Standards) que abarcan tres dominios (ciencias de la vida, física y química) y tres niveles escolares (primaria, media y secundaria). Cada modelo produjo 30 ideas por lección. La evaluación cuantitativa (RQ1) midió tres dimensiones: la similitud semántica entre las ideas simuladas y las ideas reales de las lecciones (vía embeddings y similitud coseno), el nivel de lenguaje (índice Flesch-Kincaid) y el alcance de conocimiento apropiado para el grado (mediante un enfoque *LLM-as-a-judge* con GPT-5).\n\nLos hallazgos indican que las respuestas simuladas son en general realistas y se ubican mayoritariamente en el nivel de grado esperado tanto en alcance de conocimiento (91%) como en legibilidad (69%). No obstante, hay variaciones entre modelos y niveles: los LLMs producen más ideas dentro del alcance para secundaria y tienden a generar ideas demasiado complejas y con lenguaje técnico para los grados inferiores. Un pipeline de re-prompting iterativo (\"revisa esta respuesta para el grado X\") mejora sustancialmente la alineación de legibilidad.\n\nEn la segunda fase (RQ2), entrevistas semiestructuradas con seis docentes que usaron ideas generadas por GPT-4o con sus propios planes de lección revelaron que las respuestas son percibidas como realistas y alineadas con los objetivos. Resultan más útiles cuando estimulan el *sensemaking* del docente sobre lo que sus estudiantes saben y no saben, y cuando sugieren andamiajes instruccionales relevantes. Los docentes también señalaron limitaciones: vocabulario poco natural, preguntas de seguimiento demasiado dirigidas y la necesidad constante de refinamiento humano con contexto del aula.\n\n## Contribuciones principales\n\n- Aporta evidencia empírica a gran escala (8.820 ideas, seis LLMs) de que los LLMs pueden aproximar el pensamiento abierto de estudiantes y solaparse con ideas generadas por docentes y estudiantes reales.\n- Demuestra cómo las simulaciones de LLM pueden apoyar prácticas de enseñanza responsiva: externalizar ideas estudiantiles, activar el *sensemaking* docente y sugerir andamiajes.\n- Documenta variaciones sistemáticas de desempeño por modelo y por nivel de grado, subrayando la necesidad de evaluación exhaustiva antes del despliegue.\n- Integra una fase cualitativa con docentes, poco común en estudios previos de simulación estudiantil.\n\n## Metodología\n\nDiseño de dos fases mapeadas a las preguntas de investigación. Fase 1 (RQ1): generación de ideas con seis LLMs sobre planes de OpenSciEd, mediante un prompt estructurado (estándares de aprendizaje, instrucción previa, descripción de la actividad, descripción de la tarea con grado/dominio, e instrucción de simulación que incluía razonamiento parcial o incorrecto). Pipeline de evaluación de cinco pasos: clustering aglomerativo de ideas (embeddings text-embedding-3-large), similitud coseno frente a ideas-lección, nivel de lenguaje Flesch-Kincaid, alcance de conocimiento con LLM-as-a-judge (GPT-5, validado con codificación humana del 20%, κ = 0.69; y robustez con Claude Sonnet 4, κ = 0.64) y análisis cualitativo de divergencias. Modelos mixtos lineales y generalizados (lme4) con ID de actividad como intercepto aleatorio; pruebas Kruskal-Wallis, ANOVA, Chi-cuadrado y Fisher exacta. Fase 2 (RQ2): seis entrevistas semiestructuradas (45 min) con docentes de primaria, media y secundaria usando GPT-4o; análisis temático con *member checking*.\n\n## Hallazgos clave\n\n- Similitud semántica media de 0.52 (SD = 0.07); los modelos mayores superan a Mistral-7B; la similitud es menor en secundaria que en primaria/media.\n- El dominio (vida, física, química) no predice significativamente la similitud semántica.\n- 69% de las ideas cumplen el nivel de lenguaje objetivo; Llama-4 es el mejor (>80%); los LLMs generan lenguaje demasiado complejo para grados inferiores.\n- 91% de las ideas caen dentro del alcance de conocimiento esperado; GPT-4o y Llama-4 son los mejores; GPT-5-mini tiende a exceder el alcance del grado.\n- El re-prompting iterativo mejora la alineación de legibilidad (Gemini 95.92%, GPT-5-mini solo 55.10%).\n- Divergencias cualitativas: razonamiento más genérico (60.54%), errores conceptuales menos apropiados al desarrollo (17.69%), exceso de vocabulario técnico (35.71%), menos marcadores de incertidumbre (14.63%) y uso de analogías (7.48%).\n- Los docentes valoran las ideas para activar su *sensemaking* y los *prompts* de facilitación, pero exigen supervisión humana y refinamiento iterativo con contexto del aula.\n\n## Limitaciones\n\n- Muestra pequeña de docentes (n = 6), justificada por el principio de \"poder informativo\" pero limitada en generalización.\n- Las ideas-lección de referencia provienen de OpenSciEd, no de transcripciones de aula reales; la \"realidad\" del estudiante es una aproximación.\n- Sesgos potenciales al usar un LLM (GPT-5) para juzgar salidas de otros LLMs entrenados con datos similares.\n- Los LLMs tienen dificultad persistente para representar el razonamiento y las concepciones erróneas de estudiantes más jóvenes (primaria).\n- La evaluación de lenguaje se basa en un único índice (Flesch-Kincaid), que captura legibilidad pero no toda la autenticidad lingüística.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-k12]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/formacion-docente]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/evaluacion-educativa]]"
+    },
+    {
+      "id": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica",
+      "kind": "paper",
+      "label": "Work-in-Progress: Student perceptions and usage of generative AI in second-year chemical engineering design exercises",
+      "authors": [
+        "Jonathan Verrett"
+      ],
+      "year": "2025",
+      "venue": "ASEE Annual Conference & Exposition (Paper ID #49274)",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "educacion-en-ingenieria",
+        "ingenieria-quimica",
+        "inteligencia-artificial",
+        "integridad-academica",
+        "pensamiento-critico",
+        "educacion-superior",
+        "adopcion-de-tecnologia"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica.md",
+      "pdf_local": "sources/pdfs/cheme-applications/verrett_2025_student-perceptions-design.pdf",
+      "content": "## Resumen\n\nEste trabajo en progreso (Work-in-Progress) examina cómo los estudiantes de un curso de fundamentos y diseño de ingeniería química de segundo año en una universidad pública canadiense de investigación intensiva (University of British Columbia) perciben y utilizan herramientas de IA generativa. El curso combina fundamentos de fisicoquímica con una introducción al diseño de procesos, e incluye un proyecto de diseño con seis reportes cortos, una presentación final y un reporte final, coordinado con un curso paralelo de comunicación técnica.\n\nMediante una encuesta anónima aplicada al final del curso, se recibieron 36 respuestas, de las cuales 32 estaban completas (tasa de respuesta del 26 % sobre 122 estudiantes). De los 32 encuestados, 18 reportaron haber usado IA generativa en sus proyectos de diseño y 14 no la usaron. Entre quienes la usaron, los usos más citados fueron la edición de documentos (11), la resolución de problemas (11), la revisión de literatura (6), la creación de presentaciones (4), la programación (4) y la comprensión del material del curso (1). Todos los usuarios de IA reportaron usar alguna versión de ChatGPT; herramientas como Copilot, Mistral y Gemini fueron minoritarias.\n\nEn cuanto a la utilidad percibida (medida con escalas Likert), un resultado notable es que los cuatro estudiantes que usaron IA para programar coincidieron fuertemente en su utilidad, en línea con literatura previa sobre la idoneidad de los LLM para tareas de código (aunque potencialmente en detrimento del aprendizaje). Los resultados para otros usos fueron mixtos, pero en general más estudiantes percibieron algún beneficio. Las preocupaciones más frecuentes —tanto en usuarios como en no usuarios— giraron en torno a respuestas de baja calidad y problemas de integridad académica, reflejando un escepticismo saludable hacia la herramienta. El autor concluye que los hallazgos son congruentes con estudios previos y plantea como trabajo futuro introducir técnicas de uso crítico y efectivo de la IA, así como métodos cualitativos (entrevistas) para enriquecer los datos.\n\n## Contribuciones principales\n\n- Caracteriza el uso real y las percepciones de IA generativa específicamente en estudiantes de segundo año de ingeniería química, un nivel menos estudiado que los cursos capstone o de programación.\n- Documenta una distribución concreta de usos (edición de documentos y resolución de problemas como predominantes) y de herramientas (predominio absoluto de ChatGPT).\n- Identifica las preocupaciones compartidas entre usuarios y no usuarios: baja calidad e integridad académica.\n\n## Metodología\n\nEstudio basado en una encuesta anónima (aprobada por el comité de ética institucional, ID #H24-03237) aplicada en la última semana del curso y abierta dos semanas durante el periodo de exámenes, sin incentivos. El instrumento se adaptó de un estudio previo sobre cursos capstone. Combina preguntas cerradas de opción múltiple, escalas Likert de cinco puntos sobre utilidad percibida y preguntas abiertas. Las respuestas \"otras\" se recodificaron en categorías existentes. La muestra final fue de 32 respuestas completas (n=18 usuarios, n=14 no usuarios).\n\n## Hallazgos clave\n\n- 18 de 32 estudiantes (56 %) usaron IA generativa en sus proyectos de diseño.\n- Usos principales: edición de documentos (11) y resolución de problemas (11); luego revisión de literatura (6), presentaciones (4) y programación (4).\n- Los cuatro estudiantes que usaron IA para programar estuvieron \"muy de acuerdo\" con su utilidad (efecto fuerte pero con n muy pequeño).\n- ChatGPT domina por completo el uso (17 menciones); otras herramientas son marginales.\n- Las preocupaciones dominantes en ambos grupos son la baja calidad de las respuestas y la integridad académica; ninguno de los usuarios reportó dificultad para formular prompts.\n- Las percepciones son congruentes con estudios previos: visión generalmente positiva acompañada de escepticismo sobre precisión y fiabilidad.\n\n## Limitaciones\n\n- Tamaño de muestra pequeño (32 respuestas) y tasa de respuesta del 26 %, lo que limita la generalización.\n- Subgrupos muy reducidos (p. ej., solo 4 estudiantes usaron IA para programar) que impiden inferencias robustas.\n- Encuesta anónima sin control de respuestas duplicadas.\n- Datos exclusivamente autorreportados de un único curso e institución; sin componente cualitativo aún (planeado como trabajo futuro).\n- Carácter de trabajo en progreso (Work-in-Progress).\n\n## Notas relacionadas\n\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/integridad-academica]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/educacion-superior]]\n- [[concepts/adopcion-de-tecnologia]]"
+    },
+    {
+      "id": "notes/papers/2026-06-27_superstudent-llm-termodinamica",
+      "kind": "paper",
+      "label": "Superstudent intelligence in thermodynamics",
+      "authors": [
+        "Rébecca Loubet",
+        "Pascal Zittlau",
+        "Marco Hoffmann",
+        "Luisa Vollmer",
+        "Sophie Fellenz",
+        "Heike Leitte",
+        "Fabian Jirasek",
+        "Johannes Lenhard",
+        "Hans Hasse"
+      ],
+      "year": "2025",
+      "venue": "arXiv (preprint)",
+      "url": "https://arxiv.org/abs/2506.09822",
+      "doi": "",
+      "keywords": [
+        "capacidades-de-ia",
+        "razonamiento-cuantitativo-llm",
+        "inteligencia-artificial",
+        "educacion-en-ingenieria",
+        "ingenieria-quimica",
+        "evaluacion-educativa",
+        "futuro-del-trabajo",
+        "termodinamica"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-06-27_superstudent-llm-termodinamica.md",
+      "pdf_local": "sources/pdfs/cheme-applications/loubet_2025_superstudent-thermodynamics-preprint.pdf",
+      "content": "## Resumen\n\nEn esta nota breve, el grupo de Termodinámica de Ingeniería de la RPTU Kaiserslautern reporta y analiza un hecho llamativo: el modelo de razonamiento o3 de OpenAI superó a los 90 estudiantes que presentaron un examen universitario de termodinámica en la primavera de 2025. El examen, perteneciente al primer curso de termodinámica para ingeniería, es considerado un obstáculo difícil: las tasas de reprobación son muy altas (58 % en esta edición) y las calificaciones A son extremadamente raras. Los autores sostienen que una A en este examen suele tomarse como prueba indiscutible de capacidades intelectuales excepcionales, porque los problemas son siempre nuevos y no pueden resolverse por aprendizaje de patrones, sino solo combinando creativamente los principios de la termodinámica.\n\nA o3 se le dio exactamente el mismo examen que a los estudiantes (en alemán, incluyendo entradas y salidas gráficas), evaluado con los mismos criterios. En modo zero-shot, sin ingeniería de prompts especial, o3 resolvió correctamente los tres problemas en tres corridas independientes con resultados casi idénticos, obteniendo un puntaje global situado entre los mejores observados por el autor de correspondencia en más de 10.000 exámenes similares desde 1985. El único error mayor de o3 apareció en el Problema 3, relacionado con un tema especial (las propiedades calóricas de un fluido de densidad constante); las demás pérdidas de puntos se debieron a representaciones gráficas menores. Este resultado contrasta con un estudio previo del mismo grupo (otoño 2024), donde modelos como GPT-3.5, GPT-4, GPT-4o, Llama 3.1 70B y Le Chat solo superaban el 90 % en problemas simples y fallaban en los avanzados.\n\nLos autores enmarcan el hallazgo como un punto de inflexión: las máquinas ahora destacan en tareas complejas que se tomaban como prueba de capacidad intelectual humana, por lo que proponen llamarlas \"inteligentes\", apelando al test de Turing y al trabajo de Bubeck et al. sobre \"chispas de AGI\" en GPT-4 (en o3 ven \"no chispas, sino un incendio\"). El examen funciona como un atajo del test de Turing: si algo puede imitar exitosamente a un estudiante brillante, basta para considerarlo inteligente.\n\nLa discusión se centra en las consecuencias para la ingeniería y la educación. Anticipan equipos mixtos de ingenieros humanos y \"colegas de IA\", con retos sobre asignación de tareas, confianza en resultados, responsabilidad legal y la alta \"rotación\" de modelos cada vez más capaces. Para la educación argumentan que el perfil del ingeniero se desplazará: la comprensión fundamental será más importante que la excelencia operativa, y habilidades de input (prompting, formular bien las preguntas) y de output (decidir si confiar y aplicar los resultados) serán esenciales. Advierten que estos cambios pueden amplificar desigualdades en la comunidad de ingeniería y plantean preguntas abiertas para la epistemología de la ingeniería: si la máquina aprueba un examen diseñado para verificar comprensión, ¿hay que admitir que la máquina \"comprende\" la termodinámica?, y ¿aprendió los principios o se beneficia de haber visto muchas aplicaciones?\n\n## Contribuciones principales\n\n- Documenta el primer caso, en el corpus del grupo, en que un LLM de razonamiento (o3) supera a todos los estudiantes (90) en un examen real de termodinámica de ingeniería, evaluado con los mismos criterios.\n- Sitúa el puntaje de o3 entre los mejores de más de 10.000 exámenes equivalentes administrados desde 1985.\n- Contrasta este desempeño con el de modelos previos (otoño 2024), mostrando el salto cualitativo de o1 a o3 en problemas avanzados.\n- Plantea un marco interpretativo (examen como \"atajo\" del test de Turing) y una agenda de consecuencias para la práctica y la educación en ingeniería.\n\n## Metodología\n\nEstudio observacional comparativo de un solo evento. Se administró el mismo examen de Termodinámica I (07.04.2025, en alemán, con entrada/salida gráfica) a 90 estudiantes y al modelo o3 de OpenAI. Prompting zero-shot, sin entrenamiento ni ingeniería de prompts especial; cada uno de los tres problemas se prompteó secuencialmente. Se realizaron tres corridas independientes con o3. La evaluación de las respuestas de o3 se hizo a mano, con los mismos criterios y rúbrica que los estudiantes (puntos por análisis, formulación de ecuaciones aplicables y su combinación; pocos puntos por el resultado numérico). El examen y su solución se incluyen como información suplementaria.\n\n## Hallazgos clave\n\n- o3 resolvió esencialmente sin errores los Problemas 1 y 2; el único error mayor fue en el Problema 3 (propiedades calóricas de un fluido de densidad constante).\n- Tasa de reprobación de los estudiantes: 58 %; solo un estudiante obtuvo A — o3 lo superó.\n- Resultados de las tres corridas de o3 casi idénticos, a diferencia de la mayor variabilidad observada en estudios anteriores con modelos más débiles.\n- El idioma (alemán vs. inglés) tiene poca influencia en el desempeño de los LLMs en estos problemas, según estudios previos del grupo.\n- o3 supera a los modelos de razonamiento (o1-preview, o1-mini) reportados en estudios recientes sobre Olimpiada de Física y física de pregrado.\n\n## Limitaciones\n\n- Es una nota breve sobre un único examen y un único modelo (o3); no es un estudio sistemático con múltiples evaluaciones o modelos.\n- La evaluación se hizo manualmente, lo que limita la escalabilidad y reproducibilidad, aunque los autores la consideran directa y de alta confianza para este caso.\n- Los propios autores reconocen que extrapolar del desempeño en exámenes académicos a tareas reales de ingeniería es arriesgado: los LLMs están mejor adaptados a los primeros que a las segundas.\n- Los sistemas basados en conocimiento (p. ej., KnowTD del mismo grupo) garantizan corrección pero tienen alcance limitado; cómo combinarlos con LLMs queda como problema abierto.\n\n## Notas relacionadas\n\n- [[concepts/capacidades-de-ia]]\n- [[concepts/razonamiento-cuantitativo-llm]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/termodinamica]]"
+    },
+    {
+      "id": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica",
+      "kind": "paper",
+      "label": "Responsible use of Generative AI in chemical engineering",
+      "authors": [
+        "Thorin Daniel",
+        "Jin Xuan"
+      ],
+      "year": "2024",
+      "venue": "Digital Chemical Engineering",
+      "url": "https://doi.org/10.1016/j.dche.2024.100168",
+      "doi": "10.1016/j.dche.2024.100168",
+      "keywords": [
+        "inteligencia-artificial",
+        "etica-de-la-ia",
+        "ingenieria-quimica",
+        "regulacion-de-ia",
+        "supervision-humana",
+        "ia-explicable",
+        "seguridad-de-ia",
+        "educacion-en-ingenieria"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica.md",
+      "pdf_local": "sources/pdfs/cheme-applications/daniel_2024_responsible-genai-chemeng.pdf",
+      "content": "## Resumen\n\nEste artículo de perspectiva sostiene que la rápida llegada de la IA generativa (LLMs como ChatGPT, además de generadores de imagen, sonido y modelos 3D) a la ingeniería química exige principios explícitos de uso responsable, en lugar de dejar que un enfoque de prueba y error guíe su adopción. Los autores parten de un diagnóstico del estado actual de la ética en ingeniería y de los principios de IA responsable, y proponen combinarlos para que las herramientas generativas se integren de forma segura en la práctica profesional del sector químico.\n\nEl argumento central es que los ingenieros químicos están especialmente posicionados para liderar este esfuerzo porque ya operan bajo una fuerte cultura de seguridad, nacida de desastres industriales históricos, y bajo una sensibilidad ambiental marcada por el alto consumo energético y las emisiones de la industria química. Esa misma lógica de \"la persona antes que el beneficio\" y de consideración de consecuencias para individuos, comunidades y generaciones futuras (encarnada en herramientas como HAZOPs y análisis de ciclo de vida) debe extenderse a la IA generativa. Los autores advierten que las salvaguardas actuales de los LLMs son reactivas y eludibles (jailbreaks), no constituyen una seguridad inherente, y que información sobre procesos químicos peligrosos introducida en estos modelos podría facilitar usos dañinos (p. ej., armas químicas).\n\nSe identifican principios transversales compartidos entre la ética de la ingeniería y la IA responsable —transparencia, integridad, rendición de cuentas (accountability)— como cimiento común sobre el cual construir nuevas regulaciones. El texto recorre aplicaciones prometedoras (generación automática de diagramas de flujo y P&IDs, automatización de HAZOPs, diseño de electrodos, celdas de combustible y baterías) subrayando que la falta de supervisión humana y de explicabilidad podría introducir riesgos de seguridad si diseños mal comprendidos llegan a desarrollo sin revisión cualificada.\n\nLos autores proponen un enfoque multifacético en tres ejes —tecnología, personas y regulación—. En lo tecnológico: modelos más confiables (trustworthy AI, definida por la UE como legal, ética y robusta), reducción de sesgos en datos, verificación de resultados y explicabilidad (XAI). En lo humano: diseño centrado en las personas que augmente las capacidades del ingeniero, junto con liderazgo y comunicación que traten la responsabilidad en IA con la misma seriedad que la cultura de seguridad. En lo regulatorio: cuerpos reguladores fuertes, registros de bases de datos compartidas y resolución de los problemas de atribución, plagio y gobernanza de datos, ampliando los códigos de conducta profesional existentes en vez de reescribirlos.\n\n## Contribuciones principales\n\n- Articula un marco conceptual que une la ética tradicional de la ingeniería con los principios de IA responsable, identificando transparencia, integridad y rendición de cuentas como base compartida.\n- Propone un enfoque tripartito (tecnología, personas, regulación) para la adopción responsable de IA generativa en ingeniería química.\n- Argumenta que los ingenieros químicos, por su cultura de seguridad y conciencia ambiental, están bien posicionados para dar forma a la regulación emergente de IA.\n- Aboga por estándares legibles por máquina para diagramas de flujo y por registros de datos compartidos como condiciones para una IA confiable.\n\n## Metodología\n\nArtículo de perspectiva (opinión académica revisada por pares), no empírico. Construye su argumento mediante revisión y síntesis de literatura sobre ética de la ingeniería, IA confiable, XAI, seguridad de procesos y aplicaciones de IA generativa en el sector químico, apoyándose en códigos profesionales (IChemE, Royal Academy of Engineering) y en guías regulatorias (directrices de IA confiable de la UE).\n\n## Hallazgos clave\n\n- Las salvaguardas de los LLMs son reactivas y vulnerables a ataques sistemáticos (jailbreaks); no equivalen a la \"seguridad inherente\" exigida en el diseño de procesos químicos.\n- La explicabilidad y verificación de resultados son indispensables para construir una cadena de confianza entre entrada y salida; los modelos como caja negra erosionan la confianza experta.\n- La automatización (P&IDs, flowsheets, HAZOPs) promete acelerar el trabajo, pero exige mantener conocimiento y participación humana para evitar diseños erróneos o sin sentido físico.\n- El uso irresponsable surge tanto del usuario (hacer trampa en evaluaciones) como del evaluador (no actualizar los métodos de evaluación), lo que puede requerir un cambio de fondo en la forma de evaluar.\n- Reproducir el patrón histórico de \"regular solo tras el desastre\" rompería la confianza y frenaría el desarrollo de la IA; se requiere una postura regulatoria proactiva.\n\n## Limitaciones\n\n- Es un artículo de perspectiva sin evidencia empírica propia ni validación de los principios propuestos.\n- Los principios planteados (transparencia, integridad, rendición de cuentas) son generales y los propios autores reconocen que su traducción operativa a la ingeniería química aún es difusa.\n- Las propuestas regulatorias (registros de datos compartidos, repositorios distribuidos) se reconocen como costosas y posiblemente solo viables para grandes organizaciones.\n- Centrado en el contexto profesional e institucional británico/europeo (IChemE, EPSRC, regulación UE), lo que puede limitar su generalización.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/ia-explicable]]\n- [[concepts/seguridad-de-ia]]\n- [[concepts/educacion-en-ingenieria]]"
+    },
+    {
+      "id": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica",
+      "kind": "paper",
+      "label": "From Canonical to Complex: Benchmarking LLM Capabilities in Undergraduate Thermodynamics",
+      "authors": [
+        "Anna Geißler",
+        "Luca-Sophie Bien",
+        "Friedrich Schöppler",
+        "Tobias Hertel"
+      ],
+      "year": "2025",
+      "venue": "arXiv (preprint)",
+      "url": "https://arxiv.org/abs/2510.14152",
+      "doi": "",
+      "keywords": [
+        "capacidades-de-ia",
+        "razonamiento-cuantitativo-llm",
+        "tutoria-con-ia",
+        "inteligencia-artificial",
+        "ingenieria-de-prompts",
+        "razonamiento-multimodal",
+        "termodinamica",
+        "educacion-superior"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica.md",
+      "pdf_local": "sources/pdfs/cheme-applications/geissler_2025_utqa-thermodynamics-benchmark-preprint.pdf",
+      "content": "## Resumen\n\nEl paper introduce UTQA (Undergraduate Thermodynamics Question Answering), un benchmark de 50 preguntas de opción única diseñado para evaluar la competencia de los grandes modelos de lenguaje (LLMs) en termodinámica de nivel universitario, con énfasis en procesos de gas ideal, entropía y reversibilidad. Los autores argumentan que la termodinámica es un banco de pruebas ideal porque su núcleo teórico es compacto pero su aplicación correcta exige distinciones conceptuales sutiles (calor vs. trabajo, variables de estado vs. de proceso, y sobre todo transformaciones reversibles vs. irreversibles). Señalan que los benchmarks científicos existentes (GPQA, Humanity's Last Exam, SciBench) cubren muy poco el razonamiento termodinámico, especialmente entropía y reversibilidad.\n\nEl benchmark se compone de 33 preguntas de solo texto y 17 basadas en diagramas (p–V, T–S, H–p, etc.). Ningún modelo de la generación 2025 alcanzó el umbral provisional de fiabilidad del 95% propuesto por los autores para uso no supervisado en tutoría: el mejor desempeño global fue de gpt-o3 con 82%. El rendimiento en ítems de solo texto (media 67%, hasta 88% en DeepSeek R1) fue muy superior al de ítems con diagramas (media 32%, frecuentemente cerca del azar), revelando un déficit de \"binding\" multimodal: los modelos identifican ejes y rasgos de las curvas, pero fallan al mapear la geometría a su significado termodinámico (p. ej., áreas con signo bajo curvas p–V como trabajo).\n\nLos experimentos de prompting (17 estrategias sobre gpt-4o, incluyendo chain-of-thought, tree/graph of thoughts, personas y framings afectivos) mostraron sensibilidad real pero modesta (precisiones entre 0.36 y 0.54): el diseño del prompt afecta sobre todo la presentación superficial y la estabilidad, no corrige déficits profundos de razonamiento. Las degradaciones lingüísticas controladas (claridad, ortografía, terminología) revelaron que oscurecer la estructura lógica causa las mayores pérdidas, mientras que el ruido ortográfico y terminológico moderado se tolera bien. La complejidad sintáctica (número de cláusulas, rango 1–20) no mostró correlación significativa con la precisión.\n\nLa conclusión central es que los LLMs actuales aún no son adecuados para tutoría no supervisada en este dominio: las brechas se concentran en escenarios de tasa finita/irreversibles y en la vinculación de rasgos visuales al significado termodinámico. Aun así, los autores documentan progreso sustancial y consideran plausible alcanzar el umbral en el futuro cercano si mejora el acoplamiento entre percepción visual y restricciones físicas.\n\n## Contribuciones principales\n\n- Introducción de UTQA, benchmark de 50 ítems de opción única (33 de texto, 17 de diagramas) enfocado específicamente en procesos de gas ideal, entropía y reversibilidad; disponible públicamente (huggingface.co/datasets/herteltm/UTQA).\n- Comparación cross-model de 19 LLMs contemporáneos (incluyendo gpt-5, Gemini 2.5 Pro, Grok 3, DeepSeek R1, Claude 4 Sonnet, gpt-o3) en ítems de texto y de diagramas.\n- Evaluación sistemática de 17 estrategias de prompting y de degradaciones lingüísticas controladas sobre gpt-4o.\n- Propuesta de un umbral de fiabilidad del 95% para tutoría no supervisada, no alcanzado por ningún modelo de 2025.\n- Identificación de un déficit de \"binding\" multimodal como cuello de botella principal en la interpretación de diagramas.\n\n## Metodología\n\nDos clases de experimentos: (i) experimentos de prompting y degradación lingüística ejecutados exclusivamente en gpt-4o vía API (temperatura T = 0.7, ciclos completos de las 33 preguntas para minimizar efectos de caching), y (ii) comparación cross-model sobre 19 modelos usando sus interfaces web/CLI bajo condiciones idénticas con un prompt baseline. Los ítems de texto se restringieron para aislar el razonamiento verbal/semántico; los de diagramas se analizaron por separado. Se aplicaron perturbaciones controladas en tres familias (claridad reducida, ruido ortográfico, sustitución de terminología técnica) a dos severidades, preservando el contenido físico y la clave correcta. La precisión se reportó como media sobre corridas independientes, con desviación estándar run-to-run para separar efectos genuinos del prompt de la variabilidad estocástica.\n\n## Hallazgos clave\n\n- Ningún modelo de 2025 superó el umbral del 95%; el mejor global fue gpt-o3 con 82%.\n- Ítems de solo texto (media 67%) muy superiores a ítems con diagramas (media 32%, a menudo cerca del azar del 25%).\n- El diseño del prompt mostró sensibilidad real pero modesta (0.36–0.54); el formato de dos fases (\"analiza luego responde\") no produjo ganancias significativas.\n- Oscurecer la estructura lógica (claridad) causa la mayor pérdida de precisión; el ruido ortográfico/terminológico moderado se tolera.\n- La complejidad sintáctica (número de cláusulas) no correlaciona con la precisión.\n- Patrones de error recurrentes: uso indebido de plantillas cuasiestáticas pese a señales de tasa finita, errores de contabilidad de entropía, puntos ciegos sobre la dependencia de la trayectoria del trabajo, y anclaje numérico a exponentes/constantes de libro de texto.\n- En diagramas, los modelos parsean rasgos de bajo nivel (ejes, segmentación, curvatura) pero fallan al mapear la geometría a cantidades termodinámicas (áreas con signo, feasibilidad bajo la segunda ley).\n\n## Limitaciones\n\n- Alcance intencionalmente estrecho (gases ideales; excluye gases reales, mezclas, equilibrios de fase y fenómenos de transporte), por lo que podrían emerger modos de fallo adicionales bajo cobertura más amplia.\n- Los experimentos de prompting y degradación se realizaron solo sobre gpt-4o, no sobre todos los modelos.\n- Benchmark pequeño (50 ítems), formato exclusivo de opción única con tres distractores.\n- Cumplir umbrales de precisión es necesario pero insuficiente para tutoría efectiva: no se evaluaron la granularidad de interacción, la retroalimentación oportuna ni la desambiguación en diálogo.\n\n## Notas relacionadas\n\n- [[concepts/capacidades-de-ia]]\n- [[concepts/razonamiento-cuantitativo-llm]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-de-prompts]]\n- [[concepts/razonamiento-multimodal]]\n- [[concepts/termodinamica]]\n- [[concepts/educacion-superior]]"
+    },
+    {
+      "id": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica",
+      "kind": "paper",
+      "label": "Digital simulation workshops to enhance student learning of Chemical Engineering Thermodynamics",
+      "authors": [
+        "Mauro Luberti",
+        "Thomas L. Rodgers",
+        "Percy van der Gryp"
+      ],
+      "year": "2026",
+      "venue": "Interactive Learning Environments",
+      "url": "https://doi.org/10.1080/10494820.2025.2529445",
+      "doi": "10.1080/10494820.2025.2529445",
+      "keywords": [
+        "educacion-en-ingenieria",
+        "ingenieria-quimica",
+        "simulacion-computacional",
+        "aprendizaje-activo",
+        "pensamiento-critico",
+        "evaluacion-educativa",
+        "psicologia-educativa"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica.md",
+      "pdf_local": "sources/pdfs/cheme-applications/luberti_2026_digital-simulation-workshops-thermo.pdf",
+      "content": "## Resumen\n\nEl estudio evalúa la integración de talleres de simulación digital en un curso de Termodinámica de Ingeniería Química de primer año en la Universidad de Manchester. La termodinámica química es reconocida como un curso notoriamente difícil debido a sus conceptos abstractos, su naturaleza de resolución de problemas y el modelado matemático asociado, lo que ha impulsado el paso de aulas centradas en el docente hacia entornos más activos y centrados en el estudiante. Los talleres se fundamentan en la Teoría del Aprendizaje Experiencial (ELT), según la cual los estudiantes construyen conocimiento a partir de la experiencia práctica más que de la mera instrucción recibida.\n\nLos talleres se diseñaron para usar el software comercial Aspen Properties como un generador rápido de equilibrio líquido-vapor (VLE). Se ejecutaron dos sesiones de dos horas (semanas 7 y 9) durante el segundo semestre del año académico 2023-2024, con la asistencia de aproximadamente el 82% de la cohorte (145 de 176 estudiantes). El contenido cubrió numerosos aspectos del VLE: la selección de modelos termodinámicos apropiados (ecuaciones de estado como Peng-Robinson y Soave-Redlich-Kwong, y modelos de coeficiente de actividad como Wilson y NRTL mediante un \"árbol de decisión\"), y la evaluación de diagramas (P-x-y, T-x-y, y-x, P-T) para mezclas ideales, reales y azeotrópicas, así como mezclas de alta presión con comportamiento normal y retrógrado.\n\nLa evaluación combinó una encuesta de opinión estudiantil (52 respuestas, escala Likert de 5 puntos sobre estructura, contenido técnico y utilidad percibida) con la comparación del desempeño en el examen final frente al año previo (2022-2023, sin talleres). Las respuestas fueron en general positivas (promedios Likert de 3.4 a 4.3), con mayor satisfacción en la organización del taller y la caracterización de mezclas mediante diagramas, y menor acuerdo en la comprensión de los modelos de coeficiente de actividad (48%) y el comportamiento retrógrado (48%). El acoplamiento de simulaciones interactivas con un enfoque basado en problemas promovió mayor compromiso y pensamiento crítico, y mejoró el rendimiento académico: las preguntas de examen sobre equilibrio de fases (vinculadas a los talleres) aumentaron en promedio 9.4%, frente a solo 2.2% en una pregunta no relacionada, con reducción de la brecha de logro de la clase.\n\n## Contribuciones principales\n- Diseño y validación de talleres de simulación digital fundamentados en la Teoría del Aprendizaje Experiencial para un curso introductorio de termodinámica química.\n- Demostración del uso de software comercial (Aspen Properties) como generador rápido de VLE y herramienta pedagógica, justificada por su difusión en industria y academia y su integración con otros cursos del programa.\n- Evidencia cuantitativa de mejora en el desempeño del examen final atribuible a los talleres, con reducción de la dispersión de notas en preguntas sobre equilibrio de fases.\n\n## Metodología\nImplementación de dos talleres de dos horas en aula de PC, con trabajo individual/en parejas/grupos pequeños bajo supervisión de líderes de unidad y asistentes de enseñanza, dentro de un curso de aprendizaje mixto (blended) de 11 semanas. Evaluación mixta: encuesta en papel anónima y voluntaria con 11 ítems Likert, análisis demográfico (género, procedencia) mediante prueba t de Student de dos colas, y comparación interanual de las notas del examen final con pruebas t (medias) y F (desviaciones estándar).\n\n## Hallazgos clave\n- Acuerdo positivo del 78-85% en la capacidad de caracterizar mezclas ideales y reales a baja presión y mezclas a alta presión mediante diagramas.\n- Menor acuerdo en la comprensión de modelos de coeficiente de actividad (48%) y comportamiento retrógrado (48%), señalando puntos a reforzar.\n- Aumento estadísticamente significativo de las notas en las dos preguntas de examen sobre equilibrio de fases (+6.4% y +12.3%), con p < 0.05 y reducción de la desviación estándar.\n- El concepto de azeótropo, notoriamente difícil, fue mejor asimilado (62% de acuerdo) gracias al enfoque gráfico e interactivo.\n\n## Limitaciones\n- Muestra de encuesta pequeña (52 estudiantes, ~30% de la cohorte) y de un solo curso e institución.\n- Las diferencias por género y procedencia no resultaron estadísticamente significativas en ninguna pregunta.\n- Comparación interanual del examen sujeta a posibles factores no controlados entre cohortes; la pregunta de equilibrio de reacción química (no vinculada a los talleres) sirve como referencia parcial.\n- Uso de software comercial (no abierto) que limita la replicabilidad en contextos sin licencia.\n\n## Notas relacionadas\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/psicologia-educativa]]"
+    },
+    {
+      "id": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
+      "kind": "paper",
+      "label": "Using large language models for solving textbook-style thermodynamic problems",
+      "authors": [
+        "Rébecca Loubet",
+        "Pascal Zittlau",
+        "Luisa Vollmer",
+        "Marco Hoffmann",
+        "Sophie Fellenz",
+        "Fabian Jirasek",
+        "Heike Leitte",
+        "Hans Hasse"
+      ],
+      "year": "2026",
+      "venue": "Computers and Chemical Engineering",
+      "url": "https://doi.org/10.1016/j.compchemeng.2025.109333",
+      "doi": "10.1016/j.compchemeng.2025.109333",
+      "keywords": [
+        "capacidades-de-ia",
+        "razonamiento-cuantitativo-llm",
+        "inteligencia-artificial",
+        "ingenieria-quimica",
+        "alucinaciones-de-ia",
+        "grafos-de-conocimiento",
+        "supervision-humana",
+        "evaluacion-educativa"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook.md",
+      "pdf_local": "sources/pdfs/cheme-applications/loubet_2026_llm-textbook-thermo-problems.pdf",
+      "content": "## Resumen\n\nEl estudio evalúa empíricamente la capacidad de cinco grandes modelos de lenguaje (LLMs) para resolver problemas de termodinámica de ingeniería del tipo que aparece en libros de texto. Los autores diseñaron un benchmark propio de 22 problemas, divididos en dos conjuntos: 13 problemas \"simples\" (sistemas cerrados con gas ideal que experimentan un único cambio de estado: isotérmico, isobárico, isocórico, politrópico, adiabático/no adiabático, reversible/irreversible) y 9 problemas \"avanzados\" (sistemas abiertos y cerrados, procesos multietapa y cíclicos, líquidos y gases, sistemas acoplados, con contribuciones de energía cinética y potencial). Los problemas se redactaron específicamente para el estudio, enteramente en texto y con solución única bien determinada, y se liberan junto con sus soluciones y rúbrica.\n\nLos modelos evaluados fueron GPT-3.5, GPT-4 y GPT-4o (OpenAI), Llama 3.1 70B (Meta) y le Chat / Mistral Large 2 (MistralAI). Cada problema se presentó tres veces de forma independiente a cada modelo para medir la varianza de las respuestas, usando una estrategia de prompting única (tratando al LLM como un estudiante en un examen, con consulta de un solo disparo, sin fine-tuning ni retroalimentación) y los parámetros por defecto de cada modelo. Las respuestas fueron calificadas por expertos humanos entrenados siguiendo una metodología análoga a la corrección de exámenes académicos, otorgando 0,5 puntos por cada paso correcto del camino de solución (no solo por el valor numérico final), con una incertidumbre estimada de la calificación de ±0,5 puntos.\n\nLos resultados muestran un panorama mixto. En los problemas simples los LLMs rinden en general bien (GPT-4 y GPT-4o alcanzan ~87-89% del puntaje máximo; Llama 3.1 y le Chat quedan por debajo, ~73-76%), con un salto notable de GPT-3.5 (46%) a GPT-4. En los problemas avanzados el rendimiento cae drásticamente para todos (~41-55%): rara vez se obtienen soluciones correctas y nunca en las tres repeticiones. Ningún modelo produce resultados consistentes al repetir el mismo problema; la desviación estándar típica es de 20-25% del puntaje máximo (30-50% del puntaje real). Los errores se clasificaron en seis categorías (suposiciones erróneas, errores numéricos, signos inconsistentes, ecuaciones erróneas, confusión de contexto, divagación verbosa): en los problemas simples dominan las suposiciones erróneas (GPT) y los errores numéricos/ecuaciones (Llama, le Chat, que carecen de generación de código especializada); en los avanzados domina la confusión de contexto en todos los modelos.\n\nLos autores concluyen que el enfoque estadístico del modelado del lenguaje tiene dificultades con la interpretación precisa y el razonamiento riguroso que exige la termodinámica. Una prueba preliminar con OpenAI o1-preview (con \"cadena de pensamiento\") fue el primer modelo en resolver el problema simple 12, pero con resultados inconsistentes entre intentos. Como referencia, discuten KnowTD, un sistema basado en conocimiento construido sobre una ontología que resuelve los problemas simples de forma exacta y trazable mediante un grafo de conocimiento, y proponen la hibridación de LLMs con sistemas basados en conocimiento como vía para lograr fiabilidad.\n\n## Contribuciones principales\n- Un benchmark abierto de 22 problemas de termodinámica de ingeniería tipo libro de texto, diseñado a propósito (no extraído estocásticamente de un pool), con cobertura sistemática de combinaciones de procesos y soluciones únicas verificables.\n- Evaluación comparativa de cinco LLMs de última generación (GPT-3.5/4/4o, Llama 3.1, le Chat) con tres repeticiones por problema para cuantificar la varianza.\n- Una metodología de calificación por expertos basada en el camino de solución (puntaje parcial por paso) en lugar de solo la corrección numérica final.\n- Una taxonomía de seis tipos de error y su distribución por modelo y nivel de dificultad.\n- Una discusión de la hibridación LLM + sistema basado en conocimiento (KnowTD) como ruta hacia soluciones rigurosas, trazables y explicables.\n\n## Metodología\nConstrucción de dos conjuntos de problemas (simples y avanzados) con soluciones maestras y rúbricas. Prompting de un solo disparo con un encabezado común (rol de estudiante de examen, formato sin LaTeX), modificado para le Chat y Llama 3.1 para forzar concisión. Acceso vía API, salvo Llama 3.1 (descargado y ejecutado localmente en GPU, modelo de 70·10⁹ parámetros). Parámetros por defecto de cada modelo (temperatura, top_p, presence_penalty). Tres consultas independientes por problema y modelo. Calificación manual por expertos con cruce de revisores, otorgando 0,5 puntos por paso correcto; normalización de puntajes con el máximo de cada problema y cálculo de medias y desviaciones estándar.\n\n## Hallazgos clave\n- Los LLMs resuelven bien los problemas simples pero su rendimiento se desploma en los avanzados; nunca producen soluciones correctas en las tres repeticiones de un problema avanzado.\n- Alta variabilidad e inconsistencia: el mismo prompt repetido produce respuestas de calidad notablemente distinta (σ ≈ 20-25% del máximo).\n- GPT-4 y GPT-4o superan a Llama 3.1 y le Chat en los problemas simples; en los avanzados GPT-4o es el mejor y le Chat se acerca, nivelándose la calidad entre modelos.\n- Errores frecuentes: suposiciones inválidas (p. ej., asumir reversibilidad o tratar un líquido como gas ideal cuando no corresponde), confusión de contexto, errores numéricos en los modelos sin generación de código especializada.\n- Los modelos a veces usan propiedades de fluidos de fuentes no reveladas en lugar de los datos provistos, y GPT-4/Llama tienden a respuestas verbosas que parafrasean el enunciado sin avanzar.\n- GPT-4 y GPT-4o muestran capacidad de autocrítica (revisan y corrigen su propia respuesta); GPT-4o tiende a detenerse cuando no puede continuar en vez de inventar suposiciones.\n- KnowTD (sistema basado en conocimiento con ontología y grafo) resuelve todos los problemas simples de forma exacta y explicable, pero no cubre los avanzados por límites de su conocimiento implementado.\n\n## Limitaciones\n- La calificación basada en el camino de solución es laboriosa, requiere expertos y conlleva ambigüedad (±0,5 puntos), lo que limita el tamaño del estudio.\n- Solo tres repeticiones por problema, por restricciones prácticas de la evaluación manual.\n- Se usaron los parámetros por defecto sin variación sistemática; no se hizo fine-tuning.\n- Para Llama 3.1 se usó el modelo de 70B y no el de 405B disponible.\n- Las pruebas con o1-preview son preliminares (un solo problema, tres corridas).\n- Los modelos GPT son cajas negras con información limitada sobre entrenamiento y datos.\n\n## Notas relacionadas\n- [[concepts/capacidades-de-ia]]\n- [[concepts/razonamiento-cuantitativo-llm]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/grafos-de-conocimiento]]\n- [[concepts/supervision-humana]]\n- [[concepts/evaluacion-educativa]]"
     },
     {
       "id": "notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol",
@@ -7321,6 +8260,55 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nDocumento breve de orientación publicado por TEQSA (agencia reguladora de la educación superior australiana) y redactado por Jason M. Lodge (The University of Queensland) en agosto de 2024. Su propósito es ofrecer a instituciones y líderes de enseñanza-aprendizaje un conjunto de medidas que pueden adoptarse de inmediato para mitigar el riesgo que la IA generativa representa para la integridad académica, mientras maduran los rediseños sistémicos de evaluación de más largo plazo.\n\nEl texto parte de dos incertidumbres: la magnitud real del uso inapropiado de herramientas como ChatGPT por parte de los estudiantes (estimaciones que oscilan entre el 10% y más del 60% de las cohortes) y la trayectoria futura de la tecnología (¿crecimiento exponencial o meseta que requiere una revolución técnica?). Ante esa incertidumbre, Lodge sostiene que una postura de \"esperar y ver\" es insuficiente y que se requiere acción a corto plazo complementaria a los planes de reforma de la evaluación (Assessment Reform for the Age of Artificial Intelligence).\n\nEl documento advierte explícitamente contra el regreso a exámenes tradicionales de papel y lápiz como supuesta solución \"a prueba de IA\", pues no capturan el rango completo de conocimientos, habilidades y competencias profesionales que la educación superior busca evaluar. En su lugar, propone un cambio de enfoque clave (atribuido a Cath Ellis): pasar de detectar la trampa a detectar si el aprendizaje realmente ocurrió, alineado con el marco de estándares de educación superior (Sección 1.4.4). Atraviesa todo el texto una preocupación por la equidad: las medidas adoptadas deben considerar su impacto en estudiantes con discapacidad o con acceso limitado a herramientas avanzadas de IA, dado que emergen nuevas brechas digitales.\n\n## Puntos clave\n\n- **Seis pasos inmediatos:** (1) aumentar la conciencia sobre las capacidades reales de la IA generativa; (2) comprender qué es y qué no es la IA generativa —no es como una calculadora, pues la relación humano-máquina es interactiva y no transaccional—; (3) limitar la dependencia de detectores de IA, que son poco fiables y generan falsos positivos (un detector llegó a marcar la Biblia como escrita por ChatGPT); (4) monitorear y revisar los procesos de integridad y mala conducta, favoreciendo enfoques centralizados con especialistas frente a procesos que recaen solo en coordinadores de asignatura; (5) buscar asesoría experta (TEQSA Good Practice Hub, libro de Phillip Dawson); (6) asociarse con los estudiantes como contribuyentes clave.\n- **Seis principios para la acción:** (1) priorizar lo más urgente (p. ej., evaluación de último año, capstones, portafolios finales); (2) conocer a los estudiantes como individuos para detectar inconsistencias y fomentar el aprendizaje relacional; (3) ser transparente sobre el uso de IA mediante marcos explícitos (enfoque de \"dos carriles\" de Sydney, \"multi-carril\" de UNSW, la AI Assessment Scale de Perkins et al.); (4) pedir a los estudiantes que \"muestren su trabajo\" (prompts, resultados, integración); (5) usar conversaciones y evaluación oral interactiva como evidencia del entendimiento; (6) aprender y colaborar con otras instituciones y sectores.\n- Ninguna estrategia es una solución garantizada: los problemas que plantea la IA no tendrán una respuesta única, pero estas tácticas tienden un puente entre las políticas actuales y el rediseño de la evaluación.\n\n## Contexto\n\nEs un documento de política/orientación práctica más que un artículo de investigación. Importa porque proviene del regulador nacional australiano y condensa, en formato accionable, el consenso emergente del sector sobre cómo responder a la IA generativa sin sobrerreaccionar (volviendo a exámenes) ni sub-reaccionar (esperar). Conecta con debates sobre validez y seguridad de la evaluación, fiabilidad de los detectores de IA, equidad educativa y el rediseño institucional de la integridad académica.\n\n## Notas relacionadas\n\n- [[concepts/integridad-academica]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/equidad-educativa]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/regulacion-de-ia]]"
     },
     {
+      "id": "notes/articles/2024-09-29_genai-ciencia-ambiental",
+      "kind": "article",
+      "label": "Generative Artificial Intelligence: A New Engine for Advancing Environmental Science and Engineering",
+      "authors": [
+        "Yipeng Wu, Ming Xu, Shuming Liu"
+      ],
+      "year": "2024",
+      "venue": "Environmental Science & Technology (ACS)",
+      "url": "https://doi.org/10.1021/acs.est.4c07216",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "agentes-de-ia",
+        "ingenieria-ambiental",
+        "sostenibilidad",
+        "descubrimiento-cientifico"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/articles/2024-09-29_genai-ciencia-ambiental.md",
+      "pdf_local": "sources/pdfs/cheme-applications/wu_2024_genai-environmental-science-viewpoint.pdf",
+      "content": "## Resumen\nViewpoint de *Environmental Science & Technology* (ACS, 2024) sobre el papel de la IA generativa como motor para avanzar la ciencia e ingeniería ambiental. Mientras la IA discriminativa tradicional (que aprende fronteras de decisión entre categorías) ya se aplica ampliamente —p. ej., predicción de calidad del agua y detección de contaminación—, la nueva frontera es la IA generativa, que genera nuevas instancias de datos a partir de distribuciones aprendidas.\n\nLos autores discuten aplicaciones actuales y potenciales de la IA generativa (LLMs, modelos texto-a-imagen, agentes de IA) en la investigación ambiental, frente a desafíos globales de sostenibilidad interconectados y de gran escala como el cambio climático, el acceso a agua limpia y la pérdida de biodiversidad. También señalan los obstáculos existentes (calidad y disponibilidad de datos, validación, interpretabilidad) para que estas herramientas aporten soluciones confiables.\n\n## Puntos clave\n- La IA generativa abre nuevas posibilidades para la ciencia e ingeniería ambiental.\n- Puede contribuir a desafíos de sostenibilidad: clima, agua, biodiversidad.\n- Persisten obstáculos de datos, validación e interpretabilidad.\n\n## Contexto\nViewpoint que posiciona la IA generativa (incluidos agentes de IA) como herramienta emergente para la sostenibilidad ambiental, complementando a la IA discriminativa ya establecida.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/ingenieria-ambiental]]\n- [[concepts/sostenibilidad]]\n- [[concepts/descubrimiento-cientifico]]"
+    },
+    {
+      "id": "notes/articles/2024-09-29_genai-ciencia-ingenieria-ambiental",
+      "kind": "article",
+      "label": "Generative Artificial Intelligence: A New Engine for Advancing Environmental Science and Engineering",
+      "authors": [
+        "Yipeng Wu, Ming Xu, Shuming Liu"
+      ],
+      "year": "2024",
+      "venue": "Environmental Science & Technology",
+      "url": "https://doi.org/10.1021/acs.est.4c07216",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "agentes-de-ia",
+        "generacion-aumentada-por-recuperacion",
+        "ingenieria-ambiental",
+        "sostenibilidad",
+        "supervision-humana",
+        "alucinaciones-de-ia",
+        "descubrimiento-cientifico"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/articles/2024-09-29_genai-ciencia-ingenieria-ambiental.md",
+      "pdf_local": "",
+      "content": "## Resumen\n\nEste \"Viewpoint\" publicado en *Environmental Science & Technology* (vol. 58, pp. 17524–17528) por Yipeng Wu, Ming Xu y Shuming Liu, de la Escuela de Medio Ambiente de la Universidad de Tsinghua, examina las aplicaciones actuales y potenciales de la IA generativa en la ciencia y la ingeniería ambiental, así como los obstáculos que aún limitan su adopción. Los autores contrastan la IA discriminativa tradicional —centrada en aprender fronteras de decisión entre categorías y ya muy aplicada en predicción de calidad del agua y detección de contaminación— con la nueva frontera de la IA generativa, que crea nuevas instancias de datos a partir de distribuciones aprendidas (LLMs como ChatGPT, modelos texto-a-imagen como DALL-E).\n\nEl artículo organiza el panorama en tres niveles de madurez creciente. Primero, la IA generativa como herramienta para potenciar la IA discriminativa: redes generativas adversariales (GAN) que aumentan datos de entrenamiento escasos, como la augmentación de señales acústicas para detectar fugas en tuberías de agua. Segundo, los chatbots ambientales basados en LLM, que sirven de repositorio de conocimiento especializado para investigación, docencia y formación; el ejemplo central es Kaiwu GPT, construido sobre el proyecto open-source TianGong AI con un marco de generación aumentada por recuperación (RAG) que recupera información relevante de fuentes externas antes de generar respuestas, mejorando exactitud y permitiendo actualización dinámica sin reentrenar el modelo. Tercero, los agentes inteligentes impulsados por LLM, capaces de planificar y ejecutar tareas de forma autónoma e interactuar entre sí (tecnología multi-agente); se cita OceanGPT, entrenado desde cero con datos del dominio marino y cuyas instrucciones se generaron automáticamente mediante colaboración multi-agente (más de 150 000 instrucciones a partir de 10 000 curadas por expertos).\n\nLos autores prospectan aplicaciones donde cada agente LLM representa un actor con un rol (científico, ingeniero, entidad gubernamental, hogar) para diseñar nuevos procesos de tratamiento de aguas residuales y gases, operar modelos ambientales mecanísticos o basados en datos como un \"centro de control\", y evaluar políticas ambientales simulando respuestas de distintos grupos demográficos. Finalmente discuten los principales retos: derechos de autor y privacidad de datos, la costosa construcción de conjuntos de datos de entrenamiento (incluido el alineamiento multimodal imagen-texto, p. ej. asociar la imagen de un lago con una capa verde al término \"algal bloom\"), y el aseguramiento de la exactitud para prevenir la difusión de hallazgos erróneos. Concluyen que la IA generativa debe verse como herramienta para potenciar la eficiencia y nunca como sustituto de la investigación centrada en el ser humano.\n\n## Puntos clave\n\n- La IA generativa amplía el rol de la IA en lo ambiental más allá de la predicción discriminativa: aumentación de datos con GAN, chatbots de conocimiento y agentes autónomos.\n- RAG es clave para chatbots ambientales precisos y actualizables (caso Kaiwu GPT / TianGong AI), evitando reentrenar el modelo base y reduciendo errores.\n- La tecnología multi-agente permite generar datos/instrucciones de entrenamiento a escala (caso OceanGPT) y simular interacciones entre actores para diseño de procesos, modelado y evaluación de políticas.\n- Hasta donde saben los autores, aún no se han reportado aplicaciones de agentes para la toma automatizada de decisiones directas en el campo ambiental.\n- Retos centrales: copyright y privacidad de datos, construcción costosa de datasets especializados (incluido alineamiento multimodal), y aseguramiento de exactitud frente a salidas incorrectas.\n- La supervisión experta es indispensable: revisión obligatoria para áreas de alto riesgo, modelos guiados por expertos vía aprendizaje por refuerzo y mecanismos de retroalimentación humana continua.\n\n## Contexto\n\nEl texto importa porque sintetiza, desde una revista de referencia en ingeniería ambiental, cómo la IA generativa y los sistemas multi-agente pueden reconfigurar la práctica investigadora de un dominio aplicado concreto (agua, aire, residuos, políticas), frente a desafíos de sostenibilidad como el cambio climático, el acceso a agua limpia y la pérdida de biodiversidad. Conecta debates transversales sobre RAG, agentes autónomos, alucinaciones y la necesidad de mantener al humano en el bucle con un caso de aplicación sectorial específico.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/generacion-aumentada-por-recuperacion]]\n- [[concepts/ingenieria-ambiental]]\n- [[concepts/sostenibilidad]]\n- [[concepts/supervision-humana]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/descubrimiento-cientifico]]"
+    },
+    {
       "id": "notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina",
       "kind": "article",
       "label": "Editorial: Biocompatible hydrogels: properties, synthesis and applications in biomedicine",
@@ -7388,6 +8376,58 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico.md",
       "pdf_local": "sources/pdfs/capability-reliability/stanford-hai_2025_ai-index-ch2-technical-performance.pdf",
       "content": "## Resumen\n\nEl capítulo 2 del AI Index Report 2025 de Stanford HAI ofrece un panorama exhaustivo del avance técnico de la IA durante 2024, organizado en torno a los benchmarks que la comunidad utiliza para medir el progreso. El mensaje central es que los sistemas de IA dominan los benchmarks más rápido que nunca: en pruebas introducidas en 2023 como MMMU, GPQA y SWE-bench, el rendimiento mejoró de forma notable en un solo año (por ejemplo, SWE-bench pasó de resolver 4.4% de los problemas de código en 2023 a 71.7% en 2024). Esta saturación acelerada empuja a los investigadores a proponer evaluaciones cada vez más difíciles, como Humanity's Last Exam (donde el mejor sistema apenas alcanza 8.8%), FrontierMath (2% de problemas resueltos) y BigCodeBench (35.5% frente al estándar humano de 97%).\n\nEl informe documenta varias dinámicas de mercado y geopolíticas. Los modelos de pesos abiertos (open-weight) prácticamente cerraron la brecha con los cerrados: la ventaja del mejor modelo cerrado sobre el abierto en Chatbot Arena cayó de 8.04% (enero 2024) a 1.70% (febrero 2025), impulsada por lanzamientos como Llama 3.1 y DeepSeek-V3. La brecha entre modelos estadounidenses y chinos también se redujo drásticamente (en MMLU, MMMU, MATH y HumanEval pasó de 17.5, 13.5, 24.3 y 31.6 puntos a 0.3, 8.1, 1.6 y 3.7 puntos), y el lanzamiento de DeepSeek-R1 —entrenado con una fracción del hardware habitual— sembró dudas sobre la efectividad de los controles de exportación de semiconductores de EE. UU. Además, el rendimiento converge en la frontera: la diferencia entre el primer y el décimo modelo de Chatbot Arena cayó de 11.9% a 5.4%, señal de un mercado más competitivo sin foso tecnológico defensible.\n\nDos tendencias técnicas destacan. Primero, los modelos más pequeños rinden cada vez más: el modelo más pequeño que supera 60% en MMLU pasó de PaLM (540 mil millones de parámetros, 2022) a Phi-3-mini de Microsoft (3.8 mil millones, 2024), una reducción de 142 veces. Segundo, surgen nuevos paradigmas de razonamiento basados en cómputo en tiempo de inferencia (test-time compute): los modelos o1 y o3 de OpenAI razonan iterativamente sobre sus salidas, con o1 obteniendo 74.4% en un examen clasificatorio de la Olimpiada Internacional de Matemáticas frente al 9.3% de GPT-4o, aunque a costa de ser casi seis veces más caro y treinta veces más lento.\n\nEl capítulo advierte limitaciones de fondo. El razonamiento complejo sigue siendo un problema: pese a mecanismos como la cadena de pensamiento, los LLM no resuelven de forma fiable tareas con soluciones demostrablemente correctas (aritmética, planificación), sobre todo en instancias mayores que las vistas en entrenamiento, lo que afecta su confiabilidad en aplicaciones de alto riesgo. Los agentes de IA muestran promesa temprana: en RE-Bench con horizontes cortos (2 horas) superan a expertos humanos cuatro veces, pero con presupuestos de 32 horas los humanos los superan dos a uno. El informe también cuestiona la calidad de los propios benchmarks (contaminación de datos, prompting no estándar, deficiencias metodológicas documentadas en BetterBench) y señala que la era de los benchmarks académicos tradicionales podría estar terminando.\n\n## Puntos clave\n\n- La IA supera benchmarks cada vez más rápido: ganancias de 18.8 y 48.9 puntos en MMMU y GPQA en un año; SWE-bench de 4.4% a 71.7%.\n- Los modelos open-weight casi alcanzaron a los cerrados (brecha de 8.04% a 1.70% en Chatbot Arena).\n- La brecha entre modelos de EE. UU. y China se redujo drásticamente; DeepSeek-R1 cuestionó la efectividad de los controles de exportación de chips.\n- El rendimiento converge en la frontera: más proveedores ofrecen modelos de alta calidad, erosionando el foso tecnológico.\n- Modelos más pequeños rinden más: reducción de 142 veces en parámetros para superar 60% en MMLU (PaLM → Phi-3-mini).\n- El cómputo en tiempo de inferencia (o1, o3) mejora el razonamiento, pero es mucho más costoso y lento.\n- El razonamiento complejo y la planificación siguen siendo poco fiables, con implicaciones para usos de alto riesgo.\n- Los agentes de IA destacan en tareas de horizonte corto pero pierden frente a humanos en horizontes largos.\n- Los benchmarks mismos sufren saturación, contaminación y deficiencias metodológicas; se proponen pruebas más rigurosas (Humanity's Last Exam, FrontierMath).\n\n## Contexto\n\nEl AI Index de Stanford HAI es un informe anual de referencia (no revisado por pares) que sintetiza el estado de la IA con datos cuantitativos. Este capítulo es la fuente canónica para entender qué pueden y qué no pueden hacer los sistemas de IA actuales, y por qué las afirmaciones de capacidad deben leerse con cautela: el propio informe documenta cómo los benchmarks que sustentan esas afirmaciones tienen fallos de diseño, contaminación y reportes inconsistentes. Importa para cualquier discusión sobre la fiabilidad de la IA, su despliegue en contextos críticos y la competencia geopolítica por el liderazgo tecnológico.\n\n## Notas relacionadas\n\n- [[concepts/capacidades-de-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/geopolitica-tecnologica]]"
+    },
+    {
+      "id": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "kind": "article",
+      "label": "Integrating Large Language Models into the Chemistry and Materials Science Laboratory Curricula",
+      "authors": [
+        "Annalise E. Maughan, Eric S. Toberer, Alexandra Zevalkink"
+      ],
+      "year": "2025",
+      "venue": "Chemistry of Materials (ACS)",
+      "url": "https://doi.org/10.1021/acs.chemmater.5c00111",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "tutoria-con-ia",
+        "generacion-aumentada-por-recuperacion",
+        "agentes-de-ia",
+        "alucinaciones-de-ia",
+        "pensamiento-critico",
+        "retroalimentacion-con-ia",
+        "aprendizaje-activo",
+        "etica-de-la-ia",
+        "equidad-educativa"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales.md",
+      "pdf_local": "",
+      "content": "## Resumen\n\nEste editorial, publicado en *Chemistry of Materials* (ACS), sintetiza las conclusiones de un taller de dos días financiado por la National Science Foundation (NSF) que reunió a 41 participantes —estudiantes de posgrado, investigadores postdoctorales y profesorado— con experiencia en química de materiales, educación química y ciencias de la computación. El objetivo fue ordenar el \"salvaje oeste\" actual en que educadores individuales experimentan de forma ad hoc con modelos de lenguaje grandes (LLMs) en sus aulas, proponiendo un marco más coherente para compartir éxitos y fracasos al integrar estas herramientas en cursos de laboratorio de química (química general, orgánica, fisicoquímica) y ciencia de materiales.\n\nLos autores parten de una crítica conocida: los laboratorios tradicionales tienden a ser demasiado prescriptivos (\"cookbook\"), lo que limita la comprensión conceptual profunda y el pensamiento crítico. Frente a esto, exploran cómo los LLMs podrían reformar el arco completo del laboratorio —preparación pre-lab, apoyo durante la sesión y tareas post-lab— mediante \"Asistentes Virtuales de Enseñanza\" (VTAs). La segunda mitad del taller fue un hackathon donde los equipos prototiparon herramientas concretas: un \"Agent-Supported Pre-lab Assistant\" que guía sin entregar respuestas, un \"Study Buddy\" basado en RAG que recupera contenido del curso cargado por el instructor para reducir alucinaciones, GPTs personalizados entrenados en procedimientos operativos estándar y manuales de equipo, y el uso del \"Data Analyst\" de ChatGPT para visualizar y analizar datos experimentales (curvas de calibración con la ley de Beer, cinética química) sin necesidad de programar.\n\nEl editorial dedica atención sustancial a los riesgos. Las alucinaciones son la preocupación principal: imprecisiones conceptuales, omisión de detalles de seguridad o procedimientos erróneos presentados con confianza. Citan que ChatGPT-3.5 explicó 85 mecanismos de reacción orgánica con solo ~28% de exactitud, y que el ingeniería de prompts mejora la sofisticación pero no necesariamente la precisión. RAG y prompts optimizados mitigan pero no eliminan el problema. También advierten sobre el desplazamiento de la tutoría entre pares y la mentoría humana —notan anecdóticamente que la asistencia a horas de oficina cae conforme los estudiantes usan más los LLMs— además de problemas de integridad académica y equidad de acceso.\n\nFinalmente, los autores discuten cómo los LLMs apoyan a los instructores (planeación de lecciones, generación y calificación de exámenes, módulos de capacitación para TAs, diseño inclusivo y accesible de laboratorios) y cómo pueden viabilizar formatos alternativos como laboratorios computacionales (DFT, modelado en Python/MATLAB) y experiencias de investigación de pregrado basadas en cursos (CUREs). Concluyen que estas herramientas no son una panacea: requieren supervisión vigilante, ingeniería de prompts robusta y pensamiento crítico de los estudiantes, pero pueden ser un beneficio neto si se integran de forma consciente, y subrayan la necesidad de una comunidad de educadores que comparta buenas prácticas y advertencias.\n\n## Puntos clave\n\n- Marco organizado en tres preguntas: cómo los LLMs impactan el aprendizaje estudiantil, cómo afectan la entrega de cursos (diseño, andamiaje, evaluación), y si facilitan estructuras alternativas como las CUREs.\n- Concepto central de los \"Asistentes Virtuales de Enseñanza\" (VTAs) que cubren el arco completo del laboratorio: pre-lab, en-lab y post-lab.\n- Primer técnico para educadores sobre términos clave: agentes, RAG, fine-tuning, ingeniería de prompts y razonamiento en cadena de pensamiento (chain-of-thought).\n- Prototipos del hackathon: asistente pre-lab basado en agentes que guía sin dar la respuesta; \"Study Buddy\" con RAG anclado al contenido del curso; GPTs personalizados para troubleshooting y seguridad.\n- Demostración de análisis de datos por lenguaje natural con ChatGPT-4o (espectroscopía de absorción, ley de Beer, cinética química) sin conocimiento previo de código.\n- Las alucinaciones son el riesgo más crítico en laboratorio (seguridad, conceptos, procedimientos); RAG y prompts las mitigan pero no las eliminan.\n- Riesgo de desplazar la mentoría humana y la interacción entre pares, donde se forja la identidad científica y el pensamiento crítico.\n- Estrategia pedagógica emergente: usar las propias alucinaciones como ejercicio, pidiendo a los estudiantes evaluar la exactitud de las respuestas de la IA.\n- Apoyo a instructores: planeación de lecciones, generación y calificación de exámenes, capacitación de TAs, diseño accesible e inclusivo de laboratorios.\n- Los LLMs pueden viabilizar laboratorios computacionales (DFT, modelado) y CUREs al reducir barreras de programación y carga logística.\n\n## Contexto\n\nEste editorial conecta el debate general sobre IA generativa en educación superior con un dominio disciplinar específico y poco cubierto: los cursos de laboratorio de química y ciencia de materiales, donde los riesgos de las alucinaciones se vuelven particularmente graves por sus implicaciones de seguridad. Aporta una visión práctica y \"desde la trinchera\" (prototipos concretos de un hackathon respaldado por la NSF) sobre cómo arquitecturas como RAG y los agentes pueden anclar las salidas de un LLM al currículo, y articula con claridad la tensión entre la escalabilidad de los VTAs y la preservación de la mentoría humana y el aprendizaje basado en indagación.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/generacion-aumentada-por-recuperacion]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/equidad-educativa]]"
+    },
+    {
+      "id": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
+      "kind": "article",
+      "label": "Integrating Large Language Models into the Chemistry and Materials Science Laboratory Curricula",
+      "authors": [
+        "Chem. Mater. editorial team"
+      ],
+      "year": "2025",
+      "venue": "Chemistry of Materials (ACS)",
+      "url": "https://doi.org/10.1021/acs.chemmater.5c00111",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "aprendizaje-activo",
+        "retroalimentacion-con-ia",
+        "alucinaciones-de-ia"
+      ],
+      "date": "2026-06-27",
+      "path": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales.md",
+      "pdf_local": "sources/pdfs/cheme-applications/maughan_2025_llms-chem-materials-lab-curricula-editorial.pdf",
+      "content": "## Resumen\nEditorial de *Chemistry of Materials* (ACS, 2025) sobre la integración de los grandes modelos de lenguaje (LLMs) en los currículos de laboratorio de química y ciencia de materiales. La educación basada en IA, antes tema de ciencia ficción, se vuelve realidad con LLMs como ChatGPT y Gemini, y su potencial para transformar los cursos con componente de laboratorio es enorme.\n\nLas experiencias de laboratorio buscan desarrollar destrezas prácticas, reforzar conceptos e construir identidad científica, pero la investigación muestra que los laboratorios tradicionales rinden poco en comprensión profunda y pensamiento crítico. El editorial plantea cómo la retroalimentación basada en IA y la orientación personalizada podrían mejorar estos resultados, al tiempo que advierte sobre los riesgos éticos y la tendencia de los LLMs a producir alucinaciones y desinformación —especialmente críticos en cursos de laboratorio—. Describe el momento actual como un \"salvaje oeste\" donde cada educador improvisa, y llama a desarrollar prácticas y marcos compartidos.\n\n## Puntos clave\n- Los LLMs ofrecen retroalimentación y orientación personalizada para mejorar el aprendizaje de laboratorio.\n- Los laboratorios tradicionales rinden poco en comprensión profunda y pensamiento crítico.\n- Las alucinaciones y los riesgos éticos son particularmente graves en contextos de laboratorio.\n\n## Contexto\nEditorial que enmarca el debate sobre IA en la educación experimental de química y materiales, llamando a prácticas compartidas frente a la improvisación actual.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/alucinaciones-de-ia]]"
     },
     {
       "id": "notes/articles/2025-04-16_openai-o3-o4-mini-system-card",
@@ -7595,7 +8635,7 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-06-27",
       "path": "notes/articles/2026-03-08_genai-aula-ingenieria-quimica.md",
       "pdf_local": "",
-      "content": "## Resumen\n\nEn esta perspectiva publicada por el boletín de CACHE, Rebecca K. Lindsey (profesora asistente de ingeniería química en la University of Michigan) reflexiona sobre cómo integrar de forma responsable y efectiva la IA generativa (GenAI), en particular los modelos de lenguaje como ChatGPT, Gemini y Claude, en el aula de ingeniería química. La autora enmarca el debate mediante una analogía histórica con la controversia de las calculadoras en la educación STEM entre los años 70 y 90: tras un periodo de debate, el campo adoptó una estrategia de integración estructurada con límites claros, que exige seguir demostrando la competencia básica de forma independiente e incorpora la herramienta solo cuando potencia la resolución de problemas. Lindsey sostiene que la responsabilidad del educador es añadir las nuevas herramientas a la \"caja de herramientas\" del estudiante, pero enseñándole a entender el problema, cómo funciona la herramienta y cuáles son sus limitaciones.\n\nEl texto identifica tres consideraciones críticas. Primero, la tecnología evoluciona muy rápido: los modelos públicos cambian de rendimiento, se deprecian y varían según producto y nivel de suscripción, por lo que los ejemplos de qué \"funciona\" o \"falla\" envejecen pronto. Segundo, el acceso de los estudiantes es desigual: los niveles gratuitos limitan las consultas y los de pago ofrecen mayor capacidad, lo que genera problemas de equidad cuando las tareas asumen acceso uniforme (Michigan mitiga esto con herramientas institucionales gratuitas como U-M GPT). Tercero, el costo va más allá de la suscripción: la huella material de la IA depende de cadenas de suministro de chips geopolíticamente concentradas, minerales críticos y un consumo energético creciente de los centros de datos (4,4% de la electricidad de EE. UU. en 2023, con proyecciones de 6,7-12% para 2028), además de cargas locales de agua y energía. Por ello, el \"uso responsable de la IA\" debería ampliarse más allá de las políticas de plagio para incluir una toma de decisiones consciente de la sostenibilidad.\n\nEn cuanto a estrategias, Lindsey relata que pasó de defender la prohibición (su postura inicial en 2022) a una integración guiada, tras cuatro años de experimentación. Argumenta que las políticas estrictas de no-GenAI son difíciles de hacer cumplir y no enseñan a usar las herramientas de forma responsable en entornos profesionales. Recomienda dedicar tiempo a inicio de semestre para explicar qué son y cómo funcionan estos modelos, recordar a los estudiantes que aún no tienen la pericia para juzgar si las salidas son correctas, dar pautas concretas y específicas por tarea (con ejemplos de uso apropiado e inapropiado), y cerrar cada tarea con una breve reflexión sobre cómo usaron la GenAI y qué funcionó o falló, lo que permite descubrir usos creativos y diseñar salvaguardas.\n\n## Puntos clave\n\n- Analogía con la controversia de las calculadoras: la solución no fue prohibir, sino una integración estructurada con límites que preserva la demostración independiente de la competencia básica.\n- La autora abandonó la prohibición total tras cuatro años de docencia: es difícil de aplicar y no prepara para entornos laborales habilitados por IA.\n- El uso responsable debe ser concreto y específico por tarea (ejemplo: pedir a la IA cómo generar un gráfico en Excel es aceptable; pedirle que interprete tendencias de presión-volumen-temperatura no lo es).\n- Las debilidades más consecuentes de la GenAI (razonamiento abstracto bajo restricciones físicas) coinciden con las competencias que los cursos de ingeniería buscan desarrollar.\n- La reflexión obligatoria al final de cada tarea (\"enséñame cómo lo usaste\") fomenta honestidad y revela casos de uso no anticipados.\n- El \"uso responsable\" debe incluir la dimensión de sostenibilidad: huella energética, hídrica y de minerales críticos de la IA.\n- Tres ejemplos prácticos por curso:\n  - **Laboratorio de operaciones unitarias (pregrado):** usar GenAI para migrar de Excel a Python en análisis de datos, validando los resultados contra una línea base conocida y practicando hábitos de prompt-engineering.\n  - **Fenómenos de transporte (posgrado, aporte de Prof. Ronald Larson):** auditar una solución generada por U-M GPT para enseñar a evaluar críticamente el trabajo de la IA en lugar de tratarla como autoridad; expone que soluciones técnicamente válidas pueden estar pedagógicamente desalineadas.\n  - **Termodinámica (pregrado):** usar GenAI para evaluar la propia comprensión, exigiendo verificar cada afirmación contra las fuentes citadas y entregar capturas de los pasajes usados.\n\n## Contexto\n\nEl artículo aporta una visión práctica y desde la experiencia docente sobre la alfabetización en IA aplicada a una disciplina STEM concreta (ingeniería química), un dominio menos cubierto que los debates generales sobre IA en educación. Es relevante para discusiones sobre integridad académica, diseño de evaluación que resista el uso de IA, y la formación de competencias de pensamiento crítico para validar salidas de modelos de lenguaje. La inclusión explícita de la sostenibilidad como dimensión del \"uso responsable\" amplía el marco habitual centrado solo en el plagio.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/educacion-superior]]\n- [[concepts/integridad-academica]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/sostenibilidad]]"
+      "content": "## Resumen\n\nEn esta perspectiva publicada por el boletín de CACHE, Rebecca K. Lindsey (profesora asistente de ingeniería química en la University of Michigan) reflexiona sobre cómo integrar de forma responsable y efectiva la IA generativa (GenAI), en particular los modelos de lenguaje como ChatGPT, Gemini y Claude, en el aula de ingeniería química. La autora enmarca el debate mediante una analogía histórica con la controversia de las calculadoras en la educación STEM entre los años 70 y 90: tras un periodo de debate, el campo adoptó una estrategia de integración estructurada con límites claros, que exige seguir demostrando la competencia básica de forma independiente e incorpora la herramienta solo cuando potencia la resolución de problemas. Lindsey sostiene que la responsabilidad del educador es añadir las nuevas herramientas a la \"caja de herramientas\" del estudiante, pero enseñándole a entender el problema, cómo funciona la herramienta y cuáles son sus limitaciones.\n\nEl texto identifica tres consideraciones críticas. Primero, la tecnología evoluciona muy rápido: los modelos públicos cambian de rendimiento, se deprecian y varían según producto y nivel de suscripción, por lo que los ejemplos de qué \"funciona\" o \"falla\" envejecen pronto. Segundo, el acceso de los estudiantes es desigual: los niveles gratuitos limitan las consultas y los de pago ofrecen mayor capacidad, lo que genera problemas de equidad cuando las tareas asumen acceso uniforme (Michigan mitiga esto con herramientas institucionales gratuitas como U-M GPT). Tercero, el costo va más allá de la suscripción: la huella material de la IA depende de cadenas de suministro de chips geopolíticamente concentradas, minerales críticos y un consumo energético creciente de los centros de datos (4,4% de la electricidad de EE. UU. en 2023, con proyecciones de 6,7-12% para 2028), además de cargas locales de agua y energía. Por ello, el \"uso responsable de la IA\" debería ampliarse más allá de las políticas de plagio para incluir una toma de decisiones consciente de la sostenibilidad.\n\nEn cuanto a estrategias, Lindsey relata que pasó de defender la prohibición (su postura inicial en 2022) a una integración guiada, tras cuatro años de experimentación. Argumenta que las políticas estrictas de no-GenAI son difíciles de hacer cumplir y no enseñan a usar las herramientas de forma responsable en entornos profesionales. Recomienda dedicar tiempo a inicio de semestre para explicar qué son y cómo funcionan estos modelos, recordar a los estudiantes que aún no tienen la pericia para juzgar si las salidas son correctas, dar pautas concretas y específicas por tarea (con ejemplos de uso apropiado e inapropiado), y cerrar cada tarea con una breve reflexión sobre cómo usaron la GenAI y qué funcionó o falló, lo que permite descubrir usos creativos y diseñar salvaguardas.\n\n## Puntos clave\n\n- Analogía con la controversia de las calculadoras: la solución no fue prohibir, sino una integración estructurada con límites que preserva la demostración independiente de la competencia básica.\n- La autora abandonó la prohibición total tras cuatro años de docencia: es difícil de aplicar y no prepara para entornos laborales habilitados por IA.\n- El uso responsable debe ser concreto y específico por tarea (ejemplo: pedir a la IA cómo generar un gráfico en Excel es aceptable; pedirle que interprete tendencias de presión-volumen-temperatura no lo es).\n- Las debilidades más consecuentes de la GenAI (razonamiento abstracto bajo restricciones físicas) coinciden con las competencias que los cursos de ingeniería buscan desarrollar.\n- La reflexión obligatoria al final de cada tarea (\"enséñame cómo lo usaste\") fomenta honestidad y revela casos de uso no anticipados.\n- El \"uso responsable\" debe incluir la dimensión de sostenibilidad: huella energética, hídrica y de minerales críticos de la IA.\n- Tres ejemplos prácticos por curso:\n  - **Laboratorio de operaciones unitarias (pregrado):** usar GenAI para migrar de Excel a Python en análisis de datos, validando los resultados contra una línea base conocida y practicando hábitos de ingenieria-de-prompts.\n  - **Fenómenos de transporte (posgrado, aporte de Prof. Ronald Larson):** auditar una solución generada por U-M GPT para enseñar a evaluar críticamente el trabajo de la IA en lugar de tratarla como autoridad; expone que soluciones técnicamente válidas pueden estar pedagógicamente desalineadas.\n  - **Termodinámica (pregrado):** usar GenAI para evaluar la propia comprensión, exigiendo verificar cada afirmación contra las fuentes citadas y entregar capturas de los pasajes usados.\n\n## Contexto\n\nEl artículo aporta una visión práctica y desde la experiencia docente sobre la alfabetización en IA aplicada a una disciplina STEM concreta (ingeniería química), un dominio menos cubierto que los debates generales sobre IA en educación. Es relevante para discusiones sobre integridad académica, diseño de evaluación que resista el uso de IA, y la formación de competencias de pensamiento crítico para validar salidas de modelos de lenguaje. La inclusión explícita de la sostenibilidad como dimensión del \"uso responsable\" amplía el marco habitual centrado solo en el plagio.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/educacion-superior]]\n- [[concepts/integridad-academica]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/sostenibilidad]]"
     },
     {
       "id": "notes/articles/2026-03-12_shape-of-thing-mollick",
@@ -10291,6 +11331,46 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion",
+      "target": "concepts/razonamiento-cuantitativo-llm",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2023-10-05_mails-meta-ai-literacy-scale",
       "target": "concepts/alfabetizacion-en-ia",
       "kind": "keyword"
@@ -10433,6 +11513,56 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2023-12-01_contra-deteccion-ia-evaluacion",
       "target": "concepts/regulacion-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "target": "concepts/razonamiento-cuantitativo-llm",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
+      "target": "concepts/STEM",
       "kind": "keyword"
     },
     {
@@ -11051,6 +12181,76 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros",
+      "target": "concepts/seguridad-de-procesos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros",
+      "target": "concepts/ingenieria-de-sistemas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias",
+      "target": "concepts/taxonomia-de-bloom",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion",
       "target": "concepts/microfluidica",
       "kind": "keyword"
@@ -11321,6 +12521,56 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "target": "concepts/descubrimiento-cientifico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "target": "concepts/modelado-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "target": "concepts/quimica-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "target": "concepts/agentes-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "target": "concepts/proteinas-recombinantes",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria",
       "target": "concepts/alfabetizacion-en-ia",
       "kind": "keyword"
@@ -11354,6 +12604,56 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria",
       "target": "notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria",
       "kind": "related"
+    },
+    {
+      "source": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "target": "concepts/generacion-aumentada-por-recuperacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
+      "target": "concepts/personalidad-introversion",
+      "kind": "keyword"
     },
     {
       "source": "notes/papers/2024-09-25_peptidos-interfaciales-in-silico",
@@ -11751,6 +13051,51 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
+      "target": "concepts/generacion-aumentada-por-recuperacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-01-01_chatgpt-error-rates-mlr",
       "target": "concepts/capacidades-de-ia",
       "kind": "keyword"
@@ -12118,6 +13463,56 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-02-02_redesigning-assessments-gen-ai",
       "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
+      "target": "concepts/pensamiento-critico",
       "kind": "keyword"
     },
     {
@@ -12861,6 +14256,56 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "target": "concepts/formacion-docente",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "target": "concepts/razonamiento-cuantitativo-llm",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-07-06_talking-like-pids",
       "target": "concepts/inteligencia-artificial",
       "kind": "keyword"
@@ -13266,6 +14711,81 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "target": "concepts/equidad-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior",
       "target": "concepts/regulacion-de-ia",
       "kind": "keyword"
@@ -13491,6 +15011,56 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "target": "concepts/educacion-en-programacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
       "target": "concepts/inteligencia-artificial",
       "kind": "keyword"
@@ -13519,6 +15089,46 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
       "target": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
       "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
     },
     {
       "source": "notes/papers/2026-01-01_monitoreo-visual-biomasa-genai",
@@ -13659,6 +15269,46 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
       "target": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
       "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa",
+      "target": "concepts/educacion-en-programacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
     },
     {
       "source": "notes/papers/2026-01-08_llm-ecuaciones-ingenieria",
@@ -14171,6 +15821,46 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos",
+      "target": "concepts/generacion-aumentada-por-recuperacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos",
+      "target": "concepts/vision-por-computadora",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos",
+      "target": "concepts/seguridad-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
       "target": "concepts/sostenibilidad",
       "kind": "keyword"
@@ -14248,6 +15938,61 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica",
       "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/biocombustibles",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/generacion-aumentada-por-recuperacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
+      "target": "concepts/supervision-humana",
       "kind": "keyword"
     },
     {
@@ -14406,6 +16151,41 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas",
+      "target": "concepts/ingenieria-de-prompts",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas",
+      "target": "concepts/aprendizaje-en-contexto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas",
+      "target": "concepts/generacion-aumentada-por-recuperacion",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente",
       "target": "concepts/agentes-de-ia",
       "kind": "keyword"
@@ -14527,6 +16307,81 @@ window.__ACADEMIC_BRAIN__ = {
     },
     {
       "source": "notes/papers/2026-04-27_assess-ai-literacy-misalignment",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra",
+      "target": "concepts/agentes-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra",
+      "target": "concepts/grafos-de-conocimiento",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra",
+      "target": "concepts/descubrimiento-cientifico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos",
+      "target": "concepts/agentes-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos",
       "target": "concepts/adopcion-de-tecnologia",
       "kind": "keyword"
     },
@@ -14696,6 +16551,46 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2026-06-27_capchat-genai-capstone",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_capchat-genai-capstone",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_capchat-genai-capstone",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_capchat-genai-capstone",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_capchat-genai-capstone",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_capchat-genai-capstone",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_capchat-genai-capstone",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_capchat-genai-capstone",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria",
       "target": "concepts/capacidades-de-ia",
       "kind": "keyword"
@@ -14713,6 +16608,306 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria",
       "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-automatizan-hazop",
+      "target": "concepts/seguridad-de-procesos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-automatizan-hazop",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-automatizan-hazop",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-automatizan-hazop",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-automatizan-hazop",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-automatizan-hazop",
+      "target": "concepts/procesamiento-de-lenguaje-natural",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes",
+      "target": "concepts/educacion-k12",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes",
+      "target": "concepts/psicologia-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes",
+      "target": "concepts/formacion-docente",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_superstudent-llm-termodinamica",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_superstudent-llm-termodinamica",
+      "target": "concepts/razonamiento-cuantitativo-llm",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_superstudent-llm-termodinamica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_superstudent-llm-termodinamica",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_superstudent-llm-termodinamica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_superstudent-llm-termodinamica",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_superstudent-llm-termodinamica",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_superstudent-llm-termodinamica",
+      "target": "concepts/termodinamica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica",
+      "target": "concepts/regulacion-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica",
+      "target": "concepts/ia-explicable",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica",
+      "target": "concepts/seguridad-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica",
+      "target": "concepts/razonamiento-cuantitativo-llm",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica",
+      "target": "concepts/ingenieria-de-prompts",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica",
+      "target": "concepts/razonamiento-multimodal",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica",
+      "target": "concepts/termodinamica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica",
+      "target": "concepts/simulacion-computacional",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica",
+      "target": "concepts/psicologia-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
+      "target": "concepts/razonamiento-cuantitativo-llm",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
+      "target": "concepts/ingenieria-quimica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
+      "target": "concepts/grafos-de-conocimiento",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
+      "target": "concepts/evaluacion-educativa",
       "kind": "keyword"
     },
     {
@@ -14946,6 +17141,71 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ambiental",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ambiental",
+      "target": "concepts/agentes-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ambiental",
+      "target": "concepts/ingenieria-ambiental",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ambiental",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ambiental",
+      "target": "concepts/descubrimiento-cientifico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ingenieria-ambiental",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ingenieria-ambiental",
+      "target": "concepts/agentes-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ingenieria-ambiental",
+      "target": "concepts/generacion-aumentada-por-recuperacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ingenieria-ambiental",
+      "target": "concepts/ingenieria-ambiental",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ingenieria-ambiental",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ingenieria-ambiental",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ingenieria-ambiental",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-09-29_genai-ciencia-ingenieria-ambiental",
+      "target": "concepts/descubrimiento-cientifico",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina",
       "target": "concepts/biomateriales",
       "kind": "keyword"
@@ -15023,6 +17283,86 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico",
       "target": "concepts/geopolitica-tecnologica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/generacion-aumentada-por-recuperacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/agentes-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
+      "target": "concepts/equidad-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
+      "target": "concepts/alucinaciones-de-ia",
       "kind": "keyword"
     },
     {

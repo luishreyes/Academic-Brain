@@ -16,3 +16,5 @@ Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso
 - [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]
 - [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]
 - [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]
+- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]
+- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]

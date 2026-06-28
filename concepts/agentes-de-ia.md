@@ -28,3 +28,6 @@ Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos i
 - [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]
 - [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]
 - [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]
+- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]
+- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]
+- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]

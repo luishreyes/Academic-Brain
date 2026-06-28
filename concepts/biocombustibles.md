@@ -19,3 +19,4 @@ Combustibles derivados de biomasa o producidos por microorganismos mediante ferm
 - [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]
 - [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]
 - [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]
+- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]

@@ -57,3 +57,5 @@ Estudio de los principios morales que deben guiar el diseño y comportamiento de
 - [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]
 - [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]
 - [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]
+- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]
+- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]

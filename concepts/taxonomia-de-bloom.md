@@ -10,3 +10,4 @@ Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, ana
 
 ## Notas que usan este concepto
 - [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]
+- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]

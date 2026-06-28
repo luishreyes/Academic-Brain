@@ -22,3 +22,4 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]
 - [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]
 - [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]
+- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]

@@ -17,3 +17,5 @@ Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de 
 - [[notes/articles/2026-04-23_gpt-5-5-system-card]]
 - [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]
 - [[notes/papers/2024-05-09_genai-process-systems-engineering]]
+- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]
+- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]
