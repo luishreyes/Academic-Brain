@@ -21,3 +21,4 @@ Campo interdisciplinario que combina estadística, programación y dominio de co
 - [[notes/papers/2021-03-12_data-science-ciencia-molecular]]
 - [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]
 - [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]
+- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]

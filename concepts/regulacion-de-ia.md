@@ -35,3 +35,7 @@ Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso d
 - [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]
 - [[notes/papers/2026-06-28_genai-educacion-superior-revision]]
 - [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]
+- [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]
+- [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]
+- [[notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes]]
+- [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]

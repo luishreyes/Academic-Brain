@@ -54,3 +54,5 @@ Fenómeno en que sistemas de IA generan información incorrecta o fabricada pres
 - [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]
 - [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]
 - [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]
+- [[notes/papers/2023-08-22_tpack-en-la-era-de-chatgpt-y-genai]]
+- [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]

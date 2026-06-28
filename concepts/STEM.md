@@ -24,3 +24,5 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]
 - [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]
 - [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]
+- [[notes/papers/2026-06-28_stem-faculty-evaluacion-genai]]
+- [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]

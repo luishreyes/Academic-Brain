@@ -11,3 +11,12 @@ Teoría y métodos de construcción, validación y análisis de instrumentos de 
 ## Notas que usan este concepto
 - [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]
 - [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]
+- [[notes/papers/2026-06-28_ai-tpack-evaluacion-formadores]]
+- [[notes/papers/2025-05-12_factores-alfabetizacion-ia-docentes]]
+- [[notes/papers/2026-06-28_ai-academy-alfabetizacion-genai-docentes]]
+- [[notes/papers/2025-07-22_perspectivas-docentes-ia-generativa]]
+- [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]
+- [[notes/papers/2025-10-21_needs-satisfaction-tpack-genai-docentes]]
+- [[notes/papers/2026-06-28_ai-tpack-vocational]]
+- [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]
+- [[notes/papers/2026-06-28_taics-escala-competencia-ia-docente]]

@@ -43,3 +43,5 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]
 - [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]
 - [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]
+- [[notes/papers/2026-06-28_ai-tpack-evaluacion-formadores]]
+- [[notes/papers/2025-04-23_marco-competencia-ia-pedagogica-docentes]]

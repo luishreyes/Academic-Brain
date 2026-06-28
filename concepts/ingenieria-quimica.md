@@ -116,3 +116,4 @@ Disciplina que aplica principios de química, física y matemáticas para diseñ
 - [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]
 - [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]
 - [[notes/papers/2026-06-27_llm-automatizan-hazop]]
+- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]

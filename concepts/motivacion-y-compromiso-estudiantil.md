@@ -10,3 +10,4 @@ Energía, impulso y conductas que sostienen la participación, el esfuerzo y la 
 
 ## Notas que usan este concepto
 - [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]
+- [[notes/papers/2026-06-28_genai-formadores-docentes-triada-ai-literacy]]

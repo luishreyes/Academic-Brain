@@ -22,3 +22,4 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la p
 - [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]
 - [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]
 - [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]
+- [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]

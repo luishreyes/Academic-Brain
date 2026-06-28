@@ -11,3 +11,4 @@ Métodos para hacer interpretables las decisiones de modelos de IA; incluye mapa
 ## Notas que usan este concepto
 - [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
 - [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]
+- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]

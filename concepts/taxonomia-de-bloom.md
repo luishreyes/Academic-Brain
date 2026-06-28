@@ -12,3 +12,5 @@ Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, ana
 - [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]
 - [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]
 - [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]
+- [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]
+- [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]

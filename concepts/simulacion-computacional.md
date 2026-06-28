@@ -36,3 +36,4 @@ Uso de modelos matemáticos y computacionales para reproducir el comportamiento 
 - [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]
 - [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]
 - [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]
+- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]

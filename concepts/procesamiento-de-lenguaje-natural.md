@@ -11,3 +11,5 @@ Campo de la IA que permite a las máquinas analizar, interpretar y generar lengu
 ## Notas que usan este concepto
 - [[notes/papers/2026-06-27_llm-automatizan-hazop]]
 - [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]
+- [[notes/papers/2026-06-28_genai-formadores-docentes-triada-ai-literacy]]
+- [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]
