@@ -37,3 +37,5 @@ Adaptación de contenidos, ritmo e instrucción a las características, necesida
 - [[notes/papers/2025-10-01_llm-cualificacion-socializacion-subjetivacion-metaanalisis]]
 - [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]
 - [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]
+- [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]
+- [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]

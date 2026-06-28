@@ -11,3 +11,4 @@ Método cuantitativo de mapeo de la literatura científica que analiza patrones 
 ## Notas que usan este concepto
 - [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]
 - [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]
+- [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]

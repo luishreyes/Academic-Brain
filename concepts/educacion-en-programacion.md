@@ -26,3 +26,6 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la p
 - [[notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico]]
 - [[notes/papers/2024-05-13_impacto-llm-educacion-programacion]]
 - [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]
+- [[notes/articles/2025-01-01_abet-cac-criterios-computacion-ia-ml]]
+- [[notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision]]
+- [[notes/papers/2026-03-06_responsible-genai-se-education]]

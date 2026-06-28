@@ -52,3 +52,5 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2025-10-01_llm-cualificacion-socializacion-subjetivacion-metaanalisis]]
 - [[notes/papers/2025-05-06_retractado-chatgpt-rendimiento-metaanalisis]]
 - [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]
+- [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]
+- [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]

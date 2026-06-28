@@ -12,3 +12,6 @@ Disciplina de la ingeniería química dedicada a prevenir incidentes en plantas 
 - [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]
 - [[notes/papers/2026-06-27_llm-automatizan-hazop]]
 - [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
+- [[notes/articles/2025-01-01_icheme-codigo-conducta-etica]]
+- [[notes/papers/2026-06-28_percepciones-estudiantes-genai-ingenieria]]
+- [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]
