@@ -156,3 +156,6 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]
 - [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]
 - [[notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe]]
+- [[notes/papers/2025-04-19_metacognitive-support-srl-genai]]
+- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]
+- [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]

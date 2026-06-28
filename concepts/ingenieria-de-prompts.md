@@ -25,3 +25,5 @@ Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LL
 - [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]
 - [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]
 - [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]
+- [[notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai]]
+- [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]

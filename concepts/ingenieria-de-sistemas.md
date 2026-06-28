@@ -11,3 +11,4 @@ Enfoque para diseñar y analizar sistemas complejos sociotécnicos considerando 
 ## Notas que usan este concepto
 - [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]
 - [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]
+- [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]

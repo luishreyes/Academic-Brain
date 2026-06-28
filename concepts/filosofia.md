@@ -15,3 +15,6 @@ Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral,
 - [[notes/books/2001-01-01_fooled-by-randomness]]
 - [[notes/books/2000-01-01_the-48-laws-of-power-greene]]
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
+- [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]
+- [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]
+- [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]

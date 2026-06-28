@@ -70,3 +70,6 @@ Distribución equitativa de oportunidades y resultados de aprendizaje; incluye e
 - [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]
 - [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]
 - [[notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe]]
+- [[notes/articles/2026-01-01_evidence-base-ia-k12-review]]
+- [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]
+- [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]

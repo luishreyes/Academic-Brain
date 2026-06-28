@@ -31,3 +31,5 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]
 - [[notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision]]
 - [[notes/articles/2024-10-25_abet-eac-criterios-acreditacion-ingenieria-2025-2026]]
+- [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
+- [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]

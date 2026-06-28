@@ -91,3 +91,6 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/articles/2024-07-18_asce-ps573-ia-responsabilidad-ingenieria]]
 - [[notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes]]
 - [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
+- [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
+- [[notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai]]
+- [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]

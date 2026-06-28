@@ -111,3 +111,4 @@ Estudio de los principios morales que deben guiar el diseño y comportamiento de
 - [[notes/papers/2025-07-16_ai-skills-empleabilidad-egresados]]
 - [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]
 - [[notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes]]
+- [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]

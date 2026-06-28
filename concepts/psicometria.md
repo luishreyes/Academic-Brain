@@ -25,3 +25,4 @@ Teoría y métodos de construcción, validación y análisis de instrumentos de 
 - [[notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global]]
 - [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]
 - [[notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe]]
+- [[notes/papers/2026-06-28_revision-srl-seis-modelos]]

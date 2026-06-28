@@ -34,3 +34,5 @@ Educación primaria y secundaria que abarca desde los primeros años escolares h
 - [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]
 - [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]
 - [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
+- [[notes/articles/2026-01-01_evidence-base-ia-k12-review]]
+- [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]
