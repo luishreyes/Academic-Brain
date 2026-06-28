@@ -11,3 +11,5 @@ Herramientas y técnicas para identificar texto o código generado por IA en tra
 ## Notas que usan este concepto
 - [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]
 - [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]
+- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]
+- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]

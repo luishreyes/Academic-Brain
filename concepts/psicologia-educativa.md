@@ -31,3 +31,5 @@ Disciplina que estudia los procesos cognitivos, motivacionales y sociales que su
 - [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]
 - [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]
 - [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]
+- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]
+- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]

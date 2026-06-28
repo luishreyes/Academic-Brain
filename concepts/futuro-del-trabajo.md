@@ -46,3 +46,5 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 - [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]
 - [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]
 - [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]
+- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]
+- [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]

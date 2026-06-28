@@ -34,3 +34,7 @@ Preparación y desarrollo profesional continuo del profesorado; incluye la forma
 - [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]
 - [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]
 - [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]
+- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]
+- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]
+- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]
+- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]

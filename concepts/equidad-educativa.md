@@ -33,3 +33,5 @@ Distribución equitativa de oportunidades y resultados de aprendizaje; incluye e
 - [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]
 - [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]
 - [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]
+- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]
+- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]

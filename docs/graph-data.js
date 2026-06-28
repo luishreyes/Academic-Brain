@@ -2,10 +2,10 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 218,
-    "articles": 33,
+    "papers": 239,
+    "articles": 34,
     "books": 28,
-    "concepts": 116
+    "concepts": 118
   },
   "nodes": [
     {
@@ -19,8 +19,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.",
       "path": "concepts/STEM.md",
-      "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]",
-      "degree": 14
+      "content": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]",
+      "degree": 15
     },
     {
       "id": "concepts/adopcion-de-tecnologia",
@@ -36,8 +36,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.",
       "path": "concepts/adopcion-de-tecnologia.md",
-      "content": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]",
-      "degree": 15
+      "content": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]\n- [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]",
+      "degree": 22
     },
     {
       "id": "concepts/agentes-de-ia",
@@ -67,8 +67,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.",
       "path": "concepts/alfabetizacion-en-ia.md",
-      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]",
-      "degree": 45
+      "content": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]",
+      "degree": 54
     },
     {
       "id": "concepts/alineamiento-de-ia",
@@ -97,8 +97,26 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.",
       "path": "concepts/alucinaciones-de-ia.md",
-      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]",
-      "degree": 45
+      "content": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]",
+      "degree": 48
+    },
+    {
+      "id": "concepts/analisis-bibliometrico",
+      "kind": "concept",
+      "label": "analisis bibliometrico",
+      "keyword": "analisis-bibliometrico",
+      "aliases": [
+        "bibliometric analysis",
+        "bibliometría",
+        "bibliometric mapping",
+        "scientometrics",
+        "cienciometría",
+        "VOSviewer"
+      ],
+      "definition": "Método cuantitativo de mapeo de la literatura científica que analiza patrones de publicación, redes de coautoría, co-ocurrencia de palabras clave y estructuras de citación para revelar la estructura intelectual y la evolución temática de un campo.",
+      "path": "concepts/analisis-bibliometrico.md",
+      "content": "Método cuantitativo de mapeo de la literatura científica que analiza patrones de publicación, redes de coautoría, co-ocurrencia de palabras clave y estructuras de citación para revelar la estructura intelectual y la evolución temática de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]",
+      "degree": 2
     },
     {
       "id": "concepts/aprendizaje-activo",
@@ -143,8 +161,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición).",
       "path": "concepts/autorregulacion-del-aprendizaje.md",
-      "content": "Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición).\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]",
-      "degree": 12
+      "content": "Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición).\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]",
+      "degree": 19
     },
     {
       "id": "concepts/bienestar-academico",
@@ -307,8 +325,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.",
       "path": "concepts/capacidades-de-ia.md",
-      "content": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]",
-      "degree": 47
+      "content": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]",
+      "degree": 48
     },
     {
       "id": "concepts/ciencia-de-datos",
@@ -323,8 +341,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo interdisciplinario que combina estadística, programación y dominio de conocimiento para extraer información y valor de conjuntos de datos; incluye machine learning, visualización, inferencia bayesiana y análisis de texto.",
       "path": "concepts/ciencia-de-datos.md",
-      "content": "Campo interdisciplinario que combina estadística, programación y dominio de conocimiento para extraer información y valor de conjuntos de datos; incluye machine learning, visualización, inferencia bayesiana y análisis de texto.\n\n## Notas que usan este concepto\n- [[notes/books/2016-07-01_data-science-das]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]",
-      "degree": 11
+      "content": "Campo interdisciplinario que combina estadística, programación y dominio de conocimiento para extraer información y valor de conjuntos de datos; incluye machine learning, visualización, inferencia bayesiana y análisis de texto.\n\n## Notas que usan este concepto\n- [[notes/books/2016-07-01_data-science-das]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]",
+      "degree": 12
     },
     {
       "id": "concepts/ciencia-y-sociedad",
@@ -405,8 +423,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.",
       "path": "concepts/creatividad.md",
-      "content": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]",
-      "degree": 17
+      "content": "Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]",
+      "degree": 20
     },
     {
       "id": "concepts/cultura-organizacional",
@@ -484,8 +502,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.",
       "path": "concepts/descubrimiento-cientifico.md",
-      "content": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]",
-      "degree": 13
+      "content": "El proceso de generación de nuevo conocimiento científico: formulación de hipótesis, diseño experimental, interpretación de resultados y validación.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]",
+      "degree": 14
     },
     {
       "id": "concepts/desigualdad-de-genero",
@@ -516,8 +534,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Herramientas y técnicas para identificar texto o código generado por IA en trabajos académicos (Turnitin AI, GPTZero, Copyleaks, ZeroGPT, clasificadores de OpenAI); incluye su exactitud, falsos positivos/negativos, vulnerabilidad al parafraseo, watermarking y sesgo contra escritores no nativos.",
       "path": "concepts/deteccion-de-texto-ia.md",
-      "content": "Herramientas y técnicas para identificar texto o código generado por IA en trabajos académicos (Turnitin AI, GPTZero, Copyleaks, ZeroGPT, clasificadores de OpenAI); incluye su exactitud, falsos positivos/negativos, vulnerabilidad al parafraseo, watermarking y sesgo contra escritores no nativos.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]",
-      "degree": 2
+      "content": "Herramientas y técnicas para identificar texto o código generado por IA en trabajos académicos (Turnitin AI, GPTZero, Copyleaks, ZeroGPT, clasificadores de OpenAI); incluye su exactitud, falsos positivos/negativos, vulnerabilidad al parafraseo, watermarking y sesgo contra escritores no nativos.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]",
+      "degree": 4
     },
     {
       "id": "concepts/dinamica-de-poblaciones",
@@ -615,8 +633,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la ingeniería; incluye diseño curricular, desarrollo de competencias profesionales y transversales, pedagogías basadas en proyectos y la integración de competencias emergentes (como la IA) en los programas de ingeniería.",
       "path": "concepts/educacion-en-ingenieria.md",
-      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la ingeniería; incluye diseño curricular, desarrollo de competencias profesionales y transversales, pedagogías basadas en proyectos y la integración de competencias emergentes (como la IA) en los programas de ingeniería.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]",
-      "degree": 34
+      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la ingeniería; incluye diseño curricular, desarrollo de competencias profesionales y transversales, pedagogías basadas en proyectos y la integración de competencias emergentes (como la IA) en los programas de ingeniería.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]",
+      "degree": 36
     },
     {
       "id": "concepts/educacion-en-programacion",
@@ -630,8 +648,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.",
       "path": "concepts/educacion-en-programacion.md",
-      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]",
-      "degree": 11
+      "content": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]",
+      "degree": 13
     },
     {
       "id": "concepts/educacion-k12",
@@ -648,8 +666,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica.",
       "path": "concepts/educacion-k12.md",
-      "content": "Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]",
-      "degree": 18
+      "content": "Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]",
+      "degree": 21
     },
     {
       "id": "concepts/educacion-superior",
@@ -662,8 +680,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "path": "concepts/educacion-superior.md",
-      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]",
-      "degree": 81
+      "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]\n- [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]\n- [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]\n- [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]",
+      "degree": 100
     },
     {
       "id": "concepts/enfermedades-raras",
@@ -694,8 +712,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones.",
       "path": "concepts/ensayo-controlado-aleatorio.md",
-      "content": "Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-01-01_blind-spots-makary]]",
-      "degree": 3
+      "content": "Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]",
+      "degree": 4
     },
     {
       "id": "concepts/epistemologia-del-riesgo",
@@ -727,8 +745,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos.",
       "path": "concepts/equidad-educativa.md",
-      "content": "Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]",
-      "degree": 25
+      "content": "Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]",
+      "degree": 27
     },
     {
       "id": "concepts/etica-de-la-ciencia",
@@ -759,8 +777,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.",
       "path": "concepts/etica-de-la-ia.md",
-      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]",
-      "degree": 53
+      "content": "Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]\n- [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]",
+      "degree": 62
     },
     {
       "id": "concepts/evaluacion-educativa",
@@ -775,8 +793,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.",
       "path": "concepts/evaluacion-educativa.md",
-      "content": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]",
-      "degree": 62
+      "content": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]\n- [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]",
+      "degree": 73
     },
     {
       "id": "concepts/evolucion-cultural",
@@ -858,8 +876,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA.",
       "path": "concepts/formacion-docente.md",
-      "content": "Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]",
-      "degree": 25
+      "content": "Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]",
+      "degree": 29
     },
     {
       "id": "concepts/futuro-del-trabajo",
@@ -874,8 +892,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "path": "concepts/futuro-del-trabajo.md",
-      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]",
-      "degree": 41
+      "content": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]",
+      "degree": 43
     },
     {
       "id": "concepts/generacion-aumentada-por-recuperacion",
@@ -1072,8 +1090,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LLM para obtener respuestas precisas y útiles; incluye estrategias como zero/few-shot, chain-of-thought y plantillas estructuradas.",
       "path": "concepts/ingenieria-de-prompts.md",
-      "content": "Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LLM para obtener respuestas precisas y útiles; incluye estrategias como zero/few-shot, chain-of-thought y plantillas estructuradas.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]",
-      "degree": 2
+      "content": "Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LLM para obtener respuestas precisas y útiles; incluye estrategias como zero/few-shot, chain-of-thought y plantillas estructuradas.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]",
+      "degree": 7
     },
     {
       "id": "concepts/ingenieria-de-sistemas",
@@ -1089,8 +1107,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Enfoque para diseñar y analizar sistemas complejos sociotécnicos considerando componentes, interacciones y propiedades emergentes; incluye la teoría de sistemas aplicada a la seguridad (STAMP/STPA) y la ingeniería de sistemas de procesos.",
       "path": "concepts/ingenieria-de-sistemas.md",
-      "content": "Enfoque para diseñar y analizar sistemas complejos sociotécnicos considerando componentes, interacciones y propiedades emergentes; incluye la teoría de sistemas aplicada a la seguridad (STAMP/STPA) y la ingeniería de sistemas de procesos.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]",
-      "degree": 1
+      "content": "Enfoque para diseñar y analizar sistemas complejos sociotécnicos considerando componentes, interacciones y propiedades emergentes; incluye la teoría de sistemas aplicada a la seguridad (STAMP/STPA) y la ingeniería de sistemas de procesos.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]",
+      "degree": 2
     },
     {
       "id": "concepts/ingenieria-metabolica",
@@ -1138,8 +1156,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.",
       "path": "concepts/integridad-academica.md",
-      "content": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]",
-      "degree": 48
+      "content": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]",
+      "degree": 64
     },
     {
       "id": "concepts/inteligencia-artificial",
@@ -1153,8 +1171,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]",
-      "degree": 131
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]\n- [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]\n- [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]\n- [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]\n- [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]",
+      "degree": 153
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -1167,8 +1185,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.",
       "path": "concepts/interdisciplinariedad.md",
-      "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]",
-      "degree": 15
+      "content": "Integración de métodos, conceptos y perspectivas de distintas disciplinas para abordar problemas que ninguna puede resolver sola.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2025-07-31_alfabetizacion-competencia-ia]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]",
+      "degree": 16
     },
     {
       "id": "concepts/liderazgo-educativo",
@@ -1285,6 +1303,22 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 4
     },
     {
+      "id": "concepts/motivacion-y-compromiso-estudiantil",
+      "kind": "concept",
+      "label": "motivacion y compromiso estudiantil",
+      "keyword": "motivacion-y-compromiso-estudiantil",
+      "aliases": [
+        "student motivation and engagement",
+        "learning engagement",
+        "motivación estudiantil",
+        "compromiso del estudiante"
+      ],
+      "definition": "Energía, impulso y conductas que sostienen la participación, el esfuerzo y la persistencia del estudiante en el aprendizaje; el compromiso (engagement) es multidimensional (cognitivo, conductual, emocional y de agencia) y se distingue de los resultados de aprendizaje.",
+      "path": "concepts/motivacion-y-compromiso-estudiantil.md",
+      "content": "Energía, impulso y conductas que sostienen la participación, el esfuerzo y la persistencia del estudiante en el aprendizaje; el compromiso (engagement) es multidimensional (cognitivo, conductual, emocional y de agencia) y se distingue de los resultados de aprendizaje.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/nanociencia",
       "kind": "concept",
       "label": "nanociencia",
@@ -1331,8 +1365,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas.",
       "path": "concepts/pensamiento-critico.md",
-      "content": "Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]",
-      "degree": 47
+      "content": "Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]",
+      "degree": 60
     },
     {
       "id": "concepts/peptidos-bioactivos",
@@ -1397,8 +1431,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.",
       "path": "concepts/personalizacion-del-aprendizaje.md",
-      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]",
-      "degree": 11
+      "content": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]\n- [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]",
+      "degree": 21
     },
     {
       "id": "concepts/petroleo-y-gas",
@@ -1466,8 +1500,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Campo de la IA que permite a las máquinas analizar, interpretar y generar lenguaje humano; incluye embeddings (BERT, Word2Vec, TF-IDF), clasificación y clustering de texto, y modelos de lenguaje.",
       "path": "concepts/procesamiento-de-lenguaje-natural.md",
-      "content": "Campo de la IA que permite a las máquinas analizar, interpretar y generar lenguaje humano; incluye embeddings (BERT, Word2Vec, TF-IDF), clasificación y clustering de texto, y modelos de lenguaje.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]",
-      "degree": 1
+      "content": "Campo de la IA que permite a las máquinas analizar, interpretar y generar lenguaje humano; incluye embeddings (BERT, Word2Vec, TF-IDF), clasificación y clustering de texto, y modelos de lenguaje.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]",
+      "degree": 2
     },
     {
       "id": "concepts/proteinas-recombinantes",
@@ -1497,8 +1531,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.",
       "path": "concepts/psicologia-educativa.md",
-      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]",
-      "degree": 30
+      "content": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2023-10-24_hidden-potential-grant]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]",
+      "degree": 32
     },
     {
       "id": "concepts/psicometria",
@@ -1534,8 +1568,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.",
       "path": "concepts/publicacion-academica.md",
-      "content": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]",
-      "degree": 2
+      "content": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]",
+      "degree": 3
     },
     {
       "id": "concepts/quimica-computacional",
@@ -1583,8 +1617,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Capacidad de los modelos de IA para integrar y razonar sobre múltiples modalidades (texto, imágenes, diagramas, fórmulas); incluye la interpretación de figuras científicas, diagramas de proceso y notación matemática.",
       "path": "concepts/razonamiento-multimodal.md",
-      "content": "Capacidad de los modelos de IA para integrar y razonar sobre múltiples modalidades (texto, imágenes, diagramas, fórmulas); incluye la interpretación de figuras científicas, diagramas de proceso y notación matemática.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]",
-      "degree": 1
+      "content": "Capacidad de los modelos de IA para integrar y razonar sobre múltiples modalidades (texto, imágenes, diagramas, fórmulas); incluye la interpretación de figuras científicas, diagramas de proceso y notación matemática.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]",
+      "degree": 2
     },
     {
       "id": "concepts/regulacion-de-ia",
@@ -1599,8 +1633,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.",
       "path": "concepts/regulacion-de-ia.md",
-      "content": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]",
-      "degree": 25
+      "content": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]",
+      "degree": 29
     },
     {
       "id": "concepts/retroalimentacion-con-ia",
@@ -1617,8 +1651,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico.",
       "path": "concepts/retroalimentacion-con-ia.md",
-      "content": "Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]",
-      "degree": 12
+      "content": "Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]",
+      "degree": 22
     },
     {
       "id": "concepts/revision-sistematica-de-literatura",
@@ -1633,8 +1667,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.",
       "path": "concepts/revision-sistematica-de-literatura.md",
-      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]",
-      "degree": 14
+      "content": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]\n- [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]\n- [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]\n- [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]\n- [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]",
+      "degree": 34
     },
     {
       "id": "concepts/salud-y-sociedad",
@@ -1766,8 +1800,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, analizar, evaluar, crear) usado para diseñar currículo y evaluación, y para mapear la complejidad cognitiva de tareas; sirve de referencia para evaluar el razonamiento de la IA frente a la progresión cognitiva humana.",
       "path": "concepts/taxonomia-de-bloom.md",
-      "content": "Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, analizar, evaluar, crear) usado para diseñar currículo y evaluación, y para mapear la complejidad cognitiva de tareas; sirve de referencia para evaluar el razonamiento de la IA frente a la progresión cognitiva humana.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]",
-      "degree": 2
+      "content": "Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, analizar, evaluar, crear) usado para diseñar currículo y evaluación, y para mapear la complejidad cognitiva de tareas; sirve de referencia para evaluar el razonamiento de la IA frente a la progresión cognitiva humana.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]",
+      "degree": 3
     },
     {
       "id": "concepts/tecnocracia",
@@ -1847,8 +1881,8 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "definition": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.",
       "path": "concepts/tutoria-con-ia.md",
-      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]",
-      "degree": 22
+      "content": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]",
+      "degree": 31
     },
     {
       "id": "concepts/universidades-chinas",
@@ -4484,6 +4518,34 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl artículo examina el papel de los grandes modelos de lenguaje (LLMs), como ChatGPT o Copilot, como tutores virtuales (VTs) en la educación superior, con foco específico en la ingeniería química. Enmarcado en el paradigma de la Educación 4.0 —donde el estudiante es el agente activo del aprendizaje y el docente provee guía—, el trabajo busca cerrar la brecha entre el potencial de la IA en educación (AIED) y las preocupaciones éticas y societales que suscita. La pregunta central que organiza el texto es \"¿estamos listos para los LLMs en educación?\".\n\nEl estudio combina cuatro componentes: (i) una revisión breve de las aplicaciones actuales de la IA en educación superior y en ingeniería química; (ii) una discusión de las preocupaciones éticas, regulatorias y societales (incluyendo el marco de la UE y la clasificación del uso educativo de la IA como \"alto riesgo\" en el EU AI Act); (iii) la presentación de los pasos iniciales de un chatbot desarrollado en la Universidad Técnica de Dinamarca (DTU) para realizar auditorías de Buenas Prácticas de Manufactura (GMP); y (iv) una investigación empírica, mediante encuestas, sobre la disposición de estudiantes de maestría y de practicantes de academia e industria hacia el uso de tutores virtuales.\n\nEl caso de uso de DTU propone reemplazar a los docentes en un ejercicio de auditoría GMP repetitivo y discursivo —donde 3 docentes deben gestionar las auditorías de 24 grupos cada año, rechazando ~25% de las inscripciones— por un VT gamificado. El objetivo declarado no es eliminar al docente sino liberarlo de tareas repetitivas para que se concentre en las clases y la preparación de material.\n\nLos resultados de las dos encuestas (22 estudiantes del curso GMP y 12 participantes de la conferencia ENBIS, mayo 2023) muestran que la mayoría de los participantes son ambivalentes: el 68,2% de los estudiantes responde \"Quizás\" a si un VT debería reemplazar a los docentes en el curso, y la oposición crece notablemente cuando la pregunta se generaliza a todo el sistema educativo. La preocupación dominante es la calidad y fiabilidad de las respuestas generadas. Ningún grupo favorece el reemplazo total; el consenso es que la IA debe apoyar, no sustituir, al docente. El equipo concluye proponiendo un enfoque basado en ingeniería de prompts que limita la capacidad generativa del modelo (parámetros conservadores, instrucciones explícitas contra las alucinaciones) para priorizar respuestas confiables sobre creatividad.\n\n## Contribuciones principales\n\n- Marco conceptual y revisión del estado de la IA en educación superior y en ingeniería química bajo el paradigma Educación 4.0.\n- Estudio empírico centrado en el estudiante con análisis cuantitativo y cualitativo de percepciones, expectativas y preocupaciones sobre tutores virtuales basados en LLMs.\n- Presentación de un caso de uso real (chatbot para auditoría GMP en DTU) como ejemplo de despliegue ético y validado de un sistema AIED.\n- Articulación explícita del compromiso (trade-off) entre poder generativo y fiabilidad como problema de diseño central para la IA educativa.\n\n## Metodología\n\nDos encuestas con preguntas cerradas y abiertas (deliberadamente provocadoras), administradas en la primavera de 2023: una a 22 estudiantes de maestría inscritos en el curso GMP de DTU (público objetivo directo del experimento) y otra a 12 participantes de la reunión de primavera ENBIS sobre Digital Twins (academia e industria). Se realizó análisis cuantitativo de las respuestas cerradas y análisis cualitativo de las justificaciones abiertas. El desarrollo del VT abarcó dos años, con énfasis en recolección y anonimización de datos y validación cuantitativa y cualitativa (prueba a pequeña escala y evaluación con docentes expertos).\n\n## Hallazgos clave\n\n- El 68,2% de los estudiantes responde \"Quizás\" al reemplazo de docentes por VT en el curso GMP; la oposición sube en el dominio general (36,4% en contra).\n- Los estudiantes son cerca del doble de propensos a aceptar el reemplazo cuando se les pregunta por un contexto familiar (su curso) que por el dominio general.\n- Ningún respondiente está a favor del reemplazo total de docentes; el consenso es que la IA debe ser un apoyo.\n- La preocupación principal (16/22 estudiantes) es la calidad y fiabilidad de las respuestas del VT; se valora la interacción humana, los matices y la competencia pedagógica.\n- Los estudiantes prefieren un \"agente\" (tutor con apariencia humana); los participantes de conferencia prefieren un chatbot textual, en parte para evitar el efecto \"valle inquietante\".\n- La estrategia propuesta es restringir la generatividad del LLM vía ingeniería de prompts para minimizar alucinaciones y aumentar la fiabilidad.\n\n## Limitaciones\n\n- Perspectiva deliberadamente centrada en el estudiante; no incorpora la visión de expertos pedagógicos o teóricos.\n- Muestras pequeñas (22 + 12 respondientes) y de una sola institución/conferencia.\n- Encuestas administradas en mayo de 2023, cuando ChatGPT estaba disponible pero menos extendido; las opiniones probablemente se basaron en GPT-3.5.\n- Presenta solo las etapas iniciales del chatbot; los resultados del despliegue real (edición 2024 del curso) se reservan para publicaciones futuras.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/educacion-superior]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/personalizacion-del-aprendizaje]]"
     },
     {
+      "id": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo",
+      "kind": "paper",
+      "label": "Generative AI in education and research: A systematic mapping review",
+      "authors": [
+        "Abdullahi Yusuf",
+        "Nasrin Pervin",
+        "Marcos Román-González",
+        "Norah Md Noor"
+      ],
+      "year": "2024",
+      "venue": "Review of Education",
+      "url": "https://doi.org/10.1002/rev3.3489",
+      "doi": "10.1002/rev3.3489",
+      "keywords": [
+        "inteligencia-artificial",
+        "revision-sistematica-de-literatura",
+        "analisis-bibliometrico",
+        "etica-de-la-ia",
+        "adopcion-de-tecnologia",
+        "educacion-superior",
+        "integridad-academica"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/yusuf_2024_genai-mapping.pdf",
+      "content": "## Resumen\nDada la potencial aplicación de la IA generativa (GenAI) en la educación y su creciente interés en la investigación, esta revisión sistemática mapeó el panorama temático de 407 publicaciones indexadas en Web of Science, ScienceDirect y Scopus (noviembre 2022 – abril 2024). Usando EPPI Reviewer, se extrajeron el tipo de publicación, el nivel educativo, las disciplinas, las áreas de investigación y las aplicaciones de la GenAI.\n\nSe identificaron ocho temas discursivos, predominantemente centrados en \"aplicación, impacto y potencial\", \"implicaciones éticas y riesgos\", \"perspectivas y experiencias\", \"adopción institucional e individual\" y \"desempeño e inteligencia\". La GenAI se conceptualizó como herramienta para la \"mejora pedagógica\", el \"entrenamiento y prácticas especializadas\", la \"asistencia a la escritura y productividad\" y el desarrollo de \"habilidades profesionales\".\n\nEl trabajo ofrece un mapa de la estructura intelectual del campo emergente de la GenAI en educación e investigación, útil para identificar vacíos y orientar la agenda futura.\n\n## Contribuciones principales\n- Mapeo sistemático de 407 publicaciones sobre GenAI en educación e investigación.\n- Identificación de ocho temas discursivos y múltiples conceptualizaciones de la GenAI.\n- Mapa de la estructura intelectual del campo para orientar investigación futura.\n\n## Metodología\nRevisión de mapeo sistemático con EPPI Reviewer sobre 407 publicaciones (WoS, ScienceDirect, Scopus).\n\n## Hallazgos clave\n- El campo se concentra en aplicación/impacto y en implicaciones éticas/riesgos.\n- La GenAI se concibe sobre todo como herramienta de mejora pedagógica y de escritura.\n\n## Limitaciones\n- Cobertura temporal acotada (nov. 2022 – abr. 2024) y dependencia de bases indexadas.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/analisis-bibliometrico]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/educacion-superior]]\n- [[concepts/integridad-academica]]"
+    },
+    {
       "id": "notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica",
       "kind": "paper",
       "label": "ChatGPT-3.5 and -4.0 and mechanical engineering: Examining performance on the FE mechanical engineering and undergraduate exams",
@@ -4935,6 +4997,40 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nLos surfactantes, derivados principalmente del petróleo, reducen la tensión superficial en las interfaces, pero su lenta degradación genera problemas ambientales, lo que motiva la búsqueda de biosurfactantes efectivos y amigables con el ambiente. En estudios previos, el grupo había demostrado la actividad de tensión superficial de la proteína transmembrana OmpA de *Escherichia coli*. Aquí aplican **DNA shuffling** (barajado de ADN, una técnica de evolución dirigida in vitro) sobre el gen *ompA* para mejorar su actividad interfacial.\n\nSe evaluaron los cambios en la tensión interfacial al exponer los mutantes a una interfaz agua-aceite, con el fin de identificar los candidatos más prometedores. Dos mutantes alcanzaron valores de tensión interfacial menores (9.10 mN/m y 4.24 mN/m) que la proteína original OmpA (14.98 mN/m). Dado que los puntos isoeléctricos predichos están lejos del pH neutro, la carga de la proteína resultó un factor crucial para explicar la migración hacia la interfaz; los mutantes de bajo peso molecular no mostraron diferencia significativa en su migración.\n\nEl trabajo avanza el diseño de biosurfactantes proteicos como alternativas verdes a los surfactantes petroquímicos, con aplicaciones potenciales en recuperación mejorada de petróleo (EOR).\n\n## Contribuciones principales\n- Aplicación de DNA shuffling a *ompA* para mejorar su actividad interfacial.\n- Dos mutantes con tensión interfacial sustancialmente menor que OmpA nativa.\n- Identificación de la carga proteica como factor clave de migración a la interfaz.\n\n## Metodología\nDNA shuffling del gen *ompA*, expresión de mutantes y medición de tensión interfacial agua-aceite; análisis del punto isoeléctrico y peso molecular.\n\n## Hallazgos clave\n- La evolución dirigida mejora la actividad interfacial de una proteína biosurfactante.\n- La carga (punto isoeléctrico) gobierna la migración a la interfaz más que el peso molecular.\n\n## Limitaciones\n- Validación a escala de laboratorio en sistema agua-aceite modelo.\n- Correlación parcial entre propiedades predichas y desempeño.\n\n## Notas relacionadas\n- [[concepts/biosurfactantes]]\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/biologia-molecular]]\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/petroleo-y-gas]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]"
     },
     {
+      "id": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "kind": "paper",
+      "label": "A scoping review on how generative artificial intelligence transforms assessment in higher education",
+      "authors": [
+        "Qi Xia",
+        "Xiaojing Weng",
+        "Fan Ouyang",
+        "Tzung Jin Lin",
+        "Thomas K.F. Chiu"
+      ],
+      "year": "2024",
+      "venue": "International Journal of Educational Technology in Higher Education",
+      "url": "https://doi.org/10.1186/s41239-024-00468-z",
+      "doi": "10.1186/s41239-024-00468-z",
+      "keywords": [
+        "evaluacion-educativa",
+        "inteligencia-artificial",
+        "educacion-superior",
+        "revision-sistematica-de-literatura",
+        "integridad-academica",
+        "retroalimentacion-con-ia",
+        "autorregulacion-del-aprendizaje",
+        "alfabetizacion-en-ia",
+        "formacion-docente",
+        "pensamiento-critico",
+        "interdisciplinariedad",
+        "regulacion-de-ia"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/xia_2024_genai-assessment-scoping.pdf",
+      "content": "## Resumen\nEsta revisión de alcance (scoping review) examina cómo la inteligencia artificial generativa (GenAI), y en particular ChatGPT, transforma la evaluación del aprendizaje en la educación superior. Siguiendo el protocolo PRISMA-ScR, los autores recuperaron 969 artículos de las bases ERIC, Web of Science y Scopus, y tras el cribado seleccionaron 32 estudios empíricos para análisis, la mayoría publicados en 2023 tras el lanzamiento de ChatGPT. Los estudios provienen de 18 regiones y 11 disciplinas, siendo educación, medicina y ciencias de la computación las tres más frecuentes.\n\nEl análisis se organiza en tres niveles —estudiantes, profesores e instituciones—. Para los estudiantes, la GenAI aporta tres oportunidades (retroalimentación percibida como imparcial, retroalimentación inmediata y diversa, y autoevaluación) y un desafío central: la integridad académica, señalada por el 54% de los artículos como una amenaza significativa por el riesgo de copia y deshonestidad. Para los profesores se identifican seis dimensiones: alfabetización evaluativa docente, evaluación más diversa e innovadora, enseñanza guiada por la evaluación, posible deterioro del desarrollo de habilidades esenciales por sobredependencia de la IA, creencias docentes sobre la evaluación y el equilibrio entre evaluación humana y asistida por IA. Para las instituciones se proponen cinco aspectos: rediseño de políticas de evaluación, nueva alfabetización y desarrollo profesional docente, reorientación del foco educativo y de los objetivos de aprendizaje, mayor evaluación interdisciplinaria y disrupción de los métodos tradicionales de evaluación.\n\nLa revisión sostiene que la evaluación debe transformarse para cultivar la autorregulación del aprendizaje, el aprendizaje responsable y la integridad. Recomienda actividades de desarrollo profesional docente en evaluación, IA y alfabetización digital; fortalecer las creencias del profesorado sobre la evaluación humana frente a la de la IA; y que los profesores adopten una enseñanza innovadora y holística. A las instituciones les sugiere revisar y repensar sus políticas de evaluación y ofrecer más programas y enseñanza interdisciplinarios.\n\n## Contribuciones principales\n- Mapea sistemáticamente, mediante PRISMA-ScR, cómo la GenAI impacta la evaluación en educación superior en tres niveles (estudiantes, profesores, instituciones).\n- Identifica un marco de oportunidades y desafíos para cada nivel, con porcentajes de prevalencia en los 32 estudios revisados.\n- Articula recomendaciones prácticas para el rediseño de políticas, el desarrollo profesional docente y la transición desde modelos de evaluación centrados en lo humano o lo automático hacia métodos mixtos.\n- Propone direcciones de investigación futura: políticas de evaluación estandarizadas por disciplina, enfoques interdisciplinarios, alfabetización en IA para estudiantes y docentes, y mayor incorporación de la voz de estudiantes e industria.\n\n## Metodología\nRevisión de alcance conforme a la extensión PRISMA para scoping reviews (PRISMA-ScR). Búsqueda booleana en ERIC, Web of Science y Scopus combinando términos de evaluación, educación superior y GenAI/ChatGPT; búsqueda completada el 30 de septiembre de 2023. Criterios: artículos revisados por pares, en inglés, de los últimos cinco años. Tras eliminar 58 duplicados y aplicar cribado de títulos/resúmenes y lectura de textos completos (excluyendo contextos no universitarios, actividades no evaluativas y estudios teóricos/conceptuales/de revisión), quedaron 32 estudios empíricos. La codificación, inductiva y por niveles (estudiantes, profesores, instituciones), fue realizada por dos codificadores con validación de un tercero.\n\n## Hallazgos clave\n- El 54% de los artículos señala la integridad académica como el principal desafío; ChatGPT puede producir ensayos que obtienen calificaciones altas (incluso de primera clase) y rendir bien en exámenes de ingeniería, economía, medicina y geografía.\n- La GenAI ofrece retroalimentación inmediata, diversa y percibida como menos sesgada, pero puede generar contenido incorrecto, criterios distintos a los del curso y sesgos derivados de datos de entrenamiento.\n- Los formatos menos afectados son presentaciones y discusiones (grabadas o en vivo), exámenes presenciales, trabajo de laboratorio y tareas auténticas que exigen creatividad y pensamiento de orden superior.\n- Los docentes necesitan desarrollar alfabetización evaluativa, alfabetización en IA y digital, y distinguir el trabajo del estudiante del generado por IA; las creencias del profesorado sostienen que el juicio humano sigue siendo irremplazable.\n- Se aboga por pasar de la evaluación centrada en lo humano o lo automático hacia métodos mixtos, y por evaluación interdisciplinaria (aunque solo el 6% de los artículos la abordaba).\n\n## Limitaciones\n- Como revisión de alcance, no permite ofrecer recomendaciones específicas; se sugieren revisiones sistemáticas y metaanálisis cuando exista un cuerpo de investigación mayor.\n- Varios estudios revisados discutían la GenAI en contexto general sin detallar tecnologías concretas, por lo que los hallazgos sobre los roles de la GenAI pueden no ser suficientemente detallados.\n- Resultados preliminares: la mayoría de los estudios incluidos se publicaron en 2023, en una etapa temprana de adopción de ChatGPT.\n\n## Notas relacionadas\n- [[concepts/evaluacion-educativa]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/integridad-academica]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/autorregulacion-del-aprendizaje]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/formacion-docente]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/interdisciplinariedad]]\n- [[concepts/regulacion-de-ia]]"
+    },
+    {
       "id": "notes/papers/2025-01-01_amp-analisis-estadistico-datos",
       "kind": "paper",
       "label": "Statistical analysis and data interpretation (Chapter 5)",
@@ -5383,6 +5479,43 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\nCapítulo 2 del libro *Nano Carriers for Nucleic Acids and Proteins* (Routledge/CRC, 2025). Los nanocarriers son uno de los desarrollos más importantes en los sistemas de entrega de ácidos nucleicos y proteínas. El capítulo aborda los aspectos fundamentales del diseño —tamaño, forma, propiedades de superficie y capacidad de respuesta a estímulos— y su papel para aumentar la eficacia terapéutica y la especificidad de la entrega, especialmente en cáncer.\n\nEl tamaño es determinante de la biodistribución, la captación celular y el aclaramiento. Nanocarriers en el rango de 10-200 nm pueden aprovechar el efecto de permeabilidad y retención aumentada (EPR) para acumularse pasivamente en tumores, mientras que el tamaño también condiciona la vida media en circulación y la captación por el sistema fagocítico mononuclear. El capítulo conecta estos principios físicos con estrategias de funcionalización superficial y diseño estímulo-responsivo.\n\n## Contribuciones principales\n- Revisión de cómo tamaño, forma y superficie gobiernan el desempeño de los nanocarriers.\n- Explicación del efecto EPR y su relación con el tamaño para el direccionamiento tumoral.\n- Principios de diseño de sistemas estímulo-responsivos.\n\n## Metodología\nCapítulo de revisión sobre principios de diseño de nanocarriers.\n\n## Hallazgos clave\n- El tamaño (10-200 nm) determina biodistribución, captación y aclaramiento.\n- La funcionalización superficial y la respuesta a estímulos mejoran especificidad y control.\n\n## Limitaciones\n- Capítulo de revisión, sin datos experimentales propios.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas]]"
     },
     {
+      "id": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "kind": "paper",
+      "label": "Mapping Tomorrow's Teaching and Learning Spaces: A Systematic Review on GenAI in Higher Education",
+      "authors": [
+        "Tanja Tillmanns",
+        "Alfredo Salomão Filho",
+        "Susmita Rudra",
+        "Peter Weber",
+        "Julia Dawitz",
+        "Emma Wiersma",
+        "Dovile Dudenaite",
+        "Sally Reynolds"
+      ],
+      "year": "2025",
+      "venue": "Trends in Higher Education",
+      "url": "https://doi.org/10.3390/higheredu4010002",
+      "doi": "10.3390/higheredu4010002",
+      "keywords": [
+        "educacion-superior",
+        "inteligencia-artificial",
+        "revision-sistematica-de-literatura",
+        "integridad-academica",
+        "alfabetizacion-en-ia",
+        "etica-de-la-ia",
+        "pensamiento-critico",
+        "creatividad",
+        "personalizacion-del-aprendizaje",
+        "tutoria-con-ia",
+        "retroalimentacion-con-ia",
+        "formacion-docente"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/tillmanns_2025_genai-he-mapping.pdf",
+      "content": "## Resumen\n\nEsta revisión sistemática colectiva de literatura, realizada en el marco del proyecto Erasmus+ \"TaLAI: Teaching and Learning with AI in Higher Education\", examina el estado actual de la inteligencia artificial generativa (GenAI) en la educación superior con el objetivo de informar el diseño curricular y el desarrollo de la educación digital. Mediante un enfoque de síntesis narrativa textual y descriptiva, el estudio analiza la literatura en torno a cuatro áreas temáticas predefinidas: objetivos de aprendizaje, actividades de enseñanza y aprendizaje, desarrollo curricular, y apoyo institucional para el uso ético y responsable de GenAI.\n\nLa revisión analizó 93 artículos revisados por pares provenientes de ocho bases de datos (SpringerLink, Jstor, Web of Science, IEEE Xplore, ERIC, MDPI, Scopus y LearnTechLib), empleando una estrategia de búsqueda basada en 174 combinaciones de palabras clave, un proceso de codificación colaborativo entre múltiples investigadores, codificación in vivo formulada en gerundios y documentación transparente siguiendo las directrices PRISMA 2020. El agrupamiento de los códigos en categorías se apoyó en una interacción crítica con ChatGPT.\n\nLos hallazgos se presentan como recomendaciones accionables para integrar GenAI en la enseñanza y el aprendizaje, contribuyendo al desarrollo de entornos de aprendizaje éticos y mejorados con IA. La literatura revela un consenso sobre la importancia de incorporar GenAI en la educación superior. Temas recurrentes como la mentoría, el aprendizaje personalizado, la creatividad, la inteligencia emocional y el pensamiento de orden superior subrayan la necesidad persistente de armonizar prácticas educativas centradas en el ser humano con las capacidades de las tecnologías GenAI.\n\n## Contribuciones principales\n\n- Mapeo sistemático del estado de la literatura sobre GenAI en educación superior (nov. 2022 – jul. 2024), organizado en cuatro áreas temáticas: objetivos de aprendizaje, actividades de enseñanza/aprendizaje, desarrollo curricular y apoyo institucional.\n- Conjunto de recomendaciones accionables para educadores e instituciones sobre el uso ético y responsable de GenAI.\n- Síntesis de categorías emergentes (p. ej., aprendizaje centrado en el estudiante, mezcla de GenAI con métodos tradicionales, GenAI confiable y ética, gobernanza y desarrollo de políticas).\n- Argumento de que el uso responsable —no la prohibición— es el camino viable, dada la dificultad de hacer cumplir prohibiciones totales.\n\n## Metodología\n\nRevisión sistemática colectiva con síntesis narrativa textual descriptiva. Búsqueda en ocho bases de datos con una cadena de palabras clave (AI OR Artificial Intelligence AND Policy OR Regulation OR Strategies OR Guidelines AND Ethics OR ethical principles AND Higher Education OR HEI). Criterios de inclusión: artículos en inglés revisados por pares, publicados entre nov. 2022 y jul. 2024, sobre uso ético/responsable de GenAI en enseñanza y aprendizaje. De ~280 fuentes iniciales se seleccionaron 93. Codificación in vivo en gerundios (técnica tomada de la teoría fundamentada), validación mediante revisiones de fiabilidad entre autores y discusión con el consorcio. Se siguió el flujo y la lista de verificación PRISMA 2020.\n\n## Hallazgos clave\n\n- **Objetivos de aprendizaje:** definir resultados y niveles de competencia antes de introducir GenAI; desarrollar competencias holísticas (pensamiento crítico, creatividad, inteligencia social/emocional) que la IA no puede replicar; priorizar metacognición y autorregulación.\n- **Actividades de enseñanza/aprendizaje:** fomentar autonomía y aprendizaje centrado en el estudiante; usar GenAI como complemento (no sustituto) de la enseñanza tradicional; el docente transita de transmisor de conocimiento a mentor; usos prácticos como generación de cuestionarios, retroalimentación personalizada en tiempo real, entornos simulados y GenAI como tutor personalizado; estrategias de scaffolding, flipped learning y aprendizaje colaborativo/interdisciplinario.\n- **Desarrollo curricular:** integrar módulos de alfabetización en GenAI o cursos especializados; educar sobre las implicaciones sociales de los algoritmos; GenAI confiable (cumplimiento legal, alineación ética, robustez sociotécnica) coordinada mediante estrategias educativas nacionales.\n- **Apoyo institucional:** inversión en infraestructura y capacitación (\"enseñar a los docentes\"); desarrollo de políticas y gobernanza adaptables, co-creadas con estudiantes y multi-stakeholder; iniciativas de integridad académica; desarrollo del profesorado con incentivos; innovación, inclusión y mecanismos de monitoreo y mejora continua.\n- Consenso general: la integración de GenAI debe aumentar, no reemplazar, las prácticas educativas centradas en el ser humano; advertencias recurrentes sobre dependencia excesiva, precisión/fiabilidad de las salidas y necesidad de verificación.\n\n## Limitaciones\n\n- Restricción a artículos en inglés revisados por pares (posible sesgo lingüístico y de cobertura).\n- Ventana temporal corta (nov. 2022 – jul. 2024) en un campo de evolución muy rápida.\n- La revisión no fue registrada previamente (se priorizó flexibilidad metodológica).\n- Síntesis descriptiva/cualitativa: agrupa recomendaciones de la literatura sin evaluar empíricamente su eficacia ni la calidad metodológica de los estudios incluidos.\n- Uso de ChatGPT en la fase de categorización introduce un agente cuyo criterio no es plenamente transparente.\n\n## Notas relacionadas\n\n- [[concepts/educacion-superior]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/integridad-academica]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/creatividad]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/formacion-docente]]"
+    },
+    {
       "id": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
       "kind": "paper",
       "label": "Fostering technical proficiency and professional skills: A multifaceted PO-PBL strategy for unit operations education",
@@ -5473,6 +5606,38 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl estudio examina las motivaciones de profesores universitarios para rediseñar las evaluaciones de sus cursos ante la irrupción de la inteligencia artificial generativa (Gen AI) y propone un marco conceptual para guiar ese rediseño. La investigación se sitúa en un contexto poco estudiado —universidades palestinas, con restricciones económicas y políticas— y busca llenar el vacío de literatura sobre cómo la Gen AI puede transformar la naturaleza misma de la evaluación, más allá de automatizar la calificación o dar retroalimentación instantánea.\n\nMediante una metodología cualitativa (entrevistas semiestructuradas, grupos focales y análisis documental de evaluaciones rediseñadas), 61 docentes de ciencias médicas, humanidades, ingeniería, ciencias sociales, naturales y negocios participaron a partir de una serie de talleres formativos. El análisis temático (deductivo e inductivo) identificó cinco motivaciones principales para rediseñar las evaluaciones: preparar a los estudiantes para el trabajo futuro, la adaptación tecnológica, mantener la integridad académica, la política institucional y las consideraciones éticas.\n\nEl estudio también identificó cinco desafíos centrales: mantener la integridad académica, las demandas de tiempo y recursos, las preocupaciones de equidad y accesibilidad, la resistencia al cambio y la falta de directrices y formación claras. A partir de estos hallazgos, los autores desarrollaron el marco conceptual \"Against, Avoid, Adopt, and Explore\" (AAAE), que clasifica los tipos de evaluación según el grado de integración de la Gen AI permitido, desde su prohibición total hasta su uso como socio creativo del aprendizaje.\n\nEl concepto articulador es el de \"evaluación resistente a la IA\" (AI-resistant assessment): tareas que minimizan la dependencia de herramientas Gen AI y enfatizan habilidades que la IA no puede replicar, como el pensamiento crítico, la creatividad y la toma de decisiones éticas, ancladas teóricamente en el constructivismo social de Vygotsky.\n\n## Contribuciones principales\n\n- Propone el marco conceptual AAAE (Against, Avoid, Adopt, Explore) para clasificar y rediseñar evaluaciones según el nivel de integración de la Gen AI.\n- Aporta evidencia empírica desde un contexto del Sur Global (Palestina), poco representado en el discurso sobre IA en educación.\n- Sistematiza cinco motivaciones y cinco desafíos del profesorado al rediseñar evaluaciones en la era de la Gen AI.\n- Define operativamente la \"evaluación resistente a la IA\" y la fundamenta en el constructivismo social.\n\n## Metodología\n\nEstudio cualitativo con tres componentes: 25 entrevistas semiestructuradas (30-45 min), cuatro grupos focales (9 participantes cada uno, 36 en total) y análisis documental de evaluaciones rediseñadas. Total: 61 docentes seleccionados por muestreo intencional desde un grupo de 155 que asistieron a talleres formativos. Las entrevistas y grupos focales se realizaron en árabe con traducción inversa y equivalencia conceptual. Análisis temático inductivo según el procedimiento de seis pasos de Braun y Clarke (2006), codificado en NVivo. Fiabilidad interevaluadores del 89%; estrategia de triangulación entre las tres fuentes de datos.\n\n## Hallazgos clave\n\n- Cinco motivaciones para rediseñar evaluaciones: preparación para el trabajo futuro, adaptación tecnológica, integridad académica, política institucional y consideraciones éticas.\n- Cinco desafíos: mantener la integridad académica, demandas de tiempo y recursos, equidad y accesibilidad, resistencia al cambio, y falta de directrices y formación.\n- El marco AAAE define cuatro principios: Against (sin uso de Gen AI, evalúa habilidades de orden inferior mediante exámenes orales/escritos), Avoid (evaluaciones donde la Gen AI tiene dificultades: portafolios, reflexiones, evaluación basada en desempeño), Adopt (integración de Gen AI para refinar ideas o productos) y Explore (Gen AI como socio en resolución de problemas, co-diseño y creatividad).\n- Emergieron nuevos enfoques de evaluación: producto-proceso, basada en competencias y evaluación auténtica con aplicaciones del mundo real.\n- La brecha de acceso a herramientas de IA e infraestructura digital es una amenaza directa a la equidad de las evaluaciones rediseñadas.\n\n## Limitaciones\n\n- El marco AAAE es conceptual y requiere validación empírica futura.\n- Muestra acotada a un contexto específico (universidades palestinas, docentes adoptantes tempranos), lo que limita la generalización.\n- Datos basados en autorreporte de profesores mediante muestreo intencional.\n- No examina el impacto de los rediseños en los resultados de aprendizaje de los estudiantes.\n\n## Notas relacionadas\n\n- [[concepts/evaluacion-educativa]]\n- [[concepts/integridad-academica]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/formacion-docente]]\n- [[concepts/equidad-educativa]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/supervision-humana]]\n</content>\n</invoke>"
     },
     {
+      "id": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "kind": "paper",
+      "label": "Generative AI in Engineering and Computing Education: A Scoping Review of Empirical Studies and Educational Practices",
+      "authors": [
+        "Jonathan Álvarez Ariza",
+        "Milena Benitez Restrepo",
+        "Carola Hernández Hernández"
+      ],
+      "year": "2025",
+      "venue": "IEEE Access",
+      "url": "https://doi.org/10.1109/ACCESS.2025.3541424",
+      "doi": "10.1109/ACCESS.2025.3541424",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-en-ingenieria",
+        "educacion-en-programacion",
+        "revision-sistematica-de-literatura",
+        "alfabetizacion-en-ia",
+        "ingenieria-de-prompts",
+        "pensamiento-critico",
+        "retroalimentacion-con-ia",
+        "integridad-academica",
+        "educacion-superior",
+        "educacion-k12",
+        "formacion-docente"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/alvarezariza_2025_genai-eng-computing.pdf",
+      "content": "## Resumen\n\nEsta revisión de alcance (scoping review), elaborada según las guías PRISMA-ScR, analiza la integración de la IA generativa (GenAI) en la educación en ingeniería y computación, desde niveles K-12 hasta educación terciaria. Partiendo de 146 registros recuperados de SCOPUS, Web of Science y ERIC, y tras un proceso de cribado con tres codificadores (Cohen's Kappa = 0.84, acuerdo final del 100 %), los autores seleccionaron 24 estudios empíricos (estudios de caso y experimentales) que reportan evidencia de aplicación y evaluación. El análisis combina una capa bibliométrica (autores, citas, países, revistas y mapas de clústeres de keywords con VOSViewer) con una capa pedagógica codificada en MAXQDA (enfoque de investigación, participantes, nivel educativo, resultados de aprendizaje, instrumentos de alfabetización en IA, y percepciones de estudiantes y docentes).\n\nLos hallazgos muestran un predominio de propuestas centradas en el estudiante para educación en computación a nivel universitario, con resultados de aprendizaje concentrados en el dominio cognitivo; en cambio, en K-12 hay mayor énfasis en el dominio afectivo. ChatGPT es la herramienta más utilizada, seguida de DALL·E, GitHub Copilot y herramientas de prompting creadas por los propios investigadores (p. ej., Promptly). La mayoría de los estudios provienen de Estados Unidos (45.8 %), lo que limita la diversidad de contextos socioculturales. La ingeniería de prompts aparece como una habilidad del siglo XXI, aunque la evidencia sugiere que la alfabetización en IA y la capacidad de formular buenos prompts no están necesariamente correlacionadas.\n\nLos autores señalan una sobreestimación del estudio de las percepciones frente a una subestimación de cómo la GenAI influye realmente en el proceso de enseñanza-aprendizaje, así como un desbalance entre propuestas centradas en estudiantes y en docentes (la voz del profesorado y los programas de formación docente están ausentes). Concluyen que la GenAI es solo una herramienta que debe orientarse a propósitos pedagógicos —y no al revés—, y abogan por una mejor articulación entre los currículos de ingeniería/computación y las competencias de alfabetización en IA, adoptando una perspectiva pedagógica crítica más allá del hype.\n\n## Contribuciones principales\n\n- Mapeo sistemático de 24 estudios empíricos sobre prácticas educativas reales con GenAI en ingeniería y computación (no solo de afordancias u opiniones).\n- Síntesis de estrategias y actividades de integración de GenAI, clasificadas por nivel educativo (K-12 vs. terciario) y por enfoque (centrado en estudiante vs. centrado en docente).\n- Catálogo de herramientas de GenAI usadas, incluyendo asistentes de prompting creados ad hoc por los investigadores.\n- Inventario de escalas, encuestas y guías de alfabetización en IA identificadas en los estudios.\n- Identificación de brechas (gap map) y oportunidades de mejora desde una óptica pedagógica crítica.\n\n## Metodología\n\nRevisión de alcance bajo PRISMA-ScR siguiendo las etapas de Arksey y O'Malley. Búsqueda en SCOPUS, WoS y ERIC con cadenas booleanas sobre \"engineering education\" y \"computing education\" + IA generativa (2022-2024); 146 registros iniciales depurados a 127 tras eliminar duplicados y registros irrecuperables. Cribado con Rayyan.ai bajo criterios de inclusión/exclusión y clasificación por tipo de estudio (marco de Montesi y Lago), reteniendo 24 estudios de caso y experimentales. Análisis bibliométrico con VOSViewer y Crossref REST API (vía Python); codificación cualitativa abierta de 640 fragmentos en MAXQDA 24 por dos codificadores con acuerdo inter-codificador del 100 %. Los resultados se organizan en torno a cuatro preguntas de investigación (RQ1 bibliometría; RQ2 características educativas y dominios de aprendizaje; RQ3 estrategias y actividades; RQ4 retos y oportunidades).\n\n## Hallazgos clave\n\n- Solo 24 de 146 estudios reportan evidencia empírica; abundan los papers de opinión, experiencia y benchmarking (ej. si ChatGPT aprueba exámenes de CS1/CS2).\n- Predominio de propuestas centradas en el estudiante, en computación, a nivel universitario y en el dominio cognitivo; en K-12 emerge el dominio afectivo (identidad, creatividad, prácticas culturales).\n- ChatGPT es la herramienta dominante; las percepciones positivas incluyen tutoría personalizada y retroalimentación, y las negativas incluyen alucinaciones, información poco fiable para temas técnicos específicos y carga cognitiva en la formulación de prompts.\n- Alfabetización en IA y prompt engineering aparecen como conceptos centrales pero ambiguos: las competencias de alfabetización en IA no se aplican igual a todos los niveles (K-12 vs. universidad) y no correlacionan necesariamente con la capacidad de prompting.\n- Concentración geográfica en EE. UU. (45.8 % de las propuestas) y predominio de actas de congreso (82.6 %) sobre artículos de revista.\n- Brecha entre el estudio de percepciones y la comprensión de los efectos reales de la GenAI en el aprendizaje; voz docente y formación del profesorado ausentes.\n\n## Limitaciones\n\n- Las cadenas de búsqueda (\"engineering/computing education\") pueden excluir estudios indexados bajo \"computer science\", literatura gris u otros idiomas.\n- Sesgo potencial de los investigadores al analizar bajo una lente pedagógica crítica, que pudo descartar artículos relevantes.\n- Estudios emergentes posteriores al cierre de la revisión quedan fuera del alcance.\n- Base reducida (24 estudios) que limita generalizaciones.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/educacion-en-programacion]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/ingenieria-de-prompts]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/educacion-superior]]\n- [[concepts/educacion-k12]]\n- [[concepts/formacion-docente]]"
+    },
+    {
       "id": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
       "kind": "paper",
       "label": "Generative AI in engineering education: understanding acceptance and use of new GPT teaching tools within a UTAUT framework",
@@ -5501,6 +5666,37 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria.md",
       "pdf_local": "sources/pdfs/cheme-applications/honig_2025_utaut-gpt-teaching-tools.pdf",
       "content": "## Resumen\n\nEl estudio examina la adopción de herramientas de enseñanza basadas en IA generativa (genAI) en un curso de pregrado de tercer año de ingeniería química (\"Safety and Sustainability Case Studies\") en la Universidad de Melbourne. Los autores implementaron dos chatbots personalizados basados en GPT (inicialmente GPT-3.5 turbo, luego GPT-4): el primero simula a un consultor de la industria al que los estudiantes pueden entrevistar en el contexto de un incidente histórico de seguridad de procesos; el segundo simula a un académico que conduce un viva/defensa oral para evaluar la comprensión del caso. Ambas actividades eran voluntarias y no contaban para la calificación.\n\nEl análisis se enmarca en la Teoría Unificada de Aceptación y Uso de la Tecnología (UTAUT), que explica la aceptación tecnológica mediante cuatro constructos: Expectativa de Desempeño, Expectativa de Esfuerzo, Influencia Social y Condiciones Facilitadoras. Mediante un enfoque exploratorio de métodos mixtos (encuestas a estudiantes con escala Likert de 5 puntos más preguntas abiertas analizadas temáticamente, n=41 respuestas, tasa efectiva del 59%) y el registro de uso real del software (78 usuarios únicos por IP en una clase de 70), se documentó una alta adopción voluntaria de las herramientas (83% para el consultor IA, 71% para el viva IA).\n\nEl hallazgo central es que la Expectativa de Desempeño es el factor más significativo, actuando simultáneamente como principal barrera y como principal facilitador de la adopción. Las preocupaciones sobre la precisión, las alucinaciones, la confiabilidad y el alcance de las herramientas dominaron las razones para no usarlas. La Influencia Social no apareció en absoluto en las respuestas cualitativas, y la Expectativa de Esfuerzo y las Condiciones Facilitadoras tuvieron una influencia menor.\n\nUn resultado inesperado fue que un subconjunto de estudiantes prefirió interactuar con los chatbots de IA antes que con consultores o académicos humanos. Los autores interpretan esto como una oportunidad desatendida de la IA para abordar la ansiedad social como barrera de aprendizaje, ofreciendo formas de acceso alternativas y de bajo riesgo para estudiantes con necesidades diversas. Un rasgo de diseño deliberado de las herramientas es que el chatbot NO se presenta como una fuente de \"verdad infalible\", sino como un consultor humano falible: se le instruye a responder \"no lo sé\" o \"eso está fuera del alcance\" para suprimir alucinaciones y para cultivar la alfabetización en IA y la evaluación crítica de los estudiantes.\n\n## Contribuciones principales\n\n- Aplica empíricamente el marco UTAUT (raramente usado en investigación directa) a herramientas de enseñanza GPT personalizadas en educación terciaria, no solo a ChatGPT genérico.\n- Documenta alta adopción voluntaria de chatbots GPT de rol (consultor de industria y viva simulado) en un curso de seguridad de ingeniería química.\n- Identifica la Expectativa de Desempeño como barrera y facilitador dominante, con la confiabilidad/alucinaciones como principal freno.\n- Revela una preferencia de un subgrupo de estudiantes por la IA sobre la interacción humana, señalando su potencial para mitigar la ansiedad social en el aprendizaje.\n- Propone un diseño pedagógico de IA \"falible\" (roleplay de consultor no infalible) que reduce el impacto de las alucinaciones y desarrolla la alfabetización en IA.\n\n## Metodología\n\nEstudio exploratorio de métodos mixtos en un único curso. Instrumento de encuesta validado a partir de encuestas UTAUT previas y preguntas nuevas a medida (Likert de 5 puntos: 25 preguntas, 12 relevantes a la pregunta de investigación; más 2 preguntas abiertas). El componente cualitativo se sometió a análisis temático (33 códigos, 14 temas) mapeado a los cuatro constructos UTAUT y clasificado por sentimiento positivo/negativo. Los datos cuantitativos se reportaron como porcentaje de acuerdo/desacuerdo en lugar de medias y desviaciones (los autores justifican que las puntuaciones Likert no son lineales ni necesariamente normales). El uso autorreportado se validó cruzándolo con direcciones IP únicas registradas. n=41 respuestas completas de una clase de 70.\n\n## Hallazgos clave\n\n- Alta adopción voluntaria: ~86% del cohorte usó las herramientas pese a no tener valor en la calificación; 78 usuarios únicos por IP en una clase de 70.\n- Expectativa de Desempeño fue el constructo más prominente (n=89 comentarios), tanto como barrera (n=43: \"AI lacking\", \"AI wrong\", \"AI mistrust\", \"untransferable\") como facilitador (n=46: prepara, da claridad, construye comprensión).\n- Las respuestas Likert fueron consistentemente más positivas que las respuestas escritas, sugiriendo posible sesgo o desconexión entre evaluación y experiencia real.\n- 97.5% de estudiantes afirmó comprender bien las limitaciones de ChatGPT, lo que puede reflejar sobreconfianza frente a los hallazgos cualitativos.\n- Influencia Social ausente en el análisis cualitativo; los estudiantes percibieron más apoyo de sus pares que de las instituciones para usar genAI.\n- Un subgrupo de estudiantes prefiere la IA a la interacción humana, sin que esto implique aversión total al contacto presencial.\n\n## Limitaciones\n\n- Tamaño de cohorte pequeño (clase de 70, n=41) y baja potencia estadística; mayor error estándar y posible inflación de p-valores.\n- La naturaleza voluntaria y la novedad de la tecnología introducen sesgo de autoselección.\n- El análisis temático es más subjetivo y menos teóricamente guiado que otros métodos; no permite indagar el porqué de las opiniones.\n- No se capturaron factores moderadores (rendimiento académico previo, experiencia tecnológica, demografía) que podrían mediar las percepciones.\n- Hallazgos limitados a un solo curso y contexto institucional, restringiendo la generalización.\n\n## Notas relacionadas\n\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/pensamiento-critico]]"
+    },
+    {
+      "id": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "kind": "paper",
+      "label": "Large Language Models in Computer Science Education: A Systematic Literature Review",
+      "authors": [
+        "Nishat Raihan",
+        "Mohammed Latif Siddiq",
+        "Joanna C. S. Santos",
+        "Marcos Zampieri"
+      ],
+      "year": "2025",
+      "venue": "Proceedings of the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025)",
+      "url": "https://doi.org/10.1145/3641554.3701863",
+      "doi": "10.1145/3641554.3701863",
+      "keywords": [
+        "educacion-en-programacion",
+        "inteligencia-artificial",
+        "revision-sistematica-de-literatura",
+        "integridad-academica",
+        "deteccion-de-texto-ia",
+        "retroalimentacion-con-ia",
+        "tutoria-con-ia",
+        "ingenieria-de-prompts",
+        "evaluacion-educativa",
+        "adopcion-de-tecnologia"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/raihan_2025_llm-cs-education.pdf",
+      "content": "## Resumen\n\nEste trabajo presenta la primera revisión sistemática de literatura (SLR) integral sobre el impacto de los grandes modelos de lenguaje (LLMs) en la educación en ciencias de la computación (CS) e ingeniería de la computación. Siguiendo las directrices de Kitchenham y Charters (2007), los autores parten de 1.735 estudios recuperados de ocho bases de datos (ACM Digital Library, IEEE Xplore, Scopus, ACL Anthology, Web of Science, Springer Link, ScienceDirect y ArXiv) y, tras aplicar criterios estrictos de inclusión/exclusión, analizan en profundidad 125 artículos publicados entre enero de 2019 y junio de 2024.\n\nLa revisión se organiza en torno a cinco preguntas de investigación: (RQ1) los niveles educativos en que se usan los LLMs; (RQ2) las subdisciplinas de CS que abordan los estudios; (RQ3) las metodologías de investigación empleadas; (RQ4) los lenguajes de programación más estudiados; y (RQ5) los modelos de lenguaje más utilizados. Los resultados muestran una fuerte concentración en el nivel de pregrado (más del 80% de los trabajos) y en cursos introductorios de programación e introducción a CS (67%), con escasa atención a temas avanzados, a niveles de posgrado/doctorado y a contextos K-12 o profesionales.\n\nMetodológicamente, predominan los estudios de caso/etnografía (38%) y la investigación-acción (24%), con presencia limitada de análisis centrados en datos y de benchmarking de modelos. Python es el lenguaje más estudiado (55% de los artículos), seguido de Java, mientras que JavaScript, C y C++ reciben mucha menos atención. En cuanto a modelos, ChatGPT (principalmente GPT-3.5) domina por su popularidad y bajo costo frente a GPT-4, seguido de GitHub Copilot (Codex); BingAI, BARD/Gemini y modelos afinados para código como StarCoder y CodeBERT aparecen de forma ocasional.\n\nEn la discusión, los autores sintetizan cuatro hallazgos transversales: los estudiantes tienen percepciones mayoritariamente positivas (valoran ejemplos y explicaciones claras) pero reportan frustración al formular prompts; los instructores expresan preocupación por la sobredependencia, el aprendizaje superficial y el plagio, e incluso reportan correlación negativa entre uso de LLMs y calificaciones. Los LLMs muestran resultados mixtos: ayudan a resolver problemas introductorios, reparar código y generar ejercicios/MCQs, pero rinden mal en problemas de machine learning y en lenguajes distintos del inglés. La SLR concluye que la mayoría de los currículos de CS aún deben adaptarse a estos avances.\n\n## Contribuciones principales\n\n- Primera revisión sistemática integral del impacto de los LLMs en la educación en CS, que cubre 125 estudios (frente a las 21 referencias de la SLR previa más cercana, centrada solo en programación).\n- Mapeo estructurado del campo según cinco dimensiones: niveles educativos, subdisciplinas de CS, metodologías de investigación, lenguajes de programación y modelos de lenguaje.\n- Identificación de vacíos de investigación: poca cobertura de temas avanzados, posgrado, K-12, lenguajes no-Python y enfoques de benchmarking/análisis de datos.\n- Repositorio público con scripts y datos para reproducibilidad.\n\n## Metodología\n\nRevisión sistemática de literatura (SLR) según las directrices de Kitchenham y Charters (2007), en tres fases (planeación, conducción y reporte). Búsqueda booleana en ocho bases de datos que combina términos de CS/ingeniería de software con \"education/teaching\" y \"LLM/large language model\". Cribado en tres etapas (eliminación de duplicados y trabajos fuera de los últimos 5 años; revisión de título, keywords, páginas y abstract; revisión de texto completo) hasta llegar a 125 artículos. La extracción de datos fue realizada por dos autores y revisada por el autor senior.\n\n## Hallazgos clave\n\n- **Niveles educativos (RQ1):** más del 80% de los estudios se centra en pregrado; 15 trabajos en posgrado, solo 4 en doctorado, 2 en K-12 y 1 en contexto profesional.\n- **Subdisciplinas (RQ2):** 67% se concentra en introducción a la programación e introducción a CS; la ciencia de datos muestra resultados mixtos y los temas avanzados están subrepresentados.\n- **Metodologías (RQ3):** dominan estudios de caso/etnografía (38%) e investigación-acción (24%); poco análisis de datos (14%) y benchmarking (5%).\n- **Lenguajes (RQ4):** Python lidera (55%), seguido de Java; JavaScript, C y C++ están desatendidos.\n- **Modelos (RQ5):** ChatGPT/GPT-3.5 es el más usado por costo y disponibilidad; GPT-4 se evita a menudo por su precio; modelos afinados para código (StarCoder, CodeBERT) y otros (Claude, Mistral, Falcon, MPT) aparecen marginalmente.\n- **Percepciones:** estudiantes mayormente positivos; instructores preocupados por sobredependencia, plagio y posible efecto negativo en el aprendizaje y las calificaciones.\n- **Desempeño:** los LLMs ayudan en tareas introductorias y reparación de código, pero fallan en machine learning y en idiomas distintos del inglés (p. ej., bajo desempeño en preguntas de Python en chino).\n\n## Limitaciones\n\n- La ventana de búsqueda (enero 2019 - junio 2024) excluye trabajos posteriores y la mayoría de los estudios analizados anteceden a la difusión de GPT-4, sesgando los hallazgos hacia GPT-3.5.\n- Fuerte sesgo del corpus hacia pregrado e introducción a la programación, lo que limita conclusiones sobre niveles avanzados, K-12 y contextos profesionales.\n- Predominio de estudios de caso e investigación-acción sobre evidencia cuantitativa o experimental robusta, con benchmarking escaso.\n- La síntesis depende de la calidad heterogénea de los estudios primarios y de la extracción manual de datos.\n\n## Notas relacionadas\n\n- [[concepts/educacion-en-programacion]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/integridad-academica]]\n- [[concepts/deteccion-de-texto-ia]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/ingenieria-de-prompts]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/adopcion-de-tecnologia]]"
     },
     {
       "id": "notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas",
@@ -5580,6 +5776,36 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl paper aborda la preocupación creciente por el impacto de las herramientas de IA generativa (como ChatGPT) en el aprendizaje estudiantil, en particular su potencial de erosionar el pensamiento crítico y la creatividad cuando los estudiantes las usan para completar evaluaciones. Akbar argumenta que las herramientas de detección de texto generado por IA son fundamentalmente inadecuadas: producen salidas poco fiables y no verificables, son altamente susceptibles a falsos positivos y falsos negativos, y se desploman frente a técnicas de ofuscación como el parafraseo, la traducción o la reescritura estructural. Estas herramientas se apoyan en rasgos estadísticos superficiales en lugar de comprensión contextual o semántica, lo que las hace inservibles como prueba definitiva de mal uso.\n\nFrente a esto, la propuesta desplaza el foco de la detección reactiva hacia el diseño proactivo de la evaluación. La solución se materializa en una herramienta web en Python que integra la Taxonomía de Bloom con técnicas de procesamiento de lenguaje natural (GPT-3.5 Turbo, similitud semántica basada en BERT y métricas TF-IDF) para estimar la \"AI-solvability\" (resolubilidad por IA) de las tareas de evaluación. Al analizar tanto rasgos superficiales como semánticos, la herramienta ayuda a los docentes a discernir si una tarea apunta al pensamiento de orden inferior (recordar, resumir), más fácil de completar por IA, o de orden superior (analizar, evaluar, crear), más resistente a la automatización.\n\nEl trabajo combina evidencia empírica (una encuesta en clase a estudiantes de posgrado de ciencias de la computación en la Universidad de Sídney, estructurada según los niveles de Bloom) con una validación del prototipo sobre 50 tareas reales de asignaturas de pregrado y posgrado. Los resultados muestran que la mayoría de las tareas analizadas son moderada o altamente susceptibles a la IA, y que solo una minoría exige el razonamiento creativo o analítico que la IA generativa todavía no replica bien. El objetivo es ofrecer a los docentes una retroalimentación accionable y en tiempo real para rediseñar evaluaciones cognitivamente exigentes y resilientes a la IA.\n\n## Contribuciones principales\n\n- Reformula el problema de la integridad académica ante la IA generativa: de detectar el uso de IA tras la entrega a diseñar evaluaciones intrínsecamente resistentes a la IA.\n- Propone el concepto y una métrica operacional de \"AI-solvability\" (resolubilidad por IA), con categorías Bajo (<50%), Medio (50-64%), Medio-Alto (65-74%) y Alto (>74%).\n- Implementa una herramienta web en Python que integra Taxonomía de Bloom + GPT-3.5 Turbo + BERT (similitud semántica) + TF-IDF, con extracción de PDFs mediante PyMuPDF y retroalimentación automatizada al docente.\n- Aporta evidencia empírica del efecto de la IA sobre la comprensión, aplicación, exactitud percibida y creatividad de estudiantes de posgrado mediante una encuesta basada en Bloom.\n\n## Metodología\n\nEnfoque mixto. (1) Encuesta anónima en clase a estudiantes de posgrado de una asignatura de ciencias de la computación en la Universidad de Sídney, con preguntas alineadas a los seis niveles de la Taxonomía de Bloom; las respuestas se analizan con el método temático de seis fases de Braun y Clarke. (2) Análisis comparativo de la fiabilidad de 12 herramientas de detección de acceso abierto y 2 comerciales (incluida Turnitin). (3) Validación cualitativa basada en datos de un prototipo en Python aplicado a 50 tareas reales de subdominios de ciencias de la computación (TI, ciberseguridad, privacidad de datos, desarrollo de software, gestión de proyectos), que genera puntajes de AI-solvability y retroalimentación por tarea.\n\n## Hallazgos clave\n\n- Las herramientas de detección de IA son poco fiables: ninguna supera el 80% de exactitud y solo cinco rebasan el 70%; tienden a clasificar texto de IA como humano (~20% mal atribuido) y fallan aún más con ofuscación (~50% del texto modificado se identifica erróneamente como humano).\n- Los falsos positivos van del 0% (Turnitin) al 50% (GPTZero) y los falsos negativos del 8% al 100% (Content at Scale); sus salidas son vagas e inverificables y no sirven como prueba concluyente de mala conducta.\n- En la encuesta, el 70% de estudiantes sintió que la IA ayudó a su comprensión, el 65% reportó modificaciones mínimas del texto generado, el 75% consideró las respuestas de IA más exactas que las propias y el 60% percibió que la IA obstaculizó su creatividad.\n- De las 50 tareas evaluadas, 22 cayeron en 65-74%, 16 en 50-64%, 8 por encima de 74% y solo 4 por debajo del 50%, evidenciando que pocas evaluaciones exigen pensamiento de orden superior resistente a la IA.\n- Las tareas con mayor AI-solvability son conceptuales o definicionales; las de menor puntaje implican resolución abierta de problemas, escenarios reales y diseño, que requieren juicio humano.\n\n## Limitaciones\n\n- La validación de la herramienta es cualitativa y data-driven sobre una muestra acotada (50 tareas) y de un solo dominio (ciencias de la computación de una única universidad), lo que limita la generalización.\n- La encuesta tiene tamaño muestral reducido y se centra en posgrado, y depende de la autopercepción de los estudiantes.\n- El marco se apoya principalmente en la Taxonomía de Bloom, que puede no capturar toda la complejidad del pensamiento crítico.\n- La propia herramienta depende de modelos (GPT-3.5 Turbo, BERT) con sus sesgos y opacidad; no se reportan métricas cuantitativas de validez del puntaje de AI-solvability frente a un estándar externo.\n\n## Notas relacionadas\n\n- [[concepts/evaluacion-educativa]]\n- [[concepts/integridad-academica]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/creatividad]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/educacion-en-programacion]]"
     },
     {
+      "id": "notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion",
+      "kind": "paper",
+      "label": "Implementing generative AI (GenAI) in higher education: A systematic review of case studies",
+      "authors": [
+        "Marina Belkina",
+        "Scott Daniel",
+        "Sasha Nikolic",
+        "Sarah Grundy",
+        "Rezwanul Haque",
+        "Sarah Lyden",
+        "Ghulam M. Hassan",
+        "Peter Neal"
+      ],
+      "year": "2025",
+      "venue": "Computers and Education: Artificial Intelligence",
+      "url": "https://doi.org/10.1016/j.caeai.2025.100407",
+      "doi": "10.1016/j.caeai.2025.100407",
+      "keywords": [
+        "inteligencia-artificial",
+        "revision-sistematica-de-literatura",
+        "educacion-superior",
+        "adopcion-de-tecnologia",
+        "personalizacion-del-aprendizaje"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/belkina_2025_genai-he-casestudies.pdf",
+      "content": "## Resumen\nLa introducción de herramientas de IA generativa (GenAI) como ChatGPT en la educación superior anuncia una era transformadora que reconfigura los métodos de instrucción, mejora los sistemas de apoyo al estudiante y redefine el panorama educativo. Las revisiones recientes sobre GenAI señalan una falta de atención a cómo estas herramientas se implementan en la práctica.\n\nPara abordar ese vacío, este estudio examina sistemáticamente estudios de caso empíricos que demuestran la integración de la GenAI en la enseñanza y el aprendizaje en educación superior, ofreciendo orientación accionable para el profesorado. A diferencia de las revisiones centradas en el potencial teórico, esta se enfoca en la implementación real documentada en casos.\n\nLos autores sintetizan patrones de uso, beneficios y retos prácticos, aportando una guía basada en evidencia para quienes buscan adoptar GenAI en sus cursos.\n\n## Contribuciones principales\n- Revisión sistemática de estudios de caso de implementación real de GenAI en educación superior.\n- Síntesis de orientación accionable para el profesorado.\n- Foco en la práctica de implementación, no solo en el potencial teórico.\n\n## Metodología\nRevisión sistemática de estudios de caso empíricos de integración de GenAI en enseñanza y aprendizaje universitario.\n\n## Hallazgos clave\n- La literatura sobre implementación práctica de GenAI es aún escasa frente a la conceptual.\n- Los casos ofrecen lecciones accionables para la adopción institucional y docente.\n\n## Limitaciones\n- Heterogeneidad de los casos y contextos; sesgo hacia experiencias publicadas.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/educacion-superior]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/personalizacion-del-aprendizaje]]"
+    },
+    {
       "id": "notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas",
       "kind": "paper",
       "label": "The impact of generative AI on academic integrity of authentic assessments within a higher education context",
@@ -5635,6 +5861,38 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-04-03_gases-malolientes-aguas.md",
       "pdf_local": "sources/pdfs/agriculture-sustainability/melendez-2025-gases-malolientes-aguas.pdf",
       "content": "## Resumen\nLos gases malolientes —en particular el sulfuro de hidrógeno (H2S), el amoníaco (NH3) y los compuestos volátiles de azufre (VSCs)— degradan significativamente la calidad del agua, amenazan la salud pública y alteran los ecosistemas. Su producción proviene de la actividad microbiana, la sobrecarga de nutrientes y los vertidos industriales, a menudo magnificada por bajos niveles de oxígeno disuelto.\n\nEsta revisión integra el conocimiento actual sobre los ciclos microbianos del azufre y el nitrógeno para explicar cómo se forman estos gases, y examina los avances en tecnologías de detección como la cromatografía de gases y los sensores basados en láser. También evalúa diversos métodos de mitigación —enfoques biotecnológicos (biofiltros, biopercoladores), tratamientos fisicoquímicos y conversión química (proceso Claus)— dentro de los marcos regulatorios de Colombia y el mundo.\n\nUn estudio de caso del río Bogotá ejemplifica cómo los efluentes no gestionados y la eutrofización perpetúan los problemas de olor, subrayando la necesidad de estrategias integradas que reduzcan la contaminación en su origen, restauren el equilibrio ecológico y empleen intervenciones específicas. La revisión destaca soluciones innovadoras orientadas por políticas y la colaboración como pilares para proteger los ambientes acuáticos y las comunidades aledañas.\n\n## Contribuciones principales\n- Revisión integral del origen microbiano, la detección y la remoción de gases malolientes en aguas.\n- Síntesis de los ciclos del azufre y el nitrógeno como base de la formación de olores.\n- Evaluación de métodos de mitigación (biofiltros, fisicoquímicos, proceso Claus) y marcos regulatorios.\n\n## Metodología\nRevisión integral de literatura sobre origen, detección y técnicas de remoción, con estudio de caso del río Bogotá.\n\n## Hallazgos clave\n- H2S, NH3 y VSCs son los principales gases malolientes de origen microbiano en aguas.\n- Las soluciones efectivas combinan reducción en la fuente, biotecnología y política pública.\n\n## Limitaciones\n- Revisión narrativa; la eficacia de cada método depende del contexto local.\n\n## Notas relacionadas\n- [[concepts/ingenieria-ambiental]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/sostenibilidad]]\n- [[concepts/salud-y-sociedad]]"
+    },
+    {
+      "id": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "kind": "paper",
+      "label": "A Systematic Review of Responses, Attitudes, and Utilization Behaviors on Generative AI for Teaching and Learning in Higher Education",
+      "authors": [
+        "Fan Wu",
+        "Yang Dang",
+        "Manli Li"
+      ],
+      "year": "2025",
+      "venue": "Behavioral Sciences",
+      "url": "https://doi.org/10.3390/bs15040467",
+      "doi": "10.3390/bs15040467",
+      "keywords": [
+        "revision-sistematica-de-literatura",
+        "inteligencia-artificial",
+        "educacion-superior",
+        "psicologia-educativa",
+        "adopcion-de-tecnologia",
+        "pensamiento-critico",
+        "autorregulacion-del-aprendizaje",
+        "creatividad",
+        "integridad-academica",
+        "retroalimentacion-con-ia",
+        "personalizacion-del-aprendizaje",
+        "etica-de-la-ia"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/wu_2025_genai-attitudes-he.pdf",
+      "content": "## Resumen\n\nEsta revisión sistemática (protocolo PRISMA) sintetiza 99 artículos empíricos publicados entre enero de 2020 y agosto de 2024 sobre el uso de IA generativa (GenAI) —principalmente ChatGPT y otros LLM— en aulas de educación superior. A partir de una búsqueda en Scopus, Web of Science y bases EBSCO (1930 registros iniciales, depurados mediante Rayyan y codificados en MAXQDA con una fiabilidad inter-jueces del 92%, Cohen's Kappa), los autores examinan tres dimensiones psicológicas del fenómeno: las respuestas, las actitudes y los comportamientos de estudiantes y docentes frente a la GenAI. Los estudios provienen de 42 países y se concentran en publicaciones de 2023 y 2024; la mayoría son de métodos mixtos (46.5%), seguidos de cuantitativos (33.3%) y cualitativos (20.2%).\n\nEn cuanto a las **respuestas** (reacciones afectivas y conductuales inmediatas), 73 de 99 estudios reportan respuestas emocionales positivas (entusiasmo, satisfacción, confianza) y 32 documentan disposición a seguir usando GenAI; sin embargo, 46 estudios identifican respuestas emocionales negativas (miedo, frustración, desconfianza) y 16 muestran reticencia a continuar usándola, además de 16 con respuestas neutrales. Un hallazgo notable es la inconsistencia entre emoción positiva y baja intención de uso futuro.\n\nRespecto a las **actitudes** (evaluaciones derivadas de emociones, creencias e intenciones), 80 estudios reportan actitudes positivas: la GenAI habilita nuevos enfoques de aprendizaje profesional, remodela hábitos de estudio (55 estudios), conecta el aula con necesidades del mundo real (18), motiva a los docentes a actualizar métodos (30) y maximiza su eficiencia (8). Las principales preocupaciones son la baja calidad del contenido generado (44 estudios), su dependencia de factores como la calidad del prompt (34), la sobredependencia (over-reliance, 34) y los problemas éticos —plagio, autenticidad, integridad académica— (23). Treinta estudios reportan actitudes mixtas, coincidiendo en que la GenAI es un apoyo pero no un sustituto del docente.\n\nEn cuanto a los **comportamientos**, la GenAI actúa como \"catalizador pedagógico\": promueve el aprendizaje en la dimensión cognitiva (52 estudios: pensamiento crítico, creativo, metacognición, toma de decisiones, resolución de problemas), de autogestión (31: autoeficacia, autorregulación, motivación) y de interacción social (39: compromiso, colaboración); además guía la innovación docente (20) y la evaluación (10). No obstante, el rendimiento en tareas es inestable: 59 estudios encuentran mejoras frente a grupos de control, pero 25 reportan resultados nulos o inconsistentes (e.g., calificaciones más bajas con mayor uso de LLM para generar código).\n\n## Contribuciones principales\n\n- Síntesis psicológica actualizada (99 estudios, 2020–2024) del uso de GenAI en aulas universitarias organizada en tres ejes: respuestas, actitudes y comportamientos.\n- Marco de codificación con definiciones operativas explícitas de \"respuesta\", \"actitud\" y \"comportamiento\".\n- Identificación de la brecha entre emoción positiva e intención de uso, y de la inestabilidad del rendimiento en tareas.\n- Mapeo de comportamientos de aprendizaje en tres dimensiones (cognitiva, autogestión, interacción social) y de los comportamientos docentes (innovación pedagógica y evaluación).\n\n## Metodología\n\nRevisión sistemática siguiendo PRISMA. Búsqueda booleana (TITLE-ABS) combinando términos de GenAI, enseñanza/aprendizaje y educación superior en Scopus, Web of Science y EBSCO, limitada a enero 2020–agosto 2024. De 1930 registros se eliminaron 616 duplicados; tras cribado de títulos/resúmenes (137 artículos) y lectura de texto completo (130), quedaron 99 artículos. Criterios de inclusión: investigación empírica o estudios de caso, foco temático en GenAI en educación superior, uso en aula. Codificación en dos ciclos (atributos y análisis de patrones) por dos investigadores independientes (Kappa de Cohen = 92%), con análisis de contenido cualitativo en MAXQDA.\n\n## Hallazgos clave\n\n- Predominio de respuestas y actitudes positivas, pero subexploración relativa de respuestas negativas, preocupaciones éticas y actitudes docentes.\n- La calidad del contenido generado y su dependencia del prompt son las preocupaciones dominantes; la sobredependencia (over-reliance) erosiona el pensamiento crítico cuando el usuario carece de conocimiento base.\n- Efectos positivos sobre pensamiento crítico, creatividad, autoeficacia, autorregulación, motivación, compromiso y colaboración, aunque con resultados contradictorios en algunos estudios.\n- El rendimiento en tareas no siempre mejora: 25 de 99 estudios reportan efectos nulos o negativos.\n- La mayoría de la evidencia adopta la perspectiva del estudiante; la del docente está poco investigada.\n\n## Limitaciones\n\n- Solo se incluyó literatura en inglés, omitiendo investigación relevante en otros idiomas.\n- El énfasis en \"ChatGPT\" como término de búsqueda pudo sesgar la muestra hacia esa herramienta, excluyendo otras herramientas de GenAI.\n- Ventana temporal acotada (hasta agosto de 2024) en un campo de evolución muy rápida.\n- Heterogeneidad metodológica de los estudios incluidos, lo que dificulta comparaciones cuantitativas estrictas.\n\n## Notas relacionadas\n\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/autorregulacion-del-aprendizaje]]\n- [[concepts/creatividad]]\n- [[concepts/integridad-academica]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/etica-de-la-ia]]"
     },
     {
       "id": "notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms",
@@ -5817,6 +6075,31 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina.md",
       "pdf_local": "sources/pdfs/microfluidics/rodriguez-2025-magnetoliposomas-nanomedicina.pdf",
       "content": "## Resumen\nLos magnetoliposomas representan un avance transformador en nanomedicina al integrar nanopartículas magnéticas con estructuras liposomales, creando plataformas de entrega multifuncionales que superan limitaciones clave de los portadores convencionales de fármacos. Estos sistemas híbridos permiten el direccionamiento de precisión mediante campos magnéticos externos, la liberación controlada por hipertermia magnética y capacidades teranósticas en tiempo real, ofreciendo un control espaciotemporal sin precedentes de la administración terapéutica.\n\nLa revisión (centrada en estudios de 2023-2025) examina los principios fundamentales de diseño de los magnetoliposomas —composición de la bicapa, estrategias de integración de nanopartículas y propiedades fisicoquímicas que gobiernan su desempeño biológico—. Evalúa de forma sistemática las metodologías de síntesis, desde la hidratación de película delgada tradicional hasta los enfoques avanzados de microfluídica, destacando su impacto en la estabilidad coloidal, la encapsulación de fármacos y el potencial de escalado.\n\nTambién revisa las técnicas de caracterización esenciales para el control de calidad y la aprobación regulatoria, y las aplicaciones en oncología, entrega de genes, neurología y enfermedades infecciosas, respaldadas por evidencia experimental reciente. La opinión de los expertos señala que, pese a su versatilidad terapéutica, la traslación clínica aún enfrenta retos importantes.\n\n## Contribuciones principales\n- Revisión de principios de diseño, síntesis y caracterización de magnetoliposomas.\n- Comparación de métodos de síntesis (película delgada vs. microfluídica) y su impacto en estabilidad y escalado.\n- Panorama de aplicaciones en entrega de fármacos, genes y péptidos (oncología, neurología, infecciosas).\n\n## Metodología\nRevisión de literatura (2023-2025) sobre diseño, síntesis, caracterización y aplicaciones de magnetoliposomas.\n\n## Hallazgos clave\n- Los magnetoliposomas permiten direccionamiento magnético, liberación por hipertermia y teranóstica.\n- La microfluídica mejora la reproducibilidad y el potencial de escalado de la síntesis.\n\n## Limitaciones\n- La traslación clínica enfrenta retos de estandarización, escalado y regulación.\n\n## Notas relacionadas\n- [[concepts/nanociencia]]\n- [[concepts/biomateriales]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/terapia-genica]]\n- [[concepts/microfluidica]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]"
+    },
+    {
+      "id": "notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales",
+      "kind": "paper",
+      "label": "ChatGPT Interventions in Higher Education: A Systematic Review of Experimental Studies",
+      "authors": [
+        "Yiwen Jin",
+        "Lies Sercu"
+      ],
+      "year": "2025",
+      "venue": "Journal of Computer Assisted Learning",
+      "url": "https://doi.org/10.1111/jcal.70072",
+      "doi": "10.1111/jcal.70072",
+      "keywords": [
+        "inteligencia-artificial",
+        "revision-sistematica-de-literatura",
+        "educacion-superior",
+        "tutoria-con-ia",
+        "ensayo-controlado-aleatorio",
+        "evaluacion-educativa"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/jin_2025_chatgpt-experimental.pdf",
+      "content": "## Resumen\nLa IA ha venido reconfigurando muchas industrias, y la educación no es la excepción. Tras la irrupción de ChatGPT a finales de 2022, creció el interés y la experimentación con esta tecnología en las aulas universitarias, pero faltaba un análisis comprehensivo de la investigación que examina su uso real con diseños rigurosos.\n\nEsta revisión aborda ese vacío centrándose en los **diseños experimentales** e intervenciones que incorporan ChatGPT en educación superior, con especial atención a su impacto en los resultados académicos. Siguiendo las directrices PRISMA, los autores identifican, codifican y analizan 21 estudios experimentales seleccionados, examinando el diseño de investigación, los tipos de intervención y los resultados académicos.\n\nEl trabajo ofrece una síntesis del estado de la evidencia experimental sobre ChatGPT en la universidad, distinguiendo qué intervenciones muestran efectos y señalando las debilidades metodológicas del campo.\n\n## Contribuciones principales\n- Revisión sistemática (PRISMA) de 21 estudios experimentales de ChatGPT en educación superior.\n- Análisis de diseños de investigación, tipos de intervención y resultados académicos.\n- Identificación de vacíos metodológicos en la evidencia experimental.\n\n## Metodología\nRevisión sistemática PRISMA con codificación y análisis de 21 estudios experimentales.\n\n## Hallazgos clave\n- La evidencia experimental sobre ChatGPT en la universidad es aún limitada y heterogénea.\n- Los efectos sobre los resultados académicos dependen del tipo de intervención y diseño.\n\n## Limitaciones\n- Número reducido de estudios experimentales disponibles (21).\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/educacion-superior]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/ensayo-controlado-aleatorio]]\n- [[concepts/evaluacion-educativa]]"
     },
     {
       "id": "notes/papers/2025-05-15_evaluacion-estructural-genai",
@@ -6087,6 +6370,57 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEsta revisión (perspective) sintetiza el estado del arte de la inteligencia artificial generativa (generative AI) aplicada a la investigación en catálisis, un campo que sustenta más del 90% de los productos de la industria química. Los autores argumentan que, a diferencia de la IA discriminativa tradicional —basada en reglas y dependiente de grandes volúmenes de datos etiquetados—, la IA generativa aprende las distribuciones de datos existentes para producir muestras nuevas (moléculas, superficies, estructuras, espectros), lo que la hace especialmente adecuada para un dominio caracterizado por un vasto espacio de exploración, tipos de datos diversos y relaciones de mapeo complejas.\n\nEl trabajo introduce las cuatro familias de modelos generativos relevantes: redes generativas antagónicas (GAN), modelos de difusión (DM), autoencoders variacionales (VAE) y grandes modelos de lenguaje (LLM) basados en la arquitectura Transformer. Para cada uno se describe su mecanismo de funcionamiento y sus compromisos (por ejemplo, las GAN producen alta fidelidad pero baja diversidad; los VAE generan muestras diversas pero de menor calidad; los DM son estables pero lentos; los LLM son potentes pero propensos a la alucinación).\n\nA continuación se presentan casos de aplicación organizados en tres ejes: (1) diseño y optimización de catalizadores, donde esquemas como DFT-GAN, VAE para complejos metálicos, OM-Diff y MAGECS aceleran el diseño inverso de catalizadores con propiedades objetivo; (2) mejora de técnicas de caracterización, donde modelos como DCGAN, ESRGAN, U-net GAN y Cycle-GAN reconstruyen estructuras 3D, mejoran la relación señal-ruido en microscopía STEM y correlacionan espectros con estructuras; y (3) nuevos paradigmas de investigación impulsados por LLM (CatBERTa, CatGPT, CMDL), incluyendo minería de literatura, predicción de energías de adsorción y agentes autónomos que diseñan, planifican y ejecutan experimentos.\n\nFinalmente, los autores discuten los retos prácticos —establecer conjuntos de datos de alta calidad, desarrollar modelos generativos avanzados y multimodales, integrar múltiples métodos de investigación y mitigar las alucinaciones de los LLM— y delinean perspectivas futuras como el descubrimiento de nuevas rutas catalíticas, la generación multimodal y la automatización experimental con robots de laboratorio guiados por IA.\n\n## Contribuciones principales\n- Marco organizador que clasifica las aplicaciones de IA generativa en catálisis en tres dominios: diseño/optimización de catalizadores, mejora de caracterización y nuevos paradigmas de investigación.\n- Síntesis comparativa de las cuatro arquitecturas generativas (GAN, DM, VAE, LLM) con sus mecanismos y compromisos para el contexto catalítico.\n- Compendio de casos de estudio concretos (DFT-GAN, MAGECS, GLIDER, OM-Diff, CatGPT, etc.) que demuestran eficiencia y aplicabilidad general.\n- Identificación de retos prácticos y de una agenda prospectiva para la integración de IA generativa en la investigación catalítica.\n\n## Metodología\nRevisión narrativa tipo \"perspective\" que recopila y organiza literatura reciente sobre IA generativa en catálisis. No realiza experimentos propios; sintetiza esquemas computacionales y experimentales de terceros, ilustrando cada categoría con casos representativos y figuras explicativas de los flujos de trabajo (DFT-GAN, MAGECS, Cycle-GAN, CatGPT, agentes autónomos basados en LLM).\n\n## Hallazgos clave\n- La combinación de modelos generativos con DFT o potenciales de redes neuronales universales (UNNP) permite el diseño dirigido de superficies de aleación con frecuencias de recambio (TOF) hasta diez veces mayores que el conjunto original (caso Rh-Ru para síntesis de amoníaco).\n- El diseño inverso con VAE y modelos de difusión (OM-Diff) genera miles de catalizadores válidos y novedosos condicionados a propiedades objetivo (p. ej., energía de adición oxidativa para acoplamientos de Suzuki), con bajos errores frente a cálculos DFT.\n- MAGECS generó 250000 superficies de aleación plausibles; cinco fueron sintetizadas y dos mostraron alta actividad y selectividad en la reducción de CO2.\n- Los GAN aplicados a microscopía (DCGAN, ESRGAN, Cycle-GAN) reconstruyen estructuras 3D, reducen ruido y cuantifican nanopartículas, abaratando la caracterización.\n- Los LLM (CatBERTa, CatGPT) predicen energías de adsorción desde texto y generan estructuras de catalizadores válidas; ChatGPT puede impulsar agentes autónomos que ejecutan experimentos de múltiples pasos.\n\n## Limitaciones\n- Las alucinaciones de los LLM (falacias lógicas, hechos fabricados, sesgos derivados de los datos) exigen verificación humana de las salidas.\n- La calidad de las muestras generadas depende críticamente de la completitud y calidad del conjunto de entrenamiento; datasets simplificados introducen imprecisión \"de abajo hacia arriba\".\n- Existe un compromiso difícil de equilibrar entre eficiencia y precisión en la generación.\n- La IA generativa depende de la acumulación de datos existentes y de soluciones diseñadas por científicos, por lo que aún no automatiza la investigación sin intervención humana.\n- Al ser un \"perspective\" sin experimentación propia, la evidencia es de carácter sintético y selectivo, no sistemático.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/quimica-computacional]]\n- [[concepts/modelado-molecular]]\n- [[concepts/agentes-de-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/descubrimiento-cientifico]]\n- [[concepts/ciencia-de-datos]]"
     },
     {
+      "id": "notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision",
+      "kind": "paper",
+      "label": "Artificial intelligence in science and chemistry education: a systematic review",
+      "authors": [
+        "Ali Kürşat Erümit",
+        "Rabia Özdemir Sarıalioğlu"
+      ],
+      "year": "2025",
+      "venue": "Discover Education",
+      "url": "https://doi.org/10.1007/s44217-025-00622-3",
+      "doi": "10.1007/s44217-025-00622-3",
+      "keywords": [
+        "inteligencia-artificial",
+        "revision-sistematica-de-literatura",
+        "tutoria-con-ia",
+        "personalizacion-del-aprendizaje",
+        "etica-de-la-ia",
+        "alucinaciones-de-ia"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/erumit_2025_ai-science-chemistry.pdf",
+      "content": "## Resumen\nEsta revisión sistemática analiza el uso y los efectos de las aplicaciones de inteligencia artificial en la educación en ciencias y química entre 2014 y 2024. El interés por la IA como fuerza transformadora de la educación se ha extendido a áreas que apoyan el aprendizaje a lo largo de la vida, como la enseñanza de las ciencias y la química.\n\nLos resultados muestran un aumento de estudios entre 2021 y 2024, concentrados sobre todo en educación en ciencias, con ChatGPT y robots conversacionales como herramientas predominantes. Estas tecnologías impactan principalmente en resultados de aprendizaje vinculados al proceso, y los investigadores reportan con frecuencia riesgos y limitaciones de carácter ético.\n\nEntre los efectos identificados están: contribuir al proceso de aprendizaje en línea, facilitar el aprendizaje, ofrecer entornos multimodales (auditivos) para cursos de laboratorio de ciencias/química, brindar experiencias de aprendizaje interdisciplinario y fomentar el aprendizaje personalizado. Los autores enfatizan los desafíos éticos y las limitaciones relacionadas con sesgos de género y raza, alucinaciones, infracción de derechos de autor, plagio e información sesgada.\n\n## Contribuciones principales\n- Síntesis sistemática (2014-2024) de la IA en educación en ciencias y química.\n- Identificación de ChatGPT y robots conversacionales como herramientas dominantes.\n- Mapeo de efectos (personalización, multimodalidad, interdisciplinariedad) y riesgos éticos.\n\n## Metodología\nRevisión sistemática de estudios sobre IA en educación en ciencias y química (2014-2024).\n\n## Hallazgos clave\n- El uso de IA en educación en ciencias creció marcadamente entre 2021 y 2024.\n- Los principales beneficios son personalización y multimodalidad; los riesgos, éticos (sesgos, alucinaciones, plagio).\n\n## Limitaciones\n- Predominio de estudios de ciencias sobre química; heterogeneidad metodológica.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/alucinaciones-de-ia]]"
+    },
+    {
+      "id": "notes/papers/2025-06-22_genai-educacion-ingenieria-scoping",
+      "kind": "paper",
+      "label": "WIP: Exploring the Impact of Generative AI in Engineering Education: A Scoping Review of Applications and Innovations",
+      "authors": [
+        "Animesh Paul",
+        "Vincent Oluwaseto Fakiyesi",
+        "Md Ulfat Tahsin",
+        "Lexy Chiwete Arinze"
+      ],
+      "year": "2025",
+      "venue": "ASEE Annual Conference (Work-in-Progress)",
+      "url": "https://peer.asee.org/",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-en-ingenieria",
+        "revision-sistematica-de-literatura",
+        "educacion-superior",
+        "futuro-del-trabajo"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-06-22_genai-educacion-ingenieria-scoping.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/paul_2025_genai-eng-scoping-wip.pdf",
+      "content": "## Resumen\nEste artículo de trabajo en progreso (Work-in-Progress) presentado en la ASEE Annual Conference 2025 realiza una revisión exploratoria (scoping review) de las aplicaciones e innovaciones de la IA generativa en la educación en ingeniería. Ante la rápida adopción de herramientas como ChatGPT, los autores buscan mapear cómo se está integrando la GenAI en la enseñanza, el aprendizaje y la práctica de la ingeniería.\n\nEl trabajo sintetiza la literatura emergente sobre usos de la GenAI en ingeniería —apoyo al aprendizaje, resolución de problemas, diseño, evaluación— e identifica vacíos y oportunidades de investigación. Por su naturaleza de WIP, ofrece un panorama preliminar orientado a estructurar una agenda de investigación, con atención también a la transición de los estudiantes de ingeniería hacia el mundo laboral.\n\n## Contribuciones principales\n- Revisión exploratoria preliminar de la GenAI en educación en ingeniería.\n- Mapeo de aplicaciones e innovaciones reportadas en la literatura.\n- Identificación de vacíos y agenda de investigación futura.\n\n## Metodología\nScoping review (en progreso) de la literatura sobre GenAI en educación en ingeniería.\n\n## Hallazgos clave\n- La GenAI se aplica en múltiples facetas de la formación en ingeniería.\n- El campo requiere una agenda de investigación estructurada y evidencia más robusta.\n\n## Limitaciones\n- Trabajo en progreso con cobertura y análisis aún preliminares.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/educacion-superior]]\n- [[concepts/futuro-del-trabajo]]"
+    },
+    {
       "id": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
       "kind": "paper",
       "label": "Generative AI in Chemical Engineering Education: Rebuilding Thermodynamics, Material and Energy Balances and Kinetics Courses with AI and Chemical Engineering Students' Perception of AI",
@@ -6173,6 +6507,36 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nLa \"alfabetización en IA\" (AI literacy) se ha vuelto un objetivo educativo prominente tras la llegada pública de la IA generativa, pero su definición sigue siendo difusa. El mismo término se usa para describir actividades tan dispares como entrenar a estudiantes universitarios en el uso de ChatGPT o hacer que niños de kínder interactúen con robots sociales. Este paper aplica el método de **revisión integrativa** para examinar 124 estudios empíricos y teóricos sobre alfabetización en IA publicados entre 2020 y julio de 2024, con el fin de identificar cómo cambian las definiciones y qué tendencias emergen alrededor de la introducción de la IA generativa.\n\nLa contribución central es un marco conceptual que cruza dos dimensiones. Por un lado, tres maneras de conceptualizar la **IA**: como detalles técnicos (p. ej., enseñar algoritmos de aprendizaje supervisado), como herramienta (perspectiva centrada en el usuario, p. ej., usar ChatGPT eficazmente) y como sistema sociotécnico de impacto sociocultural (p. ej., sesgos de género y raza en reconocimiento facial). Esta dimensión se apoya en el Triángulo de Dagstuhl. Por otro lado, tres maneras de conceptualizar la **alfabetización** (literacy), inspiradas en Scribner y en las multialfabetizaciones digitales de Selber: funcional (preparar para empleos que usan IA), crítica (formar ciudadanos que puedan opinar sobre regulación de IA) e indirectamente beneficiosa (p. ej., aumentar el interés general por STEM). Las seis perspectivas se combinan libremente y no son mutuamente excluyentes.\n\nEl análisis revela un giro marcado tras la IA generativa. Antes de ella, la investigación se concentraba en K-12, con equilibrio entre alfabetización funcional y crítica, y enseñaba tanto los fundamentos técnicos como las implicaciones éticas/socioculturales de la IA. Después, la investigación se desplaza con fuerza hacia contextos postsecundarios y hacia la perspectiva de la IA como herramienta, con énfasis funcional (enseñar uso efectivo de herramientas generativas, notablemente prompt engineering). Surge además una nueva línea que justifica la alfabetización en IA por sus beneficios indirectos.\n\nEl marco no busca reemplazar las taxonomías de competencias existentes (como los 17 ítems de Long y Magerko o los cuatro aspectos del grupo de Hong Kong), sino situarlas en un paisaje teórico común. Su tesis práctica es que el término genérico \"alfabetización en IA\" es demasiado ambiguo y que se necesitan términos más específicos para que investigadores y educadores comuniquen con precisión sus objetivos y enfoques.\n\n## Contribuciones principales\n\n- Actualiza revisiones y definiciones previas de alfabetización en IA incorporando estudios publicados desde la irrupción de la IA generativa.\n- Delimita las fronteras del concepto para evidenciar la necesidad de términos más precisos e informativos que el genérico \"AI literacy\".\n- Adapta teorías consolidadas de alfabetización digital (Triángulo de Dagstuhl, multialfabetizaciones de Selber, metáforas de Scribner) para construir un marco unificador de tres perspectivas sobre la IA × tres perspectivas sobre la alfabetización.\n- Identifica brechas de investigación, en particular la escasa combinación de la perspectiva de IA-como-herramienta con la alfabetización crítica o la perspectiva sociocultural.\n\n## Metodología\n\nRevisión integrativa (no meta-análisis ni revisión sistemática), método elegido por su capacidad de integrar literatura teórica y empírica de campos diversos (educación en computación, HCI, ciencias del aprendizaje) para generar un marco conceptual nuevo en vez de adjudicar posiciones. Búsqueda en dos bases de datos (ERIC y Scopus, que incluye sedes ACM) con términos de IA (\"machine learning\", \"AI\", \"LLM\", \"ChatGPT\"...) y de alfabetización (\"literacy\", \"competency\"), complementada con búsqueda propositiva por rastreo de citas. Periodo 2020–julio 2024. Tras aplicar criterios de inclusión/exclusión (publicación revisada por pares; teórica o empírica; en inglés; contexto K-12 o pregrado; sobre aprender *sobre* IA y no *con* IA; con objetivos de alfabetización explícitos) quedaron 124 estudios. Extracción de datos centrada en la conceptualización de IA y de alfabetización de cada estudio, con codificación temática que pasó de bottom-up a top-down al consolidarse el Triángulo de Dagstuhl como marco.\n\n## Hallazgos clave\n\n- Los diez estudios más citados (encabezados por Touretzky et al. 2019 y Long y Magerko 2020) sentaron las bases del campo; cinco eran revisiones, todas anteriores a la IA generativa.\n- Entre los estudios sin IA generativa: 12 (10%) trasladan currículos de machine learning a K-12 (perspectiva técnica), 10 enseñan ética/impacto sociocultural en K-12 (perspectiva sociocultural + crítica), y 34 (27%) usan currículos integrales que combinan detalle técnico y sociocultural (p. ej., AI4K12 \"five big ideas\", currículo DAILy). La alfabetización en IA postsecundaria sin IA generativa fue rara (7 estudios, 6%).\n- Tras la IA generativa emergen tres giros: (1) enseñanza del uso de herramientas generativas en contextos postsecundarios (22 estudios solo con perspectiva de herramienta; siete aíslan el prompt engineering como competencia); (2) incorporación de herramientas de IA en currículos K-12 (25 estudios con perspectiva de herramienta combinada), a menudo mediante demostración por el docente dadas las restricciones de edad de las herramientas; (3) aparición de la alfabetización \"indirectamente beneficiosa\" (interés en STEM, pensamiento computacional, actitudes positivas hacia la IA).\n- Patrones de combinación: de 88 estudios con perspectiva funcional, 63 también adoptan detalle técnico de IA. Combinaciones frecuentes: sociocultural + crítica (ética de IA), herramienta + funcional (uso efectivo de generativa).\n- Brechas detectadas: la perspectiva de herramienta rara vez se combina con alfabetización crítica o perspectiva sociocultural (clave para un uso responsable); escasa combinación de detalle técnico con herramienta; y déficit general de investigación empírica de intervenciones en contextos postsecundarios.\n\n## Limitaciones\n\n- No evalúa la eficacia de las intervenciones; la frecuencia relativa de cada conceptualización no debe leerse como indicador de efectividad.\n- Excluye deliberadamente varios contextos con literatura abundante: alfabetización en IA de docentes (pre-servicio), educación de adultos, y contextos disciplinares específicos (salud, enfermería, negocios, ESL).\n- Excluye estudios de ciencia de datos, alfabetización de datos y educación en IA postsecundaria previa a la IA generativa que no mencionan explícitamente el concepto de \"AI literacy\".\n- Queda como trabajo futuro probar si el marco generaliza a esos contextos excluidos.\n\n## Notas relacionadas\n\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-k12]]\n- [[concepts/educacion-superior]]\n- [[concepts/educacion-en-programacion]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/interdisciplinariedad]]"
     },
     {
+      "id": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
+      "kind": "paper",
+      "label": "A systematic review and meta-analysis of the effectiveness of Generative Artificial Intelligence (GenAI) on students' motivation and engagement",
+      "authors": [
+        "Qi Xia",
+        "Weijia Li",
+        "Yiming Yang",
+        "Xiaojing Weng",
+        "Thomas K.F. Chiu"
+      ],
+      "year": "2025",
+      "venue": "Computers and Education: Artificial Intelligence",
+      "url": "https://doi.org/10.1016/j.caeai.2025.100455",
+      "doi": "10.1016/j.caeai.2025.100455",
+      "keywords": [
+        "revision-sistematica-de-literatura",
+        "inteligencia-artificial",
+        "educacion-superior",
+        "motivacion-y-compromiso-estudiantil",
+        "psicologia-educativa",
+        "tutoria-con-ia",
+        "personalizacion-del-aprendizaje",
+        "autorregulacion-del-aprendizaje"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/xia_2025_genai-motivation-metaanalysis.pdf",
+      "content": "## Resumen\n\nEste estudio combina una revisión sistemática y un meta-análisis para cuantificar el efecto de la inteligencia artificial generativa (GenAI) sobre la motivación y el compromiso (engagement) de estudiantes universitarios. Partiendo del marco multidimensional de compromiso de Reeve y Tseng (2011) y Fredricks et al. (2004) —compromiso cognitivo, conductual, emocional y de agencia—, los autores buscan llenar un vacío señalado en la literatura previa: la mayoría de las revisiones se centran en resultados de aprendizaje o en el rendimiento técnico de las herramientas, descuidando los factores no cognitivos como la motivación y, en particular, el compromiso conductual y de agencia.\n\nTras una búsqueda en seis bases de datos (WOS, Scopus, IEEE Xplore, PsycINFO, ScienceDirect y ERIC) de estudios publicados desde noviembre de 2022 (lanzamiento de ChatGPT) hasta el 30 de septiembre de 2024, y aplicando criterios de inclusión que exigían diseños experimentales o cuasi-experimentales con grupo de control, se seleccionaron 33 estudios. La calidad se evaluó con el instrumento MERSQI (puntaje medio 12,85 sobre 5–18, calidad satisfactoria). Los tamaños del efecto se calcularon con la g de Hedges bajo un modelo de efectos aleatorios usando Comprehensive Meta-Analysis v3.7.\n\nLos resultados muestran efectos positivos y significativos de la GenAI en las cinco dimensiones analizadas: compromiso cognitivo (g = 0,59, efecto medio; 25 estudios), conductual (g = 0,52, medio; 12 estudios), emocional (g = 0,64, medio; 13 estudios), de agencia (g = 0,87, alto; 5 estudios) y motivación (g = 1,20, alto; 12 estudios). Las pruebas de sesgo de publicación (funnel plots, fail-safe N, intercepto de Egger) no detectaron sesgo en ninguna dimensión.\n\nEl análisis de moderadores y la minería de reglas de asociación (algoritmo Apriori, confianza mínima 0,9, lift > 1) identificaron qué condiciones potencian los efectos. La categoría de asignatura modera el compromiso cognitivo y emocional; el tamaño de muestra modera el compromiso conductual; la estrategia de aprendizaje modera el compromiso emocional y la motivación; y el contexto de uso modera la motivación. No se hallaron moderadores significativos para el compromiso de agencia. El aprendizaje individual o en grupos pequeños con GenAI —especialmente con ChatGPT— resultó especialmente eficaz para el compromiso cognitivo y emocional.\n\n## Contribuciones principales\n\n- Primer meta-análisis que aborda las cuatro dimensiones del compromiso (cognitivo, conductual, emocional y de agencia) más la motivación, específicamente para GenAI en educación superior.\n- Cuantificación de efectos positivos medios a altos en todas las dimensiones, con la motivación (g = 1,20) y la agencia (g = 0,87) mostrando los efectos más grandes.\n- Análisis sistemático de seis variables moderadoras (tamaño de muestra, duración, asignatura, estrategia de aprendizaje, contexto de uso, tipo de GenAI).\n- Integración metodológica del meta-análisis con minería de reglas de asociación (Apriori) para revelar patrones combinados entre condiciones de uso y tipos de compromiso.\n\n## Metodología\n\nRevisión sistemática siguiendo un proceso de identificación, cribado y elegibilidad sobre 2059 registros iniciales, reducidos a 33 estudios (20 identificados por snowballing/citation tracking). Evaluación de calidad con MERSQI. Cálculo de tamaños del efecto con la g de Hedges y modelo de efectos aleatorios. Evaluación de sesgo de publicación mediante funnel plot, prueba fail-safe N y regresión de Egger. Análisis de moderadores por subgrupos y minería de reglas de asociación con el algoritmo Apriori (métricas: support, confidence, coverage, lift).\n\n## Hallazgos clave\n\n- Compromiso cognitivo: g = 0,59 (medio); moderado por la categoría de asignatura.\n- Compromiso conductual: g = 0,52 (medio); moderado por el tamaño de muestra.\n- Compromiso emocional: g = 0,64 (medio); moderado por asignatura y estrategia de aprendizaje.\n- Compromiso de agencia: g = 0,87 (alto); sin moderadores significativos.\n- Motivación: g = 1,20 (alto); moderada por asignatura, estrategia de aprendizaje y contexto de uso.\n- El estudio individual o en grupos pequeños con ChatGPT maximiza el compromiso cognitivo y emocional.\n\n## Limitaciones\n\n- Base relativamente pequeña en algunas dimensiones (solo 5 estudios para agencia), lo que limita la potencia del análisis de moderadores.\n- Ventana temporal corta (post-noviembre 2022) y restricción a estudios en inglés, con posible sesgo cultural/lingüístico.\n- Heterogeneidad de instrumentos de medición de motivación y compromiso entre estudios primarios.\n- Predominio de intervenciones de corta duración, lo que dificulta inferir efectos sostenidos.\n\n## Notas relacionadas\n\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/motivacion-y-compromiso-estudiantil]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/autorregulacion-del-aprendizaje]]"
+    },
+    {
       "id": "notes/papers/2025-08-29_soundscapes-sostenibilidad",
       "kind": "paper",
       "label": "What does sustainability sound like? Crafting soundscapes that reflect environmental and social sustainability dimensions",
@@ -6198,6 +6562,36 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-08-29_soundscapes-sostenibilidad.md",
       "pdf_local": "sources/pdfs/multisensory-consumer/rodriguez-2025-soundscapes-sostenibilidad.pdf",
       "content": "## Resumen\nEste trabajo presenta una serie de estudios que examinan cómo la música y los paisajes sonoros (soundscapes) pueden comunicar el concepto abstracto y multidimensional de la sostenibilidad. Un estudio piloto identificó descriptores sensoriales y afectivos concretos vinculados a la sostenibilidad (p. ej., natural, responsable), que luego se usaron para determinar propiedades psicoacústicas (p. ej., tono, consonancia) capaces de comunicar esos descriptores.\n\nCon base en esas propiedades, se seleccionaron y evaluaron diez bandas sonoras instrumentales por su capacidad de evocar asociaciones con la sostenibilidad, en sus dimensiones ambiental y social. El estudio integra correspondencias crossmodales, sonidos de la naturaleza, sonidos humanos y música para mapear qué cualidades sonoras transmiten ideas de sostenibilidad.\n\nEl trabajo extiende la investigación del grupo sobre percepción multisensorial al dominio de la comunicación de valores abstractos, con implicaciones para el marketing, la comunicación ambiental y el diseño de experiencias sonoras que refuercen mensajes de sostenibilidad.\n\n## Contribuciones principales\n- Metodología para identificar propiedades psicoacústicas que comunican sostenibilidad.\n- Evaluación de diez bandas sonoras según su evocación de dimensiones ambiental y social.\n- Extensión de las correspondencias crossmodales a conceptos abstractos (sostenibilidad).\n\n## Metodología\nEstudio piloto de descriptores sensoriales/afectivos seguido de selección y evaluación de bandas sonoras instrumentales (psicoacústica y asociaciones).\n\n## Hallazgos clave\n- El sonido y la música pueden transmitir el concepto abstracto de sostenibilidad.\n- Ciertas propiedades psicoacústicas se asocian con descriptores como \"natural\" o \"responsable\".\n\n## Limitaciones\n- Estímulos instrumentales seleccionados; generalización cultural por validar.\n\n## Notas relacionadas\n- [[concepts/percepcion-multisensorial]]\n- [[concepts/sostenibilidad]]\n- [[concepts/diseno-de-producto]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]"
+    },
+    {
+      "id": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "kind": "paper",
+      "label": "ChatGPT in Education: A Systematic Review of Current Landscape, Limitations and Future Directions Through General System Theory Lens",
+      "authors": [
+        "Hsin-Yu Lee",
+        "Yueh-Min Huang",
+        "Ting-Ting Wu"
+      ],
+      "year": "2025",
+      "venue": "European Journal of Education",
+      "url": "https://doi.org/10.1111/ejed.70262",
+      "doi": "10.1111/ejed.70262",
+      "keywords": [
+        "inteligencia-artificial",
+        "revision-sistematica-de-literatura",
+        "retroalimentacion-con-ia",
+        "personalizacion-del-aprendizaje",
+        "evaluacion-educativa",
+        "STEM",
+        "educacion-superior",
+        "taxonomia-de-bloom",
+        "ingenieria-de-sistemas",
+        "tutoria-con-ia"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/lee_2025_chatgpt-gst.pdf",
+      "content": "## Resumen\n\nEsta revisión sistemática analiza el impacto educativo de ChatGPT mediante dos marcos teóricos: la teoría general de sistemas (General System Theory, GST) de Bertalanffy y el marco de conocimiento, habilidades y actitudes (Knowledge-Skills-Attitudes, KSA), alineado con la taxonomía de Bloom. Los autores parten de la crítica a que la mayoría de las revisiones previas se limitan a una sola disciplina o nivel educativo, y proponen una mirada holística que entienda a ChatGPT como un subsistema adaptativo dentro de un ecosistema educativo más amplio, con entradas (prompts, contexto), procesos de transformación (análisis computacional, reconocimiento de patrones) y salidas (respuestas, retroalimentación).\n\nSiguiendo las guías PRISMA, los autores buscaron en bases de datos académicas mayores (Web of Science, Scopus, ScienceDirect, IEEE, ACM, Taylor & Francis y Wiley) estudios empíricos revisados por pares publicados entre noviembre de 2022 y marzo de 2024. De 1519 artículos iniciales, tras eliminar duplicados, cribar títulos/resúmenes, evaluar calidad (sistema de puntuación de 10 puntos en 5 criterios; solo se conservaron estudios de calidad alta y media) e incorporar 7 artículos por snowballing, quedaron 92 artículos. El análisis de contenido cualitativo mapeó los hallazgos sobre los cinco elementos de la GST: sujeto, información, medio, ambiente y tecnología.\n\nLos resultados muestran una concentración marcada de la investigación en educación superior (69.7%), con escasa atención a primaria (3.4%) y secundaria (13.5%). Casi la mitad de los estudios se enfocan en disciplinas STEM (45.6%). Las aplicaciones más reportadas son la retroalimentación oportuna (55 ocurrencias), la generación de contenido (20) y el aprendizaje personalizado (15). En cuanto a resultados de aprendizaje, los efectos positivos son más evidentes para la construcción de conocimiento (63 ocurrencias) y el desarrollo de habilidades (59), mientras que los resultados actitudinales reciben comparativamente poca atención (20).\n\nLa evidencia apunta a beneficios educativos prometedores pero desiguales. Las limitaciones predominantes son diseños de investigación de pequeña o mediana escala y la subrepresentación de los contextos de primaria y secundaria. Los autores recomiendan que la investigación futura adopte muestras más grandes, dé mayor peso a las dimensiones actitudinales y busque una cobertura más equilibrada entre todos los niveles educativos.\n\n## Contribuciones principales\n\n- Aplicación novedosa de la teoría general de sistemas (GST) al análisis de la IA en educación, capturando interacciones complejas y bidireccionales entre ChatGPT y los componentes del ecosistema educativo (sujeto, información, medio, ambiente, tecnología).\n- Revisión comprehensiva de las aplicaciones de ChatGPT a través de distintos niveles educativos, disciplinas y contextos, superando el alcance estrecho de revisiones previas.\n- Evaluación multidimensional del impacto sobre resultados de aprendizaje mediante el marco KSA (cognitivo/conocimiento, psicomotor/habilidades, afectivo/actitudes).\n- Categorización de las funciones educativas de ChatGPT en cuatro áreas: evaluación automatizada, aprendizaje personalizado, retroalimentación oportuna y generación de contenido.\n\n## Metodología\n\nRevisión sistemática conforme a PRISMA. Búsqueda en siete bases de datos con consultas booleanas combinando términos sobre IA generativa/LLM (\"generative artificial intelligence\", \"GAI\", \"ChatGPT\", \"GPT\", \"large language model\", \"LLM\") y términos educativos (\"education\", \"learning\", \"teaching\", \"class\", \"course\"), para el periodo nov-2022 a mar-2024. Criterios de inclusión/exclusión explícitos (foco en ChatGPT en educación, medición de al menos una dimensión KSA, métodos empíricos, revisión por pares, idioma inglés). Evaluación de calidad de dos revisores independientes con cinco criterios (0-2 puntos cada uno); fiabilidad inter-evaluador con alfa de Krippendorff de 0.81. Análisis de contenido cualitativo con esquema de codificación basado en GST; alfa de Krippendorff de 0.87 en codificación. Síntesis narrativa organizada por los cinco elementos de la GST. 92 artículos finales.\n\n## Hallazgos clave\n\n- Distribución por nivel educativo muy desigual: educación superior 69.7%, secundaria 13.5%, primaria 3.4%.\n- Concentración en STEM (45.6% de los estudios).\n- Aplicaciones pedagógicas más frecuentes: retroalimentación oportuna (55), generación de contenido (20), aprendizaje personalizado (15) y evaluación automatizada.\n- Resultados de aprendizaje: efectos positivos predominantes en construcción de conocimiento (63) y desarrollo de habilidades (59); dimensión actitudinal subatendida (20).\n- ChatGPT funciona como sistema abierto y adaptativo que intercambia información con su entorno, con efectos de aprendizaje emergentes que no pueden entenderse examinando componentes aislados.\n\n## Limitaciones\n\n- Predominio de diseños de investigación de pequeña o mediana escala en la literatura revisada, lo que limita la generalización.\n- Subrepresentación de los contextos de educación primaria y secundaria, y sesgo hacia educación superior y STEM.\n- Atención insuficiente a los resultados actitudinales (dominio afectivo) frente a conocimiento y habilidades.\n- Ventana temporal acotada (nov-2022 a mar-2024) en un campo de evolución muy rápida; la búsqueda se restringe a publicaciones en inglés.\n- La adaptación del elemento \"tecnología\" de la GST hacia \"aplicaciones pedagógicas\" se aparta del marco original, lo que introduce una decisión interpretativa de los autores.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/STEM]]\n- [[concepts/educacion-superior]]\n- [[concepts/taxonomia-de-bloom]]\n- [[concepts/ingenieria-de-sistemas]]\n- [[concepts/tutoria-con-ia]]"
     },
     {
       "id": "notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai",
@@ -6408,6 +6802,38 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl auge de la IA generativa (ChatGPT y modelos similares) ha empujado a las universidades a adoptar herramientas de detección de texto generado por IA —Turnitin AI, GPTZero, Copyleaks, ZeroGPT, CrossPlag, entre otras— como respuesta a las amenazas a la integridad académica. Esta revisión narrativa de literatura sintetiza 24 artículos revisados por pares publicados entre 2021 y 2024, organizados en torno a tres ejes: la implementación institucional de las herramientas en los marcos de integridad académica, su efectividad y limitaciones técnicas, y las implicaciones éticas, procedimentales y pedagógicas que generan para estudiantes y docentes.\n\nEl hallazgo central es que las herramientas de detección, aunque ofrecen una solución escalable, son técnicamente poco confiables: producen falsos positivos y falsos negativos con frecuencia, fallan ante texto parafraseado u ofuscado, no están entrenadas para los modelos más recientes (p. ej. GPT-4) y carecen de transparencia en sus criterios de clasificación. La evidencia es mixta entre estudios: algunos hallan que ciertos detectores (Quillbot ~95%, Turnitin) superan al juicio humano, mientras que otros documentan que la mayoría de las herramientas clasifican de forma errática el texto y el código generados por IA.\n\nUna preocupación transversal es el sesgo lingüístico: los estudiantes no nativos de inglés (ESL/EFL) corren mayor riesgo de falsos positivos porque su sintaxis y estructura se asemejan al texto generado por IA, lo que plantea problemas de equidad, debido proceso y admisibilidad de estas herramientas como evidencia en procesos disciplinarios. A ello se suman inquietudes éticas sobre vigilancia, consentimiento y la erosión de la confianza entre docentes y estudiantes cuando la detección se despliega de forma unilateral.\n\nLos autores documentan además vacíos en las políticas institucionales: pocas universidades han actualizado sus marcos de integridad para contemplar la IA generativa, la aplicación es inconsistente entre docentes y departamentos, y la capacitación del profesorado es limitada. La conclusión normativa es un llamado a abandonar los enfoques punitivos en favor de pedagogías que integren la IA, enfatizando el uso ético, la alfabetización en IA, el rediseño de evaluaciones (borradores, exámenes orales, defensas) y estrategias centradas en el estudiante. Se discuten innovaciones emergentes como el watermarking y los sistemas híbridos de detección, aunque persisten retos de implementación.\n\n## Contribuciones principales\n\n- Síntesis temática de 24 estudios revisados por pares (2021-2024) sobre detección de IA en educación superior, organizada según tres preguntas de investigación (política institucional, desempeño técnico, ética/pedagogía).\n- Sistematización de las limitaciones técnicas de los detectores: falsos positivos/negativos, vulnerabilidad al parafraseo, desfase frente a modelos nuevos y opacidad de criterios.\n- Documentación del sesgo contra escritores no nativos de inglés y sus implicaciones de equidad y debido proceso.\n- Argumento normativo a favor de un giro desde la detección punitiva hacia el rediseño de evaluaciones y la integración pedagógica ética de la IA.\n\n## Metodología\n\nRevisión narrativa de literatura (anclada en paradigmas interpretativistas) sobre publicaciones revisadas por pares accedidas vía ERIC, EBSCOhost y JSTOR. Estrategia de búsqueda booleana documentada (Tabla 1) y criterios explícitos de inclusión/exclusión (Tabla 2). La búsqueda inicial arrojó 128 registros, reducidos a 24 estudios tras depuración y cribado. La calidad de la revisión se evaluó con el instrumento SANRA (Scale for the Assessment of Narrative Review Articles, 6 ítems, 0-2 puntos) y el proceso de selección se documentó con un diagrama de flujo PRISMA-ScR.\n\n## Hallazgos clave\n\n- Los detectores de IA son inconsistentes y producen falsos positivos/negativos; su fiabilidad cae frente a texto parafraseado, ofuscado o generado por modelos recientes (GPT-4).\n- Resultados mixtos entre estudios: algunos reportan alta precisión de herramientas concretas (Quillbot ~95.59%, Turnitin como la más fiable en un estudio cross-country); otros, desempeño deficiente, incluido el caso de código generado por IA.\n- En un estudio sobre ensayos de Oxford, los ensayos de IA (media 60.46) no difirieron significativamente de los humanos (63.57; p = 0.10), aunque carecían de profundidad y contexto cultural.\n- Los detectores de dominio específico (BERT, DistilBERT) alcanzaron precisión casi perfecta en su dominio, pero generalizan mal entre dominios.\n- Sesgo sistemático contra estudiantes ESL/EFL: la sofisticación lingüística se confunde con autoría de IA, elevando el riesgo de falsos positivos y de penalización injusta.\n- Vacíos de política: ausencia de directrices específicas sobre IA, aplicación inconsistente y formación docente limitada generan confusión en estudiantes y profesores.\n- 87% de estudiantes en un estudio mostraron comprensión inadecuada de las consecuencias del mal uso de la IA; se prioriza la alfabetización en IA sobre la sanción.\n\n## Limitaciones\n\n- Diseño de revisión narrativa: no busca cobertura exhaustiva y depende de la interpretación de los autores, con menor reproducibilidad que una revisión sistemática estricta.\n- Restringida a literatura en inglés y a la ventana 2021-2024, lo que excluye fuentes no anglófonas y desarrollos posteriores.\n- La evidencia primaria sintetizada es heterogénea y a menudo basada en escenarios de prueba artificiales más que en contextos de aula reales, con muestras pequeñas en varios estudios.\n- Solo se incluyeron fuentes revisadas por pares (se excluyen preprints, informes y literatura gris).\n\n## Notas relacionadas\n\n- [[concepts/deteccion-de-texto-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/educacion-superior]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/equidad-educativa]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/revision-sistematica-de-literatura]]"
     },
     {
+      "id": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "kind": "paper",
+      "label": "Do generative artificial intelligence (GenAI) and science education mix? A systematic review of the literature",
+      "authors": [
+        "Kason Ka Ching Cheung",
+        "Amina Zerouali",
+        "Jenna Koenen",
+        "Sibel Erduran"
+      ],
+      "year": "2025",
+      "venue": "Studies in Science Education",
+      "url": "https://doi.org/10.1080/03057267.2025.2578091",
+      "doi": "10.1080/03057267.2025.2578091",
+      "keywords": [
+        "inteligencia-artificial",
+        "revision-sistematica-de-literatura",
+        "pensamiento-critico",
+        "etica-de-la-ia",
+        "integridad-academica",
+        "educacion-k12",
+        "formacion-docente",
+        "autorregulacion-del-aprendizaje",
+        "personalizacion-del-aprendizaje",
+        "alucinaciones-de-ia",
+        "descubrimiento-cientifico"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/cheung_2025_genai-science-education.pdf",
+      "content": "## Resumen\n\nLa revisión examina cómo la inteligencia artificial generativa (GenAI) —principalmente ChatGPT y otros modelos GPT— se ha incorporado a la educación científica, y hasta qué punto la investigación empírica refleja \"sinergia\" y \"disonancia\" entre lo que GenAI puede ofrecer y lo que la educación científica aspira a enseñar. Los autores parten de la preocupación, expresada por educadores de ciencias, de que GenAI puede socavar metas de aprendizaje social, el aprendizaje de la ciencia y la comprensión epistémica de la ciencia, mientras que las revisiones sistemáticas previas se centran en aplicaciones de IA genérica y solo resumen las affordances pedagógicas sin distinguir el uso disciplinar de GenAI en la enseñanza de la ciencia.\n\nSiguiendo el protocolo PRISMA, los autores buscaron en Web of Science, Scopus y ERIC (búsqueda del 26 de junio de 2024, restringida a publicaciones desde 2022, año del lanzamiento de ChatGPT), descargaron 1136 registros y, tras la depuración y el cribado, retuvieron 22 estudios empíricos para un análisis cualitativo en profundidad. Desarrollaron un esquema de codificación inductivo a partir de las tres metas de aprendizaje de Duschl (2008) —cognitiva, epistémica y social— complementadas con variables afectivas, metacognitivas, dimensiones éticas y competencia pedagógica.\n\nLos hallazgos muestran que las variables, los instrumentos de recolección de datos y las intervenciones de enseñanza se concentran en la comprensión de la ciencia *o* de GenAI por separado, raramente en su interacción. Predominan las variables afectivas (73 %) y cognitivas (45 %), mientras que las variables epistémicas aparecen en un solo estudio y las sociales están ausentes. Los instrumentos suelen ser cuestionarios (n = 17), con escasez de escalas validadas específicas de la relación GenAI-ciencia. Las intervenciones se centran en la adquisición de conocimiento de contenido y casi no fomentan las prácticas científicas disciplinares.\n\nA partir de este diagnóstico, los autores proponen un marco teórico que unifica metas de aprendizaje diversas (conceptual, epistémica, afectiva, metacognitiva, ética y de competencia pedagógica) en torno a las prácticas científicas disciplinares, y plantean direcciones de investigación e intervenciones que aprovechen tanto la sinergia como la disonancia para fomentar el pensamiento de orden superior de estudiantes y docentes.\n\n## Contribuciones principales\n\n- Primera revisión sistemática centrada exclusivamente en GenAI (no en IA genérica) y orientada al uso *disciplinar* de GenAI en la enseñanza y aprendizaje de la ciencia.\n- Conceptualización de la relación GenAI-educación científica como tensión entre \"sinergia\" (mejora cognitiva y afectiva, facilitación de prácticas científicas, retroalimentación) y \"disonancia\" (sesgos, inexactitudes, injusticias sociales, problemas éticos).\n- Marco teórico que unifica metas de aprendizaje diversificadas centradas en las prácticas científicas disciplinares, utilizable como herramienta analítica en estudios empíricos futuros.\n- Identificación de vacíos de investigación: foco casi exclusivo en educación terciaria, intervenciones de menos de dos semanas, ausencia de estudios sobre aprendizaje social y biología, y carencia de instrumentos validados específicos.\n\n## Metodología\n\nRevisión sistemática de la literatura siguiendo PRISMA. Búsqueda en tres bases de datos (Web of Science, Scopus, ERIC) con cadenas de búsqueda en cuatro fases que combinaban términos sobre GenAI (generative AI, GPT, ChatGPT, LLM, BERT, DALL-E, etc.), ciencia y educación, restringida a 2022 en adelante. De 1136 registros se llegó a 22 estudios mediante cribado de resúmenes y textos completos (fiabilidad intercodificadores Cohen κ = 0.9). El análisis fue cualitativo e inductivo, con codificación doble del 10 % de los estudios, organizando las variables según las metas de Duschl (2008) y su alineación con la disciplina de GenAI, la de la ciencia, o su interacción.\n\n## Hallazgos clave\n\n- Las variables estudiadas se inclinan más hacia GenAI que hacia la ciencia: afectivas en 16 estudios (73 %), cognitivas en 10 (45 %), metacognitivas en 5 (23 %), éticas en 3 (14 %), competencia pedagógica en 4 (18 %), y epistémicas en solo 1 (5 %); ninguna variable de aprendizaje social.\n- La mayoría de la investigación se sitúa en educación terciaria (n = 8) y secundaria (n = 6); solo un estudio en primaria. Predominan autores de Norteamérica (n = 10) y Asia (n = 6); ausencia de estudios de Australia, Nueva Zelanda y África.\n- Los cuestionarios dominan (n = 17), seguidos de pruebas de conocimiento (n = 5, sobre todo de física) e entrevistas (n = 4); faltan escalas validadas que caractericen la relación GenAI-ciencia.\n- Las intervenciones se enfocan en el conocimiento de contenido y rara vez facilitan prácticas científicas y de ingeniería disciplinares; los beneficios reportados (motivación, comprensión, usabilidad) superan a las limitaciones (percepción de inexactitud, sesgo, desconfianza, desenganche).\n- Herramientas generativas como AlphaFold (Premio Nobel de Química 2024) ilustran el papel generativo de GenAI en la investigación científica, contrastando con su uso \"autoritativo\" y simplificador en el aula.\n\n## Limitaciones\n\n- Solo se incluyeron estudios empíricos publicados en inglés, lo que pudo excluir literatura en otros idiomas.\n- Al ser una revisión estática de un campo en evolución muy rápida, puede no reflejar la literatura más reciente.\n- El número de estudios retenidos es pequeño (n = 22) y muchos usan medidas no validadas, lo que impide conclusiones firmes sobre el balance beneficios/limitaciones.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/educacion-k12]]\n- [[concepts/formacion-docente]]\n- [[concepts/autorregulacion-del-aprendizaje]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/descubrimiento-cientifico]]"
+    },
+    {
       "id": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
       "kind": "paper",
       "label": "Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review",
@@ -6538,6 +6964,37 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia.md",
       "pdf_local": "sources/pdfs/assessment-redesign/kickbusch_2025_beyond-detection-authentic-assessment.pdf",
       "content": "## Resumen\nEste artículo conceptual sostiene que la adopción acelerada de la IA generativa (ChatGPT, DALL·E, Copilot) está desestabilizando las nociones tradicionales de autenticidad en la evaluación de la educación superior. La respuesta dominante del sector —vigilancia y detección de IA mediante software o exámenes presenciales supervisados— diagnostica mal el problema: en un mundo mediado por IA, la autenticidad no puede imponerse por vía punitiva, sino que debe rediseñarse. Los autores critican las estrategias de detección por su limitada precisión, su sesgo contra escritores no nativos, la desconfianza que generan entre docentes y estudiantes, y por ignorar que los egresados entrarán a entornos laborales donde estas herramientas son ubicuas.\n\nLa propuesta central es reconceptualizar la autenticidad como algo construido en contextos donde la IA es esperada, declarada y escrutada. El énfasis se desplaza de lo que el estudiante sabe hacia cómo aplica el conocimiento, ejerce el juicio y justifica sus decisiones con la IA \"en el bucle\". Para ello, el artículo sitúa la IA dentro de transformaciones más amplias del trabajo profesional contemporáneo —globalización, digitalización, interdisciplinariedad y creciente complejidad ética— y reformula la autenticidad como un continuo multidimensional (alineación tarea-contexto, juicio profesional y ética, visibilidad del proceso, y uso apropiado de herramientas dentro de la decisión humana).\n\nLa contribución es doble: i. un marco conceptual de autenticidad adecuado para un mundo mediado por IA, y ii. un conjunto de patrones de diseño para el aprendizaje agnósticos de disciplina, que posicionan a la IA como colaboradora y no como una aplicación de trampa. Estos patrones piden a los estudiantes criticar, adaptar y verificar salidas de IA; aportar transparencia explícita del proceso (prompts, iteraciones, justificación); y demostrar de forma evaluable discernimiento digital y juicio ético. Artefactos reflexivos como comentarios metacognitivos, bitácoras de proceso y defensas orales hacen visible el pensamiento del estudiante y reducen la dependencia de enfoques punitivos de \"te pillé\".\n\nEl resultado es una postura de integridad anclada en el diseño y no en la detección, que permite evaluaciones significativas, éticas e intelectualmente exigentes en presencia de IA, alineadas con el profesionalismo del mundo real.\n\n## Contribuciones principales\n- Un marco conceptual que reconceptualiza la autenticidad de la evaluación para un mundo mediado por IA: de \"detección\" a \"diseño\".\n- Reformulación de la autenticidad como continuo multidimensional con cuatro dimensiones: alineación tarea-contexto, juicio/ética profesional, visibilidad del proceso y uso apropiado de herramientas.\n- Un conjunto compacto de patrones de diseño agnósticos de disciplina, con ejemplos accionables por área (ingeniería, educación, industrias creativas, salud, negocios, finanzas).\n- Estrategias concretas de transparencia y reflexión: bitácoras de proceso, registros de prompts, comentarios reflexivos, defensas orales y crítica entre pares.\n- Análisis de los retos de implementación: equidad y acceso, ética y sesgo, carga evaluativa y desarrollo del profesorado.\n\n## Metodología\nTrabajo conceptual y orientado al diseño (no empírico; no se generaron ni analizaron datos). El marco y los patrones se derivaron de: i. una revisión integradora de la literatura sobre evaluación auténtica e integridad en contextos con IA; ii. un análisis de ejemplares de evaluación interdisciplinarios y guías sectoriales contemporáneas (QAA 2023, TEQSA 2024/2025, UNESCO); y iii. crítica iterativa con equipos docentes en ejercicio. Los patrones se tratan como proposiciones de diseño —soluciones nombradas a problemas recurrentes en condiciones de IA presente— siguiendo la tradición de los pattern languages (Alexander, 1977; Goodyear, 2005). Los criterios de inclusión exigían que cada patrón hiciera evidente y evaluable el juicio y el proceso del estudiante, fuera adaptable entre disciplinas y resultara factible bajo restricciones típicas de la educación superior.\n\n## Hallazgos clave\n- La detección de IA presenta límites bien documentados de validez y equidad (sesgo contra escritores no nativos, tasas de error) y debe tratarse como herramienta situacional, no como estrategia de primera línea.\n- La autenticidad debe pasar de replicar tareas del lugar de trabajo a cultivar disposiciones de juicio, ética y discernimiento digital con la IA presente.\n- La evidencia de aprendizaje debe redefinirse: más allá del producto final, valorar el proceso (borradores, iteraciones, bitácoras de prompts, justificación de decisiones).\n- Un estudiante que justifica por qué rechazó una salida de IA por conflicto con estándares profesionales demuestra un aprendizaje más auténtico que quien entrega un producto pulido pero irreflexivo.\n- La autenticidad es escalonada: las unidades iniciales requieren tareas acotadas y andamiadas; las avanzadas abren complejidad, incertidumbre y participación de actores externos.\n- La implementación exige abordar la equidad de acceso (riesgo de ampliar brechas socioeconómicas), la ética/sesgo de los modelos, la carga de trabajo docente y el desarrollo de capacidades del profesorado.\n\n## Limitaciones\n- Es un artículo conceptual sin validación empírica: el conjunto de patrones es intencionalmente compacto y no exhaustivo, e invita a evaluación empírica futura.\n- No examina implementaciones específicas por disciplina ni la experiencia real de los estudiantes con estos diseños.\n- La eficacia depende de condiciones institucionales (licenciamiento, infraestructura, acceso equitativo, recursos y tiempo docente) cuya disponibilidad varía.\n- Reconoce que la evaluación auténtica no garantiza por sí misma la inclusividad y puede generar nuevas barreras (carga, simulaciones del mundo real con límites de tiempo o accesibilidad).\n\n## Notas relacionadas\n- [[concepts/evaluacion-educativa]]\n- [[concepts/integridad-academica]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/futuro-del-trabajo]]\n- [[concepts/supervision-humana]]\n- [[concepts/equidad-educativa]]"
+    },
+    {
+      "id": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "kind": "paper",
+      "label": "Exploring the Educational Applications of Large Language Models: A Systematic Review and Topic Analysis",
+      "authors": [
+        "Bianca-Raluca Cibu",
+        "Liliana Crăciun",
+        "Anca Gabriela Molănescu",
+        "Liviu-Adrian Cotfas"
+      ],
+      "year": "2025",
+      "venue": "Electronics",
+      "url": "https://doi.org/10.3390/electronics14234683",
+      "doi": "10.3390/electronics14234683",
+      "keywords": [
+        "inteligencia-artificial",
+        "revision-sistematica-de-literatura",
+        "procesamiento-de-lenguaje-natural",
+        "educacion-superior",
+        "evaluacion-educativa",
+        "retroalimentacion-con-ia",
+        "integridad-academica",
+        "etica-de-la-ia",
+        "equidad-educativa",
+        "ciencia-de-datos"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/cibu_2025_llm-topic-analysis.pdf",
+      "content": "## Resumen\n\nEste artículo realiza una revisión sistemática de la literatura científica sobre los grandes modelos de lenguaje (LLMs) aplicados a la educación, publicada entre 2023 y 2024. El corpus se extrajo de la Web of Science (WoS) siguiendo el protocolo PRISMA 2020 y comprende 507 documentos provenientes de 322 fuentes. Los autores destacan la velocidad de crecimiento del campo: una tasa de crecimiento anual del 369.66%, con 418 artículos publicados en 2024 frente a solo 89 en 2023, y una media de 15.03 citas por documento que evidencia un impacto científico rápido.\n\nMetodológicamente, el estudio combina técnicas bibliométricas (mapas temáticos, análisis factorial de Keywords Plus y de bigramas de títulos y resúmenes) con dos métodos de modelado de temas: Latent Dirichlet Allocation (LDA), que descubre temas de alto nivel mediante asignación probabilística, y BERTopic, que captura patrones semánticos más profundos a partir de embeddings. El análisis se apoyó en RStudio (Biblioshiny) para la parte bibliométrica y en Python para el modelado de temas.\n\nA partir de la triangulación entre mapas temáticos, LDA y BERTopic, el campo se estructura en cuatro grandes direcciones de investigación: (1) Fundamentos tecnológicos de los LLMs en educación; (2) Impacto en estudiantes, desempeño y resultados de aprendizaje; (3) Calidad del contenido, legibilidad y alfabetización en las salidas de IA; y (4) Ética, personalización y uso responsable de los LLMs. El LDA identificó cuatro temas (el dominante, con 65.7% de los tokens, centrado en aplicaciones de IA generativa centradas en el estudiante), mientras que BERTopic produjo cuatro tópicos dominados por aplicaciones en educación médica, odontológica, oftalmológica y radiológica.\n\nUna observación central es la fuerte presencia de la educación médica y la educación de pacientes en el corpus, interpretada no como un sesgo sino como un terreno de prueba natural para tecnologías emergentes por su base científica sólida, sus requisitos éticos estrictos y su alto grado de estandarización. El estudio también traza una evolución temporal: del entusiasmo tecnológico de 2023 hacia un interés en 2024 por la responsabilidad, la integridad académica, la privacidad de datos y la equidad algorítmica.\n\n## Contribuciones principales\n\n- Mapa exhaustivo y reproducible (PRISMA 2020) del campo de los LLMs en educación para 2023–2024, sobre 507 documentos de la WoS.\n- Triangulación metodológica entre mapas temáticos bibliométricos, LDA y BERTopic, mostrando convergencias y solapamientos transversales entre las dimensiones tecnológica, pedagógica, de calidad y ética.\n- Estructuración del campo en cuatro direcciones de investigación que sirven de hoja de ruta para investigadores, docentes y responsables de políticas.\n- Identificación de brechas de investigación: predominio de estudios descriptivos y de percepciones frente a evaluaciones empíricas rigurosas de eficacia pedagógica; cobertura insuficiente de ética, sostenibilidad digital y formación docente; y colaboración interdisciplinar todavía escasa.\n\n## Metodología\n\nRevisión sistemática conforme a PRISMA 2020 (protocolo registrado en protocols.io). Búsqueda en la WoS Core Collection combinando los términos `large_language_model*` y `education*` en título, resumen y palabras clave de autor. Del filtrado inicial (2227 documentos) se llegó a 507 tras las etapas de identificación, cribado, elegibilidad e inclusión; se excluyeron preprints y conference papers para garantizar un corpus revisado por pares. Sobre el corpus se aplicaron: análisis factorial de Keywords Plus y de bigramas, mapas temáticos (centralidad y densidad), LDA y BERTopic. Adicionalmente se reseñan en detalle los 10 artículos más citados, seleccionados por TC, TCY y NTC.\n\n## Hallazgos clave\n\n- El campo crece de forma acelerada (369.66% anual) con marcada multidisciplinariedad y colaboración internacional (26.04% de coautorías internacionales; media de 4.48 autores por artículo).\n- LDA y mapas temáticos convergen en cuatro temas; BERTopic confirma los temas 1–3 pero no genera un cluster ético propio, sugiriendo que las preocupaciones de equidad y sesgo están dispersas y menos concentradas que las aplicaciones concretas (aprendizaje estudiantil, educación de pacientes).\n- ChatGPT domina más de la mitad de los estudios; GPT-4 se prefiere para razonamiento complejo y experimentos controlados; Bard/Gemini y LLaMA aparecen en menor medida (capacidades multimodales y personalización local, respectivamente).\n- Emergen paradigmas de optimización como la generación aumentada por recuperación (RAG) y la ingeniería de prompts, señal de la maduración del campo hacia integraciones contextualizadas.\n- Se documenta evidencia de sesgo racial en evaluaciones generadas por ChatGPT 3.5 y riesgos como la \"careless speech\", junto con propuestas regulatorias.\n\n## Limitaciones\n\n- Restricción a una única base de datos (WoS) y a artículos revisados por pares en inglés (2023–2024), excluyendo preprints, actas y otros idiomas.\n- Periodo muy corto y reciente: aunque ofrece una instantánea actual, limita el análisis de tendencias de largo plazo.\n- Predominio de estudios descriptivos y de percepciones en el corpus, con escasez de evaluaciones empíricas rigurosas de eficacia pedagógica.\n- Los métodos de modelado de temas dependen de decisiones de preprocesamiento y del número de temas/clusters elegido.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/procesamiento-de-lenguaje-natural]]\n- [[concepts/educacion-superior]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/equidad-educativa]]\n- [[concepts/ciencia-de-datos]]"
     },
     {
       "id": "notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms",
@@ -7300,6 +7757,36 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEsta revisión y artículo de perspectiva, centrado en la industria, sostiene que la inteligencia artificial (IA) en ingeniería química ha pasado \"de la promesa a la práctica\". Tomando como punto de referencia una perspectiva de 2019 (\"¿está aquí, finalmente?\"), los autores evalúan los desarrollos técnicos y organizacionales posteriores: los modelos físicamente informados (gray-box / caja gris) ganan terreno, el aprendizaje por refuerzo (RL) complementa al control predictivo basado en modelos (MPC), y la IA generativa potencia la documentación, la digitalización de P&ID/PFD y los flujos de trabajo de seguridad. El valor a corto plazo surge donde la IA *aumenta* —no reemplaza— la práctica de ingeniería de sistemas de proceso (PSE), por ejemplo mediante soft sensing y modelos sustitutos (surrogates).\n\nLa tesis central es que el cuello de botella decisivo no es la capacidad algorítmica sino el *despliegue confiable*: los modelos de IA deben tratarse como cualquier otro sistema de ingeniería, con validación, monitoreo y gobernanza. Capacidades como operaciones autónomas, análisis HAZOP totalmente automatizado y descubrimiento mecanicista a gran escala permanecen en etapa de investigación, mientras que el soft sensing, el monitoreo, el modelado híbrido y el soporte a la decisión ya son prácticos. Encuestas recientes confirman la brecha de adopción: el 40% de los encuestados considera la IA poco confiable, el 92% reporta escasez de expertos en IA y solo el 16% alcanzó su objetivo relacionado con IA.\n\nEl artículo distingue explícitamente las capacidades \"de grado investigación\" de las \"listas para industria\" y ancla sus recomendaciones a marcos regulatorios emergentes (EU AI Act, NIST AI Risk Management Framework). Aborda en detalle el modelado mecanicista y explicable (PINNs, operadores neuronales, SINDy/UDE), el control de procesos en la era del RL (incluyendo el caso real de Yokogawa/JSR con el algoritmo FKDPP operando 35 días de forma autónoma), MLOps para industrias de proceso, análisis de ciclo de vida (LCA) prospectivo asistido por ML, gobernanza/estándares (IEC 61511, IEC 62443, ISO/IEC 42001, AMLAS) y la integración de la IA en la educación en ingeniería química.\n\nLa conclusión es optimista pero condicionada: con laboratorios incubadora, benchmarks abiertos y pipelines educativos rediseñados, la IA puede convertirse en un \"co-trabajador\" seguro, confiable y sostenible en las industrias de proceso en cuestión de años.\n\n## Contribuciones principales\n\n- Síntesis centrada en la industria que vincula los avances recientes de IA con los requisitos prácticos para un despliegue seguro, confiable y escalable, en contraste con revisiones previas enfocadas en algoritmos aislados.\n- Marco conceptual sobre el \"grayness\" (grado de gobernanza física) de los modelos: trade-off entre costo computacional (white-box) y requerimiento de datos (black-box), con el gray-box como punto medio robusto en entornos con datos escasos.\n- Distinción explícita entre capacidades de grado investigación y capacidades listas para la industria, anclada a flujos de trabajo reales (control, seguridad, sostenibilidad, educación).\n- \"Scorecard\" que evalúa las predicciones de la perspectiva de 2019 frente a lo que efectivamente se materializó (soft sensing y diagnóstico se volvieron rutina; GenAI superó las expectativas; los modelos híbridos superaron a los puramente black-box).\n- Protocolo operacional para MLOps industrial (modo \"shadow\", capas de seguridad, monitoreo de drift, requalificación por triggers, despliegue CI/CD con artefactos versionados y aprobaciones auditables).\n\n## Metodología\n\nRevisión narrativa y perspectiva, no sistemática. Los autores (academia — Chalmers — junto con Siemens) sintetizan literatura técnica reciente, casos comerciales reportados por proveedores y marcos regulatorios/de estándares. Organizan el análisis en torno a dominios de trabajo de ingeniería reales (GenAI, IA mecanicista/explicable, control con RL, MLOps, LCA, gobernanza y educación) e ilustran con ejemplos comerciales que explícitamente no constituyen respaldos a proveedores específicos.\n\n## Hallazgos clave\n\n- El cuello de botella es el despliegue confiable, no la capacidad algorítmica; los modelos de IA deben gestionarse como ciclos de vida de ingeniería (commissioning, monitoreo, detección de drift, requalificación, redespliegue).\n- Los modelos gray-box (físicamente informados) superan a los black-box en entornos con datos escasos y restricciones estrictas, ofreciendo mejor generalización y extrapolación más segura.\n- El RL complementa —no reemplaza— al MPC/PID clásico; el \"control-informed RL\" (que incorpora estructura de control clásica y certificados de estabilidad) es el punto medio pragmático. El despliegue industrial a gran escala sigue siendo limitado.\n- La GenAI ya es creíble para copilotos de documentos, digitalización de P&ID/PFD (salida compatible con DEXPI/ISO 15926) y soporte a HAZOP, pero el HAZOP automatizado completo no reemplaza el trabajo experto.\n- El consenso industrial es mantener los sistemas de ML como *advisory* o supervisorios, preservando los interlocks de seguridad existentes y el control de cambios con comportamiento fail-safe.\n- La gobernanza pasó de opcional a esperada: EU AI Act (en vigor desde el 1 de agosto de 2024, con obligaciones escalonadas 2025–2027) y NIST AI RMF como complemento voluntario.\n\n## Limitaciones\n\n- Es una perspectiva narrativa, no una revisión sistemática; selección de fuentes y casos sujeta a criterio de los autores.\n- Varios casos industriales provienen de materiales reportados por proveedores; la validación independiente revisada por pares sigue siendo limitada.\n- Coautoría con Siemens (Industrial Copilot, COMOS) implica un posible interés; los autores aclaran que los ejemplos comerciales ilustran capacidades y no son respaldos.\n- La integridad y disponibilidad de datos a escala de planta siguen siendo barreras no resueltas (setpoints inconsistentes, intervenciones manuales mal registradas, transferencia laboratorio→industria).\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/supervision-humana]]\n- [[concepts/sostenibilidad]]\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/adopcion-de-tecnologia]]"
     },
     {
+      "id": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "kind": "paper",
+      "label": "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes",
+      "authors": [
+        "Changyue Li",
+        "Hang Cui",
+        "Linda Serra Hagedorn"
+      ],
+      "year": "2026",
+      "venue": "Computers and Education: Artificial Intelligence",
+      "url": "https://doi.org/10.1016/j.caeai.2026.100571",
+      "doi": "10.1016/j.caeai.2026.100571",
+      "keywords": [
+        "revision-sistematica-de-literatura",
+        "pensamiento-critico",
+        "creatividad",
+        "educacion-superior",
+        "inteligencia-artificial",
+        "alfabetizacion-en-ia",
+        "autorregulacion-del-aprendizaje",
+        "evaluacion-educativa",
+        "integridad-academica",
+        "ingenieria-de-prompts"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/li_2026_chatgpt-cognition.pdf",
+      "content": "## Resumen\n\nEsta revisión sistemática sintetiza 67 estudios empíricos (2022–2025) que examinan cómo ChatGPT influye en el pensamiento crítico (PC) y el pensamiento creativo (PCr) de estudiantes universitarios, siguiendo las directrices PRISMA 2020. Los autores aplican un marco de \"doble lente\" que distingue los procesos cognitivos convergentes (pensamiento crítico) de los divergentes (pensamiento creativo), y los tratan no como rasgos psicológicos fijos sino como desempeños cognitivos situados, moldeados por las affordances de la IA, el diseño instruccional y el encuadre pedagógico.\n\nEl hallazgo central es que los efectos cognitivos de ChatGPT no son intrínsecos a la herramienta, sino contingentes al andamiaje instruccional que la rodea. Cuando se integra en diseños orientados a la indagación y con andamiaje explícito —prompts reflexivos, evaluación guiada por rúbricas, formación en alfabetización en IA—, ChatGPT favorece el desarrollo cognitivo mediante procesos como la regulación metacognitiva, el razonamiento argumentativo y la generación de ideas, produciendo ganancias sinérgicas en ambos dominios. En cambio, en contextos no estructurados se observan patrones asimétricos que favorecen la creatividad sobre el pensamiento crítico, o caídas conjuntas en ambos dominios, frecuentemente asociadas a la descarga cognitiva (cognitive offloading).\n\nLos autores recomiendan posicionar a ChatGPT como \"compañero dialógico\" en lugar de herramienta de conveniencia, co-activando los procesos crítico y creativo mediante tareas de indagación recursiva y bucles de retroalimentación de múltiples fuentes. Dada la predominancia de diseños de corto plazo y no experimentales, la evidencia se interpreta como patrones de asociación y moderación, no como mecanismos causales definitivos.\n\n## Contribuciones principales\n\n- Introduce un marco conceptual de \"doble lente\" que distingue el pensamiento crítico (convergente) del creativo (divergente) como dominios complementarios pero diferenciados de la cognición de orden superior.\n- Es la primera revisión que examina sistemáticamente cómo formas distintas del pensamiento de orden superior son afectadas de manera diferencial por ChatGPT, en lugar de tratar la \"cognición\" como un bloque homogéneo.\n- Integra teorías de tecnología educativa (alfabetización en IA, aprendizaje autorregulado, carga cognitiva, cognición distribuida, conectivismo, CHAT, objetos frontera) como una \"constelación explicativa\" para interpretar la heterogeneidad de resultados.\n- Mapea tres trayectorias de co-ocurrencia entre PC y PCr: mejora sinérgica, desarrollo asimétrico y erosión cognitiva conjunta.\n\n## Metodología\n\nRevisión sistemática PRISMA 2020 sobre tres bases de datos (Web of Science–SSCI, Scopus, ERIC), con búsqueda realizada el 19 de abril de 2025. De 409 registros iniciales y tras eliminar 185 duplicados, se cribaron 224 registros por título/resumen y 96 textos completos; 67 estudios empíricos revisados por pares (2022–2025) cumplieron los criterios finales. Solo se incluyeron artículos de revista revisados por pares, en inglés, con datos empíricos primarios (cuantitativos, cualitativos o mixtos). La calidad metodológica se evaluó con la herramienta MMAT (acuerdo κ = 0.77); solo se retuvieron estudios que cumplían al menos tres de cinco criterios. La extracción de datos fue mayormente deductiva, guiada por cuatro preguntas de investigación, con codificación en matriz Excel y doble codificación parcial.\n\n## Hallazgos clave\n\n- **Características del corpus:** 26 estudios cuantitativos (39%), 20 cualitativos (30%), 21 mixtos (31%). Predominio geográfico de Asia (58%), seguido de Europa (18%) y Norteamérica (10%). STEM fue el campo más estudiado (36%). 23 estudios trataron solo PC, 11 solo PCr y 33 ambos.\n- **Pensamiento crítico (afordancias):** ChatGPT favorece compromiso metacognitivo (n=27), razonamiento argumentativo (n=22), detección de errores y verificación (n=19), aprendizaje autorregulado (n=17) y razonamiento disciplinar (n=15), sobre todo en tareas estructuradas que exigen comparar, justificar o revisar las salidas de la IA.\n- **Pensamiento crítico (limitaciones):** sobredependencia y pereza cognitiva (n=21), compromiso superficial (n=18), erosión del desarrollo argumentativo (n=14), descarga metacognitiva (n=12) e insuficiencia para el razonamiento de orden superior (n=10). Estos riesgos se concentran en usuarios novatos, hablantes no nativos y estudiantes con baja alfabetización en IA, en tareas de resumen y redacción sin andamiaje.\n- **Pensamiento creativo (afordancias):** ideación y pensamiento divergente (n=31), andamiaje estructural y expresivo (n=24), compromiso dialógico y cambio de perspectiva (n=18), activación afectiva y motivacional —ChatGPT como \"compañero de lluvia de ideas\" que reduce la ansiedad creativa— (n=16), y ganancias mediadas instruccionalmente (n=21).\n- **Pensamiento creativo (limitaciones):** pasividad creativa por sobredependencia (n=20), pérdida de voz y autenticidad afectiva (n=15), supresión de la exploración iterativa (n=13), inhibición por riesgo percibido —privacidad, ansiedad de desempeño— (n=11) y déficit instruccional (n=14).\n- **Co-ocurrencia PC–PCr:** mejora sinérgica (n=18) bajo diseños de indagación, andamiaje reflexivo e interacción dialógica; desarrollo asimétrico con PCr al alza y PC a la baja (n=8) en uso no estructurado; erosión conjunta de ambos dominios (n=4) en contextos pasivos sin encuadre crítico (incl. una encuesta global de >23.000 estudiantes, Ravšelj et al., 2025).\n- La fluidez lingüística de ChatGPT es a la vez fortaleza y riesgo: puede enmascarar vacíos epistémicos y fomentar el \"cierre prematuro\" cuando faltan andamiajes que gestionen la complejidad intrínseca.\n\n## Limitaciones\n\n- Sesgo de publicación e idioma: solo se incluyeron artículos revisados por pares en inglés, lo que probablemente subrepresenta hallazgos nulos/negativos y contextos no anglófonos.\n- Predominio de diseños de corto plazo, no experimentales y exploratorios; la evidencia es de asociación y moderación, no causal.\n- Heterogeneidad metodológica que impidió reportar sistemáticamente variables como la versión del modelo (GPT-3.5/GPT-4) o las modalidades instruccionales.\n- Asimetría en las estrategias de evaluación: el PCr se midió más con tareas directas de desempeño y el PC con autoinformes indirectos, lo que puede explicar parte de la aparente mayor robustez de la evidencia para el PCr con independencia de los efectos cognitivos reales.\n- Concentración del corpus en sistemas asiáticos y en programas STEM y de formación docente, donde el pensamiento de orden superior ya está priorizado.\n\n## Notas relacionadas\n\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/creatividad]]\n- [[concepts/educacion-superior]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/autorregulacion-del-aprendizaje]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/integridad-academica]]\n- [[concepts/ingenieria-de-prompts]]"
+    },
+    {
       "id": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
       "kind": "paper",
       "label": "FermBench: A new benchmark for measuring the capabilities of LLMs on fermentation knowledge",
@@ -7590,6 +8077,36 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-04-27_assess-ai-literacy-misalignment.md",
       "pdf_local": "sources/pdfs/ai-literacy-competency/zhang_2026_assess-ai-literacy-misalignment.pdf",
       "content": "## Resumen\n\nEl estudio aborda un problema central en la medición de la alfabetización en IA de los docentes de K-12: la mayoría de los instrumentos existentes se apoyan o bien en autorreportes (self-report, SR) —que capturan percepciones y actitudes— o bien en pruebas objetivas de desempeño (objective-based, OB) —que capturan competencias demostradas—, pero rara vez ambos dentro de un marco compartido que permita comparar la competencia percibida frente a la demostrada. Los autores desarrollan y validan psicométricamente ambos tipos de instrumentos sobre el marco establecido de cuatro dimensiones de Ng et al. (Concept/Conocer, Use/Usar, Evaluate/Evaluar y Ethics/Ética).\n\nA partir de una encuesta a 358 docentes taiwaneses de K-12 (muestra analítica final de 288), construyen una prueba objetiva de 25 ítems de opción múltiple basados en escenarios pedagógicos realistas y una escala de autorreporte de 15 ítems Likert adaptada de la AILS-CCS. Mediante un modelo de Rasch (1PL), análisis factorial exploratorio y confirmatorio (CFA) demuestran estabilidad psicométrica: la prueba objetiva converge en una estructura de tres factores (Comprensión Conceptual, Evaluación de Capacidades, Uso Práctico y Ético) y la escala de autorreporte confirma una estructura de cuatro factores. La fiabilidad es buena (KR-20 = 0.862; alfas entre .63 y .85) y el ajuste del modelo es aceptable o bueno.\n\nEl hallazgo más relevante es la baja correlación entre los factores SR y OB (r = 0.07 a 0.24), lo que indica que la percepción de los docentes sobre su propia competencia está débilmente asociada con su desempeño real; ambos instrumentos no son intercambiables. Un análisis de perfiles latentes (LPA) identifica seis perfiles distintos en la muestra completa, que abarcan sobreestimación (SR alto / OB bajo), subestimación (SR bajo / OB promedio) y alineamiento (SR ≈ OB).\n\nAl segmentar por experiencia previa en alfabetización en IA, emergen contrastes claros: la sobreestimación aparece solo entre docentes con experiencia previa (y de forma más leve y calibrada), mientras que un perfil único de \"bajo-bajo\" (SR y OB ambos muy por debajo del promedio) aparece exclusivamente entre quienes carecen de experiencia previa. Los autores interpretan la discrepancia SR-OB en términos de sesgos metacognitivos como el efecto Dunning-Kruger, y proponen los instrumentos como herramientas diagnósticas para el desarrollo profesional docente y para analíticas de aprendizaje escalables.\n\n## Contribuciones principales\n\n- Validación psicométrica conjunta de instrumentos SR y OB de alfabetización en IA docente sobre un marco compartido de cuatro dimensiones (Concept, Use, Evaluate, Ethics), permitiendo comparar competencia percibida y demostrada.\n- Evidencia empírica de que las medidas SR y OB están débilmente correlacionadas (r = 0.07-0.24) y no pueden usarse de forma intercambiable.\n- Identificación, mediante análisis de perfiles latentes, de seis perfiles de docentes que distinguen sobreestimación, subestimación y alineamiento entre percepción y desempeño.\n- Demostración de que la experiencia previa en alfabetización en IA reduce los desajustes extremos y favorece una autoevaluación más equilibrada.\n- Incorporación explícita de la dimensión de Ética tanto en las medidas SR como OB, extendiendo marcos previos centrados en lo conceptual, técnico y pedagógico.\n\n## Metodología\n\nEncuesta transversal aplicada en febrero de 2025 a docentes pre- y en-servicio de K-12 en Taiwán (358 respuestas; muestra analítica de 288 tras excluir autorreportes incompletos). Instrumentos: 25 ítems objetivos de opción múltiple basados en escenarios y 15 ítems de autorreporte Likert de 5 puntos, alineados con el marco de Ng et al. y la escala AILS-CCS. El análisis combina: (1) modelo de Rasch de un parámetro (1PL) con KR-20, mapa de Wright y estadísticos de ajuste Infit/Outfit para evaluar estabilidad psicométrica de la prueba objetiva; (2) análisis factorial exploratorio (oblimin) y confirmatorio (CFA) con índices de ajuste global (CFI, TLI, RMSEA, SRMR); y (3) análisis de perfiles latentes (LPA) con modelos de mezcla gaussiana, seleccionando el número de perfiles vía AIC/BIC, aplicado a la muestra total y a los subgrupos con y sin experiencia previa.\n\n## Hallazgos clave\n\n- La prueba objetiva es psicométricamente estable: alta fiabilidad (KR-20 = 0.862), buen ajuste ítem-persona y unidimensionalidad aproximada tras eliminar 5 ítems mal ajustados; estructura final de 18 ítems en tres factores.\n- La escala de autorreporte confirma una estructura de cuatro factores (modelo refinado de 13 ítems) con buen ajuste (CFI = .970, TLI = .961, RMSEA = .054) y alta consistencia interna (alfa = .889).\n- Las correlaciones entre factores SR y OB son uniformemente bajas (r = 0.07 a 0.24): autopercepción y desempeño están débilmente vinculados.\n- El LPA en la muestra completa rinde seis perfiles que abarcan sobreestimación, subestimación, alineamiento y un perfil de competencia objetiva fuerte con autorreporte promedio.\n- La sobreestimación (SR alto / OB bajo) aparece solo entre docentes con experiencia previa en IA; el perfil \"bajo-bajo\" es exclusivo de quienes no tienen experiencia previa.\n- La experiencia previa en alfabetización en IA se asocia con menos desajustes extremos y autoevaluaciones más calibradas; la discrepancia se enmarca como un posible efecto Dunning-Kruger.\n\n## Limitaciones\n\n- El análisis no separó a los docentes por estatus pre-servicio/en-servicio ni por años de experiencia docente, lo que limita el examen de cómo varían los perfiles según estos factores demográficos.\n- La prueba objetiva basada en escenarios no fue adaptada a materias o niveles de grado específicos.\n- Se detectó un posible efecto techo (19 respondientes con estimaciones de habilidad extremas), lo que sugiere la necesidad de ítems más difíciles para diferenciar a los docentes de mayor desempeño.\n- Marcos recientes incluyen dimensiones (Detect AI, IA generativa) cuyos ítems suelen ser demasiado técnicos para docentes de K-12, midiendo desconocimiento de terminología más que capacidad de integración pedagógica.\n- Muestra circunscrita a Taiwán, lo que puede limitar la generalización a otros contextos.\n\n## Notas relacionadas\n\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/formacion-docente]]\n- [[concepts/educacion-k12]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/sesgo-cognitivo]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/adopcion-de-tecnologia]]"
+    },
+    {
+      "id": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "kind": "paper",
+      "label": "A systematic critical review of generative AI's impact on authorship, pedagogy, and integrity (2023–2025)",
+      "authors": [
+        "Zouhaier Slimi"
+      ],
+      "year": "2026",
+      "venue": "Frontiers in Education",
+      "url": "https://doi.org/10.3389/feduc.2026.1769680",
+      "doi": "10.3389/feduc.2026.1769680",
+      "keywords": [
+        "integridad-academica",
+        "etica-de-la-ia",
+        "alfabetizacion-en-ia",
+        "evaluacion-educativa",
+        "educacion-superior",
+        "publicacion-academica",
+        "deteccion-de-texto-ia",
+        "regulacion-de-ia",
+        "revision-sistematica-de-literatura",
+        "inteligencia-artificial",
+        "pensamiento-critico",
+        "equidad-educativa"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/slimi_2026_genai-authorship-integrity.pdf",
+      "content": "## Resumen\n\nEsta revisión sistemática crítica sintetiza y evalúa 54 estudios revisados por pares publicados entre 2023 y 2025, junto con 6 documentos clave de política internacional (UNESCO, OECD, ICMJE, COPE, Comisión Europea, UKRI/NIH), para mapear el terreno disputado del impacto multifacético de la IA generativa (GenAI) en la educación superior y la publicación académica. El autor emplea un enfoque de síntesis temática dentro de un marco sociotécnico crítico que entiende la GenAI no como una herramienta neutral, sino como una fuerza constitutiva que reconfigura activamente las estructuras de poder, las prácticas de conocimiento y las normas éticas de la academia.\n\nEl análisis identifica cuatro temas dominantes e interrelacionados: (1) la reconfiguración de la autoría y la atribución; (2) la transformación de la pedagogía y la evaluación; (3) las dinámicas cambiantes de la integridad, la confianza y la detección; y (4) las ramificaciones éticas y sociopolíticas emergentes. Los hallazgos revelan un campo caracterizado por una fragmentación de políticas significativa, una eficacia de detección inconsistente y una profunda divergencia disciplinar en cuanto a adopción y preocupación. Mientras la GenAI se aprovecha para aumentar la accesibilidad y la productividad, simultáneamente plantea riesgos para la originalidad, el pensamiento crítico y la justicia epistémica.\n\nLa discusión sostiene que los marcos de política prevalecientes —reactivos y centrados en la contención— son inadecuados. En su lugar, el autor aboga por un cambio de paradigma hacia una gobernanza proactiva, pedagógicamente fundamentada y centrada en la equidad, que trate a la GenAI no como una mera herramienta disruptiva sino como un elemento constitutivo de un ecosistema académico en rápida evolución. La revisión concluye delineando limitaciones clave y proponiendo una agenda enfocada de investigación, política y práctica.\n\n## Contribuciones principales\n\n- **Síntesis interdisciplinaria** que conecta las micro-prácticas de autoría y evaluación con macro-cuestiones de justicia epistémica y poder sociotécnico, un vínculo a menudo ausente en revisiones más estrechas.\n- **Tipología original de colaboración humano–IA** (Tabla 1) con cuatro modos: (1) IA como instrumento, (2) IA como socio colaborativo, (3) IA como actor proxy, y (4) IA como ecosistema generativo (extensión teórica posthumanista). Supera el debate binario de \"uso\" vs. \"no uso\".\n- **Marco normativo para una \"administración fundamentada\"** (principled stewardship): argumenta el paso de la contención reactiva a una gobernanza proactiva, sensible al contexto y centrada en la equidad.\n\n## Metodología\n\nRevisión sistemática crítica (Grant y Booth, 2009) que combina protocolos de búsqueda replicables con análisis interpretativo informado por teoría. Búsqueda en Scopus (primaria), ERIC e IEEE Xplore más literatura gris de política; cadena de búsqueda sobre GenAI/ChatGPT/LLM x educación superior x autoría/integridad/evaluación/ética para 2023–2025. De 117 registros iniciales se incluyeron 60 fuentes (54 artículos revisados por pares + 6 documentos de política), siguiendo PRISMA 2020. Evaluación de calidad con criterios adaptados de CASP (cualitativos) y MMAT (cuantitativos/mixtos). Codificación inductiva línea por línea en NVivo 14 (~450 códigos iniciales) con síntesis temática de Thomas y Harden (2008), auditoría externa sobre muestra aleatoria del 10%. Marco conceptual tripartito: justicia epistémica (Fricker), teoría de sistemas sociotécnicos (Orlikowski) y colaboración posthumana (Bozkurt et al.).\n\n## Hallazgos clave\n\n- **Autoría:** consenso superficial de que la autoría formal sigue siendo prerrogativa humana (rechazo de la coautoría de IA por ICMJE y editoriales), pero la práctica se reconstituye como colaboración híbrida humano–IA tácita. Fragmentación marcada en la adopción de políticas de divulgación (70% en revistas de enfermería vs. 46,7% en cirugía plástica). La GenAI actúa como acelerante del \"predatory publishing\" y los paper mills.\n- **Pedagogía:** desplazamiento desde un paradigma defensivo (detección) hacia un rediseño basado en la pedagogía; evaluaciones \"resilientes a la IA\" (exámenes orales/vivas, portafolios iterativos, escritura en clase, proyectos auténticos). Cisma disciplinar: campos aplicados (ingeniería, computación) enmarcan la IA como herramienta de productividad; humanidades y ciencias sociales críticas expresan reservas filosóficas profundas sobre la erosión de la voz crítica y la originalidad.\n- **Integridad:** dos modelos en tensión —modelo policial (detección tecnológica) vs. modelo de confianza pedagógica (compromiso ético, alfabetización en IA, rediseño de códigos de honor)—. La evidencia favorece un enfoque híbrido. La detección presenta variabilidad de exactitud, vulnerabilidad al parafraseo adversarial y falsos positivos elevados contra escritores no nativos.\n- **Ética y sociopolítica:** sesgo algorítmico y injusticia epistémica (subrepresentación del Sur Global en redes de citación generadas); \"paradoja de la equidad\" (la GenAI es a la vez nivelador y estratificador); puntos ciegos sobre costos ambientales y laborales de la cadena de suministro de IA.\n- **Evolución temporal (2023–2025):** giro desde un discurso de contención (61% de los estudios de 2023 centrados en detección/integridad) hacia la transformación pedagógica y la integración ética (67% de los estudios de 2025).\n\n## Limitaciones\n\n- Sesgo occidental y anglófono: dependencia de publicaciones en inglés y de Scopus excluye sistemáticamente el discurso en otras lenguas y del Sur Global, limitando la generalización de los hallazgos sobre justicia epistémica.\n- Corpus dominado por estudios de pequeña escala, cualitativos o conceptuales (38 de 54 estudios empíricos); escasez de diseños longitudinales o experimentales de gran N para evaluar impactos causales.\n- Revisión de un solo autor (mitigada con auditoría externa y reflexividad), lo que puede limitar la pluralidad interpretativa.\n- La selección de documentos de política fue propositiva y por criterios, no exhaustiva ni sistemática.\n- Datos empíricos escasos sobre los costos macroéticos (ambientales y laborales), que permanecen en gran medida especulativos.\n\n## Notas relacionadas\n\n- [[concepts/integridad-academica]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/educacion-superior]]\n- [[concepts/publicacion-academica]]\n- [[concepts/deteccion-de-texto-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/equidad-educativa]]"
     },
     {
       "id": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra",
@@ -8037,6 +8554,164 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\nEl estudio evalúa la integración de talleres de simulación digital en un curso de Termodinámica de Ingeniería Química de primer año en la Universidad de Manchester. La termodinámica química es reconocida como un curso notoriamente difícil debido a sus conceptos abstractos, su naturaleza de resolución de problemas y el modelado matemático asociado, lo que ha impulsado el paso de aulas centradas en el docente hacia entornos más activos y centrados en el estudiante. Los talleres se fundamentan en la Teoría del Aprendizaje Experiencial (ELT), según la cual los estudiantes construyen conocimiento a partir de la experiencia práctica más que de la mera instrucción recibida.\n\nLos talleres se diseñaron para usar el software comercial Aspen Properties como un generador rápido de equilibrio líquido-vapor (VLE). Se ejecutaron dos sesiones de dos horas (semanas 7 y 9) durante el segundo semestre del año académico 2023-2024, con la asistencia de aproximadamente el 82% de la cohorte (145 de 176 estudiantes). El contenido cubrió numerosos aspectos del VLE: la selección de modelos termodinámicos apropiados (ecuaciones de estado como Peng-Robinson y Soave-Redlich-Kwong, y modelos de coeficiente de actividad como Wilson y NRTL mediante un \"árbol de decisión\"), y la evaluación de diagramas (P-x-y, T-x-y, y-x, P-T) para mezclas ideales, reales y azeotrópicas, así como mezclas de alta presión con comportamiento normal y retrógrado.\n\nLa evaluación combinó una encuesta de opinión estudiantil (52 respuestas, escala Likert de 5 puntos sobre estructura, contenido técnico y utilidad percibida) con la comparación del desempeño en el examen final frente al año previo (2022-2023, sin talleres). Las respuestas fueron en general positivas (promedios Likert de 3.4 a 4.3), con mayor satisfacción en la organización del taller y la caracterización de mezclas mediante diagramas, y menor acuerdo en la comprensión de los modelos de coeficiente de actividad (48%) y el comportamiento retrógrado (48%). El acoplamiento de simulaciones interactivas con un enfoque basado en problemas promovió mayor compromiso y pensamiento crítico, y mejoró el rendimiento académico: las preguntas de examen sobre equilibrio de fases (vinculadas a los talleres) aumentaron en promedio 9.4%, frente a solo 2.2% en una pregunta no relacionada, con reducción de la brecha de logro de la clase.\n\n## Contribuciones principales\n- Diseño y validación de talleres de simulación digital fundamentados en la Teoría del Aprendizaje Experiencial para un curso introductorio de termodinámica química.\n- Demostración del uso de software comercial (Aspen Properties) como generador rápido de VLE y herramienta pedagógica, justificada por su difusión en industria y academia y su integración con otros cursos del programa.\n- Evidencia cuantitativa de mejora en el desempeño del examen final atribuible a los talleres, con reducción de la dispersión de notas en preguntas sobre equilibrio de fases.\n\n## Metodología\nImplementación de dos talleres de dos horas en aula de PC, con trabajo individual/en parejas/grupos pequeños bajo supervisión de líderes de unidad y asistentes de enseñanza, dentro de un curso de aprendizaje mixto (blended) de 11 semanas. Evaluación mixta: encuesta en papel anónima y voluntaria con 11 ítems Likert, análisis demográfico (género, procedencia) mediante prueba t de Student de dos colas, y comparación interanual de las notas del examen final con pruebas t (medias) y F (desviaciones estándar).\n\n## Hallazgos clave\n- Acuerdo positivo del 78-85% en la capacidad de caracterizar mezclas ideales y reales a baja presión y mezclas a alta presión mediante diagramas.\n- Menor acuerdo en la comprensión de modelos de coeficiente de actividad (48%) y comportamiento retrógrado (48%), señalando puntos a reforzar.\n- Aumento estadísticamente significativo de las notas en las dos preguntas de examen sobre equilibrio de fases (+6.4% y +12.3%), con p < 0.05 y reducción de la desviación estándar.\n- El concepto de azeótropo, notoriamente difícil, fue mejor asimilado (62% de acuerdo) gracias al enfoque gráfico e interactivo.\n\n## Limitaciones\n- Muestra de encuesta pequeña (52 estudiantes, ~30% de la cohorte) y de un solo curso e institución.\n- Las diferencias por género y procedencia no resultaron estadísticamente significativas en ninguna pregunta.\n- Comparación interanual del examen sujeta a posibles factores no controlados entre cohortes; la pregunta de equilibrio de reacción química (no vinculada a los talleres) sirve como referencia parcial.\n- Uso de software comercial (no abierto) que limita la replicabilidad en contextos sin licencia.\n\n## Notas relacionadas\n- [[concepts/educacion-en-ingenieria]]\n- [[concepts/ingenieria-quimica]]\n- [[concepts/simulacion-computacional]]\n- [[concepts/aprendizaje-activo]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/psicologia-educativa]]"
     },
     {
+      "id": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "kind": "paper",
+      "label": "Systematic review of ChatGPT in higher education: Navigating impact on learning, wellbeing, and collaboration",
+      "authors": [
+        "Naya Abdallah",
+        "Rateb Katmah",
+        "Kinda Khalaf",
+        "Herbert F. Jelinek"
+      ],
+      "year": "2025",
+      "venue": "Social Sciences & Humanities Open",
+      "url": "https://doi.org/10.1016/j.ssaho.2025.101866",
+      "doi": "10.1016/j.ssaho.2025.101866",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "retroalimentacion-con-ia",
+        "tutoria-con-ia",
+        "integridad-academica",
+        "pensamiento-critico",
+        "autorregulacion-del-aprendizaje",
+        "revision-sistematica-de-literatura",
+        "adopcion-de-tecnologia",
+        "alfabetizacion-en-ia"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/abdallah_2025_chatgpt-he-wellbeing.pdf",
+      "content": "## Resumen\n\nEsta revisión sistemática sintetiza la literatura empírica sobre el uso de ChatGPT en la educación superior, analizando 39 estudios publicados entre 2023 y 2024 mediante una metodología basada en PRISMA y síntesis temática cualitativa. Los autores parten de la constatación de que los modelos de lenguaje grande (LLM), y en particular ChatGPT, se han adoptado masiva y rápidamente para aplicaciones académicas —tutoría, redacción de ensayos, clarificación de contenidos y generación de retroalimentación— y buscan ofrecer una perspectiva integrada que conecte tres dominios habitualmente estudiados por separado: el aprendizaje (cognitivo), el bienestar (emocional) y la colaboración (social).\n\nEl análisis organiza los hallazgos en cinco dimensiones temáticas que reflejan impactos cognitivos, emocionales y conductuales: rendimiento académico, salud mental, estudiantes de segunda lengua, presión de pares (influencia social) e inspiración. La mayoría de los estudios (56.4 %) reporta ganancias académicas medibles —mejores puntajes, mayor precisión y retroalimentación formativa más rica— cuando ChatGPT se usa como tutor suplementario que ofrece explicaciones paso a paso. Sin embargo, emerge una advertencia consistente: la dependencia excesiva de las respuestas generadas por IA puede erosionar el pensamiento crítico y las habilidades de argumentación, al reducir la carga cognitiva a costa de un razonamiento superficial.\n\nEn la dimensión de salud mental, alrededor del 15 % del corpus vincula el uso de ChatGPT con menor ansiedad ante exámenes, mayor \"academic buoyancy\" y mayor autoeficacia, gracias a la retroalimentación inmediata y la clarificación bajo demanda. No obstante, un conjunto menor pero relevante de estudios documenta un \"lado oscuro\": el uso compulsivo o habitual se correlaciona con tecnoestrés, evitación social, soledad y menor satisfacción vital cuando la herramienta desplaza la interacción con pares o docentes. La revisión también identifica beneficios para aprendices de segunda lengua (reducción de ansiedad de escritura, mejora de competencias orales) y patrones de adopción guiados por la utilidad percibida, la facilidad de uso, la confianza y, sobre todo, el hábito.\n\nLos autores subrayan vacíos interdisciplinarios —ausencia de datos longitudinales, variabilidad entre disciplinas y el papel poco explorado de la colaboración— y abordan consideraciones éticas y de política, incluyendo integridad académica, privacidad de datos, transparencia algorítmica e inequidades digitales. Concluyen que ChatGPT es un \"arma de doble filo\" y recomiendan estrategias de integración equilibrada: directrices institucionales, iniciativas de alfabetización en IA y marcos para una integración ética con supervisión humana.\n\n## Contribuciones principales\n\n- Ofrece una perspectiva integrada que conecta tres dominios usualmente estudiados de forma aislada: aprendizaje (cognitivo), bienestar (emocional) y colaboración (social).\n- Estructura el impacto de ChatGPT en cinco dimensiones temáticas: rendimiento académico, salud mental, estudiantes de segunda lengua, presión de pares e inspiración.\n- Identifica vacíos de investigación poco explorados, en particular el bienestar, la colaboración y la falta de estudios longitudinales.\n- Propone recomendaciones de política: directrices institucionales, alfabetización en IA y marcos de integración ética.\n\n## Metodología\n\nRevisión sistemática de literatura (SLR) siguiendo la declaración PRISMA y el marco de Kitchenham & Charters (2007), con síntesis temática cualitativa (no meta-análisis cuantitativo, dada la heterogeneidad de métodos y contextos). La búsqueda en bases como Emerald, ERIC, MDPI, SAGE, Elsevier, SpringerLink, Frontiers, PLOS, Wiley y Taylor & Francis recuperó 209 estudios; tras criterios de inclusión/exclusión (artículos revisados por pares, en inglés, enero 2023–mediados de octubre 2024, sobre ChatGPT en educación superior, excluyendo K-12) y búsqueda manual, se evaluó la calidad de 72 estudios mediante cuatro criterios (EQ1–EQ4, escala 0–2), descartando 33 de baja calidad y conservando 39 para el análisis. Se aplicó además una evaluación del riesgo de sesgo adaptada de la herramienta Cochrane.\n\n## Hallazgos clave\n\n- 56.4 % de los estudios reporta ganancias académicas medibles cuando ChatGPT actúa como tutor suplementario; las metodologías que piden al estudiante revisar o corregir las respuestas de ChatGPT mejoran el desempeño preservando el pensamiento crítico.\n- La dependencia excesiva de la IA reduce la carga cognitiva pero puede degradar el razonamiento, la argumentación y la profundidad del aprendizaje.\n- ~15 % de los estudios asocia ChatGPT con menor ansiedad ante exámenes, mayor autoeficacia y \"academic buoyancy\"; la retroalimentación inmediata funciona como amortiguador emocional.\n- Un \"lado oscuro\" documentado: el uso compulsivo se asocia con tecnoestrés, soledad, evitación social, distrés psicológico y menor satisfacción vital.\n- El hábito es el predictor más fuerte de adopción, por encima de la percepción de riesgo, la utilidad y la facilidad de uso percibidas.\n- Beneficios para aprendices de segunda lengua (ESL/EFL): reducción de ansiedad de escritura y mejora de habilidades orales y de autonomía.\n\n## Limitaciones\n\n- Sesgo de selección por exclusión de estudios no escritos en inglés, lo que limita la generalizabilidad.\n- Sesgo de publicación: los estudios con impactos positivos de ChatGPT tienen mayor probabilidad de ser publicados.\n- Sesgo tecnológico por diferencias en acceso a internet y familiaridad tecnológica, además del sesgo en los datos de entrenamiento de la IA.\n- Variabilidad de políticas institucionales entre países y culturas; muchos estudios primarios tienen muestras pequeñas, sin aleatorización ni control de variables de confusión.\n- Predominio de diseños transversales y ausencia de datos longitudinales; el rol de la colaboración queda subexplorado.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/autorregulacion-del-aprendizaje]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/alfabetizacion-en-ia]]"
+    },
+    {
+      "id": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "kind": "paper",
+      "label": "ChatGPT in Education: A Systematic Review on Opportunities, Challenges, and Future Directions",
+      "authors": [
+        "Yirga Yayeh Munaye",
+        "Wasyihun Admass",
+        "Yenework Belayneh",
+        "Atinkut Molla",
+        "Mekete Asmare"
+      ],
+      "year": "2025",
+      "venue": "Algorithms",
+      "url": "https://doi.org/10.3390/a18060352",
+      "doi": "10.3390/a18060352",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "revision-sistematica-de-literatura",
+        "personalizacion-del-aprendizaje",
+        "tutoria-con-ia",
+        "evaluacion-educativa",
+        "retroalimentacion-con-ia",
+        "integridad-academica",
+        "etica-de-la-ia",
+        "regulacion-de-ia",
+        "alfabetizacion-en-ia",
+        "pensamiento-critico"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/munaye_2025_chatgpt-opportunities.pdf",
+      "content": "## Resumen\n\nEsta revisión sistemática examina la integración de ChatGPT en la educación, analizando sus oportunidades, desafíos y direcciones futuras. Siguiendo el marco PRISMA, los autores analizan 40 estudios revisados por pares publicados entre 2020 y 2024, seleccionados a partir de un conjunto inicial de 150 trabajos recuperados de Scopus, Web of Science, IEEE Xplore, Google Scholar y Springer Link. Más del 90% de las referencias provienen de 2023 y 2024, reflejando el rápido crecimiento del interés académico tras la aparición de la herramienta de OpenAI. La síntesis se organiza mediante codificación basada en teoría fundamentada (abierta, axial y selectiva) y arroja diez temas principales, con 15 beneficios y 15 inconvenientes asociados al uso de ChatGPT en la enseñanza y el aprendizaje.\n\nEntre las oportunidades, el estudio destaca la capacidad de ChatGPT para fomentar experiencias educativas individualizadas, adaptando contenidos, ritmo y retroalimentación a las necesidades de cada estudiante; la automatización de la calificación y la creación de contenido (planes de clase, cuestionarios, evaluaciones), que libera tiempo del profesorado para una enseñanza más interactiva; la tutoría interactiva, el aprendizaje colaborativo y el apoyo para escribir y depurar código. También resalta su potencial para reducir brechas educativas y mejorar la accesibilidad de comunidades desatendidas y de estudiantes con discapacidad mediante conversión de voz a texto y traducción multilingüe.\n\nFrente a estas ventajas, la revisión subraya desafíos críticos. Las preocupaciones por la integridad académica son centrales: los estudiantes pueden usar ChatGPT para plagiar o hacer trampa, y se discute la dificultad de detectar contenido generado por IA. Se advierte sobre el sesgo en los modelos —entrenados con grandes datasets que pueden contener sesgos culturales, de género e ideológicos—, la generación de información incorrecta o alucinada, y los riesgos de privacidad y seguridad de los datos. Paradójicamente, la adopción de la IA podría aumentar la carga del profesorado, que debe verificar las salidas y orientar su uso ético.\n\nEl trabajo enfatiza la necesidad de una gobernanza ética con políticas claras, programas de alfabetización en IA y formación docente, así como la preservación del pensamiento crítico frente a la sobredependencia. Concluye llamando a investigar la regulación adaptativa de ChatGPT y los impactos pedagógicos a largo plazo como prioridad para los actores educativos.\n\n## Contribuciones principales\n- Revisión sistemática PRISMA de 40 estudios (2020–2024) que ofrece una comprensión estructurada y basada en evidencia de las aplicaciones de ChatGPT en educación.\n- Identificación de oportunidades de mejora educativa: personalización del aprendizaje, automatización de la calificación y apoyo al profesorado.\n- Examen crítico de desafíos: integridad académica, sesgo de la IA y falta de inclusividad.\n- Llamado a marcos de gobernanza ética y a investigación futura sobre regulación adaptativa e impacto pedagógico a largo plazo.\n\n## Metodología\nRevisión sistemática de literatura siguiendo el protocolo PRISMA. Búsqueda en cinco bases de datos con operadores booleanos; de 150 trabajos iniciales se filtraron 40 tras aplicar criterios de inclusión/exclusión (artículos revisados por pares, en inglés, 2020–2024, centrados en ChatGPT en educación). El análisis empleó codificación de teoría fundamentada (abierta, axial y selectiva) para sintetizar temas, beneficios y desafíos.\n\n## Hallazgos clave\n- Oportunidades: aprendizaje personalizado y adaptativo, tutoría interactiva, creación y evaluación automatizada de contenido, apoyo a docentes y estudiantes, aprendizaje colaborativo, asistencia en código y tareas, y mejora de la accesibilidad.\n- Desafíos: riesgos a la integridad académica (plagio, trampa), sesgo y consideraciones éticas, alucinaciones e información incorrecta, privacidad de datos, y posible aumento (no reducción) de la carga docente.\n- Tendencia temporal: más del 90% de la literatura relevante se concentra en 2023–2024.\n- Necesidad transversal: gobernanza ética, alfabetización en IA y formación docente para una integración responsable.\n\n## Limitaciones\n- Como revisión sistemática, depende de la calidad y el alcance de los estudios seleccionados; no aporta datos empíricos primarios nuevos.\n- Restringida a publicaciones en inglés y a un conjunto acotado de bases de datos, lo que puede introducir sesgos de selección.\n- Buena parte de la evidencia revisada es de carácter teórico o de opinión, con limitada validación empírica en contextos de aula reales.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/pensamiento-critico]]"
+    },
+    {
+      "id": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria",
+      "kind": "paper",
+      "label": "Generative AI in Chemical Education: A Bibliometric Perspective",
+      "authors": [
+        "Jonghwa Park",
+        "Yongin Choi",
+        "Kyunghyun Han",
+        "Sungyool Bong",
+        "Hyuck Jin Lee"
+      ],
+      "year": "2026",
+      "venue": "Journal of Chemical Education",
+      "url": "https://doi.org/10.1021/acs.jchemed.5c01667",
+      "doi": "10.1021/acs.jchemed.5c01667",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "evaluacion-educativa",
+        "integridad-academica",
+        "alfabetizacion-en-ia",
+        "ingenieria-de-prompts",
+        "pensamiento-critico",
+        "analisis-bibliometrico"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/park_2026_genai-chemistry-bibliometric.pdf",
+      "content": "## Resumen\n\nEste estudio realiza un análisis bibliométrico exhaustivo del campo emergente de la inteligencia artificial generativa (GenAI) aplicada a la educación química, abarcando la literatura producida desde el lanzamiento público de ChatGPT (finales de 2022) hasta febrero de 2026. Los datos se extrajeron exclusivamente de la Web of Science Core Collection, justificada como una fuente curada, consistente y de alta calidad que evita los problemas de deduplicación y armonización que surgen al combinar varias bases de datos. Tras una búsqueda con cadenas booleanas en títulos, resúmenes y palabras clave de autor, y un cribado conforme al marco PRISMA, se obtuvo un conjunto final de 101 publicaciones para el análisis.\n\nLos resultados muestran un crecimiento explosivo y concentrado de la actividad académica: de 18 artículos en 2023 a 33 en 2024 y 46 en 2025. El *Journal of Chemical Education* se erige como el eje central del campo, con 44 de las publicaciones identificadas y 1163 citas (casi cuatro veces más que la segunda revista). Geográficamente, Estados Unidos domina tanto en volumen de publicación (26 artículos, ~25% del total) como en impacto de citación y centralidad colaborativa, conformando junto a otros centros anglófonos el núcleo de la red internacional; países como China muestran alta productividad pero baja colaboración internacional, atribuida a un ecosistema regulatorio y tecnológico distinto (modelos domésticos como DeepSeek frente a la restricción de ChatGPT).\n\nEl análisis de co-ocurrencia de palabras clave (mediante VOSviewer y *total link strength*) revela que GenAI y \"undergraduate\" son los términos más centrales, situando el discurso predominantemente en la educación superior. Términos como writing, assessment, web-based learning y student-centered learning evidencian un desplazamiento hacia entornos digitales centrados en el estudiante y una presión por rediseñar la evaluación. El clustering identifica cuatro temas: (1) fundamentos tecnológicos en la pedagogía química, (2) evaluación y alfabetización en IA en la química de pregrado, (3) especialización disciplinar y práctica de laboratorio, y (4) innovación curricular y aprendizaje centrado en el estudiante.\n\nLos autores concluyen que la GenAI está evolucionando de herramienta genérica a \"colaborador disciplinar\", lo que exige repensar cómo se construye y evalúa el conocimiento químico. Proponen líneas futuras de investigación longitudinal, marcos de alfabetización en IA específicos de la química y una colaboración internacional más inclusiva.\n\n## Contribuciones principales\n- Primer mapeo bibliométrico comprehensivo del campo GenAI–educación química (2023–feb. 2026), con 101 publicaciones analizadas.\n- Identificación del *Journal of Chemical Education* como hub central de producción y citación del campo.\n- Caracterización de la estructura geográfica del campo: dominio de EE. UU. y centros anglófonos, con China como nodo productivo pero aislado.\n- Tipología de cuatro temas de investigación derivada del análisis de co-ocurrencia de palabras clave.\n- Tesis interpretativa de la GenAI como \"colaborador disciplinar\" más que como herramienta de productividad genérica.\n\n## Metodología\nAnálisis bibliométrico de mapeo. Recuperación de datos exclusivamente desde Web of Science Core Collection mediante una cadena booleana con truncamientos (chemi*, educat*/teach*, variantes de GenAI/ChatGPT/LLM) en los campos TI (título), AB (resumen) y AK (palabras clave de autor); 146 registros iniciales depurados según PRISMA hasta 101 publicaciones. Estadística descriptiva con Python/Pandas (patrones de publicación, distribución de revistas, citas); redes de coautoría por país y red de co-ocurrencia de palabras clave construida y agrupada en VOSviewer (medida de *association strength*, función de calidad tipo modularidad, *smart local moving algorithm*).\n\n## Hallazgos clave\n- Crecimiento explosivo: 18 (2023) → 33 (2024) → 46 (2025) artículos.\n- *Journal of Chemical Education*: 44 publicaciones y 1163 citas, núcleo de una estructura centro-periferia.\n- EE. UU. lidera en producción (26, ~25%), citas y centralidad colaborativa (TLS = 11); discrepancia productividad/colaboración en China.\n- Palabras clave más centrales: GenAI (TLS = 112) y undergraduate (TLS = 109); seguidas de web-based learning, writing, student-centered learning, assessment.\n- Cuatro clusters temáticos: fundamentos tecnológicos en pedagogía química; evaluación y alfabetización en IA; especialización disciplinar y laboratorio; innovación curricular y aprendizaje centrado en el estudiante.\n- El artículo más citado (Fergus et al., 2023, 227 citas) trata la evaluación crítica de respuestas generadas por ChatGPT.\n\n## Limitaciones\n- Fuente de datos única (Web of Science Core Collection); la exclusión de Scopus u otras bases puede limitar la cobertura.\n- Análisis basado en metadatos de los artículos, no en el texto completo: no permite examinar el rigor metodológico ni la implementación pedagógica a nivel de estudio.\n- Ventana temporal muy reciente y campo en rápida evolución; los datos de 2026 son parciales (hasta febrero).\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/integridad-academica]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/ingenieria-de-prompts]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/analisis-bibliometrico]]"
+    },
+    {
+      "id": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "kind": "paper",
+      "label": "Generative AI and Higher Education: Trends, Challenges, and Future Directions from a Systematic Literature Review",
+      "authors": [
+        "João Batista",
+        "Anabela Mesquita",
+        "Gonçalo Carnaz"
+      ],
+      "year": "2024",
+      "venue": "Information",
+      "url": "https://www.mdpi.com/2078-2489/15/11/676",
+      "doi": "10.3390/info15110676",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "revision-sistematica-de-literatura",
+        "integridad-academica",
+        "evaluacion-educativa",
+        "adopcion-de-tecnologia",
+        "etica-de-la-ia",
+        "regulacion-de-ia",
+        "pensamiento-critico",
+        "futuro-del-trabajo"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2026-06-28_genai-educacion-superior-revision.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/batista_2024_genai-he-trends.pdf",
+      "content": "## Resumen\n\nEsta revisión sistemática de literatura (SLR) sintetiza la investigación empírica reciente sobre el uso de la inteligencia artificial generativa (GAI) en la educación superior. Siguiendo el protocolo PRISMA, los autores buscaron en Scopus y Web of Science los artículos publicados entre enero de 2023 y enero de 2024. De 102 artículos identificados tras eliminar duplicados, 37 cumplieron los criterios de inclusión (investigación empírica revisada por pares sobre GAI en educación superior). El análisis metodológico se apoyó en el modelo \"Research Onion\" de Saunders, Lewis y Thornhill.\n\nLos estudios seleccionados se agruparon en tres temas: (1) la aplicación de tecnologías GAI —con especial peso de ChatGPT—, (2) la aceptación y percepciones de los distintos actores (estudiantes, docentes, investigadores e instituciones), y (3) situaciones de uso específicas (evaluación, escritura, análisis de contenido, generación de contenido, integridad académica y retroalimentación). Se añadió una cuarta categoría transversal dedicada a las metodologías empleadas.\n\nLos hallazgos principales destacan la versatilidad y el potencial de la GAI, la aceptación generalmente positiva por parte de los estudiantes y la mejora de la experiencia educativa. No obstante, la revisión subraya retos significativos: la necesidad de repensar las prácticas de evaluación, la ausencia de estrategias institucionales maduras, los riesgos para la integridad académica (plagio, deshonestidad habilitada por IA), y las preocupaciones éticas en torno al uso responsable y la fiabilidad de las herramientas.\n\nA partir de estos resultados, los autores proponen una agenda de investigación futura centrada en la integridad de la evaluación y las estrategias pedagógicas, las consideraciones éticas y el desarrollo de políticas, el impacto en los procesos de enseñanza y aprendizaje, las percepciones de estudiantes e instructores, los avances tecnológicos, y la preparación de competencias futuras y la disposición de la fuerza laboral.\n\n## Contribuciones principales\n\n- Síntesis sistemática (PRISMA) de 37 estudios empíricos sobre GAI en educación superior en una ventana temporal reciente (2023–2024), cubriendo el período posterior a las revisiones previas que llegaban hasta 2022.\n- Taxonomía de tres categorías (uso de la tecnología, aceptación/percepciones de actores, tareas y actividades) más una categoría transversal metodológica.\n- Propuesta de una agenda de investigación futura con seis líneas prioritarias.\n\n## Metodología\n\nRevisión sistemática de literatura conforme a las directrices PRISMA (Page et al.). Búsqueda en Scopus (91 artículos, 87 disponibles) y Web of Science (61 artículos, 52 considerados), restringida a artículos de revista en inglés publicados desde enero de 2023. Tras consolidar y eliminar duplicados se obtuvieron 102 artículos. Tres investigadores cribaron el conjunto de forma independiente (respuestas \"Sí\"/\"No\"/\"Sí/No\" con segunda revisión cruzada para los casos dudosos), resultando en 37 artículos incluidos. El análisis empleó un ejercicio de teoría fundamentada (grounded theory) para la categorización y un word cloud de los abstracts para identificar términos frecuentes (Student, AI, Educator, Use, ChatGPT).\n\n## Hallazgos clave\n\n- ChatGPT domina la investigación empírica del período; los estudiantes muestran aceptación y actitudes mayoritariamente positivas hacia la GAI.\n- La GAI puede potenciar habilidades de pensamiento crítico, creativo y reflexivo, así como la motivación y el compromiso, pero su efecto no es uniforme y depende del diseño de las tareas.\n- La integridad académica y la validez de la evaluación emergen como las preocupaciones más recurrentes, exigiendo rediseñar estrategias de evaluación.\n- Las instituciones carecen aún de estrategias y políticas maduras; existe fuerte acuerdo en que deberían contar con planes formales para el uso de GAI.\n- Se señalan riesgos para el trabajo académico (académicos \"menos inquisitivos y reflexivos\" por uso acrítico) y para el futuro del trabajo y la empleabilidad de los estudiantes.\n\n## Limitaciones\n\n- Ventana temporal corta (un año, 2023–2024), que pudo dejar fuera estudios relevantes.\n- Los criterios y términos de búsqueda podrían variar con otros investigadores, afectando el conjunto resultante.\n- Restricción a artículos en inglés indexados en Scopus y WoS; exclusión de literatura no empírica (opiniones, teoría, especulación).\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/integridad-academica]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/adopcion-de-tecnologia]]\n- [[concepts/etica-de-la-ia]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/futuro-del-trabajo]]"
+    },
+    {
+      "id": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "kind": "paper",
+      "label": "Large language models in education: a systematic review of empirical applications, benefits, and challenges",
+      "authors": [
+        "Yuhong Shi",
+        "Kun Yu",
+        "Yifei Dong",
+        "Fang Chen"
+      ],
+      "year": "2026",
+      "venue": "Computers and Education: Artificial Intelligence",
+      "url": "https://doi.org/10.1016/j.caeai.2025.100529",
+      "doi": "10.1016/j.caeai.2025.100529",
+      "keywords": [
+        "revision-sistematica-de-literatura",
+        "inteligencia-artificial",
+        "tutoria-con-ia",
+        "retroalimentacion-con-ia",
+        "personalizacion-del-aprendizaje",
+        "educacion-superior",
+        "educacion-k12",
+        "capacidades-de-ia",
+        "alucinaciones-de-ia",
+        "integridad-academica",
+        "autorregulacion-del-aprendizaje",
+        "pensamiento-critico"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/shi_2026_llm-education-systrev.pdf",
+      "content": "## Resumen\n\nEsta revisión sistemática sintetiza la evidencia empírica sobre el uso de grandes modelos de lenguaje (LLMs) en educación durante el periodo transformador posterior al lanzamiento de ChatGPT (noviembre de 2022 a marzo de 2025). Siguiendo las guías PRISMA y buscando en Scopus, IEEE Xplore y ACM Digital Library, los autores partieron de 3344 publicaciones y, tras un cribado en varias fases, retuvieron 88 estudios empíricos que aportan evidencia robusta sobre implementaciones reales en aulas de educación formal (K-12 y educación superior). A diferencia de revisiones previas que mezclaban trabajos teóricos y empíricos, esta se centra exclusivamente en evaluaciones empíricas con participantes reales que miden impacto sobre resultados de aprendizaje y enseñanza.\n\nEl análisis organiza las aplicaciones de LLMs en seis categorías funcionales según su propósito pedagógico principal: chatbots, generación de contenido de aprendizaje, evaluación y retroalimentación automatizadas, herramientas de apoyo a tareas, herramientas de apoyo al aprendizaje y sistemas de tutoría inteligente. Estos últimos resultaron los más prominentes, reflejando el desplazamiento del campo desde la evaluación de chatbots simples hacia sistemas sofisticados con capacidades avanzadas de personalización y modelado del aprendiz (estados cognitivos, afectivos y conductuales). La distribución geográfica concentra la producción en China (25,0 %) y Estados Unidos (18,2 %); por dominio dominan Computación/Tecnología (38,6 %, sobre todo programación) y Aprendizaje de Lenguas y Escritura (25,0 %).\n\nEntre los beneficios documentados destacan la mejora del rendimiento académico (el más reportado, n=45), el aumento de la motivación y el engagement (n=34), el desarrollo cognitivo y de habilidades (n=26), la optimización de recursos y la eficiencia de costos (n=16), y la mejora de la accesibilidad (n=13). Los autores anclan estos efectos en marcos pedagógicos establecidos (teoría constructivista, zona de desarrollo próximo de Vygotsky, teoría de la carga cognitiva de Sweller, aprendizaje autorregulado de Zimmerman, aprendizaje activo y el modelo de retroalimentación de Hattie y Timperley).\n\nNo obstante, la revisión identifica preocupaciones críticas: la fiabilidad técnica y las alucinaciones fueron el reto más discutido (n=28), seguido de la sobredependencia de los estudiantes en la IA (n=17), la evolución y equidad de la evaluación (n=8) y la privacidad y seguridad (n=6). Los hallazgos sobre desarrollo cognitivo son mixtos: el beneficio depende del modo de uso (quienes evalúan críticamente y verifican las salidas mejoran; quienes aceptan respuestas sin reflexión pueden ver mermado su pensamiento crítico), lo que motiva un llamado a estudios longitudinales y a estrategias de integración pedagógicamente fundamentadas.\n\n## Contribuciones principales\n\n- Marco analítico de seis categorías de aplicaciones de LLMs en educación, basado exclusivamente en evidencia empírica de implementaciones reales (no en estudios teóricos o conceptuales).\n- Síntesis PRISMA de 88 estudios empíricos seleccionados de 3344 publicaciones, con desgloses por distribución geográfica, dominio disciplinar y nivel educativo.\n- Cuantificación de beneficios reportados y de retos/preocupaciones, ofreciendo una visión basada en evidencia para educadores, investigadores y responsables de política.\n- Identificación de la tutoría inteligente como la aplicación empírica más prominente y de las alucinaciones/fiabilidad técnica como el reto más frecuente.\n\n## Metodología\n\nRevisión sistemática conforme a PRISMA. Búsqueda con operadores booleanos en tres bases (Scopus, IEEE Xplore, ACM Digital Library) combinando términos de contenido educativo, foco tecnológico (LLM/GenAI/ChatGPT) y foco de aplicación (aprendizaje adaptativo/personalizado, sistemas de tutoría inteligente). Criterios de inclusión: artículos revisados por pares en inglés, estudios empíricos con participantes reales en contextos formales K-12 y educación superior, dentro del periodo nov. 2022–mar. 2025. Se excluyeron trabajos no empíricos (marcos teóricos, revisiones, opinión, meta-análisis), contextos no formales y estudios sin componente LLM. Codificación en hojas de cálculo con un codificador principal y verificación colaborativa de un equipo de tres personas mediante adjudicación por consenso para casos ambiguos. El cribado redujo 3344 → 2022 (tras eliminar duplicados y literatura no journal/conferencia) → 1808 (título/abstract) → 88 (texto completo).\n\n## Hallazgos clave\n\n- Las seis categorías de aplicación se ordenan por propósito pedagógico; los sistemas de tutoría inteligente son los más estudiados empíricamente.\n- Distribución geográfica concentrada: China (n=22, 25,0 %) y EE. UU. (n=16, 18,2 %) suman el 43,2 %; Asia es la región más representada (54,5 %).\n- Dominios: Computación/Tecnología (38,6 %, con Programación a la cabeza) y Aprendizaje de Lenguas/Escritura (25,0 %) reúnen el 63,6 %; STEM aporta 18,2 %.\n- Niveles: educación superior 76,1 % (n=67) y K-12 23,9 % (n=21).\n- Beneficios: rendimiento académico (n=45), motivación/engagement (n=34), desarrollo cognitivo y de habilidades (n=26), optimización de recursos (n=16), accesibilidad (n=13). Ejemplos: 20 % de mejora en inglés frente a 1,2 % del grupo control (Feng y Wang); 35 % de aumento en engagement con retroalimentación en tiempo real (Hadyaoui y Cheniti-Belcadhi).\n- Retos: fiabilidad técnica y alucinaciones (n=28), sobredependencia (n=17), evolución/equidad de la evaluación (n=8), privacidad y seguridad (n=6).\n- El efecto sobre el desarrollo cognitivo es ambivalente y depende del uso reflexivo frente a la aceptación acrítica de las salidas de la IA.\n\n## Limitaciones\n\n- La preponderancia del rendimiento académico como beneficio reportado deriva en parte de los propios criterios de inclusión (estudios que miden resultados cuantificables como notas y puntajes).\n- Predominio de estudios transversales/de corto plazo; los autores reclaman investigación longitudinal para esclarecer los efectos sobre el desarrollo cognitivo.\n- Codificación con un único codificador principal (mitigada por verificación por consenso), con cierto margen interpretativo en casos ambiguos.\n- Cobertura acotada a tres bases de datos, a publicaciones en inglés y a contextos de educación formal (se excluyen formación profesional, aprendizaje informal y a lo largo de la vida).\n- Las categorías de aplicación se solapan: muchas herramientas cumplen varias funciones y se clasifican por su propósito principal.\n\n## Notas relacionadas\n\n- [[concepts/revision-sistematica-de-literatura]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/tutoria-con-ia]]\n- [[concepts/retroalimentacion-con-ia]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/educacion-superior]]\n- [[concepts/educacion-k12]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/alucinaciones-de-ia]]\n- [[concepts/integridad-academica]]\n- [[concepts/autorregulacion-del-aprendizaje]]\n- [[concepts/pensamiento-critico]]"
+    },
+    {
       "id": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
       "kind": "paper",
       "label": "Using large language models for solving textbook-style thermodynamic problems",
@@ -8258,6 +8933,34 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa.md",
       "pdf_local": "sources/pdfs/assessment-redesign/teqsa-lodge_2024_evolving-risk-academic-integrity.pdf",
       "content": "## Resumen\n\nDocumento breve de orientación publicado por TEQSA (agencia reguladora de la educación superior australiana) y redactado por Jason M. Lodge (The University of Queensland) en agosto de 2024. Su propósito es ofrecer a instituciones y líderes de enseñanza-aprendizaje un conjunto de medidas que pueden adoptarse de inmediato para mitigar el riesgo que la IA generativa representa para la integridad académica, mientras maduran los rediseños sistémicos de evaluación de más largo plazo.\n\nEl texto parte de dos incertidumbres: la magnitud real del uso inapropiado de herramientas como ChatGPT por parte de los estudiantes (estimaciones que oscilan entre el 10% y más del 60% de las cohortes) y la trayectoria futura de la tecnología (¿crecimiento exponencial o meseta que requiere una revolución técnica?). Ante esa incertidumbre, Lodge sostiene que una postura de \"esperar y ver\" es insuficiente y que se requiere acción a corto plazo complementaria a los planes de reforma de la evaluación (Assessment Reform for the Age of Artificial Intelligence).\n\nEl documento advierte explícitamente contra el regreso a exámenes tradicionales de papel y lápiz como supuesta solución \"a prueba de IA\", pues no capturan el rango completo de conocimientos, habilidades y competencias profesionales que la educación superior busca evaluar. En su lugar, propone un cambio de enfoque clave (atribuido a Cath Ellis): pasar de detectar la trampa a detectar si el aprendizaje realmente ocurrió, alineado con el marco de estándares de educación superior (Sección 1.4.4). Atraviesa todo el texto una preocupación por la equidad: las medidas adoptadas deben considerar su impacto en estudiantes con discapacidad o con acceso limitado a herramientas avanzadas de IA, dado que emergen nuevas brechas digitales.\n\n## Puntos clave\n\n- **Seis pasos inmediatos:** (1) aumentar la conciencia sobre las capacidades reales de la IA generativa; (2) comprender qué es y qué no es la IA generativa —no es como una calculadora, pues la relación humano-máquina es interactiva y no transaccional—; (3) limitar la dependencia de detectores de IA, que son poco fiables y generan falsos positivos (un detector llegó a marcar la Biblia como escrita por ChatGPT); (4) monitorear y revisar los procesos de integridad y mala conducta, favoreciendo enfoques centralizados con especialistas frente a procesos que recaen solo en coordinadores de asignatura; (5) buscar asesoría experta (TEQSA Good Practice Hub, libro de Phillip Dawson); (6) asociarse con los estudiantes como contribuyentes clave.\n- **Seis principios para la acción:** (1) priorizar lo más urgente (p. ej., evaluación de último año, capstones, portafolios finales); (2) conocer a los estudiantes como individuos para detectar inconsistencias y fomentar el aprendizaje relacional; (3) ser transparente sobre el uso de IA mediante marcos explícitos (enfoque de \"dos carriles\" de Sydney, \"multi-carril\" de UNSW, la AI Assessment Scale de Perkins et al.); (4) pedir a los estudiantes que \"muestren su trabajo\" (prompts, resultados, integración); (5) usar conversaciones y evaluación oral interactiva como evidencia del entendimiento; (6) aprender y colaborar con otras instituciones y sectores.\n- Ninguna estrategia es una solución garantizada: los problemas que plantea la IA no tendrán una respuesta única, pero estas tácticas tienden un puente entre las políticas actuales y el rediseño de la evaluación.\n\n## Contexto\n\nEs un documento de política/orientación práctica más que un artículo de investigación. Importa porque proviene del regulador nacional australiano y condensa, en formato accionable, el consenso emergente del sector sobre cómo responder a la IA generativa sin sobrerreaccionar (volviendo a exámenes) ni sub-reaccionar (esperar). Conecta con debates sobre validez y seguridad de la evaluación, fiabilidad de los detectores de IA, equidad educativa y el rediseño institucional de la integridad académica.\n\n## Notas relacionadas\n\n- [[concepts/integridad-academica]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/capacidades-de-ia]]\n- [[concepts/equidad-educativa]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/regulacion-de-ia]]"
+    },
+    {
+      "id": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "kind": "article",
+      "label": "The Dawn of Generative Artificial Intelligence in Chemistry Education",
+      "authors": [
+        "Elizabeth Yuriev, Donald J. Wink, Thomas A. Holme"
+      ],
+      "year": "2024",
+      "venue": "Journal of Chemical Education",
+      "url": "https://doi.org/10.1021/acs.jchemed.4c00836",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "educacion-superior",
+        "integridad-academica",
+        "alfabetizacion-en-ia",
+        "pensamiento-critico",
+        "ingenieria-de-prompts",
+        "personalizacion-del-aprendizaje",
+        "razonamiento-multimodal",
+        "evaluacion-educativa",
+        "adopcion-de-tecnologia"
+      ],
+      "date": "2026-06-28",
+      "path": "notes/articles/2024-08-13_dawn-genai-quimica-educacion.md",
+      "pdf_local": "sources/pdfs/existing-reviews-gapmap/yuriev_2024_catalyst-editorial-genai-chem-ed.pdf",
+      "content": "## Resumen\n\nEditorial del *Journal of Chemical Education* que introduce un número especial virtual dedicado a la irrupción de la inteligencia artificial generativa en la educación química. Los autores —editores asociados de la revista— sitúan la llegada de esta tecnología tras la disrupción de la pandemia de COVID-19, presentándola como un nuevo conjunto de desafíos y oportunidades pedagógicas. Describen cómo, desde inicios de 2023, la revista observó un aumento sostenido de manuscritos, organizados en tres olas superpuestas: reportes iniciales sobre las capacidades (y límites) de la IA generativa; estudios sobre cómo los docentes la usan; y trabajos centrados en las percepciones y prácticas de los estudiantes.\n\nA partir de esta literatura emergente, los autores proponen el marco conceptual **CATALyST**, que estructura la influencia multifacética de la IA generativa en la educación química mediante siete dimensiones: Context (contextos: laboratorios, aulas, evaluación), Applications (aplicaciones: planificación, resolución de problemas en clase, escritura de informes), Technology (avance tecnológico: razonamiento sobre mecanismos orgánicos, multimodalidad), Attitude (actitudes, aceptación y alfabetización en IA), Learning (aprendizaje personalizado y adaptativo vía chatbots), Skills (pensamiento crítico, ingeniería de prompts, alfabetización en IA) y Tasks (tareas como codificación y escritura). Estas dimensiones se agrupan en tres dominios: Control Instruccional, Agencia del Estudiante y Operaciones Cognitivas.\n\nEl editorial reconoce que la integración acelerada de la IA plantea preocupaciones éticas sobre integridad académica, inexactitudes y sesgos en el contenido generado, y riesgos de ciberseguridad. Concluye que el impacto sobre las operaciones cognitivas sigue siendo un área abierta a la exploración, y plantea preguntas emergentes como si la ingeniería de prompts es una habilidad especializada o simplemente una forma refinada de cuestionar.\n\n## Puntos clave\n\n- Propone el marco conceptual **CATALyST** con siete dimensiones (Context, Applications, Technology, Attitude, Learning, Skills, Tasks) agrupadas en tres dominios: Control Instruccional, Agencia del Estudiante y Operaciones Cognitivas.\n- Identifica tres olas de investigación tras la aparición de ChatGPT: capacidades de la IA, uso docente y uso estudiantil.\n- La IA generativa habilita aprendizaje personalizado y adaptativo mediante chatbots curados.\n- Surgen nuevas competencias necesarias: ingeniería de prompts y alfabetización en IA, junto a habilidades genéricas como el pensamiento crítico.\n- Avances tecnológicos relevantes: razonamiento sobre mecanismos de reacción orgánica y capacidad multimodal (manejo de entradas visuales).\n- Riesgos señalados: integridad académica, inexactitudes y sesgos del contenido generado, y ciberseguridad.\n- Transparencia: los autores declaran haber usado IA generativa para lluvia de ideas, edición de texto y diseño de las ilustraciones del marco (DALL·E).\n\n## Contexto\n\nComo editorial introductorio de un número especial, este texto funciona como mapa conceptual del estado temprano de la investigación sobre IA generativa en la enseñanza de la química. El valor del marco CATALyST radica en ofrecer un vocabulario común para clasificar la literatura dispersa, conectando dimensiones técnicas (capacidades, multimodalidad) con dimensiones humanas (actitudes, agencia del estudiante, desarrollo de habilidades). Es relevante para investigaciones sobre adopción de IA en STEM, evaluación educativa ante IA generativa y el debate sobre qué nuevas competencias deben cultivarse en educación superior.\n\n## Notas relacionadas\n\n- [[concepts/inteligencia-artificial]]\n- [[concepts/educacion-superior]]\n- [[concepts/integridad-academica]]\n- [[concepts/alfabetizacion-en-ia]]\n- [[concepts/pensamiento-critico]]\n- [[concepts/ingenieria-de-prompts]]\n- [[concepts/personalizacion-del-aprendizaje]]\n- [[concepts/razonamiento-multimodal]]\n- [[concepts/evaluacion-educativa]]\n- [[concepts/adopcion-de-tecnologia]]"
     },
     {
       "id": "notes/articles/2024-09-29_genai-ciencia-ambiental",
@@ -12326,6 +13029,41 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo",
+      "target": "concepts/analisis-bibliometrico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica",
       "target": "concepts/capacidades-de-ia",
       "kind": "keyword"
@@ -12866,6 +13604,66 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/formacion-docente",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/interdisciplinariedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
+      "target": "concepts/regulacion-de-ia",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-01-01_amp-analisis-estadistico-datos",
       "target": "concepts/ciencia-de-datos",
       "kind": "keyword"
@@ -13346,6 +14144,66 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/creatividad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
+      "target": "concepts/formacion-docente",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
       "target": "concepts/educacion-superior",
       "kind": "keyword"
@@ -13466,6 +14324,66 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/educacion-en-programacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/ingenieria-de-prompts",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/educacion-k12",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
+      "target": "concepts/formacion-docente",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
       "target": "concepts/educacion-en-ingenieria",
       "kind": "keyword"
@@ -13513,6 +14431,56 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
       "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "target": "concepts/educacion-en-programacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "target": "concepts/deteccion-de-texto-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "target": "concepts/ingenieria-de-prompts",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
+      "target": "concepts/adopcion-de-tecnologia",
       "kind": "keyword"
     },
     {
@@ -13631,6 +14599,31 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas",
       "target": "concepts/evaluacion-educativa",
       "kind": "keyword"
@@ -13673,6 +14666,66 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-04-03_gases-malolientes-aguas",
       "target": "concepts/salud-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/psicologia-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/creatividad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
+      "target": "concepts/etica-de-la-ia",
       "kind": "keyword"
     },
     {
@@ -13884,6 +14937,36 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
       "target": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
       "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales",
+      "target": "concepts/ensayo-controlado-aleatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
     },
     {
       "source": "notes/papers/2025-05-15_evaluacion-estructural-genai",
@@ -14256,6 +15339,61 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-22_genai-educacion-ingenieria-scoping",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-22_genai-educacion-ingenieria-scoping",
+      "target": "concepts/educacion-en-ingenieria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-22_genai-educacion-ingenieria-scoping",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-22_genai-educacion-ingenieria-scoping",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-06-22_genai-educacion-ingenieria-scoping",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
       "target": "concepts/educacion-en-ingenieria",
       "kind": "keyword"
@@ -14386,6 +15524,46 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
+      "target": "concepts/motivacion-y-compromiso-estudiantil",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
+      "target": "concepts/psicologia-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-08-29_soundscapes-sostenibilidad",
       "target": "concepts/percepcion-multisensorial",
       "kind": "keyword"
@@ -14409,6 +15587,56 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2025-08-29_soundscapes-sostenibilidad",
       "target": "notes/papers/2024-05-15_sound-of-freshness-perfumeria",
       "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "target": "concepts/STEM",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "target": "concepts/taxonomia-de-bloom",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "target": "concepts/ingenieria-de-sistemas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
     },
     {
       "source": "notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai",
@@ -14711,6 +15939,61 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/educacion-k12",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/formacion-docente",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
+      "target": "concepts/descubrimiento-cientifico",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
       "target": "concepts/inteligencia-artificial",
       "kind": "keyword"
@@ -14883,6 +16166,56 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia",
       "target": "concepts/equidad-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "target": "concepts/procesamiento-de-lenguaje-natural",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "target": "concepts/equidad-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
+      "target": "concepts/ciencia-de-datos",
       "kind": "keyword"
     },
     {
@@ -15941,6 +17274,56 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "target": "concepts/creatividad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
+      "target": "concepts/ingenieria-de-prompts",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
       "target": "concepts/capacidades-de-ia",
       "kind": "keyword"
@@ -16308,6 +17691,66 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2026-04-27_assess-ai-literacy-misalignment",
       "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/publicacion-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/deteccion-de-texto-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/regulacion-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
+      "target": "concepts/equidad-educativa",
       "kind": "keyword"
     },
     {
@@ -16871,6 +18314,266 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/regulacion-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria",
+      "target": "concepts/ingenieria-de-prompts",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria",
+      "target": "concepts/analisis-bibliometrico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "target": "concepts/etica-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "target": "concepts/regulacion-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_genai-educacion-superior-revision",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/educacion-k12",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
       "target": "concepts/capacidades-de-ia",
       "kind": "keyword"
@@ -17138,6 +18841,56 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa",
       "target": "concepts/regulacion-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "target": "concepts/ingenieria-de-prompts",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "target": "concepts/personalizacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "target": "concepts/razonamiento-multimodal",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
+      "target": "concepts/adopcion-de-tecnologia",
       "kind": "keyword"
     },
     {

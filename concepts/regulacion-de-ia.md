@@ -31,3 +31,7 @@ Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso d
 - [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]
 - [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]
 - [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]
+- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]
+- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]
+- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]
+- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]
