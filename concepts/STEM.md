@@ -26,3 +26,6 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]
 - [[notes/papers/2026-06-28_stem-faculty-evaluacion-genai]]
 - [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]
+- [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]
+- [[notes/papers/2026-06-28_chatgpt-pregrado-resultados-aprendizaje-metaanalisis]]
+- [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]

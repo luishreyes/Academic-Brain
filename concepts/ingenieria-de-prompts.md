@@ -22,3 +22,5 @@ Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LL
 - [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]
 - [[notes/papers/2025-08-28_i-tpack-marco-alfabetizacion-ia-docente]]
 - [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]
+- [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]
+- [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]

@@ -76,3 +76,5 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
 - [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]
 - [[notes/papers/2023-11-01_assessment-reform-era-ia]]
+- [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]
+- [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]

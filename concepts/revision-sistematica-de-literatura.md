@@ -47,3 +47,8 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2025-04-23_marco-competencia-ia-pedagogica-docentes]]
 - [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]
 - [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]
+- [[notes/papers/2026-06-28_chatgpt-pregrado-resultados-aprendizaje-metaanalisis]]
+- [[notes/papers/2025-11-03_riesgos-llm-educacion-revision-sistematica]]
+- [[notes/papers/2025-10-01_llm-cualificacion-socializacion-subjetivacion-metaanalisis]]
+- [[notes/papers/2025-05-06_retractado-chatgpt-rendimiento-metaanalisis]]
+- [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]

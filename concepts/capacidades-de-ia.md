@@ -59,3 +59,5 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 - [[notes/papers/2026-01-16_evaluacion-detectores-ia-contextos-academicos]]
 - [[notes/papers/2023-06-28_testing-detection-tools-ai-text]]
 - [[notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico]]
+- [[notes/papers/2026-06-28_chatgpt-pregrado-resultados-aprendizaje-metaanalisis]]
+- [[notes/papers/2025-05-06_retractado-chatgpt-rendimiento-metaanalisis]]

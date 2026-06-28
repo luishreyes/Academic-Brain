@@ -24,3 +24,5 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la p
 - [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]
 - [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]
 - [[notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico]]
+- [[notes/papers/2024-05-13_impacto-llm-educacion-programacion]]
+- [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]

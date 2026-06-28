@@ -36,3 +36,6 @@ Conjunto de metodologías pedagógicas en que el estudiante participa activament
 - [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]
 - [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]
 - [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]
+- [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]
+- [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]
+- [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]

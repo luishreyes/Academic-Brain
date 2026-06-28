@@ -93,3 +93,5 @@ Estudio de los principios morales que deben guiar el diseño y comportamiento de
 - [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]
 - [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]
 - [[notes/papers/2023-11-01_assessment-reform-era-ia]]
+- [[notes/papers/2025-11-03_riesgos-llm-educacion-revision-sistematica]]
+- [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]

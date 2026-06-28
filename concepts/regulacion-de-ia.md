@@ -41,3 +41,4 @@ Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso d
 - [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]
 - [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]
 - [[notes/papers/2023-11-01_assessment-reform-era-ia]]
+- [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]

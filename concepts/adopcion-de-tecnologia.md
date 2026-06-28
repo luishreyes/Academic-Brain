@@ -45,3 +45,4 @@ Procesos por los cuales individuos, organizaciones o comunidades incorporan nuev
 - [[notes/papers/2026-06-28_ai-tpack-vocational]]
 - [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]
 - [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]
+- [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]

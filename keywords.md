@@ -67,6 +67,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ciencia-de-datos** — Campo interdisciplinario que combina estadística, programación y dominio de conocimiento para extraer información y valor de conjuntos de datos; incluye machine learning, visualización, inferencia bayesiana y análisis de texto. _Aliases: data science, análisis de datos, estadística aplicada, data analytics_
 
+**confianza-en-la-ia** — Actitud de creer que un agente de IA ayudará a alcanzar los objetivos del usuario en situaciones de incertidumbre; predice la adopción y el uso rutinario de la IA y, vía sesgo de automatización, puede derivar en la aceptación acrítica de sus salidas. _Aliases: trust in AI, confianza en IA, AI trust, automation bias, sesgo de automatización_
+
 **ciencia-y-sociedad** — Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad. _Aliases: ciencia en contexto, estudios sociales de la ciencia, STS_
 
 **cultura-organizacional** — Conjunto de valores, normas, rituales y creencias compartidas que definen cómo funciona una organización; incluye su relación con el rendimiento, la innovación y la adopción de sistemas de gestión como los OKR. _Aliases: organizational culture, cultura corporativa, corporate culture, culture change_
@@ -92,6 +94,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **diseno-universal-para-el-aprendizaje** — Marco pedagógico (Universal Design for Learning, UDL) que promueve entornos de aprendizaje flexibles e inclusivos para la diversidad de estudiantes mediante tres principios: múltiples medios de compromiso, de representación y de acción y expresión. _Aliases: Universal Design for Learning, UDL, diseño universal para el aprendizaje_
 
 **desarrollo-de-farmacos** — Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos. _Aliases: drug discovery, drug development, descubrimiento de fármacos_
+
+**descarga-cognitiva** — Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integración de información) a apoyos externos —herramientas, dispositivos o IA— en lugar de ejecutarlo internamente; en contextos de aprendizaje puede saltarse procesos mentales integrales a la formación de conocimiento (cognitive offloading, deuda cognitiva). _Aliases: cognitive offloading, descarga cognitiva, deuda cognitiva, cognitive debt, efecto Google_
 
 ## E
 
@@ -258,11 +262,13 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## S
 
-**sesgo-cognitivo**
+**sesgo-cognitivo** — Patrones sistemáticos de desviación del razonamiento racional debidos a heurísticas y limitaciones cognitivas humanas; incluye sesgos como disponibilidad, anclaje, representatividad y sesgo de supervivencia. _Aliases: cognitive bias, heurísticas cognitivas, bias cognitivo, behavioral economics, economía conductual_
+
+**simulacion-computacional** — Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores. _Aliases: CFD, computational simulation, computational fluid dynamics, process simulation, modelado de procesos_
+
+**sobredependencia-de-la-ia** — Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario acepta sus salidas sin verificarlas y delega en exceso el esfuerzo propio; se asocia con erosión de habilidades, pérdida de agencia y aprendizaje superficial (over-reliance). _Aliases: over-reliance on AI, sobredependencia de la IA, AI over-reliance, dependencia de la IA, automation bias, sesgo de automatización_
 
 **sostenibilidad** — Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social. _Aliases: sustainability, desarrollo sostenible, sustainable development goals, SDGs, campus sostenible, sostenibilidad universitaria_
-
-**simulacion-computacional** — Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores. _Aliases: CFD, computational simulation, computational fluid dynamics, process simulation, modelado de procesos_ — Patrones sistemáticos de desviación del razonamiento racional debidos a heurísticas y limitaciones cognitivas humanas; incluye sesgos como disponibilidad, anclaje, representatividad y sesgo de supervivencia. _Aliases: cognitive bias, heurísticas cognitivas, bias cognitivo, behavioral economics, economía conductual_
 
 **salud-y-sociedad** — Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos. _Aliases: social determinants of health, determinantes sociales de la salud, health and society, medicina social_
 
