@@ -54,3 +54,8 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]
 - [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]
 - [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]
+- [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
+- [[notes/papers/2026-01-01_genai-brecha-digital-educacion-superior]]
+- [[notes/papers/2025-01-01_sustainable-genai-carbon-scoping]]
+- [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
+- [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]

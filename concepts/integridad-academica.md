@@ -101,3 +101,6 @@ Principios éticos y normas institucionales que regulan el comportamiento honest
 - [[notes/papers/2026-06-28_percepciones-estudiantes-genai-ingenieria]]
 - [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]
 - [[notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial]]
+- [[notes/papers/2025-07-09_genai-divide-estudiantes-universitarios]]
+- [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]
+- [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]

@@ -22,3 +22,6 @@ Teoría y métodos de construcción, validación y análisis de instrumentos de 
 - [[notes/papers/2026-06-28_taics-escala-competencia-ia-docente]]
 - [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]
 - [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]
+- [[notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global]]
+- [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]
+- [[notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe]]

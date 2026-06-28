@@ -120,3 +120,4 @@ Disciplina que aplica principios de química, física y matemáticas para diseñ
 - [[notes/articles/2025-01-01_icheme-codigo-conducta-etica]]
 - [[notes/articles/2026-06-08_ai-coming-for-your-job]]
 - [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]
+- [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]

@@ -17,3 +17,4 @@ Campo de la IA que permite a las máquinas analizar, interpretar y generar lengu
 - [[notes/papers/2026-03-26_sesgo-detectores-gpt-no-nativos-checo]]
 - [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]
 - [[notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva]]
+- [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]

@@ -14,3 +14,4 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de leng
 - [[notes/papers/2026-01-16_evaluacion-detectores-ia-contextos-academicos]]
 - [[notes/papers/2026-03-26_sesgo-detectores-gpt-no-nativos-checo]]
 - [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]
+- [[notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global]]

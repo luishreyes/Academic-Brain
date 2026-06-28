@@ -42,3 +42,5 @@ Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y p
 - [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]
 - [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]
 - [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]
+- [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
+- [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]

@@ -35,3 +35,5 @@ Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso
 - [[notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje]]
 - [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]
 - [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]
+- [[notes/papers/2026-06-28_deskilling-reskilling-upskilling-ia-generativa]]
+- [[notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe]]

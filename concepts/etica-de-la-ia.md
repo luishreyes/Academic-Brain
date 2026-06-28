@@ -106,3 +106,8 @@ Estudio de los principios morales que deben guiar el diseño y comportamiento de
 - [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]
 - [[notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial]]
 - [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]]
+- [[notes/articles/2024-07-18_asce-ps573-ia-responsabilidad-ingenieria]]
+- [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
+- [[notes/papers/2025-07-16_ai-skills-empleabilidad-egresados]]
+- [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]
+- [[notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes]]

@@ -57,3 +57,6 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la i
 - [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]
 - [[notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial]]
 - [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]]
+- [[notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria]]
+- [[notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes]]
+- [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]

@@ -12,3 +12,6 @@ Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integraci
 - [[notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva]]
 - [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]
 - [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]
+- [[notes/papers/2026-06-28_deskilling-reskilling-upskilling-ia-generativa]]
+- [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
+- [[notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe]]
