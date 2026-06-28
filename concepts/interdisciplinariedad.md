@@ -24,3 +24,4 @@ Integración de métodos, conceptos y perspectivas de distintas disciplinas para
 - [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]
 - [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]
 - [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]
+- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]

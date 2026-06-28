@@ -12,3 +12,4 @@ Diseño experimental en que los participantes son asignados aleatoriamente a con
 - [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]
 - [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]
 - [[notes/books/2024-01-01_blind-spots-makary]]
+- [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]

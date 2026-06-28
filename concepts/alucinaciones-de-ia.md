@@ -51,3 +51,6 @@ Fenómeno en que sistemas de IA generan información incorrecta o fabricada pres
 - [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]
 - [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]
 - [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]
+- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]
+- [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]
+- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]

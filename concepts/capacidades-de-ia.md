@@ -55,3 +55,4 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 - [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]
 - [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]
 - [[notes/papers/2026-06-27_llm-automatizan-hazop]]
+- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]

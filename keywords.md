@@ -19,6 +19,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **agentes-de-ia** — Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows). _Aliases: AI agents, sistemas multi-agente, AI scientist_
 
+**analisis-bibliometrico** — Método cuantitativo de mapeo de la literatura científica que analiza patrones de publicación, redes de coautoría, co-ocurrencia de palabras clave y estructuras de citación para revelar la estructura intelectual y la evolución temática de un campo. _Aliases: bibliometric analysis, bibliometría, bibliometric mapping, scientometrics, cienciometría, VOSviewer_
+
 **alfabetizacion-en-ia** — Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación. _Aliases: AI literacy, AI competency, competencias en IA, literacia en IA_
 
 **alineamiento-de-ia** — Conjunto de técnicas y objetivos orientados a que los sistemas de IA persigan los valores, intenciones y normas previstos por sus diseñadores; incluye enfoques como el constitucionalismo de IA (reglas y principios incrustados en el modelo). _Aliases: AI alignment, alineación de IA, IA constitucional, constitutional AI_
@@ -189,6 +191,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **medicina-basada-en-evidencia**
 
 **metabolitos-secundarios** — Compuestos producidos por microorganismos que no son esenciales para el crecimiento celular pero tienen valor industrial, farmacéutico o nutricional; incluye terpenoides, alcaloides, policétidos, carotenoides e isoprenoides. _Aliases: secondary metabolites, natural products, productos naturales, terpenoids, isoprenoids, carotenoids_
+
+**motivacion-y-compromiso-estudiantil** — Energía, impulso y conductas que sostienen la participación, el esfuerzo y la persistencia del estudiante en el aprendizaje; el compromiso (engagement) es multidimensional (cognitivo, conductual, emocional y de agencia) y se distingue de los resultados de aprendizaje. _Aliases: student motivation and engagement, learning engagement, motivación estudiantil, compromiso del estudiante_
 
 **modelado-molecular** — Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas. _Aliases: molecular modeling, molecular mechanics, molecular dynamics, MD simulation, force field, campo de fuerzas_ — Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio. _Aliases: evidence-based medicine, EBM, medicina basada en evidencias_
 
