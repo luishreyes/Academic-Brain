@@ -59,3 +59,7 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2025-01-01_sustainable-genai-carbon-scoping]]
 - [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
 - [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]
+- [[notes/articles/2026-01-01_evidence-base-ia-k12-review]]
+- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]
+- [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]
+- [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]

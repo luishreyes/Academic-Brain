@@ -17,3 +17,4 @@ Uso de métodos computacionales (mecánica cuántica, mecánica molecular, diná
 - [[notes/papers/2021-03-12_data-science-ciencia-molecular]]
 - [[notes/papers/2024-05-09_genai-process-systems-engineering]]
 - [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]
+- [[notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai]]

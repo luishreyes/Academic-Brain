@@ -19,3 +19,4 @@ Representación computacional de estructuras moleculares y sus interacciones med
 - [[notes/papers/2021-03-12_data-science-ciencia-molecular]]
 - [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]
 - [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]
+- [[notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai]]

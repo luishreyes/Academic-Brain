@@ -11,3 +11,4 @@ Capacidad de los modelos de IA para integrar y razonar sobre múltiples modalida
 ## Notas que usan este concepto
 - [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]
 - [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]
+- [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]

@@ -60,3 +60,4 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la i
 - [[notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria]]
 - [[notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes]]
 - [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]
+- [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]

@@ -29,3 +29,7 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la p
 - [[notes/articles/2025-01-01_abet-cac-criterios-computacion-ia-ml]]
 - [[notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision]]
 - [[notes/papers/2026-03-06_responsible-genai-se-education]]
+- [[notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai]]
+- [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]
+- [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
+- [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]

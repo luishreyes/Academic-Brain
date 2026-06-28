@@ -11,3 +11,4 @@ Rama de la ingeniería química y la física que estudia la energía, el calor, 
 ## Notas que usan este concepto
 - [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]
 - [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]
+- [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]

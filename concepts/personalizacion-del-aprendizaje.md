@@ -40,3 +40,7 @@ Adaptación de contenidos, ritmo e instrucción a las características, necesida
 - [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]
 - [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]
 - [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
+- [[notes/papers/2026-06-28_revision-srl-seis-modelos]]
+- [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
+- [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]
+- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]

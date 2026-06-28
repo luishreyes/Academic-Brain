@@ -16,3 +16,7 @@ Diseño experimental en que los participantes son asignados aleatoriamente a con
 - [[notes/papers/2024-05-13_impacto-llm-educacion-programacion]]
 - [[notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje]]
 - [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]
+- [[notes/articles/2026-01-01_evidence-base-ia-k12-review]]
+- [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]
+- [[notes/papers/2025-04-19_metacognitive-support-srl-genai]]
+- [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]
