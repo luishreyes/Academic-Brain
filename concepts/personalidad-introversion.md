@@ -10,3 +10,4 @@ Dimensión del temperamento caracterizada por la preferencia por entornos de baj
 
 ## Notas que usan este concepto
 - [[notes/books/2012-01-23_quiet-susan-cain]]
+- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]

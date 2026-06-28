@@ -49,3 +49,8 @@ Conjunto de competencias necesarias para comprender, evaluar críticamente y usa
 - [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]
 - [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]
 - [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]
+- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]
+- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]
+- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]
+- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]
+- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]

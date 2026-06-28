@@ -5,7 +5,7 @@ year: 2024
 journal: Chemistry (MDPI)
 url: https://doi.org/10.3390/chemistry6040043
 doi: 10.3390/chemistry6040043
-pdf_local: sources/pdfs/capability-reliability/vidhani_2024_human-ai-prompt-engineering-chemistry.pdf
+pdf_local: sources/pdfs/capability-reliability/vidhani_2024_human-ai-ingenieria-de-prompts-chemistry.pdf
 type: paper
 keywords: [inteligencia-artificial, alucinaciones-de-ia, capacidades-de-ia, supervision-humana, ingenieria-quimica, educacion-superior, evaluacion-educativa, STEM]
 date_added: 2026-06-27

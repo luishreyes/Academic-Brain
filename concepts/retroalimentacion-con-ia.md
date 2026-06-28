@@ -14,3 +14,8 @@ Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y p
 - [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]
 - [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]
 - [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]
+- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]
+- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]
+- [[notes/papers/2026-06-27_capchat-genai-capstone]]
+- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]
+- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]

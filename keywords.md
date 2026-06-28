@@ -27,6 +27,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **aprendizaje-activo** — Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real. _Aliases: active learning, pedagogía activa_
 
+**aprendizaje-en-contexto** — Capacidad de un LLM para aprender una tarea a partir de ejemplos provistos en el prompt, sin actualizar sus pesos; base del few-shot prompting. _Aliases: in-context learning, ICL, few-shot learning, aprendizaje en contexto_
+
 **adopcion-de-tecnologia** — Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica. _Aliases: technology adoption, diffusion of innovations, difusión de innovaciones, adopción tecnológica, technological practices_
 
 ## B
@@ -156,6 +158,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ingenieria-de-alimentos** — Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios. _Aliases: food engineering, food science, ciencia de alimentos, food technology, tecnología de alimentos_
 
+**ingenieria-de-prompts** — Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LLM para obtener respuestas precisas y útiles; incluye estrategias como zero/few-shot, chain-of-thought y plantillas estructuradas. _Aliases: prompt engineering, ingeniería de prompts, prompting, chain-of-thought, few-shot prompting_
+
+**ingenieria-de-sistemas** — Enfoque para diseñar y analizar sistemas complejos sociotécnicos considerando componentes, interacciones y propiedades emergentes; incluye la teoría de sistemas aplicada a la seguridad (STAMP/STPA) y la ingeniería de sistemas de procesos. _Aliases: systems engineering, systems theory, STAMP, pensamiento sistémico, process systems engineering_
+
 **ingenieria-metabolica** — Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida. _Aliases: metabolic engineering, strain engineering, biocatalyst engineering, cell factory, ingeniería de cepas_
 
 **ingenieria-quimica** — Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial. _Aliases: chemical engineering, biochemical engineering, proceso industrial, ingeniería de procesos_ — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
@@ -218,6 +224,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **percepcion-multisensorial** — Estudio de cómo los sentidos interactúan e integran información; incluye las correspondencias crossmodales (p. ej., entre sonido y sabor o aroma), la percepción del sabor como fenómeno multisensorial y sus bases psicofísicas. _Aliases: multisensory perception, crossmodal correspondences, correspondencias crossmodales, percepción crossmodal, sensory perception_
 
+**procesamiento-de-lenguaje-natural** — Campo de la IA que permite a las máquinas analizar, interpretar y generar lenguaje humano; incluye embeddings (BERT, Word2Vec, TF-IDF), clasificación y clustering de texto, y modelos de lenguaje. _Aliases: natural language processing, NLP, PLN, word embeddings, BERT, text embeddings_
+
 **psicologia-educativa** — Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas. _Aliases: educational psychology, psicología del aprendizaje_
 
 **psicometria** — Teoría y métodos de construcción, validación y análisis de instrumentos de medición psicológica y educativa; incluye fiabilidad, validez, análisis factorial (exploratorio/confirmatorio) y modelos de ecuaciones estructurales para el desarrollo de escalas. _Aliases: psychometrics, psicometría, factor analysis, análisis factorial, scale validation, validación de escalas, CFA, EFA, structural equation modeling_
@@ -231,6 +239,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## R
 
 **razonamiento-cuantitativo-llm** — Capacidad de los grandes modelos de lenguaje para resolver problemas matemáticos, aritméticos y de cálculo cuantitativo; incluye benchmarks de razonamiento numérico, exactitud computacional y la brecha entre fluidez lingüística y precisión numérica. _Aliases: LLM mathematical reasoning, quantitative reasoning, numerical reasoning, math benchmarks for LLMs_
+
+**razonamiento-multimodal** — Capacidad de los modelos de IA para integrar y razonar sobre múltiples modalidades (texto, imágenes, diagramas, fórmulas); incluye la interpretación de figuras científicas, diagramas de proceso y notación matemática. _Aliases: multimodal reasoning, multimodal LLM, razonamiento multimodal, vision-language models_
 
 **regulacion-de-ia** — Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA. _Aliases: AI regulation, gobernanza de IA, AI policy, AI governance_
 
@@ -250,6 +260,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **seguridad-de-ia** — Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de IA, como evadir la supervisión, engañar a usuarios o actuar fuera del control previsto. _Aliases: AI safety, seguridad de la inteligencia artificial_
 
+**seguridad-de-procesos** — Disciplina de la ingeniería química dedicada a prevenir incidentes en plantas de proceso mediante el análisis sistemático de peligros y operabilidad; incluye HAZOP, STPA, análisis de peligros de proceso (PHA), análisis cuantitativo de riesgo (QRA) y diseño inherentemente más seguro. _Aliases: process safety, process hazard analysis, PHA, HAZOP, STPA, hazard analysis, análisis de peligros, QRA, inherently safer design_
+
 **supervision-humana** — La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético. _Aliases: human-in-the-loop, human oversight, control humano_
 
 **STEM** — Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.
@@ -259,6 +271,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **trauma-y-salud** — Estudio del impacto del trauma psicológico —especialmente el trauma temprano y el trauma complejo— sobre la salud física y mental; incluye la neurobiología del estrés crónico, la epigenética del trauma y los enfoques de atención informada en trauma. _Aliases: trauma and health, trauma-informed care, trauma complejo, adverse childhood experiences, ACEs, psiconeuroinmunología_
 
 **taxonomia-de-bloom** — Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, analizar, evaluar, crear) usado para diseñar currículo y evaluación, y para mapear la complejidad cognitiva de tareas; sirve de referencia para evaluar el razonamiento de la IA frente a la progresión cognitiva humana. _Aliases: Bloom's taxonomy, taxonomía de Bloom, niveles cognitivos_
+
+**termodinamica** — Rama de la ingeniería química y la física que estudia la energía, el calor, el trabajo y el equilibrio de fases; asignatura núcleo de la ingeniería química usada como dominio de prueba para evaluar el razonamiento de los LLMs. _Aliases: thermodynamics, termodinámica, equilibrio de fases, phase equilibrium_
 
 **tecnocracia** — Modelo de gobernanza y organización social en que el conocimiento técnico-científico tiene primacía sobre otros saberes en la toma de decisiones políticas y económicas.
 

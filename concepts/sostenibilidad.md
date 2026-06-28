@@ -28,3 +28,5 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
 - [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]
 - [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]
+- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]
+- [[notes/papers/2026-06-27_capchat-genai-capstone]]

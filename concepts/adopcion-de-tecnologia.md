@@ -20,3 +20,7 @@ Procesos por los cuales individuos, organizaciones o comunidades incorporan nuev
 - [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]
 - [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]
 - [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]
+- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]
+- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]
+- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]
+- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]

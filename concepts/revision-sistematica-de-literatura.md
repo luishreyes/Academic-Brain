@@ -21,3 +21,5 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]
 - [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]
 - [[notes/papers/2024-05-09_genai-process-systems-engineering]]
+- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]
+- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]

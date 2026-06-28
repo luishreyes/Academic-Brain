@@ -19,3 +19,4 @@ Adaptación de contenidos, ritmo e instrucción a las características, necesida
 - [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]
 - [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]
 - [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]
+- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]

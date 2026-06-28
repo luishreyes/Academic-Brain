@@ -11,3 +11,5 @@ Estructuras de datos que representan entidades como nodos y sus relaciones como 
 ## Notas que usan este concepto
 - [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]
 - [[notes/papers/2025-07-06_talking-like-pids]]
+- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]
+- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]

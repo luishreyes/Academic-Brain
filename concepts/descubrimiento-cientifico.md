@@ -16,3 +16,5 @@ El proceso de generación de nuevo conocimiento científico: formulación de hip
 - [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]
 - [[notes/papers/2025-06-06_genai-catalisis-revision]]
 - [[notes/papers/2021-03-12_data-science-ciencia-molecular]]
+- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]
+- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]
