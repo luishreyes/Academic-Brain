@@ -24,3 +24,4 @@ Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LL
 - [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]
 - [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]
 - [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]
+- [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]

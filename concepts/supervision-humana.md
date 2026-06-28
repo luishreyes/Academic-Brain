@@ -88,3 +88,6 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/articles/2026-06-08_ai-coming-for-your-job]]
 - [[notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial]]
 - [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]]
+- [[notes/articles/2024-07-18_asce-ps573-ia-responsabilidad-ingenieria]]
+- [[notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes]]
+- [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]

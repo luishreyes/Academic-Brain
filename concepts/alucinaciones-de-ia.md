@@ -59,3 +59,5 @@ Fenómeno en que sistemas de IA generan información incorrecta o fabricada pres
 - [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]
 - [[notes/papers/2025-11-03_riesgos-llm-educacion-revision-sistematica]]
 - [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]
+- [[notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria]]
+- [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]

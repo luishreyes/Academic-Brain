@@ -120,3 +120,7 @@ Diseño, validez y mecanismos de evaluación del aprendizaje en educación super
 - [[notes/articles/2024-10-25_abet-eac-criterios-acreditacion-ingenieria-2025-2026]]
 - [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]
 - [[notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial]]
+- [[notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria]]
+- [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
+- [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]
+- [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]

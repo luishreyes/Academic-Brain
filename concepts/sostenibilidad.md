@@ -36,3 +36,6 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria]]
 - [[notes/articles/2024-10-25_abet-eac-criterios-acreditacion-ingenieria-2025-2026]]
 - [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]
+- [[notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global]]
+- [[notes/papers/2025-01-01_sustainable-genai-carbon-scoping]]
+- [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]

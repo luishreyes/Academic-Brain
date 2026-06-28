@@ -62,3 +62,7 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 - [[notes/papers/2026-06-28_chatgpt-pregrado-resultados-aprendizaje-metaanalisis]]
 - [[notes/papers/2025-05-06_retractado-chatgpt-rendimiento-metaanalisis]]
 - [[notes/articles/2026-06-08_ai-coming-for-your-job]]
+- [[notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria]]
+- [[notes/papers/2025-01-01_sustainable-genai-carbon-scoping]]
+- [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]
+- [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]

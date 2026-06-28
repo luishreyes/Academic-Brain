@@ -37,7 +37,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## B
 
-**bienestar-academico**
+**bienestar-academico** — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
+
+**brecha-digital** — Desigualdades en el acceso, la conectividad, las competencias y los beneficios derivados de las tecnologías digitales —y, de forma emergente, de la IA generativa (la "brecha de IA" o GenAI divide)— entre individuos, grupos y países según factores socioeconómicos, geográficos, de género y de recursos. _Aliases: digital divide, brecha digital, AI divide, brecha de IA, GenAI divide, digital inequality, desigualdad digital_
 
 **biomateriales** — Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas. _Aliases: biomaterials, hydrogels, scaffolds, encapsulation, drug delivery materials_
 
@@ -51,7 +53,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **biomasa-lignocelulosica** — Material vegetal compuesto de celulosa, hemicelulosa y lignina que puede convertirse en biocombustibles y productos químicos; su conversión requiere superar la recalcitrancia de la lignina mediante pretratamiento biológico, químico o físico. _Aliases: lignocellulosic biomass, lignocellulose, biomass conversion, biorefinery, cellulose, lignin degradation_
 
-**bioquimica-computacional** — Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora. _Aliases: computational biochemistry, computational biology, bioquímica teórica, protein simulation_ — Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación. _Aliases: biofuels, biobutanol, n-butanol, bioethanol, combustibles renovables_ — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
+**bioquimica-computacional** — Aplicación de métodos computacionales al estudio de moléculas biológicas (proteínas, péptidos, ácidos nucleicos, lípidos); incluye simulaciones de dinámica molecular de biomoléculas y diseño asistido por computadora. _Aliases: computational biochemistry, computational biology, bioquímica teórica, protein simulation_
 
 ## C
 
@@ -160,6 +162,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **historia-de-la-innovacion** — Estudio histórico de cómo las innovaciones tecnológicas, científicas y sociales se desarrollaron y difundieron; examina patrones de invención incremental, resistencia institucional y atribución colectiva de la autoría. _Aliases: history of innovation, history of technology, historia de la tecnología_
 
+**huella-ambiental-de-la-ia** — Impactos ambientales de los sistemas de IA a lo largo de su ciclo de vida (entrenamiento, inferencia e infraestructura): consumo energético, emisiones de carbono, uso de agua y recursos; incluye métodos de medición (estimación por modelos, sensores, LCA), métricas (energía por inferencia/token, PUE) y su gobernanza. _Aliases: AI environmental footprint, huella de carbono de la IA, AI carbon footprint, energy and water footprint, sostenibilidad de la IA, green AI_
 **humanidades** — Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos. _Aliases: ciencias humanas, artes y humanidades_
 
 ## I
@@ -222,6 +225,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **pensamiento-critico-medico**
 
+**profesion-de-la-ingenieria** — Ejercicio profesional regulado de la ingeniería: licenciamiento (Professional Engineer), responsabilidad y rendición de cuentas del ingeniero sobre el proyecto, y deber de proteger la salud, la seguridad y el bienestar públicos; se distingue de la educación en ingeniería. _Aliases: engineering profession, professional engineering, licensed professional engineer, PE, professional responsibility, responsabilidad profesional_
 **petroleo-y-gas** — Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de hidrocarburos; incluye flujos multifásicos, emulsiones de crudo, demulsificación, reología de crudos pesados y técnicas de recuperación mejorada. _Aliases: oil and gas, petroleum engineering, crudo pesado, heavy crude oil, demulsification_
 
 **proteinas-recombinantes** — Proteínas producidas mediante expresión de genes heterólogos en sistemas hospederos como E. coli, levaduras o células de mamífero; incluye enzimas terapéuticas, anticuerpos monoclonales y biosimilares para uso médico o industrial. _Aliases: recombinant proteins, biopharmaceuticals, therapeutic proteins, protein expression, enzyme production_
@@ -276,6 +280,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **seguridad-de-ia** — Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de IA, como evadir la supervisión, engañar a usuarios o actuar fuera del control previsto. _Aliases: AI safety, seguridad de la inteligencia artificial_
 
+**sesgo-algoritmico** — Reproducción y amplificación sistemática de desigualdades por parte de sistemas algorítmicos y de IA (sesgos demográficos, geográficos, de género o de representación), y el estudio de la equidad (fairness) para medirlos y mitigarlos; incluye auditoría de algoritmos y definiciones formales de justicia. _Aliases: algorithmic bias, sesgo algorítmico, AI bias, algorithmic fairness, equidad algorítmica, fairness en IA, geographic bias, place bias_
 **seguridad-de-procesos** — Disciplina de la ingeniería química dedicada a prevenir incidentes en plantas de proceso mediante el análisis sistemático de peligros y operabilidad; incluye HAZOP, STPA, análisis de peligros de proceso (PHA), análisis cuantitativo de riesgo (QRA) y diseño inherentemente más seguro. _Aliases: process safety, process hazard analysis, PHA, HAZOP, STPA, hazard analysis, análisis de peligros, QRA, inherently safer design_
 
 **supervision-humana** — La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético. _Aliases: human-in-the-loop, human oversight, control humano_

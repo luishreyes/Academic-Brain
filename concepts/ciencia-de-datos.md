@@ -22,3 +22,4 @@ Campo interdisciplinario que combina estadística, programación y dominio de co
 - [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]
 - [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]
 - [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
+- [[notes/papers/2025-05-22_brecha-digital-ia-generativa-espana]]
