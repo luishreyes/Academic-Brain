@@ -33,3 +33,7 @@ Adaptación de contenidos, ritmo e instrucción a las características, necesida
 - [[notes/papers/2026-06-28_genai-faculty-development-hpe]]
 - [[notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack]]
 - [[notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad]]
+- [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]
+- [[notes/papers/2025-10-01_llm-cualificacion-socializacion-subjetivacion-metaanalisis]]
+- [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]
+- [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]

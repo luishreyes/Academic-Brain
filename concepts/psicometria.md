@@ -20,3 +20,5 @@ Teoría y métodos de construcción, validación y análisis de instrumentos de 
 - [[notes/papers/2026-06-28_ai-tpack-vocational]]
 - [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]
 - [[notes/papers/2026-06-28_taics-escala-competencia-ia-docente]]
+- [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]
+- [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]

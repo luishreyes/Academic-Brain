@@ -23,3 +23,4 @@ Capacidad de generar ideas novedosas, variadas y de alta calidad en la resoluci√
 - [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]
 - [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]
 - [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]
+- [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]

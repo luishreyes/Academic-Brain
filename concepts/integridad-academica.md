@@ -89,3 +89,7 @@ Principios éticos y normas institucionales que regulan el comportamiento honest
 - [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]
 - [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]
 - [[notes/papers/2023-11-01_assessment-reform-era-ia]]
+- [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]
+- [[notes/papers/2024-05-13_impacto-llm-educacion-programacion]]
+- [[notes/papers/2026-06-28_chatgpt-pregrado-resultados-aprendizaje-metaanalisis]]
+- [[notes/papers/2025-11-03_riesgos-llm-educacion-revision-sistematica]]

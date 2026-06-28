@@ -10,3 +10,4 @@ Marco pedagógico (Universal Design for Learning, UDL) que promueve entornos de 
 
 ## Notas que usan este concepto
 - [[notes/papers/2025-09-05_formulario-divulgacion-ia-quimica]]
+- [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]
