@@ -89,3 +89,7 @@ Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia
 - [[notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje]]
 - [[notes/papers/2025-05-06_retractado-chatgpt-rendimiento-metaanalisis]]
 - [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]
+- [[notes/papers/2026-03-06_responsible-genai-se-education]]
+- [[notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria]]
+- [[notes/papers/2026-06-28_percepciones-estudiantes-genai-ingenieria]]
+- [[notes/articles/2026-06-08_ai-coming-for-your-job]]

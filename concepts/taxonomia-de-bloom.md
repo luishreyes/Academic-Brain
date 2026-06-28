@@ -15,3 +15,5 @@ Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, ana
 - [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]
 - [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]
 - [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]
+- [[notes/papers/2026-03-06_responsible-genai-se-education]]
+- [[notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria]]

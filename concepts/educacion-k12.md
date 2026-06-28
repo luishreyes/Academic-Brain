@@ -32,3 +32,4 @@ Educación primaria y secundaria que abarca desde los primeros años escolares h
 - [[notes/papers/2026-06-28_taics-escala-competencia-ia-docente]]
 - [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]
 - [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]
+- [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]

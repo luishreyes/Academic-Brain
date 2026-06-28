@@ -10,3 +10,6 @@ Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario ace
 
 ## Notas que usan este concepto
 - [[notes/papers/2025-11-03_riesgos-llm-educacion-revision-sistematica]]
+- [[notes/papers/2025-06-27_adapting-university-policies-genai]]
+- [[notes/papers/2026-03-06_responsible-genai-se-education]]
+- [[notes/papers/2026-06-28_percepciones-estudiantes-genai-ingenieria]]

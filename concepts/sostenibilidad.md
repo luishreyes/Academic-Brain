@@ -31,3 +31,8 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]
 - [[notes/papers/2026-06-27_capchat-genai-capstone]]
 - [[notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes]]
+- [[notes/articles/2025-01-01_icheme-codigo-conducta-etica]]
+- [[notes/articles/2021-01-01_eur-ace-marco-acreditacion-ingenieria]]
+- [[notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria]]
+- [[notes/articles/2024-10-25_abet-eac-criterios-acreditacion-ingenieria-2025-2026]]
+- [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]

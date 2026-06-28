@@ -61,3 +61,4 @@ Preparación y desarrollo profesional continuo del profesorado; incluye la forma
 - [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]
 - [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]
 - [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]
+- [[notes/papers/2025-07-28_efectividad-politicas-institucionales-genai]]

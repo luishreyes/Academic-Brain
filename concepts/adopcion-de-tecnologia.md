@@ -46,3 +46,6 @@ Procesos por los cuales individuos, organizaciones o comunidades incorporan nuev
 - [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]
 - [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]
 - [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]
+- [[notes/articles/2025-01-01_icheme-codigo-conducta-etica]]
+- [[notes/papers/2025-07-28_efectividad-politicas-institucionales-genai]]
+- [[notes/articles/2026-06-08_ai-coming-for-your-job]]

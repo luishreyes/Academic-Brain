@@ -52,3 +52,5 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 - [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]
 - [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]
 - [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]
+- [[notes/articles/2026-06-08_ai-coming-for-your-job]]
+- [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]

@@ -11,3 +11,4 @@ Diferencias sistemáticas en oportunidades, resultados y poder entre hombres y m
 ## Notas que usan este concepto
 - [[notes/books/2022-09-26_of-boys-and-men-reeves]]
 - [[notes/papers/2025-07-22_perspectivas-docentes-ia-generativa]]
+- [[notes/papers/2025-07-28_efectividad-politicas-institucionales-genai]]

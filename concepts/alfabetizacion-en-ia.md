@@ -83,3 +83,8 @@ Conjunto de competencias necesarias para comprender, evaluar críticamente y usa
 - [[notes/papers/2025-09-05_formulario-divulgacion-ia-quimica]]
 - [[notes/papers/2023-11-01_assessment-reform-era-ia]]
 - [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]
+- [[notes/papers/2025-06-27_adapting-university-policies-genai]]
+- [[notes/papers/2026-03-06_responsible-genai-se-education]]
+- [[notes/papers/2025-07-28_efectividad-politicas-institucionales-genai]]
+- [[notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria]]
+- [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]

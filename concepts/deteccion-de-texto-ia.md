@@ -27,3 +27,5 @@ Herramientas y técnicas para identificar texto o código generado por IA en tra
 - [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]
 - [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]
 - [[notes/papers/2023-11-01_assessment-reform-era-ia]]
+- [[notes/papers/2025-06-27_adapting-university-policies-genai]]
+- [[notes/papers/2026-03-06_responsible-genai-se-education]]

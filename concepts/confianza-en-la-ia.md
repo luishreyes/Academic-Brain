@@ -10,3 +10,4 @@ Actitud de creer que un agente de IA ayudará a alcanzar los objetivos del usuar
 
 ## Notas que usan este concepto
 - [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]
+- [[notes/articles/2025-06-24_ethics-is-the-edge-ia-educacion-superior]]

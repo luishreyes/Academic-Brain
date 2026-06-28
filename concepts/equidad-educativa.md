@@ -54,3 +54,7 @@ Distribución equitativa de oportunidades y resultados de aprendizaje; incluye e
 - [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]
 - [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]
 - [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]
+- [[notes/articles/2025-06-24_ethics-is-the-edge-ia-educacion-superior]]
+- [[notes/papers/2025-06-27_adapting-university-policies-genai]]
+- [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]
+- [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]

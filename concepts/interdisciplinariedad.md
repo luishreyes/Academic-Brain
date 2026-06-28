@@ -25,3 +25,5 @@ Integración de métodos, conceptos y perspectivas de distintas disciplinas para
 - [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]
 - [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]
 - [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]
+- [[notes/articles/2021-01-01_eur-ace-marco-acreditacion-ingenieria]]
+- [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]]

@@ -15,6 +15,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## A
 
+**acreditacion-academica** — Procesos y criterios formales mediante los cuales agencias (ABET, CSAB, CAC, IChemE, ENAEE/EUR-ACE) evalúan y certifican que un programa académico cumple estándares mínimos de calidad curricular, resultados de aprendizaje del estudiante y cualificaciones del profesorado; incluye su reforma para incorporar competencias emergentes como la IA. _Aliases: academic accreditation, acreditación académica, program accreditation, accreditation criteria, ABET, EUR-ACE_
+
 **autorregulacion-del-aprendizaje** — Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición). _Aliases: self-regulated learning, SRL, aprendizaje autorregulado, metacognición_
 
 **agentes-de-ia** — Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos interconectados que ejecutan tareas complejas de múltiples pasos (multi-step workflows). _Aliases: AI agents, sistemas multi-agente, AI scientist_
