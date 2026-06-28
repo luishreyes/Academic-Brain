@@ -32,3 +32,4 @@ Adaptación de contenidos, ritmo e instrucción a las características, necesida
 - [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]
 - [[notes/papers/2026-06-28_genai-faculty-development-hpe]]
 - [[notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack]]
+- [[notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad]]

@@ -89,6 +89,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **diseno-de-producto** — Diseño y optimización de productos y experiencias, en particular experiencias sensoriales y multisensoriales; metodologías para caracterizar y crear estímulos (sonido, aroma, sabor) que modulan la percepción y la respuesta del consumidor. _Aliases: product design, diseño de experiencias, experience design, product development, sensory product design_
 
+**diseno-universal-para-el-aprendizaje** — Marco pedagógico (Universal Design for Learning, UDL) que promueve entornos de aprendizaje flexibles e inclusivos para la diversidad de estudiantes mediante tres principios: múltiples medios de compromiso, de representación y de acción y expresión. _Aliases: Universal Design for Learning, UDL, diseño universal para el aprendizaje_
+
 **desarrollo-de-farmacos** — Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos. _Aliases: drug discovery, drug development, descubrimiento de fármacos_
 
 ## E

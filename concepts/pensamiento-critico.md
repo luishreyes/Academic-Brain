@@ -76,3 +76,7 @@ Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia
 - [[notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack]]
 - [[notes/papers/2025-08-28_i-tpack-marco-alfabetizacion-ia-docente]]
 - [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]
+- [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]
+- [[notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad]]
+- [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]
+- [[notes/papers/2023-11-01_assessment-reform-era-ia]]

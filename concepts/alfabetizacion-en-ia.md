@@ -78,3 +78,7 @@ Conjunto de competencias necesarias para comprender, evaluar críticamente y usa
 - [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]
 - [[notes/papers/2026-06-28_taics-escala-competencia-ia-docente]]
 - [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]
+- [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]
+- [[notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad]]
+- [[notes/papers/2025-09-05_formulario-divulgacion-ia-quimica]]
+- [[notes/papers/2023-11-01_assessment-reform-era-ia]]

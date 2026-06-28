@@ -13,3 +13,6 @@ Campo de la IA que permite a las máquinas analizar, interpretar y generar lengu
 - [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]
 - [[notes/papers/2026-06-28_genai-formadores-docentes-triada-ai-literacy]]
 - [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]
+- [[notes/papers/2023-06-28_testing-detection-tools-ai-text]]
+- [[notes/papers/2026-03-26_sesgo-detectores-gpt-no-nativos-checo]]
+- [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]
