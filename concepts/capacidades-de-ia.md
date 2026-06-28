@@ -56,3 +56,6 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 - [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]
 - [[notes/papers/2026-06-27_llm-automatizan-hazop]]
 - [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]
+- [[notes/papers/2026-01-16_evaluacion-detectores-ia-contextos-academicos]]
+- [[notes/papers/2023-06-28_testing-detection-tools-ai-text]]
+- [[notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico]]

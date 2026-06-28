@@ -32,3 +32,5 @@ Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y p
 - [[notes/papers/2026-06-28_genai-faculty-development-hpe]]
 - [[notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack]]
 - [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]
+- [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]
+- [[notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad]]

@@ -45,3 +45,5 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]
 - [[notes/papers/2026-06-28_ai-tpack-evaluacion-formadores]]
 - [[notes/papers/2025-04-23_marco-competencia-ia-pedagogica-docentes]]
+- [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]
+- [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]

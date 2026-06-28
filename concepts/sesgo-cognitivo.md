@@ -17,3 +17,4 @@ Patrones sistemáticos de desviación del razonamiento racional debidos a heurí
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/books/2003-01-01_intelligent-investor-graham]]
 - [[notes/papers/2026-04-27_assess-ai-literacy-misalignment]]
+- [[notes/papers/2026-03-26_sesgo-detectores-gpt-no-nativos-checo]]

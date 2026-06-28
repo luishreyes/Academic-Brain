@@ -39,3 +39,5 @@ Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso d
 - [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]
 - [[notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes]]
 - [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]
+- [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]
+- [[notes/papers/2023-11-01_assessment-reform-era-ia]]

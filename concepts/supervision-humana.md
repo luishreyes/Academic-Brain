@@ -74,3 +74,5 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes]]
 - [[notes/papers/2025-08-28_i-tpack-marco-alfabetizacion-ia-docente]]
 - [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
+- [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]
+- [[notes/papers/2023-11-01_assessment-reform-era-ia]]
