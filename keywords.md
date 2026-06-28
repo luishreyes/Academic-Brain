@@ -116,6 +116,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ensayo-controlado-aleatorio** — Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones. _Aliases: RCT, randomized controlled trial, experimento aleatorizado_
 
+**ensenanza-de-lenguas** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje de lenguas (en particular el inglés como lengua extranjera/segunda lengua, ELT); incluye competencia lingüística y comunicativa, didáctica de lenguas y la integración de tecnología en el aula de idiomas. _Aliases: language teaching, English language teaching, ELT, ensenanza del ingles, didactica de lenguas, language education_
+
 **equidad-educativa** — Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos. _Aliases: educational equity, brecha de rendimiento, brecha digital en educación_
 
 **etica-de-la-ciencia** — Dimensiones normativas y de responsabilidad en la producción y aplicación del conocimiento científico; incluye integridad científica, consentimiento, impacto social y dilemas morales de la investigación. _Aliases: bioética, ética de la investigación_
@@ -277,6 +279,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **taxonomia-de-bloom** — Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, analizar, evaluar, crear) usado para diseñar currículo y evaluación, y para mapear la complejidad cognitiva de tareas; sirve de referencia para evaluar el razonamiento de la IA frente a la progresión cognitiva humana. _Aliases: Bloom's taxonomy, taxonomía de Bloom, niveles cognitivos_
 
 **termodinamica** — Rama de la ingeniería química y la física que estudia la energía, el calor, el trabajo y el equilibrio de fases; asignatura núcleo de la ingeniería química usada como dominio de prueba para evaluar el razonamiento de los LLMs. _Aliases: thermodynamics, termodinámica, equilibrio de fases, phase equilibrium_
+
+**tpack** — Marco de conocimiento docente (Technological, Pedagogical and Content Knowledge; Mishra y Koehler) que describe la integración de los conocimientos tecnológico, pedagógico y de contenido necesarios para enseñar con tecnología; incluye sus extensiones (conocimiento contextual/XK, ético) y adaptaciones al contexto de la IA (AI-TPACK, I-TPACK). _Aliases: TPACK, technological pedagogical content knowledge, conocimiento tecnologico pedagogico del contenido, AI-TPACK, I-TPACK_
 
 **tecnocracia** — Modelo de gobernanza y organización social en que el conocimiento técnico-científico tiene primacía sobre otros saberes en la toma de decisiones políticas y económicas.
 

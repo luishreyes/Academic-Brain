@@ -12,3 +12,4 @@ Gestión, dirección y toma de decisiones en instituciones educativas; incluye e
 - [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
 - [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]
 - [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]
+- [[notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes]]

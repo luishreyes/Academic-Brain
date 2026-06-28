@@ -29,3 +29,4 @@ Educación primaria y secundaria que abarca desde los primeros años escolares h
 - [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]
 - [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]
 - [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]
+- [[notes/papers/2026-06-28_taics-escala-competencia-ia-docente]]

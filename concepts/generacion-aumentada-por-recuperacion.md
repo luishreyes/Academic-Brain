@@ -16,3 +16,4 @@ Técnica que enriquece las respuestas de un LLM recuperando información relevan
 - [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]
 - [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]
 - [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]
+- [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]

@@ -11,3 +11,4 @@ Disciplina de la ingeniería química dedicada a prevenir incidentes en plantas 
 ## Notas que usan este concepto
 - [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]
 - [[notes/papers/2026-06-27_llm-automatizan-hazop]]
+- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]

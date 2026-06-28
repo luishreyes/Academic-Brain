@@ -70,3 +70,7 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]
 - [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]
 - [[notes/papers/2026-06-27_llm-automatizan-hazop]]
+- [[notes/papers/2026-06-28_genai-faculty-development-hpe]]
+- [[notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes]]
+- [[notes/papers/2025-08-28_i-tpack-marco-alfabetizacion-ia-docente]]
+- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]

@@ -33,3 +33,4 @@ Disciplina que estudia los procesos cognitivos, motivacionales y sociales que su
 - [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]
 - [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]
 - [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]
+- [[notes/papers/2025-10-21_needs-satisfaction-tpack-genai-docentes]]

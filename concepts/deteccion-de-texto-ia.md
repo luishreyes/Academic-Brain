@@ -13,3 +13,7 @@ Herramientas y técnicas para identificar texto o código generado por IA en tra
 - [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]
 - [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]
 - [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]
+- [[notes/papers/2026-06-28_stem-faculty-evaluacion-genai]]
+- [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]
+- [[notes/papers/2026-06-28_ai-academy-alfabetizacion-genai-docentes]]
+- [[notes/papers/2026-01-13_estrategias-competencias-ia-educacion-superior]]

@@ -44,3 +44,6 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la i
 - [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]
 - [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]
 - [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]
+- [[notes/papers/2026-06-28_stem-faculty-evaluacion-genai]]
+- [[notes/papers/2026-06-28_ai-tpack-vocational]]
+- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]

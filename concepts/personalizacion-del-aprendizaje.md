@@ -30,3 +30,5 @@ Adaptación de contenidos, ritmo e instrucción a las características, necesida
 - [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]
 - [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]
 - [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]
+- [[notes/papers/2026-06-28_genai-faculty-development-hpe]]
+- [[notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack]]

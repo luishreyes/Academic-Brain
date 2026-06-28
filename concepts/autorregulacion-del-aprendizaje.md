@@ -25,3 +25,4 @@ Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso
 - [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]
 - [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]
 - [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]
+- [[notes/papers/2026-06-28_stem-faculty-evaluacion-genai]]

@@ -48,3 +48,5 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 - [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]
 - [[notes/papers/2026-06-28_genai-educacion-superior-revision]]
 - [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]
+- [[notes/papers/2023-08-22_tpack-en-la-era-de-chatgpt-y-genai]]
+- [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]

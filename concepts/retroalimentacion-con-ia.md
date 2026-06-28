@@ -29,3 +29,6 @@ Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y p
 - [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]
 - [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]
 - [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]
+- [[notes/papers/2026-06-28_genai-faculty-development-hpe]]
+- [[notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack]]
+- [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]

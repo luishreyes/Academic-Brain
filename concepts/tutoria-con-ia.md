@@ -39,3 +39,5 @@ Uso de sistemas de inteligencia artificial para proporcionar instrucción indivi
 - [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]
 - [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]
 - [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]
+- [[notes/papers/2023-08-22_tpack-en-la-era-de-chatgpt-y-genai]]
+- [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]
