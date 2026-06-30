@@ -54,3 +54,4 @@ Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y p
 - [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]
 - [[notes/papers/2026-06-28_metaclass-coaching-metacognitivo]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
+- [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]

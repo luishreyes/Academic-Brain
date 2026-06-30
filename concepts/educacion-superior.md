@@ -159,3 +159,4 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/papers/2025-04-19_metacognitive-support-srl-genai]]
 - [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]
 - [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]
+- [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]

@@ -17,3 +17,4 @@ Disciplinas que estudian la expresión y experiencia humana: filosofía, histori
 - [[notes/books/2022-09-13_the-myth-of-normal]]
 - [[notes/books/2001-01-01_fooled-by-randomness]]
 - [[notes/books/2000-01-01_the-48-laws-of-power-greene]]
+- [[notes/papers/2026-01-01_writing-against-the-machine]]

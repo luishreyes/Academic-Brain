@@ -12,3 +12,4 @@ Reproducción y amplificación sistemática de desigualdades por parte de sistem
 - [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
 - [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]
 - [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
+- [[notes/papers/2026-01-01_writing-against-the-machine]]
