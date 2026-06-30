@@ -550,3 +550,34 @@ Joŝt, G., Taneski, V., & Karakatič, S. (2024). The impact of large language mo
 #IAGenerativa #IngenieríaEducación #DiseñoInstruccional #AprendizajeActivo #ABET
 
 ---
+
+## P017 — Descualificar o elevar: el propósito de uso decide, no la cantidad
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-28
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2026-06-28_deskilling-reskilling-upskilling-ia-generativa]] (Yang, Sun, Zeng & Li 2026)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [ia-generativa, sobredependencia-de-la-ia, futuro-del-trabajo, diseno-instruccional, descarga-cognitiva, educacion-en-ingenieria, pensamiento-critico, acreditacion-academica]
+
+¿La IA va a descualificar a sus estudiantes? Depende y depende de algo que el diseño del curso puede controlar.
+
+Un trabajo con tres estudios encadenados lo separa con cuidado (Yang y colegas, 2026). La dependencia de la IA, por sí sola, predice la pérdida de habilidades. Hasta ahí, la versión pesimista.
+
+Pero el modo de uso cambia el destino. Si la IA sustituye el trabajo del estudiante, es grave. Si lo provoca y lo acompaña, recalifica y eleva las habilidades sin una pérdida significativa.
+
+Lo notable es que el nivel de dependencia puede ser el mismo en ambos casos. Lo que separa el deterioro del crecimiento es el propósito de su uso, no su cantidad.
+
+El resultado depende de cómo pedimos usar la herramienta, más que de la herramienta en sí o de su uso.
+
+Un curso que deja a la IA hacer el trabajo forma graduados más débiles; uno que la usa para empujar el pensamiento, más fuertes. La misma tecnología, dos trayectorias opuestas.
+
+Tome una tarea de su curso y ajústela para que la IA empuje al estudiante a pensar, no para que piense por él.
+
+Referencia:
+Yang, B., Sun, Y., Zeng, Z., & Li, Q. (2026). Deskilling, reskilling, or upskilling? Unpacking the pathways of student adaptation to generative artificial intelligence. International Journal of Information Management, 87, 103002. https://lnkd.in/eHw-82kp
+
+#IAGenerativa #IngenieríaEducación #FuturoDelTrabajo #DiseñoInstruccional #ABET
+
+---
