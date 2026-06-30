@@ -458,3 +458,35 @@ National Society of Professional Engineers (2026). Artificial Intelligence (Posi
 #ABET #IngenieríaEducación #IAGenerativa #Acreditación #IngenieríaQuímica
 
 ---
+
+## P014 — El mapa de capacidades cambia cada mes; el diseño que protege el juicio permanece
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-19
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]] (OpenAI 2025) · [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]] (Stanford HAI AI Index 2025)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [capacidades-de-ia, ia-generativa, diseno-instruccional, tutoria-con-ia, alucinaciones-de-ia, supervision-humana, pensamiento-critico, educacion-en-ingenieria, acreditacion-academica]
+
+Hace un año, un modelo de frontera rondaba el 12% de exactitud en matemáticas de competencia. Hoy supera el 90% (OpenAI, 2025). El AI Index de Stanford (2025) documenta ese mismo ritmo en varios frentes. Cualquier afirmación sobre lo que la IA no puede hacer tiene fecha de vencimiento.
+
+Eso desplaza la pregunta a otro lugar: ¿qué decisiones de diseño nuestras siguen en pie cuando la herramienta puede más?
+
+Algunas son robustas. Retener la respuesta y pedir reflexión protegen el pensamiento del estudiante por más capaz que sea el modelo.
+
+Otras son frágiles. La restricción cuidadosamente diseñada puede volverse innecesaria si los modelos la incorporan por sí mismos. Y aparece un riesgo nuevo: un tutor que retiene la respuesta con elegancia, pero suelta una pista termodinámica sutilmente equivocada, resulta más peligroso que uno que responde de frente.
+
+Hay algo que no desaparece cuando los modelos mejoran. El error con aplomo no se va; se concentra en fallas más raras y de mayor consecuencia. Un modelo acertado el 99% de las veces que se equivoca en el cálculo crítico número cien es más peligroso que uno obviamente malo, porque ya le enseñó al estudiante a confiar.
+
+Por eso conviene apostarle a lo que protege el juicio y no al mapa de capacidades de este mes.
+
+El mapa de capacidades cambia cada mes; el diseño que protege el juicio del estudiante permanece en pie.
+
+Referencias:
+OpenAI (2025). Introducing OpenAI o3 and o4-mini (informe técnico). https://openai.com
+Stanford Institute for Human-Centered AI (2025). Artificial Intelligence Index Report 2025. https://lnkd.in/eDWT9WfW
+
+#IAGenerativa #IngenieríaEducación #FuturoDelAprendizaje #DiseñoInstruccional #ABET
+
+---
