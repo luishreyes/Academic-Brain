@@ -676,7 +676,7 @@ Gonsalves, C. (2025). Addressing student non-compliance in AI use declarations: 
 
 ---
 
-## P023 — El prompting no se asume, se enseña y se evalúa
+## P021 — El prompting no se asume, se enseña y se evalúa
 
 - **estado:** programado
 - **fecha_programada:** 2026-08-09
@@ -707,7 +707,7 @@ Tassoti, S. (2024). Assessment of students' use of generative artificial intelli
 
 ---
 
-## P021 — Problemas encadenados y defensa oral: evaluación que la IA no infla
+## P022 — Problemas encadenados y defensa oral: evaluación que la IA no infla
 
 - **estado:** programado
 - **fecha_programada:** 2026-08-12
@@ -739,7 +739,7 @@ Perkins, G. (2026). Resilient assessment in the age of AI: authentic design and 
 
 ---
 
-## P022 — El paciente virtual es un cliente virtual: simulación para habilidades blandas
+## P023 — El paciente virtual es un cliente virtual: simulación para habilidades blandas
 
 - **estado:** programado
 - **fecha_programada:** 2026-08-15
