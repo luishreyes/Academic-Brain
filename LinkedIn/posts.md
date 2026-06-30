@@ -299,3 +299,34 @@ Referencia:
 Segura Altamirano, S. F., Maquen-Niño, G. L. E., Guzmán Roldán, C. M., Pérez Herrera, A., & Castro Cárdenas, D. M. (2026). Generative artificial intelligence in higher education: A systematic review of perceptions, implementation and pedagogical transformation. Review of Education, 14, e70152. https://doi.org/10.1002/rev3.70152
 
 ---
+
+## P009 — Mimetismo cognitivo: dónde ayuda ChatGPT y dónde no (y por qué importa en procesos)
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-02
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]] (Shahid & Walmsley 2026) · [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]] (Wang et al. 2024) · [[notes/papers/2024-05-09_genai-process-systems-engineering]] (Decardi-Nelson et al. 2024)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [ingenieria-quimica, ia-generativa, seguridad-de-procesos, educacion-en-ingenieria, taxonomia-de-bloom, capacidades-de-ia, alucinaciones-de-ia, supervision-humana, pensamiento-critico, acreditacion-academica]
+
+Le pidieron a ChatGPT resolver 110 problemas de ingeniería química, ordenados por nivel cognitivo (Shahid y Walmsley, 2026). El resultado dibuja con precisión dónde ayuda y dónde no.
+
+La exactitud cayó de forma sostenida con la dificultad: 95% en recordar, 41% en crear. Fuerte en lo memorístico, débil justo en analizar y sintetizar, que es donde se forma el ingeniero. Los autores lo llaman mimetismo cognitivo, no comprensión.
+
+Hay algo más serio para nuestra disciplina. En problemas mal especificados, similares a los reales, la exactitud de un modelo se derrumbó: 62% en los bien planteados, 8% en los mal definidos (Wang y colegas, 2024). Y los problemas de diseño en ingeniería química suelen estar mal especificados por naturaleza.
+
+El verdadero riesgo está en la forma del error: números equivocados, bien formateados, presentados como correctos. En procesos, un valor alucinado que se cuela en una cadena de cálculo puede resultar fatal (Decardi-Nelson y colegas, 2024).
+
+Por eso aquí la IA sirve como interfaz hacia herramientas validadas, no como motor de respuestas. Cada número pasa por la verificación del estudiante.
+
+Formar un ingeniero hoy incluye enseñarlo a desconfiar del número que se ve bien.
+
+Referencias:
+Shahid, S., & Walmsley, S. (2026). Evaluating ChatGPT's cognitive performance in chemical engineering education. Information, 17, 162. https://lnkd.in/dN6X8CyT
+Wang, K. D., Burkholder, E., Wieman, C., Salehi, S., & Haber, N. (2024). Examining the potential and pitfalls of ChatGPT in science and engineering problem-solving. Frontiers in Education, 8, 1330486. https://lnkd.in/efH2-ygV
+Decardi-Nelson, B., Alshehri, A. S., Ajagekar, A., & You, F. (2024). Generative AI and process systems engineering: The next frontier. Computers & Chemical Engineering, 187, 108723. https://lnkd.in/eeYzJsSb
+
+#IngenieríaQuímica #IAGenerativa #SeguridadDeProcesos #IngenieríaEducación #ABET
+
+---
