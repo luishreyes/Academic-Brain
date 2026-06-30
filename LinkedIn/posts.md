@@ -425,3 +425,36 @@ American Society of Civil Engineers (2024). Policy Statement 573: Artificial Int
 #IngenieríaQuímica #SeguridadDeProcesos #IAGenerativa #ÉticaProfesional #ABET
 
 ---
+
+## P013 — El vacío de la acreditación: ABET y EUR-ACE callan, los códigos profesionales no
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-16
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/articles/2024-10-25_abet-eac-criterios-acreditacion-ingenieria-2025-2026]] (ABET Criteria 2025-2026) · [[notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial]] (ABET AI policy) · [[notes/articles/2021-01-01_eur-ace-marco-acreditacion-ingenieria]] (ENAEE EUR-ACE 2021) · [[notes/articles/2025-01-01_icheme-codigo-conducta-etica]] (IChemE 2025) · [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]] (NSPE 2026)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [acreditacion-academica, profesion-de-la-ingenieria, educacion-en-ingenieria, ia-generativa, etica-de-la-ia, alfabetizacion-en-ia, ingenieria-quimica, regulacion-de-ia]
+
+En los criterios de acreditación de ingeniería de ABET 2025-2026, la expresión inteligencia artificial no aparece ni una sola vez. Tampoco aparecen generativa ni aprendizaje de máquina. Los siete resultados de los estudiantes siguen siendo neutros respecto a la tecnología.
+
+El marco europeo EUR-ACE guarda el mismo silencio. Y no es un descuido: en su declaración sobre IA, la propia ABET aclara que no prescribirá si las instituciones usan IA ni cómo hacerlo.
+
+Mientras tanto, los códigos profesionales ya la nombran. El de IChemE (2025) exige documentar los controles de calidad y de seguridad al utilizarla. La NSPE (2026) responsabiliza, mediante un estándar de licencia, a quien supervisa la IA con impacto en la seguridad.
+
+Queda un desajuste curioso. El graduado carga con una obligación de conducta profesional sobre el uso de IA, y el sistema que acredita su programa no dice una palabra sobre cómo enseñarla.
+
+Ese vacío lo podemos llenar sin esperar criterios nuevos. Los resultados que ya tenemos alcanzan: resolver problemas como antídoto contra el traslado del pensamiento; diseño y seguridad como verificación; ética como transparencia; aprendizaje continuo como alfabetización en IA.
+
+¿Cuál de sus siete resultados de programa ya le exige enseñar a usar la IA con criterio?
+
+Referencias:
+ABET (2025). Criteria for Accrediting Engineering Programs, 2025-2026. https://www.abet.org
+ABET (2025). Accreditation and Artificial Intelligence (declaración de política). https://lnkd.in/etiWmKiB
+ENAEE (2021). EUR-ACE Framework Standards and Guidelines. https://www.enaee.eu
+Institution of Chemical Engineers (2025). Code of Conduct and Ethics. https://www.icheme.org
+National Society of Professional Engineers (2026). Artificial Intelligence (Position Statement No. 03-1774). https://www.nspe.org
+
+#ABET #IngenieríaEducación #IAGenerativa #Acreditación #IngenieríaQuímica
+
+---
