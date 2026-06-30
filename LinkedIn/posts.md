@@ -581,3 +581,34 @@ Yang, B., Sun, Y., Zeng, Z., & Li, Q. (2026). Deskilling, reskilling, or upskill
 #IAGenerativa #IngenieríaEducación #FuturoDelTrabajo #DiseñoInstruccional #ABET
 
 ---
+
+## P018 — Que el modelo no haga la aritmética: IA como orquestadora de solvers
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-31
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]] (Kodathala & Vunnam 2026)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [ingenieria-quimica, ia-generativa, razonamiento-cuantitativo-llm, capacidades-de-ia, alucinaciones-de-ia, diseno-instruccional, seguridad-de-procesos, educacion-en-ingenieria, acreditacion-academica]
+
+La IA se equivoca en los números, justo en los cálculos que más importan en ingeniería. Existe una forma directa de contenerlo: que el modelo no haga la aritmética.
+
+El modelo plantea las ecuaciones y un solver numérico clásico realiza el cálculo.
+
+En cien problemas de ingeniería con cálculo iterativo, incluido el factor de fricción, esa división del trabajo redujo el error promedio entre un 68% y un 82% frente a pedirle directamente el número al modelo (Kodathala y Vunnam, 2026). Los autores lo resumen bien: los modelos brillan en manipular símbolos y recuperar conocimiento, pero fallan en la aritmética iterativa de alta precisión.
+
+Conviene enseñar la IA como orquestadora de herramientas validadas, no como un motor de respuestas. Que formule, que estructure, que explique y que el cálculo crítico viva en una herramienta que sí calcula bien.
+
+Vale señalar un límite: en problemas sencillos, donde el reconocimiento de patrones ya bastaba, la ganancia fue mínima. La técnica suma donde la precisión iterativa importa, lo cual en nuestra disciplina es casi todo.
+
+El modelo razona en símbolos y tropieza con la aritmética; el diseño sensato lo deja en lo que hace bien.
+
+Piensen en pregrado vs. posgrado.
+
+Referencia:
+Kodathala, S. V., & Vunnam, R. (2026). Can large language models solve engineering equations? A systematic comparison of direct prediction and solver-assisted approaches. arXiv:2601.01774. https://lnkd.in/et-azcQC
+
+#IngenieríaQuímica #IAGenerativa #DiseñoInstruccional #SeguridadDeProcesos #ABET
+
+---
