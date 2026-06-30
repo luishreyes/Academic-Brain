@@ -479,9 +479,7 @@ Otras son frágiles. La restricción cuidadosamente diseñada puede volverse inn
 
 Hay algo que no desaparece cuando los modelos mejoran. El error con aplomo no se va; se concentra en fallas más raras y de mayor consecuencia. Un modelo acertado el 99% de las veces que se equivoca en el cálculo crítico número cien es más peligroso que uno obviamente malo, porque ya le enseñó al estudiante a confiar.
 
-Por eso conviene apostarle a lo que protege el juicio y no al mapa de capacidades de este mes.
-
-El mapa de capacidades cambia cada mes; el diseño que protege el juicio del estudiante permanece en pie.
+Por eso conviene apostarle a lo que protege el juicio del estudiante y no al mapa de capacidades de este mes, que ya estará vencido cuando termine de leer esta frase.
 
 Referencias:
 OpenAI (2025). Introducing OpenAI o3 and o4-mini (informe técnico). https://openai.com
@@ -571,9 +569,7 @@ Lo notable es que el nivel de dependencia puede ser el mismo en ambos casos. Lo 
 
 El resultado depende de cómo pedimos usar la herramienta, más que de la herramienta en sí o de su uso.
 
-Un curso que deja a la IA hacer el trabajo forma graduados más débiles; uno que la usa para empujar el pensamiento, más fuertes. La misma tecnología, dos trayectorias opuestas.
-
-Tome una tarea de su curso y ajústela para que la IA empuje al estudiante a pensar, no para que piense por él.
+Un curso que deja a la IA hacer el trabajo forma graduados más débiles; uno que la usa para empujar el pensamiento, más fuertes. La misma tecnología, dos trayectorias opuestas, y entre una y otra no hay un modelo mejor: hay una consigna mejor.
 
 Referencia:
 Yang, B., Sun, Y., Zeng, Z., & Li, Q. (2026). Deskilling, reskilling, or upskilling? Unpacking the pathways of student adaptation to generative artificial intelligence. International Journal of Information Management, 87, 103002. https://lnkd.in/eHw-82kp
@@ -665,9 +661,7 @@ La declaración funciona, pero solo dentro de una cultura que la sostenga. Regla
 
 Esto importa para nuestros cursos. Pedir una declaración de uso de IA es razonable. Pero si la convertimos en una trampa, el estudiante aprende a esconderse, no a ser transparente.
 
-La transparencia se diseña con confianza, no se exige con un formato.
-
-En su próxima consigna, prometa por escrito que declarar el uso de IA no penaliza y cúmplalo.
+La transparencia se diseña con confianza, no se exige con un formato. La casilla pregunta; la cultura es la que responde.
 
 Referencia:
 Gonsalves, C. (2025). Addressing student non-compliance in AI use declarations: implications for academic integrity and assessment in higher education. Assessment and Evaluation in Higher Education, 50, 592-606. https://lnkd.in/eU7pVZH5
