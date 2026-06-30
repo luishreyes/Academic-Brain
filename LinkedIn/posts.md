@@ -490,3 +490,32 @@ Stanford Institute for Human-Centered AI (2025). Artificial Intelligence Index R
 #IAGenerativa #IngenieríaEducación #FuturoDelAprendizaje #DiseñoInstruccional #ABET
 
 ---
+
+## P015 — La adopción rebasó a la pedagogía: reforma de la evaluación por disciplina
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-22
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2026-05-21_genai-misuse-assessment-reform]] (Chirikov, Smirnov & Kizilcec 2026)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [ia-generativa, evaluacion-educativa, educacion-superior, adopcion-de-tecnologia, integridad-academica, educacion-en-ingenieria, evaluacion-estructural, acreditacion-academica]
+
+Una encuesta a más de 95.000 estudiantes de veinte universidades públicas de investigación arroja un dato difícil de ignorar (Chirikov y colegas, 2026). Cerca de dos tercios ya usan IA generativa y un 37% la usa con frecuencia.
+
+La adopción rebasó a la pedagogía. Los estudiantes llegaron antes que nuestras decisiones de diseño.
+
+Hay un matiz que cambia el debate. El uso y el mal uso varían muchísimo por disciplina: en computación la usa con frecuencia el 62%, en artes el 24%. Tratar el problema con una única regla para toda la universidad ignora esa diferencia.
+
+Por eso los autores no piden prohibiciones generales ni detectores universales. Solicitan una reforma de la evaluación específica por disciplina.
+
+En ingeniería química el mal uso no se parece al de humanidades, y las tareas tampoco. La respuesta tiene que salir de la disciplina, no de una circular general.
+
+No espere a la política de la universidad; rediseñe una evaluación de su curso para este semestre.
+
+Referencia:
+Chirikov, I., Smirnov, I., & Kizilcec, R. F. (2026). Generative AI use and misuse call for assessment reform in higher education. Science, 392, 818-820. https://lnkd.in/e7-mU9is
+
+#IAGenerativa #IngenieríaEducación #EvaluaciónEnEducación #EducaciónSuperior #ABET
+
+---
