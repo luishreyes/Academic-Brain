@@ -644,3 +644,34 @@ Kao, S., Grant, P., & Woltering, S. (2025). Socratic AI in K-12 science classroo
 #IAGenerativa #DiseñoInstruccional #IngenieríaEducación #TutoríaConIA #ABET
 
 ---
+
+## P020 — La casilla no produce honestidad: la transparencia se diseña con confianza
+
+- **estado:** programado
+- **fecha_programada:** 2026-08-06
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]] (Gonsalves 2025)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [integridad-academica, ia-generativa, evaluacion-educativa, etica-de-la-ia, educacion-superior, educacion-en-ingenieria, confianza-en-la-ia, acreditacion-academica]
+
+El 79% de los estudiantes usó IA. El 74% no lo declaró. Y había una casilla obligatoria para hacerlo.
+
+Ese contraste proviene de un estudio realizado en una escuela de negocios (Gonsalves, 2025) y debería hacernos dudar de una solución muy popular: la declaración obligatoria del uso de la IA en cada entrega.
+
+La casilla por sí sola no produce honestidad. Los estudiantes callaron por miedo a ser sancionados, por la ambigüedad sobre qué se consideraba uso indebido, por las reglas que cada profesor aplicaba de manera distinta y por lo que hacían sus compañeros.
+
+La declaración funciona, pero solo dentro de una cultura que la sostenga. Reglas claras, parejas y no punitivas. Un ambiente donde declarar el uso no se sienta como una confesión que perjudica a quien la hace.
+
+Esto importa para nuestros cursos. Pedir una declaración de uso de IA es razonable. Pero si la convertimos en una trampa, el estudiante aprende a esconderse, no a ser transparente.
+
+La transparencia se diseña con confianza, no se exige con un formato.
+
+En su próxima consigna, prometa por escrito que declarar el uso de IA no penaliza y cúmplalo.
+
+Referencia:
+Gonsalves, C. (2025). Addressing student non-compliance in AI use declarations: implications for academic integrity and assessment in higher education. Assessment and Evaluation in Higher Education, 50, 592-606. https://lnkd.in/eU7pVZH5
+
+#IntegridadAcadémica #IAGenerativa #IngenieríaEducación #EvaluaciónEnEducación #ABET
+
+---
