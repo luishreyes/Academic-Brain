@@ -275,7 +275,7 @@ Referencia: Bastani, H., et al. (2025). Generative AI without guardrails can har
 - **fecha_programada:**
 - **fecha_publicacion:** 2026-06-29 18:09 UTC (extraída del ID de actividad de LinkedIn)
 - **url:** https://www.linkedin.com/posts/luishreyes_iagenerativa-educaciaejnsuperior-desarrollodocente-activity-7477422887520370688-Hyp4
-- **fuente:** [[Noticias/2026-06-29-boletin]] (boletín que discute el paper) · paper de Segura Altamirano et al. (2026) **aún no ingestado como nota en el vault** — pendiente
+- **fuente:** [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]] (Segura Altamirano et al. 2026) · [[Noticias/2026-06-29-boletin]] (boletín que lo discute)
 - **fecha_creacion:** 2026-06 (aprox.)
 - **tags:** [ia-generativa, educacion-superior, formacion-docente, tpack, diseno-instruccional, revision-sistematica-de-literatura, adopcion-de-tecnologia]
 

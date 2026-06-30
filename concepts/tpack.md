@@ -12,3 +12,4 @@ Marco de conocimiento docente (Technological, Pedagogical and Content Knowledge;
 - [[notes/papers/2026-03-27_genai-percepciones-docentes-tpack]]
 - [[notes/papers/2025-04-23_marco-competencia-ia-pedagogica-docentes]]
 - [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]
+- [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]

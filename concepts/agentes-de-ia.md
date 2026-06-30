@@ -33,3 +33,4 @@ Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos i
 - [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]
 - [[notes/papers/2026-01-13_estrategias-competencias-ia-educacion-superior]]
 - [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
+- [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]

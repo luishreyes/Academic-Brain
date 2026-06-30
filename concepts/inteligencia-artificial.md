@@ -240,3 +240,6 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]
 - [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
+- [[notes/papers/2026-01-01_writing-against-the-machine]]
+- [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
+- [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]

@@ -62,3 +62,4 @@ Fenómeno en que sistemas de IA generan información incorrecta o fabricada pres
 - [[notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria]]
 - [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]
 - [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]
+- [[notes/papers/2026-01-01_writing-against-the-machine]]

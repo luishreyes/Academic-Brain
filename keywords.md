@@ -122,14 +122,17 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **educacion-k12** — Educación primaria y secundaria que abarca desde los primeros años escolares hasta el nivel preuniversitario; incluye sus políticas pedagógicas, prácticas de aula y retos de integración tecnológica. _Aliases: K-12 education, primary education, secondary education, educación primaria, educación secundaria, educación básica_
 
+**educacion-medica** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje en las profesiones de la salud (medicina, odontología/estomatología, enfermería); incluye formación de competencias clínicas, evaluación del desempeño y la integración de tecnologías educativas. _Aliases: medical education, health professions education, educación en salud, dental education, educación odontológica, educación estomatológica_
 **educacion-superior** — Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.
 
 **ensayo-controlado-aleatorio** — Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones. _Aliases: RCT, randomized controlled trial, experimento aleatorizado_
 
 **ensenanza-de-lenguas** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje de lenguas (en particular el inglés como lengua extranjera/segunda lengua, ELT); incluye competencia lingüística y comunicativa, didáctica de lenguas y la integración de tecnología en el aula de idiomas. _Aliases: language teaching, English language teaching, ELT, ensenanza del ingles, didactica de lenguas, language education_
 
+**epistemologia** — Estudio filosófico de la naturaleza, las condiciones y los límites del conocimiento; incluye la distinción entre plausibilidad y garantía (warrant), la justificación de afirmaciones y la auditabilidad del proceso que las produce. _Aliases: epistemology, teoría del conocimiento, warrant, justificación epistémica_
 **equidad-educativa** — Distribución equitativa de oportunidades y resultados de aprendizaje; incluye el análisis de cómo herramientas como la IA pueden ampliar o reducir brechas entre estudiantes con distintos niveles de desempeño o recursos. _Aliases: educational equity, brecha de rendimiento, brecha digital en educación_
 
+**escritura-academica** — La composición como práctica epistémica y no como mero canal de ideas ya formadas: el acto de redactar, revisar y confrontar contradicciones en la página, donde los datos se vuelven evidencia y las afirmaciones adquieren claridad y defendibilidad. _Aliases: academic writing, writing as thinking, composición académica, escritura como pensamiento_
 **etica-de-la-ciencia** — Dimensiones normativas y de responsabilidad en la producción y aplicación del conocimiento científico; incluye integridad científica, consentimiento, impacto social y dilemas morales de la investigación. _Aliases: bioética, ética de la investigación_
 
 **etica-de-la-ia** — Estudio de los principios morales que deben guiar el diseño y comportamiento de los sistemas de IA; incluye la aplicación de marcos como la deontología y el consecuencialismo a decisiones automatizadas. _Aliases: AI ethics, ética de la inteligencia artificial, deontología, consecuencialismo, moral de las máquinas_
@@ -162,6 +165,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **historia-de-la-innovacion** — Estudio histórico de cómo las innovaciones tecnológicas, científicas y sociales se desarrollaron y difundieron; examina patrones de invención incremental, resistencia institucional y atribución colectiva de la autoría. _Aliases: history of innovation, history of technology, historia de la tecnología_
 
+**historiografia** — Teoría, métodos y práctica de la escritura de la historia; cómo se constituye, narra y revisa el conocimiento histórico (periodización, emplotment narrativo, conciencia historiográfica, temporalidad). _Aliases: historiography, teoría de la historia, filosofía de la historia, historical writing_
 **huella-ambiental-de-la-ia** — Impactos ambientales de los sistemas de IA a lo largo de su ciclo de vida (entrenamiento, inferencia e infraestructura): consumo energético, emisiones de carbono, uso de agua y recursos; incluye métodos de medición (estimación por modelos, sensores, LCA), métricas (energía por inferencia/token, PUE) y su gobernanza. _Aliases: AI environmental footprint, huella de carbono de la IA, AI carbon footprint, energy and water footprint, sostenibilidad de la IA, green AI_
 **humanidades** — Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos. _Aliases: ciencias humanas, artes y humanidades_
 
@@ -220,6 +224,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## O
 
 ## P
+
+**pacientes-virtuales** — Sistemas que simulan encuentros clínicos con pacientes para entrenar a profesionales de la salud, incluidos los pacientes virtuales basados en IA/LLM y su contraste con los pacientes estandarizados (SP) humanos; permiten práctica repetible, de bajo costo y en entorno seguro. _Aliases: virtual patients, simulated patients, AI virtual patients, standardised patients, pacientes estandarizados_
 
 **pensamiento-critico** — Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas. _Aliases: critical thinking, juicio crítico, razonamiento crítico, higher-order thinking, evaluación crítica_
 

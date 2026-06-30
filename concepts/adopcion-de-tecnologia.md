@@ -60,3 +60,4 @@ Procesos por los cuales individuos, organizaciones o comunidades incorporan nuev
 - [[notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes]]
 - [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]
 - [[notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe]]
+- [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]

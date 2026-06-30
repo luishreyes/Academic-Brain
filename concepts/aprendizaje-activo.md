@@ -45,3 +45,4 @@ Conjunto de metodologías pedagógicas en que el estudiante participa activament
 - [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]
 - [[notes/papers/2026-06-28_metaclass-coaching-metacognitivo]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
+- [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]

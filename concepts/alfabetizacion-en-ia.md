@@ -100,3 +100,4 @@ Conjunto de competencias necesarias para comprender, evaluar críticamente y usa
 - [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]
 - [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
 - [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]
+- [[notes/papers/2026-01-01_writing-against-the-machine]]

@@ -15,3 +15,4 @@ Desigualdades en el acceso, la conectividad, las competencias y los beneficios d
 - [[notes/papers/2025-07-09_genai-divide-estudiantes-universitarios]]
 - [[notes/papers/2026-06-28_genai-divide-japan-rat]]
 - [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]
+- [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
