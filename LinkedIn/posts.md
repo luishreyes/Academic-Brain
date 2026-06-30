@@ -175,3 +175,33 @@ Kestin, G., Miller, K., Klales, A., Milbourne, T., & Ponti, G. (2025). AI tutori
 #IAGenerativa #IngenieríaEducación #DiseñoInstruccional #InnovaciónEducativa #ABET
 
 ---
+
+## P005 — La firma de diseño: que la verificación nunca salga del estudiante
+
+- **estado:** publicado
+- **fecha_programada:**
+- **fecha_publicacion:** 2026-06-25 14:45 UTC (extraída del ID de actividad de LinkedIn)
+- **url:** https://www.linkedin.com/posts/luishreyes_harnessing-generative-ai-in-chemical-engineering-activity-7475922003623993344-iiia
+- **fuente:** [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]] (Keith et al. 2025)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [ingenieria-quimica, ia-generativa, educacion-en-ingenieria, diseno-instruccional, pensamiento-critico, supervision-humana, evaluacion-educativa, acreditacion-academica]
+
+Hay una manera de usar la IA en ingeniería que construye criterio en lugar de erosionarlo. Tiene una firma de diseño y es más simple de lo que parece.
+
+En los estudios de ingeniería química que reportan un beneficio real, todos siguen el mismo patrón. La IA genera el problema o actúa como interlocutor. El estudiante deriva, valida, critica y defiende la respuesta. La verificación nunca sale de sus manos.
+
+Un ejemplo limpio es un laboratorio de primer año sobre el vaciado de un tanque (Keith y colegas, 2025). Los estudiantes usan la IA para derivar el modelo de drenaje y luego lo validan en el experimento y lo critican. Copiar a la máquina no sirve: si el modelo está mal, el agua del tanque lo delata.
+
+La lógica se aplica a cualquier curso de diseño. Una sustentación oral, una bitácora que muestra el proceso, un balance que el estudiante tiene que defender, todo eso mantiene el pensamiento del lado correcto.
+
+Para nuestra disciplina el matiz pesa. El modelo es fuerte recordando y flojo analizando y entrega números equivocados con total aplomo. Hacer que cada salida pase por la verificación del estudiante convierte esa debilidad en un ejercicio de criterio.
+
+La misma herramienta, usada para entregar la solución, cae al lado contrario y desgasta lo que queríamos formar.
+
+Cuando la IA responde en su curso, ¿qué le queda por pensar al estudiante?
+
+Referencia: Keith, M., et al. (2025). Harnessing generative AI in chemical engineering education. Education for Chemical Engineers, 51, 20-33. https://lnkd.in/d9FpvAmG
+
+#IngenieríaQuímica #IAGenerativa #IngenieríaEducación #DiseñoInstruccional #ABET
+
+---
