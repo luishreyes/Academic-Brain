@@ -45,8 +45,8 @@ Texto del post tal como va (o fue) en LinkedIn.
 
 - **estado:** publicado
 - **fecha_programada:**
-- **fecha_publicacion:** ~2026-06-16 (aprox.; publicado "hace 2 semanas" respecto al 2026-06-30, LinkedIn no muestra la fecha exacta)
-- **url:**
+- **fecha_publicacion:** 2026-06-15 01:23 UTC (extraída del ID de actividad de LinkedIn)
+- **url:** https://www.linkedin.com/posts/luishreyes_ai-tools-in-society-activity-7472096494037217280-NNXF
 - **fuente:** [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]] (Gerlich 2025) · [[notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva]] (Kosmyna 2025)
 - **fecha_creacion:** 2026-06 (aprox.)
 - **tags:** [pensamiento-critico, descarga-cognitiva, ia-en-educacion, educacion-en-ingenieria, ia-generativa, diseno-de-evaluacion]
@@ -83,8 +83,8 @@ Stanković, M., Hirche, E., Kollatzsch, S., & Doetsch, J. N. (2026). Comment on:
 
 - **estado:** publicado
 - **fecha_programada:**
-- **fecha_publicacion:** ~2026-06-23 (aprox.; publicado "hace 1 semana" respecto al 2026-06-30)
-- **url:**
+- **fecha_publicacion:** 2026-06-16 19:45 UTC (extraída del ID de actividad de LinkedIn)
+- **url:** https://www.linkedin.com/posts/luishreyes_talk-is-cheap-activity-7472736235418128385-w2-C
 - **fuente:** [[notes/papers/2025-05-15_evaluacion-estructural-genai]] (Corbin, Dawson & Liu 2025) · [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]] · [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]
 - **fecha_creacion:** 2026-06 (aprox.)
 - **tags:** [evaluacion-educativa, evaluacion-estructural, pbl, educacion-en-ingenieria, ingenieria-quimica, integridad-academica, ia-generativa, acreditacion-academica]
@@ -117,8 +117,8 @@ Corbin, T., Dawson, P., & Liu, D. (2025). Talk is cheap: why structural assessme
 
 - **estado:** publicado
 - **fecha_programada:**
-- **fecha_publicacion:** ~2026-06-23 (aprox.; publicado "hace una semana" respecto al 2026-06-30)
-- **url:**
+- **fecha_publicacion:** 2026-06-19 14:15 UTC (extraída del ID de actividad de LinkedIn)
+- **url:** https://www.linkedin.com/posts/luishreyes_equidadeducativa-ingenieraedaeducaciaejn-activity-7473740155930181632-Rz2p
 - **fuente:** [[notes/papers/2025-10-06_danos-ia-educacion-programacion]] (Bernstein et al. 2025) · [[notes/papers/2024-08-13_widening-gap-ia-novatos]] (Prather et al. 2024)
 - **fecha_creacion:** 2026-06 (aprox.)
 - **tags:** [equidad-educativa, brecha-digital, educacion-en-programacion, educacion-en-ingenieria, ia-generativa, sobredependencia-de-la-ia, autorregulacion-del-aprendizaje, acreditacion-academica]
