@@ -238,3 +238,33 @@ Kasneci, E., & Kasneci, G. (2026). Sycophancy is an Educational Safety Risk: Why
 Chang, P.-C., Hogan, N., Plaat, A., & van der Meer, M. T. (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. arXiv:2606.20138. https://arxiv.org/abs/2606.20138 (preprint)
 
 ---
+
+## P007 — Sin guardrails la IA daña el aprendizaje: el daño depende del diseño
+
+- **estado:** publicado
+- **fecha_programada:**
+- **fecha_publicacion:** 2026-06-28 14:30 UTC (extraída del ID de actividad de LinkedIn)
+- **url:** https://www.linkedin.com/posts/luishreyes_genai-without-guardrails-activity-7477005403499814912-90yt
+- **fuente:** [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]] (Bastani et al. 2025)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [ia-generativa, diseno-instruccional, aprendizaje-activo, sobredependencia-de-la-ia, ensayo-controlado-aleatorio, educacion-k12, evaluacion-educativa, acreditacion-academica]
+
+Un experimento preinscrito con cerca de mil estudiantes de secundaria deja una de las lecciones más claras que tenemos sobre IA y aprendizaje (Bastani y colegas, 2025).
+
+Tres grupos al azar. Uno estudió con libros, otro con un chatbot abierto y otro con un tutor configurado para dar pistas, pero nunca la solución completa.
+
+Mientras practicaban con la herramienta, ambos grupos con IA superaron al grupo de libros. El chatbot abierto rindió un 48% más; el tutor un 127%. Parecía que la IA ganaba sin discusión.
+
+Entonces les quitaron la herramienta y les pusieron un examen sin asistencia. Ahí se vio la verdad. El grupo del chatbot abierto quedó cerca de un 17% por debajo del de libros. El grupo del tutor que retenía la respuesta quedó igual que el de los libros: el daño desapareció.
+
+Hay un detalle inquietante. Los del chatbot abierto creían haber rendido mejor, cuando rindieron peor.
+
+La conclusión va por otro lado. El daño depende del diseño y puede eliminarse deliberadamente. No hacer daño deja de ser un eslogan y pasa a ser una meta de ingeniería alcanzable.
+
+Pruebe su tutor de IA con la misma vara del estudio: quíteselo al estudiante y vea qué sabe hacer sin él.
+
+Referencia: Bastani, H., et al. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. PNAS, 122, e2422633122. https://lnkd.in/d96H9Wwh
+
+#IAGenerativa #IngenieríaEducación #DiseñoInstruccional #AprendizajeActivo #ABET
+
+---
