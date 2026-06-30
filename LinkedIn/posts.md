@@ -360,3 +360,37 @@ Sun, Y., Liao, Y., & Ma, X. (2026). Trusting AI to detect AI? A systematic evalu
 #IntegridadAcadémica #IAGenerativa #IngenieríaEducación #EvaluaciónEnEducación #ABET
 
 ---
+
+## P011 — Cuatro decisiones de diseño que distinguen a un tutor que enseña
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-10
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]] (Bastani et al. 2025) · [[notes/papers/2026-06-28_metaclass-coaching-metacognitivo]] (Liu & Baraniuk 2026) · [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]] (Choi et al. 2025) · [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]] (Huang et al. 2026)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [tutoria-con-ia, diseno-instruccional, autorregulacion-del-aprendizaje, retroalimentacion-con-ia, sobredependencia-de-la-ia, descarga-cognitiva, ia-generativa, educacion-en-ingenieria, acreditacion-academica]
+
+Por defecto, un modelo de lenguaje intenta dar una respuesta. Formar criterio exige pelear contra ese instinto. La investigación señala cuatro decisiones de diseño que distinguen a un tutor que enseña de uno que solo reemplaza.
+
+1. Retener la respuesta como arquitectura y no como cortesía del prompt. Un chatbot sin frenos dejó a los estudiantes peor en el examen sin asistencia (Bastani y colegas, 2025).
+
+2. Restricción y desvanecimiento del apoyo. Los modelos sobreayudan: el mejor eligió la jugada pedagógica correcta solo en el 43% de las veces, y cuando lo correcto era callar, callaron apenas en el 4% de las veces (Liu y Baraniuk, 2026).
+
+3. Reflexión previa a la ayuda, en la fase de planificación. Pedir que el estudiante reflexione antes de recibir la pista mejora la calidad de esa reflexión, aunque disminuya su satisfacción (Choi y colegas, 2025).
+
+4. Retroalimentación con andamiaje, no solo corrección. Acompañar el razonamiento rinde más que señalar el error (Huang y colegas, 2026).
+
+Hay una trampa en todo esto. La métrica que no sirve para optimizar un tutor es la satisfacción del estudiante, porque los diseños que protegen el aprendizaje suelen percibirse como más incómodos. Y el aprendizaje es incómodo. Debe serlo.
+
+Elija una de las cuatro y aplíquela en su próxima clase; las otras tres pueden esperar.
+
+Referencias:
+Bastani, H., et al. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. PNAS, 122, e2422633122. https://lnkd.in/d96H9Wwh
+Liu, N., & Baraniuk, R. (2026). MetaCLASS: Metacognitive coaching for learning with adaptive self-regulation support. https://lnkd.in/dY9crgcP
+Choi, H., Phung, T., Wu, M., Singla, A., & Brooks, C. (2025). Reflection-satisfaction tradeoff: Investigating impact of reflection on student engagement with AI-generated programming hints. https://lnkd.in/e9R_4XtZ
+Huang, C. Q., et al. (2026). Effects of artificial intelligence feedback on students' self-regulated learning in higher education: A three-level meta-analysis. Educational Psychology Review, 38, 64. https://lnkd.in/eckn9GDN
+
+#IAGenerativa #DiseñoInstruccional #IngenieríaEducación #TutoríaConIA #ABET
+
+---
