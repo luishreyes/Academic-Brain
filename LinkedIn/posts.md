@@ -519,3 +519,34 @@ Chirikov, I., Smirnov, I., & Kizilcec, R. F. (2026). Generative AI use and misus
 #IAGenerativa #IngenieríaEducación #EvaluaciónEnEducación #EducaciónSuperior #ABET
 
 ---
+
+## P016 — No es cuánta IA, sino qué función cognitiva se cede
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-25
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2024-05-13_impacto-llm-educacion-programacion]] (Joŝt, Taneski & Karakatič 2024)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [educacion-en-programacion, ia-generativa, descarga-cognitiva, sobredependencia-de-la-ia, diseno-instruccional, pensamiento-critico, supervision-humana, educacion-en-ingenieria, acreditacion-academica]
+
+Medir cuánta IA usan los estudiantes dice poco. Lo que de verdad pesa es qué parte del trabajo le entregan.
+
+Un estudio en un curso de programación lo muestra con claridad (Joŝt y colegas, 2024). Cuanto más usaban el modelo para generar código y depurarlo, peores eran sus notas finales. La correlación fue clara y significativa.
+
+Pero hubo una excepción importante. Usar el modelo para pedir explicaciones y entender conceptos no se asoció con peores resultados.
+
+La línea divisoria la marca la función cognitiva que se cede, no la herramienta. Delegar la producción y la verificación hizo daño; delegar la comprensión, no.
+
+El estudio es pequeño y correlacional, así que conviene leerlo como señal y no como ley. Aun así, la señal coincide con lo que muestran experimentos más sólidos.
+
+Para nuestros cursos, la tarea es definir, tarea por tarea, qué pensamiento debe quedar del lado del estudiante, sin necesidad de prohibir la herramienta.
+
+¿Sabe en qué partes de su curso los estudiantes están delegando justo el trabajo que debían aprender a hacer?
+
+Referencia:
+Joŝt, G., Taneski, V., & Karakatič, S. (2024). The impact of large language models on programming education and student learning outcomes. Applied Sciences, 14, 4115. https://lnkd.in/emZV9igm (acceso abierto)
+
+#IAGenerativa #IngenieríaEducación #DiseñoInstruccional #AprendizajeActivo #ABET
+
+---
