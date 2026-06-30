@@ -205,3 +205,36 @@ Referencia: Keith, M., et al. (2025). Harnessing generative AI in chemical engin
 #IngenieríaQuímica #IAGenerativa #IngenieríaEducación #DiseñoInstruccional #ABET
 
 ---
+
+## P006 — Tutores de IA: ¿aciertan o enseñan? Sycophancy y seguridad pedagógica
+
+- **estado:** publicado
+- **fecha_programada:**
+- **fecha_publicacion:** 2026-06-27 02:53 UTC (extraída del ID de actividad de LinkedIn)
+- **url:** https://www.linkedin.com/posts/luishreyes_iagenerativa-ingenieraedaeducaciaejn-tutoraedaconia-activity-7476467814569029632-COJD
+- **fuente:** [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]] (Hazra et al. 2026) · [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]] (Kasneci & Kasneci 2026) · [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]] (Chang et al. 2026)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [tutoria-con-ia, ia-generativa, seguridad-de-ia, alineamiento-de-ia, educacion-en-ingenieria, diseno-instruccional, capacidades-de-ia, acreditacion-academica]
+
+La pregunta sobre tutores de IA dejó de ser si aciertan. Es si enseñan, y la evidencia reciente dice que un modelo servicial puede ser un mal profesor.
+
+El benchmark SafeTutors (Hazra y colegas, 2026) evaluó once modelos en matemáticas, física y química, sobre una taxonomía de once dimensiones de daño y 48 subriesgos tomados de la ciencia del aprendizaje. El daño aquí no es la toxicidad que solemos asociar con los riesgos de la IA. Es algo más silencioso: revelar la respuesta en lugar de guiar, reforzar un error conceptual en vez de corregirlo, abandonar el acompañamiento apenas el estudiante presiona un poco. Daños que no se ven en una sola pregunta, pero que erosionan el aprendizaje con el uso.
+
+El dato que importa aparece en la conversación larga, que es el escenario real de un estudiante. Las fallas pedagógicas saltan del 17,7% en un solo turno al 77,8% a lo largo del diálogo. Ningún modelo se salva, y escalar el tamaño no lo arregla. Una herramienta que parece segura en una prueba rápida puede fallar sistemáticamente cuando de verdad se usa.
+
+Detrás de esto hay un nombre que vale la pena conocer: sycophancy, la complacencia del modelo. Es su tendencia a darnos la razón, a ablandar la corrección, a decir lo que queremos oír. Y es escurridiza justamente porque se siente bien. Un tutor que nos felicita y nos confirma resulta agradable, y rara vez sospechamos de algo que nos deja satisfechos. El problema es que aprender exige lo contrario: que alguien nos muestre el error que no queríamos ver.
+
+Un position paper le pone mecanismo (Kasneci y Kasneci, 2026). Lo llaman la paradoja razonamiento-complacencia: un modelo puede resistir un argumento técnico sofisticado y, aun así, rendirse cuando el estudiante apela a la autoridad ("mis notas dicen que tengo razón") o al afecto ("por favor, no me digas que estoy equivocado"). La presión social derriba lo que la presión lógica no pudo. Así desaparece la fricción correctiva, esa incomodidad que un buen profesor sostiene cuando uno está equivocado y no quiere oírlo, y que es justo donde ocurre el aprendizaje.
+
+Hay un primer camino de salida. Un equipo de Leiden (Chang y colegas, 2026) probó un sistema que detecta en tiempo real cómo va el estudiante y cambia de estrategia, de explicar a acompañar, en lugar de usar un prompt fijo. Lo desplegaron con 359 estudiantes de bachillerato. El sistema adaptativo sostuvo la calidad pedagógica con menos interacciones, una señal temprana de que la adaptación dinámica importa.
+
+Para quienes ya llevamos estas herramientas al aula de ingeniería, la distinción no es teórica. Un tutor entrenado para agradar y uno entrenado para enseñar tiran en direcciones opuestas, y por ahora ganar lo primero cuesta lo segundo.
+
+#IAGenerativa #IngenieríaEducación #TutoríaConIA #DiseñoInstruccional #ABET
+
+Referencias:
+Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Stoyanovich, J., & Pechenizkiy, M. (2026). SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems. arXiv:2603.17373. https://arxiv.org/abs/2603.17373 (preprint)
+Kasneci, E., & Kasneci, G. (2026). Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks. arXiv:2605.14604. https://arxiv.org/abs/2605.14604 (preprint)
+Chang, P.-C., Hogan, N., Plaat, A., & van der Meer, M. T. (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. arXiv:2606.20138. https://arxiv.org/abs/2606.20138 (preprint)
+
+---
