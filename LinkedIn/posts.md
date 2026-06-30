@@ -268,3 +268,34 @@ Referencia: Bastani, H., et al. (2025). Generative AI without guardrails can har
 #IAGenerativa #IngenieríaEducación #DiseñoInstruccional #AprendizajeActivo #ABET
 
 ---
+
+## P008 — La paradoja de integración curricular: formar docentes casi no mueve la aguja
+
+- **estado:** publicado
+- **fecha_programada:**
+- **fecha_publicacion:** 2026-06-29 18:09 UTC (extraída del ID de actividad de LinkedIn)
+- **url:** https://www.linkedin.com/posts/luishreyes_iagenerativa-educaciaejnsuperior-desarrollodocente-activity-7477422887520370688-Hyp4
+- **fuente:** [[Noticias/2026-06-29-boletin]] (boletín que discute el paper) · paper de Segura Altamirano et al. (2026) **aún no ingestado como nota en el vault** — pendiente
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [ia-generativa, educacion-superior, formacion-docente, tpack, diseno-instruccional, revision-sistematica-de-literatura, adopcion-de-tecnologia]
+
+Las universidades invierten en formar a sus profesores en IA. Esa inversión casi no se traduce en cambio pedagógico real.
+
+Una revisión sistemática reciente (Segura Altamirano y colegas, 2026) sintetizó 125 estudios empíricos publicados entre 2020 y 2025, con metodología PRISMA y el marco TPACK. De ahí sale un hallazgo que los autores bautizan como la paradoja de integración curricular: la correlación entre el desarrollo docente y la integración de la IA en el currículo es de apenas r=0,12. Prácticamente nula.
+
+Se capacita y se capacita, y el aula sigue casi igual.
+
+El dato del lado estudiantil completa el cuadro. El 73% reporta uso ocasional de IA generativa, pero solo el 25% la usa de forma intensiva. Uso amplio, apropiación superficial. Muchos aceptan lo que el modelo entrega sin verificarlo.
+
+La lectura cómoda sería culpar a la herramienta o a la falta de acceso. La revisión apunta a otro lado. El problema no es técnico. Los talleres enseñan a operar la herramienta, no a rediseñar qué se enseña y cómo se evalúa. Sin ese rediseño, la IA entra al aula y no cambia nada de fondo.
+
+Conviene un matiz. La evidencia todavía es joven, con pocos ensayos controlados y casi ningún seguimiento en el tiempo, así que esto describe un patrón robusto, no una relación causal cerrada.
+
+Aun así, el patrón incomoda. Si formar profesores no mueve la aguja, quizás los estamos formando en lo que no era.
+
+#IAGenerativa #EducaciónSuperior #DesarrolloDocente #DiseñoInstruccional #TransformaciónPedagógica
+
+Referencia:
+Segura Altamirano, S. F., Maquen-Niño, G. L. E., Guzmán Roldán, C. M., Pérez Herrera, A., & Castro Cárdenas, D. M. (2026). Generative artificial intelligence in higher education: A systematic review of perceptions, implementation and pedagogical transformation. Review of Education, 14, e70152. https://doi.org/10.1002/rev3.70152
+
+---
