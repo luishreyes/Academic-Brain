@@ -707,3 +707,28 @@ Perkins, G. (2026). Resilient assessment in the age of AI: authentic design and 
 #IngenieríaQuímica #EvaluaciónEnEducación #IAGenerativa #DiseñoInstruccional #ABET
 
 ---
+
+## P022 — El paciente virtual es un cliente virtual: simulación para habilidades blandas
+
+- **estado:** programado
+- **fecha_programada:** 2026-08-15
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]] (Xie et al. 2026)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [pacientes-virtuales, educacion-medica, ia-generativa, agentes-de-ia, educacion-en-ingenieria, diseno-instruccional, aprendizaje-activo, acreditacion-academica]
+
+Un paper de educación médica publicado en mayo (Xie et al., Chongqing, odontología) probó una idea simple: usar un agente de IA que simula pacientes para que los estudiantes practiquen comunicación clínica. El agente se construyó sobre DeepSeek. Con 38 estudiantes repartidos en grupo experimental y control, la mejora en las puntuaciones de consulta simulada fue estadísticamente significativa (p < 0,001), con ganancias especialmente marcadas en la fase de preparación y en el cierre de la consulta.
+
+Conviene leerlo con cautela. Es un estudio exploratorio, de un solo centro, con una muestra pequeña y un solo evaluador, así que estima un tamaño de efecto, no cierra una relación causal. Aun así, el patrón es claro y los autores lo reconocen.
+
+Lo que hace relevante esta línea para la ingeniería no es el contenido (comunicación médico-paciente) sino la arquitectura pedagógica: un entorno donde el error no tiene consecuencias reales, donde el estudiante repite el escenario tantas veces como necesite y donde la retroalimentación es inmediata. En formación de ingenieros, los laboratorios virtuales llevan años cumpliendo esa función para lo técnico.
+
+La pregunta que abre la IA conversacional es si el mismo principio sirve para las habilidades que los perfiles de egreso siempre declaran y rara vez entrenan con la intensidad del cálculo o la termodinámica: comunicación con clientes, negociación de requisitos, presentación de resultados ante audiencias no técnicas. Un paciente virtual es, al final, un cliente virtual con otro nombre.
+
+Referencia:
+Xie, Y., Ou, Z., Huang, Y., Huang, H., Ran, X., Dai, H., Huang, B., & Shu, L. (2026). An exploratory study of the use of artificial intelligence-based virtual patients to enhance dentist-patient communication training. BMC Medical Education. https://lnkd.in/eMRugDim
+
+#IAGenerativa #EducaciónEnIngeniería #HabilidadesBlandas #AprendizajeBasadoEnSimulación #DiseñoInstruccional
+
+---
