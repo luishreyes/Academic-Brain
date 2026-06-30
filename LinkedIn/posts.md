@@ -330,3 +330,33 @@ Decardi-Nelson, B., Alshehri, A. S., Ajagekar, A., & You, F. (2024). Generative 
 #IngenieríaQuímica #IAGenerativa #SeguridadDeProcesos #IngenieríaEducación #ABET
 
 ---
+
+## P010 — Los detectores de IA no deberían decidir: integridad en la tarea, no en la herramienta
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-07
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2023-06-28_testing-detection-tools-ai-text]] (Weber-Wulff et al. 2023) · [[notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico]] (Sun et al. 2026)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [integridad-academica, deteccion-de-texto-ia, ia-generativa, educacion-en-ingenieria, evaluacion-educativa, equidad-educativa, escritura-academica, acreditacion-academica]
+
+Si su plan contra la IA es un detector, vale la pena revisar los números antes de confiar en él.
+
+En una evaluación de catorce herramientas, ninguna superó el 80% de exactitud y, al usar paráfrasis, cayó al 15% (Weber-Wulff y colegas, 2023). Los autores fueron tajantes: no deberían usarse para decidir.
+
+Un estudio más amplio lo confirmó en más de 280.000 trabajos reales de estudiantes (Sun y colegas, 2026). Los detectores quedaron cerca del azar en código, con falsos positivos por encima del 40% en textos cortos y hasta un 88% de evasión con una edición ligera.
+
+El dato que más debería inquietarnos en ingeniería: los estudiantes que escriben de manera precisa y formulada, como se escribe en nuestra disciplina, son los que más riesgo corren de ser señalados por error. El falso positivo se concentra justo donde reside la escritura de ingeniería.
+
+La salida está en otro lado: construir la integridad en la tarea. Evidencia de proceso, borradores, historial de versiones, entregas por etapas, defensa oral. El detector, a lo sumo, corrobora.
+
+¿En qué parte de su evaluación copiar a la IA todavía rinde frutos?
+
+Referencias:
+Weber-Wulff, D., et al. (2023). Testing of detection tools for AI-generated text. International Journal for Educational Integrity, 19, 26. https://lnkd.in/dqakyjRs
+Sun, Y., Liao, Y., & Ma, X. (2026). Trusting AI to detect AI? A systematic evaluation of the reliability and robustness of current AIGC detection tools for student academic work. Computers & Education, 249, 105616. https://lnkd.in/eZa95hWQ
+
+#IntegridadAcadémica #IAGenerativa #IngenieríaEducación #EvaluaciónEnEducación #ABET
+
+---
