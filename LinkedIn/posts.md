@@ -675,3 +675,35 @@ Gonsalves, C. (2025). Addressing student non-compliance in AI use declarations: 
 #IntegridadAcadémica #IAGenerativa #IngenieríaEducación #EvaluaciónEnEducación #ABET
 
 ---
+
+## P021 — Problemas encadenados y defensa oral: evaluación que la IA no infla
+
+- **estado:** programado
+- **fecha_programada:** 2026-08-12
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]] (Ding 2026) · [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]] (Perkins 2026)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [evaluacion-educativa, evaluacion-estructural, ia-generativa, ingenieria-quimica, integridad-academica, educacion-en-ingenieria, pensamiento-critico, acreditacion-academica]
+
+Hay una forma de evaluación que la IA no infla con facilidad: los problemas encadenados.
+
+Un estudio comparó tareas modulares, sueltas, con problemas en los que cada paso alimenta al siguiente (Ding, 2026). En las modulares, la IA infló las notas al 90-100%. Esa inflación cayó en cerca de 30 puntos en el examen vigilado. Los problemas encadenados, en cambio, conservaron su validez: medían de verdad lo que decían medir.
+
+La razón es intuitiva. Una tarea aislada se resuelve con un prompt. Una cadena en la que un error temprano se propaga obliga a entender el conjunto.
+
+La cadena de ingeniería química ya tiene esa forma. Balance de masa que alimenta el balance de energía, que alimenta el dimensionamiento de equipos, que alimenta la economía. Encadenar esos pasos en una sola evaluación resiste mejor a la IA que ocho ejercicios sueltos y se parece más al trabajo real.
+
+A eso se suma la jugada más fuerte de todas: la evaluación oral. Defender una solución frente a quien repregunta asegura la comprensión y fomenta la comunicación profesional al mismo tiempo (Perkins, 2026).
+
+La cadena y la defensa oral no exigen tecnología nueva, solo rediseñar la tarea.
+
+Un examen que se aprueba con buenos prompts y sin entender el conjunto no estaba midiendo ingeniería.
+
+Referencias:
+Ding, K. (2026). Designing AI-resilient assessments using interconnected problems: A theoretically grounded and empirically validated framework. arXiv:2512.10758. https://lnkd.in/e_aw79ES
+Perkins, G. (2026). Resilient assessment in the age of AI: authentic design and the case for verbal examinations in business education. Assessment and Evaluation in Higher Education. https://lnkd.in/efidsS93
+
+#IngenieríaQuímica #EvaluaciónEnEducación #IAGenerativa #DiseñoInstruccional #ABET
+
+---
