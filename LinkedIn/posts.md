@@ -676,6 +676,37 @@ Gonsalves, C. (2025). Addressing student non-compliance in AI use declarations: 
 
 ---
 
+## P023 — El prompting no se asume, se enseña y se evalúa
+
+- **estado:** programado
+- **fecha_programada:** 2026-08-09
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2024-07-01_prompting-quimica-preservice]] (Tassoti 2024)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [alfabetizacion-en-ia, ingenieria-de-prompts, ia-generativa, ingenieria-quimica, educacion-en-ingenieria, confianza-en-la-ia, pensamiento-critico, evaluacion-educativa, acreditacion-academica]
+
+Los estudiantes calificaron el 75% de sus prompts como específicos. Los evaluadores, solo el 15%.
+
+Esa brecha, según un estudio sobre educación en química (Tassoti, 2024), desmonta un supuesto cómodo: que los jóvenes ya saben usar la IA porque crecieron con la tecnología.
+
+Saber abrir una herramienta no es saber interrogarla. Escribir un buen prompt exige precisión, contexto y criterio para evaluar lo que devuelve, y eso es justo lo que falta cuando el estudiante sobrestima su propia habilidad.
+
+El riesgo es doble. Un prompt pobre produce una respuesta pobre y un estudiante convencido de que lo hizo bien no la cuestiona. La confianza mal calibrada apaga la verificación.
+
+El prompting no se asume, se enseña y se evalúa, igual que enseñamos a plantear un balance o a leer un diagrama. Mostrar ejemplos buenos y malos, pedir que justifiquen sus prompts, calificar la calidad de la pregunta y no solo del resultado.
+
+Tratar la alfabetización en IA como algo que ya traen puesto deja un vacío justo donde más criterio se necesita.
+
+¿Cuándo calificó por última vez la calidad de un prompt y no solo la respuesta?
+
+Referencia:
+Tassoti, S. (2024). Assessment of students' use of generative artificial intelligence: Prompting strategies and prompt engineering in chemistry education. Journal of Chemical Education, 101, 2475-2482. https://lnkd.in/esuYJke8
+
+#IAGenerativa #AlfabetizaciónEnIA #IngenieríaEducación #IngenieríaQuímica #ABET
+
+---
+
 ## P021 — Problemas encadenados y defensa oral: evaluación que la IA no infla
 
 - **estado:** programado
