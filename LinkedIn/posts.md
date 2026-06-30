@@ -612,3 +612,35 @@ Kodathala, S. V., & Vunnam, R. (2026). Can large language models solve engineeri
 #IngenieríaQuímica #IAGenerativa #DiseñoInstruccional #SeguridadDeProcesos #ABET
 
 ---
+
+## P019 — Los ceros importan: la etiqueta "tutor" no hace el andamiaje
+
+- **estado:** programado
+- **fecha_programada:** 2026-08-03
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]] (Fütterer et al. 2026) · [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]] (Kao et al. 2025)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [tutoria-con-ia, autorregulacion-del-aprendizaje, diseno-instruccional, ensayo-controlado-aleatorio, ia-generativa, pensamiento-critico, educacion-k12, educacion-en-ingenieria, acreditacion-academica]
+
+Agregar funciones de IA a un curso no garantiza nada. A veces no produce ningún efecto, y ese resultado vacío revela más de lo que parece.
+
+Un experimento controlado con 371 estudiantes evaluó apoyos de IA diseñados para fortalecer la autorregulación frente a un grupo que usaba un chatbot estándar (Fütterer y colegas, 2026). El resultado fue un cero limpio. Ninguna ventaja en esfuerzo, en conocimiento ni en estrategias de estudio.
+
+Otro estudio, con un tutor socrático, logró mejoras en la argumentación y el pensamiento crítico, pero no en la autorregulación (Kao y colegas, 2025).
+
+¿Por qué importan los ceros? Porque desmontan la idea de que basta con la etiqueta. Poner la palabra «tutor» encima de un chatbot o pegarle indicaciones de autorregulación no hace el trabajo. Lo que mueve la aguja es la profundidad del diseño: retener la respuesta, forzar el esfuerzo, desvanecer la ayuda y, sobre todo, nuestra experiencia como docentes.
+
+Antes de comprar una herramienta que dice ser un tutor, conviene preguntar qué hace por dentro.
+
+La intención de andamiar y el andamiaje real son cosas distintas.
+
+¿Qué evidencia le pediría a un proveedor antes de creerle que su herramienta es un tutor?
+
+Referencias:
+Fütterer, T., Bardach, L., Kuhn, J., Keller, S. D., & Gerjets, P. (2026). Enhancing school students' self-regulated learning through generative AI support: A randomized controlled trial. Educational Psychology Review, 38, 42. https://lnkd.in/enUTsV9N
+Kao, S., Grant, P., & Woltering, S. (2025). Socratic AI in K-12 science classrooms: Effects on critical thinking, motivation, and self-regulation in a randomized controlled trial. Research Square. https://lnkd.in/e5qRMGU6
+
+#IAGenerativa #DiseñoInstruccional #IngenieríaEducación #TutoríaConIA #ABET
+
+---
