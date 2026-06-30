@@ -394,3 +394,34 @@ Huang, C. Q., et al. (2026). Effects of artificial intelligence feedback on stud
 #IAGenerativa #DiseñoInstruccional #IngenieríaEducación #TutoríaConIA #ABET
 
 ---
+
+## P012 — La responsabilidad no se delega: verificar como deber profesional
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-13
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/articles/2025-01-01_icheme-codigo-conducta-etica]] (IChemE 2025) · [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]] (NSPE 2026) · [[notes/articles/2024-07-18_asce-ps573-ia-responsabilidad-ingenieria]] (ASCE 2024)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [profesion-de-la-ingenieria, seguridad-de-procesos, etica-de-la-ia, ingenieria-quimica, ia-generativa, supervision-humana, regulacion-de-ia, acreditacion-academica, educacion-en-ingenieria]
+
+Hay una diferencia incómoda entre usar IA para escribir un ensayo y usarla para dimensionar una válvula de alivio.
+
+En muchas carreras, un error de la IA cuesta una nota. En ingeniería química, los cálculos alimentan el dimensionamiento de alivios, el HAZOP, el LOPA. Cadenas en las que un error que nadie detecta no se mide en puntos, sino en vidas.
+
+La profesión empezó a nombrarlo. El código de conducta de IChemE (2025) exige a sus miembros que muestren cómo utilizaron la IA y qué controles de calidad y de seguridad aplicaron. La posición de la NSPE (2026) sostiene que quien supervisa IA con impacto en la seguridad responde al mismo estándar que el de una licencia profesional. La ASCE (2024) lo dice sin rodeos: la IA no puede asumir responsabilidad ni reemplazar el juicio de un ingeniero licenciado.
+
+La responsabilidad es personal y no se delega. Un graduado que le entregó al chatbot la competencia de fondo no es un estudiante más flojo: es un problema de conducta profesional.
+
+Por eso, enseñar a verificar pertenece a la formación profesional, no a la decoración pedagógica.
+
+El estudiante que hoy le cree al chatbot sin verificar, mañana firma con su nombre lo que la máquina calculó.
+
+Referencias:
+Institution of Chemical Engineers (2025). Code of Conduct and Ethics. https://www.icheme.org
+National Society of Professional Engineers (2026). Artificial Intelligence (Position Statement No. 03-1774). https://www.nspe.org
+American Society of Civil Engineers (2024). Policy Statement 573: Artificial Intelligence and Engineering Responsibility. https://www.asce.org
+
+#IngenieríaQuímica #SeguridadDeProcesos #IAGenerativa #ÉticaProfesional #ABET
+
+---
