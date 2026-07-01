@@ -243,3 +243,4 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2026-01-01_writing-against-the-machine]]
 - [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
 - [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]
+- [[notes/articles/2026-06-30_twilight-chatbots-mollick]]
