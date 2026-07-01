@@ -3,7 +3,7 @@ title: "What it Means to Be a Mathematician When AI Does the Math"
 author: Benjamin Skuse
 publication: IEEE Spectrum
 date: 2026-06-25
-url: https://spectrum.ieee.org/ai-mathematics
+url: https://spectrum.ieee.org/ai-in-mathematics
 type: article
 pdf_local: sources/pdfs/ai-science-society/skuse_2026_ai-mathematics-big-questions.pdf
 keywords: [inteligencia-artificial, razonamiento-cuantitativo-llm, capacidades-de-ia, agentes-de-ia, epistemologia, filosofia, futuro-del-trabajo, descarga-cognitiva]

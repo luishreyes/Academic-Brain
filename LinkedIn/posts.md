@@ -331,6 +331,36 @@ Decardi-Nelson, B., Alshehri, A. S., Ajagekar, A., & You, F. (2024). Generative 
 
 ---
 
+## P032 — Los matemáticos ya tienen el debate que a los ingenieros nos espera
+
+- **estado:** programado
+- **fecha_programada:** 2026-07-05
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]] (Skuse, IEEE Spectrum 2026)
+- **fecha_creacion:** 2026-06 (aprox.)
+- **tags:** [ia-generativa, capacidades-de-ia, razonamiento-cuantitativo-llm, descarga-cognitiva, pensamiento-critico, futuro-del-trabajo, educacion-en-ingenieria, epistemologia]
+
+La IA sacó medalla de oro en la Olimpiada Internacional de Matemáticas. Un sistema de OpenAI refutó una conjetura de geometría combinatoria digna de una revista mayor. Y un agente llamado Gauss formalizó, casi solo y en dos semanas, la prueba de 24 dimensiones que le valió a Maryna Viazovska una Medalla Fields.
+
+Uno esperaría que la comunidad matemática estuviera discutiendo cómo ganarle a la máquina. No es lo que pasa.
+
+Un reportaje reciente de IEEE Spectrum recoge el debate real, y es otro: no "¿qué puede hacer la IA?", sino "¿para qué sirven las matemáticas si la respuesta deja de ser el problema?". Los matemáticos no defienden su velocidad ni su exactitud —ahí ya perdieron—. Defienden algo más difícil de automatizar: la comprensión.
+
+La frase que me detuvo es de Maia Fraser, matemática y experta en machine learning. Que una conjetura pueda ser probada por una IA, dice, ya es información útil; pero sigue siendo un problema abierto encontrar una prueba humana, elegante y bella. Que la máquina tenga la respuesta no cierra la pregunta. Buscar entenderla sigue valiendo la pena.
+
+Cambien "prueba" por "cálculo de diseño" y están hablando de nuestros cursos.
+
+Cuando la IA entrega el número —el factor de fricción, el balance, el dimensionamiento—, lo que queda por enseñar no es el número. Es el porqué: si el estudiante puede reconstruirlo, defenderlo, saber cuándo desconfiar de él. Los matemáticos, en el dominio más abstracto que existe, llegaron a la misma conclusión que venimos rumiando en ingeniería: el valor nunca estuvo en tener la respuesta, sino en comprenderla.
+
+Con una diferencia que a nosotros nos aprieta más. En matemáticas, una prueba que ningún humano entiende del todo sigue siendo, al menos, una curiosidad. En ingeniería, un número que nadie comprende no es un cálculo: es una apuesta con la seguridad de alguien.
+
+Referencia: Skuse, B. (2026, 25 de junio). What it Means to Be a Mathematician When AI Does the Math. *IEEE Spectrum*. https://spectrum.ieee.org/ai-in-mathematics
+
+#IAGenerativa #IngenieríaEducación #PensamientoCrítico #FuturoDelAprendizaje #ABET
+
+---
+
 ## P010 — Los detectores de IA no deberían decidir: integridad en la tarea, no en la herramienta
 
 - **estado:** programado
