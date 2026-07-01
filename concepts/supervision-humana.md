@@ -94,3 +94,4 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
 - [[notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai]]
 - [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]
+- [[notes/articles/2026-06-30_twilight-chatbots-mollick]]

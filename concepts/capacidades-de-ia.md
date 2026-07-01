@@ -68,3 +68,4 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 - [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]
 - [[notes/articles/2026-01-01_evidence-base-ia-k12-review]]
 - [[notes/papers/2026-06-28_metaclass-coaching-metacognitivo]]
+- [[notes/articles/2026-06-30_twilight-chatbots-mollick]]

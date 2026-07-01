@@ -12,3 +12,4 @@ Estudio de cómo las tecnologías críticas (semiconductores, IA, redes de comun
 - [[notes/books/2022-10-04_chip-war-miller]]
 - [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]
 - [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]
+- [[notes/articles/2026-06-30_twilight-chatbots-mollick]]
