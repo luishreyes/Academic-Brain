@@ -27,3 +27,4 @@ Teoría y métodos de construcción, validación y análisis de instrumentos de 
 - [[notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe]]
 - [[notes/papers/2026-06-28_revision-srl-seis-modelos]]
 - [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]
+- [[notes/papers/2026-05-20_salud-mental-investigadores-carrera-temprana-metaanalisis]]
