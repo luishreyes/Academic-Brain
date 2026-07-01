@@ -10,3 +10,4 @@ Estudio filosófico de la naturaleza, las condiciones y los límites del conocim
 
 ## Notas que usan este concepto
 - [[notes/papers/2026-01-01_writing-against-the-machine]]
+- [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]

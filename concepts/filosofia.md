@@ -18,3 +18,4 @@ Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral,
 - [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]
 - [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
+- [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]

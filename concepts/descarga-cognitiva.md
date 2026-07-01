@@ -22,3 +22,4 @@ Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integraci
 - [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
 - [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]
+- [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]
