@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,800;1,6..72,400;1,6..72,500;1,6..72,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    doc-page:not(:defined){visibility:hidden}
+    body{margin:0}
+    .prose-cols{column-count:2;column-gap:32px;column-rule:1px solid #e4ddcf;}
+    .prose-cols > p{margin:0 0 12px;}
+    .span-all{column-span:all;-webkit-column-span:all;}
+    @media print{ .screen-only{display:none !important;} }
+  </style>
+</helmet>
+<x-import component-from-global-scope="doc-page" from="./doc-page.js" size="letter" margin="0.7in" hint-size="100%,100%">
+
+  <div slot="footer" style="display:flex;justify-content:space-between;align-items:center;font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.08em;text-transform:uppercase;color:#8a8172;border-top:1px solid #ddd5c5;padding-top:6px;">
+    <span>Boletín de Investigación</span>
+    <span style="color:#14655a;">IA en educación e ingeniería · Edición Nº 001</span>
+    <span>Domingo 28 · jun · 2026</span>
+  </div>
+
+  <div style="font-family:'Newsreader',Georgia,serif;color:#17130f;line-height:1.62;font-size:15.5px;font-optical-sizing:auto;">
+
+    <!-- ============ MASTHEAD ============ -->
+    <header style="text-align:center;">
+      <div style="border-top:1px solid #17130f;height:0;margin-bottom:9px;"></div>
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:0.34em;text-transform:uppercase;color:#14655a;margin-bottom:7px;">IA en educación superior e ingeniería química</div>
+      <h1 style="font-weight:800;font-size:62px;line-height:0.94;letter-spacing:-0.015em;margin:0;">Boletín de Investigación</h1>
+      <div style="font-family:'Newsreader',serif;font-style:italic;font-size:16px;color:#6b6459;margin-top:8px;">Un corresponsal científico para su semana · edición personal, registro usted</div>
+      <div style="border-top:2px solid #17130f;border-bottom:1px solid #17130f;padding:7px 2px;margin-top:12px;display:flex;justify-content:space-between;align-items:center;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:#4a4438;">
+        <span>Edición Nº <b style="color:#14655a;">001</b></span>
+        <span>Publicado el <b>28</b> de <b>junio</b> de <b>2026</b></span>
+        <span><b style="color:#14655a;">8</b> papers · lectura ~<b>6</b> min</span>
+      </div>
+    </header>
+
+    <!-- ============ LEDE ============ -->
+    <section style="margin-top:26px;">
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.28em;text-transform:uppercase;color:#14655a;margin-bottom:8px;">Lo más importante de la semana</div>
+      <p style="font-size:21px;line-height:1.5;margin:0;color:#2a251d;text-wrap:pretty;">
+        <span style="float:left;font-weight:800;font-size:70px;line-height:0.7;padding:6px 10px 0 0;color:#14655a;">P</span><i style="color:#8a6a2f;">Primer número. La carpeta <code style="font-family:'IBM Plex Mono',monospace;font-size:14px;">Noticias</code> no existía; la creamos hoy. El second brain tiene 324 notas, con énfasis en IA en educación superior e ingeniería química. No hay exclusiones previas: todos los papers de esta edición son nuevos en la colección.</i>
+      </p>
+    </section>
+
+    <!-- ============ ÍNDICE ============ -->
+    <section style="margin-top:22px;border:1px solid #17130f;padding:13px 16px;">
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.22em;text-transform:uppercase;color:#14655a;margin-bottom:8px;">En esta edición · secciones que se movieron</div>
+      <div style="display:flex;flex-wrap:wrap;gap:6px 20px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:0.02em;color:#2a251d;">
+        <span>01 — Una paradoja en el corazón de la evidencia</span>
+        <span>02 — El punto ciego del tutor automático</span>
+        <span>03 — Ingeniería en el laboratorio</span>
+        <span>04 — Dependencia, fatiga y pensamiento crítico</span>
+        <span>05 — Rediseñar la evaluación desde Bloom hacia abajo</span>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 01 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">01</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Una paradoja en el corazón de la evidencia</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Meta-análisis · retención · ALEKS</span>
+      </div>
+
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>La semana que termina deja sobre la mesa una contradicción que merece atención sostenida. La meta-análisis de Ma y Zhong, publicada en el <i>Journal of Computer Assisted Learning</i>, reúne 34 estudios experimentales y cuasi-experimentales y registra un efecto combinado de g = 0,68 a favor de la IA generativa sobre los resultados de aprendizaje, con las ganancias más altas en matemáticas y ciencias. En principio, ese hallazgo complementa el experimento controlado de Kestin que ya tiene en el brain, donde la tutoría con IA superó al aprendizaje activo tradicional.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 14px;border-left:2px solid #14655a;padding-left:9px;">Ma, N., Zhong, Z. · 2025 · ↗ <a href="https://doi.org/10.1111/jcal.70117" style="color:#14655a;">doi.org/10.1111/jcal.70117</a></p>
+
+        <p>Pero el mismo periodo trae un contrapeso de dimensiones inusuales. Rismanchian, Uzun y colaboradores analizaron 3,2 millones de interacciones en la plataforma ALEKS durante diez años. Lo que descubrieron es que, tras la llegada de ChatGPT, el tiempo que los estudiantes universitarios dedican a los problemas matemáticos cayó 26,9% en once cuatrimestres consecutivos. Lo relevante no es la caída de tiempo en sí, sino lo que ocurre después: en evaluaciones con vigilancia, la probabilidad de respuesta correcta baja 25%, mientras que en pruebas sin control externo sube. El mecanismo que señalan los autores es directo: los estudiantes completan las tareas con ayuda de IA, muestran rendimiento aparente, y la retención real no ocurre.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 14px;border-left:2px solid #14655a;padding-left:9px;">Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., Kurd-Misto, E. · 2026 · ↗ <a href="https://arxiv.org/abs/2605.21629" style="color:#14655a;">arxiv.org/abs/2605.21629</a></p>
+
+        <!-- CONTRASTE -->
+        <aside class="span-all" style="background:#f6f1e6;border-left:3px solid #b0872f;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#a06d1a;margin-bottom:4px;">◇ Contraste</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;">La yuxtaposición importa porque los estudios del brain, incluyendo el de Kestin, miden desempeño <i>durante</i> la intervención, no retención diferida. El <i>JCAL</i> muestra que el conocimiento se queda en promedio; ALEKS muestra que en cursos de matemáticas, a escala real, no se queda. Ambas afirmaciones pueden ser verdaderas si los estudios miden cosas distintas — esa diferencia de medición es la discusión que falta en la literatura.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 02 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">02</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">El punto ciego del tutor automático</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Tutoría con IA · errores ocultos · Eedi</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>La semana trae también un hallazgo de Moiz Imran y Sahan Bulathwela, presentado esta misma semana en el taller PEAF del congreso AIED en Seúl, que se lee como una advertencia directa a la literatura de tutoría con IA que viene acumulando el brain. El paper identifica lo que los autores llaman la "trampa de la respuesta correcta": los tutores automáticos fallan sistemáticamente cuando un estudiante llega a la respuesta correcta por un razonamiento errado. El modelo ve la respuesta, la valida, y pasa. El error conceptual queda invisible.</p>
+
+        <p>El análisis de respuestas reales en la plataforma Eedi de matemáticas muestra que el 71% de estas fallas se concentra en solo dos tipos de preguntas, las dos con estructuras que generan ambigüedad en los pasos intermedios.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 14px;border-left:2px solid #14655a;padding-left:9px;">Imran, M., Bulathwela, S. · 2026 · ↗ <a href="https://arxiv.org/abs/2605.23925" style="color:#14655a;">arxiv.org/abs/2605.23925</a></p>
+
+        <!-- CONEXIÓN CON EL BRAIN -->
+        <aside class="span-all" style="background:#eef4f2;border-left:3px solid #14655a;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#14655a;margin-bottom:4px;">◈ Conexión con el brain</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;">Kestin demostró que los tutores de IA superan al aprendizaje activo en promedio; lo que Imran y Bulathwela muestran es que ese promedio esconde un subconjunto de interacciones donde el estudiante sale convencido de que sabe cuando no sabe. El tipo de error que pasa desapercibido es exactamente el que un instructor humano detectaría al escuchar el razonamiento en voz alta. El promedio favorable de Kestin convive con este punto ciego; ignorar uno no invalida el otro, pero tampoco permite ignorarlo.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 03 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">03</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Ingeniería en el laboratorio</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Ingeniería civil y ambiental · ingeniería de software nativa de IA</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>El trabajo de Sajja, Sermet, Fodale y Demir, publicado en <i>Scientific Reports</i>, ofrece uno de los pocos estudios empíricos sobre asistentes de IA en cursos de ingeniería civil y ambiental de pregrado en una universidad R1. Los resultados son más matizados de lo que sugieren los titulares: casi la mitad de los estudiantes prefieren preguntar al asistente en lugar de ir a los monitores o al profesor, y los atributos más valorados son la disponibilidad permanente y la ausencia de juicio social. Al mismo tiempo, la incertidumbre sobre las políticas institucionales y la calidad variable de las respuestas emergieron como las principales barreras. El hallazgo más incómodo: los estudiantes no ven al asistente de IA como un sustituto del instructor sino como un filtro, y ese filtro puede interrumpir la escalada natural de dificultad que produce el aprendizaje profundo.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 14px;border-left:2px solid #14655a;padding-left:9px;">Sajja, R., Sermet, Y., Fodale, B., Demir, I. · 2026 · ↗ <a href="https://arxiv.org/abs/2506.05699" style="color:#14655a;">arxiv.org/abs/2506.05699</a></p>
+
+        <p>En un registro más amplio, la revisión sistemática de Mamdouh Alenezi sobre ingeniería de software nativa de IA, que reúne 48 publicaciones de 2016 a 2026, plantea que los LLM y los sistemas agénticos están redefiniendo las competencias que la universidad debe entregar. El argumento no es nuevo, pero la revisión lo articula con suficiente detalle sobre qué competencias concretas desaparecen y cuáles emergen como para que sirva de insumo a un rediseño curricular.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 4px;border-left:2px solid #14655a;padding-left:9px;">Alenezi, M. · 2026 · ↗ <a href="https://arxiv.org/abs/2606.12986" style="color:#14655a;">arxiv.org/abs/2606.12986</a></p>
+
+        <!-- CONEXIÓN CON EL BRAIN -->
+        <aside class="span-all" style="background:#eef4f2;border-left:3px solid #14655a;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#14655a;margin-bottom:4px;">◈ Conexión con el brain</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;">Si el brain tiene ya varios papers sobre adopción de IA en el aula, Alenezi es el que pregunta qué debe enseñarse cuando la IA escribe el código por defecto.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 04 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">04</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Dependencia, fatiga y pensamiento crítico</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Fatiga cognitiva · alfabetización en IA · retroalimentación</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>Jinrui Tian y Ronghua Zhang, en <i>Acta Psychologica</i>, publican esta semana quizás el resultado más contraintuitivo del periodo. Con una muestra de 580 estudiantes universitarios, construyen un modelo de mediación moderada que muestra que la dependencia de la IA se asocia con menor pensamiento crítico, y que esa asociación pasa en parte por la fatiga cognitiva. Lo notable está en el moderador: la alfabetización en IA actúa como amortiguador, debilitando la cadena dependencia–fatiga–deterioro. No como habilidad técnica, sino como recurso psicológico que le permite al estudiante regular cuándo y cómo usa la herramienta.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 14px;border-left:2px solid #14655a;padding-left:9px;">Tian, J., Zhang, R. · 2026 · ↗ <a href="https://doi.org/10.1016/j.actpsy.2025.104988" style="color:#14655a;">doi.org/10.1016/j.actpsy.2025.104988</a></p>
+
+        <p>Este resultado dialoga con el trabajo de Yang y Niu, también de esta semana, que en un experimento de tres semanas con 70 estudiantes de diseño documenta ganancias medibles en pensamiento crítico cuando la retroalimentación de IA está estructurada por proceso.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 4px;border-left:2px solid #14655a;padding-left:9px;">Yang, J., Niu, T. · 2026 · ↗ <a href="https://doi.org/10.3389/fpsyg.2026.1806913" style="color:#14655a;">doi.org/10.3389/fpsyg.2026.1806913</a></p>
+
+        <!-- CONTRASTE -->
+        <aside class="span-all" style="background:#f6f1e6;border-left:3px solid #b0872f;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#a06d1a;margin-bottom:4px;">◇ Contraste</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;">La diferencia entre los dos estudios señala algo que el brain no tenía formulado con esta claridad: <b>la retroalimentación activa produce ganancia; la delegación pasiva produce erosión.</b> No basta con poner IA en el aula; importa qué tipo de uso se estructura.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 05 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">05</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Rediseñar la evaluación desde Bloom hacia abajo</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Taxonomía de Bloom · alineamiento constructivo · evaluación</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>Patrick Stokkink, en un preprint de junio, propone algo que el brain no tenía: un marco que alinea las capacidades de los LLM con los niveles específicos de la taxonomía de Bloom y deriva de esa alineación qué tipos de evaluación siguen siendo válidos. El argumento central es que los LLM no afectan todos los niveles cognitivos por igual, y que la distinción entre evaluación formativa y sumativa debe revisarse en función de si el uso de IA está permitido y en qué nivel de la taxonomía opera la tarea. El trabajo no es empírico, pero su valor está precisamente en ofrecer un vocabulario común para discusiones que suelen volverse circulares.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 4px;border-left:2px solid #14655a;padding-left:9px;">Stokkink, P. · 2026 · ↗ <a href="https://arxiv.org/abs/2506.23815" style="color:#14655a;">arxiv.org/abs/2506.23815</a></p>
+
+        <!-- CONEXIÓN CON EL BRAIN -->
+        <aside class="span-all" style="background:#eef4f2;border-left:3px solid #14655a;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#14655a;margin-bottom:4px;">◈ Conexión con el brain</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;">Conecta directamente con los papers de integridad académica y evaluación resiliente que ya tiene en el brain. Aquellos documentan el problema, los que estudian la detección documentan las herramientas, y este intenta darle una arquitectura conceptual a la respuesta pedagógica. Si va a leer un paper teórico esta semana, es este.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ HILO ABIERTO ============ -->
+    <section style="margin-top:34px;border:2px solid #14655a;background:#eef4f2;padding:18px 20px;">
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;font-weight:600;letter-spacing:0.24em;text-transform:uppercase;color:#14655a;margin-bottom:8px;">▶ Hilo abierto para mañana</div>
+      <p style="margin:0;font-size:17px;line-height:1.55;color:#2a251d;">La tensión entre Rismanchian et al. y el cuerpo de estudios representado por Kestin y la meta-análisis de Ma & Zhong no está resuelta en la literatura. Los estudios que miden efecto durante la intervención muestran ganancia; el estudio que mide retención diferida en escala real muestra deterioro. El próximo boletín debería buscar papers sobre retención a largo plazo o transferencia de conocimiento en contextos con uso de IA, específicamente en cursos de ingeniería o matemáticas universitarias. Esta es la pregunta que la literatura aún no responde con claridad.</p>
+    </section>
+
+  </div>
+</x-import>
+</x-dc>
+</body>
+</html>
