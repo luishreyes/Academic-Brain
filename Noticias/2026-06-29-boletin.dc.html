@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,800;1,6..72,400;1,6..72,500;1,6..72,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    doc-page:not(:defined){visibility:hidden}
+    body{margin:0}
+    .prose-cols{column-count:2;column-gap:32px;column-rule:1px solid #e4ddcf;}
+    .prose-cols > p{margin:0 0 12px;}
+    .span-all{column-span:all;-webkit-column-span:all;}
+    @media print{ .screen-only{display:none !important;} }
+  </style>
+</helmet>
+<x-import component-from-global-scope="doc-page" from="./doc-page.js" size="letter" margin="0.7in" hint-size="100%,100%">
+
+  <div slot="footer" style="display:flex;justify-content:space-between;align-items:center;font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.08em;text-transform:uppercase;color:#8a8172;border-top:1px solid #ddd5c5;padding-top:6px;">
+    <span>Boletín de Investigación</span>
+    <span style="color:#14655a;">IA en educación e ingeniería · Edición Nº 002</span>
+    <span>Lunes 29 · jun · 2026</span>
+  </div>
+
+  <div style="font-family:'Newsreader',Georgia,serif;color:#17130f;line-height:1.62;font-size:15.5px;font-optical-sizing:auto;">
+
+    <!-- ============ MASTHEAD ============ -->
+    <header style="text-align:center;">
+      <div style="border-top:1px solid #17130f;height:0;margin-bottom:9px;"></div>
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:0.34em;text-transform:uppercase;color:#14655a;margin-bottom:7px;">IA en educación superior e ingeniería química</div>
+      <h1 style="font-weight:800;font-size:62px;line-height:0.94;letter-spacing:-0.015em;margin:0;">Boletín de Investigación</h1>
+      <div style="font-family:'Newsreader',serif;font-style:italic;font-size:16px;color:#6b6459;margin-top:8px;">Un corresponsal científico para su semana · edición personal, registro usted</div>
+      <div style="border-top:2px solid #17130f;border-bottom:1px solid #17130f;padding:7px 2px;margin-top:12px;display:flex;justify-content:space-between;align-items:center;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:#4a4438;">
+        <span>Edición Nº <b style="color:#14655a;">002</b></span>
+        <span>Publicado el <b>29</b> de <b>junio</b> de <b>2026</b></span>
+        <span><b style="color:#14655a;">6</b> papers · lectura ~<b>9</b> min</span>
+      </div>
+    </header>
+
+    <!-- ============ LEDE ============ -->
+    <section style="margin-top:26px;">
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.28em;text-transform:uppercase;color:#14655a;margin-bottom:8px;">Lo más importante de la semana</div>
+      <p style="font-size:21px;line-height:1.5;margin:0;color:#2a251d;text-wrap:pretty;">
+        <span style="float:left;font-weight:800;font-size:70px;line-height:0.7;padding:6px 10px 0 0;color:#14655a;">S</span>egunda edición. Retoma el <a href="2026-06-28-boletin.dc.html" style="color:#14655a;">primer número del 28 de junio</a>, que cerró con un hilo abierto: la tensión entre los estudios que miden el efecto de la IA <i>durante</i> la intervención (Kestin, Ma &amp; Zhong) y los que miden la retención diferida a escala real (Rismanchian et al.), con la pregunta de si el conocimiento aprendido con apoyo de IA realmente se queda y transfiere. Ese hilo —retención y transferencia en aprendizaje asistido por IA— vuelve a aparecer aquí, ahora desde el ángulo de la metacognición y la "fricción".
+      </p>
+    </section>
+
+    <!-- ============ ÍNDICE ============ -->
+    <section style="margin-top:22px;border:1px solid #17130f;padding:13px 16px;">
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.22em;text-transform:uppercase;color:#14655a;margin-bottom:8px;">En esta edición · secciones que se movieron</div>
+      <div style="display:flex;flex-wrap:wrap;gap:6px 20px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:0.02em;color:#2a251d;">
+        <span>01 — Memoria del vault</span>
+        <span>02 — La paradoja de la integración</span>
+        <span>03 — Retroalimentación convergente y transparencia</span>
+        <span>04 — Pacientes virtuales y riesgo controlado</span>
+        <span>05 — Historia estocástica</span>
+        <span>06 — Rediseño del curso de programación</span>
+        <span>07 — Cruce con el vault</span>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 01 — MEMORIA DEL VAULT ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">01</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Memoria del vault</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Estado del second brain · contexto de esta edición</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>Antes de mirar hacia afuera, conviene saber dónde estamos. El brain tiene ya una masa crítica de material sobre IA en educación: el artículo de Lindsey sobre ingeniería química (marzo 2026), el preprint CASF de Ramos et al. con coautoría propia (agosto 2025), las system cards de Claude Opus 4.8 y GPT-5.5, el ensayo de Mollick sobre agentes ("The Shape of the Thing", marzo 2026), y las notas de esta misma semana sobre la prohibición de Noruega, los filósofos en los laboratorios de IA y el argumento de Nature de que la ciencia necesita las humanidades. El vault tiene, pues, una voz: empuja hacia la integración reflexiva, con reservas sobre la dependencia cognitiva y con un ojo puesto en lo que los docentes de ingeniería deben hacer en concreto.</p>
+
+        <p>Las búsquedas de esta semana en PubMed y Scholar Gateway no devuelven papers con fecha posterior al 22 de junio — los índices tienen un rezago de dos a cuatro semanas. Lo que aparece es material de mayo de 2026 que aún no está en el vault, y algunas revisiones sistemáticas de principios de año que merecen atención. Es el material de esta segunda edición.</p>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 02 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">02</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">La paradoja de la integración</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Revisión sistemática · TPACK · formación docente</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>El hallazgo más incómodo de las últimas semanas viene de una revisión sistemática publicada en <i>Review of Education</i>: Altamirano, Maquen-Niño, Roldán, Herrera y Cárdenas examinaron 125 estudios empíricos sobre IA generativa en educación superior publicados entre 2021 y 2025. El resultado que detiene: la correlación entre inversión institucional en formación docente y transformación pedagógica real es de r = 0,12. Es, en la práctica, cero. Las universidades organizan talleres, contratan consultores, instalan políticas de uso de IA y, después de todo eso, la manera en que sus profesores enseñan casi no cambia. Los autores llaman a este fenómeno la "curriculum integration paradox".</p>
+
+        <p>¿Por qué ocurre? La revisión apunta a que los programas de desarrollo docente suelen tratar la IA como una competencia técnica (aprender a usar la herramienta) cuando el problema es, en realidad, epistemológico: para que un profesor cambie cómo enseña necesita también cambiar qué cree sobre el aprendizaje. Ese segundo movimiento no lo resuelve ningún taller de prompting. La nota complementaria del mismo trabajo es que el 73% de los estudiantes ya adopta estas herramientas de forma autónoma, mientras que sus profesores siguen resistiendo. La brecha no es tecnológica — es conceptual.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 4px;border-left:2px solid #14655a;padding-left:9px;">Altamirano, S. F., Maquen-Niño, G. L., Roldán, C. M., Herrera, A. P., Cárdenas, D. M. · 2026 · ↗ <a href="https://doi.org/10.1002/rev3.70152" style="color:#14655a;">doi.org/10.1002/rev3.70152</a></p>
+
+        <!-- CONEXIÓN CON EL BRAIN -->
+        <aside class="span-all" style="background:#eef4f2;border-left:3px solid #14655a;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#14655a;margin-bottom:4px;">◈ Conexión con el brain</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;">Este hallazgo resuena directamente con el CASF: el preprint de Ramos et al. ya sostenía que la pericia pedagógica del docente, y no su competencia técnica, debe ser el motor de las decisiones de integración. Altamirano et al. ofrecen ahora evidencia empírica de que invertir solo en lo técnico es dinero tirado.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 03 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">03</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Retroalimentación convergente y transparencia</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">GPTutor · aula invertida · reproducibilidad</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>Hay una distinción que empieza a aparecer en la literatura y que vale la pena registrar: la diferencia entre "retroalimentación divergente" y "retroalimentación convergente". Lee, Li, Chen, Huang y Wu la pusieron a prueba en un diseño cuasi-experimental con 72 estudiantes de tecnología educativa en Taiwán. La idea es simple: cuando un estudiante con una duda busca en Google, recibe múltiples rutas posibles, múltiples formatos, múltiples niveles de profundidad — retroalimentación divergente que exige que el propio estudiante integre y filtre. Cuando interactúa con GPTutor (una herramienta construida sobre ChatGPT que los autores diseñaron para el aula invertida), recibe una respuesta única, contextualizada y escalonada — retroalimentación convergente.</p>
+
+        <p>Los resultados son significativos: el grupo de GPTutor mejoró en puntajes post-test (F = 7,99, p &lt; 0,01), en motivación intrínseca y redujo la amotivación frente al grupo de control. Los autores atribuyen el efecto a que la convergencia reduce la carga cognitiva y permite que el estudiante use su atención en el contenido en lugar de en la navegación de información. El resultado es útil, aunque el diseño tiene la limitación habitual de este tipo de estudios: muestra relativamente pequeña, contexto muy específico y sin seguimiento longitudinal.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 14px;border-left:2px solid #14655a;padding-left:9px;">Lee, H., Li, P., Chen, P., Huang, Y., Wu, T. · 2026 · ↗ <a href="https://doi.org/10.1111/ejed.70527" style="color:#14655a;">doi.org/10.1111/ejed.70527</a></p>
+
+        <p>Lo que sí resulta inquietante de la literatura circundante es lo que una revisión paralela encontró sobre transparencia. Liu, Fang, Cui y Chiu revisaron 43 estudios sobre LLM chatbots y aprendizaje socioemocional. Solo 5 de los 43 alcanzaron lo que los autores llaman Tier 2 de transparencia (especificar el modelo exacto usado y los prompts aproximados). Ninguno — ninguno — logró Tier 3: publicar prompts completos, parámetros y artefactos reproducibles.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 4px;border-left:2px solid #14655a;padding-left:9px;">Liu, H., Fang, X., Cui, Q., Chiu, T. K. · 2026 · ↗ <a href="https://doi.org/10.1002/rev3.70141" style="color:#14655a;">doi.org/10.1002/rev3.70141</a></p>
+
+        <!-- CONTRASTE -->
+        <aside class="span-all" style="background:#f6f1e6;border-left:3px solid #b0872f;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#a06d1a;margin-bottom:4px;">◇ Contraste</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;">La investigación sobre IA en educación se está acumulando rápidamente, pero no puede replicarse. Eso debilita cualquier síntesis que dependa de este cuerpo de evidencia — incluida la propia de este boletín.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 04 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">04</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Pacientes virtuales y riesgo controlado</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Educación médica · comunicación clínica · habilidades blandas</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>Un paper de educación médica apareció en mayo con una apuesta: usar agentes de IA que simulan pacientes para que los estudiantes practiquen comunicación clínica. El de Xie et al. (Chongqing, odontología) lo hizo con un modelo construido sobre DeepSeek. El resultado, con 38 estudiantes divididos en grupo experimental y control, fue una mejora estadísticamente significativa en las puntuaciones de consulta simulada, con ganancias especialmente marcadas en la fase de preparación y el cierre de la consulta.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 14px;border-left:2px solid #14655a;padding-left:9px;">Xie, Y. et al. · 2026 · ↗ <a href="https://doi.org/10.1186/s12909-026-09518-8" style="color:#14655a;">doi.org/10.1186/s12909-026-09518-8</a></p>
+
+        <!-- CONEXIÓN CON EL BRAIN -->
+        <aside class="span-all" style="background:#eef4f2;border-left:3px solid #14655a;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#14655a;margin-bottom:4px;">◈ Conexión con el brain</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;">Lo que hace relevante esta línea para el contexto de ingeniería no es el contenido específico sino la arquitectura pedagógica: un entorno donde el error no tiene consecuencias reales y la retroalimentación es inmediata. Los laboratorios virtuales llevan años cumpliendo esa función para lo técnico. La pregunta que abre la IA conversacional es si el mismo principio sirve para las habilidades blandas — comunicación con clientes, negociación de requisitos, presentación ante audiencias no técnicas — que los perfiles de egreso siempre declaran y rara vez entrenan con la intensidad del cálculo o la termodinámica.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 05 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">05</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Historia estocástica</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Historiografía · autoría computacional · fricción</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>La pieza más interesante de esta semana no viene de pedagogía sino de historiografía. Christopher Gerteis publicó en la revista <i>History</i> un ensayo titulado "Writing Against the Machine: Computational Authorship and Historical Writing" que introduce el concepto de "historia estocástica". El argumento: los modelos de lenguaje grandes producen texto que replica las formas superficiales de la explicación histórica sin ejecutar el razonamiento disciplinar que las produce. No se trata de que la IA "plagíe" — sino de que genera algo que se parece a un argumento histórico sin serlo: sin fricción archivística, sin posición desde la cual defender elecciones interpretativas, sin el proceso de composición que hace que las afirmaciones sean auditables y revisables.</p>
+
+        <p>La crítica es epistémica, no solo ética, y por eso es más difícil de resolver con una política de integridad académica. Lo que añade Gerteis —y que me parece valioso para el vault— es la metáfora de la "fricción": aprender a escribir, aprender a razonar sobre un problema, implica precisamente la resistencia que la IA elimina. La fricción no es un defecto del proceso; es el mecanismo por el cual el pensamiento se afina.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 4px;border-left:2px solid #14655a;padding-left:9px;">Gerteis, C. · 2026 · ↗ <a href="https://doi.org/10.1111/1468-229x.70092" style="color:#14655a;">doi.org/10.1111/1468-229x.70092</a></p>
+
+        <!-- CONEXIÓN CON EL BRAIN -->
+        <aside class="span-all" style="background:#eef4f2;border-left:3px solid #14655a;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#14655a;margin-bottom:4px;">◈ Conexión con el brain</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;">Conecta directamente con el debate sobre escritura en ingeniería. Cuando un estudiante usa un LLM para redactar un informe de laboratorio, puede obtener un texto que suena técnicamente correcto — pero que no pasó por el proceso de interpretar los datos, reconciliar la teoría con el resultado experimental y formular una conclusión defendible. Este es exactamente el núcleo del problema que Lindsey describía en el artículo de CACHE sobre ingeniería química: las debilidades más graves de la GenAI coinciden con las competencias que los cursos buscan desarrollar.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 06 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">06</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Rediseño del curso de programación</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">TAM · uso metacognitivo vs. pasivo · Python en Colab</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>En el frente más técnico, un grupo de la Universidad de Pavia (Italia) documentó el rediseño de un curso de programación en Python para estudiantes de medicina con Gemini integrado en Google Colab. El trabajo metodológico más útil es el cuestionario que desarrollaron: combina el Technology Acceptance Model (TAM) con una escala nueva, la LSS/LLMs-6, diseñada para distinguir el uso constructivo de la IA (metacognitivo, que lleva al estudiante a comparar, cuestionar y elaborar) del uso disfuncional (pasivo, donde el estudiante acepta la salida sin procesarla). El cuestionario obtuvo un índice de validez de contenido de 0,98 en evaluación por expertos. Los datos empíricos del curso están pendientes al final del año académico.</p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 4px;border-left:2px solid #14655a;padding-left:9px;">Nicora, G., Larizza, C., Scaglione, F., Parimbelli, E., Quaglini, S. · 2026 · ↗ <a href="https://doi.org/10.3233/SHTI260648" style="color:#14655a;">doi.org/10.3233/SHTI260648</a></p>
+
+        <!-- CONEXIÓN CON EL BRAIN -->
+        <aside class="span-all" style="background:#eef4f2;border-left:3px solid #14655a;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#14655a;margin-bottom:4px;">◈ Conexión con el brain</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;">Esta distinción — uso metacognitivo vs. uso pasivo — es exactamente lo que el CASF trata de operacionalizar a través de la escala AIAS y las etapas de De Zubiría. Es una convergencia conceptual entre líneas de investigación que no se citan mutuamente, lo cual sugiere que el campo está llegando por caminos independientes a las mismas preguntas.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 07 — CRUCE CON EL VAULT ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">07</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Cruce con el vault: qué conecta con qué</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Síntesis · diálogo entre boletines y second brain</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p>El momento más interesante de este cruce es la convergencia entre la "fricción" de Gerteis, el "cognitive offloading" del CASF y la "dependencia cognitiva" que justificó la prohibición noruega. Son tres lenguajes distintos para el mismo fenómeno: cuando la IA elimina la resistencia del proceso de aprendizaje, también elimina lo que el proceso produce. Esa tensión es el hilo conductor que atraviesa el vault de este lado del 2026.</p>
+
+        <p>Por otra parte, la paradoja de integración de Altamirano et al. (r=0,12 entre inversión y transformación) pone un número a la sospecha que Lindsey expresaba en términos cualitativos: que prohibir no funciona, pero que integrar sin cambiar la concepción pedagógica tampoco. El espacio intermedio que el CASF ocupa es exactamente ese: un marco que intenta traducir la concepción pedagógica (niveles cognitivos de De Zubiría) en decisiones concretas de diseño curricular.</p>
+
+        <p>Queda abierta una pregunta que no está respondida en ningún paper de este número: ¿qué ocurre con los estudiantes de ingeniería que logran un nivel metacognitivo con IA de apoyo pero luego deben resolver problemas sin acceso a ella? ¿La práctica asistida transfiere? La evidencia sobre transferencia en contextos de aprendizaje asistido por IA es casi inexistente.</p>
+      </div>
+    </section>
+
+    <!-- ============ HILO ABIERTO ============ -->
+    <section style="margin-top:34px;border:2px solid #14655a;background:#eef4f2;padding:18px 20px;">
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;font-weight:600;letter-spacing:0.24em;text-transform:uppercase;color:#14655a;margin-bottom:8px;">▶ Hilo abierto para mañana</div>
+      <p style="margin:0;font-size:17px;line-height:1.55;color:#2a251d;"><b>El problema de la evidencia reproducible.</b> Todos los papers de esta semana tienen en común una limitación metodológica: muestras pequeñas, falta de transparencia en los prompts y la configuración de los modelos usados, y ausencia de seguimiento longitudinal. El cuerpo de investigación sobre IA en educación crece exponencialmente (de 2 estudios en 2021 a 77 en 2024, según Altamirano et al.) pero la mayoría son estudios de un semestre, con grupos de control débiles o inexistentes, y sin publicar los artefactos que permitirían replicar los hallazgos. Para la próxima sesión, vale la pena buscar si hay diseños experimentales rigurosos (aleatorizados, con seguimiento mayor a un semestre) sobre el efecto de la IA en el aprendizaje de ingeniería. Si no los hay, eso mismo es una noticia.</p>
+    </section>
+
+  </div>
+</x-import>
+</x-dc>
+</body>
+</html>
