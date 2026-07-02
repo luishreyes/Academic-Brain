@@ -129,6 +129,7 @@
   .link { stroke: var(--line); stroke-width: 1; }
   .link.related { stroke: var(--accent); stroke-dasharray: 4 3; stroke-width: 1.4; opacity: .8; }
   .node circle { stroke: rgba(10,14,30,.85); stroke-width: 1.5; cursor: pointer; }
+  .node circle.hit { stroke: none; fill: transparent; }
   .node text {
     font-size: 11px; fill: var(--text); pointer-events: none;
     paint-order: stroke; stroke: rgba(8,12,26,.9); stroke-width: 3px;
@@ -359,23 +360,23 @@
         <div class="section-body hidden">
           <div class="physics-row">
             <label>Repulsión</label>
-            <input type="range" id="sl-repulsion" min="500" max="12000" step="100" value="9000" />
-            <span id="lbl-repulsion">9000</span>
+            <input type="range" id="sl-repulsion" min="500" max="12000" step="100" value="12000" />
+            <span id="lbl-repulsion">12000</span>
           </div>
           <div class="physics-row">
             <label>Atracción</label>
-            <input type="range" id="sl-attraction" min="1" max="50" step="1" value="18" />
-            <span id="lbl-attraction">0.18</span>
+            <input type="range" id="sl-attraction" min="1" max="50" step="1" value="1" />
+            <span id="lbl-attraction">0.01</span>
           </div>
           <div class="physics-row">
             <label>Dist. enlaces</label>
-            <input type="range" id="sl-linkdist" min="20" max="200" step="5" value="130" />
-            <span id="lbl-linkdist">130</span>
+            <input type="range" id="sl-linkdist" min="20" max="200" step="5" value="160" />
+            <span id="lbl-linkdist">160</span>
           </div>
           <div class="physics-row">
             <label>Amortiguación</label>
-            <input type="range" id="sl-damping" min="50" max="99" step="1" value="60" />
-            <span id="lbl-damping">0.60</span>
+            <input type="range" id="sl-damping" min="50" max="99" step="1" value="50" />
+            <span id="lbl-damping">0.50</span>
           </div>
         </div>
       </div>
@@ -532,8 +533,8 @@ const nodeEls = nodes.map((n) => {
   g.setAttribute("class", "node");
   // círculo invisible más grande solo para facilitar el toque en móvil
   const hit = document.createElementNS(NS, "circle");
+  hit.setAttribute("class", "hit");
   hit.setAttribute("r", Math.max(radius(n) + 10, 18));
-  hit.setAttribute("fill", "transparent");
   hit.setAttribute("pointer-events", "all");
   const c = document.createElementNS(NS, "circle");
   c.setAttribute("r", radius(n));
@@ -570,10 +571,10 @@ function labelFor(n) {
 let alpha = 0.6;
 let alphaTarget = 0;
 const ALPHA_DECAY = 0.018;
-let simRepulsion = 9000;
-let simAttraction = 0.18;
-let simLinkDist = 130;
-let simDamping = 0.60;
+let simRepulsion = 12000;
+let simAttraction = 0.01;
+let simLinkDist = 160;
+let simDamping = 0.50;
 function reheat(t) { alphaTarget = t; if (alpha < t) alpha = t; }
 function tick() {
   const active = nodes.filter((n) => visibleKinds[n.kind] && nodeInActiveCategories(n));
