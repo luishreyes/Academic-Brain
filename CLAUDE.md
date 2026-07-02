@@ -198,10 +198,29 @@ aliases: []
 
 Definición corta (copiada de keywords.md).
 
+## Qué dice la literatura
+
+(opcional — ver más abajo)
+
 ## Notas que usan este concepto
 - [[notes/papers/...]]
 - [[notes/articles/...]]
 ```
+
+### La sección "Qué dice la literatura"
+
+Es una síntesis narrativa —no una lista de resúmenes por paper— de lo que
+las notas del vault dicen colectivamente sobre el concepto: convergencias
+entre estudios, tensiones o contradicciones, hallazgos que se citan unos a
+otros, matices que solo aparecen al leerlos en conjunto. Se escribe citando
+autores y cifras concretas, en prosa, no como viñetas.
+
+Es una sección **opcional y de esfuerzo alto** — no se genera automáticamente
+en cada `/ingest`. Se escribe (o reescribe) a mano, leyendo todas las notas
+que usan el concepto, cuando tenga sentido hacerlo: al crear un concepto con
+ya varias notas, o cuando una nueva nota cambia sustancialmente lo que dice
+el conjunto. Un concepto sin esta sección es perfectamente válido — mejor
+omitirla que forzar una síntesis pobre solo por completar la plantilla.
 
 ## Flujo de trabajo: ingestar un paper o artículo
 

@@ -883,6 +883,7 @@ function select(id, pushHistory = true) {
       (n.aliases && n.aliases.length ? " · alias: " + n.aliases.join(", ") : "");
     if (n.path) linksRow.appendChild(extLink("Ver concepto (.md)", CONFIG.repoBlobBase + n.path));
     body.appendChild(section("Definición", defEl(n.definition || "—")));
+    if (n.literature) body.appendChild(section("Qué dice la literatura", mdEl(n.literature)));
     body.appendChild(section("Notas que lo usan", refList(users)));
   } else {
     const bits = [];
