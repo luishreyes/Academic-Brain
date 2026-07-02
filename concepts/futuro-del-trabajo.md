@@ -64,3 +64,4 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 - [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]
 - [[notes/articles/2026-06-30_twilight-chatbots-mollick]]
 - [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]
+- [[notes/papers/2026-07-02_labor-market-impacts-ai]]

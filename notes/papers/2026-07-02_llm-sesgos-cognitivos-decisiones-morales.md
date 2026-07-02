@@ -7,7 +7,7 @@ url: https://doi.org/10.1073/pnas.2412015122
 doi: 10.1073/pnas.2412015122
 pdf_local: sources/pdfs/ai-science-society/cheung_2025_llm-cognitive-biases-moral-decisions.pdf
 type: paper
-keywords: [sesgo-cognitivo, etica-de-ia, inteligencia-artificial, alineamiento-de-ia, confianza-en-la-ia, sobredependencia-de-la-ia, capacidades-de-ia]
+keywords: [sesgo-cognitivo, etica-de-la-ia, inteligencia-artificial, alineamiento-de-ia, confianza-en-la-ia, sobredependencia-de-la-ia, capacidades-de-ia]
 date_added: 2026-07-02
 ---
 
@@ -54,7 +54,7 @@ Diseño experimental comparativo entre LLMs (GPT-4-turbo, GPT-4o, Llama 3.1-Inst
 ## Notas relacionadas
 
 - [[concepts/sesgo-cognitivo]]
-- [[concepts/etica-de-ia]]
+- [[concepts/etica-de-la-ia]]
 - [[concepts/inteligencia-artificial]]
 - [[concepts/alineamiento-de-ia]]
 - [[concepts/confianza-en-la-ia]]

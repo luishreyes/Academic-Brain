@@ -15,3 +15,4 @@ Diferencias sistemáticas en oportunidades, resultados y poder entre hombres y m
 - [[notes/articles/2025-11-26_impacto-ia-empleo-graduados]]
 - [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
 - [[notes/papers/2025-07-16_ai-skills-empleabilidad-egresados]]
+- [[notes/papers/2026-07-02_labor-market-impacts-ai]]

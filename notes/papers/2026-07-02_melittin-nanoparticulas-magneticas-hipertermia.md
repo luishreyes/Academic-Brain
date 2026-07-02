@@ -7,7 +7,7 @@ url: https://doi.org/10.3390/molecules31122171
 doi: 10.3390/molecules31122171
 pdf_local: sources/pdfs/nanomedicine-drug-delivery/campian_2026_melittin-magnetite-nanoparticles.pdf
 type: paper
-keywords: [nanomedicina, hipertermia-magnetica, oncologia-experimental, biomateriales, nanociencia, peptidos-bioactivos, biologia-molecular]
+keywords: [nanomedicina, hipertermia-magnetica, oncologia, biomateriales, nanociencia, peptidos-bioactivos, biologia-molecular]
 date_added: 2026-07-02
 ---
 
@@ -53,7 +53,7 @@ Estudio experimental in vitro con diseño factorial (2×2: funcionalización con
 
 - [[concepts/nanomedicina]]
 - [[concepts/hipertermia-magnetica]]
-- [[concepts/oncologia-experimental]]
+- [[concepts/oncologia]]
 - [[concepts/biomateriales]]
 - [[concepts/nanociencia]]
 - [[concepts/peptidos-bioactivos]]

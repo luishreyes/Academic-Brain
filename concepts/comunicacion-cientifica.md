@@ -13,3 +13,4 @@ Práctica de traducir y difundir conocimiento científico a audiencias no especi
 - [[notes/books/2024-01-01_blind-spots-makary]]
 - [[notes/books/2017-04-04_pandoras-lab-offit]]
 - [[notes/books/2015-01-01_storytelling-with-data-knaflic]]
+- [[notes/articles/2018-12-20_como-dar-una-gran-charla]]

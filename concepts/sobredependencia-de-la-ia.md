@@ -26,3 +26,4 @@ Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario ace
 - [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
 - [[notes/papers/2026-06-28_metaclass-coaching-metacognitivo]]
+- [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
