@@ -116,6 +116,8 @@ for (const { rel, abs } of listMd("concepts")) {
   const id = noteId(rel);
   // Definición: primer párrafo del cuerpo tras el título "#".
   const defMatch = body.replace(/^#[^\n]*\n/m, "").trim().split("\n\n")[0] || "";
+  // Síntesis narrativa opcional: sección "## Qué dice la literatura".
+  const litMatch = body.match(/##\s*Qué dice la literatura\s*\n([\s\S]*?)(?=\n##\s|\s*$)/);
   const node = addNode({
     id,
     kind: "concept",
@@ -123,6 +125,7 @@ for (const { rel, abs } of listMd("concepts")) {
     keyword,
     aliases: data.aliases || [],
     definition: (defMatch || keywordDefs[keyword] || "").trim(),
+    literature: litMatch ? litMatch[1].trim() : "",
     path: rel,
     content: noteContent(body),
   });
