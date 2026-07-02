@@ -44,3 +44,6 @@ Campo que estudia los mecanismos moleculares de los procesos biológicos: expres
 - [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]
 - [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]
 - [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]
+- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
+- [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]
+- [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]

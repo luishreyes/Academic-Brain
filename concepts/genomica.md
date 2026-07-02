@@ -25,3 +25,4 @@ Campo que estudia la estructura, función y variación de los genomas completos;
 - [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]
 - [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]
 - [[notes/papers/2024-01-01_casein-polimorfismos-queso]]
+- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]

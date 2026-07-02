@@ -42,3 +42,6 @@ Proceso de identificación, validación y prueba de compuestos para tratar enfer
 - [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]
 - [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]
 - [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
+- [[notes/papers/2026-07-02_cubosomes-mrna-ards]]
+- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
+- [[notes/papers/2026-07-02_nanogeles-quitosano-melanoma]]

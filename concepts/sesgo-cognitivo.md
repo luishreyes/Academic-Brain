@@ -21,3 +21,4 @@ Patrones sistemáticos de desviación del razonamiento racional debidos a heurí
 - [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]
 - [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]
 - [[notes/papers/2026-06-28_genai-divide-japan-rat]]
+- [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]

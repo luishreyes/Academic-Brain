@@ -21,3 +21,5 @@ Enfoque terapéutico que introduce, modifica o silencia material genético en c�
 - [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]
 - [[notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas]]
 - [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]
+- [[notes/papers/2026-07-02_cubosomes-mrna-ards]]
+- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]

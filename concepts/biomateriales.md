@@ -47,3 +47,8 @@ Materiales de origen natural o sintético diseñados para interactuar con sistem
 - [[notes/papers/2025-01-01_nanocarriers-carbono]]
 - [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]
 - [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]
+- [[notes/papers/2026-07-02_cubosomes-mrna-ards]]
+- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
+- [[notes/papers/2026-07-02_nanogeles-quitosano-melanoma]]
+- [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]
+- [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]

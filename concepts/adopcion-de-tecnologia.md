@@ -62,3 +62,4 @@ Procesos por los cuales individuos, organizaciones o comunidades incorporan nuev
 - [[notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe]]
 - [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
 - [[notes/articles/2026-06-30_twilight-chatbots-mollick]]
+- [[notes/papers/2026-07-02_labor-market-impacts-ai]]

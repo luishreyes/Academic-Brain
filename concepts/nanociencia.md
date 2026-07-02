@@ -42,3 +42,7 @@ Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–
 - [[notes/papers/2025-01-01_nanocarriers-carbono]]
 - [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]
 - [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]
+- [[notes/papers/2026-07-02_cubosomes-mrna-ards]]
+- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
+- [[notes/papers/2026-07-02_nanogeles-quitosano-melanoma]]
+- [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]

@@ -15,3 +15,4 @@ Conjunto de técnicas y objetivos orientados a que los sistemas de IA persigan l
 - [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]
 - [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]
 - [[notes/articles/2026-04-23_gpt-5-5-system-card]]
+- [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]

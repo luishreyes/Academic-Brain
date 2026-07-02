@@ -43,6 +43,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **biomateriales** — Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas. _Aliases: biomaterials, hydrogels, scaffolds, encapsulation, drug delivery materials_
 
+**biopeliculas-bacterianas** — Agregados de microorganismos embebidos en una matriz de sustancias poliméricas extracelulares (EPS) autoproducida que confiere protección física y química y facilita la adhesión celular; incluye su formación, estructura y funciones protectoras. _Aliases: biofilms, biofilm matrix, EPS matrix, bacterial biofilms_
+
 **biosurfactantes** — Moléculas tensoactivas de origen biológico (péptidos, lipopéptidos, glicolípidos) que reducen la tensión interfacial agua-aceite; alternativas verdes a surfactantes petroquímicos; su diseño racional combina estructura molecular y simulaciones computacionales. _Aliases: biosurfactants, surfactantes biológicos, bioemulsificantes, tensoactivos biológicos, surface-active peptides_
 
 **biocombustibles** — Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación. _Aliases: biofuels, biobutanol, n-butanol, bioethanol, combustibles renovables_
@@ -79,9 +81,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## D
 
-**desigualdad-de-genero**
+**desigualdad-de-genero** — Diferencias sistemáticas en oportunidades, resultados y poder entre hombres y mujeres; abarca brechas salariales, educativas, laborales y de representación, así como su intersección con raza y clase social. _Aliases: gender inequality, gender gap, brecha de género, sexismo estructural_
 
-**dinamica-de-poblaciones** — Estudio cuantitativo de cómo cambia con el tiempo el tamaño, la composición y la estructura de las poblaciones biológicas; incluye modelos de crecimiento, interferencia clonal, selección natural y deriva genética. _Aliases: population dynamics, population genetics, genética de poblaciones, clonal interference, estructura poblacional_ — Diferencias sistemáticas en oportunidades, resultados y poder entre hombres y mujeres; abarca brechas salariales, educativas, laborales y de representación, así como su intersección con raza y clase social. _Aliases: gender inequality, gender gap, brecha de género, sexismo estructural_
+**dinamica-de-poblaciones** — Estudio cuantitativo de cómo cambia con el tiempo el tamaño, la composición y la estructura de las poblaciones biológicas; incluye modelos de crecimiento, interferencia clonal, selección natural y deriva genética. _Aliases: population dynamics, population genetics, genética de poblaciones, clonal interference, estructura poblacional_
 
 **desarrollo-del-caracter** — Proceso de formación y fortalecimiento de virtudes y disposiciones conductuales como la proactividad, la tolerancia a la incomodidad, la disciplina y la resiliencia; se distingue de las habilidades cognitivas y técnicas y puede cultivarse a lo largo de la vida adulta. _Aliases: character development, habilidades de carácter, character skills, virtudes_
 
@@ -99,16 +101,23 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **desarrollo-de-farmacos** — Proceso de identificación, validación y prueba de compuestos para tratar enfermedades; incluye drug discovery, ensayos clínicos y reposicionamiento de fármacos. _Aliases: drug discovery, drug development, descubrimiento de fármacos_
 
+**desarrollo-profesional-academico** — Estrategias y prácticas para el avance profesional de investigadores y académicos más allá de la docencia o la investigación en sí misma: networking en conferencias, mentoría, preparación de entrevistas y construcción de reputación científica. _Aliases: academic career development, career advancement, desarrollo de carrera académica, career skills for researchers_
+
 **descarga-cognitiva** — Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integración de información) a apoyos externos —herramientas, dispositivos o IA— en lugar de ejecutarlo internamente; en contextos de aprendizaje puede saltarse procesos mentales integrales a la formación de conocimiento (cognitive offloading, deuda cognitiva). _Aliases: cognitive offloading, descarga cognitiva, deuda cognitiva, cognitive debt, efecto Google_
 
 ## E
 
 **enfermedades-raras** — Condiciones médicas con baja prevalencia poblacional; incluye errores innatos del metabolismo, enfermedades lisosomales de depósito y otras condiciones huérfanas; su tratamiento frecuentemente implica terapia de reemplazo enzimático (TRE) o génico. _Aliases: rare diseases, orphan diseases, lysosomal storage diseases, inborn errors of metabolism, enzyme replacement therapy, ERT_
 
-**epistemologia-del-riesgo**
+**enfermedades-respiratorias** — Condiciones patológicas que afectan las vías respiratorias y el tejido pulmonar, incluyendo el síndrome de dificultad respiratoria aguda (SDRA/ARDS), la inflamación pulmonar y el daño alveolar; abarca su fisiopatología y las estrategias terapéuticas dirigidas al pulmón. _Aliases: respiratory diseases, acute respiratory distress syndrome, ARDS, SDRA, lung disease, pulmonary inflammation_
 
+**entrega-de-mrna** — Diseño y desarrollo de sistemas de transporte (nanopartículas lipídicas, LNPs, cubosomas) que protegen y liberan mRNA terapéutico en el citosol de células diana, superando barreras biológicas como el escape endosomal; incluye lípidos ionizables, mecanismos de fusión de membrana y optimización de formulación. _Aliases: mRNA delivery, mRNA therapeutics, lipid nanoparticles, LNP, ionizable lipids, cubosomes, endosomal escape_
 
-**evolucion-de-laboratorio** — Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos. _Aliases: adaptive laboratory evolution, ALE, evolutionary engineering, in vitro evolution, VERT, visualizing evolution in real-time_ — Estudio filosófico del conocimiento bajo incertidumbre y riesgo; incluye el problema de la inducción, la distinción entre riesgo medible e incertidumbre radical, y las implicaciones epistemológicas de distribuciones con colas pesadas. _Aliases: risk epistemology, incertidumbre radical, uncertainty, Black Swan, cisne negro, probabilidad subjetiva_
+**epistemologia-del-riesgo** — Estudio filosófico del conocimiento bajo incertidumbre y riesgo; incluye el problema de la inducción, la distinción entre riesgo medible e incertidumbre radical, y las implicaciones epistemológicas de distribuciones con colas pesadas. _Aliases: risk epistemology, incertidumbre radical, uncertainty, Black Swan, cisne negro, probabilidad subjetiva_
+
+**exposicion-laboral-a-la-ia** — Medida ocupacional/tarea del grado en que el trabajo de una ocupación puede ser realizado o acelerado por IA, combinando la capacidad teórica de los LLM con datos reales de uso (automatizado vs. augmentativo, contexto laboral); usada para proyectar riesgo de desplazamiento laboral antes de que los efectos sean visibles en el empleo. _Aliases: AI exposure, occupational AI exposure, observed exposure, task-based exposure measures, AI displacement risk, riesgo de desplazamiento laboral_
+
+**evolucion-de-laboratorio** — Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos. _Aliases: adaptive laboratory evolution, ALE, evolutionary engineering, in vitro evolution, VERT, visualizing evolution in real-time_
 
 **evolucion-cultural** — Proceso por el cual las ideas, tecnologías, normas y prácticas sociales cambian a lo largo del tiempo mediante mecanismos análogos a la selección natural: variación, transmisión y selección diferencial; incluye la teoría de la evolución de doble herencia y el concepto de memes. _Aliases: cultural evolution, evolución de la cultura, memética, cultural transmission, double inheritance theory_
 
@@ -151,13 +160,13 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## G
 
-**gestion-por-objetivos**
+**gestion-por-objetivos** — Marco de gestión organizacional basado en la definición explícita de objetivos ambiciosos y resultados clave medibles (OKR: Objectives and Key Results); fomenta la transparencia, la coordinación y la responsabilidad en todos los niveles de la organización. _Aliases: OKR, objectives and key results, management by objectives, MBO, gestión por resultados_
 
 **grafos-de-conocimiento** — Estructuras de datos que representan entidades como nodos y sus relaciones como aristas etiquetadas (incluye property graphs / Neo4j); usadas para modelar dominios estructurados y servir de contexto recuperable a sistemas de IA. _Aliases: knowledge graph, grafo de conocimiento, labeled property graph, LPG, Neo4j, property graph_
 
 **generacion-aumentada-por-recuperacion** — Técnica que enriquece las respuestas de un LLM recuperando información relevante de una fuente externa (documentos, base de datos o grafo) e insertándola como contexto en el prompt; reduce alucinaciones y aporta datos de dominio; incluye la variante basada en grafos (graph-RAG). _Aliases: retrieval-augmented generation, RAG, graph-RAG, generación aumentada por recuperación_
 
-**genomica** — Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos. _Aliases: genomics, genome sequencing, transcriptomics, -omics, bioinformatics_ — Marco de gestión organizacional basado en la definición explícita de objetivos ambiciosos y resultados clave medibles (OKR: Objectives and Key Results); fomenta la transparencia, la coordinación y la responsabilidad en todos los niveles de la organización. _Aliases: OKR, objectives and key results, management by objectives, MBO, gestión por resultados_
+**genomica** — Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos. _Aliases: genomics, genome sequencing, transcriptomics, -omics, bioinformatics_
 
 **geopolitica-tecnologica** — Estudio de cómo las tecnologías críticas (semiconductores, IA, redes de comunicación) se convierten en instrumentos y escenarios de competencia entre potencias; incluye controles de exportación, cadenas de suministro estratégicas y dependencia tecnológica. _Aliases: techno-geopolitics, geopolitics of technology, geopolítica de los chips, tech competition_
 
@@ -166,12 +175,16 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **historia-de-la-innovacion** — Estudio histórico de cómo las innovaciones tecnológicas, científicas y sociales se desarrollaron y difundieron; examina patrones de invención incremental, resistencia institucional y atribución colectiva de la autoría. _Aliases: history of innovation, history of technology, historia de la tecnología_
 
 **historiografia** — Teoría, métodos y práctica de la escritura de la historia; cómo se constituye, narra y revisa el conocimiento histórico (periodización, emplotment narrativo, conciencia historiográfica, temporalidad). _Aliases: historiography, teoría de la historia, filosofía de la historia, historical writing_
+**habilidades-de-presentacion** — Diseño y entrega de presentaciones orales efectivas en contextos académicos (charlas de conferencia, defensas, entrevistas): estructura narrativa de la charla, diseño de diapositivas, manejo del lenguaje corporal y la voz, y técnicas para superar el miedo escénico. _Aliases: presentation skills, public speaking, oratoria científica, conference talks, miedo escénico, stage fright_
+
+**hipertermia-magnetica** — Técnica terapéutica que expone nanopartículas magnéticas a un campo magnético alterno (AMF) para generar calor localizado e inducir estrés celular o apoptosis en tejido tumoral, potenciando el efecto de agentes citotóxicos coadministrados. _Aliases: magnetic hyperthermia, hipertermia magnética, AMF, magnetic field therapy_
+
 **huella-ambiental-de-la-ia** — Impactos ambientales de los sistemas de IA a lo largo de su ciclo de vida (entrenamiento, inferencia e infraestructura): consumo energético, emisiones de carbono, uso de agua y recursos; incluye métodos de medición (estimación por modelos, sensores, LCA), métricas (energía por inferencia/token, PUE) y su gobernanza. _Aliases: AI environmental footprint, huella de carbono de la IA, AI carbon footprint, energy and water footprint, sostenibilidad de la IA, green AI_
 **humanidades** — Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos. _Aliases: ciencias humanas, artes y humanidades_
 
 ## I
 
-**impacto-de-investigacion**
+**impacto-de-investigacion** — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
 
 **ingenieria-ambiental** — Aplicación de principios de ingeniería y biotecnología al tratamiento y la prevención de la contaminación en agua, aire y suelo; incluye tratamiento de aguas residuales, remoción de olores y gases, biofiltración, calidad del agua y ciclos biogeoquímicos. _Aliases: environmental engineering, biotecnología ambiental, tratamiento de aguas, calidad del agua, water quality, bioremediation, biorremediación_
 
@@ -183,7 +196,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ingenieria-metabolica** — Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida. _Aliases: metabolic engineering, strain engineering, biocatalyst engineering, cell factory, ingeniería de cepas_
 
-**ingenieria-quimica** — Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial. _Aliases: chemical engineering, biochemical engineering, proceso industrial, ingeniería de procesos_ — Alcance y efecto real de los hallazgos científicos más allá de las publicaciones académicas; incluye transferencia de conocimiento a políticas públicas, práctica profesional y comunidades. _Aliases: research impact, transferencia de conocimiento, impacto social de la ciencia_
+**ingenieria-quimica** — Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial. _Aliases: chemical engineering, biochemical engineering, proceso industrial, ingeniería de procesos_
 
 **integridad-academica** — Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política. _Aliases: academic integrity, deshonestidad académica, plagiarism, trampa académica_
 
@@ -205,13 +218,15 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## M
 
-**medicina-basada-en-evidencia**
+**medicina-basada-en-evidencia** — Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio. _Aliases: evidence-based medicine, EBM, medicina basada en evidencias_
 
 **metabolitos-secundarios** — Compuestos producidos por microorganismos que no son esenciales para el crecimiento celular pero tienen valor industrial, farmacéutico o nutricional; incluye terpenoides, alcaloides, policétidos, carotenoides e isoprenoides. _Aliases: secondary metabolites, natural products, productos naturales, terpenoids, isoprenoids, carotenoids_
 
+**microscopia-de-caracterizacion** — Técnicas de microscopía electrónica (SEM, TEM, FE-SEM) y de fluorescencia usadas para caracterizar morfología, ultraestructura y distribución espacial de células, biopelículas y materiales a escala micro- y nanométrica. _Aliases: electron microscopy, fluorescence microscopy, SEM, TEM, FE-SEM_
+
 **motivacion-y-compromiso-estudiantil** — Energía, impulso y conductas que sostienen la participación, el esfuerzo y la persistencia del estudiante en el aprendizaje; el compromiso (engagement) es multidimensional (cognitivo, conductual, emocional y de agencia) y se distingue de los resultados de aprendizaje. _Aliases: student motivation and engagement, learning engagement, motivación estudiantil, compromiso del estudiante_
 
-**modelado-molecular** — Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas. _Aliases: molecular modeling, molecular mechanics, molecular dynamics, MD simulation, force field, campo de fuerzas_ — Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio. _Aliases: evidence-based medicine, EBM, medicina basada en evidencias_
+**modelado-molecular** — Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas. _Aliases: molecular modeling, molecular mechanics, molecular dynamics, MD simulation, force field, campo de fuerzas_
 
 **microfluidica** — Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales. _Aliases: microfluidics, lab-on-a-chip, microfluídica, micro total analysis systems, µTAS_
 
@@ -221,7 +236,13 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **nanociencia** — Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala. _Aliases: nanotechnology, nanotecnología, molecular electronics, electrónica molecular, nanoescala_
 
+**nanomedicina** — Aplicación de la nanotecnología al diagnóstico y tratamiento de enfermedades; incluye nanopartículas funcionalizadas para entrega dirigida de fármacos/péptidos, guiado magnético y teranóstica. _Aliases: nanomedicine, teranóstica, theranostics_
+
+**nanomotores** — Nanopartículas o nanoestructuras autopropulsadas capaces de generar movimiento activo (por reacciones enzimáticas, gradientes químicos o campos magnéticos externos) para mejorar la penetración y distribución en tejidos biológicos; incluye sistemas de movilidad dual (guiado magnético + propulsión enzimática) y análisis de desplazamiento cuadrático medio (MSD). _Aliases: nanomotors, self-propelled nanoparticles, dual-mode mobility, MSD_
+
 ## O
+
+**oncologia** — Investigación básica, preclínica y traslacional sobre el cáncer y sus terapias; abarca las bases biológicas de la enfermedad (líneas celulares tumorales, inducción de apoptosis por vías extrínseca/intrínseca vía caspasas), la evaluación de selectividad tumor-normal de nuevas terapias, y su aplicación al diagnóstico y tratamiento mediante nanotecnología, terapia génica y otras modalidades dirigidas. _Aliases: oncology, cáncer, oncología experimental, investigación oncológica, terapias antitumorales, cancer research_
 
 ## P
 
@@ -229,7 +250,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **pensamiento-critico** — Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas. _Aliases: critical thinking, juicio crítico, razonamiento crítico, higher-order thinking, evaluación crítica_
 
-**pensamiento-critico-medico**
+**pensamiento-critico-medico** — Capacidad para evaluar con escepticismo y rigor la evidencia científica médica, identificar sesgos institucionales y resistir el pensamiento grupal (*groupthink*) en contextos clínicos y de salud pública. _Aliases: critical thinking in medicine, medical skepticism, escepticismo médico, groupthink médico_
 
 **profesion-de-la-ingenieria** — Ejercicio profesional regulado de la ingeniería: licenciamiento (Professional Engineer), responsabilidad y rendición de cuentas del ingeniero sobre el proyecto, y deber de proteger la salud, la seguridad y el bienestar públicos; se distingue de la educación en ingeniería. _Aliases: engineering profession, professional engineering, licensed professional engineer, PE, professional responsibility, responsabilidad profesional_
 **petroleo-y-gas** — Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de hidrocarburos; incluye flujos multifásicos, emulsiones de crudo, demulsificación, reología de crudos pesados y técnicas de recuperación mejorada. _Aliases: oil and gas, petroleum engineering, crudo pesado, heavy crude oil, demulsification_
@@ -238,7 +259,9 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **poder-y-persuasion** — Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico. _Aliases: power and persuasion, influence, maquiavelismo, strategic power, Machiavelli, realpolitik_
 
-**politica-social** — Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia. _Aliases: social policy, políticas públicas sociales, welfare policy, programas sociales_ — Capacidad para evaluar con escepticismo y rigor la evidencia científica médica, identificar sesgos institucionales y resistir el pensamiento grupal (*groupthink*) en contextos clínicos y de salud pública. _Aliases: critical thinking in medicine, medical skepticism, escepticismo médico, groupthink médico_
+**politica-social** — Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia. _Aliases: social policy, políticas públicas sociales, welfare policy, programas sociales_
+
+**probioticos** — Microorganismos vivos que confieren beneficios a la salud del huésped cuando se administran en cantidades adecuadas; incluye su formulación oral, encapsulación para viabilidad gastrointestinal y aplicaciones en salud digestiva. _Aliases: probiotics, bacterias probióticas, microbiota intestinal_
 
 **personalidad-introversion** — Dimensión del temperamento caracterizada por la preferencia por entornos de baja estimulación, la orientación hacia la vida interior y la tendencia a procesar la experiencia con mayor profundidad y deliberación; se distingue de la timidez y complementa a la extroversión en el espectro de la personalidad. _Aliases: introversion, extroversion, temperamento introvertido, Big Five openness, personality temperament_
 
