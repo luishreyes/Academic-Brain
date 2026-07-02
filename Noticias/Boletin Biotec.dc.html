@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,800;1,6..72,400;1,6..72,500;1,6..72,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    doc-page:not(:defined){visibility:hidden}
+    body{margin:0}
+    .prose-cols{column-count:2;column-gap:32px;column-rule:1px solid #e4ddcf;}
+    .prose-cols > p{margin:0 0 12px;}
+    .span-all{column-span:all;-webkit-column-span:all;}
+    @media print{ .screen-only{display:none !important;} }
+  </style>
+</helmet>
+<x-import component-from-global-scope="doc-page" from="./doc-page.js" size="letter" margin="0.7in" hint-size="100%,100%">
+
+  <div slot="footer" style="display:flex;justify-content:space-between;align-items:center;font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.08em;text-transform:uppercase;color:#8a8172;border-top:1px solid #ddd5c5;padding-top:6px;">
+    <span>Boletín de Biotecnología</span>
+    <span style="color:#14655a;">Investigación personal · Edición Nº 000</span>
+    <span>Lunes 00 · mmm · AAAA</span>
+  </div>
+
+  <div style="font-family:'Newsreader',Georgia,serif;color:#17130f;line-height:1.62;font-size:15.5px;font-optical-sizing:auto;">
+
+    <!-- ============ MASTHEAD ============ -->
+    <header style="text-align:center;">
+      <div style="border-top:1px solid #17130f;height:0;margin-bottom:9px;"></div>
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:0.34em;text-transform:uppercase;color:#14655a;margin-bottom:7px;">Investigación en biotec · nanobiotec · áreas afines</div>
+      <h1 style="font-weight:800;font-size:62px;line-height:0.94;letter-spacing:-0.015em;margin:0;">Boletín de Biotecnología</h1>
+      <div style="font-family:'Newsreader',serif;font-style:italic;font-size:16px;color:#6b6459;margin-top:8px;">Un corresponsal científico para su semana · edición personal, registro usted</div>
+      <div style="border-top:2px solid #17130f;border-bottom:1px solid #17130f;padding:7px 2px;margin-top:12px;display:flex;justify-content:space-between;align-items:center;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:#4a4438;">
+        <span>Edición Nº <b style="color:#14655a;">000</b></span>
+        <span>Semana del <b>DD</b> al <b>DD</b> de <b>mmm</b></span>
+        <span><b style="color:#14655a;">NN</b> papers · lectura ~NN min</span>
+      </div>
+    </header>
+
+    <!-- template note (screen only) -->
+    <p class="screen-only" style="font-family:'IBM Plex Mono',monospace;font-size:10px;color:#a79d8a;text-align:center;margin:10px 0 0;letter-spacing:0.02em;">Plantilla de referencia · el texto <i style="font-family:'Newsreader',serif;">en cursiva ámbar</i> es guía para redactar y se reemplaza. Las secciones sin novedad se omiten sin anunciarlas.</p>
+
+    <!-- ============ LEDE ============ -->
+    <section style="margin-top:26px;">
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.28em;text-transform:uppercase;color:#14655a;margin-bottom:8px;">Lo más importante de la semana</div>
+      <p style="font-size:21px;line-height:1.5;margin:0;color:#2a251d;text-wrap:pretty;">
+        <span style="float:left;font-weight:800;font-size:70px;line-height:0.7;padding:6px 10px 0 0;color:#14655a;">E</span><i style="color:#8a6a2f;">Abra con el pulso de la semana en dos o tres frases: qué se movió de verdad y por qué le importa a estas líneas. Nombre el hilo que domina la edición, el contraste más jugoso, o la conexión que salta con el second brain. Tono flash news, directo, con criterio. Este lede es lo primero que se lee y decide si el resto se lee.</i>
+      </p>
+    </section>
+
+    <!-- ============ ÍNDICE ============ -->
+    <section style="margin-top:22px;border:1px solid #17130f;padding:13px 16px;">
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.22em;text-transform:uppercase;color:#14655a;margin-bottom:8px;">En esta edición · secciones que se movieron</div>
+      <div style="display:flex;flex-wrap:wrap;gap:6px 20px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:0.02em;color:#2a251d;">
+        <span>01 — Nuevas metodologías</span>
+        <span>02 — Compuestos de interés industrial y alimentario</span>
+        <span>03 — Aplicaciones biomédicas y sistemas de entrega</span>
+        <span>04 — Biomateriales y encapsulación</span>
+        <span>05 — Bioprocesos y escalamiento</span>
+        <span>06 — Contrastes con trabajo previo</span>
+        <span>07 — Temas emergentes</span>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 01 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">01</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Nuevas metodologías</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Edición génica · cepas · ALE · biología sintética · plataformas de síntesis</span>
+      </div>
+
+      <div class="prose-cols" style="margin-top:14px;">
+        <p><i style="color:#8a6a2f;">Teja aquí un par de párrafos en prosa que agrupen por sentido, no por fuente. Cuente qué método nuevo apareció y por qué cambia algo: una técnica de edición, una estrategia de ingeniería de cepas, un round de ALE, una plataforma de síntesis. Dele criterio, no resumen plano.</i></p>
+        <p><i style="color:#8a6a2f;">Cuando un estudio traiga una cifra que valga, désela dentro de la frase: rendimiento, título, veces de mejora, eficiencia. Enlace las ideas con conectores variados. Cierre cada mención con su referencia mínima, así:</i></p>
+
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 14px;border-left:2px solid #14655a;padding-left:9px;">Apellido AB, Apellido CD · 2026 · ↗ doi.org/10.xxxx/xxxxx</p>
+
+        <!-- MARGINALIA / MEMORIA -->
+        <aside class="span-all" style="background:#eef4f2;border-left:3px solid #14655a;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#14655a;margin-bottom:4px;">◆ Hilo que sigue</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;"><i style="color:#8a6a2f;">Retome un pendiente vivo del histórico: "siguiendo con el hilo de la semana pasada sobre…". Diga en qué quedó y qué lo mueve hoy. Estos callouts son el corazón de la continuidad; úselos cuando un paper conversa con algo ya abierto.</i></p>
+        </aside>
+
+        <p><i style="color:#8a6a2f;">Siga con la segunda agrupación de metodologías si la hubo. Si un eje no se movió esta semana, no lo mencione: la sección entera desaparece sin nota. La extensión viene de cubrir lo que pasó, nunca de rellenar.</i></p>
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 4px;border-left:2px solid #14655a;padding-left:9px;">Apellido EF et al. · 2026 · ↗ biorxiv.org/xxxx</p>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 02 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">02</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Compuestos de interés industrial y alimentario</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Bioquímicos · ingredientes · proteína unicelular · biosurfactantes</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p><i style="color:#8a6a2f;">Producción por vía metabólica o sintética. Recuerde el criterio de calibración: un hallazgo en alimentos funcionales, proteína unicelular o diseño sensorial cuenta cuando toca sus ejes por su mecanismo o su método, no por el tema. Diga cuál es ese puente.</i></p>
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 14px;border-left:2px solid #14655a;padding-left:9px;">Apellido GH, Apellido IJ · 2026 · ↗ doi.org/10.xxxx/xxxxx</p>
+
+        <aside class="span-all" style="background:#f6f1e6;border-left:3px solid #b0872f;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#a06d1a;margin-bottom:4px;">◇ Contraste</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;"><i style="color:#8a6a2f;">"Esto contrasta con aquel paper que sostenía que…". Abra la tensión: dos resultados que no cuadran, un método que desmiente una nota vieja. Lo que se contradice es lo que más enseña; no lo suavice.</i></p>
+        </aside>
+        <p><i style="color:#8a6a2f;">Segundo párrafo si el eje lo pide. Cifras dentro de la prosa cuando aporten.</i></p>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 03 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">03</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Aplicaciones biomédicas y sistemas de entrega</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Bionanoconjugados · nanopartículas · liposomas · péptidos · CRISPR · terapias de reemplazo</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p><i style="color:#8a6a2f;">Nanobiotecnología y entrega de biomoléculas con potencial terapéutico. Magnetita, liposomas, péptidos translocantes y antimicrobianos, edición y terapias de reemplazo génico y enzimático. Cuente el mecanismo y qué lo hace prometedor o dudoso.</i></p>
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 14px;border-left:2px solid #14655a;padding-left:9px;">Apellido KL et al. · 2026 · ↗ pubmed.ncbi.nlm.nih.gov/xxxx</p>
+
+        <aside class="span-all" style="background:#eef4f2;border-left:3px solid #14655a;padding:11px 15px;margin:6px 0 16px;">
+          <div style="font-family:'IBM Plex Mono',monospace;font-size:9px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#14655a;margin-bottom:4px;">◈ Conexión con el brain</div>
+          <p style="margin:0;font-size:14px;line-height:1.5;"><i style="color:#8a6a2f;">"Esto conversa con la nota sobre… del second brain". Señale la conexión que emerge: una línea que se refuerza, una idea vieja que cobra sentido nuevo. Material de primera para la redacción, no un anexo.</i></p>
+        </aside>
+        <p><i style="color:#8a6a2f;">Segundo párrafo. Eficiencia de encapsulación, título, potencia: cifras si las hay.</i></p>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 04 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">04</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Biomateriales y encapsulación</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Probióticos · hidrogeles estímulo-responsivos · biomateriales</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p><i style="color:#8a6a2f;">Encapsulación de probióticos, hidrogeles que responden a estímulos, biomateriales. Aquí también aplica el filtro del mecanismo. Levaduras no convencionales para cerveza entran cuando la ingeniería de cepas o el perfil sensorial tocan estos ejes.</i></p>
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 4px;border-left:2px solid #14655a;padding-left:9px;">Apellido MN, Apellido OP · 2026 · ↗ chemrxiv.org/xxxx</p>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 05 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">05</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Bioprocesos y escalamiento</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Scale-up · scale-down · microfluídica aplicada a síntesis y caracterización</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p><i style="color:#8a6a2f;">Escalamiento y scale-down, microfluídica para síntesis y caracterización. Qué se resolvió del salto de escala, qué chip o estrategia nueva apareció, con la cifra de mejora cuando la traiga el estudio.</i></p>
+        <p style="font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:#14655a;letter-spacing:0.01em;margin:-4px 0 4px;border-left:2px solid #14655a;padding-left:9px;">Apellido QR et al. · 2026 · ↗ doi.org/10.xxxx/xxxxx</p>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 06 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">06</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Contrastes con trabajo previo</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Diálogo con boletines y con el second brain</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p><i style="color:#8a6a2f;">Sección para lo que dialoga con lo ya pensado, cuando no cabe dentro de un eje. Réplicas, actualizaciones, seguimientos que valía la pena retomar. Aquí es natural encadenar "vuelve la pregunta que quedó abierta hace dos semanas".</i></p>
+      </div>
+    </section>
+
+    <!-- ============ SECCIÓN 07 ============ -->
+    <section style="margin-top:30px;">
+      <div style="display:flex;align-items:baseline;gap:12px;border-bottom:2px solid #17130f;padding-bottom:6px;">
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;color:#14655a;">07</span>
+        <h2 style="font-weight:800;font-size:27px;line-height:1.05;margin:0;flex:1;">Temas emergentes</h2>
+        <span style="font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8172;">Lo que aún no es eje pero vale vigilar</span>
+      </div>
+      <div class="prose-cols" style="margin-top:14px;">
+        <p><i style="color:#8a6a2f;">Señales tempranas: una técnica, un debate, una línea que podría volverse relevante. Breve. Si no hubo, se omite.</i></p>
+      </div>
+    </section>
+
+    <!-- ============ HILO ABIERTO ============ -->
+    <section style="margin-top:34px;border:2px solid #14655a;background:#eef4f2;padding:18px 20px;">
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;font-weight:600;letter-spacing:0.24em;text-transform:uppercase;color:#14655a;margin-bottom:8px;">▶ Hilo abierto para mañana</div>
+      <p style="margin:0;font-size:17px;line-height:1.55;color:#2a251d;"><i style="color:#8a6a2f;">Una o dos líneas con el pendiente que retoma la próxima sesión: qué quedó a medias, qué esperar, qué revisar primero. Sin este cierre la cadena se rompe. Se anota igual al final del .md en GitHub para que el PASO 0 de mañana sepa por dónde seguir.</i></p>
+    </section>
+
+    <!-- ============ LEYENDA (screen) ============ -->
+    <section class="screen-only" style="margin-top:34px;border-top:1px dashed #c9c0b0;padding-top:16px;">
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.22em;text-transform:uppercase;color:#8a8172;margin-bottom:12px;">Leyenda de la plantilla</div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px 24px;font-size:13.5px;line-height:1.5;color:#4a4438;">
+        <div style="border-left:3px solid #14655a;padding-left:10px;"><b style="color:#14655a;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;">◆ Hilo que sigue</b><br>Retoma un pendiente vivo de cualquier fecha.</div>
+        <div style="border-left:3px solid #14655a;padding-left:10px;"><b style="color:#14655a;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;">◈ Conexión con el brain</b><br>Un paper nuevo que conversa con el second brain.</div>
+        <div style="border-left:3px solid #b0872f;padding-left:10px;"><b style="color:#a06d1a;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;">◇ Contraste</b><br>Una tensión o contradicción que vale abrir.</div>
+        <div style="border-left:3px solid #999;padding-left:10px;"><b style="color:#14655a;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;">Referencia mínima</b><br>Autores · año · ↗ enlace, bajo cada mención.</div>
+      </div>
+    </section>
+
+  </div>
+</x-import>
+</x-dc>
+</body>
+</html>
