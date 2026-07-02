@@ -22,8 +22,6 @@ Tras agregar o editar un boletín, regenerar los datos del lector:
 node docs/build-noticias.mjs
 ```
 
-> Los archivos `*.dc.html` (si existen en esta carpeta) son un experimento de diseño imprimible que requiere un entorno de renderizado específico — no funcionan al abrirlos directo en el navegador ni en GitHub Pages. El lector real es `docs/noticias.html`.
-
 ## Ediciones
 
 - [2026-06-28](2026-06-28-boletin.md) — primer número.
