@@ -7,13 +7,24 @@ Distinta de `Noticias-Biotec/`, que recoge novedades del frente de investigació
 ## Convención
 
 - Un archivo `.md` por edición: `YYYY-MM-DD-boletin.md` — es la fuente de verdad (editable, versionada, legible en GitHub).
-- Cada edición tiene además una versión `.dc.html` con el mismo nombre — un diseño de boletín impreso (masthead, índice, callouts de continuidad) pensado para lectura/impresión. Ambas versiones deben decir lo mismo; el `.md` manda si difieren.
 - Estructura libre por secciones temáticas (títulos `##`), cerrando siempre con un **"Hilo abierto para mañana"** que retoma el pendiente para la próxima edición — es lo que mantiene la continuidad entre boletines.
 - Cada afirmación va acompañada de su referencia (autor, año, DOI/enlace).
 - Las ediciones se enlazan entre sí cronológicamente (la más reciente retoma el hilo abierto de la anterior).
-- `doc-page.js` y `support.js` son scripts de soporte compartidos por todos los `.dc.html` de la carpeta — no se duplican por edición.
+
+## Leer los boletines
+
+El vault tiene un **lector web en GitHub Pages** que lista todas las ediciones (de aquí y de `Noticias-Biotec/`) y permite seleccionarlas por fecha:
+**`docs/noticias.html`** → `https://luishreyes.github.io/Academic-Brain/noticias.html`
+
+Tras agregar o editar un boletín, regenerar los datos del lector:
+
+```bash
+node docs/build-noticias.mjs
+```
+
+> Los archivos `*.dc.html` (si existen en esta carpeta) son un experimento de diseño imprimible que requiere un entorno de renderizado específico — no funcionan al abrirlos directo en el navegador ni en GitHub Pages. El lector real es `docs/noticias.html`.
 
 ## Ediciones
 
-- [2026-06-28](2026-06-28-boletin.md) ([diseño](2026-06-28-boletin.dc.html)) — primer número.
-- [2026-06-29](2026-06-29-boletin.md) ([diseño](2026-06-29-boletin.dc.html)) — segundo número, retoma el hilo de retención/transferencia del primero.
+- [2026-06-28](2026-06-28-boletin.md) — primer número.
+- [2026-06-29](2026-06-29-boletin.md) — segundo número, retoma el hilo de retención/transferencia del primero.

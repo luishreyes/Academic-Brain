@@ -7,19 +7,27 @@ Obsidian: corre en cualquier navegador y se publica con GitHub Pages.
 
 | Archivo | Qué es |
 |---|---|
-| `index.html` | El visualizador (autónomo, sin dependencias externas) |
+| `index.html` | El visualizador del grafo (autónomo, sin dependencias externas) |
 | `build.mjs` | Genera `graph-data.js` leyendo las notas y conceptos del vault |
 | `graph-data.js` | Datos del grafo — **generado automáticamente, no editar a mano** |
+| `noticias.html` | Lector de boletines (`Noticias/` y `Noticias-Biotec/`), selección por fecha |
+| `build-noticias.mjs` | Genera `noticias-data.js` leyendo los `.md` de ambas carpetas de boletines |
+| `noticias-data.js` | Datos de los boletines — **generado automáticamente, no editar a mano** |
+
+Ambas páginas se enlazan entre sí (el visualizador tiene un botón "📰 Boletines →"
+y el lector tiene "← Volver al grafo").
 
 ## Cómo regenerar los datos
 
-Desde la raíz del repo, tras agregar o editar notas:
+Desde la raíz del repo:
 
 ```bash
-node docs/build.mjs
+node docs/build.mjs           # tras agregar o editar notas/conceptos
+node docs/build-noticias.mjs  # tras agregar o editar un boletín en Noticias/ o Noticias-Biotec/
 ```
 
-El comando `/ingest` ya hace esto automáticamente al procesar un paper/artículo.
+El comando `/ingest` ya ejecuta `build.mjs` automáticamente al procesar un paper/artículo.
+`build-noticias.mjs` se corre a mano al publicar un boletín nuevo.
 
 ## Activar GitHub Pages (una sola vez)
 
