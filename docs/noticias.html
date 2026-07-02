@@ -26,16 +26,32 @@
     color: var(--ink);
   }
   a { color: var(--accent); }
-  #app { display: flex; min-height: 100vh; }
 
-  /* ---- Sidebar ---- */
-  #sidebar {
-    width: 300px; min-width: 300px;
-    background: var(--panel);
-    border-right: 1px solid var(--line);
-    overflow-y: auto;
-    padding: 18px 16px 40px;
+  /* ---- Botón hamburguesa (siempre visible) ---- */
+  #menu-toggle {
+    position: fixed; top: 14px; left: 14px; z-index: 300;
+    width: 40px; height: 40px; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--panel); color: var(--ink); font-size: 18px; cursor: pointer;
+    font-family: inherit;
   }
+  #menu-toggle:hover { background: #e9e2d2; }
+
+  /* ---- Menú de boletines (panel deslizable, organizado por tema) ---- */
+  #backdrop {
+    position: fixed; inset: 0; background: rgba(23,19,15,.25);
+    z-index: 199; opacity: 0; pointer-events: none; transition: opacity .18s ease;
+  }
+  #backdrop.open { opacity: 1; pointer-events: auto; }
+
+  #sidebar {
+    position: fixed; top: 0; left: 0; height: 100vh; width: 320px; max-width: 86vw;
+    background: var(--panel); border-right: 1px solid var(--line);
+    overflow-y: auto; padding: 60px 16px 40px;
+    transform: translateX(-100%); transition: transform .2s ease;
+    z-index: 200; box-shadow: 8px 0 24px rgba(0,0,0,.12);
+  }
+  #sidebar.open { transform: translateX(0); }
+
   .brand { padding-bottom: 14px; border-bottom: 1px solid var(--line); margin-bottom: 14px; }
   .brand a.back {
     display: inline-block; font-family: 'IBM Plex Mono', monospace; font-size: 10.5px;
@@ -64,9 +80,9 @@
   .entry-title { display: block; font-size: 13.5px; line-height: 1.3; color: var(--ink); }
   .empty-msg { font-size: 12.5px; color: var(--muted); font-style: italic; padding: 4px 10px; }
 
-  /* ---- Main / article ---- */
-  #main { flex: 1; overflow-y: auto; }
-  #article-wrap { max-width: 720px; margin: 0 auto; padding: 44px 32px 80px; }
+  /* ---- Main / article (siempre a todo lo ancho; el menú es superpuesto) ---- */
+  #main { min-height: 100vh; overflow-y: auto; }
+  #article-wrap { max-width: 720px; margin: 0 auto; padding: 64px 32px 80px; }
   .meta-bar {
     display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px;
     font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; letter-spacing: .08em;
@@ -103,62 +119,30 @@
   .placeholder { color: var(--muted); font-style: italic; padding: 60px 0; text-align: center; }
 
   @media (max-width: 760px) {
-    #app { flex-direction: column; }
-    #sidebar { width: auto; min-width: 0; max-height: 40vh; border-right: none; border-bottom: 1px solid var(--line); }
-    #article-wrap { padding: 28px 18px 60px; }
+    #article-wrap { padding: 56px 18px 60px; }
     #article h1.doc-title { font-size: 28px; }
   }
   @media print {
-    #sidebar { display: none; }
+    #sidebar, #menu-toggle, #backdrop { display: none; }
   }
-
-  /* ---- Menú global (hamburguesa) ---- */
-  .global-nav { position: fixed; top: 14px; right: 14px; z-index: 500; }
-  .nav-toggle {
-    width: 38px; height: 38px; border-radius: 8px; border: 1px solid var(--line);
-    background: var(--panel); color: var(--ink); font-size: 17px; cursor: pointer;
-    font-family: inherit;
-  }
-  .nav-toggle:hover { background: #e9e2d2; }
-  .nav-panel {
-    position: absolute; top: 44px; right: 0; background: var(--paper);
-    border: 1px solid var(--line); border-radius: 10px; padding: 6px;
-    display: flex; flex-direction: column; min-width: 240px;
-    box-shadow: 0 10px 30px rgba(0,0,0,.15);
-  }
-  .nav-panel.hidden { display: none; }
-  .nav-panel a {
-    display: block; padding: 9px 12px; border-radius: 7px; color: var(--ink);
-    text-decoration: none; font-size: 13.5px; white-space: nowrap; font-family: 'Newsreader', serif;
-  }
-  .nav-panel a:hover { background: var(--panel); }
-  @media print { .global-nav { display: none; } }
 </style>
 </head>
 <body>
-<div class="global-nav">
-  <button id="nav-toggle" class="nav-toggle" aria-label="Menú" aria-expanded="false">☰</button>
-  <div id="nav-panel" class="nav-panel hidden">
-    <a href="index.html">🕸️ Grafo del vault</a>
-    <a href="#Noticias">📰 Boletines · IA en educación</a>
-    <a href="#Noticias-Biotec">🧬 Boletines · Biotecnología</a>
+<button id="menu-toggle" aria-label="Menú de boletines" aria-expanded="false">☰</button>
+<div id="backdrop"></div>
+<nav id="sidebar">
+  <div class="brand">
+    <a class="back" href="index.html">← Volver al grafo</a>
+    <h1>Boletines</h1>
+    <p>Organizados por tema · seleccione uno para leer</p>
   </div>
-</div>
-<div id="app">
-  <nav id="sidebar">
-    <div class="brand">
-      <a class="back" href="index.html">← Volver al grafo</a>
-      <h1>Boletines</h1>
-      <p>Noticias del second brain, por fecha</p>
-    </div>
-    <div id="coll-list"></div>
-  </nav>
-  <main id="main">
-    <div id="article-wrap">
-      <div id="article"><div class="placeholder">Selecciona un boletín en la izquierda.</div></div>
-    </div>
-  </main>
-</div>
+  <div id="coll-list"></div>
+</nav>
+<main id="main">
+  <div id="article-wrap">
+    <div id="article"><div class="placeholder">Abra el menú (☰) para elegir un boletín.</div></div>
+  </div>
+</main>
 
 <script src="noticias-data.js"></script>
 <script>
@@ -171,6 +155,25 @@
 
   const collListEl = document.getElementById("coll-list");
   const articleEl = document.getElementById("article");
+  const sidebarEl = document.getElementById("sidebar");
+  const backdropEl = document.getElementById("backdrop");
+  const menuBtn = document.getElementById("menu-toggle");
+
+  function openMenu() {
+    sidebarEl.classList.add("open");
+    backdropEl.classList.add("open");
+    menuBtn.setAttribute("aria-expanded", "true");
+  }
+  function closeMenu() {
+    sidebarEl.classList.remove("open");
+    backdropEl.classList.remove("open");
+    menuBtn.setAttribute("aria-expanded", "false");
+  }
+  menuBtn.addEventListener("click", () => {
+    sidebarEl.classList.contains("open") ? closeMenu() : openMenu();
+  });
+  backdropEl.addEventListener("click", closeMenu);
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeMenu(); });
 
   function renderSidebar(activeId) {
     collListEl.innerHTML = "";
@@ -205,7 +208,7 @@
 
   function renderArticle(entry, emptyMessage) {
     if (!entry) {
-      articleEl.innerHTML = '<div class="placeholder">' + (emptyMessage || "Selecciona un boletín en la izquierda.") + "</div>";
+      articleEl.innerHTML = '<div class="placeholder">' + (emptyMessage || "Abra el menú (☰) para elegir un boletín.") + "</div>";
       return;
     }
     articleEl.innerHTML =
@@ -229,6 +232,7 @@
     renderSidebar(id);
     if (push) location.hash = id;
     document.getElementById("main").scrollTop = 0;
+    closeMenu();
   }
 
   function mostRecentId(collectionDir) {
@@ -266,31 +270,6 @@
 
   window.addEventListener("hashchange", handleHash);
   handleHash();
-})();
-</script>
-<script>
-(function () {
-  const btn = document.getElementById("nav-toggle");
-  const panel = document.getElementById("nav-panel");
-  btn.addEventListener("click", (e) => {
-    e.stopPropagation();
-    const willOpen = panel.classList.contains("hidden");
-    panel.classList.toggle("hidden");
-    btn.setAttribute("aria-expanded", String(willOpen));
-  });
-  panel.querySelectorAll("a").forEach((a) => a.addEventListener("click", () => {
-    panel.classList.add("hidden");
-    btn.setAttribute("aria-expanded", "false");
-  }));
-  document.addEventListener("click", (e) => {
-    if (!panel.classList.contains("hidden") && !panel.contains(e.target) && e.target !== btn) {
-      panel.classList.add("hidden");
-      btn.setAttribute("aria-expanded", "false");
-    }
-  });
-  document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape") { panel.classList.add("hidden"); btn.setAttribute("aria-expanded", "false"); }
-  });
 })();
 </script>
 </body>
