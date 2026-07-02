@@ -124,7 +124,7 @@
 
   /* ---- Graph ---- */
   #stage { position: relative; }
-  svg { width: 100%; height: 100%; display: block; cursor: grab; }
+  svg { width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
   svg.panning { cursor: grabbing; }
   .link { stroke: var(--line); stroke-width: 1; }
   .link.related { stroke: var(--accent); stroke-dasharray: 4 3; stroke-width: 1.4; opacity: .8; }
@@ -227,6 +227,47 @@
   .md a:hover { text-decoration: underline; }
   .md a.wiki.live { cursor: pointer; border-bottom: 1px dashed rgba(167,139,250,.55); }
   .md a.wiki.dead { color: var(--muted); cursor: default; border-bottom: 1px dotted var(--line); }
+
+  /* ---- Control de etiquetas (segmentado: ninguna / conceptos / todas) ---- */
+  .label-row { display: flex; align-items: center; gap: 9px; padding: 6px 4px 4px; font-size: 13px; }
+  .label-pills { display: flex; flex-wrap: wrap; gap: 5px; margin: 2px 0 2px 21px; }
+  .label-btn {
+    font-size: 11px; padding: 4px 9px; border-radius: 20px; cursor: pointer;
+    border: 1px solid var(--line); background: transparent; color: var(--muted);
+    font-family: inherit; transition: color .12s, border-color .12s, background .12s;
+  }
+  .label-btn:hover { color: var(--text); border-color: var(--muted); }
+  .label-btn.active { color: var(--accent); border-color: var(--accent); background: rgba(167,139,250,.14); }
+
+  /* ---- Overlay del sidebar en móvil (oculto en escritorio) ---- */
+  #sb-backdrop {
+    display: none; position: fixed; inset: 0; background: rgba(5,7,16,.55);
+    z-index: 240; opacity: 0; pointer-events: none; transition: opacity .18s ease;
+  }
+  #sb-backdrop.visible { opacity: 1; pointer-events: auto; }
+
+  /* ---- Móvil: sidebar como panel deslizable superpuesto, controles más grandes ---- */
+  @media (max-width: 760px) {
+    #sidebar {
+      position: fixed; top: 0; left: 0; height: 100%; z-index: 260;
+      width: 86vw; min-width: 0; max-width: 340px;
+      box-shadow: 10px 0 30px rgba(0,0,0,.4);
+      transform: translateX(0); transition: transform .22s ease;
+      -webkit-overflow-scrolling: touch;
+    }
+    #sidebar.collapsed {
+      width: 86vw; min-width: 0; border-right: 1px solid var(--line);
+      transform: translateX(-100%);
+    }
+    #sb-backdrop { display: block; }
+    #sb-toggle {
+      position: fixed; left: 10px; top: 10px; z-index: 270;
+      width: 42px; height: 42px; font-size: 15px; border-radius: 9px;
+    }
+    #detail { width: 100%; max-width: 100%; }
+    .zoom-controls { right: 10px; bottom: 10px; gap: 8px; }
+    .zoom-controls button { width: 44px; height: 44px; font-size: 20px; }
+  }
 </style>
 </head>
 <body>
@@ -291,10 +332,14 @@
             <span class="swatch" style="background:var(--accent)"></span> Enlaces directos
             <input type="checkbox" checked />
           </label>
-          <label class="toggle" id="labels-toggle">
+          <div class="label-row">
             <span class="swatch" style="background:var(--muted)"></span> Etiquetas
-            <input type="checkbox" checked />
-          </label>
+          </div>
+          <div class="label-pills" id="label-pills">
+            <button class="label-btn active" data-mode="none">Ninguna</button>
+            <button class="label-btn" data-mode="concepts">Conceptos</button>
+            <button class="label-btn" data-mode="all">Todas</button>
+          </div>
         </div>
       </div>
       <div class="section">
@@ -352,6 +397,7 @@
 
   <div id="stage">
     <button id="sb-toggle" title="Mostrar/ocultar panel">◀</button>
+    <div id="sb-backdrop"></div>
     <svg id="svg"></svg>
     <div class="zoom-controls">
       <button id="zoom-in" title="Acercar">+</button>
@@ -435,8 +481,9 @@ for (const l of links) {
 const visibleKinds = { paper: true, article: true, book: true, concept: true };
 let activeCategories = new Set();
 let showRelated = true;
-let showLabels = true;
+let labelMode = "none"; // 'none' | 'concepts' | 'all' — por defecto sin etiquetas
 let selectedId = null;
+function isMobile() { return window.matchMedia("(max-width: 760px)").matches; }
 
 function nodeInActiveCategories(n) {
   if (activeCategories.size === 0) return true;
@@ -483,6 +530,11 @@ const linkEls = links.map((l) => {
 const nodeEls = nodes.map((n) => {
   const g = document.createElementNS(NS, "g");
   g.setAttribute("class", "node");
+  // círculo invisible más grande solo para facilitar el toque en móvil
+  const hit = document.createElementNS(NS, "circle");
+  hit.setAttribute("r", Math.max(radius(n) + 10, 18));
+  hit.setAttribute("fill", "transparent");
+  hit.setAttribute("pointer-events", "all");
   const c = document.createElementNS(NS, "circle");
   c.setAttribute("r", radius(n));
   c.setAttribute("fill", COLORS[n.kind]);
@@ -490,13 +542,18 @@ const nodeEls = nodes.map((n) => {
   t.setAttribute("x", radius(n) + 4);
   t.setAttribute("y", 4);
   t.textContent = labelFor(n);
-  g.appendChild(c); g.appendChild(t);
+  g.appendChild(hit); g.appendChild(c); g.appendChild(t);
   gNodes.appendChild(g);
   n._g = g; n._c = c; n._t = t;
   g.addEventListener("mousedown", (e) => startDragNode(e, n));
   g.addEventListener("click", (e) => { e.stopPropagation(); select(n.id); });
   g.addEventListener("mouseenter", () => hover(n.id));
   g.addEventListener("mouseleave", () => hover(null));
+  g.addEventListener("touchstart", (e) => {
+    if (e.touches.length !== 1) return;
+    e.stopPropagation();
+    dragNode = n; dragMoved = false; reheat(0.5); touchMode = "drag";
+  }, { passive: true });
   return g;
 });
 
@@ -577,7 +634,8 @@ function draw() {
     const vis = visibleKinds[n.kind] && nodeInActiveCategories(n);
     n._g.style.display = vis ? "" : "none";
     n._g.setAttribute("transform", `translate(${n.x},${n.y})`);
-    if (n._t) n._t.style.display = (showLabels && vis) ? "" : "none";
+    const showLabel = labelMode === "all" || (labelMode === "concepts" && n.kind === "concept");
+    if (n._t) n._t.style.display = (showLabel && vis) ? "" : "none";
   }
 }
 
@@ -623,6 +681,64 @@ window.addEventListener("mousemove", (e) => {
   dragNode.vx = 0; dragNode.vy = 0; dragMoved = true;
 });
 window.addEventListener("mouseup", () => { if (dragNode) { dragNode = null; alphaTarget = 0; } });
+
+// ---- Táctil: arrastre de fondo (pan), arrastre de nodo y pinch-zoom ----
+let touchMode = null; // 'pan' | 'drag' | 'pinch'
+let pinchStartDist = 0, pinchStartK = 1, pinchMid = { x: 0, y: 0 };
+function touchDist(a, b) { return Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY); }
+function touchMidpoint(a, b) { return { x: (a.clientX + b.clientX) / 2, y: (a.clientY + b.clientY) / 2 }; }
+
+svg.addEventListener("touchstart", (e) => {
+  if (e.touches.length === 1) {
+    touchMode = "pan"; panning = true; svg.classList.add("panning");
+    const t = e.touches[0];
+    panStart = { x: t.clientX - view.x, y: t.clientY - view.y };
+  } else if (e.touches.length === 2) {
+    touchMode = "pinch"; panning = false; dragNode = null;
+    pinchStartDist = touchDist(e.touches[0], e.touches[1]);
+    pinchStartK = view.k;
+    pinchMid = touchMidpoint(e.touches[0], e.touches[1]);
+  }
+}, { passive: true });
+
+window.addEventListener("touchmove", (e) => {
+  if (touchMode === "drag" && dragNode && e.touches.length === 1) {
+    const t = e.touches[0];
+    const r = svg.getBoundingClientRect();
+    dragNode.x = (t.clientX - r.left - view.x) / view.k;
+    dragNode.y = (t.clientY - r.top - view.y) / view.k;
+    dragNode.vx = 0; dragNode.vy = 0; dragMoved = true;
+    e.preventDefault();
+  } else if (touchMode === "pan" && panning && e.touches.length === 1) {
+    const t = e.touches[0];
+    view.x = t.clientX - panStart.x; view.y = t.clientY - panStart.y;
+    applyView();
+    e.preventDefault();
+  } else if (touchMode === "pinch" && e.touches.length === 2) {
+    const r = svg.getBoundingClientRect();
+    const dist = touchDist(e.touches[0], e.touches[1]);
+    const k2 = Math.max(0.2, Math.min(4, pinchStartK * (dist / pinchStartDist)));
+    const mx = pinchMid.x - r.left, my = pinchMid.y - r.top;
+    view.x = mx - ((mx - view.x) / view.k) * k2;
+    view.y = my - ((my - view.y) / view.k) * k2;
+    view.k = k2;
+    applyView();
+    e.preventDefault();
+  }
+}, { passive: false });
+
+window.addEventListener("touchend", (e) => {
+  if (e.touches.length === 0) {
+    if (touchMode === "drag" && dragNode) { dragNode = null; alphaTarget = 0; }
+    if (touchMode === "pan") { panning = false; svg.classList.remove("panning"); }
+    touchMode = null;
+  } else if (e.touches.length === 1 && touchMode === "pinch") {
+    // queda un solo dedo tras un pellizco: seguir como pan
+    touchMode = "pan"; panning = true;
+    const t = e.touches[0];
+    panStart = { x: t.clientX - view.x, y: t.clientY - view.y };
+  }
+}, { passive: true });
 
 document.getElementById("zoom-in").onclick = () => zoomBy(1.25);
 document.getElementById("zoom-out").onclick = () => zoomBy(1 / 1.25);
@@ -689,9 +805,12 @@ const relToggle = document.querySelector(".toggle[data-edge=related]");
 relToggle.querySelector("input").addEventListener("change", (e) => {
   showRelated = e.target.checked; relToggle.classList.toggle("off", !showRelated);
 });
-const labelsToggle = document.getElementById("labels-toggle");
-labelsToggle.querySelector("input").addEventListener("change", (e) => {
-  showLabels = e.target.checked; labelsToggle.classList.toggle("off", !showLabels); draw();
+document.querySelectorAll(".label-btn").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    labelMode = btn.dataset.mode;
+    document.querySelectorAll(".label-btn").forEach((b) => b.classList.toggle("active", b === btn));
+    draw();
+  });
 });
 
 // ===================== Sliders de física =====================
@@ -735,6 +854,7 @@ function select(id, pushHistory = true) {
     detail.classList.remove("open");
     applyHighlight(null);
     backBtn.classList.remove("visible");
+    if (isMobile()) sbToggle.style.visibility = "visible";
     return;
   }
   backBtn.classList.toggle("visible", navHistory.length > 0);
@@ -743,6 +863,7 @@ function select(id, pushHistory = true) {
   if (!n) return;
   applyHighlight(id);
   detail.classList.add("open");
+  if (isMobile()) sbToggle.style.visibility = "hidden";
   const badge = document.getElementById("d-badge");
   badge.className = "badge " + n.kind;
   badge.textContent = n.kind === "paper" ? "Paper" : n.kind === "article" ? "Artículo" : n.kind === "book" ? "Libro" : "Concepto";
@@ -893,7 +1014,7 @@ function initSidebar() {
       const name = document.createElement("span"); name.textContent = n.label;
       const deg = document.createElement("span"); deg.className = "deg"; deg.textContent = n.degree || 0;
       item.appendChild(dot); item.appendChild(name); item.appendChild(deg);
-      item.onclick = () => select(n.id);
+      item.onclick = () => { select(n.id); if (isMobile()) setSidebarOpen(false); };
       item.onmouseenter = () => hover(n.id);
       item.onmouseleave = () => hover(null);
       list.appendChild(item);
@@ -927,13 +1048,18 @@ document.querySelectorAll(".section-hdr").forEach((hdr) => {
   });
 });
 
-// ===================== Sidebar toggle =====================
+// ===================== Sidebar toggle (overlay + backdrop en móvil) =====================
 const sbToggle = document.getElementById("sb-toggle");
 const sidebar = document.getElementById("sidebar");
-sbToggle.addEventListener("click", () => {
-  const collapsed = sidebar.classList.toggle("collapsed");
-  sbToggle.textContent = collapsed ? "▶" : "◀";
-});
+const sbBackdrop = document.getElementById("sb-backdrop");
+function setSidebarOpen(open) {
+  sidebar.classList.toggle("collapsed", !open);
+  sbBackdrop.classList.toggle("visible", open && isMobile());
+  sbToggle.textContent = open ? "◀" : "▶";
+}
+sbToggle.addEventListener("click", () => setSidebarOpen(sidebar.classList.contains("collapsed")));
+sbBackdrop.addEventListener("click", () => setSidebarOpen(false));
+setSidebarOpen(!isMobile());
 
 // ===================== Init =====================
 function resize() { W = svg.clientWidth; H = svg.clientHeight; }
