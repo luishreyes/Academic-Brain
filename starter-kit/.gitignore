@@ -1,0 +1,13 @@
+# Temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Node (por si instala algo local; el proyecto no lo necesita)
+node_modules/
+
+# Nada de secretos ni tokens en el repo
+.env
+*.local
+
+# Notas de trabajo personales que no quiera versionar (opcional)
+# scratch/
