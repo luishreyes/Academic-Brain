@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<title>Segundo Cerebro — Visualizador</title>
+<link rel="icon" href="logo.webp" type="image/webp" />
+<style>
+  :root {
+    --bg: #0b1020;
+    --panel: #131a2c;
+    --panel-2: #1b2440;
+    --line: #263150;
+    --text: #e6ecf7;
+    --muted: #93a0bd;
+    --paper: #60a5fa;
+    --article: #2dd4bf;
+    --book: #f472b6;
+    --concept: #fbbf24;
+    --accent: #a78bfa;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; height: 100dvh; touch-action: pan-x pan-y; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    overflow: hidden;
+  }
+  #app { display: flex; height: 100vh; height: 100dvh; }
+  #stage { flex: 1; position: relative; overflow: hidden; }
+
+  /* ---- Sidebar ---- */
+  #sidebar {
+    background: var(--panel);
+    border-right: 1px solid var(--line);
+    display: flex; flex-direction: column;
+    overflow: hidden;
+    width: 290px; min-width: 290px;
+    transition: width .2s ease, min-width .2s ease;
+  }
+  #sidebar.collapsed { width: 0; min-width: 0; border-right: none; }
+  #sb-toggle {
+    position: absolute; left: 0; top: 12px; z-index: 10;
+    width: 22px; height: 36px; background: var(--panel);
+    border: 1px solid var(--line); border-left: none;
+    border-radius: 0 7px 7px 0; color: var(--muted);
+    font-size: 11px; cursor: pointer; display: flex;
+    align-items: center; justify-content: center;
+    transition: left .2s ease;
+  }
+  #sb-toggle:hover { color: var(--text); background: var(--panel-2); }
+  .brand { padding: 18px 18px 12px; border-bottom: 1px solid var(--line); }
+  .brand h1 { font-size: 17px; margin: 0 0 2px; letter-spacing: .2px; }
+  .brand p { margin: 0; font-size: 12px; color: var(--muted); }
+  .sb-scroll { overflow-y: auto; padding: 14px 16px 24px; flex: 1; }
+  .section { margin-bottom: 16px; }
+  .section-hdr {
+    display: flex; align-items: center; justify-content: space-between;
+    cursor: pointer; padding: 2px 0 8px; user-select: none;
+  }
+  .section-hdr:hover h2 { color: var(--text); }
+  .section h2 {
+    font-size: 11px; text-transform: uppercase; letter-spacing: .8px;
+    color: var(--muted); margin: 0; font-weight: 600;
+  }
+  .section-arrow { font-size: 9px; color: var(--muted); transition: transform .18s ease; line-height: 1; }
+  .section-hdr:hover .section-arrow { color: var(--text); }
+  .section-arrow.open { transform: rotate(0deg); }
+  .section-arrow.closed { transform: rotate(-90deg); }
+  .section-body.hidden { display: none; }
+  .cat-pills { display: flex; flex-wrap: wrap; gap: 5px; }
+  .cat-btn {
+    font-size: 11px; padding: 4px 9px; border-radius: 20px; cursor: pointer;
+    border: 1px solid var(--line); background: transparent; color: var(--muted);
+    transition: color .12s, border-color .12s, background .12s; white-space: nowrap;
+    font-family: inherit;
+  }
+  .cat-btn:hover { color: var(--text); border-color: var(--muted); }
+  .cat-btn.active[data-cat=ia]  { color:#818cf8; border-color:#818cf8; background:rgba(129,140,248,.12); }
+  .cat-btn.active[data-cat=edu] { color:#34d399; border-color:#34d399; background:rgba(52,211,153,.12); }
+  .cat-btn.active[data-cat=nat] { color:#4ade80; border-color:#4ade80; background:rgba(74,222,128,.12); }
+  .cat-btn.active[data-cat=soc] { color:#fb923c; border-color:#fb923c; background:rgba(251,146,60,.12); }
+  .cat-btn.active[data-cat=psi] { color:#e879f9; border-color:#e879f9; background:rgba(232,121,249,.12); }
+  .cat-btn.active[data-cat=met] { color:#94a3b8; border-color:#94a3b8; background:rgba(148,163,184,.12); }
+  .search {
+    width: 100%; padding: 9px 11px; border-radius: 9px;
+    border: 1px solid var(--line); background: var(--panel-2);
+    color: var(--text); font-size: 13px; outline: none;
+  }
+  .search:focus { border-color: var(--accent); }
+  .toggle {
+    display: flex; align-items: center; gap: 9px; padding: 6px 4px;
+    font-size: 13px; cursor: pointer; user-select: none; border-radius: 7px;
+  }
+  .toggle:hover { background: var(--panel-2); }
+  .toggle input { display: none; }
+  .swatch {
+    width: 12px; height: 12px; border-radius: 50%; flex: none;
+    box-shadow: 0 0 0 2px rgba(255,255,255,.08);
+  }
+  .toggle .count { margin-left: auto; font-size: 11px; color: var(--muted); }
+  .toggle.off { opacity: .4; }
+  .concept-list { display: flex; flex-direction: column; gap: 1px; }
+  .concept-item {
+    display: flex; align-items: center; gap: 8px; padding: 6px 8px;
+    font-size: 12.5px; border-radius: 7px; cursor: pointer; color: var(--text);
+  }
+  .concept-item:hover { background: var(--panel-2); }
+  .concept-item .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--concept); flex: none; }
+  .concept-item .deg { margin-left: auto; font-size: 11px; color: var(--muted); }
+  .hint { font-size: 11.5px; color: var(--muted); line-height: 1.5; }
+  .physics-row { display: flex; align-items: center; gap: 8px; padding: 4px 0; font-size: 12px; }
+  .physics-row label { flex: 0 0 120px; color: var(--muted); }
+  .physics-row input[type=range] {
+    flex: 1; -webkit-appearance: none; appearance: none;
+    height: 4px; border-radius: 2px; background: var(--line); outline: none; cursor: pointer;
+  }
+  .physics-row input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none; width: 14px; height: 14px; border-radius: 50%;
+    background: var(--accent); cursor: pointer;
+  }
+  .physics-row span { font-size: 11px; color: var(--muted); width: 34px; text-align: right; flex: none; }
+
+  /* ---- Graph ---- */
+  #stage { position: relative; }
+  svg { width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
+  svg.panning { cursor: grabbing; }
+  .link { stroke: var(--line); stroke-width: 1; }
+  .link.related { stroke: var(--accent); stroke-dasharray: 4 3; stroke-width: 1.4; opacity: .8; }
+  .node circle { stroke: rgba(10,14,30,.85); stroke-width: 1.5; cursor: pointer; }
+  .node circle.hit { stroke: none; fill: transparent; }
+  .node text {
+    font-size: 11px; fill: var(--text); pointer-events: none;
+    paint-order: stroke; stroke: rgba(8,12,26,.9); stroke-width: 3px;
+    stroke-linejoin: round;
+  }
+  .dim { opacity: .12; transition: opacity .15s; }
+  .hl text { fill: #fff; }
+
+  .zoom-controls {
+    position: absolute; right: 14px; bottom: 14px; display: flex; flex-direction: column; gap: 6px;
+  }
+  .zoom-controls button {
+    width: 34px; height: 34px; border-radius: 9px; border: 1px solid var(--line);
+    background: var(--panel); color: var(--text); font-size: 17px; cursor: pointer;
+  }
+  .zoom-controls button:hover { background: var(--panel-2); }
+
+  /* ---- Detail panel ---- */
+  #detail {
+    position: absolute; top: 0; right: 0; height: 100%; width: 340px;
+    background: var(--panel); border-left: 1px solid var(--line);
+    transform: translateX(100%); transition: transform .22s ease;
+    display: flex; flex-direction: column; overflow: hidden;
+  }
+  #detail.open { transform: translateX(0); }
+  .d-head { padding: 18px 18px 14px; border-bottom: 1px solid var(--line); }
+  .d-close {
+    float: right; background: none; border: none; color: var(--muted);
+    font-size: 20px; cursor: pointer; line-height: 1;
+    width: 40px; height: 40px; margin: -10px -10px 0 0;
+  }
+  .d-close:hover { color: var(--text); }
+  .d-back {
+    display: none; background: none; border: none; color: var(--accent);
+    font-size: 12px; cursor: pointer; padding: 0; margin-bottom: 8px;
+    align-items: center; gap: 4px;
+  }
+  .d-back.visible { display: flex; }
+  .d-back:hover { opacity: .75; }
+  .badge {
+    display: inline-block; font-size: 10.5px; text-transform: uppercase; letter-spacing: .6px;
+    padding: 3px 8px; border-radius: 20px; font-weight: 600; margin-bottom: 9px;
+  }
+  .badge.paper { background: rgba(96,165,250,.18); color: var(--paper); }
+  .badge.article { background: rgba(45,212,191,.18); color: var(--article); }
+  .badge.book { background: rgba(244,114,182,.18); color: var(--book); }
+  .badge.concept { background: rgba(251,191,36,.18); color: var(--concept); }
+  .d-title { font-size: 15.5px; line-height: 1.35; margin: 0; }
+  .d-meta { font-size: 12px; color: var(--muted); margin-top: 7px; line-height: 1.5; }
+  .d-body { padding: 16px 18px; overflow-y: auto; flex: 1; }
+  .d-body h3 {
+    font-size: 11px; text-transform: uppercase; letter-spacing: .7px;
+    color: var(--muted); margin: 0 0 8px;
+  }
+  .d-section { margin-bottom: 20px; }
+  .def { font-size: 13px; line-height: 1.55; color: var(--text); }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip {
+    font-size: 11.5px; padding: 4px 9px; border-radius: 20px; cursor: pointer;
+    background: var(--panel-2); border: 1px solid var(--line); color: var(--text);
+  }
+  .chip:hover { border-color: var(--concept); color: var(--concept); }
+  .ref-list { display: flex; flex-direction: column; gap: 2px; }
+  .ref {
+    font-size: 12.5px; padding: 7px 9px; border-radius: 7px; cursor: pointer;
+    color: var(--text); display: flex; gap: 8px; align-items: center; line-height: 1.3;
+  }
+  .ref:hover { background: var(--panel-2); }
+  .ref .dot { width: 7px; height: 7px; border-radius: 50%; flex: none; margin-top: 1px; }
+  .links-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 4px; }
+  .ext {
+    font-size: 12.5px; color: var(--accent); text-decoration: none;
+    border: 1px solid var(--line); padding: 6px 11px; border-radius: 8px;
+  }
+  .ext:hover { background: var(--panel-2); }
+  .empty { color: var(--muted); font-size: 12.5px; }
+
+  /* ---- Contenido de la nota renderizado (markdown) ---- */
+  .md { font-size: 13px; line-height: 1.62; color: var(--text); }
+  .md > :first-child { margin-top: 0; }
+  .md h1, .md h2, .md h3, .md h4 {
+    text-transform: none; letter-spacing: 0; font-weight: 600;
+  }
+  .md h1 { font-size: 15px; margin: 16px 0 8px; color: var(--text); }
+  .md h2 { font-size: 13px; margin: 17px 0 7px; color: var(--accent); }
+  .md h3 { font-size: 12.5px; margin: 14px 0 6px; color: var(--muted); }
+  .md h4 { font-size: 12px; margin: 12px 0 5px; color: var(--muted); }
+  .md p { margin: 0 0 10px; }
+  .md ul { margin: 0 0 11px; padding-left: 18px; }
+  .md li { margin: 0 0 5px; }
+  .md strong { color: #fff; }
+  .md em { color: var(--text); }
+  .md code {
+    background: var(--panel-2); padding: 1px 5px; border-radius: 5px;
+    font-size: 12px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+  .md a { color: var(--accent); text-decoration: none; }
+  .md a:hover { text-decoration: underline; }
+  .md a.wiki.live { cursor: pointer; border-bottom: 1px dashed rgba(167,139,250,.55); }
+  .md a.wiki.dead { color: var(--muted); cursor: default; border-bottom: 1px dotted var(--line); }
+
+  /* ---- Control de etiquetas (segmentado: ninguna / conceptos / todas) ---- */
+  .label-row { display: flex; align-items: center; gap: 9px; padding: 6px 4px 4px; font-size: 13px; }
+  .label-pills { display: flex; flex-wrap: wrap; gap: 5px; margin: 2px 0 2px 21px; }
+  .label-btn {
+    font-size: 11px; padding: 4px 9px; border-radius: 20px; cursor: pointer;
+    border: 1px solid var(--line); background: transparent; color: var(--muted);
+    font-family: inherit; transition: color .12s, border-color .12s, background .12s;
+  }
+  .label-btn:hover { color: var(--text); border-color: var(--muted); }
+  .label-btn.active { color: var(--accent); border-color: var(--accent); background: rgba(167,139,250,.14); }
+
+  /* ---- Overlay del sidebar en móvil (oculto en escritorio) ---- */
+  #sb-backdrop {
+    display: none; position: fixed; inset: 0; background: rgba(5,7,16,.55);
+    z-index: 240; opacity: 0; pointer-events: none; transition: opacity .18s ease;
+  }
+  #sb-backdrop.visible { opacity: 1; pointer-events: auto; }
+
+  /* ---- Móvil: sidebar como panel deslizable superpuesto, controles más grandes ---- */
+  @media (max-width: 760px) {
+    #sidebar {
+      position: fixed; top: 0; left: 0; height: 100%; height: 100dvh; z-index: 260;
+      width: 86vw; min-width: 0; max-width: 340px;
+      box-shadow: 10px 0 30px rgba(0,0,0,.4);
+      transform: translateX(0); transition: transform .22s ease;
+      -webkit-overflow-scrolling: touch;
+    }
+    #sidebar.collapsed {
+      width: 86vw; min-width: 0; border-right: 1px solid var(--line);
+      transform: translateX(-100%);
+    }
+    #sb-backdrop { display: block; }
+    #sb-toggle {
+      position: fixed; left: 10px; top: 10px; z-index: 270;
+      width: 42px; height: 42px; font-size: 15px; border-radius: 9px;
+    }
+    #detail { width: 100%; max-width: 100%; }
+    .zoom-controls { right: 10px; bottom: 10px; gap: 8px; }
+    .zoom-controls button { width: 44px; height: 44px; font-size: 20px; }
+  }
+</style>
+</head>
+<body>
+<div id="app">
+  <aside id="sidebar">
+    <div class="brand">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px">
+        <img src="logo.webp" alt="" width="36" height="36" style="object-fit:contain;flex:none" />
+        <h1 style="margin:0">Segundo Cerebro</h1>
+      </div>
+      <p id="brand-sub">Cargando…</p>
+      <a href="noticias.html" style="display:inline-block;margin-top:8px;font-size:11.5px;color:var(--accent);text-decoration:none;border:1px solid var(--line);border-radius:6px;padding:4px 9px;">📰 Boletines →</a>
+    </div>
+    <div class="sb-scroll">
+      <div class="section">
+        <h2>Buscar</h2>
+        <input id="search" class="search" placeholder="Título, autor, keyword…" autocomplete="off" />
+      </div>
+      <div class="section">
+        <div class="section-hdr">
+          <h2>Categorías</h2>
+          <span class="section-arrow open">▾</span>
+        </div>
+        <div class="section-body">
+          <div class="cat-pills">
+            <button class="cat-btn" data-cat="ia">IA y tecnología</button>
+            <button class="cat-btn" data-cat="edu">Educación</button>
+            <button class="cat-btn" data-cat="nat">Ciencias naturales</button>
+            <button class="cat-btn" data-cat="soc">Ciencias sociales</button>
+            <button class="cat-btn" data-cat="psi">Psicología</button>
+            <button class="cat-btn" data-cat="met">Métodos</button>
+          </div>
+        </div>
+      </div>
+      <div class="section">
+        <div class="section-hdr">
+          <h2>Mostrar</h2>
+          <span class="section-arrow open">▾</span>
+        </div>
+        <div class="section-body">
+          <label class="toggle" data-kind="paper">
+            <span class="swatch" style="background:var(--paper)"></span> Papers
+            <span class="count" id="c-paper">0</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="toggle" data-kind="article">
+            <span class="swatch" style="background:var(--article)"></span> Artículos
+            <span class="count" id="c-article">0</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="toggle" data-kind="book">
+            <span class="swatch" style="background:var(--book)"></span> Libros
+            <span class="count" id="c-book">0</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="toggle" data-kind="concept">
+            <span class="swatch" style="background:var(--concept)"></span> Conceptos
+            <span class="count" id="c-concept">0</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="toggle" data-edge="related">
+            <span class="swatch" style="background:var(--accent)"></span> Enlaces directos
+            <input type="checkbox" checked />
+          </label>
+          <div class="label-row">
+            <span class="swatch" style="background:var(--muted)"></span> Etiquetas
+          </div>
+          <div class="label-pills" id="label-pills">
+            <button class="label-btn active" data-mode="none">Ninguna</button>
+            <button class="label-btn" data-mode="concepts">Conceptos</button>
+            <button class="label-btn" data-mode="all">Todas</button>
+          </div>
+        </div>
+      </div>
+      <div class="section">
+        <div class="section-hdr">
+          <h2>Explorar conceptos</h2>
+          <span class="section-arrow closed">▾</span>
+        </div>
+        <div class="section-body hidden">
+          <div class="concept-list" id="concept-list"></div>
+        </div>
+      </div>
+      <div class="section">
+        <div class="section-hdr">
+          <h2>Física del grafo</h2>
+          <span class="section-arrow closed">▾</span>
+        </div>
+        <div class="section-body hidden">
+          <div class="physics-row">
+            <label>Repulsión</label>
+            <input type="range" id="sl-repulsion" min="500" max="12000" step="100" value="12000" />
+            <span id="lbl-repulsion">12000</span>
+          </div>
+          <div class="physics-row">
+            <label>Atracción</label>
+            <input type="range" id="sl-attraction" min="1" max="50" step="1" value="1" />
+            <span id="lbl-attraction">0.01</span>
+          </div>
+          <div class="physics-row">
+            <label>Dist. enlaces</label>
+            <input type="range" id="sl-linkdist" min="20" max="200" step="5" value="160" />
+            <span id="lbl-linkdist">160</span>
+          </div>
+          <div class="physics-row">
+            <label>Amortiguación</label>
+            <input type="range" id="sl-damping" min="50" max="99" step="1" value="50" />
+            <span id="lbl-damping">0.50</span>
+          </div>
+        </div>
+      </div>
+      <div class="section">
+        <div class="section-hdr">
+          <h2>Cómo usar</h2>
+          <span class="section-arrow closed">▾</span>
+        </div>
+        <div class="section-body hidden">
+          <p class="hint">
+            Arrastra los nodos para reorganizar. Rueda para zoom, arrastra el fondo para mover.
+            Clic en un nodo para ver su detalle. Los <b>conceptos</b> (ámbar) conectan las notas
+            que comparten una misma keyword.
+          </p>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <div id="stage">
+    <button id="sb-toggle" title="Mostrar/ocultar panel">◀</button>
+    <div id="sb-backdrop"></div>
+    <svg id="svg"></svg>
+    <div class="zoom-controls">
+      <button id="zoom-in" title="Acercar">+</button>
+      <button id="zoom-out" title="Alejar">−</button>
+      <button id="zoom-fit" title="Ajustar" style="font-size:13px">⤢</button>
+    </div>
+    <aside id="detail">
+      <div class="d-head">
+        <button class="d-close" id="d-close">×</button>
+        <button class="d-back" id="d-back">← Atrás</button>
+        <span class="badge" id="d-badge"></span>
+        <h2 class="d-title" id="d-title"></h2>
+        <div class="d-meta" id="d-meta"></div>
+        <div class="links-row" id="d-links"></div>
+      </div>
+      <div class="d-body" id="d-body"></div>
+    </aside>
+  </div>
+</div>
+
+<script src="graph-data.js"></script>
+<script>
+// ===================== Configuración =====================
+const CONFIG = {
+  // Base para enlazar al archivo .md original en GitHub.
+  repoBlobBase: "https://github.com/USUARIO/REPO/blob/main/",  // <<< EDITE: su usuario/repo de GitHub
+};
+
+const COLORS = { paper: "#60a5fa", article: "#2dd4bf", book: "#f472b6", concept: "#fbbf24" };
+const DATA = window.__ACADEMIC_BRAIN__ || { nodes: [], links: [], counts: {} };
+
+const CATEGORY_MAP = {
+  // ============================================================================
+  // EDITE ESTO. Cada categoría agrupa keywords (slugs, tal cual aparecen en el
+  // frontmatter de las notas) bajo un color en el grafo. Los filtros de la barra
+  // lateral usan estas claves (ia, edu, nat, soc, psi, met). Puede:
+  //   - Poblar cada Set con los slugs de SUS keywords, o
+  //   - Renombrar/añadir categorías (recuerde cambiar también los botones
+  //     .cat-btn en el HTML y sus reglas de color en el CSS .cat-btn.active[...]).
+  // Un keyword que no esté en ninguna categoría simplemente no se resalta al
+  // filtrar; el grafo funciona igual. No es obligatorio clasificarlos todos.
+  // ============================================================================
+  ia:  new Set(['inteligencia-artificial', 'aprendizaje-automatico']),
+  edu: new Set(['educacion-superior', 'evaluacion-educativa']),
+  nat: new Set(['biologia-molecular']),
+  soc: new Set(['politica-publica']),
+  psi: new Set(['sesgo-cognitivo']),
+  met: new Set(['revision-sistematica-de-literatura']),
+};
+
+// ===================== Estado =====================
+const svg = document.getElementById("svg");
+const NS = "http://www.w3.org/2000/svg";
+let W = svg.clientWidth, H = svg.clientHeight;
+
+const nodes = DATA.nodes.map((n) => ({ ...n }));
+const idMap = new Map(nodes.map((n) => [n.id, n]));
+const links = DATA.links
+  .map((l) => ({ ...l, source: idMap.get(l.source), target: idMap.get(l.target) }))
+  .filter((l) => l.source && l.target);
+
+// adyacencia para resaltar vecinos
+const neighbors = new Map(nodes.map((n) => [n.id, new Set()]));
+for (const l of links) {
+  neighbors.get(l.source.id).add(l.target.id);
+  neighbors.get(l.target.id).add(l.source.id);
+}
+
+const visibleKinds = { paper: true, article: true, book: true, concept: true };
+let activeCategories = new Set();
+let showRelated = true;
+let labelMode = "none"; // 'none' | 'concepts' | 'all' — por defecto sin etiquetas
+let selectedId = null;
+function isMobile() { return window.matchMedia("(max-width: 760px)").matches; }
+
+function nodeInActiveCategories(n) {
+  if (activeCategories.size === 0) return true;
+  const kws = n.kind === "concept" ? [n.keyword] : (n.keywords || []);
+  for (const cat of activeCategories) {
+    for (const kw of kws) {
+      if (CATEGORY_MAP[cat] && CATEGORY_MAP[cat].has(kw)) return true;
+    }
+  }
+  return false;
+}
+let navHistory = [];
+let searchTerm = "";
+
+// posiciones iniciales en círculo — radio escala con √n para evitar explosión
+nodes.forEach((n, i) => {
+  const a = (i / nodes.length) * Math.PI * 2;
+  const r0 = Math.max(250, Math.sqrt(nodes.length) * 28);
+  n.x = W / 2 + Math.cos(a) * r0 + (i % 7) * 5;
+  n.y = H / 2 + Math.sin(a) * r0 + (i % 5) * 5;
+  n.vx = 0; n.vy = 0;
+});
+
+function radius(n) {
+  if (n.kind === "concept") return 5 + Math.log((n.degree || 0) + 1) * 4;
+  return 7;
+}
+
+// ===================== Render SVG =====================
+const gZoom = document.createElementNS(NS, "g");
+const gLinks = document.createElementNS(NS, "g");
+const gNodes = document.createElementNS(NS, "g");
+gZoom.appendChild(gLinks); gZoom.appendChild(gNodes);
+svg.appendChild(gZoom);
+
+const linkEls = links.map((l) => {
+  const el = document.createElementNS(NS, "line");
+  el.setAttribute("class", "link" + (l.kind === "related" ? " related" : ""));
+  gLinks.appendChild(el);
+  l._el = el;
+  return el;
+});
+
+const nodeEls = nodes.map((n) => {
+  const g = document.createElementNS(NS, "g");
+  g.setAttribute("class", "node");
+  // círculo invisible más grande solo para facilitar el toque en móvil
+  const hit = document.createElementNS(NS, "circle");
+  hit.setAttribute("class", "hit");
+  hit.setAttribute("r", Math.max(radius(n) + 10, 18));
+  hit.setAttribute("pointer-events", "all");
+  const c = document.createElementNS(NS, "circle");
+  c.setAttribute("r", radius(n));
+  c.setAttribute("fill", COLORS[n.kind]);
+  const t = document.createElementNS(NS, "text");
+  t.setAttribute("x", radius(n) + 4);
+  t.setAttribute("y", 4);
+  t.textContent = labelFor(n);
+  g.appendChild(hit); g.appendChild(c); g.appendChild(t);
+  gNodes.appendChild(g);
+  n._g = g; n._c = c; n._t = t;
+  g.addEventListener("mousedown", (e) => startDragNode(e, n));
+  g.addEventListener("click", (e) => { e.stopPropagation(); select(n.id); });
+  g.addEventListener("mouseenter", () => hover(n.id));
+  g.addEventListener("mouseleave", () => hover(null));
+  g.addEventListener("touchstart", (e) => {
+    if (e.touches.length !== 1) return;
+    e.stopPropagation();
+    dragNode = n; dragMoved = false; reheat(0.5); touchMode = "drag";
+  }, { passive: true });
+  return g;
+});
+
+function labelFor(n) {
+  if (n.kind === "concept") return n.label;
+  const t = n.label || "";
+  return t.length > 42 ? t.slice(0, 40) + "…" : t;
+}
+
+// ===================== Simulación de fuerzas =====================
+// alpha = "energía" del sistema. En reposo tiende a alphaTarget (0 → quieto).
+// Agarrar/mover un nodo sube alphaTarget y recalienta los resortes, igual
+// que en Obsidian: todo el grafo reacciona mientras arrastras.
+let alpha = 0.6;
+let alphaTarget = 0;
+const ALPHA_DECAY = 0.018;
+let simRepulsion = 12000;
+let simAttraction = 0.01;
+let simLinkDist = 160;
+let simDamping = 0.50;
+function reheat(t) { alphaTarget = t; if (alpha < t) alpha = t; }
+function tick() {
+  const active = nodes.filter((n) => visibleKinds[n.kind] && nodeInActiveCategories(n));
+  const cx = W / 2, cy = H / 2;
+  // repulsión O(n²) — suficiente para cientos de nodos
+  for (let i = 0; i < active.length; i++) {
+    const a = active[i];
+    for (let j = i + 1; j < active.length; j++) {
+      const b = active[j];
+      let dx = a.x - b.x, dy = a.y - b.y;
+      let d2 = dx * dx + dy * dy || 0.01;
+      const f = (simRepulsion * alpha) / d2;
+      const d = Math.sqrt(d2);
+      const fx = (dx / d) * f, fy = (dy / d) * f;
+      a.vx += fx; a.vy += fy; b.vx -= fx; b.vy -= fy;
+    }
+  }
+  // atracción por aristas
+  for (const l of links) {
+    if (!visibleKinds[l.source.kind] || !visibleKinds[l.target.kind]) continue;
+    if (l.kind === "related" && !showRelated) continue;
+    let dx = l.target.x - l.source.x, dy = l.target.y - l.source.y;
+    const d = Math.sqrt(dx * dx + dy * dy) || 0.01;
+    const ideal = l.kind === "related" ? simLinkDist * 2 : simLinkDist;
+    const f = ((d - ideal) / d) * simAttraction * alpha;
+    const fx = dx * f, fy = dy * f;
+    l.source.vx += fx; l.source.vy += fy;
+    l.target.vx -= fx; l.target.vy -= fy;
+  }
+  // centrado + integración
+  for (const n of active) {
+    if (n === dragNode) continue;
+    n.vx += (cx - n.x) * 0.0015 * alpha;
+    n.vy += (cy - n.y) * 0.0015 * alpha;
+    n.vx *= simDamping; n.vy *= simDamping;
+    const MAX_V = 30;
+    if (n.vx > MAX_V) n.vx = MAX_V; else if (n.vx < -MAX_V) n.vx = -MAX_V;
+    if (n.vy > MAX_V) n.vy = MAX_V; else if (n.vy < -MAX_V) n.vy = -MAX_V;
+    n.x += n.vx; n.y += n.vy;
+  }
+  alpha += (alphaTarget - alpha) * ALPHA_DECAY;
+  if (alpha < 0.001) alpha = 0;
+  draw();
+  requestAnimationFrame(tick);
+}
+
+function draw() {
+  for (const l of links) {
+    const vis = visibleKinds[l.source.kind] && visibleKinds[l.target.kind] &&
+                (l.kind !== "related" || showRelated) &&
+                nodeInActiveCategories(l.source) && nodeInActiveCategories(l.target);
+    l._el.style.display = vis ? "" : "none";
+    if (!vis) continue;
+    l._el.setAttribute("x1", l.source.x); l._el.setAttribute("y1", l.source.y);
+    l._el.setAttribute("x2", l.target.x); l._el.setAttribute("y2", l.target.y);
+  }
+  for (const n of nodes) {
+    const vis = visibleKinds[n.kind] && nodeInActiveCategories(n);
+    n._g.style.display = vis ? "" : "none";
+    n._g.setAttribute("transform", `translate(${n.x},${n.y})`);
+    const showLabel = labelMode === "all" || (labelMode === "concepts" && n.kind === "concept");
+    if (n._t) n._t.style.display = (showLabel && vis) ? "" : "none";
+  }
+}
+
+// ===================== Zoom / Pan =====================
+const view = { x: 0, y: 0, k: 1 };
+function applyView() {
+  gZoom.setAttribute("transform", `translate(${view.x},${view.y}) scale(${view.k})`);
+}
+svg.addEventListener("wheel", (e) => {
+  e.preventDefault();
+  const r = svg.getBoundingClientRect();
+  const mx = e.clientX - r.left, my = e.clientY - r.top;
+  const factor = e.deltaY < 0 ? 1.12 : 1 / 1.12;
+  const k2 = Math.max(0.2, Math.min(4, view.k * factor));
+  view.x = mx - ((mx - view.x) / view.k) * k2;
+  view.y = my - ((my - view.y) / view.k) * k2;
+  view.k = k2; applyView();
+}, { passive: false });
+
+let panning = false, panStart = null;
+svg.addEventListener("mousedown", (e) => {
+  if (e.target.closest(".node")) return;
+  panning = true; svg.classList.add("panning");
+  panStart = { x: e.clientX - view.x, y: e.clientY - view.y };
+});
+window.addEventListener("mousemove", (e) => {
+  if (panning) { view.x = e.clientX - panStart.x; view.y = e.clientY - panStart.y; applyView(); }
+});
+window.addEventListener("mouseup", () => { panning = false; svg.classList.remove("panning"); });
+svg.addEventListener("click", (e) => { if (!e.target.closest(".node")) select(null); });
+
+// arrastrar nodos
+let dragNode = null, dragMoved = false;
+function startDragNode(e, n) {
+  e.stopPropagation();
+  dragNode = n; dragMoved = false; reheat(0.5);
+}
+window.addEventListener("mousemove", (e) => {
+  if (!dragNode) return;
+  const r = svg.getBoundingClientRect();
+  dragNode.x = (e.clientX - r.left - view.x) / view.k;
+  dragNode.y = (e.clientY - r.top - view.y) / view.k;
+  dragNode.vx = 0; dragNode.vy = 0; dragMoved = true;
+});
+window.addEventListener("mouseup", () => { if (dragNode) { dragNode = null; alphaTarget = 0; } });
+
+// ---- Táctil: arrastre de fondo (pan), arrastre de nodo y pinch-zoom ----
+let touchMode = null; // 'pan' | 'drag' | 'pinch'
+let pinchStartDist = 0, pinchStartK = 1, pinchMid = { x: 0, y: 0 };
+function touchDist(a, b) { return Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY); }
+function touchMidpoint(a, b) { return { x: (a.clientX + b.clientX) / 2, y: (a.clientY + b.clientY) / 2 }; }
+
+svg.addEventListener("touchstart", (e) => {
+  if (e.touches.length === 1) {
+    touchMode = "pan"; panning = true; svg.classList.add("panning");
+    const t = e.touches[0];
+    panStart = { x: t.clientX - view.x, y: t.clientY - view.y };
+  } else if (e.touches.length === 2) {
+    touchMode = "pinch"; panning = false; dragNode = null;
+    pinchStartDist = touchDist(e.touches[0], e.touches[1]);
+    pinchStartK = view.k;
+    pinchMid = touchMidpoint(e.touches[0], e.touches[1]);
+  }
+}, { passive: true });
+
+window.addEventListener("touchmove", (e) => {
+  if (touchMode === "drag" && dragNode && e.touches.length === 1) {
+    const t = e.touches[0];
+    const r = svg.getBoundingClientRect();
+    dragNode.x = (t.clientX - r.left - view.x) / view.k;
+    dragNode.y = (t.clientY - r.top - view.y) / view.k;
+    dragNode.vx = 0; dragNode.vy = 0; dragMoved = true;
+    e.preventDefault();
+  } else if (touchMode === "pan" && panning && e.touches.length === 1) {
+    const t = e.touches[0];
+    view.x = t.clientX - panStart.x; view.y = t.clientY - panStart.y;
+    applyView();
+    e.preventDefault();
+  } else if (touchMode === "pinch" && e.touches.length === 2) {
+    const r = svg.getBoundingClientRect();
+    const dist = touchDist(e.touches[0], e.touches[1]);
+    const k2 = Math.max(0.2, Math.min(4, pinchStartK * (dist / pinchStartDist)));
+    const mx = pinchMid.x - r.left, my = pinchMid.y - r.top;
+    view.x = mx - ((mx - view.x) / view.k) * k2;
+    view.y = my - ((my - view.y) / view.k) * k2;
+    view.k = k2;
+    applyView();
+    e.preventDefault();
+  }
+}, { passive: false });
+
+window.addEventListener("touchend", (e) => {
+  if (e.touches.length === 0) {
+    if (touchMode === "drag" && dragNode) { dragNode = null; alphaTarget = 0; }
+    if (touchMode === "pan") { panning = false; svg.classList.remove("panning"); }
+    touchMode = null;
+  } else if (e.touches.length === 1 && touchMode === "pinch") {
+    // queda un solo dedo tras un pellizco: seguir como pan
+    touchMode = "pan"; panning = true;
+    const t = e.touches[0];
+    panStart = { x: t.clientX - view.x, y: t.clientY - view.y };
+  }
+}, { passive: true });
+
+document.getElementById("zoom-in").onclick = () => zoomBy(1.25);
+document.getElementById("zoom-out").onclick = () => zoomBy(1 / 1.25);
+document.getElementById("zoom-fit").onclick = fitView;
+function zoomBy(f) {
+  const k2 = Math.max(0.2, Math.min(4, view.k * f));
+  view.x = W / 2 - ((W / 2 - view.x) / view.k) * k2;
+  view.y = H / 2 - ((H / 2 - view.y) / view.k) * k2;
+  view.k = k2; applyView();
+}
+function fitView() {
+  const vis = nodes.filter((n) => visibleKinds[n.kind]);
+  if (!vis.length) return;
+  let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+  for (const n of vis) { minX = Math.min(minX, n.x); minY = Math.min(minY, n.y); maxX = Math.max(maxX, n.x); maxY = Math.max(maxY, n.y); }
+  const pad = 60, bw = maxX - minX + pad * 2, bh = maxY - minY + pad * 2;
+  view.k = Math.max(0.2, Math.min(2, Math.min(W / bw, H / bh)));
+  view.x = W / 2 - ((minX + maxX) / 2) * view.k;
+  view.y = H / 2 - ((minY + maxY) / 2) * view.k;
+  applyView();
+}
+
+// ===================== Resaltado / búsqueda =====================
+function hover(id) { if (!selectedId) applyHighlight(id); }
+function applyHighlight(focusId) {
+  const term = searchTerm.trim().toLowerCase();
+  nodes.forEach((n) => {
+    let on = true;
+    if (focusId) on = n.id === focusId || neighbors.get(focusId).has(n.id);
+    if (term) on = on && matches(n, term);
+    n._g.classList.toggle("dim", !on && (!!focusId || !!term));
+    n._g.classList.toggle("hl", !!focusId && n.id === focusId);
+  });
+  links.forEach((l) => {
+    let on = true;
+    if (focusId) on = l.source.id === focusId || l.target.id === focusId;
+    if (term) on = on && matches(l.source, term) && matches(l.target, term);
+    l._el.classList.toggle("dim", !on && (!!focusId || !!term));
+  });
+}
+function matches(n, term) {
+  if (!term) return true;
+  const hay = [n.label, n.keyword, (n.authors || []).join(" "), (n.keywords || []).join(" "), (n.aliases || []).join(" ")]
+    .join(" ").toLowerCase();
+  return hay.includes(term);
+}
+
+const searchEl = document.getElementById("search");
+searchEl.addEventListener("input", () => {
+  searchTerm = searchEl.value;
+  applyHighlight(selectedId);
+});
+
+// ===================== Toggles =====================
+document.querySelectorAll(".toggle[data-kind]").forEach((t) => {
+  const kind = t.dataset.kind, input = t.querySelector("input");
+  input.addEventListener("change", () => {
+    visibleKinds[kind] = input.checked;
+    t.classList.toggle("off", !input.checked);
+    reheat(0.5);
+  });
+});
+const relToggle = document.querySelector(".toggle[data-edge=related]");
+relToggle.querySelector("input").addEventListener("change", (e) => {
+  showRelated = e.target.checked; relToggle.classList.toggle("off", !showRelated);
+});
+document.querySelectorAll(".label-btn").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    labelMode = btn.dataset.mode;
+    document.querySelectorAll(".label-btn").forEach((b) => b.classList.toggle("active", b === btn));
+    draw();
+  });
+});
+
+// ===================== Sliders de física =====================
+function wireSlider(id, lblId, parse, apply) {
+  const sl = document.getElementById(id);
+  const lbl = document.getElementById(lblId);
+  sl.addEventListener("input", () => {
+    const v = parse(sl.value);
+    lbl.textContent = v;
+    apply(v);
+    reheat(0.5);
+  });
+}
+wireSlider("sl-repulsion", "lbl-repulsion",
+  v => parseInt(v),
+  v => { simRepulsion = v; });
+wireSlider("sl-attraction", "lbl-attraction",
+  v => (parseInt(v) / 100).toFixed(2),
+  v => { simAttraction = parseFloat(v); });
+wireSlider("sl-linkdist", "lbl-linkdist",
+  v => parseInt(v),
+  v => { simLinkDist = v; });
+wireSlider("sl-damping", "lbl-damping",
+  v => (parseInt(v) / 100).toFixed(2),
+  v => { simDamping = parseFloat(v); });
+
+// ===================== Detalle =====================
+const detail = document.getElementById("detail");
+document.getElementById("d-close").onclick = () => { navHistory = []; select(null); };
+document.getElementById("d-back").onclick = () => {
+  const prev = navHistory.pop();
+  if (prev) select(prev, false);
+};
+
+function select(id, pushHistory = true) {
+  if (pushHistory && selectedId && selectedId !== id) navHistory.push(selectedId);
+  const backBtn = document.getElementById("d-back");
+  if (!id) {
+    navHistory = [];
+    selectedId = null;
+    detail.classList.remove("open");
+    applyHighlight(null);
+    backBtn.classList.remove("visible");
+    if (isMobile()) sbToggle.style.visibility = "visible";
+    return;
+  }
+  backBtn.classList.toggle("visible", navHistory.length > 0);
+  selectedId = id;
+  const n = idMap.get(id);
+  if (!n) return;
+  applyHighlight(id);
+  detail.classList.add("open");
+  if (isMobile()) sbToggle.style.visibility = "hidden";
+  const badge = document.getElementById("d-badge");
+  badge.className = "badge " + n.kind;
+  badge.textContent = n.kind === "paper" ? "Paper" : n.kind === "article" ? "Artículo" : n.kind === "book" ? "Libro" : "Concepto";
+  document.getElementById("d-title").textContent = n.label;
+
+  const meta = document.getElementById("d-meta");
+  const linksRow = document.getElementById("d-links");
+  const body = document.getElementById("d-body");
+  meta.innerHTML = ""; linksRow.innerHTML = ""; body.innerHTML = "";
+
+  if (n.kind === "concept") {
+    const users = links.filter((l) => l.kind === "keyword" && l.target.id === id).map((l) => l.source);
+    meta.textContent = `${users.length} ${users.length === 1 ? "nota usa" : "notas usan"} este concepto` +
+      (n.aliases && n.aliases.length ? " · alias: " + n.aliases.join(", ") : "");
+    if (n.path) linksRow.appendChild(extLink("Ver concepto (.md)", CONFIG.repoBlobBase + n.path));
+    body.appendChild(section("Definición", defEl(n.definition || "—")));
+    if (n.literature) body.appendChild(section("Qué dice la literatura", mdEl(n.literature)));
+    body.appendChild(section("Notas que lo usan", refList(users)));
+  } else {
+    const bits = [];
+    if (n.authors && n.authors.length) bits.push(n.authors.join(", "));
+    if (n.year) bits.push(n.year);
+    if (n.venue) bits.push(n.venue);
+    meta.textContent = bits.join(" · ");
+    if (n.url) linksRow.appendChild(extLink("Ver fuente ↗", n.url));
+    if (n.path) linksRow.appendChild(extLink("Ver nota (.md)", CONFIG.repoBlobBase + n.path));
+    // keywords como chips
+    const kwWrap = document.createElement("div");
+    kwWrap.className = "chips";
+    (n.keywords || []).forEach((kw) => {
+      const chip = document.createElement("span");
+      chip.className = "chip"; chip.textContent = kw;
+      const target = idMap.get("concepts/" + kw) || nodes.find((m) => m.kind === "concept" && m.keyword === kw);
+      chip.onclick = () => target && select(target.id);
+      kwWrap.appendChild(chip);
+    });
+    body.appendChild(section("Keywords", kwWrap));
+    if (n.content) body.appendChild(section("Contenido", mdEl(n.content)));
+  }
+}
+
+function section(title, contentEl) {
+  const s = document.createElement("div"); s.className = "d-section";
+  const h = document.createElement("h3"); h.textContent = title;
+  s.appendChild(h); s.appendChild(contentEl); return s;
+}
+function defEl(text) { const d = document.createElement("div"); d.className = "def"; d.textContent = text; return d; }
+
+// ---- Renderizador mínimo de Markdown (sin dependencias) ----
+function escapeHtml(s) {
+  return s.replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+}
+function renderInline(text) {
+  let s = escapeHtml(text);
+  // Wiki-links [[ruta]] o [[ruta|etiqueta]] → enlaces internos (se cablean después)
+  s = s.replace(/\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]+))?\]\]/g, (m, path, label) => {
+    const id = path.trim().replace(/\.md$/, "");
+    const txt = (label || id.split("/").pop()).trim();
+    return `<a class="wiki" data-id="${id}">${txt}</a>`;
+  });
+  // Enlaces markdown [texto](url)
+  s = s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+  s = s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  s = s.replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, "$1<em>$2</em>");
+  s = s.replace(/(^|[^\w])_([^_\n]+)_(?!\w)/g, "$1<em>$2</em>");
+  s = s.replace(/`([^`]+)`/g, "<code>$1</code>");
+  return s;
+}
+function renderMarkdown(md) {
+  const lines = (md || "").split("\n");
+  let html = "", i = 0;
+  while (i < lines.length) {
+    const line = lines[i];
+    if (/^\s*$/.test(line)) { i++; continue; }
+    let m;
+    if ((m = line.match(/^(#{1,6})\s+(.*)$/))) {
+      const lvl = Math.min(m[1].length, 4);
+      html += `<h${lvl}>${renderInline(m[2])}</h${lvl}>`;
+      i++;
+    } else if (/^\s*[-*]\s+/.test(line)) {
+      html += "<ul>";
+      while (i < lines.length && /^\s*[-*]\s+/.test(lines[i])) {
+        html += "<li>" + renderInline(lines[i].replace(/^\s*[-*]\s+/, "")) + "</li>";
+        i++;
+      }
+      html += "</ul>";
+    } else {
+      const buf = [];
+      while (i < lines.length && !/^\s*$/.test(lines[i]) &&
+             !/^#{1,6}\s/.test(lines[i]) && !/^\s*[-*]\s+/.test(lines[i])) {
+        buf.push(lines[i]); i++;
+      }
+      html += "<p>" + renderInline(buf.join(" ")) + "</p>";
+    }
+  }
+  return html;
+}
+function mdEl(content) {
+  const d = document.createElement("div");
+  d.className = "md";
+  d.innerHTML = renderMarkdown(content);
+  d.querySelectorAll("a.wiki").forEach((a) => {
+    const t = idMap.get(a.dataset.id);
+    if (t) {
+      a.classList.add("live");
+      a.textContent = t.label;            // muestra el título legible del nodo
+      a.addEventListener("click", (e) => { e.preventDefault(); select(t.id); });
+    } else {
+      a.classList.add("dead");
+    }
+  });
+  return d;
+}
+function extLink(label, href) {
+  const a = document.createElement("a"); a.className = "ext"; a.href = href;
+  a.target = "_blank"; a.rel = "noopener"; a.textContent = label; return a;
+}
+function refList(items) {
+  const wrap = document.createElement("div"); wrap.className = "ref-list";
+  if (!items.length) { const e = document.createElement("div"); e.className = "empty"; e.textContent = "Ninguna todavía."; return e; }
+  items.forEach((m) => {
+    const r = document.createElement("div"); r.className = "ref";
+    const dot = document.createElement("span"); dot.className = "dot"; dot.style.background = COLORS[m.kind];
+    const span = document.createElement("span"); span.textContent = m.label;
+    r.appendChild(dot); r.appendChild(span);
+    r.onclick = () => select(m.id);
+    wrap.appendChild(r);
+  });
+  return wrap;
+}
+
+// ===================== Sidebar: conteos y lista de conceptos =====================
+function initSidebar() {
+  const bookCount = DATA.counts.books || 0;
+  const bookStr = bookCount ? ` · ${bookCount} ${bookCount === 1 ? "libro" : "libros"}` : "";
+  document.getElementById("brand-sub").textContent =
+    `${DATA.counts.papers || 0} papers · ${DATA.counts.articles || 0} artículos${bookStr} · ${DATA.counts.concepts || 0} conceptos`;
+  document.getElementById("c-paper").textContent = DATA.counts.papers || 0;
+  document.getElementById("c-article").textContent = DATA.counts.articles || 0;
+  document.getElementById("c-book").textContent = DATA.counts.books || 0;
+  document.getElementById("c-concept").textContent = DATA.counts.concepts || 0;
+
+  const list = document.getElementById("concept-list");
+  nodes.filter((n) => n.kind === "concept")
+    .sort((a, b) => (b.degree || 0) - (a.degree || 0) || a.label.localeCompare(b.label))
+    .forEach((n) => {
+      const item = document.createElement("div"); item.className = "concept-item";
+      const dot = document.createElement("span"); dot.className = "dot";
+      const name = document.createElement("span"); name.textContent = n.label;
+      const deg = document.createElement("span"); deg.className = "deg"; deg.textContent = n.degree || 0;
+      item.appendChild(dot); item.appendChild(name); item.appendChild(deg);
+      item.onclick = () => { select(n.id); if (isMobile()) setSidebarOpen(false); };
+      item.onmouseenter = () => hover(n.id);
+      item.onmouseleave = () => hover(null);
+      list.appendChild(item);
+    });
+}
+
+// ===================== Categorías =====================
+document.querySelectorAll(".cat-btn").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const cat = btn.dataset.cat;
+    if (activeCategories.has(cat)) {
+      activeCategories.delete(cat);
+      btn.classList.remove("active");
+    } else {
+      activeCategories.add(cat);
+      btn.classList.add("active");
+    }
+    reheat(0.5);
+  });
+});
+
+// ===================== Secciones colapsables =====================
+document.querySelectorAll(".section-hdr").forEach((hdr) => {
+  hdr.addEventListener("click", () => {
+    const body = hdr.nextElementSibling;
+    const arrow = hdr.querySelector(".section-arrow");
+    const closing = !body.classList.contains("hidden");
+    body.classList.toggle("hidden", closing);
+    arrow.classList.toggle("open", !closing);
+    arrow.classList.toggle("closed", closing);
+  });
+});
+
+// ===================== Sidebar toggle (overlay + backdrop en móvil) =====================
+const sbToggle = document.getElementById("sb-toggle");
+const sidebar = document.getElementById("sidebar");
+const sbBackdrop = document.getElementById("sb-backdrop");
+function setSidebarOpen(open) {
+  sidebar.classList.toggle("collapsed", !open);
+  sbBackdrop.classList.toggle("visible", open && isMobile());
+  sbToggle.textContent = open ? "◀" : "▶";
+}
+sbToggle.addEventListener("click", () => setSidebarOpen(sidebar.classList.contains("collapsed")));
+sbBackdrop.addEventListener("click", () => setSidebarOpen(false));
+setSidebarOpen(!isMobile());
+
+// ===================== Init =====================
+function resize() { W = svg.clientWidth; H = svg.clientHeight; }
+window.addEventListener("resize", resize);
+resize();
+initSidebar();
+applyView();
+requestAnimationFrame(tick);
+setTimeout(fitView, 600);
+</script>
+</body>
+</html>
