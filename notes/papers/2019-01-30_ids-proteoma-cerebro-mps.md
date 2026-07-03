@@ -54,3 +54,4 @@ Inmunofluorescencia para distribución de IDS en cerebro → purificación por a
 - [[concepts/ingenieria-quimica]]
 - [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]
 - [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]
+- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]

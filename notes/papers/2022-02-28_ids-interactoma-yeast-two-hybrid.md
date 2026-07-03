@@ -50,3 +50,4 @@ Construcción de librería Y2H de proteínas candidatas de interacción con IDS.
 - [[concepts/ingenieria-quimica]]
 - [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]
 - [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]
+- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]

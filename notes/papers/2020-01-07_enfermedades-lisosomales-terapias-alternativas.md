@@ -53,3 +53,4 @@ Revisión de literatura sobre LSDs → síntesis de terapias establecidas y emer
 - [[concepts/ingenieria-quimica]]
 - [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]
 - [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]
+- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]

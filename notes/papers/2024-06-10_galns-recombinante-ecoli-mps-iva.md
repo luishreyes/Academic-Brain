@@ -42,3 +42,4 @@ Expresión heteróloga en *E. coli* glico-ingenierizada, purificación y caracte
 - [[concepts/biologia-molecular]]
 - [[concepts/ingenieria-metabolica]]
 - [[concepts/desarrollo-de-farmacos]]
+- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]
