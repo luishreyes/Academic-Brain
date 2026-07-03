@@ -247,3 +247,4 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]
 - [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
 - [[notes/papers/2026-07-02_labor-market-impacts-ai]]
+- [[notes/articles/2024-09-29_genai-ciencia-ambiental]]

@@ -36,3 +36,4 @@ Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos i
 - [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]
 - [[notes/articles/2026-06-30_twilight-chatbots-mollick]]
 - [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]
+- [[notes/articles/2024-09-29_genai-ciencia-ambiental]]

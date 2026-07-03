@@ -18,3 +18,4 @@ Técnica que enriquece las respuestas de un LLM recuperando información relevan
 - [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]
 - [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]
 - [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]
+- [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
