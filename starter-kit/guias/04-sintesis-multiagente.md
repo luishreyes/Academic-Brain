@@ -42,7 +42,11 @@ subagente por pdf para evitar sesgos de keyword."*
 
 ## Patrón B — Síntesis de conceptos ("Qué dice la literatura")
 
-Para escribir muchas secciones de síntesis sin releer todo usted:
+En el día a día, la síntesis se mantiene sola: `/ingest` la escribe o refina en
+su paso 9b cada vez que ingesta (ver `guias/03-keywords-y-conceptos.md`). Este
+patrón por lotes es para dos casos puntuales: **sembrar** un vault que arrancó
+con muchas fuentes ya cargadas, o una **auditoría periódica** para refrescar
+varios conceptos a la vez. Para escribir muchas secciones sin releer todo usted:
 
 1. El orquestador elige un lote de conceptos (empiece por los de pocas notas).
 2. Un subagente por concepto, cada uno con:

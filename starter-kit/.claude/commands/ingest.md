@@ -67,6 +67,19 @@ Para cada keyword asignada: si `concepts/slug.md` no existe, crearlo (formato de
 `CLAUDE.md`). Si existe, agregar el enlace a la nueva nota bajo "Notas que usan
 este concepto".
 
+### 9b. Mantener al día la síntesis "Qué dice la literatura"
+En un vault desde cero esto **no es opcional** (ver `CLAUDE.md`). Para cada
+concepto que la nota nueva toca:
+- Si con esta nota el concepto llega a **≥2 notas** y aún no tiene síntesis,
+  escríbala leyendo sus notas.
+- Si ya tenía síntesis, **refínela** para incorporar la nota nueva (ajuste la
+  prosa; no la reescriba desde cero).
+- Si el concepto queda con **una sola nota**, no la escriba todavía.
+- Si las notas **no convergen**, una síntesis corta y honesta basta — no fuerce.
+
+Como el trabajo se hace nota a nota, cada paso es corto. (Para un lote inicial
+grande, use subagentes: `guias/04-sintesis-multiagente.md`.)
+
 ### 10. Mover el PDF (si vino de `sources/inbox/`)
 `mv sources/inbox/original.pdf sources/pdfs/apellido-año-slug.pdf` e incluir esa
 ruta en el frontmatter `pdf_local:`.

@@ -44,7 +44,7 @@ aliases: [alias1, alias2]
 Definición corta (la misma de keywords.md).
 
 ## Qué dice la literatura
-(opcional — ver abajo)
+(síntesis incremental — ver abajo)
 
 ## Notas que usan este concepto
 - [[notes/papers/...]]
@@ -53,20 +53,31 @@ Definición corta (la misma de keywords.md).
 `/ingest` las crea y mantiene automáticamente: cuando una nota nueva usa un
 concepto, agrega el backlink bajo "Notas que usan este concepto".
 
-## La sección "Qué dice la literatura" (la joya, y la más costosa)
+## La sección "Qué dice la literatura" (la joya del vault)
 
 Es una **síntesis narrativa en prosa** de lo que todas las notas de ese concepto
 dicen *en conjunto*: dónde convergen, dónde se contradicen, qué matiz aparece
 solo al leerlas juntas. Se escribe citando autores y cifras concretas. No es una
 lista de resúmenes, es un texto que teje.
 
-Es **opcional y de esfuerzo alto**. No se genera en cada `/ingest`. Se escribe (o
-reescribe) a mano cuando tiene sentido:
+**Construyendo desde cero, no la trate como opcional: es una práctica
+incremental.** El error que la vuelve dolorosa es dejarla para el final, cuando
+un concepto ya juntó decenas de notas y hay que leerlas todas de golpe. Si en
+cambio la escribe temprano y la mantiene al día, el costo se reparte nota a nota
+y cada paso es corto:
 
-- cuando un concepto ya acumuló varias notas y vale sintetizarlo, o
-- cuando una nota nueva cambia sustancialmente lo que dice el conjunto.
+- Un concepto llega a su **2ª o 3ª nota** → escriba la primera síntesis.
+- Entra una nota nueva a un concepto que **ya tiene síntesis** → **refínela**,
+  ajustando la prosa existente para incorporar lo nuevo. Refinar es barato
+  aunque el concepto crezca; lo caro es arrancar de cero sobre un concepto grande.
+- Un concepto con **una sola nota** → todavía no.
 
-Reglas de honestidad (heredadas de la filosofía, `guia 01`):
+El comando `/ingest` hace esto en su paso 9b, así que en el día a día la síntesis
+se mantiene sola. Solo la escribe "a mano" cuando quiere revisarla con cuidado.
+
+Reglas de honestidad (heredadas de la filosofía, `guia 01`) — esto es lo único
+que sigue siendo opcional, en el sentido de que a veces la síntesis correcta es
+casi nada:
 
 - Si el corpus genuinamente **no dice mucho en conjunto**, dígalo en pocas líneas.
   No infle.
@@ -75,10 +86,9 @@ Reglas de honestidad (heredadas de la filosofía, `guia 01`):
 - Prefiera señalar una **tensión real** entre fuentes antes que fabricar una
   convergencia.
 
-Para escalar esto a muchos conceptos sin releer todo usted mismo, use el patrón
-de subagentes de `guias/04-sintesis-multiagente.md`. Un consejo práctico: empiece
-por los conceptos con pocas notas (2–4) y suba en complejidad; los conceptos con
-decenas o cientos de notas necesitan un enfoque por lotes, no una sola pasada.
+Para **sembrar** la síntesis de muchos conceptos de una vez —al arrancar el
+vault con un lote inicial, o en una auditoría periódica— use el patrón de
+subagentes de `guias/04-sintesis-multiagente.md`.
 
 ## Mantenimiento
 
