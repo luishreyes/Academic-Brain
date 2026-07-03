@@ -49,3 +49,4 @@ Revisión de literatura sobre estructura poblacional en evolución asexual, teor
 - [[concepts/ingenieria-metabolica]]
 - [[concepts/dinamica-de-poblaciones]]
 - [[concepts/ingenieria-quimica]]
+- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]

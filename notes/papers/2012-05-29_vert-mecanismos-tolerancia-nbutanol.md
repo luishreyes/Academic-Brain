@@ -55,3 +55,6 @@ VERT con dos subpoblaciones de E. coli marcadas con GFP e YFP → seguimiento po
 - [[concepts/dinamica-de-poblaciones]]
 - [[concepts/ingenieria-quimica]]
 - [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]
+- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]
+- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]
+- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]
