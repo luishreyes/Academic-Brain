@@ -63,3 +63,4 @@ Fenómeno en que sistemas de IA generan información incorrecta o fabricada pres
 - [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]
 - [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]
 - [[notes/papers/2026-01-01_writing-against-the-machine]]
+- [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
