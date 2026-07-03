@@ -175,7 +175,7 @@ Definición corta (copiada de keywords.md).
 
 ## Qué dice la literatura
 
-(opcional — ver más abajo)
+(síntesis incremental — ver más abajo)
 
 ## Notas que usan este concepto
 - [[notes/papers/...]]
@@ -189,11 +189,31 @@ vault dicen colectivamente sobre el concepto: convergencias, tensiones,
 hallazgos que se citan, matices que solo aparecen al leer las notas en conjunto.
 Se escribe citando autores y cifras concretas.
 
-Es **opcional y de esfuerzo alto** — no se genera en cada `/ingest`. Se escribe
-a mano leyendo todas las notas del concepto, cuando tenga sentido (un concepto
-ya con varias notas, o cuando una nota nueva cambia el panorama). Un concepto
-sin esta sección es válido — mejor omitirla que forzar una síntesis pobre.
-(Cómo escalarlo con subagentes: `guias/04-sintesis-multiagente.md`.)
+**En un vault que se construye desde cero, esta sección no es opcional: es una
+práctica incremental.** Lo doloroso es retrofitearla al final, sobre conceptos
+que ya acumularon decenas de notas — eso es lo que hace que en vaults viejos
+parezca "de esfuerzo alto". Si en cambio la escribe temprano y la mantiene al
+día, el trabajo se reparte y cada paso es corto. Nunca enfrenta un concepto con
+muchas fuentes sin sintetizar.
+
+Cuándo escribir o actualizar:
+
+- Un concepto llega a su **2ª o 3ª nota** → escriba la primera síntesis.
+- Entra una nota nueva a un concepto que **ya tiene síntesis** → **refínela**
+  (ajuste la prosa existente para incorporar lo nuevo; no la reescriba desde
+  cero). Refinar es barato aunque el concepto crezca.
+- Un concepto con **una sola nota** → todavía no; no hay conjunto que sintetizar.
+
+`/ingest` mantiene esto al día automáticamente (ver `.claude/commands/ingest.md`).
+
+**La única válvula que sigue siendo opcional es la honestidad** (heredada de
+`guias/01-filosofia-antisesgo.md`): si las notas de un concepto genuinamente no
+dicen mucho en conjunto, dígalo en pocas líneas; si comparten keyword pero
+abordan cosas distintas, esa es la síntesis. Corto y honesto siempre le gana a
+inflado. No fuerce convergencia donde no la hay.
+
+(Para sembrar la síntesis de un lote de conceptos con subagentes en paralelo —al
+arrancar, o en una auditoría periódica— ver `guias/04-sintesis-multiagente.md`.)
 
 ## Flujo de trabajo: ingestar una fuente
 
