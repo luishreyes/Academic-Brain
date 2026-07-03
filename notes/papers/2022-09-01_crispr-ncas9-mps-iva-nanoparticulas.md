@@ -50,3 +50,4 @@ Síntesis de magnetoliposomas por hidratación de bicapa lipídica; co-entrega d
 - [[notes/papers/2021-09-01_genome-editing-parkinson]]
 - [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]
 - [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]
+- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]

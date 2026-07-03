@@ -52,3 +52,6 @@ Expresión de rhGALNS en E. coli con diferentes promotores (constitutivos vs. re
 - [[concepts/proteinas-recombinantes]]
 - [[concepts/enfermedades-raras]]
 - [[concepts/ingenieria-quimica]]
+- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]
+- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]
+- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]
