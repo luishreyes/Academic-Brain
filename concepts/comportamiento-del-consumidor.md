@@ -25,3 +25,4 @@ El estudio de perfumería (Rodríguez et al. 2024) añade un matiz relevante par
 - [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]
 - [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]
 - [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]
+- [[notes/papers/2026-01-01_tres-estrategias-progreso-investigacion]]

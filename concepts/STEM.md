@@ -33,3 +33,4 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/articles/2024-10-25_abet-eac-criterios-acreditacion-ingenieria-2025-2026]]
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
 - [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]
+- [[notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria]]
