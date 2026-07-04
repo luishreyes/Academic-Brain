@@ -23,3 +23,4 @@ Reeves cierra el hilo desde el ángulo opuesto y con más fuerza empírica: en "
 - [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]
 - [[notes/papers/2025-05-22_brecha-digital-ia-generativa-espana]]
 - [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]
+- [[notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres]]

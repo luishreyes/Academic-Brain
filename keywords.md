@@ -61,7 +61,13 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **cadenas-de-suministro-globales** — Redes internacionales de producción, distribución y ensamblaje de bienes y componentes; en tecnología incluye la concentración geográfica de fabricación avanzada, dependencias críticas y riesgos de disrupción. _Aliases: global supply chains, supply chain, cadenas de valor globales, reshoring_
 
+**cambio-climatico** — Alteración de largo plazo de los patrones climáticos globales por el aumento de gases de efecto invernadero; incluye el calentamiento global, la mayor frecuencia e intensidad de eventos meteorológicos extremos, sus impactos sobre poblaciones vulnerables y las estrategias de mitigación y adaptación. _Aliases: climate change, calentamiento global, global warming, IPCC, eventos climáticos extremos, adaptación climática_
+
 **comportamiento-del-consumidor** — Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce. _Aliases: consumer behavior, consumer psychology, comportamiento de compra, food marketing, multisensory, sensory marketing_
+
+**comportamiento-organizacional** — Estudio de las actitudes, conductas, estados psicológicos y diferencias individuales de las personas en el lugar de trabajo y su relación con el desempeño, la creatividad y el bienestar; nivel micro (individual y de equipo) del análisis de las organizaciones. _Aliases: organizational behavior, comportamiento organizacional, workplace psychology, psicología del trabajo, employee behavior_
+
+**construccion-de-teoria** — Proceso de desarrollo, evaluación y refinamiento de teorías y marcos teóricos que explican fenómenos; incluye la distinción entre teorías locales de un efecto y marcos teóricos generales que integran múltiples efectos, y los criterios de poder explicativo, alcance y parsimonia. _Aliases: theory building, theoretical frameworks, marcos teóricos, teorización, theory development_
 
 **comercio-y-prosperidad** — Relación entre el intercambio voluntario de bienes, servicios e ideas y el crecimiento del bienestar humano; incluye la división del trabajo, la especialización y la función de los mercados como mecanismos de coordinación descentralizada. _Aliases: trade and prosperity, free trade, comercio libre, división del trabajo, specialization_
 
@@ -105,6 +111,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **descarga-cognitiva** — Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integración de información) a apoyos externos —herramientas, dispositivos o IA— en lugar de ejecutarlo internamente; en contextos de aprendizaje puede saltarse procesos mentales integrales a la formación de conocimiento (cognitive offloading, deuda cognitiva). _Aliases: cognitive offloading, descarga cognitiva, deuda cognitiva, cognitive debt, efecto Google_
 
+**divagacion-mental** — Desplazamiento espontáneo de la atención desde el entorno externo o la tarea en curso hacia pensamientos generados internamente; incluye sus formas constructivas (positivo-constructiva, ligada a la incubación y la creatividad) y disfuncionales (culpa, miedo al fracaso, rumiación), y su papel en la cognición cotidiana y laboral. _Aliases: mind-wandering, daydreaming, ensoñación, ensoñación diurna, pensamiento espontáneo, off-task thinking, divagación_
+
 ## E
 
 **enfermedades-raras** — Condiciones médicas con baja prevalencia poblacional; incluye errores innatos del metabolismo, enfermedades lisosomales de depósito y otras condiciones huérfanas; su tratamiento frecuentemente implica terapia de reemplazo enzimático (TRE) o génico. _Aliases: rare diseases, orphan diseases, lysosomal storage diseases, inborn errors of metabolism, enzyme replacement therapy, ERT_
@@ -136,6 +144,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ensayo-controlado-aleatorio** — Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones. _Aliases: RCT, randomized controlled trial, experimento aleatorizado_
 
+**ensenanza-basada-en-evidencia** — Estrategias instruccionales cuya eficacia ha sido validada por investigación educativa (research-based/evidence-based instructional strategies, RBIS): aprendizaje activo, cooperativo, basado en problemas, just-in-time teaching, aprendizaje por indagación, aprendizaje basado en casos, entre otras; incluye su definición, componentes críticos y adopción por el profesorado. _Aliases: research-based instructional strategies, RBIS, evidence-based teaching, estrategias instruccionales basadas en investigación, prácticas docentes basadas en evidencia_
+
 **ensenanza-de-lenguas** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje de lenguas (en particular el inglés como lengua extranjera/segunda lengua, ELT); incluye competencia lingüística y comunicativa, didáctica de lenguas y la integración de tecnología en el aula de idiomas. _Aliases: language teaching, English language teaching, ELT, ensenanza del ingles, didactica de lenguas, language education_
 
 **epistemologia** — Estudio filosófico de la naturaleza, las condiciones y los límites del conocimiento; incluye la distinción entre plausibilidad y garantía (warrant), la justificación de afirmaciones y la auditabilidad del proceso que las produce. _Aliases: epistemology, teoría del conocimiento, warrant, justificación epistémica_
@@ -150,7 +160,11 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## F
 
+**fidelidad-de-implementacion** — Medida del grado en que una intervención implementada sigue el diseño original de sus desarrolladores; concepto de la ciencia de la implementación que distingue componentes críticos, estudios de eficacia vs. efectividad, y el balance entre fidelidad y adaptación local. _Aliases: fidelity of implementation, FOI, implementation fidelity, ciencia de la implementación, implementation science, componentes críticos_
+
 **filosofia** — Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral, la mente y la existencia mediante el razonamiento y el análisis conceptual; incluye método y herramientas como el método socrático. _Aliases: philosophy, filosofía moral, método socrático_
+
+**filosofia-de-la-ciencia** — Rama de la filosofía que examina los fundamentos, métodos e implicaciones de la ciencia: qué constituye una explicación, cómo progresa el conocimiento científico, el papel de la teoría, la replicación y la generalización, y las bases para afirmar que una investigación ha avanzado el conocimiento. _Aliases: philosophy of science, filosofía de la ciencia, scientific progress, progreso científico, demarcación_
 
 **finanzas-personales** — Gestión individual del dinero, el ahorro, la deuda, la inversión y la planificación patrimonial; incluye el comportamiento financiero, la educación financiera y las estrategias para alcanzar seguridad económica a largo plazo. _Aliases: personal finance, educación financiera, wealth building, planificación financiera, inversión personal_
 
@@ -159,6 +173,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **futuro-del-trabajo** — Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales. _Aliases: future of work, mercado laboral, empleabilidad, automatización del empleo_
 
 ## G
+
+**gestion-de-riesgo-de-desastres** — Enfoque sistemático para reducir la vulnerabilidad y construir resiliencia frente a amenazas naturales (desastres geofísicos e hidrometeorológicos); incluye información y análisis de riesgo, alerta temprana, planificación del uso del suelo, infraestructura resiliente, diversificación de medios de vida y mecanismos de transferencia de riesgo (seguros, bonos catástrofe, derivados climáticos). _Aliases: disaster risk management, DRM, disaster risk reduction, DRR, resiliencia ante desastres, gestión de riesgo de desastres, vulnerabilidad, risk transfer_
 
 **gestion-por-objetivos** — Marco de gestión organizacional basado en la definición explícita de objetivos ambiciosos y resultados clave medibles (OKR: Objectives and Key Results); fomenta la transparencia, la coordinación y la responsabilidad en todos los niveles de la organización. _Aliases: OKR, objectives and key results, management by objectives, MBO, gestión por resultados_
 
@@ -273,6 +289,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **procesamiento-de-lenguaje-natural** — Campo de la IA que permite a las máquinas analizar, interpretar y generar lenguaje humano; incluye embeddings (BERT, Word2Vec, TF-IDF), clasificación y clustering de texto, y modelos de lenguaje. _Aliases: natural language processing, NLP, PLN, word embeddings, BERT, text embeddings_
 
+**psicologia-de-la-personalidad** — Estudio de las diferencias individuales estables (rasgos) y sus manifestaciones dinámicas (estados de personalidad) en el pensamiento, la emoción y la conducta; incluye modelos como los Cinco Grandes (apertura a la experiencia, neuroticismo) y los enfoques de dinámica de la personalidad que explican cómo el contexto activa estados en marcos temporales cortos. _Aliases: personality psychology, rasgos de personalidad, estados de personalidad, personality states, Big Five, cinco grandes, apertura a la experiencia, neuroticismo_
+
 **psicologia-educativa** — Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas. _Aliases: educational psychology, psicología del aprendizaje_
 
 **psicometria** — Teoría y métodos de construcción, validación y análisis de instrumentos de medición psicológica y educativa; incluye fiabilidad, validez, análisis factorial (exploratorio/confirmatorio) y modelos de ecuaciones estructurales para el desarrollo de escalas. _Aliases: psychometrics, psicometría, factor analysis, análisis factorial, scale validation, validación de escalas, CFA, EFA, structural equation modeling_
@@ -290,6 +308,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **razonamiento-multimodal** — Capacidad de los modelos de IA para integrar y razonar sobre múltiples modalidades (texto, imágenes, diagramas, fórmulas); incluye la interpretación de figuras científicas, diagramas de proceso y notación matemática. _Aliases: multimodal reasoning, multimodal LLM, razonamiento multimodal, vision-language models_
 
 **regulacion-de-ia** — Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA. _Aliases: AI regulation, gobernanza de IA, AI policy, AI governance_
+
+**replicabilidad-cientifica** — Grado en que un hallazgo empírico puede reproducirse de forma fiable cuando se repite un estudio con procedimientos y potencia estadística adecuados; incluye los debates sobre la crisis de replicación, la robustez de los efectos, la generalización y las prácticas de investigación abierta. _Aliases: replicability, reproducibility, replicación, crisis de replicación, replication crisis, robustez de efectos_
 
 **retroalimentacion-con-ia** — Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico. _Aliases: AI feedback, AI grading, automated feedback, calificación con IA, retroalimentación automatizada, retroalimentación_
 

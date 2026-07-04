@@ -27,3 +27,4 @@ Capacidad de generar ideas novedosas, variadas y de alta calidad en la resoluci√
 - [[notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria]]
 - [[notes/papers/2026-06-28_deskilling-reskilling-upskilling-ia-generativa]]
 - [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
+- [[notes/papers/2025-01-01_creatividad-divagacion-cognicion-trabajo]]
