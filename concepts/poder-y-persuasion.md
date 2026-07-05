@@ -19,3 +19,7 @@ La diferencia más reveladora quizás no sea moral sino estructural: Greene oper
 ## Notas que usan este concepto
 - [[notes/books/2000-01-01_the-48-laws-of-power-greene]]
 - [[notes/books/2020-08-11_almanack-naval-ravikant-jorgenson]]
+- [[notes/fiction/1949-01-01_1984-orwell]]
+- [[notes/fiction/1987-01-01_watchmen]]
+- [[notes/fiction/2006-01-01_mistborn-final-empire]]
+- [[notes/fiction/saga-mistborn]]

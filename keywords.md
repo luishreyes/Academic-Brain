@@ -111,6 +111,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **descarga-cognitiva** — Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integración de información) a apoyos externos —herramientas, dispositivos o IA— en lugar de ejecutarlo internamente; en contextos de aprendizaje puede saltarse procesos mentales integrales a la formación de conocimiento (cognitive offloading, deuda cognitiva). _Aliases: cognitive offloading, descarga cognitiva, deuda cognitiva, cognitive debt, efecto Google_
 
+**distopia** — Ficción especulativa que imagina sociedades futuras o alternativas organizadas en torno al control, la vigilancia, el totalitarismo o la ingeniería social, usadas como crítica de tendencias del presente; incluye el control del lenguaje y la información, la rebelión individual y la pérdida de autonomía. _Aliases: dystopia, distopía, totalitarismo, sociedad de control, vigilancia, ficción distópica_
+
 **divagacion-mental** — Desplazamiento espontáneo de la atención desde el entorno externo o la tarea en curso hacia pensamientos generados internamente; incluye sus formas constructivas (positivo-constructiva, ligada a la incubación y la creatividad) y disfuncionales (culpa, miedo al fracaso, rumiación), y su papel en la cognición cotidiana y laboral. _Aliases: mind-wandering, daydreaming, ensoñación, ensoñación diurna, pensamiento espontáneo, off-task thinking, divagación_
 
 ## E
@@ -232,7 +234,11 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **liderazgo-educativo** — Gestión, dirección y toma de decisiones en instituciones educativas; incluye el rol de directores, administradores y líderes escolares en el diseño de políticas pedagógicas y la adopción de tecnologías emergentes como la IA. _Aliases: educational leadership, school leadership, gestión educativa, administración educativa_
 
+**libre-albedrio** — Problema filosófico y narrativo sobre si las decisiones humanas son libres o están determinadas; en la ficción de ideas aparece como determinismo, predestinación, bucles causales y la tensión entre conocer el futuro y poder cambiarlo. _Aliases: free will, libre albedrío, determinismo, determinism, predestinación, causalidad_
+
 ## M
+
+**magia-dura** — Sistema mágico gobernado por reglas explícitas, costes y límites consistentes de los que se derivan las soluciones de la trama (Leyes de Sanderson), en contraste con la magia como misterio evocador; expresión fantástica del gusto por los mundos que funcionan como un mecanismo. _Aliases: hard magic, magia dura, sistema de magia, Sanderson's laws, hard magic system_
 
 **medicina-basada-en-evidencia** — Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio. _Aliases: evidence-based medicine, EBM, medicina basada en evidencias_
 
@@ -287,6 +293,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **percepcion-multisensorial** — Estudio de cómo los sentidos interactúan e integran información; incluye las correspondencias crossmodales (p. ej., entre sonido y sabor o aroma), la percepción del sabor como fenómeno multisensorial y sus bases psicofísicas. _Aliases: multisensory perception, crossmodal correspondences, correspondencias crossmodales, percepción crossmodal, sensory perception_
 
+**primer-contacto** — Motivo de la ciencia ficción que explora el encuentro con una inteligencia no humana o extraterrestre y el problema de comunicarse y coexistir a través de una diferencia radical; incluye la incomprensión, la amenaza mutua y la hipótesis del bosque oscuro. _Aliases: first contact, primer contacto, xenocomunicación, alien intelligence, contacto extraterrestre_
+
 **procesamiento-de-lenguaje-natural** — Campo de la IA que permite a las máquinas analizar, interpretar y generar lenguaje humano; incluye embeddings (BERT, Word2Vec, TF-IDF), clasificación y clustering de texto, y modelos de lenguaje. _Aliases: natural language processing, NLP, PLN, word embeddings, BERT, text embeddings_
 
 **psicologia-de-la-personalidad** — Estudio de las diferencias individuales estables (rasgos) y sus manifestaciones dinámicas (estados de personalidad) en el pensamiento, la emoción y la conducta; incluye modelos como los Cinco Grandes (apertura a la experiencia, neuroticismo) y los enfoques de dinámica de la personalidad que explican cómo el contexto activa estados en marcos temporales cortos. _Aliases: personality psychology, rasgos de personalidad, estados de personalidad, personality states, Big Five, cinco grandes, apertura a la experiencia, neuroticismo_
@@ -321,6 +329,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **simulacion-computacional** — Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores. _Aliases: CFD, computational simulation, computational fluid dynamics, process simulation, modelado de procesos_
 
+**sistemas-y-reglas** — Construcción de mundos de ficción que operan como mecanismos coherentes: reglas explícitas y consistentes (físicas, mágicas, económicas o sociales) de las que se deducen las consecuencias de la trama; el interés está en cómo funciona el sistema, más allá de la etiqueta de género. _Aliases: hard worldbuilding, hard SF, systems fiction, worldbuilding, mundos coherentes, ficción de sistemas_
+
 **sobredependencia-de-la-ia** — Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario acepta sus salidas sin verificarlas y delega en exceso el esfuerzo propio; se asocia con erosión de habilidades, pérdida de agencia y aprendizaje superficial (over-reliance). _Aliases: over-reliance on AI, sobredependencia de la IA, AI over-reliance, dependencia de la IA, automation bias, sesgo de automatización_
 
 **sostenibilidad** — Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social. _Aliases: sustainability, desarrollo sostenible, sustainable development goals, SDGs, campus sostenible, sostenibilidad universitaria_
@@ -337,6 +347,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **STEM** — Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.
 
 ## T
+
+**teoria-de-juegos** — Estudio de la decisión estratégica entre agentes racionales cuyos resultados dependen de las elecciones de los demás; en la ficción aparece como dilemas de cooperación y conflicto, disuasión y equilibrios (p. ej., la hipótesis del bosque oscuro como respuesta a la paradoja de Fermi). _Aliases: game theory, teoría de juegos, dilema del prisionero, equilibrio de Nash, disuasión, estrategia_
 
 **trauma-y-salud** — Estudio del impacto del trauma psicológico —especialmente el trauma temprano y el trauma complejo— sobre la salud física y mental; incluye la neurobiología del estrés crónico, la epigenética del trauma y los enfoques de atención informada en trauma. _Aliases: trauma and health, trauma-informed care, trauma complejo, adverse childhood experiences, ACEs, psiconeuroinmunología_
 

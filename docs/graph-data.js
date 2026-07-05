@@ -5,7 +5,8 @@ window.__ACADEMIC_BRAIN__ = {
     "papers": 340,
     "articles": 51,
     "books": 28,
-    "concepts": 156
+    "fiction": 7,
+    "concepts": 162
   },
   "nodes": [
     {
@@ -453,8 +454,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.",
       "literature": "",
       "path": "concepts/ciencia-y-sociedad.md",
-      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]",
-      "degree": 19
+      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]\n- [[notes/fiction/2019-01-01_exhalation-chiang]]",
+      "degree": 22
     },
     {
       "id": "concepts/comercio-y-prosperidad",
@@ -801,6 +802,25 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "Las dos notas que usan este concepto invocan el Diseño Universal para el Aprendizaje no como objeto de estudio sino como marco legitimador, sin someterlo a prueba empírica directa — una coincidencia que dice tanto sobre el estado de esta esquina de la literatura como cualquier hallazgo positivo. En Yunus et al., el UDL aparece como uno de los principios que guiaron los talleres de design thinking para co-diseñar el chatbot *StudyBuddy* en educación vocacional en Singapur, junto con los principios de Don Norman, las reglas de oro de Shneiderman y la Zona de Desarrollo Próximo de Vygotsky. Pero al reportar los hallazgos empíricos —paridad de desempeño entre el grupo con IA y la mejor cohorte sin IA (68.83% frente a 68.00% en el módulo de Software Development Practices), reducción de variabilidad de hasta un 17% y patrones divergentes entre estudiantes fuertes y débiles— el paper no vuelve a mencionar explícitamente el UDL ni sus tres principios, aunque su hallazgo de equidad más inquietante (el índice de discriminación aumentó levemente en el grupo con IA, sugiriendo que los estudiantes más capaces aprovecharon mejor la herramienta) es precisamente el tipo de resultado que el UDL busca prevenir.\n\nGarcia Ramos es aún más explícita sobre esta desconexión entre invocación teórica y evidencia: alinea retrospectivamente su formulario de divulgación de uso de IA con el UDL —junto con alfabetización en IA, ética digital y reflexión metacognitiva— pero reconoce como limitación abierta que el estudio \"no prueba empíricamente que el formulario haya inducido reflexión metacognitiva sostenida ni los procesos UDL; estos marcos describen la función pedagógica pretendida, no un resultado medido\". Leídas en conjunto, ambas notas sugieren un patrón modesto pero consistente: en trabajos recientes sobre IA generativa en el aula, el UDL funciona como vocabulario de intención pedagógica —se cita para señalar que una intervención aspira a ser inclusiva y flexible— más que como marco operacionalizado con instrumentos que midan sus tres principios. Ninguno de los dos estudios reporta si el chatbot o el formulario ofrecieron efectivamente múltiples medios de representación o de acción y expresión; el vínculo con el UDL queda al nivel del diseño intencional y la justificación teórica, no de la evidencia.",
       "path": "concepts/diseno-universal-para-el-aprendizaje.md",
       "content": "Marco pedagógico (Universal Design for Learning, UDL) que promueve entornos de aprendizaje flexibles e inclusivos para la diversidad de estudiantes mediante tres principios: múltiples medios de compromiso, de representación y de acción y expresión.\n\n## Qué dice la literatura\n\nLas dos notas que usan este concepto invocan el Diseño Universal para el Aprendizaje no como objeto de estudio sino como marco legitimador, sin someterlo a prueba empírica directa — una coincidencia que dice tanto sobre el estado de esta esquina de la literatura como cualquier hallazgo positivo. En Yunus et al., el UDL aparece como uno de los principios que guiaron los talleres de design thinking para co-diseñar el chatbot *StudyBuddy* en educación vocacional en Singapur, junto con los principios de Don Norman, las reglas de oro de Shneiderman y la Zona de Desarrollo Próximo de Vygotsky. Pero al reportar los hallazgos empíricos —paridad de desempeño entre el grupo con IA y la mejor cohorte sin IA (68.83% frente a 68.00% en el módulo de Software Development Practices), reducción de variabilidad de hasta un 17% y patrones divergentes entre estudiantes fuertes y débiles— el paper no vuelve a mencionar explícitamente el UDL ni sus tres principios, aunque su hallazgo de equidad más inquietante (el índice de discriminación aumentó levemente en el grupo con IA, sugiriendo que los estudiantes más capaces aprovecharon mejor la herramienta) es precisamente el tipo de resultado que el UDL busca prevenir.\n\nGarcia Ramos es aún más explícita sobre esta desconexión entre invocación teórica y evidencia: alinea retrospectivamente su formulario de divulgación de uso de IA con el UDL —junto con alfabetización en IA, ética digital y reflexión metacognitiva— pero reconoce como limitación abierta que el estudio \"no prueba empíricamente que el formulario haya inducido reflexión metacognitiva sostenida ni los procesos UDL; estos marcos describen la función pedagógica pretendida, no un resultado medido\". Leídas en conjunto, ambas notas sugieren un patrón modesto pero consistente: en trabajos recientes sobre IA generativa en el aula, el UDL funciona como vocabulario de intención pedagógica —se cita para señalar que una intervención aspira a ser inclusiva y flexible— más que como marco operacionalizado con instrumentos que midan sus tres principios. Ninguno de los dos estudios reporta si el chatbot o el formulario ofrecieron efectivamente múltiples medios de representación o de acción y expresión; el vínculo con el UDL queda al nivel del diseño intencional y la justificación teórica, no de la evidencia.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-09-05_formulario-divulgacion-ia-quimica]]\n- [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]",
+      "degree": 2
+    },
+    {
+      "id": "concepts/distopia",
+      "kind": "concept",
+      "label": "distopia",
+      "keyword": "distopia",
+      "aliases": [
+        "dystopia",
+        "distopía",
+        "totalitarismo",
+        "sociedad de control",
+        "vigilancia",
+        "ficción distópica"
+      ],
+      "definition": "Ficción especulativa que imagina sociedades futuras o alternativas organizadas en torno al control, la vigilancia, el totalitarismo o la ingeniería social, usadas como crítica de tendencias del presente; incluye el control del lenguaje y la información, la rebelión individual y la pérdida de autonomía.",
+      "literature": "",
+      "path": "concepts/distopia.md",
+      "content": "Ficción especulativa que imagina sociedades futuras o alternativas organizadas en torno al control, la vigilancia, el totalitarismo o la ingeniería social, usadas como crítica de tendencias del presente; incluye el control del lenguaje y la información, la rebelión individual y la pérdida de autonomía.\n\n## Notas que usan este concepto\n- [[notes/fiction/1949-01-01_1984-orwell]]\n- [[notes/fiction/1987-01-01_watchmen]]",
       "degree": 2
     },
     {
@@ -1280,8 +1300,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral, la mente y la existencia mediante el razonamiento y el análisis conceptual; incluye método y herramientas como el método socrático.",
       "literature": "",
       "path": "concepts/filosofia.md",
-      "content": "Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral, la mente y la existencia mediante el razonamiento y el análisis conceptual; incluye método y herramientas como el método socrático.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]\n- [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]\n- [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]\n- [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]",
-      "degree": 16
+      "content": "Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral, la mente y la existencia mediante el razonamiento y el análisis conceptual; incluye método y herramientas como el método socrático.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]\n- [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]\n- [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]\n- [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]\n- [[notes/fiction/2019-01-01_exhalation-chiang]]\n- [[notes/fiction/1987-01-01_watchmen]]",
+      "degree": 18
     },
     {
       "id": "concepts/finanzas-personales",
@@ -1739,6 +1759,25 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 18
     },
     {
+      "id": "concepts/libre-albedrio",
+      "kind": "concept",
+      "label": "libre albedrio",
+      "keyword": "libre-albedrio",
+      "aliases": [
+        "free will",
+        "libre albedrío",
+        "determinismo",
+        "determinism",
+        "predestinación",
+        "causalidad"
+      ],
+      "definition": "Problema filosófico y narrativo sobre si las decisiones humanas son libres o están determinadas; en la ficción de ideas aparece como determinismo, predestinación, bucles causales y la tensión entre conocer el futuro y poder cambiarlo.",
+      "literature": "",
+      "path": "concepts/libre-albedrio.md",
+      "content": "Problema filosófico y narrativo sobre si las decisiones humanas son libres o están determinadas; en la ficción de ideas aparece como determinismo, predestinación, bucles causales y la tensión entre conocer el futuro y poder cambiarlo.\n\n## Notas que usan este concepto\n- [[notes/fiction/2019-01-01_exhalation-chiang]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/liderazgo-educativo",
       "kind": "concept",
       "label": "liderazgo educativo",
@@ -1771,6 +1810,24 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/liderazgo-organizacional.md",
       "content": "Capacidad de personas en posiciones de autoridad para definir visión, movilizar equipos y gestionar el cambio en organizaciones empresariales, sin fines de lucro o gubernamentales; incluye liderazgo transformacional, coaching ejecutivo y cultura de alto rendimiento.\n\n## Qué dice la literatura\n\nLas seis obras que tocan liderazgo-organizacional en el vault proponen modelos de liderazgo casi mutuamente excluyentes, y leídas en conjunto trazan un espectro que va del control estratégico a la confianza voluntaria.\n\nEn un extremo, Robert Greene (*The 48 Laws of Power*, 2000) describe el liderazgo como gestión de percepción y control de la información: un líder eficaz oculta sus intenciones (Ley 3), construye la reputación como activo estratégico (Ley 5) y evita mostrar más talento que sus superiores (Ley 1) — el poder se ejerce sobre otros, no se comparte con ellos. Susan Cain ofrece, sin citarlo, la crítica más directa a esa tradición: en el capítulo \"The Myth of Charismatic Leadership\" analiza Harvard Business School y las megaiglesias evangélicas para argumentar que el carisma y la asertividad performativa —el tipo de dominio de sala que el modelo de Greene cultiva— es un mito que produce peores decisiones grupales, no mejores; su contraejemplo es Rosa Parks, cuyo poder moral no dependía de extroversión ni de manejo estratégico de imagen.\n\nEn el polo opuesto, Simon Sinek (*Start With Why*, 2009) sostiene que el liderazgo genuino se mide por seguidores voluntarios, no por autoridad formal: un líder no manipula con incentivos externos (precio, miedo, presión de pares) sino que articula un \"why\" que activa el sistema límbico y genera lealtad duradera. Es casi una inversión punto por punto del modelo de Greene — donde éste ve la ambigüedad estratégica como fuente de poder, Sinek ve la claridad de propósito como la única fuente de lealtad sostenible, y advierte que el \"why\" tiende a desdibujarse justo cuando una organización crece y su liderazgo se enfoca en el WHAT a corto plazo.\n\nDoerr, Edmondson y Galloway ofrecen variantes intermedias, más operacionales que filosóficas. John Doerr (*Mide lo que importa*, 2018), citando a Andy Grove y el caso \"Operación Crush\" en Intel, plantea un liderazgo por objetivos transparentes: la transparencia radical de los OKR —todos ven los objetivos de todos, incluido el CEO— sustituye la política interna por responsabilidad horizontal, y el trabajo del líder consiste en decidir qué no hacer y exigir moonshots, no en supervisar de cerca; Doerr es explícito en que \"la medición no reemplaza al liderazgo ni a la cultura\". Amy Edmondson (*Right Kind of Wrong*, 2023) desplaza el eje del objetivo a la seguridad: su hallazgo fundacional —que los mejores equipos médicos reportaban más errores porque operaban en culturas de apertura— la lleva a sostener que liderar bien es diseñar sistemas donde el fracaso inteligente sea visible y distinguible del fracaso básico, como ilustra el contraste entre 3M (que permitió el nacimiento del Post-it) y el colapso de Bridgewater Associates de Ray Dalio, cuya cultura de transparencia radical mal gestionada amplificó el sesgo cognitivo en vez de corregirlo. Scott Galloway (*The Algebra of Wealth*, 2024) es el más tangencial de los seis: no describe cómo dirigir a otros sino cómo beneficiarse de ser bien dirigido — su variable de \"enfoque\" aconseja elegir mentores y jefes con ventajas estructurales tempranamente en la carrera, y su variable de \"estoicismo\" reformula el liderazgo primero como autogobierno del carácter antes que como autoridad sobre terceros.\n\nLa tensión de fondo entre los seis autores es si el liderazgo es, en esencia, una técnica de control asimétrico (Greene) o una relación de confianza voluntaria (Sinek, Edmondson); Doerr y Cain ocupan un terreno intermedio donde la estructura —objetivos transparentes, ausencia de jerarquía performativa— sustituye tanto a la manipulación como al carisma como mecanismo de coordinación, mientras Galloway recuerda que, antes de liderar a otros, el primer acto de liderazgo es gobernarse a uno mismo.\n\n## Notas que usan este concepto\n- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]\n- [[notes/books/2012-01-23_quiet-susan-cain]]\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]\n- [[notes/books/2009-01-01_start-with-why-sinek]]\n- [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]",
       "degree": 6
+    },
+    {
+      "id": "concepts/magia-dura",
+      "kind": "concept",
+      "label": "magia dura",
+      "keyword": "magia-dura",
+      "aliases": [
+        "hard magic",
+        "magia dura",
+        "sistema de magia",
+        "Sanderson's laws",
+        "hard magic system"
+      ],
+      "definition": "Sistema mágico gobernado por reglas explícitas, costes y límites consistentes de los que se derivan las soluciones de la trama (Leyes de Sanderson), en contraste con la magia como misterio evocador; expresión fantástica del gusto por los mundos que funcionan como un mecanismo.",
+      "literature": "",
+      "path": "concepts/magia-dura.md",
+      "content": "Sistema mágico gobernado por reglas explícitas, costes y límites consistentes de los que se derivan las soluciones de la trama (Leyes de Sanderson), en contraste con la magia como misterio evocador; expresión fantástica del gusto por los mundos que funcionan como un mecanismo.\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-mistborn]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]",
+      "degree": 2
     },
     {
       "id": "concepts/medicina-basada-en-evidencia",
@@ -2121,8 +2178,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico.",
       "literature": "Las dos únicas fuentes del vault sobre este concepto —Robert Greene con *The 48 Laws of Power* y la compilación que Eric Jorgenson hace del pensamiento de Naval Ravikant en *The Almanack of Naval Ravikant*— coinciden en una premisa compartida y discrepan radicalmente en todo lo demás. Ambas afirman que el poder o la influencia no son dones heredados sino habilidades que se cultivan deliberadamente: Greene sostiene que quien se niega a jugar el \"juego\" del poder no escapa de él, solo queda a merced de quienes sí dominan sus reglas, mientras que Naval encuadra tanto la riqueza como la felicidad como capacidades entrenables, no estados que llegan por suerte o herencia. En ambos casos, además, la reputación aparece como el activo estratégico central: la Ley 5 de Greene (\"guard your reputation with your life\") y el capítulo de Naval sobre \"Take on Accountability / Build Equity\" tratan la imagen pública como el vehículo que multiplica cualquier otro recurso.\n\nAhí termina la convergencia y empieza una tensión filosófica casi total. Greene describe un juego relacional de suma variable —a menudo cero— donde el terreno de operación son las cortes, los rivales y los aliados desconfiables: aconseja ocultar las intenciones propias (Ley 3), no confiar en los amigos y convertir enemigos en aliados que tienen algo que demostrar (Ley 2), actuar por indirección antes que por confrontación (Leyes 20, 30, 44) y tratar las emociones ajenas —envidia, miedo, amor— como palancas que se administran, no como vínculos genuinos. Su ética es explícitamente amoral: la moralidad convencional funciona como herramienta de imagen, no como guía normativa, y el modelo de actor social que subyace a las 48 leyes es el del jugador individualista en un entorno de confianza baja y recursos limitados. Naval invierte casi punto por punto esa lógica. Su capítulo \"Saving Yourself / Choosing to Be Yourself\" defiende la autenticidad radical —ser irremplazable siendo genuinamente uno mismo— como la estrategia óptima tanto para la felicidad como para la creación de valor, y sus \"Argumentos centrales\" son explícitos al respecto: los juegos de suma positiva (cooperación, intercambio honesto, creación de valor) generan riqueza durable, mientras que los juegos de estatus —el terreno exacto que Greene cartografía— son de suma cero y \"destructivos a largo plazo\". Donde Greene recomienda concealment, Naval propone specific knowledge y judgment aplicados con apalancamiento (código, medios, capital, personas) en un mercado tecnológicamente mediado donde la honestidad escala y la manipulación no.\n\nLa diferencia más reveladora quizás no sea moral sino estructural: Greene opera en un campo de recursos fijos y relaciones de poder personalizadas (la corte, el rival, el superior que hay que halagar sin opacar), heredado de un mundo premoderno donde ascender significa desplazar a otro. Naval, en cambio, sitúa la influencia en un contexto de apalancamiento no-recíproco —código y medios que escalan sin permiso y sin coste marginal— donde crear valor para uno mismo no exige sustraérselo a nadie más, lo que explica por qué puede permitirse rechazar la indirección y el ocultamiento que Greene considera indispensables. Ninguna de las dos notas del corpus discute directamente a la otra, pero leídas juntas dejan planteada una pregunta que ninguna resuelve por sí sola: si la influencia genuina se construye ocultando intenciones y gestionando percepciones, como sostiene Greene, o revelándolas con honestidad radical dentro de un juego que ya no es de suma cero, como sostiene Naval.",
       "path": "concepts/poder-y-persuasion.md",
-      "content": "Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico.\n\n## Qué dice la literatura\n\nLas dos únicas fuentes del vault sobre este concepto —Robert Greene con *The 48 Laws of Power* y la compilación que Eric Jorgenson hace del pensamiento de Naval Ravikant en *The Almanack of Naval Ravikant*— coinciden en una premisa compartida y discrepan radicalmente en todo lo demás. Ambas afirman que el poder o la influencia no son dones heredados sino habilidades que se cultivan deliberadamente: Greene sostiene que quien se niega a jugar el \"juego\" del poder no escapa de él, solo queda a merced de quienes sí dominan sus reglas, mientras que Naval encuadra tanto la riqueza como la felicidad como capacidades entrenables, no estados que llegan por suerte o herencia. En ambos casos, además, la reputación aparece como el activo estratégico central: la Ley 5 de Greene (\"guard your reputation with your life\") y el capítulo de Naval sobre \"Take on Accountability / Build Equity\" tratan la imagen pública como el vehículo que multiplica cualquier otro recurso.\n\nAhí termina la convergencia y empieza una tensión filosófica casi total. Greene describe un juego relacional de suma variable —a menudo cero— donde el terreno de operación son las cortes, los rivales y los aliados desconfiables: aconseja ocultar las intenciones propias (Ley 3), no confiar en los amigos y convertir enemigos en aliados que tienen algo que demostrar (Ley 2), actuar por indirección antes que por confrontación (Leyes 20, 30, 44) y tratar las emociones ajenas —envidia, miedo, amor— como palancas que se administran, no como vínculos genuinos. Su ética es explícitamente amoral: la moralidad convencional funciona como herramienta de imagen, no como guía normativa, y el modelo de actor social que subyace a las 48 leyes es el del jugador individualista en un entorno de confianza baja y recursos limitados. Naval invierte casi punto por punto esa lógica. Su capítulo \"Saving Yourself / Choosing to Be Yourself\" defiende la autenticidad radical —ser irremplazable siendo genuinamente uno mismo— como la estrategia óptima tanto para la felicidad como para la creación de valor, y sus \"Argumentos centrales\" son explícitos al respecto: los juegos de suma positiva (cooperación, intercambio honesto, creación de valor) generan riqueza durable, mientras que los juegos de estatus —el terreno exacto que Greene cartografía— son de suma cero y \"destructivos a largo plazo\". Donde Greene recomienda concealment, Naval propone specific knowledge y judgment aplicados con apalancamiento (código, medios, capital, personas) en un mercado tecnológicamente mediado donde la honestidad escala y la manipulación no.\n\nLa diferencia más reveladora quizás no sea moral sino estructural: Greene opera en un campo de recursos fijos y relaciones de poder personalizadas (la corte, el rival, el superior que hay que halagar sin opacar), heredado de un mundo premoderno donde ascender significa desplazar a otro. Naval, en cambio, sitúa la influencia en un contexto de apalancamiento no-recíproco —código y medios que escalan sin permiso y sin coste marginal— donde crear valor para uno mismo no exige sustraérselo a nadie más, lo que explica por qué puede permitirse rechazar la indirección y el ocultamiento que Greene considera indispensables. Ninguna de las dos notas del corpus discute directamente a la otra, pero leídas juntas dejan planteada una pregunta que ninguna resuelve por sí sola: si la influencia genuina se construye ocultando intenciones y gestionando percepciones, como sostiene Greene, o revelándolas con honestidad radical dentro de un juego que ya no es de suma cero, como sostiene Naval.\n\n## Notas que usan este concepto\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/books/2020-08-11_almanack-naval-ravikant-jorgenson]]",
-      "degree": 2
+      "content": "Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico.\n\n## Qué dice la literatura\n\nLas dos únicas fuentes del vault sobre este concepto —Robert Greene con *The 48 Laws of Power* y la compilación que Eric Jorgenson hace del pensamiento de Naval Ravikant en *The Almanack of Naval Ravikant*— coinciden en una premisa compartida y discrepan radicalmente en todo lo demás. Ambas afirman que el poder o la influencia no son dones heredados sino habilidades que se cultivan deliberadamente: Greene sostiene que quien se niega a jugar el \"juego\" del poder no escapa de él, solo queda a merced de quienes sí dominan sus reglas, mientras que Naval encuadra tanto la riqueza como la felicidad como capacidades entrenables, no estados que llegan por suerte o herencia. En ambos casos, además, la reputación aparece como el activo estratégico central: la Ley 5 de Greene (\"guard your reputation with your life\") y el capítulo de Naval sobre \"Take on Accountability / Build Equity\" tratan la imagen pública como el vehículo que multiplica cualquier otro recurso.\n\nAhí termina la convergencia y empieza una tensión filosófica casi total. Greene describe un juego relacional de suma variable —a menudo cero— donde el terreno de operación son las cortes, los rivales y los aliados desconfiables: aconseja ocultar las intenciones propias (Ley 3), no confiar en los amigos y convertir enemigos en aliados que tienen algo que demostrar (Ley 2), actuar por indirección antes que por confrontación (Leyes 20, 30, 44) y tratar las emociones ajenas —envidia, miedo, amor— como palancas que se administran, no como vínculos genuinos. Su ética es explícitamente amoral: la moralidad convencional funciona como herramienta de imagen, no como guía normativa, y el modelo de actor social que subyace a las 48 leyes es el del jugador individualista en un entorno de confianza baja y recursos limitados. Naval invierte casi punto por punto esa lógica. Su capítulo \"Saving Yourself / Choosing to Be Yourself\" defiende la autenticidad radical —ser irremplazable siendo genuinamente uno mismo— como la estrategia óptima tanto para la felicidad como para la creación de valor, y sus \"Argumentos centrales\" son explícitos al respecto: los juegos de suma positiva (cooperación, intercambio honesto, creación de valor) generan riqueza durable, mientras que los juegos de estatus —el terreno exacto que Greene cartografía— son de suma cero y \"destructivos a largo plazo\". Donde Greene recomienda concealment, Naval propone specific knowledge y judgment aplicados con apalancamiento (código, medios, capital, personas) en un mercado tecnológicamente mediado donde la honestidad escala y la manipulación no.\n\nLa diferencia más reveladora quizás no sea moral sino estructural: Greene opera en un campo de recursos fijos y relaciones de poder personalizadas (la corte, el rival, el superior que hay que halagar sin opacar), heredado de un mundo premoderno donde ascender significa desplazar a otro. Naval, en cambio, sitúa la influencia en un contexto de apalancamiento no-recíproco —código y medios que escalan sin permiso y sin coste marginal— donde crear valor para uno mismo no exige sustraérselo a nadie más, lo que explica por qué puede permitirse rechazar la indirección y el ocultamiento que Greene considera indispensables. Ninguna de las dos notas del corpus discute directamente a la otra, pero leídas juntas dejan planteada una pregunta que ninguna resuelve por sí sola: si la influencia genuina se construye ocultando intenciones y gestionando percepciones, como sostiene Greene, o revelándolas con honestidad radical dentro de un juego que ya no es de suma cero, como sostiene Naval.\n\n## Notas que usan este concepto\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/books/2020-08-11_almanack-naval-ravikant-jorgenson]]\n- [[notes/fiction/1949-01-01_1984-orwell]]\n- [[notes/fiction/1987-01-01_watchmen]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]\n- [[notes/fiction/saga-mistborn]]",
+      "degree": 6
     },
     {
       "id": "concepts/politica-social",
@@ -2140,6 +2197,24 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/politica-social.md",
       "content": "Diseño, implementación y evaluación de programas e intervenciones gubernamentales orientados a mejorar el bienestar de poblaciones específicas; incluye políticas de educación, empleo, vivienda y familia.\n\n## Qué dice la literatura\n\nSeis fuentes, de dominios muy distintos —extensión agrícola, brecha de IA, desarrollo profesional universitario y política de género—, convergen en una misma crítica al diseño de la intervención pública: la política social uniforme, de \"talla única\", falla sistemáticamente frente a poblaciones heterogéneas, y su efectividad depende de calibrarse a la posición estructural específica del grupo destinatario. Los tres estudios de Becerra-Encinales, Reyes, Cruz y colegas sobre extensión tecnológica en palma de aceite lo plantean como problema de diseño institucional: el modelo de 2025 propone explícitamente que la política de extensión debe formularse por tipología de productor, con \"esquemas de incentivos progresivos, extensión participativa y marcos regulatorios integrados\"; el estudio de clústeres de 2026 refuerza el punto al mostrar que la escala del productor —variable que suele usarse para focalizar subsidios y programas— no predice la adopción de sostenibilidad tanto como el contexto (edad, género, pertenencia al Núcleo Palmero), es decir, que la política agraria colombiana focalizada por tamaño está apuntando al eje equivocado.\n\nSuárez y García-Mariñoso trasladan la misma lógica al terreno digital: documentan que el uso de IA generativa en España se concentra en jóvenes, hombres y personas con educación universitaria, y explícitamente enmarcan esto como un problema de política pública de alfabetización en IA, citando programas estatales concretos —Singapur, la iniciativa MinnaLearn de la UE con la Universidad de Helsinki, y el AI Leap de Estonia— como modelos de intervención estatal deliberada frente a un riesgo que, advierten, podría ampliar además la brecha salarial de género. Deng y Sun, sobre estudiantes universitarios de primera generación (FGCS), no evalúan una política estatal existente sino que la reclaman: proponen que las instituciones de educación superior y los empleadores diseñen estrategias de apoyo diferenciadas según estatus generacional y etapa de carrera, dado que los FGCS —25 % del pregrado en EE. UU.— llegan a la disrupción laboral de la IA con menos capital familiar de respaldo.\n\nReeves cierra el hilo desde el ángulo opuesto y con más fuerza empírica: en \"Non-Responders\" documenta que los programas sociales educativos y laborales existentes en EE. UU. benefician a las mujeres pero tienen eficacia casi nula en los hombres, un fracaso de diseño que la literatura de políticas públicas sistemáticamente ignora. Su respuesta —redshirting escolar, incentivos para que los hombres entren a los sectores HEAL, y una reforma de la paternidad independiente del matrimonio— es, estructuralmente, el mismo movimiento que piden los estudios de palma y de IA: abandonar la intervención genérica y diseñar política calibrada al grupo específico, sea este definido por tipología de productor, perfil sociodemográfico, generación universitaria o género.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]\n- [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]\n- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]\n- [[notes/papers/2025-05-22_brecha-digital-ia-generativa-espana]]\n- [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]\n- [[notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres]]",
       "degree": 7
+    },
+    {
+      "id": "concepts/primer-contacto",
+      "kind": "concept",
+      "label": "primer contacto",
+      "keyword": "primer-contacto",
+      "aliases": [
+        "first contact",
+        "primer contacto",
+        "xenocomunicación",
+        "alien intelligence",
+        "contacto extraterrestre"
+      ],
+      "definition": "Motivo de la ciencia ficción que explora el encuentro con una inteligencia no humana o extraterrestre y el problema de comunicarse y coexistir a través de una diferencia radical; incluye la incomprensión, la amenaza mutua y la hipótesis del bosque oscuro.",
+      "literature": "",
+      "path": "concepts/primer-contacto.md",
+      "content": "Motivo de la ciencia ficción que explora el encuentro con una inteligencia no humana o extraterrestre y el problema de comunicarse y coexistir a través de una diferencia radical; incluye la incomprensión, la amenaza mutua y la hipótesis del bosque oscuro.\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]",
+      "degree": 2
     },
     {
       "id": "concepts/probioticos",
@@ -2524,6 +2599,25 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 29
     },
     {
+      "id": "concepts/sistemas-y-reglas",
+      "kind": "concept",
+      "label": "sistemas y reglas",
+      "keyword": "sistemas-y-reglas",
+      "aliases": [
+        "hard worldbuilding",
+        "hard SF",
+        "systems fiction",
+        "worldbuilding",
+        "mundos coherentes",
+        "ficción de sistemas"
+      ],
+      "definition": "Construcción de mundos de ficción que operan como mecanismos coherentes: reglas explícitas y consistentes (físicas, mágicas, económicas o sociales) de las que se deducen las consecuencias de la trama; el interés está en cómo funciona el sistema, más allá de la etiqueta de género.",
+      "literature": "",
+      "path": "concepts/sistemas-y-reglas.md",
+      "content": "Construcción de mundos de ficción que operan como mecanismos coherentes: reglas explícitas y consistentes (físicas, mágicas, económicas o sociales) de las que se deducen las consecuencias de la trama; el interés está en cómo funciona el sistema, más allá de la etiqueta de género.\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]\n- [[notes/fiction/saga-mistborn]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]\n- [[notes/fiction/2019-01-01_exhalation-chiang]]",
+      "degree": 5
+    },
+    {
       "id": "concepts/sobredependencia-de-la-ia",
       "kind": "concept",
       "label": "sobredependencia de la ia",
@@ -2607,6 +2701,25 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/tecnocracia.md",
       "content": "Modelo de gobernanza y organización social en que el conocimiento técnico-científico tiene primacía sobre otros saberes en la toma de decisiones políticas y económicas.\n\n## Qué dice la literatura\n\nLos dos editoriales de *Nature* y el libro de Miller abordan la tecnocracia desde polos opuestos que terminan por iluminarse mutuamente. El editorial \"Why AI cannot do good science without humans\" (2026) y el comentario de Fan, \"Why science needs the humanities more than ever\" (2026), argumentan desde dentro de la propia institución científica contra una tecnocracia epistémica: la idea de que la pericia técnica —la de un sistema de IA o la de un ingeniero especializado— basta por sí sola para producir buena ciencia o buena política. El editorial sobre los sistemas \"Robin\" (FutureHouse) y \"Co-Scientist\" (Google DeepMind) documenta reducciones de hasta 200 veces en el tiempo de descubrimiento de fármacos, pero insiste en que ambos funcionaron como co-científicos, no como sustitutos autónomos: los humanos enmarcaron los proyectos, ejecutaron los experimentos y validaron los resultados, dejando deliberadamente sin responder la pregunta de si \"mayor eficiencia equivale a mayor insight\". Fan, escribiendo desde ShanghaiTech, generaliza el argumento a la política universitaria: la marginación de las humanidades en China tras 1949, calcada del \"alto modernismo\" soviético —especialización técnica, planificación centralizada, fe en la racionalidad científica—, dejó una jerarquía epistémica que hoy resulta insuficiente frente a preguntas sobre sesgo algorítmico, sostenibilidad y relaciones humano-máquina que la pericia técnica sola no puede resolver.\n\n*Chip War* no discute la tecnocracia como ideal epistémico sino como hecho geopolítico consumado, y en ese contraste está la tensión productiva del concepto en este vault. Donde los editoriales de *Nature* advierten contra ceder autoridad exclusiva a la racionalidad técnica, Miller narra un mundo en que esa cesión ya ocurrió: los semiconductores —\"no el petróleo, no el acero\"— determinan el poder militar, económico y tecnológico del siglo XXI, y decisiones como el control de TSMC y ASML o los vetos de exportación a Huawei se toman en clave técnico-estratégica, no deliberativa. El origen mismo de la industria —financiada por el Pentágono como \"estrategia de compensación\" frente a la superioridad numérica soviética— es tecnocracia militar en estado puro: la superioridad electrónica sustituyendo el debate político por cálculo técnico.\n\nLeídos en conjunto, los tres textos sugieren que la tecnocracia opera en dos registros que rara vez se cruzan en la literatura del vault: uno normativo-epistémico —¿debe la pericia técnica gobernar la producción de conocimiento?, que *Nature* responde con un no matizado— y otro material-estratégico —¿quién controla de facto la infraestructura que hace posible ese conocimiento?, que Miller documenta sin juzgarlo moralmente. La gobernanza humanista que Fan y el editorial de *Nature* reclaman para la ciencia en 2026 no tiene, en el corpus actual, un equivalente que pregunte quién gobierna —o debería gobernar— la infraestructura de cómputo y semiconductores sobre la que esa misma ciencia se apoya: la supervisión humana que ambos artículos exigen para la IA convive, sin que ninguno lo señale, con una cadena de suministro de chips controlada por un puñado de actores estatales y corporativos que operan bajo la lógica casi exclusivamente técnica que Miller describe.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/books/2022-10-04_chip-war-miller]]",
       "degree": 3
+    },
+    {
+      "id": "concepts/teoria-de-juegos",
+      "kind": "concept",
+      "label": "teoria de juegos",
+      "keyword": "teoria-de-juegos",
+      "aliases": [
+        "game theory",
+        "teoría de juegos",
+        "dilema del prisionero",
+        "equilibrio de Nash",
+        "disuasión",
+        "estrategia"
+      ],
+      "definition": "Estudio de la decisión estratégica entre agentes racionales cuyos resultados dependen de las elecciones de los demás; en la ficción aparece como dilemas de cooperación y conflicto, disuasión y equilibrios (p. ej., la hipótesis del bosque oscuro como respuesta a la paradoja de Fermi).",
+      "literature": "",
+      "path": "concepts/teoria-de-juegos.md",
+      "content": "Estudio de la decisión estratégica entre agentes racionales cuyos resultados dependen de las elecciones de los demás; en la ficción aparece como dilemas de cooperación y conflicto, disuasión y equilibrios (p. ej., la hipótesis del bosque oscuro como respuesta a la paradoja de Fermi).\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]",
+      "degree": 2
     },
     {
       "id": "concepts/terapia-genica",
@@ -14521,6 +14634,156 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/books/2024-06-07_la-generacion-ansiosa-haidt.md",
       "pdf_local": "",
       "content": "## Resumen\n\n*La generación ansiosa* (2024), del psicólogo social Jonathan Haidt, documenta y analiza el colapso de la salud mental de niños y adolescentes en los países desarrollados a partir de aproximadamente 2010-2015. La tesis central es que la rápida adopción del smartphone y las redes sociales —lo que Haidt llama la \"Gran Reconfiguración\"— transformó radicalmente la infancia, desplazando la experiencia física, relacional y autónoma por una existencia mediada por pantallas. Este cambio afectó de forma especialmente severa a las adolescentes, pero también, con matices distintos, a los varones.\n\nEl libro se estructura en cuatro partes. La primera documenta el \"tsunami\" de sufrimiento psicológico mediante datos de ansiedad, depresión, autolesiones y hospitalización de menores en múltiples países occidentales. La segunda parte examina los fundamentos evolutivos y psicológicos del desarrollo infantil saludable: los niños necesitan juego libre con riesgo, interacción social cara a cara, autonomía progresiva y experiencias en el mundo real durante la pubertad para que su cerebro se configure adecuadamente. La tercera parte analiza en detalle cómo la \"infancia basada en el teléfono\" obstruye esos procesos: la privación social, la fragmentación de la atención, la falta de sueño y los mecanismos de refuerzo variable de las plataformas. La cuarta parte propone un programa de acción colectiva para gobiernos, escuelas, padres y la propia Generación Z.\n\nHaidt argumenta que la causalidad no es solo correlacional: el patrón de crisis —sincronizado en decenas de países distintos, más pronunciado en chicas, iniciado precisamente cuando los smartphones alcanzaron masa crítica— difícilmente admite otra explicación. Descarta explicaciones alternativas (la Gran Recesión, el cambio climático, la polarización política) por no poder rendir cuenta de la simultaneidad internacional y el sesgo de género. La tesis no es que la tecnología sea intrínsecamente mala, sino que introducirla de forma masiva durante los años de desarrollo cerebral más plásticos, sin protecciones de diseño ni regulación, fue un experimento social sin precedentes y con consecuencias graves.\n\nEl libro cierra con un llamado a la acción colectiva: puesto que las normas sociales y los incentivos de mercado atrapan a padres, escuelas y adolescentes en un equilibrio disfuncional, la solución debe ser coordinada. Haidt propone cuatro reformas concretas: prohibición de smartphones antes de los 14 años, restricción de redes sociales hasta los 16, escuelas libres de teléfonos y más tiempo de juego libre sin supervisión adulta.\n\n## Ideas principales por capítulo\n\n- **Introducción — \"Crecer en Marte\":** La analogía de un asentamiento infantil en Marte sirve para ilustrar que someter a niños a un entorno no diseñado para su biología de desarrollo es un experimento irresponsable; eso es, en esencia, lo que ocurrió con internet.\n- **Cap. 1 — \"La oleada de sufrimiento\":** Documentación estadística del aumento de ansiedad, depresión, autolesiones y hospitalizaciones psiquiátricas en adolescentes de EE. UU., Reino Unido, Canadá y otros países desde 2012, coincidiendo con la adopción masiva del smartphone.\n- **Cap. 2 — \"Qué necesitan hacer los niños en la infancia\":** Los niños necesitan experiencias encarnadas, relacionales y de riesgo moderado durante la infancia; la psicología evolutiva y del desarrollo establece por qué esto es indispensable para el sano crecimiento cerebral.\n- **Cap. 3 — \"El modo descubrimiento y la necesidad del juego con riesgos\":** La paradoja de la seguridad moderna: se hiperprotegió a los niños del mundo físico mientras se los abandonó sin protección al mundo digital; el juego libre con riesgo es necesario para construir resiliencia y competencia.\n- **Cap. 4 — \"La pubertad y la obstrucción de la transición a la adultez\":** La pubertad es un periodo crítico de plasticidad cerebral; las experiencias de esos años determinan qué redes neuronales quedan consolidadas; la infancia basada en el teléfono canaliza la plasticidad hacia patrones disfuncionales.\n- **Cap. 5 — \"Los cuatro perjuicios fundamentales\":** Privación social, falta de sueño, fragmentación de la atención y adicción comportamental son los cuatro mecanismos mediante los que el uso intensivo de smartphones daña el desarrollo adolescente.\n- **Cap. 6 — \"Por qué las redes sociales perjudican más a las chicas\":** Las chicas usan más las redes sociales basadas en la comparación social de apariencia e imagen; los mecanismos de daño incluyen comparación social, ciberacoso y desplazamiento de las amistades presenciales.\n- **Cap. 7 — \"¿Qué les está ocurriendo a los chicos?\":** Los varones son más afectados por los videojuegos y la pornografía que por las redes sociales; el patrón de daño es diferente pero igualmente preocupante: desenganche del mundo real y fracaso en la transición a la adultez.\n- **Cap. 8 — \"Elevación y degradación espirituales\":** La vida basada en el teléfono produce empobrecimiento espiritual y moral en el sentido secular del término; las plataformas explotan las dimensiones de jerarquía y pureza del espacio social humano para amplificar el conflicto tribal.\n- **Cap. 9 — \"Preparativos para la acción colectiva\":** Los problemas de acción colectiva explican por qué ningún actor individual puede resolver la crisis solo; se necesitan normas sociales compartidas y cambios estructurales.\n- **Cap. 10 — \"Qué pueden hacer ya los gobiernos y las empresas tecnológicas\":** Las plataformas explotan vulnerabilidades psicológicas mediante diseño deliberado (bucles de retroalimentación dopaminérgica); la regulación debe cambiar sus incentivos tal como ocurrió con la industria alimentaria o la automotriz.\n- **Cap. 11 — \"Qué pueden hacer ya los colegios e institutos\":** Las dos \"ballenas\" más eficaces son: escuelas libres de teléfonos durante toda la jornada y más juego libre sin supervisión adulta.\n- **Cap. 12 — \"Qué pueden hacer ya los padres\":** Los padres deben actuar como \"jardineros\" (crear condiciones para que el niño florezca) en lugar de \"carpinteros\" (controlar el resultado); propone retrasar el acceso al smartphone hasta los 14 años y actuar coordinados con otras familias.\n- **Conclusión — \"Devolvamos la infancia a la Tierra\":** La crisis tiene remedio; los cambios deben ser colectivos y urgentes; el libro fue concebido como desglose de un capítulo sobre redes sociales y democracia que creció hasta convertirse en una advertencia independiente.\n\n## Argumentos centrales\n\n- La crisis de salud mental adolescente es real, grave, sincronizada internacionalmente y comenzó entre 2010 y 2015, coincidiendo con la adopción masiva del smartphone.\n- Las plataformas de redes sociales fueron diseñadas deliberadamente para maximizar el tiempo de atención mediante refuerzo variable y bucles dopaminérgicos, a sabiendas de que eran dañinas para los adolescentes.\n- El cerebro adolescente es especialmente vulnerable porque está en un periodo crítico de plasticidad; las experiencias digitales intensivas cablean circuitos que dificultan la atención sostenida, la tolerancia a la frustración y la socialización presencial.\n- Las niñas sufren más daño por las redes sociales basadas en imagen y comparación social; los varones sufren más por videojuegos y pornografía; ambos muestran señales de deterioro psicológico y dificultades de transición a la adultez.\n- La sobreprotección física de los niños (menor juego libre, menor autonomía) y la subprotección digital constituyen dos errores simultáneos y complementarios.\n- La solución requiere acción colectiva: ningún padre, escuela o gobierno puede resolver el problema en solitario; se necesitan normas sociales coordinadas.\n\n## Limitaciones\n\n- Las correlaciones temporales son convincentes pero la causalidad definitiva sigue siendo debatida en la literatura académica; algunos investigadores señalan que el tamaño del efecto del uso de pantallas puede ser modesto.\n- El análisis se centra principalmente en países anglosajones y del norte de Europa; la evidencia de contextos latinoamericanos o asiáticos es más escasa.\n- El libro no profundiza en las condiciones estructurales (desigualdad, precariedad económica familiar, cambios en la estructura escolar) que podrían contribuir de forma independiente a la crisis.\n- Las recomendaciones para padres asumen recursos económicos, tiempo y capital social que no todas las familias tienen en igual medida; hay un sesgo implícito hacia familias de clase media-alta.\n- La discusión sobre varones (pornografía, videojuegos) tiene menos evidencia sistemática que la parte dedicada a chicas y redes sociales.\n\n## Notas relacionadas\n\n- [[concepts/bienestar-academico]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/educacion-k12]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/salud-y-sociedad]]\n- [[concepts/desarrollo-del-caracter]]\n- [[concepts/trauma-y-salud]]\n- [[concepts/sesgo-cognitivo]]\n- [[concepts/ciencia-y-sociedad]]"
+    },
+    {
+      "id": "notes/fiction/1949-01-01_1984-orwell",
+      "kind": "fiction",
+      "label": "1984",
+      "authors": [
+        "George Orwell"
+      ],
+      "year": "1949",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1949-01-01_1984-orwell.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nWinston Smith vive en Oceanía, un Estado de partido único que vigila cada gesto y reescribe el pasado a voluntad. Trabaja falsificando registros históricos mientras cultiva, en secreto, una rebelión interior. Su historia es el intento de conservar un espacio propio de verdad y deseo frente a un poder que aspira a colonizar hasta el pensamiento.\n\n## Mecanismo e ideas\nLa fuerza del libro es su sistema de control, descrito casi como una ingeniería del poder: la vigilancia total, la neolengua que reduce el vocabulario para hacer impensable la disidencia, el doblepensar, la manipulación de la memoria colectiva. Orwell no describe solo una tiranía, describe cómo se fabrica y se sostiene. Es la distopía canónica y el ancla del clúster distópico del catálogo (Brave New World, Fahrenheit 451, The Giver, The Hunger Games, Divergent), y su tesis sobre el lenguaje y el poder conecta con la vena de comentario social del lector.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/poder-y-persuasion]]"
+    },
+    {
+      "id": "notes/fiction/1987-01-01_watchmen",
+      "kind": "fiction",
+      "label": "Watchmen",
+      "authors": [
+        "Alan Moore",
+        "Dave Gibbons"
+      ],
+      "year": "1987",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "poder-y-persuasion",
+        "filosofia"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1987-01-01_watchmen.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nEn una historia alterna donde los superhéroes existieron y alteraron el curso del siglo XX, Estados Unidos se acerca a una guerra nuclear con la Unión Soviética. El asesinato de un vigilante desata una investigación que va desmontando, uno por uno, a un grupo de exhéroes envejecidos, cínicos o rotos. Es una deconstrucción del género y de la idea misma del héroe.\n\n## Mecanismo e ideas\nWatchmen funciona como un reloj: estructura simétrica, motivos que rima capítulo a capítulo, una trama que encaja como pieza de relojería. Su núcleo es un problema moral, hasta dónde se justifica un mal para evitar uno mayor, planteado sin respuesta cómoda: el plan de Ozymandias es utilitarismo llevado al límite. Cruza el poder y su legitimidad con una atmósfera de vigilancia y autoritarismo latente, y por eso conversa con las distopías clásicas más que con el cómic de superhéroes. Filosofía moral disfrazada de novela gráfica.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/filosofia]]"
+    },
+    {
+      "id": "notes/fiction/2006-01-01_mistborn-final-empire",
+      "kind": "fiction",
+      "label": "Mistborn: The Final Empire",
+      "authors": [
+        "Brandon Sanderson"
+      ],
+      "year": "2006",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "sistemas-y-reglas",
+        "magia-dura",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2006-01-01_mistborn-final-empire.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de Mistborn. En un mundo bajo la ceniza y la niebla, gobernado durante mil años por un Lord Ruler inmortal, una banda liderada por Kelsier planea lo imposible: robar el imperio. La protagonista, Vin, descubre que es una alomántica capaz de \"quemar\" metales para obtener poderes concretos.\n\n## Mecanismo e ideas\nEl corazón del libro es la alomancia, el ejemplo de manual de la magia dura: cada metal produce un efecto específico, con costes y límites claros, de modo que las escenas de acción y las soluciones se sienten como un sistema y no como un truco. Esa legibilidad es justo lo que a Luis le da el cinco. Sobre el sistema mágico, Sanderson monta una trama de poder y opresión con reglas propias, un heist contra un dios-emperador, que hace que el libro funcione a la vez como fantasía y como mecanismo.\n\n## Notas relacionadas\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/magia-dura]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/saga-mistborn]]"
+    },
+    {
+      "id": "notes/fiction/2008-01-01_three-body-problem",
+      "kind": "fiction",
+      "label": "The Three-Body Problem",
+      "authors": [
+        "Liu Cixin"
+      ],
+      "year": "2008",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "sistemas-y-reglas",
+        "teoria-de-juegos",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2008-01-01_three-body-problem.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de la trilogía Remembrance of Earth's Past. Arranca en la Revolución Cultural china y desde ahí abre un misterio que enlaza a una física desencantada, un videojuego imposible y una señal venida de un sistema estelar de tres soles. El problema físico de los tres cuerpos, sin solución estable, es la metáfora y el motor: un mundo cuyo entorno es caótico e impredecible produce una civilización con una lógica de supervivencia distinta a la humana.\n\n## Mecanismo e ideas\nEs el arquetipo de lo que a Luis le gana la nota máxima: la física manda, es coherente y despiadada, y de ella se deducen las consecuencias. El libro no pide suspender la incredulidad, pide seguir un razonamiento. El primer contacto no es un encuentro sentimental sino un problema de comunicación, verificación y estrategia entre civilizaciones que no pueden confiar entre sí, semilla de la hipótesis del bosque oscuro que estalla en el segundo libro. Bajo la trama corre además un comentario sobre la ciencia y la sociedad, cómo una civilización interpreta y traiciona su propio conocimiento.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/teoria-de-juegos]]\n- [[concepts/ciencia-y-sociedad]]\n- [[notes/fiction/saga-remembrance-of-earths-past]]"
+    },
+    {
+      "id": "notes/fiction/2019-01-01_exhalation-chiang",
+      "kind": "fiction",
+      "label": "Exhalation",
+      "authors": [
+        "Ted Chiang"
+      ],
+      "year": "2019",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "libre-albedrio",
+        "sistemas-y-reglas",
+        "filosofia",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2019-01-01_exhalation-chiang.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nColección de cuentos de Ted Chiang. Cada relato toma una premisa conceptual (un mundo cuyos habitantes respiran aire a presión y se disecan a sí mismos para entender su propia mente, un dispositivo que prueba que el libre albedrío no existe, puertas que comunican el pasado y el futuro) y la lleva hasta sus últimas consecuencias con rigor de teorema. Es la lectura en curso de Luis, con pasta dura ya encargada para coleccionarla.\n\n## Mecanismo e ideas\nChiang es ciencia ficción de ideas tan rigurosa como el Liu Cixin que enganchó a Luis: mecanismos impecables, mundos que funcionan como sistemas. La diferencia, y la trampa deliberada de esta recomendación, es que cada relato mete un golpe emocional por debajo de la línea de flotación, y demuestra que el rigor y el corazón no son enemigos. El libre albedrío es el hilo que Chiang deja abierto: hay una segunda máquina suya sobre el tema, todavía sin aparecer en la lectura de Luis, que conviene cobrar cuando llegue. Estrena además el cuento corto, formato casi ausente en su historial.\n\n## Ficha de lectura\n- Estado: leyendo. Valoración provisional 4.5.\n- Hilo abierto: la segunda máquina de Chiang sobre el libre albedrío. Retomar al cierre.\n\n## Notas relacionadas\n- [[concepts/libre-albedrio]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/filosofia]]\n- [[concepts/ciencia-y-sociedad]]"
+    },
+    {
+      "id": "notes/fiction/saga-mistborn",
+      "kind": "fiction",
+      "label": "Mistborn (Era 1)",
+      "authors": [
+        "Brandon Sanderson"
+      ],
+      "year": "2006",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "sistemas-y-reglas",
+        "magia-dura",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/saga-mistborn.md",
+      "pdf_local": "",
+      "content": "Índice de la primera era de Mistborn, el caso arquetípico de magia dura que a Luis le gana la nota máxima: un sistema mágico (la alomancia) con reglas explícitas, costes y límites, donde las soluciones de la trama se deducen del sistema y no de un comodín narrativo.\n\n## Entregas\n- #1 The Final Empire (2006) · 5 · leído · [[notes/fiction/2006-01-01_mistborn-final-empire]]\n- #2 The Well of Ascension (2007) · 5 · leído · nota pendiente\n- #3 The Hero of Ages (2008) · 5 · leído · nota pendiente\n- #4 The Alloy of Law (2011) · 4 · leído · nota pendiente\n\n## Hilo conductor\nLa alomancia funciona como una tecnología: cada metal hace una cosa concreta y verificable, y el lector puede anticipar lo que un personaje puede o no hacer. Sobre ese sistema, Sanderson monta una trama política de imperio, opresión y rebelión, donde el poder también tiene reglas legibles. Es fantasía para quien piensa en mecanismos.\n\n## Notas relacionadas\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/magia-dura]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]"
+    },
+    {
+      "id": "notes/fiction/saga-remembrance-of-earths-past",
+      "kind": "fiction",
+      "label": "Remembrance of Earth's Past (trilogía)",
+      "authors": [
+        "Liu Cixin"
+      ],
+      "year": "2008",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "sistemas-y-reglas",
+        "teoria-de-juegos",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/saga-remembrance-of-earths-past.md",
+      "pdf_local": "",
+      "content": "Índice de la trilogía de Liu Cixin, uno de los pilares del gusto de Luis por la ciencia ficción de ideas. La saga parte de la física despiadada y coherente, escala hasta la escala civilizatoria y cósmica, y trata el universo como un problema a resolver, no como un decorado.\n\n## Entregas\n- #1 The Three-Body Problem (2008) · 5 · leído · [[notes/fiction/2008-01-01_three-body-problem]]\n- #2 The Dark Forest (2008) · 5 · leído · nota pendiente\n- #3 Death's End (2010) · 5 · leído · nota pendiente\n\n## Hilo conductor\nEl motor de la saga es un problema de comunicación y estrategia entre civilizaciones separadas por años luz y por una diferencia radical de escala y valores. La hipótesis del bosque oscuro, en el segundo libro, convierte la paradoja de Fermi en un problema de teoría de juegos con información incompleta: si no puedes confiar en las intenciones del otro ni verificar su capacidad futura, el silencio y el primer golpe se vuelven racionales. Es ciencia ficción que funciona como un teorema.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/teoria-de-juegos]]\n- [[concepts/ciencia-y-sociedad]]\n- [[notes/fiction/2008-01-01_three-body-problem]]"
     }
   ],
   "links": [
@@ -30238,6 +30501,141 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/books/2024-06-07_la-generacion-ansiosa-haidt",
       "target": "concepts/ciencia-y-sociedad",
       "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1949-01-01_1984-orwell",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1949-01-01_1984-orwell",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1987-01-01_watchmen",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1987-01-01_watchmen",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1987-01-01_watchmen",
+      "target": "concepts/filosofia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2006-01-01_mistborn-final-empire",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2006-01-01_mistborn-final-empire",
+      "target": "concepts/magia-dura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2006-01-01_mistborn-final-empire",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2006-01-01_mistborn-final-empire",
+      "target": "notes/fiction/saga-mistborn",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_three-body-problem",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_three-body-problem",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_three-body-problem",
+      "target": "concepts/teoria-de-juegos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_three-body-problem",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_three-body-problem",
+      "target": "notes/fiction/saga-remembrance-of-earths-past",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2019-01-01_exhalation-chiang",
+      "target": "concepts/libre-albedrio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2019-01-01_exhalation-chiang",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2019-01-01_exhalation-chiang",
+      "target": "concepts/filosofia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2019-01-01_exhalation-chiang",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-mistborn",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-mistborn",
+      "target": "concepts/magia-dura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-mistborn",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-mistborn",
+      "target": "notes/fiction/2006-01-01_mistborn-final-empire",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-remembrance-of-earths-past",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-remembrance-of-earths-past",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-remembrance-of-earths-past",
+      "target": "concepts/teoria-de-juegos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-remembrance-of-earths-past",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-remembrance-of-earths-past",
+      "target": "notes/fiction/2008-01-01_three-body-problem",
+      "kind": "related"
     }
   ]
 };

@@ -16,6 +16,7 @@
     --paper: #60a5fa;
     --article: #2dd4bf;
     --book: #f472b6;
+    --fiction: #a78bfa;
     --concept: #fbbf24;
     --accent: #a78bfa;
   }
@@ -83,6 +84,7 @@
   .cat-btn.active[data-cat=soc] { color:#fb923c; border-color:#fb923c; background:rgba(251,146,60,.12); }
   .cat-btn.active[data-cat=psi] { color:#e879f9; border-color:#e879f9; background:rgba(232,121,249,.12); }
   .cat-btn.active[data-cat=met] { color:#94a3b8; border-color:#94a3b8; background:rgba(148,163,184,.12); }
+  .cat-btn.active[data-cat=fic] { color:#a78bfa; border-color:#a78bfa; background:rgba(167,139,250,.12); }
   .search {
     width: 100%; padding: 9px 11px; border-radius: 9px;
     border: 1px solid var(--line); background: var(--panel-2);
@@ -176,6 +178,7 @@
   .badge.paper { background: rgba(96,165,250,.18); color: var(--paper); }
   .badge.article { background: rgba(45,212,191,.18); color: var(--article); }
   .badge.book { background: rgba(244,114,182,.18); color: var(--book); }
+  .badge.fiction { background: rgba(167,139,250,.18); color: var(--fiction); }
   .badge.concept { background: rgba(251,191,36,.18); color: var(--concept); }
   .d-title { font-size: 15.5px; line-height: 1.35; margin: 0; }
   .d-meta { font-size: 12px; color: var(--muted); margin-top: 7px; line-height: 1.5; }
@@ -302,6 +305,7 @@
             <button class="cat-btn" data-cat="soc">Ciencias sociales</button>
             <button class="cat-btn" data-cat="psi">Psicología</button>
             <button class="cat-btn" data-cat="met">Métodos</button>
+            <button class="cat-btn" data-cat="fic">Ficción</button>
           </div>
         </div>
       </div>
@@ -324,6 +328,11 @@
           <label class="toggle" data-kind="book">
             <span class="swatch" style="background:var(--book)"></span> Libros
             <span class="count" id="c-book">0</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="toggle" data-kind="fiction">
+            <span class="swatch" style="background:var(--fiction)"></span> Ficción
+            <span class="count" id="c-fiction">0</span>
             <input type="checkbox" checked />
           </label>
           <label class="toggle" data-kind="concept">
@@ -429,7 +438,7 @@ const CONFIG = {
   repoBlobBase: "https://github.com/luishreyes/Academic-Brain/blob/main/",
 };
 
-const COLORS = { paper: "#60a5fa", article: "#2dd4bf", book: "#f472b6", concept: "#fbbf24" };
+const COLORS = { paper: "#60a5fa", article: "#2dd4bf", book: "#f472b6", fiction: "#a78bfa", concept: "#fbbf24" };
 const DATA = window.__ACADEMIC_BRAIN__ || { nodes: [], links: [], counts: {} };
 
 const CATEGORY_MAP = {
@@ -440,7 +449,8 @@ const CATEGORY_MAP = {
                'diseno-especulativo','diseno-universal-para-el-aprendizaje','educacion-en-ingenieria','educacion-en-programacion','educacion-k12','educacion-superior',
                'equidad-educativa','evaluacion-educativa','formacion-docente','integridad-academica',
                'liderazgo-educativo','pensamiento-critico-medico','personalizacion-del-aprendizaje',
-               'psicologia-educativa','STEM','taxonomia-de-bloom','tpack','ensenanza-de-lenguas','educacion-medica','pacientes-virtuales','escritura-academica','universidades-chinas']),
+               'psicologia-educativa','STEM','taxonomia-de-bloom','tpack','ensenanza-de-lenguas','educacion-medica','pacientes-virtuales','escritura-academica','universidades-chinas',
+               'ensenanza-basada-en-evidencia','fidelidad-de-implementacion']),
   nat: new Set(['biocombustibles','biologia-molecular','biologia-sintetica','biomasa-lignocelulosica',
                'biomateriales','bioquimica-computacional','desarrollo-de-farmacos','dinamica-de-poblaciones',
                'economia-circular','enfermedades-raras','evolucion-de-laboratorio','genomica',
@@ -455,12 +465,16 @@ const CATEGORY_MAP = {
                'gestion-por-objetivos','historia-de-la-innovacion','impacto-de-investigacion',
                'liderazgo-organizacional','modernizacion','poder-y-persuasion','politica-social',
                'publicacion-academica','salud-y-sociedad','tecnocracia','trauma-y-salud','brecha-digital','profesion-de-la-ingenieria',
-               'exposicion-laboral-a-la-ia','desarrollo-profesional-academico','habilidades-de-presentacion']),
+               'exposicion-laboral-a-la-ia','desarrollo-profesional-academico','habilidades-de-presentacion',
+               'comportamiento-organizacional','cambio-climatico','gestion-de-riesgo-de-desastres']),
   psi: new Set(['comportamiento-del-consumidor','creatividad','desarrollo-del-caracter','filosofia',
-               'finanzas-personales','humanidades','pensamiento-critico','personalidad-introversion','percepcion-multisensorial','sesgo-cognitivo','descarga-cognitiva','sobredependencia-de-la-ia','confianza-en-la-ia','historiografia','epistemologia']),
+               'finanzas-personales','humanidades','pensamiento-critico','personalidad-introversion','percepcion-multisensorial','sesgo-cognitivo','descarga-cognitiva','sobredependencia-de-la-ia','confianza-en-la-ia','historiografia','epistemologia',
+               'divagacion-mental','psicologia-de-la-personalidad']),
   met: new Set(['analisis-bibliometrico','ciencia-de-datos','comunicacion-cientifica','descubrimiento-cientifico','diseno-de-producto',
                'ensayo-controlado-aleatorio','epistemologia-del-riesgo','interdisciplinariedad',
-               'medicina-basada-en-evidencia','psicometria','revision-sistematica-de-literatura','visualizacion-de-datos']),
+               'medicina-basada-en-evidencia','psicometria','revision-sistematica-de-literatura','visualizacion-de-datos',
+               'construccion-de-teoria','filosofia-de-la-ciencia','replicabilidad-cientifica']),
+  fic: new Set(['sistemas-y-reglas','magia-dura','libre-albedrio','primer-contacto','distopia','teoria-de-juegos']),
 };
 
 // ===================== Estado =====================
@@ -481,7 +495,7 @@ for (const l of links) {
   neighbors.get(l.target.id).add(l.source.id);
 }
 
-const visibleKinds = { paper: true, article: true, book: true, concept: true };
+const visibleKinds = { paper: true, article: true, book: true, fiction: true, concept: true };
 let activeCategories = new Set();
 let showRelated = true;
 let labelMode = "none"; // 'none' | 'concepts' | 'all' — por defecto sin etiquetas
@@ -869,7 +883,7 @@ function select(id, pushHistory = true) {
   if (isMobile()) sbToggle.style.visibility = "hidden";
   const badge = document.getElementById("d-badge");
   badge.className = "badge " + n.kind;
-  badge.textContent = n.kind === "paper" ? "Paper" : n.kind === "article" ? "Artículo" : n.kind === "book" ? "Libro" : "Concepto";
+  badge.textContent = n.kind === "paper" ? "Paper" : n.kind === "article" ? "Artículo" : n.kind === "book" ? "Libro" : n.kind === "fiction" ? "Ficción" : "Concepto";
   document.getElementById("d-title").textContent = n.label;
 
   const meta = document.getElementById("d-meta");
@@ -1002,11 +1016,14 @@ function refList(items) {
 function initSidebar() {
   const bookCount = DATA.counts.books || 0;
   const bookStr = bookCount ? ` · ${bookCount} ${bookCount === 1 ? "libro" : "libros"}` : "";
+  const ficCount = DATA.counts.fiction || 0;
+  const ficStr = ficCount ? ` · ${ficCount} ficción` : "";
   document.getElementById("brand-sub").textContent =
-    `${DATA.counts.papers || 0} papers · ${DATA.counts.articles || 0} artículos${bookStr} · ${DATA.counts.concepts || 0} conceptos`;
+    `${DATA.counts.papers || 0} papers · ${DATA.counts.articles || 0} artículos${bookStr}${ficStr} · ${DATA.counts.concepts || 0} conceptos`;
   document.getElementById("c-paper").textContent = DATA.counts.papers || 0;
   document.getElementById("c-article").textContent = DATA.counts.articles || 0;
   document.getElementById("c-book").textContent = DATA.counts.books || 0;
+  document.getElementById("c-fiction").textContent = DATA.counts.fiction || 0;
   document.getElementById("c-concept").textContent = DATA.counts.concepts || 0;
 
   const list = document.getElementById("concept-list");

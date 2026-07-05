@@ -23,3 +23,6 @@ Relación entre la producción científica y sus contextos sociales, políticos 
 - [[notes/books/2017-04-04_pandoras-lab-offit]]
 - [[notes/books/2010-06-15_the-rational-optimist-ridley]]
 - [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]
+- [[notes/fiction/saga-remembrance-of-earths-past]]
+- [[notes/fiction/2008-01-01_three-body-problem]]
+- [[notes/fiction/2019-01-01_exhalation-chiang]]
