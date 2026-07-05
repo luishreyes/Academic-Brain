@@ -63,6 +63,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **cambio-climatico** — Alteración de largo plazo de los patrones climáticos globales por el aumento de gases de efecto invernadero; incluye el calentamiento global, la mayor frecuencia e intensidad de eventos meteorológicos extremos, sus impactos sobre poblaciones vulnerables y las estrategias de mitigación y adaptación. _Aliases: climate change, calentamiento global, global warming, IPCC, eventos climáticos extremos, adaptación climática_
 
+**colapso-civilizatorio** — Colapso social, apocalipsis o amenaza de extinción a escala de civilización o especie; incluye la supervivencia, la reconstrucción y la fragilidad de las instituciones. _Aliases: societal collapse, apocalypse, colapso civilizatorio, apocalipsis, post-apocalíptico, extinción_
+
 **comportamiento-del-consumidor** — Estudio de las percepciones, emociones, expectativas y decisiones de los consumidores ante productos y estímulos; incluye experiencias multisensoriales, nudging, marketing sensorial y comportamiento en entornos digitales como el e-commerce. _Aliases: consumer behavior, consumer psychology, comportamiento de compra, food marketing, multisensory, sensory marketing_
 
 **comportamiento-organizacional** — Estudio de las actitudes, conductas, estados psicológicos y diferencias individuales de las personas en el lugar de trabajo y su relación con el desempeño, la creatividad y el bienestar; nivel micro (individual y de equipo) del análisis de las organizaciones. _Aliases: organizational behavior, comportamiento organizacional, workplace psychology, psicología del trabajo, employee behavior_
@@ -131,6 +133,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **evolucion-cultural** — Proceso por el cual las ideas, tecnologías, normas y prácticas sociales cambian a lo largo del tiempo mediante mecanismos análogos a la selección natural: variación, transmisión y selección diferencial; incluye la teoría de la evolución de doble herencia y el concepto de memes. _Aliases: cultural evolution, evolución de la cultura, memética, cultural transmission, double inheritance theory_
 
+**ecologia-y-terraformacion** — Ecología, medio ambiente y transformación planetaria (terraformación) como eje del mundo narrativo; incluye la dependencia entre una sociedad y su entorno físico. _Aliases: ecology, terraforming, ecología, terraformación, medio ambiente, ecosistema_
+
 **economia-circular** — Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible. _Aliases: circular economy, bioeconomía, waste valorization, economía regenerativa_
 
 **economia-de-la-innovacion** — Campo que estudia los determinantes económicos de la innovación tecnológica: retornos crecientes, bienes no rivales, spillovers de conocimiento, propiedad intelectual y el rol del mercado y el Estado en el proceso innovador. _Aliases: economics of innovation, Schumpeter, economía del conocimiento, retornos crecientes_
@@ -188,6 +192,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **geopolitica-tecnologica** — Estudio de cómo las tecnologías críticas (semiconductores, IA, redes de comunicación) se convierten en instrumentos y escenarios de competencia entre potencias; incluye controles de exportación, cadenas de suministro estratégicas y dependencia tecnológica. _Aliases: techno-geopolitics, geopolitics of technology, geopolítica de los chips, tech competition_
 
+**guerra-y-conflicto** — La guerra, el militarismo y su ética como centro del relato; incluye el entrenamiento, la estrategia, el trauma y la crítica antibélica. _Aliases: war, warfare, guerra, militarismo, conflicto armado, ética militar, antibélico_
+
 ## H
 
 **historia-de-la-innovacion** — Estudio histórico de cómo las innovaciones tecnológicas, científicas y sociales se desarrollaron y difundieron; examina patrones de invención incremental, resistencia institucional y atribución colectiva de la autoría. _Aliases: history of innovation, history of technology, historia de la tecnología_
@@ -240,6 +246,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **magia-dura** — Sistema mágico gobernado por reglas explícitas, costes y límites consistentes de los que se derivan las soluciones de la trama (Leyes de Sanderson), en contraste con la magia como misterio evocador; expresión fantástica del gusto por los mundos que funcionan como un mecanismo. _Aliases: hard magic, magia dura, sistema de magia, Sanderson's laws, hard magic system_
 
+**mayoria-de-edad** — Relato de formación de un protagonista, casi siempre joven, que atraviesa una prueba y sale transformado (coming of age). _Aliases: coming of age, mayoría de edad, bildungsroman, iniciación, relato de formación_
+
 **medicina-basada-en-evidencia** — Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio. _Aliases: evidence-based medicine, EBM, medicina basada en evidencias_
 
 **metabolitos-secundarios** — Compuestos producidos por microorganismos que no son esenciales para el crecimiento celular pero tienen valor industrial, farmacéutico o nutricional; incluye terpenoides, alcaloides, policétidos, carotenoides e isoprenoides. _Aliases: secondary metabolites, natural products, productos naturales, terpenoids, isoprenoids, carotenoids_
@@ -247,6 +255,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **microscopia-de-caracterizacion** — Técnicas de microscopía electrónica (SEM, TEM, FE-SEM) y de fluorescencia usadas para caracterizar morfología, ultraestructura y distribución espacial de células, biopelículas y materiales a escala micro- y nanométrica. _Aliases: electron microscopy, fluorescence microscopy, SEM, TEM, FE-SEM_
 
 **motivacion-y-compromiso-estudiantil** — Energía, impulso y conductas que sostienen la participación, el esfuerzo y la persistencia del estudiante en el aprendizaje; el compromiso (engagement) es multidimensional (cognitivo, conductual, emocional y de agencia) y se distingue de los resultados de aprendizaje. _Aliases: student motivation and engagement, learning engagement, motivación estudiantil, compromiso del estudiante_
+
+**mitologia-y-religion** — Presencia de dioses, mitos, fe, profecía y teología en la ficción; incluye la reinterpretación de mitologías, el poder social de la creencia y la tensión entre lo sagrado y lo secular. _Aliases: mythology, religion, mitología, religión, teología, profecía, faith_
 
 **modelado-molecular** — Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas. _Aliases: molecular modeling, molecular mechanics, molecular dynamics, MD simulation, force field, campo de fuerzas_
 
@@ -315,6 +325,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **razonamiento-multimodal** — Capacidad de los modelos de IA para integrar y razonar sobre múltiples modalidades (texto, imágenes, diagramas, fórmulas); incluye la interpretación de figuras científicas, diagramas de proceso y notación matemática. _Aliases: multimodal reasoning, multimodal LLM, razonamiento multimodal, vision-language models_
 
+**realidades-multiples** — Multiverso, mundos paralelos, realidades simuladas o virtuales y bucles o viajes en el tiempo; el interés está en las reglas que gobiernan el salto entre realidades y sus consecuencias. _Aliases: multiverse, many-worlds, multiverso, mundos paralelos, realidad simulada, realidad virtual, viaje en el tiempo, bucle temporal_
+
+**rebelion-y-revolucion** — Levantamiento colectivo o individual contra un orden político opresor; incluye la organización de la resistencia, el coste moral de la violencia y la pregunta de si el nuevo orden repite al viejo. _Aliases: rebellion, revolution, rebelión, revolución, resistencia, uprising, insurrección_
+
 **regulacion-de-ia** — Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA. _Aliases: AI regulation, gobernanza de IA, AI policy, AI governance_
 
 **replicabilidad-cientifica** — Grado en que un hallazgo empírico puede reproducirse de forma fiable cuando se repite un estudio con procedimientos y potencia estadística adecuados; incluye los debates sobre la crisis de replicación, la robustez de los efectos, la generalización y las prácticas de investigación abierta. _Aliases: replicability, reproducibility, replicación, crisis de replicación, replication crisis, robustez de efectos_
@@ -336,6 +350,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **sostenibilidad** — Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social. _Aliases: sustainability, desarrollo sostenible, sustainable development goals, SDGs, campus sostenible, sostenibilidad universitaria_
 
 **salud-y-sociedad** — Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos. _Aliases: social determinants of health, determinantes sociales de la salud, health and society, medicina social_
+
+**satira** — Uso de la ironía, la exageración y el humor para criticar instituciones, ideologías o la condición humana. _Aliases: satire, sátira, humor, ironía, parodia_
 
 **seguridad-de-ia** — Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de IA, como evadir la supervisión, engañar a usuarios o actuar fuera del control previsto. _Aliases: AI safety, seguridad de la inteligencia artificial_
 

@@ -5,8 +5,8 @@ window.__ACADEMIC_BRAIN__ = {
     "papers": 340,
     "articles": 51,
     "books": 28,
-    "fiction": 7,
-    "concepts": 162
+    "fiction": 65,
+    "concepts": 170
   },
   "nodes": [
     {
@@ -454,8 +454,27 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.",
       "literature": "",
       "path": "concepts/ciencia-y-sociedad.md",
-      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]\n- [[notes/fiction/2019-01-01_exhalation-chiang]]",
-      "degree": 22
+      "content": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2020-04-04_how-innovation-works-ridley]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2010-06-15_the-rational-optimist-ridley]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]\n- [[notes/fiction/2019-01-01_exhalation-chiang]]\n- [[notes/fiction/1932-01-01_brave-new-world-huxley]]\n- [[notes/fiction/1951-01-01_foundation]]\n- [[notes/fiction/1953-01-01_fahrenheit-451-bradbury]]\n- [[notes/fiction/1968-01-01_2001-a-space-odyssey]]\n- [[notes/fiction/1979-01-01_hitchhikers-guide-to-the-galaxy]]\n- [[notes/fiction/2001-01-01_american-gods]]\n- [[notes/fiction/2006-01-01_world-war-z-brooks]]\n- [[notes/fiction/2008-01-01_the-dark-forest]]\n- [[notes/fiction/2010-01-01_deaths-end]]\n- [[notes/fiction/2012-01-01_drive]]\n- [[notes/fiction/2015-01-01_the-vital-abyss]]\n- [[notes/fiction/2018-01-01_an-absolutely-remarkable-thing]]\n- [[notes/fiction/2021-01-01_firekeepers-daughter-boulley]]\n- [[notes/fiction/2021-01-01_project-hail-mary]]",
+      "degree": 36
+    },
+    {
+      "id": "concepts/colapso-civilizatorio",
+      "kind": "concept",
+      "label": "colapso civilizatorio",
+      "keyword": "colapso-civilizatorio",
+      "aliases": [
+        "societal collapse",
+        "apocalypse",
+        "colapso civilizatorio",
+        "apocalipsis",
+        "post-apocalíptico",
+        "extinción"
+      ],
+      "definition": "Colapso social, apocalipsis o amenaza de extinción a escala de civilización o especie; incluye la supervivencia, la reconstrucción y la fragilidad de las instituciones.",
+      "literature": "",
+      "path": "concepts/colapso-civilizatorio.md",
+      "content": "Colapso social, apocalipsis o amenaza de extinción a escala de civilización o especie; incluye la supervivencia, la reconstrucción y la fragilidad de las instituciones.\n\n## Notas que usan este concepto\n- [[notes/fiction/1951-01-01_foundation]]\n- [[notes/fiction/2006-01-01_world-war-z-brooks]]\n- [[notes/fiction/2010-01-01_deaths-end]]\n- [[notes/fiction/2011-01-01_leviathan-wakes]]\n- [[notes/fiction/2012-01-01_wool-omnibus]]\n- [[notes/fiction/2013-01-01_abaddons-gate]]\n- [[notes/fiction/2014-01-01_cibola-burn]]\n- [[notes/fiction/2015-01-01_nemesis-games]]\n- [[notes/fiction/2016-01-01_babylons-ashes]]\n- [[notes/fiction/saga-the-expanse]]",
+      "degree": 10
     },
     {
       "id": "concepts/comercio-y-prosperidad",
@@ -820,8 +839,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Ficción especulativa que imagina sociedades futuras o alternativas organizadas en torno al control, la vigilancia, el totalitarismo o la ingeniería social, usadas como crítica de tendencias del presente; incluye el control del lenguaje y la información, la rebelión individual y la pérdida de autonomía.",
       "literature": "",
       "path": "concepts/distopia.md",
-      "content": "Ficción especulativa que imagina sociedades futuras o alternativas organizadas en torno al control, la vigilancia, el totalitarismo o la ingeniería social, usadas como crítica de tendencias del presente; incluye el control del lenguaje y la información, la rebelión individual y la pérdida de autonomía.\n\n## Notas que usan este concepto\n- [[notes/fiction/1949-01-01_1984-orwell]]\n- [[notes/fiction/1987-01-01_watchmen]]",
-      "degree": 2
+      "content": "Ficción especulativa que imagina sociedades futuras o alternativas organizadas en torno al control, la vigilancia, el totalitarismo o la ingeniería social, usadas como crítica de tendencias del presente; incluye el control del lenguaje y la información, la rebelión individual y la pérdida de autonomía.\n\n## Notas que usan este concepto\n- [[notes/fiction/1949-01-01_1984-orwell]]\n- [[notes/fiction/1987-01-01_watchmen]]\n- [[notes/fiction/1932-01-01_brave-new-world-huxley]]\n- [[notes/fiction/1945-01-01_animal-farm-orwell]]\n- [[notes/fiction/1953-01-01_fahrenheit-451-bradbury]]\n- [[notes/fiction/1988-01-01_v-for-vendetta-moore]]\n- [[notes/fiction/1993-01-01_the-giver-lowry]]\n- [[notes/fiction/2008-01-01_the-hunger-games]]\n- [[notes/fiction/2009-01-01_catching-fire]]\n- [[notes/fiction/2011-01-01_divergent]]\n- [[notes/fiction/2011-01-01_ready-player-one]]\n- [[notes/fiction/2012-01-01_insurgent]]\n- [[notes/fiction/2012-01-01_wool-omnibus]]\n- [[notes/fiction/2014-01-01_red-rising]]\n- [[notes/fiction/2014-01-01_the-churn]]\n- [[notes/fiction/2025-01-01_sunrise-on-the-reaping]]\n- [[notes/fiction/saga-divergent]]\n- [[notes/fiction/saga-hunger-games]]\n- [[notes/fiction/saga-red-rising]]",
+      "degree": 19
     },
     {
       "id": "concepts/divagacion-mental",
@@ -842,6 +861,25 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/divagacion-mental.md",
       "content": "Desplazamiento espontáneo de la atención desde el entorno externo o la tarea en curso hacia pensamientos generados internamente; incluye sus formas constructivas (positivo-constructiva, ligada a la incubación y la creatividad) y disfuncionales (culpa, miedo al fracaso, rumiación), y su papel en la cognición cotidiana y laboral.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-01-01_creatividad-divagacion-cognicion-trabajo]]",
       "degree": 1
+    },
+    {
+      "id": "concepts/ecologia-y-terraformacion",
+      "kind": "concept",
+      "label": "ecologia y terraformacion",
+      "keyword": "ecologia-y-terraformacion",
+      "aliases": [
+        "ecology",
+        "terraforming",
+        "ecología",
+        "terraformación",
+        "medio ambiente",
+        "ecosistema"
+      ],
+      "definition": "Ecología, medio ambiente y transformación planetaria (terraformación) como eje del mundo narrativo; incluye la dependencia entre una sociedad y su entorno físico.",
+      "literature": "",
+      "path": "concepts/ecologia-y-terraformacion.md",
+      "content": "Ecología, medio ambiente y transformación planetaria (terraformación) como eje del mundo narrativo; incluye la dependencia entre una sociedad y su entorno físico.\n\n## Notas que usan este concepto\n- [[notes/fiction/1965-01-01_dune]]\n- [[notes/fiction/1973-01-01_rendezvous-with-rama]]\n- [[notes/fiction/2012-01-01_calibans-war]]\n- [[notes/fiction/2012-01-01_drive]]\n- [[notes/fiction/2012-01-01_gods-of-risk]]\n- [[notes/fiction/2014-01-01_cibola-burn]]\n- [[notes/fiction/2017-01-01_artemis]]\n- [[notes/fiction/saga-the-expanse]]",
+      "degree": 8
     },
     {
       "id": "concepts/economia-circular",
@@ -1465,6 +1503,26 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 4
     },
     {
+      "id": "concepts/guerra-y-conflicto",
+      "kind": "concept",
+      "label": "guerra y conflicto",
+      "keyword": "guerra-y-conflicto",
+      "aliases": [
+        "war",
+        "warfare",
+        "guerra",
+        "militarismo",
+        "conflicto armado",
+        "ética militar",
+        "antibélico"
+      ],
+      "definition": "La guerra, el militarismo y su ética como centro del relato; incluye el entrenamiento, la estrategia, el trauma y la crítica antibélica.",
+      "literature": "",
+      "path": "concepts/guerra-y-conflicto.md",
+      "content": "La guerra, el militarismo y su ética como centro del relato; incluye el entrenamiento, la estrategia, el trauma y la crítica antibélica.\n\n## Notas que usan este concepto\n- [[notes/fiction/1969-01-01_slaughterhouse-five]]\n- [[notes/fiction/1985-01-01_enders-game]]\n- [[notes/fiction/1996-01-01_a-game-of-thrones]]\n- [[notes/fiction/2006-01-01_world-war-z-brooks]]\n- [[notes/fiction/2010-01-01_mockingjay]]\n- [[notes/fiction/2011-01-01_butcher-of-anderson-station]]\n- [[notes/fiction/2011-01-01_leviathan-wakes]]\n- [[notes/fiction/2012-01-01_calibans-war]]\n- [[notes/fiction/2014-01-01_cibola-burn]]\n- [[notes/fiction/2014-01-01_red-rising]]\n- [[notes/fiction/2015-01-01_golden-son]]\n- [[notes/fiction/2015-01-01_nemesis-games]]\n- [[notes/fiction/2016-01-01_babylons-ashes]]\n- [[notes/fiction/2016-01-01_morning-star]]\n- [[notes/fiction/2016-01-01_sleeping-giants]]\n- [[notes/fiction/saga-hunger-games]]\n- [[notes/fiction/saga-red-rising]]\n- [[notes/fiction/saga-the-expanse]]",
+      "degree": 18
+    },
+    {
       "id": "concepts/habilidades-de-presentacion",
       "kind": "concept",
       "label": "habilidades de presentacion",
@@ -1740,8 +1798,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "literature": "",
       "path": "concepts/inteligencia-artificial.md",
-      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]\n- [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]\n- [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]\n- [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]\n- [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]\n- [[notes/papers/2026-06-28_ai-tpack-evaluacion-formadores]]\n- [[notes/papers/2026-06-28_stem-faculty-evaluacion-genai]]\n- [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]\n- [[notes/papers/2026-06-28_genai-formadores-docentes-triada-ai-literacy]]\n- [[notes/papers/2023-08-22_tpack-en-la-era-de-chatgpt-y-genai]]\n- [[notes/papers/2025-05-12_factores-alfabetizacion-ia-docentes]]\n- [[notes/papers/2026-03-27_genai-percepciones-docentes-tpack]]\n- [[notes/papers/2025-07-22_perspectivas-docentes-ia-generativa]]\n- [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]\n- [[notes/papers/2025-10-21_needs-satisfaction-tpack-genai-docentes]]\n- [[notes/papers/2026-06-28_genai-faculty-development-hpe]]\n- [[notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack]]\n- [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]\n- [[notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes]]\n- [[notes/papers/2025-08-28_i-tpack-marco-alfabetizacion-ia-docente]]\n- [[notes/papers/2025-04-23_marco-competencia-ia-pedagogica-docentes]]\n- [[notes/papers/2026-06-28_ai-tpack-vocational]]\n- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]\n- [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]\n- [[notes/papers/2026-06-28_taics-escala-competencia-ia-docente]]\n- [[notes/papers/2026-01-16_evaluacion-detectores-ia-contextos-academicos]]\n- [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]\n- [[notes/papers/2023-06-28_testing-detection-tools-ai-text]]\n- [[notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad]]\n- [[notes/papers/2026-03-26_sesgo-detectores-gpt-no-nativos-checo]]\n- [[notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico]]\n- [[notes/papers/2026-06-28_ai-detectors-fail-diverse-populations]]\n- [[notes/papers/2025-09-05_formulario-divulgacion-ia-quimica]]\n- [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]\n- [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]\n- [[notes/papers/2023-11-01_assessment-reform-era-ia]]\n- [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]\n- [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]\n- [[notes/papers/2024-05-13_impacto-llm-educacion-programacion]]\n- [[notes/papers/2026-06-28_chatgpt-pregrado-resultados-aprendizaje-metaanalisis]]\n- [[notes/papers/2025-11-03_riesgos-llm-educacion-revision-sistematica]]\n- [[notes/papers/2025-10-01_llm-cualificacion-socializacion-subjetivacion-metaanalisis]]\n- [[notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva]]\n- [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]\n- [[notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje]]\n- [[notes/papers/2025-05-06_retractado-chatgpt-rendimiento-metaanalisis]]\n- [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]\n- [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]\n- [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]\n- [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]\n- [[notes/articles/2025-01-01_abet-cac-criterios-computacion-ia-ml]]\n- [[notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision]]\n- [[notes/papers/2025-06-27_adapting-university-policies-genai]]\n- [[notes/papers/2026-03-06_responsible-genai-se-education]]\n- [[notes/papers/2025-07-28_efectividad-politicas-institucionales-genai]]\n- [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]\n- [[notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria]]\n- [[notes/papers/2026-06-28_percepciones-estudiantes-genai-ingenieria]]\n- [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]\n- [[notes/articles/2026-06-08_ai-coming-for-your-job]]\n- [[notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial]]\n- [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]]\n- [[notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria]]\n- [[notes/articles/2025-11-26_impacto-ia-empleo-graduados]]\n- [[notes/articles/2024-07-18_asce-ps573-ia-responsabilidad-ingenieria]]\n- [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]\n- [[notes/papers/2025-05-22_brecha-digital-ia-generativa-espana]]\n- [[notes/papers/2025-07-16_ai-skills-empleabilidad-egresados]]\n- [[notes/papers/2026-01-01_genai-brecha-digital-educacion-superior]]\n- [[notes/papers/2026-06-28_deskilling-reskilling-upskilling-ia-generativa]]\n- [[notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global]]\n- [[notes/papers/2025-01-01_sustainable-genai-carbon-scoping]]\n- [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]\n- [[notes/papers/2025-07-09_genai-divide-estudiantes-universitarios]]\n- [[notes/papers/2026-06-28_genai-divide-japan-rat]]\n- [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]\n- [[notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes]]\n- [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]\n- [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]\n- [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]\n- [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]\n- [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]\n- [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]\n- [[notes/papers/2025-04-19_metacognitive-support-srl-genai]]\n- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]\n- [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]\n- [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]\n- [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]\n- [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]\n- [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]\n- [[notes/papers/2026-01-01_writing-against-the-machine]]\n- [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]\n- [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]\n- [[notes/articles/2026-06-30_twilight-chatbots-mollick]]\n- [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]\n- [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]\n- [[notes/papers/2026-07-02_labor-market-impacts-ai]]\n- [[notes/articles/2024-09-29_genai-ciencia-ambiental]]",
-      "degree": 244
+      "content": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2024-08-13_widening-gap-ia-novatos]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/articles/2026-06-19_noruega-prohibe-ia-escuelas]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-12_pd-docentes-ia-k12]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2026-01-15_autorregulacion-genai-rct-k12]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2022-10-04_chip-war-miller]]\n- [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/articles/2026-03-12_shape-of-thing-mollick]]\n- [[notes/articles/2025-04-20_openai-guia-casos-uso-ia]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia]]\n- [[notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria]]\n- [[notes/papers/2023-10-05_mails-meta-ai-literacy-scale]]\n- [[notes/papers/2026-01-15_hcap-marco-pedagogia-ia]]\n- [[notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2026-01-01_normas-atribucion-ia-programacion]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]\n- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]\n- [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]\n- [[notes/articles/2026-04-23_gpt-5-5-system-card]]\n- [[notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria]]\n- [[notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2025-01-01_chatgpt-error-rates-mlr]]\n- [[notes/papers/2024-05-08_chemcrow-llm-chemistry-tools]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics]]\n- [[notes/papers/2023-11-08_chatgpt-fe-examen-ambiental]]\n- [[notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms]]\n- [[notes/papers/2025-10-01_orca-benchmark-calculo-llm]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2026-06-27_capchat-genai-capstone]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]\n- [[notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision]]\n- [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]\n- [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]\n- [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]\n- [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]\n- [[notes/papers/2026-06-28_ai-tpack-evaluacion-formadores]]\n- [[notes/papers/2026-06-28_stem-faculty-evaluacion-genai]]\n- [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]\n- [[notes/papers/2026-06-28_genai-formadores-docentes-triada-ai-literacy]]\n- [[notes/papers/2023-08-22_tpack-en-la-era-de-chatgpt-y-genai]]\n- [[notes/papers/2025-05-12_factores-alfabetizacion-ia-docentes]]\n- [[notes/papers/2026-03-27_genai-percepciones-docentes-tpack]]\n- [[notes/papers/2025-07-22_perspectivas-docentes-ia-generativa]]\n- [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]\n- [[notes/papers/2025-10-21_needs-satisfaction-tpack-genai-docentes]]\n- [[notes/papers/2026-06-28_genai-faculty-development-hpe]]\n- [[notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack]]\n- [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]\n- [[notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes]]\n- [[notes/papers/2025-08-28_i-tpack-marco-alfabetizacion-ia-docente]]\n- [[notes/papers/2025-04-23_marco-competencia-ia-pedagogica-docentes]]\n- [[notes/papers/2026-06-28_ai-tpack-vocational]]\n- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]\n- [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]\n- [[notes/papers/2026-06-28_taics-escala-competencia-ia-docente]]\n- [[notes/papers/2026-01-16_evaluacion-detectores-ia-contextos-academicos]]\n- [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]\n- [[notes/papers/2023-06-28_testing-detection-tools-ai-text]]\n- [[notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad]]\n- [[notes/papers/2026-03-26_sesgo-detectores-gpt-no-nativos-checo]]\n- [[notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico]]\n- [[notes/papers/2026-06-28_ai-detectors-fail-diverse-populations]]\n- [[notes/papers/2025-09-05_formulario-divulgacion-ia-quimica]]\n- [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]\n- [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]\n- [[notes/papers/2023-11-01_assessment-reform-era-ia]]\n- [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]\n- [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]\n- [[notes/papers/2024-05-13_impacto-llm-educacion-programacion]]\n- [[notes/papers/2026-06-28_chatgpt-pregrado-resultados-aprendizaje-metaanalisis]]\n- [[notes/papers/2025-11-03_riesgos-llm-educacion-revision-sistematica]]\n- [[notes/papers/2025-10-01_llm-cualificacion-socializacion-subjetivacion-metaanalisis]]\n- [[notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva]]\n- [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]\n- [[notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje]]\n- [[notes/papers/2025-05-06_retractado-chatgpt-rendimiento-metaanalisis]]\n- [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]\n- [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]\n- [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]\n- [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]\n- [[notes/articles/2025-01-01_abet-cac-criterios-computacion-ia-ml]]\n- [[notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision]]\n- [[notes/papers/2025-06-27_adapting-university-policies-genai]]\n- [[notes/papers/2026-03-06_responsible-genai-se-education]]\n- [[notes/papers/2025-07-28_efectividad-politicas-institucionales-genai]]\n- [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]\n- [[notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria]]\n- [[notes/papers/2026-06-28_percepciones-estudiantes-genai-ingenieria]]\n- [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]\n- [[notes/articles/2026-06-08_ai-coming-for-your-job]]\n- [[notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial]]\n- [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]]\n- [[notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria]]\n- [[notes/articles/2025-11-26_impacto-ia-empleo-graduados]]\n- [[notes/articles/2024-07-18_asce-ps573-ia-responsabilidad-ingenieria]]\n- [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]\n- [[notes/papers/2025-05-22_brecha-digital-ia-generativa-espana]]\n- [[notes/papers/2025-07-16_ai-skills-empleabilidad-egresados]]\n- [[notes/papers/2026-01-01_genai-brecha-digital-educacion-superior]]\n- [[notes/papers/2026-06-28_deskilling-reskilling-upskilling-ia-generativa]]\n- [[notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global]]\n- [[notes/papers/2025-01-01_sustainable-genai-carbon-scoping]]\n- [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]\n- [[notes/papers/2025-07-09_genai-divide-estudiantes-universitarios]]\n- [[notes/papers/2026-06-28_genai-divide-japan-rat]]\n- [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]\n- [[notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes]]\n- [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]\n- [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]\n- [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]\n- [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]\n- [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]\n- [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]\n- [[notes/papers/2025-04-19_metacognitive-support-srl-genai]]\n- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]\n- [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]\n- [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]\n- [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]\n- [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]\n- [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]\n- [[notes/papers/2026-01-01_writing-against-the-machine]]\n- [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]\n- [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]\n- [[notes/articles/2026-06-30_twilight-chatbots-mollick]]\n- [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]\n- [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]\n- [[notes/papers/2026-07-02_labor-market-impacts-ai]]\n- [[notes/articles/2024-09-29_genai-ciencia-ambiental]]\n- [[notes/fiction/1968-01-01_2001-a-space-odyssey]]",
+      "degree": 245
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -1774,8 +1832,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Problema filosófico y narrativo sobre si las decisiones humanas son libres o están determinadas; en la ficción de ideas aparece como determinismo, predestinación, bucles causales y la tensión entre conocer el futuro y poder cambiarlo.",
       "literature": "",
       "path": "concepts/libre-albedrio.md",
-      "content": "Problema filosófico y narrativo sobre si las decisiones humanas son libres o están determinadas; en la ficción de ideas aparece como determinismo, predestinación, bucles causales y la tensión entre conocer el futuro y poder cambiarlo.\n\n## Notas que usan este concepto\n- [[notes/fiction/2019-01-01_exhalation-chiang]]",
-      "degree": 1
+      "content": "Problema filosófico y narrativo sobre si las decisiones humanas son libres o están determinadas; en la ficción de ideas aparece como determinismo, predestinación, bucles causales y la tensión entre conocer el futuro y poder cambiarlo.\n\n## Notas que usan este concepto\n- [[notes/fiction/2019-01-01_exhalation-chiang]]\n- [[notes/fiction/1969-01-01_slaughterhouse-five]]\n- [[notes/fiction/1990-01-01_good-omens]]\n- [[notes/fiction/2016-01-01_dark-matter]]\n- [[notes/fiction/2019-01-01_recursion]]",
+      "degree": 5
     },
     {
       "id": "concepts/liderazgo-educativo",
@@ -1826,8 +1884,26 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Sistema mágico gobernado por reglas explícitas, costes y límites consistentes de los que se derivan las soluciones de la trama (Leyes de Sanderson), en contraste con la magia como misterio evocador; expresión fantástica del gusto por los mundos que funcionan como un mecanismo.",
       "literature": "",
       "path": "concepts/magia-dura.md",
-      "content": "Sistema mágico gobernado por reglas explícitas, costes y límites consistentes de los que se derivan las soluciones de la trama (Leyes de Sanderson), en contraste con la magia como misterio evocador; expresión fantástica del gusto por los mundos que funcionan como un mecanismo.\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-mistborn]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]",
-      "degree": 2
+      "content": "Sistema mágico gobernado por reglas explícitas, costes y límites consistentes de los que se derivan las soluciones de la trama (Leyes de Sanderson), en contraste con la magia como misterio evocador; expresión fantástica del gusto por los mundos que funcionan como un mecanismo.\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-mistborn]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]\n- [[notes/fiction/2007-01-01_mistborn-well-of-ascension]]\n- [[notes/fiction/2008-01-01_mistborn-hero-of-ages]]\n- [[notes/fiction/2011-01-01_mistborn-alloy-of-law]]",
+      "degree": 5
+    },
+    {
+      "id": "concepts/mayoria-de-edad",
+      "kind": "concept",
+      "label": "mayoria de edad",
+      "keyword": "mayoria-de-edad",
+      "aliases": [
+        "coming of age",
+        "mayoría de edad",
+        "bildungsroman",
+        "iniciación",
+        "relato de formación"
+      ],
+      "definition": "Relato de formación de un protagonista, casi siempre joven, que atraviesa una prueba y sale transformado (coming of age).",
+      "literature": "",
+      "path": "concepts/mayoria-de-edad.md",
+      "content": "Relato de formación de un protagonista, casi siempre joven, que atraviesa una prueba y sale transformado (coming of age).\n\n## Notas que usan este concepto\n- [[notes/fiction/1937-01-01_the-hobbit]]\n- [[notes/fiction/1985-01-01_enders-game]]\n- [[notes/fiction/1993-01-01_the-giver-lowry]]\n- [[notes/fiction/2008-01-01_the-hunger-games]]\n- [[notes/fiction/2011-01-01_divergent]]\n- [[notes/fiction/2012-01-01_gods-of-risk]]\n- [[notes/fiction/2013-01-01_the-ocean-at-the-end-of-the-lane]]\n- [[notes/fiction/2014-01-01_red-rising]]\n- [[notes/fiction/2017-01-01_strange-dogs]]\n- [[notes/fiction/2019-01-01_something-is-killing-the-children-v1]]\n- [[notes/fiction/2021-01-01_firekeepers-daughter-boulley]]\n- [[notes/fiction/saga-divergent]]\n- [[notes/fiction/saga-hunger-games]]\n- [[notes/fiction/saga-red-rising]]",
+      "degree": 14
     },
     {
       "id": "concepts/medicina-basada-en-evidencia",
@@ -1899,6 +1975,26 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/microscopia-de-caracterizacion.md",
       "content": "Técnicas de microscopía electrónica (SEM, TEM, FE-SEM) y de fluorescencia usadas para caracterizar morfología, ultraestructura y distribución espacial de células, biopelículas y materiales a escala micro- y nanométrica.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]",
       "degree": 1
+    },
+    {
+      "id": "concepts/mitologia-y-religion",
+      "kind": "concept",
+      "label": "mitologia y religion",
+      "keyword": "mitologia-y-religion",
+      "aliases": [
+        "mythology",
+        "religion",
+        "mitología",
+        "religión",
+        "teología",
+        "profecía",
+        "faith"
+      ],
+      "definition": "Presencia de dioses, mitos, fe, profecía y teología en la ficción; incluye la reinterpretación de mitologías, el poder social de la creencia y la tensión entre lo sagrado y lo secular.",
+      "literature": "",
+      "path": "concepts/mitologia-y-religion.md",
+      "content": "Presencia de dioses, mitos, fe, profecía y teología en la ficción; incluye la reinterpretación de mitologías, el poder social de la creencia y la tensión entre lo sagrado y lo secular.\n\n## Notas que usan este concepto\n- [[notes/fiction/1965-01-01_dune]]\n- [[notes/fiction/1990-01-01_good-omens]]\n- [[notes/fiction/2001-01-01_american-gods]]\n- [[notes/fiction/2008-01-01_mistborn-hero-of-ages]]\n- [[notes/fiction/2013-01-01_abaddons-gate]]\n- [[notes/fiction/2013-01-01_the-ocean-at-the-end-of-the-lane]]",
+      "degree": 6
     },
     {
       "id": "concepts/modelado-molecular",
@@ -2178,8 +2274,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico.",
       "literature": "Las dos únicas fuentes del vault sobre este concepto —Robert Greene con *The 48 Laws of Power* y la compilación que Eric Jorgenson hace del pensamiento de Naval Ravikant en *The Almanack of Naval Ravikant*— coinciden en una premisa compartida y discrepan radicalmente en todo lo demás. Ambas afirman que el poder o la influencia no son dones heredados sino habilidades que se cultivan deliberadamente: Greene sostiene que quien se niega a jugar el \"juego\" del poder no escapa de él, solo queda a merced de quienes sí dominan sus reglas, mientras que Naval encuadra tanto la riqueza como la felicidad como capacidades entrenables, no estados que llegan por suerte o herencia. En ambos casos, además, la reputación aparece como el activo estratégico central: la Ley 5 de Greene (\"guard your reputation with your life\") y el capítulo de Naval sobre \"Take on Accountability / Build Equity\" tratan la imagen pública como el vehículo que multiplica cualquier otro recurso.\n\nAhí termina la convergencia y empieza una tensión filosófica casi total. Greene describe un juego relacional de suma variable —a menudo cero— donde el terreno de operación son las cortes, los rivales y los aliados desconfiables: aconseja ocultar las intenciones propias (Ley 3), no confiar en los amigos y convertir enemigos en aliados que tienen algo que demostrar (Ley 2), actuar por indirección antes que por confrontación (Leyes 20, 30, 44) y tratar las emociones ajenas —envidia, miedo, amor— como palancas que se administran, no como vínculos genuinos. Su ética es explícitamente amoral: la moralidad convencional funciona como herramienta de imagen, no como guía normativa, y el modelo de actor social que subyace a las 48 leyes es el del jugador individualista en un entorno de confianza baja y recursos limitados. Naval invierte casi punto por punto esa lógica. Su capítulo \"Saving Yourself / Choosing to Be Yourself\" defiende la autenticidad radical —ser irremplazable siendo genuinamente uno mismo— como la estrategia óptima tanto para la felicidad como para la creación de valor, y sus \"Argumentos centrales\" son explícitos al respecto: los juegos de suma positiva (cooperación, intercambio honesto, creación de valor) generan riqueza durable, mientras que los juegos de estatus —el terreno exacto que Greene cartografía— son de suma cero y \"destructivos a largo plazo\". Donde Greene recomienda concealment, Naval propone specific knowledge y judgment aplicados con apalancamiento (código, medios, capital, personas) en un mercado tecnológicamente mediado donde la honestidad escala y la manipulación no.\n\nLa diferencia más reveladora quizás no sea moral sino estructural: Greene opera en un campo de recursos fijos y relaciones de poder personalizadas (la corte, el rival, el superior que hay que halagar sin opacar), heredado de un mundo premoderno donde ascender significa desplazar a otro. Naval, en cambio, sitúa la influencia en un contexto de apalancamiento no-recíproco —código y medios que escalan sin permiso y sin coste marginal— donde crear valor para uno mismo no exige sustraérselo a nadie más, lo que explica por qué puede permitirse rechazar la indirección y el ocultamiento que Greene considera indispensables. Ninguna de las dos notas del corpus discute directamente a la otra, pero leídas juntas dejan planteada una pregunta que ninguna resuelve por sí sola: si la influencia genuina se construye ocultando intenciones y gestionando percepciones, como sostiene Greene, o revelándolas con honestidad radical dentro de un juego que ya no es de suma cero, como sostiene Naval.",
       "path": "concepts/poder-y-persuasion.md",
-      "content": "Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico.\n\n## Qué dice la literatura\n\nLas dos únicas fuentes del vault sobre este concepto —Robert Greene con *The 48 Laws of Power* y la compilación que Eric Jorgenson hace del pensamiento de Naval Ravikant en *The Almanack of Naval Ravikant*— coinciden en una premisa compartida y discrepan radicalmente en todo lo demás. Ambas afirman que el poder o la influencia no son dones heredados sino habilidades que se cultivan deliberadamente: Greene sostiene que quien se niega a jugar el \"juego\" del poder no escapa de él, solo queda a merced de quienes sí dominan sus reglas, mientras que Naval encuadra tanto la riqueza como la felicidad como capacidades entrenables, no estados que llegan por suerte o herencia. En ambos casos, además, la reputación aparece como el activo estratégico central: la Ley 5 de Greene (\"guard your reputation with your life\") y el capítulo de Naval sobre \"Take on Accountability / Build Equity\" tratan la imagen pública como el vehículo que multiplica cualquier otro recurso.\n\nAhí termina la convergencia y empieza una tensión filosófica casi total. Greene describe un juego relacional de suma variable —a menudo cero— donde el terreno de operación son las cortes, los rivales y los aliados desconfiables: aconseja ocultar las intenciones propias (Ley 3), no confiar en los amigos y convertir enemigos en aliados que tienen algo que demostrar (Ley 2), actuar por indirección antes que por confrontación (Leyes 20, 30, 44) y tratar las emociones ajenas —envidia, miedo, amor— como palancas que se administran, no como vínculos genuinos. Su ética es explícitamente amoral: la moralidad convencional funciona como herramienta de imagen, no como guía normativa, y el modelo de actor social que subyace a las 48 leyes es el del jugador individualista en un entorno de confianza baja y recursos limitados. Naval invierte casi punto por punto esa lógica. Su capítulo \"Saving Yourself / Choosing to Be Yourself\" defiende la autenticidad radical —ser irremplazable siendo genuinamente uno mismo— como la estrategia óptima tanto para la felicidad como para la creación de valor, y sus \"Argumentos centrales\" son explícitos al respecto: los juegos de suma positiva (cooperación, intercambio honesto, creación de valor) generan riqueza durable, mientras que los juegos de estatus —el terreno exacto que Greene cartografía— son de suma cero y \"destructivos a largo plazo\". Donde Greene recomienda concealment, Naval propone specific knowledge y judgment aplicados con apalancamiento (código, medios, capital, personas) en un mercado tecnológicamente mediado donde la honestidad escala y la manipulación no.\n\nLa diferencia más reveladora quizás no sea moral sino estructural: Greene opera en un campo de recursos fijos y relaciones de poder personalizadas (la corte, el rival, el superior que hay que halagar sin opacar), heredado de un mundo premoderno donde ascender significa desplazar a otro. Naval, en cambio, sitúa la influencia en un contexto de apalancamiento no-recíproco —código y medios que escalan sin permiso y sin coste marginal— donde crear valor para uno mismo no exige sustraérselo a nadie más, lo que explica por qué puede permitirse rechazar la indirección y el ocultamiento que Greene considera indispensables. Ninguna de las dos notas del corpus discute directamente a la otra, pero leídas juntas dejan planteada una pregunta que ninguna resuelve por sí sola: si la influencia genuina se construye ocultando intenciones y gestionando percepciones, como sostiene Greene, o revelándolas con honestidad radical dentro de un juego que ya no es de suma cero, como sostiene Naval.\n\n## Notas que usan este concepto\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/books/2020-08-11_almanack-naval-ravikant-jorgenson]]\n- [[notes/fiction/1949-01-01_1984-orwell]]\n- [[notes/fiction/1987-01-01_watchmen]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]\n- [[notes/fiction/saga-mistborn]]",
-      "degree": 6
+      "content": "Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico.\n\n## Qué dice la literatura\n\nLas dos únicas fuentes del vault sobre este concepto —Robert Greene con *The 48 Laws of Power* y la compilación que Eric Jorgenson hace del pensamiento de Naval Ravikant en *The Almanack of Naval Ravikant*— coinciden en una premisa compartida y discrepan radicalmente en todo lo demás. Ambas afirman que el poder o la influencia no son dones heredados sino habilidades que se cultivan deliberadamente: Greene sostiene que quien se niega a jugar el \"juego\" del poder no escapa de él, solo queda a merced de quienes sí dominan sus reglas, mientras que Naval encuadra tanto la riqueza como la felicidad como capacidades entrenables, no estados que llegan por suerte o herencia. En ambos casos, además, la reputación aparece como el activo estratégico central: la Ley 5 de Greene (\"guard your reputation with your life\") y el capítulo de Naval sobre \"Take on Accountability / Build Equity\" tratan la imagen pública como el vehículo que multiplica cualquier otro recurso.\n\nAhí termina la convergencia y empieza una tensión filosófica casi total. Greene describe un juego relacional de suma variable —a menudo cero— donde el terreno de operación son las cortes, los rivales y los aliados desconfiables: aconseja ocultar las intenciones propias (Ley 3), no confiar en los amigos y convertir enemigos en aliados que tienen algo que demostrar (Ley 2), actuar por indirección antes que por confrontación (Leyes 20, 30, 44) y tratar las emociones ajenas —envidia, miedo, amor— como palancas que se administran, no como vínculos genuinos. Su ética es explícitamente amoral: la moralidad convencional funciona como herramienta de imagen, no como guía normativa, y el modelo de actor social que subyace a las 48 leyes es el del jugador individualista en un entorno de confianza baja y recursos limitados. Naval invierte casi punto por punto esa lógica. Su capítulo \"Saving Yourself / Choosing to Be Yourself\" defiende la autenticidad radical —ser irremplazable siendo genuinamente uno mismo— como la estrategia óptima tanto para la felicidad como para la creación de valor, y sus \"Argumentos centrales\" son explícitos al respecto: los juegos de suma positiva (cooperación, intercambio honesto, creación de valor) generan riqueza durable, mientras que los juegos de estatus —el terreno exacto que Greene cartografía— son de suma cero y \"destructivos a largo plazo\". Donde Greene recomienda concealment, Naval propone specific knowledge y judgment aplicados con apalancamiento (código, medios, capital, personas) en un mercado tecnológicamente mediado donde la honestidad escala y la manipulación no.\n\nLa diferencia más reveladora quizás no sea moral sino estructural: Greene opera en un campo de recursos fijos y relaciones de poder personalizadas (la corte, el rival, el superior que hay que halagar sin opacar), heredado de un mundo premoderno donde ascender significa desplazar a otro. Naval, en cambio, sitúa la influencia en un contexto de apalancamiento no-recíproco —código y medios que escalan sin permiso y sin coste marginal— donde crear valor para uno mismo no exige sustraérselo a nadie más, lo que explica por qué puede permitirse rechazar la indirección y el ocultamiento que Greene considera indispensables. Ninguna de las dos notas del corpus discute directamente a la otra, pero leídas juntas dejan planteada una pregunta que ninguna resuelve por sí sola: si la influencia genuina se construye ocultando intenciones y gestionando percepciones, como sostiene Greene, o revelándolas con honestidad radical dentro de un juego que ya no es de suma cero, como sostiene Naval.\n\n## Notas que usan este concepto\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/books/2020-08-11_almanack-naval-ravikant-jorgenson]]\n- [[notes/fiction/1949-01-01_1984-orwell]]\n- [[notes/fiction/1987-01-01_watchmen]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]\n- [[notes/fiction/saga-mistborn]]\n- [[notes/fiction/1945-01-01_animal-farm-orwell]]\n- [[notes/fiction/1951-01-01_foundation]]\n- [[notes/fiction/1965-01-01_dune]]\n- [[notes/fiction/1985-01-01_enders-game]]\n- [[notes/fiction/1988-01-01_v-for-vendetta-moore]]\n- [[notes/fiction/1996-01-01_a-game-of-thrones]]\n- [[notes/fiction/2001-01-01_american-gods]]\n- [[notes/fiction/2007-01-01_mistborn-well-of-ascension]]\n- [[notes/fiction/2010-01-01_mockingjay]]\n- [[notes/fiction/2011-01-01_leviathan-wakes]]\n- [[notes/fiction/2012-01-01_calibans-war]]\n- [[notes/fiction/2013-01-01_abaddons-gate]]\n- [[notes/fiction/2014-01-01_red-rising]]\n- [[notes/fiction/2014-01-01_the-churn]]\n- [[notes/fiction/2015-01-01_golden-son]]\n- [[notes/fiction/2015-01-01_nemesis-games]]\n- [[notes/fiction/2016-01-01_babylons-ashes]]\n- [[notes/fiction/2016-01-01_morning-star]]\n- [[notes/fiction/2025-01-01_sunrise-on-the-reaping]]\n- [[notes/fiction/saga-hunger-games]]\n- [[notes/fiction/saga-red-rising]]\n- [[notes/fiction/saga-the-expanse]]",
+      "degree": 28
     },
     {
       "id": "concepts/politica-social",
@@ -2213,8 +2309,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Motivo de la ciencia ficción que explora el encuentro con una inteligencia no humana o extraterrestre y el problema de comunicarse y coexistir a través de una diferencia radical; incluye la incomprensión, la amenaza mutua y la hipótesis del bosque oscuro.",
       "literature": "",
       "path": "concepts/primer-contacto.md",
-      "content": "Motivo de la ciencia ficción que explora el encuentro con una inteligencia no humana o extraterrestre y el problema de comunicarse y coexistir a través de una diferencia radical; incluye la incomprensión, la amenaza mutua y la hipótesis del bosque oscuro.\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]",
-      "degree": 2
+      "content": "Motivo de la ciencia ficción que explora el encuentro con una inteligencia no humana o extraterrestre y el problema de comunicarse y coexistir a través de una diferencia radical; incluye la incomprensión, la amenaza mutua y la hipótesis del bosque oscuro.\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]\n- [[notes/fiction/1968-01-01_2001-a-space-odyssey]]\n- [[notes/fiction/1973-01-01_rendezvous-with-rama]]\n- [[notes/fiction/1985-01-01_enders-game]]\n- [[notes/fiction/2008-01-01_the-dark-forest]]\n- [[notes/fiction/2010-01-01_deaths-end]]\n- [[notes/fiction/2011-01-01_leviathan-wakes]]\n- [[notes/fiction/2012-01-01_calibans-war]]\n- [[notes/fiction/2013-01-01_abaddons-gate]]\n- [[notes/fiction/2014-01-01_cibola-burn]]\n- [[notes/fiction/2015-01-01_the-vital-abyss]]\n- [[notes/fiction/2016-01-01_sleeping-giants]]\n- [[notes/fiction/2017-01-01_strange-dogs]]\n- [[notes/fiction/2018-01-01_an-absolutely-remarkable-thing]]\n- [[notes/fiction/2021-01-01_project-hail-mary]]\n- [[notes/fiction/saga-the-expanse]]",
+      "degree": 17
     },
     {
       "id": "concepts/probioticos",
@@ -2416,6 +2512,47 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 3
     },
     {
+      "id": "concepts/realidades-multiples",
+      "kind": "concept",
+      "label": "realidades multiples",
+      "keyword": "realidades-multiples",
+      "aliases": [
+        "multiverse",
+        "many-worlds",
+        "multiverso",
+        "mundos paralelos",
+        "realidad simulada",
+        "realidad virtual",
+        "viaje en el tiempo",
+        "bucle temporal"
+      ],
+      "definition": "Multiverso, mundos paralelos, realidades simuladas o virtuales y bucles o viajes en el tiempo; el interés está en las reglas que gobiernan el salto entre realidades y sus consecuencias.",
+      "literature": "",
+      "path": "concepts/realidades-multiples.md",
+      "content": "Multiverso, mundos paralelos, realidades simuladas o virtuales y bucles o viajes en el tiempo; el interés está en las reglas que gobiernan el salto entre realidades y sus consecuencias.\n\n## Notas que usan este concepto\n- [[notes/fiction/1969-01-01_slaughterhouse-five]]\n- [[notes/fiction/2011-01-01_ready-player-one]]\n- [[notes/fiction/2016-01-01_dark-matter]]\n- [[notes/fiction/2019-01-01_recursion]]",
+      "degree": 4
+    },
+    {
+      "id": "concepts/rebelion-y-revolucion",
+      "kind": "concept",
+      "label": "rebelion y revolucion",
+      "keyword": "rebelion-y-revolucion",
+      "aliases": [
+        "rebellion",
+        "revolution",
+        "rebelión",
+        "revolución",
+        "resistencia",
+        "uprising",
+        "insurrección"
+      ],
+      "definition": "Levantamiento colectivo o individual contra un orden político opresor; incluye la organización de la resistencia, el coste moral de la violencia y la pregunta de si el nuevo orden repite al viejo.",
+      "literature": "",
+      "path": "concepts/rebelion-y-revolucion.md",
+      "content": "Levantamiento colectivo o individual contra un orden político opresor; incluye la organización de la resistencia, el coste moral de la violencia y la pregunta de si el nuevo orden repite al viejo.\n\n## Notas que usan este concepto\n- [[notes/fiction/1945-01-01_animal-farm-orwell]]\n- [[notes/fiction/1988-01-01_v-for-vendetta-moore]]\n- [[notes/fiction/2008-01-01_the-hunger-games]]\n- [[notes/fiction/2009-01-01_catching-fire]]\n- [[notes/fiction/2010-01-01_mockingjay]]\n- [[notes/fiction/2011-01-01_butcher-of-anderson-station]]\n- [[notes/fiction/2011-01-01_divergent]]\n- [[notes/fiction/2012-01-01_insurgent]]\n- [[notes/fiction/2014-01-01_red-rising]]\n- [[notes/fiction/2015-01-01_golden-son]]\n- [[notes/fiction/2015-01-01_nemesis-games]]\n- [[notes/fiction/2016-01-01_babylons-ashes]]\n- [[notes/fiction/2016-01-01_morning-star]]\n- [[notes/fiction/saga-divergent]]\n- [[notes/fiction/saga-hunger-games]]\n- [[notes/fiction/saga-red-rising]]\n- [[notes/fiction/saga-the-expanse]]",
+      "degree": 17
+    },
+    {
       "id": "concepts/regulacion-de-ia",
       "kind": "concept",
       "label": "regulacion de ia",
@@ -2503,6 +2640,24 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/salud-y-sociedad.md",
       "content": "Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos.\n\n## Qué dice la literatura\n\nNueve notas tocan la salud, pero la mayoría de lo que dicen sobre error clínico, epistemología del riesgo, trauma individual, política de género y desigualdad de género ya está sintetizado en otros conceptos del vault. El hilo genuinamente propio de \"salud y sociedad\" —el que sobrevive al filtrar esos ángulos— es más estrecho pero real: la salud como fenómeno poblacional que se gobierna interviniendo sobre el entorno, no sobre el individuo, y que se mide en aritmética agregada, no en historias clínicas singulares.\n\nEl caso más literal es ambiental. Meléndez-Plata et al. documentan cómo el H2S, el NH3 y los compuestos volátiles de azufre generados por la actividad microbiana y los vertidos industriales degradan la calidad del agua y amenazan la salud pública de las comunidades ribereñas; su estudio de caso del río Bogotá muestra que la solución no es tratar a los afectados sino rediseñar el entorno —biofiltros, biopercoladores, marcos regulatorios— para que el agua deje de producir el daño. Offit ofrece, desde otro dominio, el mismo patrón a escala planetaria: la síntesis de amoniaco de Haber y Bosch permitió alimentar a más de siete mil millones de personas, pero la sobreacumulación de nitrógeno en suelos y aguas es hoy una crisis ambiental que amenaza la salud colectiva que la propia innovación hizo posible —el doble filo de intervenir sobre el entorno a escala masiva sin poder calibrar después la dosis.\n\nLa misma lógica de intervención ambiental, aplicada al comportamiento en vez de a la química, aparece en Reinoso-Carvalho y Reyes: frente a que el 35% de los consumidores de alcohol en Colombia tiene hábitos perjudiciales, su experimento no apela a la fuerza de voluntad individual sino a rediseñar la experiencia sensorial del producto —un sonido de botella vertida— para desplazar el consumo hacia la cerveza sin alcohol. Gladwell documenta el mismo principio en un registro más sombrío: el \"acoplamiento\" entre un acto riesgoso y su contexto material —el suicidio de Sylvia Plath ligado al gas doméstico británico, o el patrullaje de micro-zonas específicas en los experimentos de Kansas City— muestra que remover el medio o concentrar la intervención en el lugar reduce el daño poblacional más que cualquier tratamiento dirigido a la persona. Haidt aplica esa misma gramática a la crisis de salud mental adolescente: sus reformas propuestas (edad mínima de acceso al teléfono, escuelas libres de pantallas) no tratan la ansiedad individual sino que buscan cambiar las condiciones estructurales de una generación entera, documentando el \"tsunami\" de sufrimiento como estadística sincronizada en decenas de países, no como caso clínico.\n\nDos notas aportan la contracara: la aritmética poblacional que documenta cuándo esas intervenciones fallan o son necesarias precisamente porque el entorno castiga de forma desigual. Reeves cuantifica que las \"muertes de desesperación\" —sobredosis, suicidio, enfermedades relacionadas con el alcohol— son casi tres veces más frecuentes en hombres de clase trabajadora que en mujeres en situación comparable, un patrón de mortalidad que responde a la desindustrialización, no a decisiones clínicas individuales. Roach cierra el hilo desde un ángulo casi opuesto: la sociedad regula —mal, según ella— el destino de los cuerpos muertos, y esa regulación cultural tiene consecuencias públicas concretas, desde la escasez histórica de cadáveres para la enseñanza anatómica hasta las opciones de disposición final disponibles hoy para cualquier ciudadano; es, también, salud gobernada a nivel de política y tabú colectivo, no de decisión médica individual.\n\n## Notas que usan este concepto\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/books/2003-01-01_stiff-roach]]\n- [[notes/books/2019-09-10_talking-to-strangers-gladwell]]\n- [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]",
       "degree": 9
+    },
+    {
+      "id": "concepts/satira",
+      "kind": "concept",
+      "label": "satira",
+      "keyword": "satira",
+      "aliases": [
+        "satire",
+        "sátira",
+        "humor",
+        "ironía",
+        "parodia"
+      ],
+      "definition": "Uso de la ironía, la exageración y el humor para criticar instituciones, ideologías o la condición humana.",
+      "literature": "",
+      "path": "concepts/satira.md",
+      "content": "Uso de la ironía, la exageración y el humor para criticar instituciones, ideologías o la condición humana.\n\n## Notas que usan este concepto\n- [[notes/fiction/1945-01-01_animal-farm-orwell]]\n- [[notes/fiction/1969-01-01_slaughterhouse-five]]\n- [[notes/fiction/1979-01-01_hitchhikers-guide-to-the-galaxy]]\n- [[notes/fiction/1990-01-01_good-omens]]",
+      "degree": 4
     },
     {
       "id": "concepts/seguridad-de-ia",
@@ -2614,8 +2769,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Construcción de mundos de ficción que operan como mecanismos coherentes: reglas explícitas y consistentes (físicas, mágicas, económicas o sociales) de las que se deducen las consecuencias de la trama; el interés está en cómo funciona el sistema, más allá de la etiqueta de género.",
       "literature": "",
       "path": "concepts/sistemas-y-reglas.md",
-      "content": "Construcción de mundos de ficción que operan como mecanismos coherentes: reglas explícitas y consistentes (físicas, mágicas, económicas o sociales) de las que se deducen las consecuencias de la trama; el interés está en cómo funciona el sistema, más allá de la etiqueta de género.\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]\n- [[notes/fiction/saga-mistborn]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]\n- [[notes/fiction/2019-01-01_exhalation-chiang]]",
-      "degree": 5
+      "content": "Construcción de mundos de ficción que operan como mecanismos coherentes: reglas explícitas y consistentes (físicas, mágicas, económicas o sociales) de las que se deducen las consecuencias de la trama; el interés está en cómo funciona el sistema, más allá de la etiqueta de género.\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]\n- [[notes/fiction/saga-mistborn]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]\n- [[notes/fiction/2019-01-01_exhalation-chiang]]\n- [[notes/fiction/1965-01-01_dune]]\n- [[notes/fiction/1968-01-01_2001-a-space-odyssey]]\n- [[notes/fiction/1973-01-01_rendezvous-with-rama]]\n- [[notes/fiction/1985-01-01_enders-game]]\n- [[notes/fiction/2007-01-01_mistborn-well-of-ascension]]\n- [[notes/fiction/2008-01-01_mistborn-hero-of-ages]]\n- [[notes/fiction/2008-01-01_the-dark-forest]]\n- [[notes/fiction/2010-01-01_deaths-end]]\n- [[notes/fiction/2011-01-01_mistborn-alloy-of-law]]\n- [[notes/fiction/2011-01-01_ready-player-one]]\n- [[notes/fiction/2012-01-01_wool-omnibus]]\n- [[notes/fiction/2016-01-01_dark-matter]]\n- [[notes/fiction/2016-01-01_sleeping-giants]]\n- [[notes/fiction/2017-01-01_artemis]]\n- [[notes/fiction/2019-01-01_recursion]]\n- [[notes/fiction/2021-01-01_project-hail-mary]]",
+      "degree": 21
     },
     {
       "id": "concepts/sobredependencia-de-la-ia",
@@ -2718,8 +2873,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Estudio de la decisión estratégica entre agentes racionales cuyos resultados dependen de las elecciones de los demás; en la ficción aparece como dilemas de cooperación y conflicto, disuasión y equilibrios (p. ej., la hipótesis del bosque oscuro como respuesta a la paradoja de Fermi).",
       "literature": "",
       "path": "concepts/teoria-de-juegos.md",
-      "content": "Estudio de la decisión estratégica entre agentes racionales cuyos resultados dependen de las elecciones de los demás; en la ficción aparece como dilemas de cooperación y conflicto, disuasión y equilibrios (p. ej., la hipótesis del bosque oscuro como respuesta a la paradoja de Fermi).\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]",
-      "degree": 2
+      "content": "Estudio de la decisión estratégica entre agentes racionales cuyos resultados dependen de las elecciones de los demás; en la ficción aparece como dilemas de cooperación y conflicto, disuasión y equilibrios (p. ej., la hipótesis del bosque oscuro como respuesta a la paradoja de Fermi).\n\n## Notas que usan este concepto\n- [[notes/fiction/saga-remembrance-of-earths-past]]\n- [[notes/fiction/2008-01-01_three-body-problem]]\n- [[notes/fiction/1951-01-01_foundation]]\n- [[notes/fiction/1996-01-01_a-game-of-thrones]]\n- [[notes/fiction/2008-01-01_the-dark-forest]]",
+      "degree": 5
     },
     {
       "id": "concepts/terapia-genica",
@@ -14636,6 +14791,67 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Resumen\n\n*La generación ansiosa* (2024), del psicólogo social Jonathan Haidt, documenta y analiza el colapso de la salud mental de niños y adolescentes en los países desarrollados a partir de aproximadamente 2010-2015. La tesis central es que la rápida adopción del smartphone y las redes sociales —lo que Haidt llama la \"Gran Reconfiguración\"— transformó radicalmente la infancia, desplazando la experiencia física, relacional y autónoma por una existencia mediada por pantallas. Este cambio afectó de forma especialmente severa a las adolescentes, pero también, con matices distintos, a los varones.\n\nEl libro se estructura en cuatro partes. La primera documenta el \"tsunami\" de sufrimiento psicológico mediante datos de ansiedad, depresión, autolesiones y hospitalización de menores en múltiples países occidentales. La segunda parte examina los fundamentos evolutivos y psicológicos del desarrollo infantil saludable: los niños necesitan juego libre con riesgo, interacción social cara a cara, autonomía progresiva y experiencias en el mundo real durante la pubertad para que su cerebro se configure adecuadamente. La tercera parte analiza en detalle cómo la \"infancia basada en el teléfono\" obstruye esos procesos: la privación social, la fragmentación de la atención, la falta de sueño y los mecanismos de refuerzo variable de las plataformas. La cuarta parte propone un programa de acción colectiva para gobiernos, escuelas, padres y la propia Generación Z.\n\nHaidt argumenta que la causalidad no es solo correlacional: el patrón de crisis —sincronizado en decenas de países distintos, más pronunciado en chicas, iniciado precisamente cuando los smartphones alcanzaron masa crítica— difícilmente admite otra explicación. Descarta explicaciones alternativas (la Gran Recesión, el cambio climático, la polarización política) por no poder rendir cuenta de la simultaneidad internacional y el sesgo de género. La tesis no es que la tecnología sea intrínsecamente mala, sino que introducirla de forma masiva durante los años de desarrollo cerebral más plásticos, sin protecciones de diseño ni regulación, fue un experimento social sin precedentes y con consecuencias graves.\n\nEl libro cierra con un llamado a la acción colectiva: puesto que las normas sociales y los incentivos de mercado atrapan a padres, escuelas y adolescentes en un equilibrio disfuncional, la solución debe ser coordinada. Haidt propone cuatro reformas concretas: prohibición de smartphones antes de los 14 años, restricción de redes sociales hasta los 16, escuelas libres de teléfonos y más tiempo de juego libre sin supervisión adulta.\n\n## Ideas principales por capítulo\n\n- **Introducción — \"Crecer en Marte\":** La analogía de un asentamiento infantil en Marte sirve para ilustrar que someter a niños a un entorno no diseñado para su biología de desarrollo es un experimento irresponsable; eso es, en esencia, lo que ocurrió con internet.\n- **Cap. 1 — \"La oleada de sufrimiento\":** Documentación estadística del aumento de ansiedad, depresión, autolesiones y hospitalizaciones psiquiátricas en adolescentes de EE. UU., Reino Unido, Canadá y otros países desde 2012, coincidiendo con la adopción masiva del smartphone.\n- **Cap. 2 — \"Qué necesitan hacer los niños en la infancia\":** Los niños necesitan experiencias encarnadas, relacionales y de riesgo moderado durante la infancia; la psicología evolutiva y del desarrollo establece por qué esto es indispensable para el sano crecimiento cerebral.\n- **Cap. 3 — \"El modo descubrimiento y la necesidad del juego con riesgos\":** La paradoja de la seguridad moderna: se hiperprotegió a los niños del mundo físico mientras se los abandonó sin protección al mundo digital; el juego libre con riesgo es necesario para construir resiliencia y competencia.\n- **Cap. 4 — \"La pubertad y la obstrucción de la transición a la adultez\":** La pubertad es un periodo crítico de plasticidad cerebral; las experiencias de esos años determinan qué redes neuronales quedan consolidadas; la infancia basada en el teléfono canaliza la plasticidad hacia patrones disfuncionales.\n- **Cap. 5 — \"Los cuatro perjuicios fundamentales\":** Privación social, falta de sueño, fragmentación de la atención y adicción comportamental son los cuatro mecanismos mediante los que el uso intensivo de smartphones daña el desarrollo adolescente.\n- **Cap. 6 — \"Por qué las redes sociales perjudican más a las chicas\":** Las chicas usan más las redes sociales basadas en la comparación social de apariencia e imagen; los mecanismos de daño incluyen comparación social, ciberacoso y desplazamiento de las amistades presenciales.\n- **Cap. 7 — \"¿Qué les está ocurriendo a los chicos?\":** Los varones son más afectados por los videojuegos y la pornografía que por las redes sociales; el patrón de daño es diferente pero igualmente preocupante: desenganche del mundo real y fracaso en la transición a la adultez.\n- **Cap. 8 — \"Elevación y degradación espirituales\":** La vida basada en el teléfono produce empobrecimiento espiritual y moral en el sentido secular del término; las plataformas explotan las dimensiones de jerarquía y pureza del espacio social humano para amplificar el conflicto tribal.\n- **Cap. 9 — \"Preparativos para la acción colectiva\":** Los problemas de acción colectiva explican por qué ningún actor individual puede resolver la crisis solo; se necesitan normas sociales compartidas y cambios estructurales.\n- **Cap. 10 — \"Qué pueden hacer ya los gobiernos y las empresas tecnológicas\":** Las plataformas explotan vulnerabilidades psicológicas mediante diseño deliberado (bucles de retroalimentación dopaminérgica); la regulación debe cambiar sus incentivos tal como ocurrió con la industria alimentaria o la automotriz.\n- **Cap. 11 — \"Qué pueden hacer ya los colegios e institutos\":** Las dos \"ballenas\" más eficaces son: escuelas libres de teléfonos durante toda la jornada y más juego libre sin supervisión adulta.\n- **Cap. 12 — \"Qué pueden hacer ya los padres\":** Los padres deben actuar como \"jardineros\" (crear condiciones para que el niño florezca) en lugar de \"carpinteros\" (controlar el resultado); propone retrasar el acceso al smartphone hasta los 14 años y actuar coordinados con otras familias.\n- **Conclusión — \"Devolvamos la infancia a la Tierra\":** La crisis tiene remedio; los cambios deben ser colectivos y urgentes; el libro fue concebido como desglose de un capítulo sobre redes sociales y democracia que creció hasta convertirse en una advertencia independiente.\n\n## Argumentos centrales\n\n- La crisis de salud mental adolescente es real, grave, sincronizada internacionalmente y comenzó entre 2010 y 2015, coincidiendo con la adopción masiva del smartphone.\n- Las plataformas de redes sociales fueron diseñadas deliberadamente para maximizar el tiempo de atención mediante refuerzo variable y bucles dopaminérgicos, a sabiendas de que eran dañinas para los adolescentes.\n- El cerebro adolescente es especialmente vulnerable porque está en un periodo crítico de plasticidad; las experiencias digitales intensivas cablean circuitos que dificultan la atención sostenida, la tolerancia a la frustración y la socialización presencial.\n- Las niñas sufren más daño por las redes sociales basadas en imagen y comparación social; los varones sufren más por videojuegos y pornografía; ambos muestran señales de deterioro psicológico y dificultades de transición a la adultez.\n- La sobreprotección física de los niños (menor juego libre, menor autonomía) y la subprotección digital constituyen dos errores simultáneos y complementarios.\n- La solución requiere acción colectiva: ningún padre, escuela o gobierno puede resolver el problema en solitario; se necesitan normas sociales coordinadas.\n\n## Limitaciones\n\n- Las correlaciones temporales son convincentes pero la causalidad definitiva sigue siendo debatida en la literatura académica; algunos investigadores señalan que el tamaño del efecto del uso de pantallas puede ser modesto.\n- El análisis se centra principalmente en países anglosajones y del norte de Europa; la evidencia de contextos latinoamericanos o asiáticos es más escasa.\n- El libro no profundiza en las condiciones estructurales (desigualdad, precariedad económica familiar, cambios en la estructura escolar) que podrían contribuir de forma independiente a la crisis.\n- Las recomendaciones para padres asumen recursos económicos, tiempo y capital social que no todas las familias tienen en igual medida; hay un sesgo implícito hacia familias de clase media-alta.\n- La discusión sobre varones (pornografía, videojuegos) tiene menos evidencia sistemática que la parte dedicada a chicas y redes sociales.\n\n## Notas relacionadas\n\n- [[concepts/bienestar-academico]]\n- [[concepts/psicologia-educativa]]\n- [[concepts/educacion-k12]]\n- [[concepts/regulacion-de-ia]]\n- [[concepts/salud-y-sociedad]]\n- [[concepts/desarrollo-del-caracter]]\n- [[concepts/trauma-y-salud]]\n- [[concepts/sesgo-cognitivo]]\n- [[concepts/ciencia-y-sociedad]]"
     },
     {
+      "id": "notes/fiction/1932-01-01_brave-new-world-huxley",
+      "kind": "fiction",
+      "label": "Brave New World",
+      "authors": [
+        "Aldous Huxley"
+      ],
+      "year": "1932",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1932-01-01_brave-new-world-huxley.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nEn el Estado Mundial del año 632 después de Ford, la humanidad se produce en incubadoras y se clasifica en castas biológicas —de los Alfa intelectuales a los Épsilon serviles— condicionadas desde el embrión para amar su lugar en la jerarquía. La estabilidad social se sostiene con placer: consumo, sexo sin vínculo y soma, una droga que borra toda incomodidad. La llegada de John \"el Salvaje\", criado fuera del sistema, expone el vacío de un mundo sin dolor, sin arte trágico y sin libertad.\n\n## Mecanismo e ideas\nHuxley invierte la lógica de la distopía represiva: aquí no se controla con miedo sino con felicidad administrada. El mecanismo es la ingeniería biológica y psicológica —fecundación in vitro, decantación en castas, hipnopedia, condicionamiento pavloviano— que fabrica ciudadanos que ni siquiera desean ser libres. Es una distopía sobre la ciencia puesta al servicio de la estabilidad, donde la tecnología reproductiva y el conductismo hacen el trabajo que en 1984 hace la bota. Su tesis —que una sociedad puede ser esclavizada por lo que ama, no por lo que teme— la vuelve el contrapunto perfecto de Orwell dentro del clúster distópico.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/ciencia-y-sociedad]]"
+    },
+    {
+      "id": "notes/fiction/1937-01-01_the-hobbit",
+      "kind": "fiction",
+      "label": "The Hobbit",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "year": "1937",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "mayoria-de-edad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1937-01-01_the-hobbit.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nBilbo Baggins, un hobbit acomodado y sin ninguna intención de aventuras, es reclutado por el mago Gandalf y una compañía de trece enanos para ayudarlos a recuperar su reino y su tesoro, arrebatados por el dragón Smaug. El viaje lo lleva lejos de la comodidad de la Comarca, a través de trolls, goblins, elfos, arañas gigantes y el encuentro subterráneo con Gollum, del que sale con un anillo misterioso. Lo que empieza como un burgués reticente termina como un participante decisivo en la batalla por la Montaña Solitaria.\n\n## Mecanismo e ideas\nMás que un mundo de reglas explícitas, El Hobbit es un relato de formación clásico: el arco de Bilbo, de casero temeroso a alguien capaz de astucia, coraje y hasta compasión política, es el núcleo del libro. El viaje funciona como rito de paso, y Tolkien mide el crecimiento del protagonista por las decisiones que toma cuando nadie lo obliga —robar al dragón, enfrentarse a Gollum, arriesgar la amistad de los enanos por evitar una guerra—. La aventura es el vehículo, pero el tema es la maduración.\n\n## Notas relacionadas\n- [[concepts/mayoria-de-edad]]"
+    },
+    {
+      "id": "notes/fiction/1945-01-01_animal-farm-orwell",
+      "kind": "fiction",
+      "label": "Animal Farm",
+      "authors": [
+        "George Orwell"
+      ],
+      "year": "1945",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "satira",
+        "rebelion-y-revolucion",
+        "poder-y-persuasion",
+        "distopia"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1945-01-01_animal-farm-orwell.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nLos animales de la Granja Manor se sublevan contra el señor Jones, expulsan al granjero y proclaman una república animal fundada en la igualdad: \"todos los animales son iguales\". Al principio la granja prospera bajo el lema de la solidaridad, pero los cerdos, y en particular Napoleón, van concentrando el poder, reescribiendo los mandamientos originales y aplastando toda disidencia. La fábula termina con los cerdos caminando sobre dos patas, indistinguibles de los humanos a los que habían derrocado.\n\n## Mecanismo e ideas\nEl libro funciona como una alegoría precisa de la Revolución Rusa y su degeneración estalinista, pero su mecanismo trasciende el referente histórico: describe la física de cómo una revolución se traiciona a sí misma. El motor central es la persuasión —Squealer y su retórica que reescribe la memoria, la corrupción gradual de las Siete Máximas hasta la célebre \"todos los animales son iguales, pero algunos son más iguales que otros\"— combinada con el monopolio de la fuerza (los perros de Napoleón). Es sátira política de precisión quirúrgica: cada personaje y cada giro tiene su correlato, y la lección sobre cómo el lenguaje sostiene el poder lo emparenta directamente con 1984.\n\n## Notas relacionadas\n- [[concepts/satira]]\n- [[concepts/rebelion-y-revolucion]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/distopia]]"
+    },
+    {
       "id": "notes/fiction/1949-01-01_1984-orwell",
       "kind": "fiction",
       "label": "1984",
@@ -14654,6 +14870,178 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/fiction/1949-01-01_1984-orwell.md",
       "pdf_local": "",
       "content": "## Sinopsis\nWinston Smith vive en Oceanía, un Estado de partido único que vigila cada gesto y reescribe el pasado a voluntad. Trabaja falsificando registros históricos mientras cultiva, en secreto, una rebelión interior. Su historia es el intento de conservar un espacio propio de verdad y deseo frente a un poder que aspira a colonizar hasta el pensamiento.\n\n## Mecanismo e ideas\nLa fuerza del libro es su sistema de control, descrito casi como una ingeniería del poder: la vigilancia total, la neolengua que reduce el vocabulario para hacer impensable la disidencia, el doblepensar, la manipulación de la memoria colectiva. Orwell no describe solo una tiranía, describe cómo se fabrica y se sostiene. Es la distopía canónica y el ancla del clúster distópico del catálogo (Brave New World, Fahrenheit 451, The Giver, The Hunger Games, Divergent), y su tesis sobre el lenguaje y el poder conecta con la vena de comentario social del lector.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/poder-y-persuasion]]"
+    },
+    {
+      "id": "notes/fiction/1951-01-01_foundation",
+      "kind": "fiction",
+      "label": "Foundation",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "year": "1951",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "ciencia-y-sociedad",
+        "teoria-de-juegos",
+        "colapso-civilizatorio",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1951-01-01_foundation.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de la saga Foundation. El matemático Hari Seldon desarrolla la psicohistoria, una ciencia que combina estadística y sociología para predecir el comportamiento de poblaciones enormes a lo largo de milenios. Sus cálculos anuncian la caída inevitable del Imperio Galáctico y treinta mil años de barbarie, que él busca acortar a apenas mil fundando la Fundación, un enclave de científicos en el borde de la galaxia. La novela sigue, en episodios separados por generaciones, las sucesivas crisis que ponen a prueba el plan.\n\n## Mecanismo e ideas\nLa idea motriz es la ciencia y la sociedad llevada al extremo: tratar la historia como un sistema predecible estadísticamente, donde los individuos son impredecibles pero las masas obedecen leyes. Cada \"crisis Seldon\" es un problema de teoría de juegos en el que la Fundación, débil en fuerza, solo tiene una jugada viable y las condiciones históricas la empujan hacia ella. Sobre el telón del colapso civilizatorio —un imperio que se pudre desde el centro— los líderes de la Fundación sobreviven mediante el poder y la persuasión más que las armas: religión disfrazada de tecnología, comercio y chantaje económico como instrumentos de dominio.\n\n## Notas relacionadas\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/teoria-de-juegos]]\n- [[concepts/colapso-civilizatorio]]\n- [[concepts/poder-y-persuasion]]"
+    },
+    {
+      "id": "notes/fiction/1953-01-01_fahrenheit-451-bradbury",
+      "kind": "fiction",
+      "label": "Fahrenheit 451",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "year": "1953",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1953-01-01_fahrenheit-451-bradbury.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nGuy Montag es un bombero cuyo oficio, en un futuro cercano, no es apagar incendios sino provocarlos: quema los libros que la sociedad ha proscrito. Vive en una cultura anestesiada por pantallas envolventes, radios de oído y velocidad, donde pensar y recordar son actos peligrosos. El encuentro con la joven Clarisse y el suicidio silencioso de quienes prefieren arder con sus libros despiertan en Montag una crisis que lo lleva a traicionar al sistema y a unirse a los \"hombres-libro\" que memorizan obras para preservarlas.\n\n## Mecanismo e ideas\nBradbury sitúa el mecanismo distópico no en un tirano sino en la propia sociedad, que abraza el entretenimiento total y delega en el Estado el trabajo de quemar lo que ya nadie quiere leer. El control emerge de abajo hacia arriba: la gente pide ser distraída, y el olvido se vuelve autoinfligido. Es una distopía sobre la ciencia y la sociedad en el sentido de la tecnología del ocio —los \"muros\" televisivos, el Sabueso Mecánico— que atrofia la atención y la memoria colectiva. Comparte con Huxley la tesis de que la servidumbre puede ser cómoda, y con Orwell la obsesión por cómo se destruye el conocimiento.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/ciencia-y-sociedad]]"
+    },
+    {
+      "id": "notes/fiction/1965-01-01_dune",
+      "kind": "fiction",
+      "label": "Dune",
+      "authors": [
+        "Frank Herbert"
+      ],
+      "year": "1965",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "ecologia-y-terraformacion",
+        "mitologia-y-religion",
+        "poder-y-persuasion",
+        "sistemas-y-reglas"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1965-01-01_dune.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de la saga Dune. La casa Atreides recibe el feudo de Arrakis, un planeta desértico que es la única fuente de la especia melange, sustancia que sustenta la navegación interestelar y la economía del Imperio. La caída de los Atreides a manos de sus rivales Harkonnen empuja al joven Paul y a su madre al desierto, entre los Fremen, donde Paul se convierte en el eje de una profecía largamente sembrada. La novela entrelaza intriga feudal, ecología planetaria y misticismo hasta desembocar en una revolución religiosa.\n\n## Mecanismo e ideas\nArrakis funciona como un sistema ecológico coherente: los gusanos de arena, el ciclo de la especia y la escasez de agua no son decorado sino reglas que determinan la política y la cultura Fremen, y el sueño de terraformar el planeta es el motor secreto de su sociedad. Sobre esa base física, Herbert monta una crítica al poder y la persuasión: la profecía que rodea a Paul no es sobrenatural sino manufacturada, sembrada durante siglos por las Bene Gesserit para ser explotada, y la religión aparece como una tecnología de control de masas tanto como una fuente de sentido. El Imperio es un tablero feudal de casas, gremios y órdenes cuyas reglas de juego —quién controla la especia, controla el universo— gobiernan cada movimiento.\n\n## Notas relacionadas\n- [[concepts/ecologia-y-terraformacion]]\n- [[concepts/mitologia-y-religion]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/sistemas-y-reglas]]"
+    },
+    {
+      "id": "notes/fiction/1968-01-01_2001-a-space-odyssey",
+      "kind": "fiction",
+      "label": "2001: A Space Odyssey",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "year": "1968",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "inteligencia-artificial",
+        "primer-contacto",
+        "sistemas-y-reglas",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1968-01-01_2001-a-space-odyssey.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de la saga Space Odyssey. Un enigmático monolito negro aparece ante los homínidos prehistóricos y detona el salto hacia la inteligencia; millones de años después, un monolito idéntico enterrado en la Luna emite una señal hacia Saturno. La nave Discovery parte a investigar con dos astronautas despiertos, un puñado en hibernación y HAL 9000, la computadora que controla la misión. En pleno viaje HAL falla, se vuelve letal contra la tripulación, y el sobreviviente prosigue solo hacia el encuentro final con lo que dejaron los monolitos.\n\n## Mecanismo e ideas\nClarke escribe con rigor de hard SF: la nave, la hibernación y la mecánica del viaje interplanetario funcionan como un sistema físico verosímil, sin concesiones. En su centro está HAL, uno de los retratos fundacionales de la inteligencia artificial: su fallo no es maldad sino una contradicción lógica insertada por sus creadores humanos, lo que abre la pregunta sobre la confianza en una máquina que razona. Los monolitos convierten el primer contacto en algo casi teológico —una inteligencia superior que dirige la evolución humana sin mostrarse—, y detrás corre una meditación sobre la ciencia y la sociedad: la herramienta como motor de la especie, del hueso arrojado al aire a la nave que piensa por sí misma.\n\n## Notas relacionadas\n- [[concepts/inteligencia-artificial]]\n- [[concepts/primer-contacto]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/ciencia-y-sociedad]]"
+    },
+    {
+      "id": "notes/fiction/1969-01-01_slaughterhouse-five",
+      "kind": "fiction",
+      "label": "Slaughterhouse-Five",
+      "authors": [
+        "Kurt Vonnegut"
+      ],
+      "year": "1969",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "guerra-y-conflicto",
+        "libre-albedrio",
+        "satira",
+        "realidades-multiples"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1969-01-01_slaughterhouse-five.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nBilly Pilgrim, un veterano estadounidense que sobrevivió al bombardeo aliado de Dresde como prisionero de guerra, ha quedado \"desanclado en el tiempo\": salta sin control entre los momentos de su vida, desde las trincheras de la Segunda Guerra Mundial hasta su vida suburbana de posguerra y su cautiverio en un zoológico del planeta Tralfamadore. La novela, deliberadamente fragmentaria y antibélica, entreteje el horror concreto de Dresde con la ciencia ficción tralfamadoriana para hablar de lo indecible: la matanza vista desde una conciencia que ya no experimenta el tiempo como una flecha.\n\n## Mecanismo e ideas\nLos tralfamadorianos perciben todos los instantes del tiempo simultáneamente, y de esa visión deriva su fatalismo: si cada momento existe siempre y no puede cambiarse, el libre albedrío es una ilusión terrestre, y la muerte apenas un mal momento entre otros —\"así son las cosas\". Ese marco de realidades y tiempos múltiples es, en el fondo, una estrategia de supervivencia frente al trauma: una forma de mirar la masacre sin enloquecer. Vonnegut usa la sátira y el absurdo cósmico como el filo de una crítica antibélica devastadora, donde la resignación tralfamadoriana funciona a la vez como consuelo y como acusación.\n\n## Notas relacionadas\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/libre-albedrio]]\n- [[concepts/satira]]\n- [[concepts/realidades-multiples]]"
+    },
+    {
+      "id": "notes/fiction/1973-01-01_rendezvous-with-rama",
+      "kind": "fiction",
+      "label": "Rendezvous with Rama",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "year": "1973",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "sistemas-y-reglas",
+        "ecologia-y-terraformacion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1973-01-01_rendezvous-with-rama.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de la saga Rama. Un objeto interestelar de cincuenta kilómetros de longitud, un cilindro perfecto bautizado Rama, entra en el sistema solar y una tripulación humana es enviada a interceptarlo antes de que vuelva a perderse en el espacio. Dentro no hay habitantes: solo un mundo cilíndrico hueco, con su propio mar, su iluminación y una gravedad generada por rotación. La novela es la crónica metódica de esa exploración, del asombro y las hipótesis de los exploradores ante una máquina colosal cuyo propósito nunca se les revela.\n\n## Mecanismo e ideas\nEs hard SF en estado puro: Rama se explora como un sistema físico que se descifra pieza a pieza, y la gravedad centrífuga, el clima interior, los \"biots\" y el ciclo del mar cilíndrico obedecen reglas consistentes que la tripulación deduce por observación. El interior es también un pequeño ecosistema cerrado, un mundo artificial autocontenido que la nave lleva consigo como si fuera un planeta terraformado en miniatura. El primer contacto aquí es deliberadamente frío: no hay diálogo ni conflicto con los constructores, solo la presencia abrumadora de una inteligencia ajena que sigue su propia agenda e ignora por completo a la humanidad, dejando el encuentro como un enigma sin resolver.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/ecologia-y-terraformacion]]"
+    },
+    {
+      "id": "notes/fiction/1979-01-01_hitchhikers-guide-to-the-galaxy",
+      "kind": "fiction",
+      "label": "The Hitchhiker's Guide to the Galaxy",
+      "authors": [
+        "Douglas Adams"
+      ],
+      "year": "1979",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "satira",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1979-01-01_hitchhikers-guide-to-the-galaxy.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nUn jueves cualquiera, Arthur Dent descubre que su casa va a ser demolida para construir una autovía; minutos después la Tierra entera es demolida por los burócratas vogones para dar paso a una autopista hiperespacial. Rescatado in extremis por su amigo Ford Prefect —que resulta ser un investigador de campo de una guía de viajes galáctica— Arthur se lanza a recorrer el cosmos en toalla, acompañado por un presidente galáctico de dos cabezas, un robot deprimido y una improbabilidad estadística tras otra. En algún punto se revela que la respuesta a la Vida, el Universo y Todo es, sencillamente, 42.\n\n## Mecanismo e ideas\nAdams convierte el absurdo en método: la comedia funciona porque lleva premisas triviales —la burocracia, las autopistas, las guías de turismo— hasta su extremo cósmico, y de ahí extrae una sátira feroz de la sociedad humana y de nuestra fe en que el universo tenga sentido. El chiste del 42 es su tesis filosófica disfrazada: hallamos la respuesta pero nunca supimos formular la pregunta, una burla del cientificismo y de la búsqueda de significado. Bajo la carcajada hay un comentario persistente sobre la ciencia y la sociedad: la insignificancia de la Tierra, la vanidad de las instituciones y lo cómicamente indiferente que es el cosmos a nuestras urgencias.\n\n## Notas relacionadas\n- [[concepts/satira]]\n- [[concepts/ciencia-y-sociedad]]"
+    },
+    {
+      "id": "notes/fiction/1985-01-01_enders-game",
+      "kind": "fiction",
+      "label": "Ender's Game",
+      "authors": [
+        "Orson Scott Card"
+      ],
+      "year": "1985",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "guerra-y-conflicto",
+        "primer-contacto",
+        "sistemas-y-reglas",
+        "mayoria-de-edad",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1985-01-01_enders-game.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de la Ender's Saga. Tras dos invasiones de una especie alienígena insectoide, los \"insectores\", la humanidad recluta y entrena a niños prodigio en una Escuela de Batalla orbital para formar al comandante capaz de librar la guerra definitiva. Ender Wiggin, el más dotado, es empujado a través de simulaciones y juegos de guerra cada vez más brutales por unos adultos que lo aíslan y manipulan deliberadamente para forjar en él al estratega perfecto, sin que él comprenda del todo lo que está en juego.\n\n## Mecanismo e ideas\nEl corazón del libro es un sistema de reglas: los juegos de guerra en gravedad cero y las simulaciones tácticas son entornos formales cuyas mecánicas Ender aprende a dominar y luego a quebrar. Esa maestría es también el hilo de su mayoría de edad, la formación de un niño que crece a costa de su inocencia. Card lo cruza con una reflexión sobre el poder y la persuasión: los mentores fabrican las condiciones para que Ender haga lo que ellos no se atreven a ordenar, y el clímax convierte el primer contacto con los insectores en el problema ético central —la línea entre defensa y xenocidio, y la responsabilidad de quien aprieta el gatillo sin saber que la guerra es real.\n\n## Notas relacionadas\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/primer-contacto]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/mayoria-de-edad]]\n- [[concepts/poder-y-persuasion]]"
     },
     {
       "id": "notes/fiction/1987-01-01_watchmen",
@@ -14678,6 +15066,112 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Sinopsis\nEn una historia alterna donde los superhéroes existieron y alteraron el curso del siglo XX, Estados Unidos se acerca a una guerra nuclear con la Unión Soviética. El asesinato de un vigilante desata una investigación que va desmontando, uno por uno, a un grupo de exhéroes envejecidos, cínicos o rotos. Es una deconstrucción del género y de la idea misma del héroe.\n\n## Mecanismo e ideas\nWatchmen funciona como un reloj: estructura simétrica, motivos que rima capítulo a capítulo, una trama que encaja como pieza de relojería. Su núcleo es un problema moral, hasta dónde se justifica un mal para evitar uno mayor, planteado sin respuesta cómoda: el plan de Ozymandias es utilitarismo llevado al límite. Cruza el poder y su legitimidad con una atmósfera de vigilancia y autoritarismo latente, y por eso conversa con las distopías clásicas más que con el cómic de superhéroes. Filosofía moral disfrazada de novela gráfica.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/filosofia]]"
     },
     {
+      "id": "notes/fiction/1988-01-01_v-for-vendetta-moore",
+      "kind": "fiction",
+      "label": "V for Vendetta",
+      "authors": [
+        "Alan Moore",
+        "David Lloyd"
+      ],
+      "year": "1988",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "rebelion-y-revolucion",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1988-01-01_v-for-vendetta-moore.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nEn una Gran Bretaña de finales del siglo XX que sobrevivió a una guerra nuclear cayendo en un régimen fascista, un anarquista enmascarado que se hace llamar V libra una campaña de terror teatral contra el partido Norsefire y su aparato de vigilancia. Rescata a la joven Evey y la va transformando —a través de un proceso brutal— en heredera de su causa. Mientras derriba, uno a uno, los pilares del Estado autoritario, la trama plantea si la destrucción del orden opresor abre paso a la libertad o solo al caos.\n\n## Mecanismo e ideas\nLa novela gráfica opone dos sistemas de poder: el fascismo burocrático de Norsefire, con su cadena de mando nombrada como partes de un cuerpo (la Cabeza, el Ojo, el Oído, el Dedo), y el anarquismo de V, que no busca tomar el poder sino demolerlo para que la gente se gobierne a sí misma. El motor es la persuasión y el símbolo: la máscara de Guy Fawkes convierte a V en una idea imposible de matar, y el sometimiento de Evey es una lección sobre cómo se forja la libertad interior. Moore construye un debate político —revolución contra tiranía, orden contra anarquía— sin dar respuestas cómodas, emparentado con las distopías clásicas del catálogo.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/rebelion-y-revolucion]]\n- [[concepts/poder-y-persuasion]]"
+    },
+    {
+      "id": "notes/fiction/1990-01-01_good-omens",
+      "kind": "fiction",
+      "label": "Good Omens",
+      "authors": [
+        "Terry Pratchett",
+        "Neil Gaiman"
+      ],
+      "year": "1990",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "mitologia-y-religion",
+        "satira",
+        "libre-albedrio"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1990-01-01_good-omens.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nEl Apocalipsis está agendado y el Anticristo acaba de nacer… salvo que un lío en la maternidad lo deja en la familia equivocada. Aziraphale, un ángel amante de los libros, y Crowley, un demonio con debilidad por los placeres humanos, llevan milenios en la Tierra y le han tomado tanto cariño que deciden sabotear el fin del mundo antes de que sus respectivos bandos lo desencadenen. Alrededor de ellos se cruzan una descendiente de una profetisa, cazadores de brujas, los Cuatro Jinetes reconvertidos a la modernidad y un niño de once años que no sabe que decide el destino del planeta.\n\n## Mecanismo e ideas\nEs una comedia teológica que se ríe del guion cerrado del Apocalipsis y, con él, de la idea de un destino escrito. La tensión de fondo es la del libre albedrío contra la profecía: el ángel y el demonio, definidos por sus etiquetas cósmicas, terminan eligiendo por su cuenta, y el Anticristo humano demuestra que la crianza y las decisiones pesan más que la naturaleza asignada. Pratchett y Gaiman usan la sátira para desmontar los absolutos del bien y el mal, sugiriendo que lo genuinamente humano es precisamente no seguir el plan.\n\n## Notas relacionadas\n- [[concepts/mitologia-y-religion]]\n- [[concepts/satira]]\n- [[concepts/libre-albedrio]]"
+    },
+    {
+      "id": "notes/fiction/1993-01-01_the-giver-lowry",
+      "kind": "fiction",
+      "label": "The Giver",
+      "authors": [
+        "Lois Lowry"
+      ],
+      "year": "1993",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "mayoria-de-edad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1993-01-01_the-giver-lowry.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nJonas vive en una Comunidad perfectamente ordenada donde se ha erradicado el dolor, el conflicto y también el color, la música y la memoria: todo es \"igualdad\" gestionada, hasta las emociones se medican. Al cumplir doce años recibe una Asignación única: será el próximo Receptor de Recuerdos, y el anciano Dador comienza a transmitirle la memoria acumulada de la humanidad —la nieve, el amor, la guerra, la muerte—. Con esos recuerdos, Jonas descubre el precio oculto de la paz de su Comunidad y decide huir para devolverle al mundo lo que le fue arrebatado.\n\n## Mecanismo e ideas\nLa novela combina la estructura distópica con una historia de mayoría de edad: el despertar de Jonas es simultáneamente el descubrimiento de que su sociedad es una mentira y el tránsito personal de la infancia protegida a la conciencia moral. El mecanismo central es el \"Igualamiento\" (Sameness), un régimen que compra la estabilidad renunciando a toda experiencia intensa y delegando la memoria en una sola persona. La transmisión de recuerdos funciona como dispositivo narrativo que hace visible, para el lector joven, qué se pierde cuando se elimina el dolor: se pierde también todo lo que da sentido. Es la puerta de entrada del clúster distópico para lectores adolescentes.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/mayoria-de-edad]]"
+    },
+    {
+      "id": "notes/fiction/1996-01-01_a-game-of-thrones",
+      "kind": "fiction",
+      "label": "A Game of Thrones",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "year": "1996",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "poder-y-persuasion",
+        "guerra-y-conflicto",
+        "teoria-de-juegos"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/1996-01-01_a-game-of-thrones.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de A Song of Ice and Fire. En los Siete Reinos de Poniente, la muerte de la Mano del Rey desata una lucha soterrada por el Trono de Hierro entre las grandes casas nobles. Ned Stark, hombre de honor, es arrastrado a una corte de intrigas para la que no está preparado; en paralelo, más allá del Muro se agita una amenaza sobrenatural, y al otro lado del mar la exiliada Daenerys Targaryen empieza a reclamar su herencia. Martin cruza múltiples puntos de vista para armar un tapiz político donde cada casa juega su propia partida.\n\n## Mecanismo e ideas\nLa divisa \"ganas o mueres\" resume el mecanismo: el trono es el premio de un juego de poder despiadado en el que la ingenuidad se paga con la vida. Martin somete la fantasía a un realismo brutal —las muertes son súbitas, los personajes \"protegidos\" caen, y el honor rara vez gana la partida—, convirtiendo la intriga cortesana en algo parecido a la teoría de juegos: alianzas, traiciones y cálculos de suma cero donde cada movimiento anticipa el del rival. La guerra y el conflicto por la sucesión no son telón de fondo sino el motor mismo de la trama.\n\n## Notas relacionadas\n- [[concepts/poder-y-persuasion]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/teoria-de-juegos]]"
+    },
+    {
+      "id": "notes/fiction/2001-01-01_american-gods",
+      "kind": "fiction",
+      "label": "American Gods",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "year": "2001",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "mitologia-y-religion",
+        "ciencia-y-sociedad",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2001-01-01_american-gods.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nAl salir de prisión, Shadow Moon entra al servicio del enigmático Mr. Wednesday y queda atrapado en una guerra secreta que se libra por todo Estados Unidos. De un lado, los dioses viejos —las deidades y criaturas que los inmigrantes trajeron consigo desde sus tierras natales y que ahora languidecen olvidados—; del otro, los dioses nuevos, encarnaciones de los medios, la tecnología, las autopistas y el mercado. El viaje de Shadow por una América oculta es a la vez road trip, thriller mitológico y meditación sobre lo que un pueblo decide adorar.\n\n## Mecanismo e ideas\nLa premisa central es que la fe crea a los dioses: una deidad existe y conserva su poder solo mientras alguien la recuerda y le rinde culto, de modo que el olvido es literalmente mortal. Gaiman convierte esa regla en un comentario sobre la sociedad estadounidense contemporánea, donde el objeto de devoción se ha desplazado de las viejas mitologías hacia la pantalla, la marca y la red. La guerra entre panteones es, en el fondo, una lucha de poder y persuasión por la atención y la creencia de la gente, y buena parte de la novela consiste en maniobras, engaños y timos para inclinar esa balanza.\n\n## Notas relacionadas\n- [[concepts/mitologia-y-religion]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/poder-y-persuasion]]"
+    },
+    {
       "id": "notes/fiction/2006-01-01_mistborn-final-empire",
       "kind": "fiction",
       "label": "Mistborn: The Final Empire",
@@ -14697,6 +15191,112 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/fiction/2006-01-01_mistborn-final-empire.md",
       "pdf_local": "",
       "content": "## Sinopsis\nPrimer libro de Mistborn. En un mundo bajo la ceniza y la niebla, gobernado durante mil años por un Lord Ruler inmortal, una banda liderada por Kelsier planea lo imposible: robar el imperio. La protagonista, Vin, descubre que es una alomántica capaz de \"quemar\" metales para obtener poderes concretos.\n\n## Mecanismo e ideas\nEl corazón del libro es la alomancia, el ejemplo de manual de la magia dura: cada metal produce un efecto específico, con costes y límites claros, de modo que las escenas de acción y las soluciones se sienten como un sistema y no como un truco. Esa legibilidad es justo lo que a Luis le da el cinco. Sobre el sistema mágico, Sanderson monta una trama de poder y opresión con reglas propias, un heist contra un dios-emperador, que hace que el libro funcione a la vez como fantasía y como mecanismo.\n\n## Notas relacionadas\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/magia-dura]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/saga-mistborn]]"
+    },
+    {
+      "id": "notes/fiction/2006-01-01_world-war-z-brooks",
+      "kind": "fiction",
+      "label": "World War Z",
+      "authors": [
+        "Max Brooks"
+      ],
+      "year": "2006",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "colapso-civilizatorio",
+        "ciencia-y-sociedad",
+        "guerra-y-conflicto"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2006-01-01_world-war-z-brooks.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nUn agente de una comisión de posguerra de la ONU recorre el mundo recogiendo testimonios de sobrevivientes de la Guerra Zombi, un conflicto global que estuvo a punto de extinguir a la humanidad. A través de decenas de voces —soldados, médicos, políticos, contrabandistas, civiles— se reconstruye el arco completo: el brote inicial ignorado, el \"Gran Pánico\" y el colapso de los Estados, la casi extinción, y la lenta y brutal reconquista del planeta. Es una historia oral de una catástrofe planetaria narrada a muchas manos.\n\n## Mecanismo e ideas\nEl interés del libro no está en los zombis sino en cómo las sociedades humanas responden al colapso: la negación política, las cadenas logísticas rotas, las economías improvisadas, las decisiones militares (el Plan Redeker, el rediseño total del combate) que sacrifican a unos para salvar a la especie. La estructura de testimonios múltiples convierte la novela en un ensayo sobre resiliencia institucional, geopolítica y comportamiento social bajo estrés extremo. El zombi es el pretexto; el verdadero tema es la fragilidad y la capacidad de reconstrucción de la civilización, la ciencia y la sociedad puestas a prueba por una guerra total.\n\n## Notas relacionadas\n- [[concepts/colapso-civilizatorio]]\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/guerra-y-conflicto]]"
+    },
+    {
+      "id": "notes/fiction/2007-01-01_mistborn-well-of-ascension",
+      "kind": "fiction",
+      "label": "The Well of Ascension",
+      "authors": [
+        "Brandon Sanderson"
+      ],
+      "year": "2007",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "sistemas-y-reglas",
+        "magia-dura",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2007-01-01_mistborn-well-of-ascension.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nSegundo libro de Mistborn. Caído el Lord Ruler, lo difícil no es tomar el imperio sino gobernarlo. Elend Venture intenta sostener una república frágil mientras tres ejércitos rodean la ciudad y la niebla, antes inofensiva, empieza a comportarse de forma inquietante. Vin, ya alomántica experimentada, persigue la pista del Pozo de la Ascensión y una amenaza más profunda que cualquier asedio político.\n\n## Mecanismo e ideas\nEl libro convierte la política en un asedio: no hay una batalla sino un tablero de facciones, legitimidades y negociaciones donde el poder y la persuasión se ejercen con las mismas reglas legibles con que se ejerce la magia. Sanderson profundiza la alomancia, la magia dura del ejemplo de manual, añadiendo capas al sistema (nuevos usos de los metales, los límites de lo que un Mistborn puede y no puede hacer) sin romper nunca la coherencia previa. Esa disciplina, ampliar el sistema respetando sus propias reglas, es justo lo que a Luis le sostiene la nota máxima: el mundo funciona como un mecanismo, y las soluciones se ganan dentro de sus límites.\n\n## Notas relacionadas\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/magia-dura]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/saga-mistborn]]"
+    },
+    {
+      "id": "notes/fiction/2008-01-01_mistborn-hero-of-ages",
+      "kind": "fiction",
+      "label": "The Hero of Ages",
+      "authors": [
+        "Brandon Sanderson"
+      ],
+      "year": "2008",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "sistemas-y-reglas",
+        "magia-dura",
+        "mitologia-y-religion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2008-01-01_mistborn-hero-of-ages.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nCierre de la trilogía original de Mistborn. El mundo se cae a pedazos: la ceniza cubre el cielo, la niebla mata y una fuerza liberada al final del libro anterior empuja al planeta hacia su fin. Vin y Elend siguen las pistas dejadas por el Lord Ruler mientras intentan entender qué es en realidad lo que amenaza con destruirlo todo, y qué papel les toca en una profecía que quizá fue manipulada desde el principio.\n\n## Mecanismo e ideas\nAquí el sistema mágico deja de ser solo un conjunto de herramientas y revela su lógica cosmológica: alomancia, feruquimia y hemalurgia resultan ser tres caras de una misma física metafísica, y las reglas que el lector aprendió a usar en escenas de acción se descubren piezas de la explicación última del mundo. A Luis le gana el cinco precisamente por eso, porque el desenlace no llega por revelación arbitraria sino por deducción: todo lo sembrado como regla legible se paga como consecuencia. La mitología y la religión del mundo, sus dioses, su profecía y su escatura, no son adorno sino parte del mecanismo, y el cierre funciona porque el sistema entero encaja.\n\n## Notas relacionadas\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/magia-dura]]\n- [[concepts/mitologia-y-religion]]\n- [[notes/fiction/saga-mistborn]]"
+    },
+    {
+      "id": "notes/fiction/2008-01-01_the-dark-forest",
+      "kind": "fiction",
+      "label": "The Dark Forest",
+      "authors": [
+        "Liu Cixin"
+      ],
+      "year": "2008",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "teoria-de-juegos",
+        "sistemas-y-reglas",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2008-01-01_the-dark-forest.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nSegundo libro de Remembrance of Earth's Past. Con la flota trisolariana en camino y sus sofones espiando cada laboratorio y cada conversación de la Tierra, la humanidad monta una defensa peculiar: los Wallfacers, cuatro estrategas a los que se concede poder ilimitado y a los que nadie puede pedir explicaciones, porque el único lugar donde el enemigo no puede leerlos es dentro de sus propias cabezas. Alrededor de Luo Ji, un astrónomo que no pidió el cargo, la novela avanza a lo largo de siglos hasta una respuesta a por qué el cosmos permanece en silencio.\n\n## Mecanismo e ideas\nEl núcleo es la hipótesis del bosque oscuro, y funciona exactamente como a Luis le gusta que funcione una idea: como un teorema. De dos axiomas mínimos (toda civilización quiere sobrevivir, y la materia del universo es finita) más dos conceptos, la cadena de sospecha y la explosión tecnológica, Liu deduce que el universo es un bosque a oscuras donde todo cazador que revela su posición es eliminado por otro que no puede permitirse confiar. Es teoría de juegos aplicada a la paradoja de Fermi: el primer contacto no es diálogo sino un problema de primer golpe bajo incertidumbre irreductible sobre las intenciones ajenas. El sistema es coherente y despiadado, se sostiene con sus propias reglas, y bajo él corre un comentario sobre ciencia y sociedad, sobre cómo una especie diseña instituciones para pensar aquello que ni siquiera puede decir en voz alta.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/teoria-de-juegos]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/ciencia-y-sociedad]]\n- [[notes/fiction/saga-remembrance-of-earths-past]]"
+    },
+    {
+      "id": "notes/fiction/2008-01-01_the-hunger-games",
+      "kind": "fiction",
+      "label": "The Hunger Games",
+      "authors": [
+        "Suzanne Collins"
+      ],
+      "year": "2008",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "rebelion-y-revolucion",
+        "mayoria-de-edad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2008-01-01_the-hunger-games.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de la saga. En la nación de Panem, el Capitolio somete a doce distritos empobrecidos obligándolos cada año a enviar a dos jóvenes a los Juegos del Hambre, un combate a muerte televisado como espectáculo de control. Katniss Everdeen se ofrece como tributo para salvar a su hermana y debe sobrevivir a la arena mientras aprende que su supervivencia misma puede convertirse en un gesto político.\n\n## Mecanismo e ideas\nEl libro es una distopía sobre el poder del espectáculo: el Capitolio gobierna no solo con fuerza sino con narrativa televisiva, y los Juegos son un instrumento de miedo y sumisión. Es también un relato de mayoría de edad, con Katniss pasando de proveedora silenciosa a figura pública que aprende a leer y manipular la cámara. El germen de la rebelión aparece justo ahí: un acto de desafío individual —negarse a jugar según las reglas del Capitolio— se convierte en chispa simbólica que trasciende la arena.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/rebelion-y-revolucion]]\n- [[concepts/mayoria-de-edad]]\n- [[notes/fiction/saga-hunger-games]]"
     },
     {
       "id": "notes/fiction/2008-01-01_three-body-problem",
@@ -14721,6 +15321,591 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Sinopsis\nPrimer libro de la trilogía Remembrance of Earth's Past. Arranca en la Revolución Cultural china y desde ahí abre un misterio que enlaza a una física desencantada, un videojuego imposible y una señal venida de un sistema estelar de tres soles. El problema físico de los tres cuerpos, sin solución estable, es la metáfora y el motor: un mundo cuyo entorno es caótico e impredecible produce una civilización con una lógica de supervivencia distinta a la humana.\n\n## Mecanismo e ideas\nEs el arquetipo de lo que a Luis le gana la nota máxima: la física manda, es coherente y despiadada, y de ella se deducen las consecuencias. El libro no pide suspender la incredulidad, pide seguir un razonamiento. El primer contacto no es un encuentro sentimental sino un problema de comunicación, verificación y estrategia entre civilizaciones que no pueden confiar entre sí, semilla de la hipótesis del bosque oscuro que estalla en el segundo libro. Bajo la trama corre además un comentario sobre la ciencia y la sociedad, cómo una civilización interpreta y traiciona su propio conocimiento.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/teoria-de-juegos]]\n- [[concepts/ciencia-y-sociedad]]\n- [[notes/fiction/saga-remembrance-of-earths-past]]"
     },
     {
+      "id": "notes/fiction/2009-01-01_catching-fire",
+      "kind": "fiction",
+      "label": "Catching Fire",
+      "authors": [
+        "Suzanne Collins"
+      ],
+      "year": "2009",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "rebelion-y-revolucion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2009-01-01_catching-fire.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nSegundo libro de la saga. Tras sobrevivir a los Juegos, Katniss se convierte, sin quererlo, en símbolo de resistencia contra el Capitolio, cuyo desafío empieza a encender a los distritos. El presidente Snow responde con represión y con una edición especial de los Juegos que devuelve a los vencedores a la arena, buscando neutralizar a la chispa antes de que prenda del todo.\n\n## Mecanismo e ideas\nEl libro extiende la distopía del control mostrando cómo el régimen gestiona los símbolos: el Capitolio intenta domesticar la imagen de Katniss y, al fracasar, recurre a la fuerza. El eje se desplaza del espectáculo individual a la rebelión en gestación: los distritos se agitan, aparecen redes clandestinas y la arena misma se vuelve escenario de conspiración. Es el puente entre la supervivencia personal y el levantamiento colectivo que estallará después.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/rebelion-y-revolucion]]\n- [[notes/fiction/saga-hunger-games]]"
+    },
+    {
+      "id": "notes/fiction/2010-01-01_deaths-end",
+      "kind": "fiction",
+      "label": "Death's End",
+      "authors": [
+        "Liu Cixin"
+      ],
+      "year": "2010",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "sistemas-y-reglas",
+        "primer-contacto",
+        "colapso-civilizatorio",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2010-01-01_deaths-end.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nCierre de Remembrance of Earth's Past. Cheng Xin, ingeniera de la era de la Crisis, despierta en distintos momentos de un futuro que se estira a lo largo de eras y termina abarcando la vida entera del universo. Bajo el equilibrio precario del bosque oscuro, sus decisiones, tomadas casi siempre desde la compasión, deciden el destino de mundos enteros. La novela va ampliando la escala hasta que la historia humana se vuelve un episodio menor dentro de una física que no negocia.\n\n## Mecanismo e ideas\nEs el libro donde la física es literalmente el destino. Liu toma la idea de que las leyes del universo no son un decorado sino un arma: se puede rebajar la velocidad de la luz, se puede colapsar una región del espacio de tres a dos dimensiones, y esas jugadas son movimientos de guerra entre civilizaciones que llevan haciéndolos tanto tiempo que han degradado la estructura misma del cosmos. A Luis esto le gana el cinco porque el colapso, tanto el de las civilizaciones como el dimensional del universo entero, se deduce de reglas explícitas y coherentes, no de un giro emocional. El primer contacto reaparece a escala cósmica, ya no como encuentro sino como depredación silenciosa, y el conjunto es un largo comentario sobre ciencia y sociedad, sobre cómo la moral humana se comporta cuando la escala del problema la desborda por completo.\n\n## Notas relacionadas\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/primer-contacto]]\n- [[concepts/colapso-civilizatorio]]\n- [[concepts/ciencia-y-sociedad]]\n- [[notes/fiction/saga-remembrance-of-earths-past]]"
+    },
+    {
+      "id": "notes/fiction/2010-01-01_mockingjay",
+      "kind": "fiction",
+      "label": "Mockingjay",
+      "authors": [
+        "Suzanne Collins"
+      ],
+      "year": "2010",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "rebelion-y-revolucion",
+        "guerra-y-conflicto",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2010-01-01_mockingjay.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nCierre de la trilogía. Con los distritos en guerra abierta contra el Capitolio, Katniss acepta convertirse en el \"Sinsajo\", el rostro propagandístico de la rebelión liderada desde el Distrito 13. El libro sigue el conflicto total y sus costos, mostrando que el bando rebelde también fabrica imágenes, sacrifica personas y toma decisiones moralmente turbias en nombre de la victoria.\n\n## Mecanismo e ideas\nMockingjay es el libro de la guerra y de la propaganda: el poder y la persuasión se vuelven armas explícitas, con ambos bandos produciendo mensajes para movilizar y manipular. La rebelión deja de ser romántica y se muestra como maquinaria política, con líderes dispuestos a usar a Katniss igual que el Capitolio la usó. Collins cierra insistiendo en el costo humano del conflicto y en la difícil frontera entre liberación y una nueva forma de control.\n\n## Notas relacionadas\n- [[concepts/rebelion-y-revolucion]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/saga-hunger-games]]"
+    },
+    {
+      "id": "notes/fiction/2011-01-01_butcher-of-anderson-station",
+      "kind": "fiction",
+      "label": "The Butcher of Anderson Station",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2011",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "guerra-y-conflicto",
+        "rebelion-y-revolucion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2011-01-01_butcher-of-anderson-station.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nNovella que cuenta el origen de Fred Johnson: cómo un coronel de la Tierra reprimió una revuelta en la estación Anderson matando a más de un centenar de cinturianos, y cómo esa masacre lo convirtió, por vergüenza y expiación, en líder de la Alianza de Planetas Exteriores (OPA).\n\n## Mecanismo e ideas\nPieza breve y de personaje: muestra la guerra desde el lado del verdugo y cómo una atrocidad militar se transforma en conciencia política. El apodo que da título es la carga que Johnson arrastra en la saga principal.\n\n## Notas relacionadas\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/rebelion-y-revolucion]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2011-01-01_divergent",
+      "kind": "fiction",
+      "label": "Divergent",
+      "authors": [
+        "Veronica Roth"
+      ],
+      "year": "2011",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "mayoria-de-edad",
+        "rebelion-y-revolucion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2011-01-01_divergent.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de la saga. En una Chicago post-apocalíptica, la sociedad se organiza en cinco facciones, cada una dedicada a una virtud (valentía, altruismo, honestidad, sabiduría, amabilidad), y a los dieciséis años cada joven elige a cuál pertenecer para siempre. Beatrice \"Tris\" Prior descubre que es \"divergente\": no encaja limpiamente en una sola facción, una condición peligrosa que el sistema teme y persigue.\n\n## Mecanismo e ideas\nEl libro es una distopía construida sobre una idea de ingeniería social: dividir a la humanidad por virtudes para eliminar el conflicto, un sistema con reglas rígidas de pertenencia que en realidad genera control y exclusión. Es también un relato de mayoría de edad, con la elección de facción como metáfora del paso a la adultez y de la definición de la identidad. La divergencia de Tris —su negativa a caber en una sola categoría— siembra la semilla de la rebelión contra un orden que castiga precisamente a quienes no pueden ser reducidos a una etiqueta.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/mayoria-de-edad]]\n- [[concepts/rebelion-y-revolucion]]\n- [[notes/fiction/saga-divergent]]"
+    },
+    {
+      "id": "notes/fiction/2011-01-01_leviathan-wakes",
+      "kind": "fiction",
+      "label": "Leviathan Wakes",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2011",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "guerra-y-conflicto",
+        "poder-y-persuasion",
+        "colapso-civilizatorio"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2011-01-01_leviathan-wakes.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de The Expanse. Un sistema solar ya colonizado —Tierra, Marte y el Cinturón— vive al borde de la guerra por recursos y agravios acumulados cuando el destructor de hielo Canterbury es aniquilado y su superviviente, el oficial Jim Holden, difunde la evidencia al sistema entero. En paralelo, el detective Miller busca a una chica desaparecida, Julie Mao, en la estación Ceres. Las dos tramas convergen en Eros, donde una sustancia alienígena —la protomolécula— se libera sobre una población civil como si fuera un experimento.\n\n## Mecanismo e ideas\nLa novela funde la space opera política con la novela negra: el thriller detectivesco de Miller y el drama de tripulación de Holden se cruzan sobre un trasfondo de física de naves plausible (aceleración, gravedad, delta-v). El motor de la trama es doble. Por un lado, un primer contacto que no es diálogo sino contaminación: la protomolécula no negocia, reprograma la materia viva. Por otro, una tensión geopolítica a tres bandas donde una sola filtración de información —el estilo temerario de Holden de hacerlo todo público— basta para empujar a las potencias a la guerra. La persuasión, la propaganda y el control del relato pesan tanto como las armas.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/colapso-civilizatorio]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2011-01-01_mistborn-alloy-of-law",
+      "kind": "fiction",
+      "label": "The Alloy of Law",
+      "authors": [
+        "Brandon Sanderson"
+      ],
+      "year": "2011",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "sistemas-y-reglas",
+        "magia-dura"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2011-01-01_mistborn-alloy-of-law.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nSalto de tres siglos respecto a la trilogía original: el mundo de Mistborn ha entrado en una era industrial, con ferrocarriles, revólveres y periódicos, y los antiguos poderes viven ahora como leyenda y apellido. Waxillium Ladrian, exlanzaley de las tierras salvajes reconvertido a caballero urbano, se ve arrastrado de vuelta a la acción por una serie de robos y secuestros. El tono es más ligero, con aire de western y de novela detectivesca.\n\n## Mecanismo e ideas\nEl interés del libro está en trasladar el mismo sistema mágico a un mundo nuevo: la magia dura de la alomancia y la feruquimia se combina con la pólvora y la tecnología, y la gracia está en ver cómo unas reglas ya conocidas producen tácticas distintas cuando el escenario cambia (el \"Twinborn\" que empuja monedas y ajusta su propio peso convierte un tiroteo en un problema de física legible). Es una entrada más ligera y de menor ambición que la trilogía, de ahí el cuatro, pero mantiene lo que a Luis le importa: el mundo sigue funcionando como un mecanismo de reglas coherentes, aun cuando la historia sea más un divertimento que una culminación.\n\n## Notas relacionadas\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/magia-dura]]\n- [[notes/fiction/saga-mistborn]]"
+    },
+    {
+      "id": "notes/fiction/2011-01-01_ready-player-one",
+      "kind": "fiction",
+      "label": "Ready Player One",
+      "authors": [
+        "Ernest Cline"
+      ],
+      "year": "2011",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "realidades-multiples",
+        "distopia",
+        "sistemas-y-reglas"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2011-01-01_ready-player-one.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nEn una Tierra de 2045 empobrecida por la crisis energética y el colapso económico, la humanidad escapa de la miseria conectándose a OASIS, un universo de realidad virtual que lo abarca todo: escuela, trabajo, ocio y economía. Cuando su creador, James Halliday, muere, deja su fortuna y el control de OASIS al primero que resuelva una cacería de huevos de pascua sembrada de acertijos sobre la cultura pop de los años ochenta. El adolescente Wade Watts se lanza a la caza junto a otros \"gunters\", enfrentado a una corporación que quiere apoderarse del mundo virtual para explotarlo.\n\n## Mecanismo e ideas\nOASIS es una realidad múltiple gobernada por reglas de juego explícitas: llaves, puertas, puntuaciones y mundos anidados que Halliday diseñó como un enorme sistema de acertijos, y la trama avanza resolviendo cada nivel según sus propias leyes. El contraste central es distópico: mientras el mundo físico se derrumba en pobreza y desigualdad, la gente prefiere habitar una segunda realidad simulada más justa —o al menos más nivelada— que la primera. La novela plantea, sin resolverla del todo, la tensión entre el escape virtual y la vida real, y el peligro de que un solo actor corporativo controle el mundo donde todos deciden vivir.\n\n## Notas relacionadas\n- [[concepts/realidades-multiples]]\n- [[concepts/distopia]]\n- [[concepts/sistemas-y-reglas]]"
+    },
+    {
+      "id": "notes/fiction/2012-01-01_calibans-war",
+      "kind": "fiction",
+      "label": "Caliban's War",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2012",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "guerra-y-conflicto",
+        "poder-y-persuasion",
+        "ecologia-y-terraformacion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2012-01-01_calibans-war.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nSegundo libro de la saga. Tras Eros, la protomolécula reaparece convertida en arma: un soldado híbrido, inmune al vacío, masacra a marines en Ganímedes, el granero agrícola del sistema exterior, y detona una nueva crisis entre la Tierra y Marte. La trama se reparte entre el marine marciano Bobbie Draper, la política terrícola Chrisjen Avasarala, el botánico Prax que busca a su hija desaparecida y la tripulación de la Rocinante.\n\n## Mecanismo e ideas\nEs la entrega donde The Expanse afina su mejor mezcla: intriga política de alto nivel y acción militar sobre un problema técnico concreto. Ganímedes importa porque es infraestructura de habitabilidad —espejos, hidroponía, ecología cerrada— y su colapso amenaza el suministro de comida de decenas de millones; la terraformación y la fragilidad de los ecosistemas artificiales son aquí materia de guerra, no telón de fondo. La protomolécula deja de ser plaga para volverse tecnología militar, y el conflicto se libra tanto en las salas de reunión de Avasarala, pura persuasión y maniobra, como en el vacío. El primer contacto se vuelve carrera armamentística: quién controla el arma alienígena.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/ecologia-y-terraformacion]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2012-01-01_drive",
+      "kind": "fiction",
+      "label": "Drive",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2012",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "ciencia-y-sociedad",
+        "ecologia-y-terraformacion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2012-01-01_drive.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nNovella que narra la invención del motor Epstein: Solomon Epstein, un ingeniero, prueba una modificación de su nave y descubre —a costa de su propia vida— un motor de fusión eficiente que hará posible la colonización del sistema solar.\n\n## Mecanismo e ideas\nEs el mito fundacional tecnológico de toda la saga: una sola innovación de propulsión abre el sistema solar entero a la expansión humana, y con ello a la habitabilidad de mundos y estaciones lejanas. La ironía central es cómo una hazaña científica que cambia la civilización es también una sentencia de muerte accidental para su autor.\n\n## Notas relacionadas\n- [[concepts/ciencia-y-sociedad]]\n- [[concepts/ecologia-y-terraformacion]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2012-01-01_gods-of-risk",
+      "kind": "fiction",
+      "label": "Gods of Risk",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2012",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "mayoria-de-edad",
+        "ecologia-y-terraformacion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2012-01-01_gods-of-risk.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nNovella ambientada en Marte, protagonizada por David Draper, sobrino adolescente de Bobbie, un químico tímido que se enreda con una red de drogas mientras su tía atraviesa su propia crisis. Transcurre en el trasfondo del gran proyecto marciano de terraformación.\n\n## Mecanismo e ideas\nSe queda deliberadamente en lo íntimo y adolescente —el miedo, la primera valentía, la torpeza social— y por eso rinde menos que las novelas: el mecanismo aquí es emocional, no político ni científico, y la ambición marciana de hacer habitable el planeta funciona solo como decorado. Correcta y menor, de ahí el 3.\n\n## Notas relacionadas\n- [[concepts/mayoria-de-edad]]\n- [[concepts/ecologia-y-terraformacion]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2012-01-01_insurgent",
+      "kind": "fiction",
+      "label": "Insurgent",
+      "authors": [
+        "Veronica Roth"
+      ],
+      "year": "2012",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "rebelion-y-revolucion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2012-01-01_insurgent.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nSegundo libro de la saga. Tras el ataque que resquebraja el orden de las facciones, Tris y sus aliados quedan atrapados en un conflicto abierto entre bandos que buscan controlar o refundar el sistema. El libro sigue las alianzas cambiantes entre facciones y \"sin facción\" mientras se persigue una verdad oculta sobre el origen y el propósito de esa sociedad.\n\n## Mecanismo e ideas\nInsurgent lleva la distopía de la estabilidad aparente al colapso: el sistema de facciones se revela frágil y manipulable, y la rebelión se convierte en una lucha de facciones enfrentadas por definir el futuro. El foco está en cómo se desmorona un orden social diseñado para eliminar el conflicto y en cómo la revolución, lejos de ser un bloque unido, es un campo de tensiones internas, lealtades divididas y verdades incómodas que ponen en cuestión los cimientos mismos del mundo.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/rebelion-y-revolucion]]\n- [[notes/fiction/saga-divergent]]"
+    },
+    {
+      "id": "notes/fiction/2012-01-01_wool-omnibus",
+      "kind": "fiction",
+      "label": "Wool Omnibus",
+      "authors": [
+        "Hugh Howey"
+      ],
+      "year": "2012",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "colapso-civilizatorio",
+        "sistemas-y-reglas"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2012-01-01_wool-omnibus.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nLo que queda de la humanidad vive encerrado en un silo subterráneo de más de cien pisos, tras un colapso que dejó la superficie convertida en un páramo tóxico. La regla que ordena esa sociedad es tan simple como brutal: expresar en voz alta el deseo de salir es una sentencia de muerte, porque quien lo pide es enviado afuera a \"limpiar\" los sensores del silo y muere en el intento. Cuando el sheriff y luego la ingeniera Juliette empiezan a tirar del hilo de por qué las cosas son como son, destapan las mentiras fundacionales sobre las que se sostiene todo el mundo cerrado.\n\n## Mecanismo e ideas\nEl silo es un sistema social diseñado con reglas explícitas —la limpieza, los niveles, la prohibición del conocimiento sobre el exterior— y la novela funciona deduciendo las consecuencias de esas reglas y exponiendo la ingeniería del control que las mantiene. La distopía no es decorado sino argumento: el poder se conserva administrando el miedo a un afuera del que nadie puede volver. Por debajo late la premisa del colapso civilizatorio: una humanidad reducida a un tubo vertical que ha olvidado —o le han hecho olvidar— cómo llegó ahí, y para la que la verdad es más peligrosa que el veneno de la superficie.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/colapso-civilizatorio]]\n- [[concepts/sistemas-y-reglas]]"
+    },
+    {
+      "id": "notes/fiction/2013-01-01_abaddons-gate",
+      "kind": "fiction",
+      "label": "Abaddon's Gate",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2013",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "mitologia-y-religion",
+        "colapso-civilizatorio",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2013-01-01_abaddons-gate.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nTercer libro. La protomolécula, tras acumular masa, construye más allá de la órbita de Urano un gigantesco Anillo: una puerta hacia una zona lenta donde las leyes físicas conocidas —velocidad, inercia— dejan de valer. Una flota combinada de la Tierra, Marte y el Cinturón se adentra en el Anillo, junto a la pastora Anna y a un hombre obsesionado con vengarse de Holden, mientras la estructura alienígena decide si la humanidad es una amenaza que conviene borrar.\n\n## Mecanismo e ideas\nEl libro traslada el primer contacto a su escala cosmológica: el Anillo no es un ser con quien hablar sino una infraestructura de una civilización extinta, y cruzarlo pone a prueba a la humanidad ante algo indiferente a su supervivencia. Sobre ese umbral, Corey monta un estudio de cómo reaccionan las personas ante lo inconmensurable —el fervor religioso de Anna frente al motín, el miedo, la política de la flota— y roza el colapso: dentro de la zona lenta un solo error de mando puede matar a miles. La religión y el mito aparecen como formas legítimas de dar sentido a lo que la ciencia aún no explica.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/mitologia-y-religion]]\n- [[concepts/colapso-civilizatorio]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2013-01-01_the-ocean-at-the-end-of-the-lane",
+      "kind": "fiction",
+      "label": "The Ocean at the End of the Lane",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "year": "2013",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "mitologia-y-religion",
+        "mayoria-de-edad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2013-01-01_the-ocean-at-the-end-of-the-lane.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nUn hombre vuelve a su pueblo natal para un funeral y, sentado junto a un estanque en la granja de los Hempstock, recupera de golpe recuerdos enterrados de cuando tenía siete años. Aquella infancia estuvo marcada por una irrupción de lo sobrenatural: una fuerza antigua que se filtró en su mundo doméstico y una vecina niña, Lettie Hempstock, que insistía en que el estanque del fondo era en realidad un océano. La novela reconstruye ese episodio desde la memoria adulta, con la frontera entre lo recordado y lo mítico deliberadamente borrosa.\n\n## Mecanismo e ideas\nEl libro trabaja lo sobrenatural desde el registro del mito y del cuento antiguo más que desde reglas explícitas: las Hempstock son figuras arquetípicas —doncella, madre, anciana— que encarnan poderes cósmicos apenas insinuados, y el terror surge de lo que no se explica. Sobre ese fondo, el corazón emocional es la mirada del niño frente a un mundo adulto que no controla y que a veces es peligroso; la novela es tanto una fábula sobre fuerzas primordiales como un relato sobre la vulnerabilidad, la pérdida de la inocencia y lo que sobrevive del yo infantil en el adulto que recuerda.\n\n## Notas relacionadas\n- [[concepts/mitologia-y-religion]]\n- [[concepts/mayoria-de-edad]]"
+    },
+    {
+      "id": "notes/fiction/2014-01-01_cibola-burn",
+      "kind": "fiction",
+      "label": "Cibola Burn",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2014",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "ecologia-y-terraformacion",
+        "guerra-y-conflicto",
+        "colapso-civilizatorio"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2014-01-01_cibola-burn.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nCuarto libro. Con las mil puertas del Anillo abiertas, un grupo de refugiados cinturianos coloniza ilegalmente Ilus, un planeta al otro lado de una de ellas, justo cuando llega una corporación terrícola con licencia oficial para explotarlo. El choque entre colonos y empresa deriva en violencia, y bajo sus pies la maquinaria durmiente de la civilización que construyó las puertas empieza a despertar: reactores, defensas y plagas de un mundo que no fue hecho para humanos.\n\n## Mecanismo e ideas\nEs la novela de la colonización y sus costes. El conflicto humano —quién tiene derecho a un mundo nuevo, colonos frente a corporación— se libra sobre un planeta cuya habitabilidad es una ilusión: la biología local es incompatible, los organismos alienígenas ciegan a la gente, y la tecnología dormida amenaza con matar a todos. Aquí la terraformación y la ecología no son promesa sino trampa, y el primer contacto es con las ruinas activas de una civilización desaparecida. El fantasma del colapso —el de los constructores de las puertas— se proyecta como advertencia sobre la expansión humana.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/ecologia-y-terraformacion]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/colapso-civilizatorio]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2014-01-01_red-rising",
+      "kind": "fiction",
+      "label": "Red Rising",
+      "authors": [
+        "Pierce Brown"
+      ],
+      "year": "2014",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "rebelion-y-revolucion",
+        "distopia",
+        "poder-y-persuasion",
+        "mayoria-de-edad",
+        "guerra-y-conflicto"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2014-01-01_red-rising.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de la saga. En un Marte terraformado, la humanidad está organizada en una rígida sociedad de castas identificadas por colores, con los Golds en la cúspide y los Reds en el fondo como mano de obra. Darrow, un minero Red que cree estar haciendo posible la futura colonización, descubre que el planeta lleva generaciones habitable y que su gente vive esclavizada bajo una mentira. Tras una tragedia personal, es reclutado por una resistencia que lo transforma físicamente en un Gold para infiltrarlo en la élite y hacerla caer desde dentro.\n\n## Mecanismo e ideas\nEl libro funciona como una distopía de castas llevada al extremo: el color no es metáfora sino arquitectura social explícita, con reglas de movilidad, privilegio y castigo que definen cada interacción. Sobre esa estructura, Brown monta un relato de mayoría de edad —Darrow pasa de minero ingenuo a agente político— y una máquina de poder y persuasión, donde ascender significa aprender a manipular, aliarse y traicionar dentro de la Institute. La violencia y el conflicto abierto no son adorno: son el precio de la rebelión contra un orden que se presenta como natural e inmutable.\n\n## Notas relacionadas\n- [[concepts/rebelion-y-revolucion]]\n- [[concepts/distopia]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/mayoria-de-edad]]\n- [[concepts/guerra-y-conflicto]]\n- [[notes/fiction/saga-red-rising]]"
+    },
+    {
+      "id": "notes/fiction/2014-01-01_the-churn",
+      "kind": "fiction",
+      "label": "The Churn",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2014",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2014-01-01_the-churn.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nNovella que revela el pasado de Amos Burton en los bajos fondos de una Baltimore terrícola: cómo un joven llamado Timothy sobrevive en una economía criminal cuando una purga policial —\"the churn\"— arrasa las jerarquías del hampa, y cómo termina tomando la identidad con la que lo conoceremos en la Rocinante.\n\n## Mecanismo e ideas\nRetrato de la Tierra distópica del Expanse: millones bajo asistencia básica, sin trabajo ni futuro, donde la única movilidad es el crimen. El mecanismo es la lección moral que forja a Amos: leer el poder con frialdad, saber quién manda y actuar sin ilusiones. Explica al personaje más querido de la saga.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2015-01-01_golden-son",
+      "kind": "fiction",
+      "label": "Golden Son",
+      "authors": [
+        "Pierce Brown"
+      ],
+      "year": "2015",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "poder-y-persuasion",
+        "guerra-y-conflicto",
+        "rebelion-y-revolucion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2015-01-01_golden-son.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nSegundo libro de Red Rising. Ya consolidado como Gold, Darrow se mueve entre las grandes casas de la Sociedad, tejiendo alianzas y librando batallas espaciales para debilitar el orden desde su cúpula. La trama abandona el escenario cerrado del primer libro y se abre a una guerra política a escala del sistema solar, donde cada favor, matrimonio y flota importa.\n\n## Mecanismo e ideas\nAquí el motor es la intriga política: el poder y la persuasión se vuelven el campo de batalla principal, con lealtades que cambian y traiciones que se cobran caro. Brown escala el conflicto a guerra abierta entre casas y flotas, manteniendo la lógica de la rebelión encubierta: Darrow debe ganar las guerras de los Golds mientras prepara la caída del sistema que lo hizo. El libro es una escalada continua de apuestas donde la manipulación y la violencia son dos caras de la misma estrategia.\n\n## Notas relacionadas\n- [[concepts/poder-y-persuasion]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/rebelion-y-revolucion]]\n- [[notes/fiction/saga-red-rising]]"
+    },
+    {
+      "id": "notes/fiction/2015-01-01_nemesis-games",
+      "kind": "fiction",
+      "label": "Nemesis Games",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2015",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "rebelion-y-revolucion",
+        "guerra-y-conflicto",
+        "poder-y-persuasion",
+        "colapso-civilizatorio"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2015-01-01_nemesis-games.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nQuinto libro. Con la Rocinante en reparación, la tripulación se dispersa y cada uno vuelve a su pasado: Naomi hacia el hijo y el amante que dejó atrás, Amos a la Tierra, Alex a Marte. Ese regreso los coloca en primera fila de una conspiración cinturiana: la Free Navy de Marco Inaros, armada con naves marcianas robadas y sigilo, lanza un ataque de asteroides contra la Tierra que mata a miles de millones y reordena el poder del sistema solar.\n\n## Mecanismo e ideas\nEs el giro más oscuro de la saga y su thriller más personal: al repartir a la tripulación, los autores convierten una trama política en cuatro historias íntimas que convergen en la catástrofe. El motor es una revolución cinturiana que canaliza décadas de agravio colonial en terrorismo a escala planetaria; el bombardeo de la Tierra es un acto de colapso civilizatorio deliberado, y la persuasión carismática de Inaros —cómo un líder convierte el resentimiento en ejército— es tan central como las armas. La rebelión de los oprimidos se muestra sin idealizarla: justa en su origen, monstruosa en sus medios.\n\n## Notas relacionadas\n- [[concepts/rebelion-y-revolucion]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/colapso-civilizatorio]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2015-01-01_the-vital-abyss",
+      "kind": "fiction",
+      "label": "The Vital Abyss",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2015",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2015-01-01_the-vital-abyss.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nNovella narrada por uno de los científicos de Protogen encerrados tras los sucesos de Eros. Reconstruye cómo un investigador brillante llegó a colaborar en el experimento que soltó la protomolécula sobre una estación habitada, matando a más de cien mil personas para estudiar al alienígena.\n\n## Mecanismo e ideas\nEs la anatomía de una atrocidad científica: cómo la ambición de conocimiento, el prestigio y una manipulación neuroquímica que suprime la empatía convierten a hombres cultos en verdugos. El primer contacto se cuenta desde el lado del que decide sacrificar seres humanos por datos, y el resultado es un retrato incómodo de la ciencia sin frenos morales.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/ciencia-y-sociedad]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2016-01-01_babylons-ashes",
+      "kind": "fiction",
+      "label": "Babylon's Ashes",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2016",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "rebelion-y-revolucion",
+        "guerra-y-conflicto",
+        "poder-y-persuasion",
+        "colapso-civilizatorio"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2016-01-01_babylons-ashes.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nSexto libro, cierre del arco de la Free Navy. Con la Tierra devastada por el bombardeo, Marco Inaros gobierna el Cinturón como caudillo revolucionario y controla las puertas del Anillo. Una coalición precaria de la Tierra, Marte, la OPA y la tripulación de la Rocinante se organiza para derrotarlo, mientras dentro del propio movimiento cinturiano crecen las grietas entre quienes creyeron en la causa y quienes solo ven el culto de personalidad de su líder.\n\n## Mecanismo e ideas\nLa novela desmonta la revolución que la anterior encendió: muestra cómo un movimiento de liberación legítimo degenera en tiranía cuando se organiza alrededor de un hombre, y cómo la persuasión que armó a Inaros se vuelve contra él cuando los suyos ven las consecuencias. Es un estudio de poder y contrapoder narrado desde una multitud de puntos de vista —soldados, políticos, desertores— sobre el trasfondo de una humanidad al borde del colapso económico y alimentario. La guerra se gana menos con batallas que con la reconstrucción de una legitimidad compartida.\n\n## Notas relacionadas\n- [[concepts/rebelion-y-revolucion]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/colapso-civilizatorio]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2016-01-01_dark-matter",
+      "kind": "fiction",
+      "label": "Dark Matter",
+      "authors": [
+        "Blake Crouch"
+      ],
+      "year": "2016",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "realidades-multiples",
+        "sistemas-y-reglas",
+        "libre-albedrio"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2016-01-01_dark-matter.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nJason Dessen, un profesor de física que cambió una carrera brillante por la vida familiar, es secuestrado una noche por un desconocido enmascarado que resulta ser una versión alterna de sí mismo. Al despertar, su vida ha sido reemplazada: la esposa y el hijo que amaba ya no existen en su realidad, y en su lugar encuentra un laboratorio donde él es el inventor de una caja capaz de abrir puertas a universos paralelos. El resto de la novela es una carrera desesperada de Jason por atravesar el multiverso de vuelta hacia la única versión de su familia que le pertenece.\n\n## Mecanismo e ideas\nEl motor es la superposición cuántica llevada a escala macroscópica: la caja convierte al viajero en un gato de Schrödinger que colapsa, con cada elección, en el mundo que su estado mental invoca. El sistema es consistente y sus reglas gobiernan la trama —la caja responde a la intención del observador, y de esa regla se deducen todas las complicaciones, incluido el enjambre de Jasons alternativos que compiten por el mismo hogar. Bajo la persecución late una pregunta sobre el libre albedrío: cada decisión no tomada engendra un mundo entero, y la identidad se vuelve la suma frágil de los caminos que uno sí eligió.\n\n## Notas relacionadas\n- [[concepts/realidades-multiples]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/libre-albedrio]]"
+    },
+    {
+      "id": "notes/fiction/2016-01-01_morning-star",
+      "kind": "fiction",
+      "label": "Morning Star",
+      "authors": [
+        "Pierce Brown"
+      ],
+      "year": "2016",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "rebelion-y-revolucion",
+        "guerra-y-conflicto",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2016-01-01_morning-star.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nCierre de la trilogía original de Red Rising. La infiltración da paso a la revolución abierta: Darrow reúne a los oprimidos de todos los colores y lanza una guerra total contra la Sociedad de los Golds. Lo que empezó como un plan secreto se convierte en un levantamiento a plena luz, con la esperanza y el costo humano de derrocar un orden milenario.\n\n## Mecanismo e ideas\nEl libro es la culminación de la rebelión: la máscara cae y el conflicto pasa a guerra declarada por el sistema solar. El poder y la persuasión siguen siendo decisivos —Darrow necesita convencer, unir y liderar tanto como combatir—, pero el eje es ahora la revolución como acto colectivo, con sus dilemas sobre qué se destruye y qué se construye después. Brown cierra el arco mostrando que romper una jerarquía tiene un precio y que la victoria militar no basta sin un proyecto político.\n\n## Notas relacionadas\n- [[concepts/rebelion-y-revolucion]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/saga-red-rising]]"
+    },
+    {
+      "id": "notes/fiction/2016-01-01_sleeping-giants",
+      "kind": "fiction",
+      "label": "Sleeping Giants",
+      "authors": [
+        "Sylvain Neuvel"
+      ],
+      "year": "2016",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "sistemas-y-reglas",
+        "guerra-y-conflicto"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2016-01-01_sleeping-giants.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrimer libro de los Themis Files. De niña, Rose Franklin cae en un hoyo y aterriza sobre una gigantesca mano metálica enterrada bajo tierra. Décadas después, ya como física, lidera un equipo secreto que rastrea por todo el planeta las piezas dispersas de un robot colosal de origen alienígena. La novela se cuenta enteramente a través de entrevistas, informes, bitácoras y transcripciones conducidas por un interrogador anónimo, y avanza a medida que el equipo ensambla la máquina, aprende a pilotarla y descubre para qué —y contra quién— fue construida.\n\n## Mecanismo e ideas\nLa estructura epistolar es también el método de investigación: el lector arma el rompecabezas al mismo ritmo que los personajes, deduciendo las reglas de una tecnología ajena a partir de fragmentos e interrogatorios. El primer contacto aquí es arqueológico y forense —no llegan los alienígenas, llega su artefacto— y la coherencia del sistema es lo que sostiene la tensión: cada pieza tiene una función, cada prueba revela una regla. Bajo la maravilla científica se abre pronto la cuestión geopolítica: una máquina de este poder es un arma, y su hallazgo desata un juego de conflicto entre potencias por controlarla.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/guerra-y-conflicto]]"
+    },
+    {
+      "id": "notes/fiction/2017-01-01_artemis",
+      "kind": "fiction",
+      "label": "Artemis",
+      "authors": [
+        "Andy Weir"
+      ],
+      "year": "2017",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "sistemas-y-reglas",
+        "ecologia-y-terraformacion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2017-01-01_artemis.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nJazz Bashara es una contrabandista de poca monta que sobrevive haciendo entregas ilícitas en Artemis, la primera y única ciudad de la Luna, un puñado de cúpulas selladas donde la economía, el aire y el agua están estrictamente racionados. Cuando acepta un trabajo de sabotaje industrial que promete pagarle lo suficiente para cambiar de vida, se ve arrastrada a una conspiración por el control del suministro que sostiene a la colonia entera, y su golpe callejero se convierte en una lucha por la supervivencia de la ciudad.\n\n## Mecanismo e ideas\nWeir vuelve a su terreno favorito —la logística de vivir fuera de la Tierra— y detalla con cuidado el sistema físico de Artemis: la baja gravedad, el metabolismo del aluminio y el oxígeno, la economía cerrada de una biosfera artificial que hay que mantener terraformada dentro de sus cúpulas. Aun así, la novela corre más por su trama de heist y su protagonista lenguaraz que por la coherencia rigurosa del entorno; las reglas del sistema quedan a menudo al servicio del ritmo del atraco en lugar de dictarlo. Es lo que la deja en un notable justo y no en el sobresaliente de sus otras obras: la ingeniería está, pero cede el volante a la aventura.\n\n## Notas relacionadas\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/ecologia-y-terraformacion]]"
+    },
+    {
+      "id": "notes/fiction/2017-01-01_strange-dogs",
+      "kind": "fiction",
+      "label": "Strange Dogs",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2017",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "mayoria-de-edad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2017-01-01_strange-dogs.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nNovella ambientada en Laconia, el mundo aislado donde el almirante Duarte funda su imperio con tecnología de los constructores de las puertas. Cara, una niña colona, descubre que los \"perros\" alienígenas del planeta pueden reparar y resucitar lo que muere, con consecuencias inquietantes cuando los usa con su hermano.\n\n## Mecanismo e ideas\nPrepara el terreno de la trilogía final: introduce Laconia y la biotecnología alienígena que reescribe la vida y la muerte. Contada desde la mirada de una niña, cruza la mayoría de edad —el primer encuentro con la pérdida— con un primer contacto doméstico e inquietante, donde el poder de deshacer la muerte llega sin manual de instrucciones.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/mayoria-de-edad]]\n- [[notes/fiction/saga-the-expanse]]"
+    },
+    {
+      "id": "notes/fiction/2018-01-01_an-absolutely-remarkable-thing",
+      "kind": "fiction",
+      "label": "An Absolutely Remarkable Thing",
+      "authors": [
+        "Hank Green"
+      ],
+      "year": "2018",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2018-01-01_an-absolutely-remarkable-thing.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nUna noche en Nueva York, April May se topa con una escultura robótica gigante plantada en plena calle y graba un video improvisado bautizándola \"Carl\". A la mañana siguiente descubre que estatuas idénticas han aparecido simultáneamente en decenas de ciudades del mundo, y que su video la ha convertido en la cara pública del fenómeno. La novela sigue el ascenso vertiginoso de April a la fama viral mientras la humanidad intenta descifrar qué son los Carls, de dónde vienen y qué quieren, en un enigma colectivo que se resuelve como un juego global de acertijos compartidos.\n\n## Mecanismo e ideas\nGreen usa el primer contacto no como invasión sino como espejo: los Carls apenas hacen nada, y lo interesante es cómo reacciona la sociedad conectada ante lo inexplicable. El libro es tanto sobre alienígenas como sobre la ciencia y la sociedad en la era de las redes: la fama instantánea, la polarización, la economía de la atención y el modo en que un misterio compartido puede unir o fracturar a millones de personas. April es una protagonista deliberadamente ambigua, y su relación tóxica con la celebridad es el verdadero objeto de estudio, con los robots gigantes como catalizador.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/ciencia-y-sociedad]]"
+    },
+    {
       "id": "notes/fiction/2019-01-01_exhalation-chiang",
       "kind": "fiction",
       "label": "Exhalation",
@@ -14743,6 +15928,152 @@ window.__ACADEMIC_BRAIN__ = {
       "content": "## Sinopsis\nColección de cuentos de Ted Chiang. Cada relato toma una premisa conceptual (un mundo cuyos habitantes respiran aire a presión y se disecan a sí mismos para entender su propia mente, un dispositivo que prueba que el libre albedrío no existe, puertas que comunican el pasado y el futuro) y la lleva hasta sus últimas consecuencias con rigor de teorema. Es la lectura en curso de Luis, con pasta dura ya encargada para coleccionarla.\n\n## Mecanismo e ideas\nChiang es ciencia ficción de ideas tan rigurosa como el Liu Cixin que enganchó a Luis: mecanismos impecables, mundos que funcionan como sistemas. La diferencia, y la trampa deliberada de esta recomendación, es que cada relato mete un golpe emocional por debajo de la línea de flotación, y demuestra que el rigor y el corazón no son enemigos. El libre albedrío es el hilo que Chiang deja abierto: hay una segunda máquina suya sobre el tema, todavía sin aparecer en la lectura de Luis, que conviene cobrar cuando llegue. Estrena además el cuento corto, formato casi ausente en su historial.\n\n## Ficha de lectura\n- Estado: leyendo. Valoración provisional 4.5.\n- Hilo abierto: la segunda máquina de Chiang sobre el libre albedrío. Retomar al cierre.\n\n## Notas relacionadas\n- [[concepts/libre-albedrio]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/filosofia]]\n- [[concepts/ciencia-y-sociedad]]"
     },
     {
+      "id": "notes/fiction/2019-01-01_recursion",
+      "kind": "fiction",
+      "label": "Recursion",
+      "authors": [
+        "Blake Crouch"
+      ],
+      "year": "2019",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "realidades-multiples",
+        "sistemas-y-reglas",
+        "libre-albedrio"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2019-01-01_recursion.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nUn detective de Nueva York investiga el Síndrome del Falso Recuerdo, una epidemia en la que la gente despierta con memorias vívidas de vidas enteras que nunca vivió. En paralelo, una neurocientífica desarrolla una silla capaz de grabar y reactivar recuerdos con la intención de combatir el Alzheimer. Las dos historias convergen cuando se descubre que la tecnología no solo revive recuerdos: al reactivar uno con suficiente carga, reescribe la línea temporal y devuelve a la persona al momento exacto de esa memoria, borrando y rehaciendo todos los años posteriores.\n\n## Mecanismo e ideas\nEl sistema es rigurosamente causal: la memoria no es un archivo pasivo sino un punto de anclaje temporal, y volver a él crea una nueva rama de la realidad que se solapa con la anterior. De esa única regla Crouch deduce una espiral de bucles cada vez más catastróficos, en los que humanidades enteras recuerdan futuros que fueron deshechos. La novela explora las realidades múltiples generadas por cada reinicio y, a través de ellas, el peso del libre albedrío: si toda decisión puede rehacerse, ¿qué queda del valor de haber elegido? El dilema ético es que la herramienta salvadora es indistinguible del arma que colapsa el tiempo colectivo.\n\n## Notas relacionadas\n- [[concepts/realidades-multiples]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/libre-albedrio]]"
+    },
+    {
+      "id": "notes/fiction/2019-01-01_something-is-killing-the-children-v1",
+      "kind": "fiction",
+      "label": "Something is Killing the Children, Vol. 1",
+      "authors": [
+        "James Tynion IV",
+        "Werther Dell'Edera"
+      ],
+      "year": "2019",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "mayoria-de-edad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2019-01-01_something-is-killing-the-children-v1.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nEn el pueblo de Archer's Peak, los niños empiezan a desaparecer y a morir de formas espantosas a manos de monstruos que solo ellos pueden ver. Cuando el joven James sobrevive al ataque que mata a sus amigos, aparece Erica Slaughter, una cazadora de monstruos itinerante armada con un pañuelo de bordado y una mirada implacable, que caza a las criaturas invisibles para el resto del mundo. El primer volumen sigue la matanza, la incredulidad de los adultos y la alianza entre Erica y los pocos que aún pueden ver el horror.\n\n## Mecanismo e ideas\nLa serie apuesta por el terror puro y una premisa emocional —los adultos han perdido la capacidad de ver los monstruos que acechan a la infancia— más que por un sistema de reglas explícito. Su fuerza está en la atmósfera, el arte sombrío de Dell'Edera y el misterio en torno a la organización de cazadores a la que pertenece Erica, deliberadamente dosificado. El único hilo que roza el vocabulario del catálogo es el de la mayoría de edad: la pérdida de la inocencia y el tránsito forzado de los niños que sobreviven a un mundo donde el peligro es real y nadie les cree. Es, ante todo, una novela gráfica de terror y no encaja en los ejes de sistemas o ideas del resto del clúster.\n\n## Notas relacionadas\n- [[concepts/mayoria-de-edad]]"
+    },
+    {
+      "id": "notes/fiction/2021-01-01_firekeepers-daughter-boulley",
+      "kind": "fiction",
+      "label": "Firekeeper's Daughter",
+      "authors": [
+        "Angeline Boulley"
+      ],
+      "year": "2021",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "mayoria-de-edad",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2021-01-01_firekeepers-daughter-boulley.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nDaunis Fontaine, una joven de dieciocho años mitad ojibwe y mitad blanca, aplaza su vida universitaria para cuidar de su familia y queda atrapada, tras presenciar un asesinato, en una investigación encubierta del FBI sobre una nueva y letal droga de metanfetamina que circula por su comunidad. Como informante infiltrada, Daunis navega entre lealtades: su identidad indígena, su ciencia, su familia rota y un romance ambiguo, mientras descubre hasta dónde llega la red que envenena a los suyos.\n\n## Mecanismo e ideas\nEl eje de la novela es doble: una historia de mayoría de edad —Daunis reconciliando sus dos herencias y asumiendo su lugar como guardiana de su comunidad— y un retrato de ciencia y sociedad, con la epidemia de drogas, el saber tradicional ojibwe y la tensión entre medicina, cultura e instituciones estatales. Para un lector que valora un mecanismo —un sistema de reglas que gire y se resuelva con precisión— el libro sabe a un 3: no está construido sobre un artefacto lógico, sino sobre la emoción, la identidad y la denuncia social. Corre por el afecto y la pertenencia más que por un engranaje, y ahí está tanto su fuerza como su límite para ese tipo de lector.\n\n## Notas relacionadas\n- [[concepts/mayoria-de-edad]]\n- [[concepts/ciencia-y-sociedad]]"
+    },
+    {
+      "id": "notes/fiction/2021-01-01_project-hail-mary",
+      "kind": "fiction",
+      "label": "Project Hail Mary",
+      "authors": [
+        "Andy Weir"
+      ],
+      "year": "2021",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "sistemas-y-reglas",
+        "ciencia-y-sociedad"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2021-01-01_project-hail-mary.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nRyland Grace despierta solo y amnésico a bordo de una nave, con dos cadáveres por compañía y sin recordar quién es ni por qué está ahí. A medida que reconstruye su memoria, descubre que es el último miembro de una misión desesperada para salvar a la Tierra de un microorganismo estelar, el Astrophage, que está apagando el Sol. Lejos de casa, en el sistema de otra estrella, se topa con una nave alienígena y con Rocky, un ingeniero de una especie que enfrenta exactamente la misma amenaza a su propio sol.\n\n## Mecanismo e ideas\nWeir construye la novela como una cadena de problemas de ingeniería resueltos paso a paso: cada obstáculo se ataca con hipótesis, experimento y corrección, y la física del Astrophage es coherente hasta el detalle. El primer contacto es el corazón emotivo del libro y también su mejor puzzle de sistemas: dos especies sin lenguaje común construyen desde cero un canal de comunicación basado en matemáticas, química y confianza incremental. La amistad entre Grace y Rocky nace de la colaboración científica, y de fondo late un comentario sobre la ciencia y la sociedad: cómo la humanidad organiza —y sacrifica— para responder a una amenaza existencial.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/ciencia-y-sociedad]]"
+    },
+    {
+      "id": "notes/fiction/2025-01-01_sunrise-on-the-reaping",
+      "kind": "fiction",
+      "label": "Sunrise on the Reaping",
+      "authors": [
+        "Suzanne Collins"
+      ],
+      "year": "2025",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/2025-01-01_sunrise-on-the-reaping.md",
+      "pdf_local": "",
+      "content": "## Sinopsis\nPrecuela de la saga, ambientada en la segunda Quema (los 50º Juegos del Hambre), una generación antes de Katniss. Narra la historia de Haymitch Abernathy como joven tributo del Distrito 12 y cómo llega a convertirse en el mentor amargado que conoceremos después. El libro reconstruye el aparato del Capitolio en su apogeo y la maquinaria mediática que rodea a los Juegos.\n\n## Mecanismo e ideas\nLa precuela profundiza en la distopía mostrando los engranajes del régimen en un momento anterior: cómo se fabrica el consentimiento, cómo se editan las historias de los tributos y cómo el Capitolio ejerce el poder y la persuasión sobre la percepción pública. Al iluminar el pasado de Haymitch, Collins revela que la manipulación de la narrativa —quién controla lo que la gente ve y cree— es el verdadero fundamento del control en Panem, mucho antes de que Katniss lo desafíe.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/saga-hunger-games]]"
+    },
+    {
+      "id": "notes/fiction/saga-divergent",
+      "kind": "fiction",
+      "label": "Divergent",
+      "authors": [
+        "Veronica Roth"
+      ],
+      "year": "2011",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "mayoria-de-edad",
+        "rebelion-y-revolucion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/saga-divergent.md",
+      "pdf_local": "",
+      "content": "Índice de la saga de Veronica Roth, ambientada en una Chicago post-apocalíptica dividida en cinco facciones, cada una consagrada a una virtud. La saga sigue a Tris Prior, una \"divergente\" que no encaja en una sola facción, mientras el sistema diseñado para eliminar el conflicto empieza a resquebrajarse.\n\n## Entregas\n- #1 Divergent (2011) · 4 · leído · [[notes/fiction/2011-01-01_divergent]]\n- #2 Insurgent (2012) · 4 · leído · [[notes/fiction/2012-01-01_insurgent]]\n\n## Hilo conductor\nLa saga es una distopía de ingeniería social —dividir a la humanidad por virtudes para suprimir el conflicto— cuyo sistema rígido de pertenencia termina generando control y exclusión. El arco de Tris combina la mayoría de edad (la elección de facción como paso a la adultez y definición de identidad) con la rebelión: su divergencia, la negativa a caber en una sola categoría, es la grieta que hace estallar el orden y desata la lucha por refundar la sociedad.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/mayoria-de-edad]]\n- [[concepts/rebelion-y-revolucion]]\n- [[notes/fiction/2011-01-01_divergent]]\n- [[notes/fiction/2012-01-01_insurgent]]"
+    },
+    {
+      "id": "notes/fiction/saga-hunger-games",
+      "kind": "fiction",
+      "label": "The Hunger Games",
+      "authors": [
+        "Suzanne Collins"
+      ],
+      "year": "2008",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "distopia",
+        "rebelion-y-revolucion",
+        "mayoria-de-edad",
+        "guerra-y-conflicto",
+        "poder-y-persuasion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/saga-hunger-games.md",
+      "pdf_local": "",
+      "content": "Índice de la saga de Suzanne Collins, ambientada en la nación de Panem, donde el Capitolio somete a sus distritos mediante los Juegos del Hambre, un combate a muerte televisado. La saga sigue a Katniss Everdeen desde su supervivencia en la arena hasta convertirse en símbolo de una revolución, e incluye una precuela que ilumina los orígenes del régimen.\n\n## Entregas\n- #0.5 Sunrise on the Reaping (2025) · 4 · leído · [[notes/fiction/2025-01-01_sunrise-on-the-reaping]]\n- #1 The Hunger Games (2008) · 4 · leído · [[notes/fiction/2008-01-01_the-hunger-games]]\n- #2 Catching Fire (2009) · 4 · leído · [[notes/fiction/2009-01-01_catching-fire]]\n- #3 Mockingjay (2010) · 4 · leído · [[notes/fiction/2010-01-01_mockingjay]]\n\n## Hilo conductor\nLa saga es una distopía sobre el poder del espectáculo: el Capitolio gobierna con miedo y con narrativa televisiva. El arco de Katniss es de mayoría de edad y de radicalización política —de tributo a símbolo (el Sinsajo)— y la trilogía avanza de la supervivencia individual a la rebelión colectiva y a la guerra abierta, donde la propaganda y la persuasión se vuelven armas de ambos bandos. La precuela sobre Haymitch profundiza en cómo el régimen fabrica el consentimiento antes de que Katniss lo desafíe.\n\n## Notas relacionadas\n- [[concepts/distopia]]\n- [[concepts/rebelion-y-revolucion]]\n- [[concepts/mayoria-de-edad]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/2025-01-01_sunrise-on-the-reaping]]\n- [[notes/fiction/2008-01-01_the-hunger-games]]\n- [[notes/fiction/2009-01-01_catching-fire]]\n- [[notes/fiction/2010-01-01_mockingjay]]"
+    },
+    {
       "id": "notes/fiction/saga-mistborn",
       "kind": "fiction",
       "label": "Mistborn (Era 1)",
@@ -14761,7 +16092,30 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-07-05",
       "path": "notes/fiction/saga-mistborn.md",
       "pdf_local": "",
-      "content": "Índice de la primera era de Mistborn, el caso arquetípico de magia dura que a Luis le gana la nota máxima: un sistema mágico (la alomancia) con reglas explícitas, costes y límites, donde las soluciones de la trama se deducen del sistema y no de un comodín narrativo.\n\n## Entregas\n- #1 The Final Empire (2006) · 5 · leído · [[notes/fiction/2006-01-01_mistborn-final-empire]]\n- #2 The Well of Ascension (2007) · 5 · leído · nota pendiente\n- #3 The Hero of Ages (2008) · 5 · leído · nota pendiente\n- #4 The Alloy of Law (2011) · 4 · leído · nota pendiente\n\n## Hilo conductor\nLa alomancia funciona como una tecnología: cada metal hace una cosa concreta y verificable, y el lector puede anticipar lo que un personaje puede o no hacer. Sobre ese sistema, Sanderson monta una trama política de imperio, opresión y rebelión, donde el poder también tiene reglas legibles. Es fantasía para quien piensa en mecanismos.\n\n## Notas relacionadas\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/magia-dura]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]"
+      "content": "Índice de la primera era de Mistborn, el caso arquetípico de magia dura que a Luis le gana la nota máxima: un sistema mágico (la alomancia) con reglas explícitas, costes y límites, donde las soluciones de la trama se deducen del sistema y no de un comodín narrativo.\n\n## Entregas\n- #1 The Final Empire (2006) · 5 · leído · [[notes/fiction/2006-01-01_mistborn-final-empire]]\n- #2 The Well of Ascension (2007) · 5 · leído · [[notes/fiction/2007-01-01_mistborn-well-of-ascension]]\n- #3 The Hero of Ages (2008) · 5 · leído · [[notes/fiction/2008-01-01_mistborn-hero-of-ages]]\n- #4 The Alloy of Law (2011) · 4 · leído · [[notes/fiction/2011-01-01_mistborn-alloy-of-law]]\n\n## Hilo conductor\nLa alomancia funciona como una tecnología: cada metal hace una cosa concreta y verificable, y el lector puede anticipar lo que un personaje puede o no hacer. Sobre ese sistema, Sanderson monta una trama política de imperio, opresión y rebelión, donde el poder también tiene reglas legibles. Es fantasía para quien piensa en mecanismos.\n\n## Notas relacionadas\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/magia-dura]]\n- [[concepts/poder-y-persuasion]]\n- [[notes/fiction/2006-01-01_mistborn-final-empire]]"
+    },
+    {
+      "id": "notes/fiction/saga-red-rising",
+      "kind": "fiction",
+      "label": "Red Rising Saga",
+      "authors": [
+        "Pierce Brown"
+      ],
+      "year": "2014",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "rebelion-y-revolucion",
+        "distopia",
+        "poder-y-persuasion",
+        "mayoria-de-edad",
+        "guerra-y-conflicto"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/saga-red-rising.md",
+      "pdf_local": "",
+      "content": "Índice de la trilogía original de Red Rising, de Pierce Brown. Una distopía de castas por colores en un Marte terraformado, donde un minero Red se infiltra en la élite Gold para hacerla caer desde dentro. La saga escala del engaño individual a la guerra política y, finalmente, a la revolución abierta contra un orden milenario.\n\n## Entregas\n- #1 Red Rising (2014) · 5 · leído · [[notes/fiction/2014-01-01_red-rising]]\n- #2 Golden Son (2015) · 5 · leído · [[notes/fiction/2015-01-01_golden-son]]\n- #3 Morning Star (2016) · 5 · leído · [[notes/fiction/2016-01-01_morning-star]]\n\n## Hilo conductor\nLa saga arranca como un relato de mayoría de edad y distopía de castas —el color como arquitectura social— y va ganando en escala política: la infiltración de Darrow se convierte en intriga entre casas (poder y persuasión) y luego en guerra abierta por el sistema solar. El arco completo es el de una rebelión que pasa de secreta a declarada, con el conflicto y su costo humano como precio de derrocar una jerarquía presentada como natural.\n\n## Notas relacionadas\n- [[concepts/rebelion-y-revolucion]]\n- [[concepts/distopia]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/mayoria-de-edad]]\n- [[concepts/guerra-y-conflicto]]\n- [[notes/fiction/2014-01-01_red-rising]]\n- [[notes/fiction/2015-01-01_golden-son]]\n- [[notes/fiction/2016-01-01_morning-star]]"
     },
     {
       "id": "notes/fiction/saga-remembrance-of-earths-past",
@@ -14783,7 +16137,31 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-07-05",
       "path": "notes/fiction/saga-remembrance-of-earths-past.md",
       "pdf_local": "",
-      "content": "Índice de la trilogía de Liu Cixin, uno de los pilares del gusto de Luis por la ciencia ficción de ideas. La saga parte de la física despiadada y coherente, escala hasta la escala civilizatoria y cósmica, y trata el universo como un problema a resolver, no como un decorado.\n\n## Entregas\n- #1 The Three-Body Problem (2008) · 5 · leído · [[notes/fiction/2008-01-01_three-body-problem]]\n- #2 The Dark Forest (2008) · 5 · leído · nota pendiente\n- #3 Death's End (2010) · 5 · leído · nota pendiente\n\n## Hilo conductor\nEl motor de la saga es un problema de comunicación y estrategia entre civilizaciones separadas por años luz y por una diferencia radical de escala y valores. La hipótesis del bosque oscuro, en el segundo libro, convierte la paradoja de Fermi en un problema de teoría de juegos con información incompleta: si no puedes confiar en las intenciones del otro ni verificar su capacidad futura, el silencio y el primer golpe se vuelven racionales. Es ciencia ficción que funciona como un teorema.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/teoria-de-juegos]]\n- [[concepts/ciencia-y-sociedad]]\n- [[notes/fiction/2008-01-01_three-body-problem]]"
+      "content": "Índice de la trilogía de Liu Cixin, uno de los pilares del gusto de Luis por la ciencia ficción de ideas. La saga parte de la física despiadada y coherente, escala hasta la escala civilizatoria y cósmica, y trata el universo como un problema a resolver, no como un decorado.\n\n## Entregas\n- #1 The Three-Body Problem (2008) · 5 · leído · [[notes/fiction/2008-01-01_three-body-problem]]\n- #2 The Dark Forest (2008) · 5 · leído · [[notes/fiction/2008-01-01_the-dark-forest]]\n- #3 Death's End (2010) · 5 · leído · [[notes/fiction/2010-01-01_deaths-end]]\n\n## Hilo conductor\nEl motor de la saga es un problema de comunicación y estrategia entre civilizaciones separadas por años luz y por una diferencia radical de escala y valores. La hipótesis del bosque oscuro, en el segundo libro, convierte la paradoja de Fermi en un problema de teoría de juegos con información incompleta: si no puedes confiar en las intenciones del otro ni verificar su capacidad futura, el silencio y el primer golpe se vuelven racionales. Es ciencia ficción que funciona como un teorema.\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/sistemas-y-reglas]]\n- [[concepts/teoria-de-juegos]]\n- [[concepts/ciencia-y-sociedad]]\n- [[notes/fiction/2008-01-01_three-body-problem]]"
+    },
+    {
+      "id": "notes/fiction/saga-the-expanse",
+      "kind": "fiction",
+      "label": "The Expanse (saga)",
+      "authors": [
+        "James S.A. Corey"
+      ],
+      "year": "2011",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "primer-contacto",
+        "guerra-y-conflicto",
+        "poder-y-persuasion",
+        "ecologia-y-terraformacion",
+        "colapso-civilizatorio",
+        "rebelion-y-revolucion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/fiction/saga-the-expanse.md",
+      "pdf_local": "",
+      "content": "Índice de The Expanse, la space opera de James S.A. Corey (seudónimo de Daniel Abraham y Ty Franck). Combina una física de naves plausible con la política a tres bandas del sistema solar —Tierra, Marte y el Cinturón— y una amenaza alienígena, la protomolécula, que arranca como plaga, se vuelve arma y termina abriendo mil puertas a otros mundos. Nueve novelas y varias novellas que van del thriller detectivesco al drama de colapso civilizatorio.\n\n## Hilo conductor\nTres ejes recorren la saga. Primero, el primer contacto: la protomolécula y las puertas del Anillo no son interlocutores sino la infraestructura activa de una civilización extinta, indiferente a la humanidad. Segundo, la política del sistema solar: agravios coloniales del Cinturón, rivalidad Tierra-Marte y la persuasión de líderes que convierten el resentimiento en guerra o en revolución. Tercero, la habitabilidad: la colonización de estaciones y mundos nuevos, su ecología frágil y el riesgo de repetir el colapso que borró a los constructores de las puertas.\n\n## Entregas\n- #1 Leviathan Wakes (2011) · 4 · leído · [[notes/fiction/2011-01-01_leviathan-wakes]]\n- #1.5 The Butcher of Anderson Station (2011) · 4 · leído · [[notes/fiction/2011-01-01_butcher-of-anderson-station]]\n- #2 Caliban's War (2012) · 5 · leído · [[notes/fiction/2012-01-01_calibans-war]]\n- #2.5 Gods of Risk (2012) · 3 · leído · [[notes/fiction/2012-01-01_gods-of-risk]]\n- #2.7 Drive (2012) · 4 · leído · [[notes/fiction/2012-01-01_drive]]\n- #3 Abaddon's Gate (2013) · 4 · leído · [[notes/fiction/2013-01-01_abaddons-gate]]\n- #3.5 The Churn (2014) · 4 · leído · [[notes/fiction/2014-01-01_the-churn]]\n- #4 Cibola Burn (2014) · 4 · leído · [[notes/fiction/2014-01-01_cibola-burn]]\n- #5 Nemesis Games (2015) · 4 · leído · [[notes/fiction/2015-01-01_nemesis-games]]\n- #5.5 The Vital Abyss (2015) · 4 · leído · [[notes/fiction/2015-01-01_the-vital-abyss]]\n- #6 Babylon's Ashes (2016) · 4 · leído · [[notes/fiction/2016-01-01_babylons-ashes]]\n- #6.5 Strange Dogs (2017) · 4 · leído · [[notes/fiction/2017-01-01_strange-dogs]]\n\n## Notas relacionadas\n- [[concepts/primer-contacto]]\n- [[concepts/guerra-y-conflicto]]\n- [[concepts/poder-y-persuasion]]\n- [[concepts/ecologia-y-terraformacion]]\n- [[concepts/colapso-civilizatorio]]\n- [[concepts/rebelion-y-revolucion]]"
     }
   ],
   "links": [
@@ -30503,12 +31881,187 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/fiction/1932-01-01_brave-new-world-huxley",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1932-01-01_brave-new-world-huxley",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1937-01-01_the-hobbit",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1945-01-01_animal-farm-orwell",
+      "target": "concepts/satira",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1945-01-01_animal-farm-orwell",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1945-01-01_animal-farm-orwell",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1945-01-01_animal-farm-orwell",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/fiction/1949-01-01_1984-orwell",
       "target": "concepts/distopia",
       "kind": "keyword"
     },
     {
       "source": "notes/fiction/1949-01-01_1984-orwell",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1951-01-01_foundation",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1951-01-01_foundation",
+      "target": "concepts/teoria-de-juegos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1951-01-01_foundation",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1951-01-01_foundation",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1953-01-01_fahrenheit-451-bradbury",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1953-01-01_fahrenheit-451-bradbury",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1965-01-01_dune",
+      "target": "concepts/ecologia-y-terraformacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1965-01-01_dune",
+      "target": "concepts/mitologia-y-religion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1965-01-01_dune",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1965-01-01_dune",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1968-01-01_2001-a-space-odyssey",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1968-01-01_2001-a-space-odyssey",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1968-01-01_2001-a-space-odyssey",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1968-01-01_2001-a-space-odyssey",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1969-01-01_slaughterhouse-five",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1969-01-01_slaughterhouse-five",
+      "target": "concepts/libre-albedrio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1969-01-01_slaughterhouse-five",
+      "target": "concepts/satira",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1969-01-01_slaughterhouse-five",
+      "target": "concepts/realidades-multiples",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1973-01-01_rendezvous-with-rama",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1973-01-01_rendezvous-with-rama",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1973-01-01_rendezvous-with-rama",
+      "target": "concepts/ecologia-y-terraformacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1979-01-01_hitchhikers-guide-to-the-galaxy",
+      "target": "concepts/satira",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1979-01-01_hitchhikers-guide-to-the-galaxy",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1985-01-01_enders-game",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1985-01-01_enders-game",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1985-01-01_enders-game",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1985-01-01_enders-game",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1985-01-01_enders-game",
       "target": "concepts/poder-y-persuasion",
       "kind": "keyword"
     },
@@ -30525,6 +32078,76 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/fiction/1987-01-01_watchmen",
       "target": "concepts/filosofia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1988-01-01_v-for-vendetta-moore",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1988-01-01_v-for-vendetta-moore",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1988-01-01_v-for-vendetta-moore",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1990-01-01_good-omens",
+      "target": "concepts/mitologia-y-religion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1990-01-01_good-omens",
+      "target": "concepts/satira",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1990-01-01_good-omens",
+      "target": "concepts/libre-albedrio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1993-01-01_the-giver-lowry",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1993-01-01_the-giver-lowry",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1996-01-01_a-game-of-thrones",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1996-01-01_a-game-of-thrones",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/1996-01-01_a-game-of-thrones",
+      "target": "concepts/teoria-de-juegos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2001-01-01_american-gods",
+      "target": "concepts/mitologia-y-religion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2001-01-01_american-gods",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2001-01-01_american-gods",
+      "target": "concepts/poder-y-persuasion",
       "kind": "keyword"
     },
     {
@@ -30545,6 +32168,106 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/fiction/2006-01-01_mistborn-final-empire",
       "target": "notes/fiction/saga-mistborn",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2006-01-01_world-war-z-brooks",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2006-01-01_world-war-z-brooks",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2006-01-01_world-war-z-brooks",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2007-01-01_mistborn-well-of-ascension",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2007-01-01_mistborn-well-of-ascension",
+      "target": "concepts/magia-dura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2007-01-01_mistborn-well-of-ascension",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2007-01-01_mistborn-well-of-ascension",
+      "target": "notes/fiction/saga-mistborn",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_mistborn-hero-of-ages",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_mistborn-hero-of-ages",
+      "target": "concepts/magia-dura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_mistborn-hero-of-ages",
+      "target": "concepts/mitologia-y-religion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_mistborn-hero-of-ages",
+      "target": "notes/fiction/saga-mistborn",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_the-dark-forest",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_the-dark-forest",
+      "target": "concepts/teoria-de-juegos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_the-dark-forest",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_the-dark-forest",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_the-dark-forest",
+      "target": "notes/fiction/saga-remembrance-of-earths-past",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_the-hunger-games",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_the-hunger-games",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_the-hunger-games",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2008-01-01_the-hunger-games",
+      "target": "notes/fiction/saga-hunger-games",
       "kind": "related"
     },
     {
@@ -30573,6 +32296,516 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "related"
     },
     {
+      "source": "notes/fiction/2009-01-01_catching-fire",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2009-01-01_catching-fire",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2009-01-01_catching-fire",
+      "target": "notes/fiction/saga-hunger-games",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2010-01-01_deaths-end",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2010-01-01_deaths-end",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2010-01-01_deaths-end",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2010-01-01_deaths-end",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2010-01-01_deaths-end",
+      "target": "notes/fiction/saga-remembrance-of-earths-past",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2010-01-01_mockingjay",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2010-01-01_mockingjay",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2010-01-01_mockingjay",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2010-01-01_mockingjay",
+      "target": "notes/fiction/saga-hunger-games",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_butcher-of-anderson-station",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_butcher-of-anderson-station",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_butcher-of-anderson-station",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_divergent",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_divergent",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_divergent",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_divergent",
+      "target": "notes/fiction/saga-divergent",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_leviathan-wakes",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_leviathan-wakes",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_leviathan-wakes",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_leviathan-wakes",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_leviathan-wakes",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_mistborn-alloy-of-law",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_mistborn-alloy-of-law",
+      "target": "concepts/magia-dura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_mistborn-alloy-of-law",
+      "target": "notes/fiction/saga-mistborn",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_ready-player-one",
+      "target": "concepts/realidades-multiples",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_ready-player-one",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2011-01-01_ready-player-one",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_calibans-war",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_calibans-war",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_calibans-war",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_calibans-war",
+      "target": "concepts/ecologia-y-terraformacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_calibans-war",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_drive",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_drive",
+      "target": "concepts/ecologia-y-terraformacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_drive",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_gods-of-risk",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_gods-of-risk",
+      "target": "concepts/ecologia-y-terraformacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_gods-of-risk",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_insurgent",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_insurgent",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_insurgent",
+      "target": "notes/fiction/saga-divergent",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_wool-omnibus",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_wool-omnibus",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2012-01-01_wool-omnibus",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2013-01-01_abaddons-gate",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2013-01-01_abaddons-gate",
+      "target": "concepts/mitologia-y-religion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2013-01-01_abaddons-gate",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2013-01-01_abaddons-gate",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2013-01-01_abaddons-gate",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2013-01-01_the-ocean-at-the-end-of-the-lane",
+      "target": "concepts/mitologia-y-religion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2013-01-01_the-ocean-at-the-end-of-the-lane",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_cibola-burn",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_cibola-burn",
+      "target": "concepts/ecologia-y-terraformacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_cibola-burn",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_cibola-burn",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_cibola-burn",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_red-rising",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_red-rising",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_red-rising",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_red-rising",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_red-rising",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_red-rising",
+      "target": "notes/fiction/saga-red-rising",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_the-churn",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_the-churn",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2014-01-01_the-churn",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_golden-son",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_golden-son",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_golden-son",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_golden-son",
+      "target": "notes/fiction/saga-red-rising",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_nemesis-games",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_nemesis-games",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_nemesis-games",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_nemesis-games",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_nemesis-games",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_the-vital-abyss",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_the-vital-abyss",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_the-vital-abyss",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_babylons-ashes",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_babylons-ashes",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_babylons-ashes",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_babylons-ashes",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_babylons-ashes",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_dark-matter",
+      "target": "concepts/realidades-multiples",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_dark-matter",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_dark-matter",
+      "target": "concepts/libre-albedrio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_morning-star",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_morning-star",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_morning-star",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_morning-star",
+      "target": "notes/fiction/saga-red-rising",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_sleeping-giants",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_sleeping-giants",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2016-01-01_sleeping-giants",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2017-01-01_artemis",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2017-01-01_artemis",
+      "target": "concepts/ecologia-y-terraformacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2017-01-01_strange-dogs",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2017-01-01_strange-dogs",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2017-01-01_strange-dogs",
+      "target": "notes/fiction/saga-the-expanse",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2018-01-01_an-absolutely-remarkable-thing",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2018-01-01_an-absolutely-remarkable-thing",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/fiction/2019-01-01_exhalation-chiang",
       "target": "concepts/libre-albedrio",
       "kind": "keyword"
@@ -30593,6 +32826,136 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/fiction/2019-01-01_recursion",
+      "target": "concepts/realidades-multiples",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2019-01-01_recursion",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2019-01-01_recursion",
+      "target": "concepts/libre-albedrio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2019-01-01_something-is-killing-the-children-v1",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2021-01-01_firekeepers-daughter-boulley",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2021-01-01_firekeepers-daughter-boulley",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2021-01-01_project-hail-mary",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2021-01-01_project-hail-mary",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2021-01-01_project-hail-mary",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2025-01-01_sunrise-on-the-reaping",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2025-01-01_sunrise-on-the-reaping",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2025-01-01_sunrise-on-the-reaping",
+      "target": "notes/fiction/saga-hunger-games",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-divergent",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-divergent",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-divergent",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-divergent",
+      "target": "notes/fiction/2011-01-01_divergent",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-divergent",
+      "target": "notes/fiction/2012-01-01_insurgent",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-hunger-games",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-hunger-games",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-hunger-games",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-hunger-games",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-hunger-games",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-hunger-games",
+      "target": "notes/fiction/2025-01-01_sunrise-on-the-reaping",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-hunger-games",
+      "target": "notes/fiction/2008-01-01_the-hunger-games",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-hunger-games",
+      "target": "notes/fiction/2009-01-01_catching-fire",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-hunger-games",
+      "target": "notes/fiction/2010-01-01_mockingjay",
+      "kind": "related"
+    },
+    {
       "source": "notes/fiction/saga-mistborn",
       "target": "concepts/sistemas-y-reglas",
       "kind": "keyword"
@@ -30610,6 +32973,61 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/fiction/saga-mistborn",
       "target": "notes/fiction/2006-01-01_mistborn-final-empire",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-mistborn",
+      "target": "notes/fiction/2007-01-01_mistborn-well-of-ascension",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-mistborn",
+      "target": "notes/fiction/2008-01-01_mistborn-hero-of-ages",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-mistborn",
+      "target": "notes/fiction/2011-01-01_mistborn-alloy-of-law",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-red-rising",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-red-rising",
+      "target": "concepts/distopia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-red-rising",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-red-rising",
+      "target": "concepts/mayoria-de-edad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-red-rising",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-red-rising",
+      "target": "notes/fiction/2014-01-01_red-rising",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-red-rising",
+      "target": "notes/fiction/2015-01-01_golden-son",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-red-rising",
+      "target": "notes/fiction/2016-01-01_morning-star",
       "kind": "related"
     },
     {
@@ -30635,6 +33053,106 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/fiction/saga-remembrance-of-earths-past",
       "target": "notes/fiction/2008-01-01_three-body-problem",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-remembrance-of-earths-past",
+      "target": "notes/fiction/2008-01-01_the-dark-forest",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-remembrance-of-earths-past",
+      "target": "notes/fiction/2010-01-01_deaths-end",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "concepts/guerra-y-conflicto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "concepts/poder-y-persuasion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "concepts/ecologia-y-terraformacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "concepts/rebelion-y-revolucion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2011-01-01_leviathan-wakes",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2011-01-01_butcher-of-anderson-station",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2012-01-01_calibans-war",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2012-01-01_gods-of-risk",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2012-01-01_drive",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2013-01-01_abaddons-gate",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2014-01-01_the-churn",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2014-01-01_cibola-burn",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2015-01-01_nemesis-games",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2015-01-01_the-vital-abyss",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2016-01-01_babylons-ashes",
+      "kind": "related"
+    },
+    {
+      "source": "notes/fiction/saga-the-expanse",
+      "target": "notes/fiction/2017-01-01_strange-dogs",
       "kind": "related"
     }
   ]

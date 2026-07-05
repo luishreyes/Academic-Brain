@@ -248,3 +248,4 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
 - [[notes/papers/2026-07-02_labor-market-impacts-ai]]
 - [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
+- [[notes/fiction/1968-01-01_2001-a-space-odyssey]]
