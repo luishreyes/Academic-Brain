@@ -74,7 +74,7 @@ Al terminar cada libro: conversación breve, dos o tres preguntas concretas, nad
 **Ted Chiang, Exhalation.**
 Razón: ciencia ficción de ideas tan rigurosa como el Liu Cixin que lo enganchó, con mecanismos impecables, pero cada relato mete un golpe emocional por debajo de la línea de flotación. La trampa: le demuestra que el rigor y el corazón no son enemigos. Estrena además el cuento corto, formato casi ausente en su historial.
 
-### En cola. Salto lateral
+### Entregada. Salto lateral
 **Italo Calvino, Las ciudades invisibles.**
 Razón: ficción literaria, traducida, sin máquina de trama. No es su carril habitual. Pero está construida como un sistema, ciudades imposibles catalogadas con lógica de patrón, y es puro ojo y pura imagen. Su cinco estrellas a The Decisive Moment de Cartier-Bresson dice que esa mirada de observador tiene hambre de material. Es el libro literario para alguien que piensa en estructuras y ve en encuadres.
 Edición sugerida: Siruela, traducción de Aurora Bernárdez.
