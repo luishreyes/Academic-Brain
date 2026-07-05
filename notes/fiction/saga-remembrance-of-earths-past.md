@@ -19,8 +19,8 @@ date_added: 2026-07-05
 
 ## Entregas
 - #1 The Three-Body Problem (2008) · 5 · leído · [[notes/fiction/2008-01-01_three-body-problem]]
-- #2 The Dark Forest (2008) · 5 · leído · nota pendiente
-- #3 Death's End (2010) · 5 · leído · nota pendiente
+- #2 The Dark Forest (2008) · 5 · leído · [[notes/fiction/2008-01-01_the-dark-forest]]
+- #3 Death's End (2010) · 5 · leído · [[notes/fiction/2010-01-01_deaths-end]]
 
 ## Hilo conductor
 El motor de la saga es un problema de comunicación y estrategia entre civilizaciones separadas por años luz y por una diferencia radical de escala y valores. La hipótesis del bosque oscuro, en el segundo libro, convierte la paradoja de Fermi en un problema de teoría de juegos con información incompleta: si no puedes confiar en las intenciones del otro ni verificar su capacidad futura, el silencio y el primer golpe se vuelven racionales. Es ciencia ficción que funciona como un teorema.

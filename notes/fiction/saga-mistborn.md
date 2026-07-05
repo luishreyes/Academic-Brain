@@ -19,9 +19,9 @@ date_added: 2026-07-05
 
 ## Entregas
 - #1 The Final Empire (2006) · 5 · leído · [[notes/fiction/2006-01-01_mistborn-final-empire]]
-- #2 The Well of Ascension (2007) · 5 · leído · nota pendiente
-- #3 The Hero of Ages (2008) · 5 · leído · nota pendiente
-- #4 The Alloy of Law (2011) · 4 · leído · nota pendiente
+- #2 The Well of Ascension (2007) · 5 · leído · [[notes/fiction/2007-01-01_mistborn-well-of-ascension]]
+- #3 The Hero of Ages (2008) · 5 · leído · [[notes/fiction/2008-01-01_mistborn-hero-of-ages]]
+- #4 The Alloy of Law (2011) · 4 · leído · [[notes/fiction/2011-01-01_mistborn-alloy-of-law]]
 
 ## Hilo conductor
 La alomancia funciona como una tecnología: cada metal hace una cosa concreta y verificable, y el lector puede anticipar lo que un personaje puede o no hacer. Sobre ese sistema, Sanderson monta una trama política de imperio, opresión y rebelión, donde el poder también tiene reglas legibles. Es fantasía para quien piensa en mecanismos.
