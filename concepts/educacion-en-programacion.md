@@ -33,3 +33,4 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la p
 - [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
+- [[notes/books/2025-01-01_source-code-gates]]

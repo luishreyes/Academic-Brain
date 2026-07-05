@@ -114,3 +114,5 @@ Estudio de los principios morales que deben guiar el diseño y comportamiento de
 - [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]
 - [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
 - [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
+- [[notes/books/2015-01-01_homo-deus-harari]]
+- [[notes/books/2024-01-01_nexus-harari]]

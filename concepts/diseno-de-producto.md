@@ -21,3 +21,4 @@ La nota de Taç, Gardner y Kuhl (2026) no comparte autores ni método con las tr
 - [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]
 - [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]
 - [[notes/papers/2025-08-29_soundscapes-sostenibilidad]]
+- [[notes/books/2011-01-01_steve-jobs-isaacson]]

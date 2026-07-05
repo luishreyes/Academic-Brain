@@ -64,3 +64,4 @@ Procesos por los cuales individuos, organizaciones o comunidades incorporan nuev
 - [[notes/articles/2026-06-30_twilight-chatbots-mollick]]
 - [[notes/papers/2026-07-02_labor-market-impacts-ai]]
 - [[notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria]]
+- [[notes/books/2000-01-01_the-tipping-point-gladwell]]

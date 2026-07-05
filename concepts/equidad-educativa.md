@@ -73,3 +73,4 @@ Distribución equitativa de oportunidades y resultados de aprendizaje; incluye e
 - [[notes/articles/2026-01-01_evidence-base-ia-k12-review]]
 - [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
+- [[notes/books/2008-01-01_outliers-gladwell]]

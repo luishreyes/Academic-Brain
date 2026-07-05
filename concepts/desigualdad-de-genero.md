@@ -24,3 +24,4 @@ Este conjunto de hallazgos no encaja con facilidad en la tesis de Reeves sobre e
 - [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
 - [[notes/papers/2025-07-16_ai-skills-empleabilidad-egresados]]
 - [[notes/papers/2026-07-02_labor-market-impacts-ai]]
+- [[notes/books/2024-01-01_the-upgrade-brizendine]]

@@ -40,3 +40,5 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/papers/2025-01-01_sustainable-genai-carbon-scoping]]
 - [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]
 - [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
+- [[notes/books/2020-01-01_apocalypse-never-shellenberger]]
+- [[notes/books/2025-01-01_abundance-klein]]

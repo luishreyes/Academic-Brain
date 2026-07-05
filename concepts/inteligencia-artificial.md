@@ -249,3 +249,7 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2026-07-02_labor-market-impacts-ai]]
 - [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
 - [[notes/fiction/1968-01-01_2001-a-space-odyssey]]
+- [[notes/books/2014-01-01_innovators-isaacson]]
+- [[notes/books/2014-01-01_the-future-of-the-mind-kaku]]
+- [[notes/books/2015-01-01_homo-deus-harari]]
+- [[notes/books/2024-01-01_nexus-harari]]

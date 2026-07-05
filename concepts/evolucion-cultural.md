@@ -10,3 +10,6 @@ Proceso por el cual las ideas, tecnologías, normas y prácticas sociales cambia
 
 ## Notas que usan este concepto
 - [[notes/books/2010-06-15_the-rational-optimist-ridley]]
+- [[notes/books/2000-01-01_the-tipping-point-gladwell]]
+- [[notes/books/2011-01-01_sapiens-harari]]
+- [[notes/books/2018-01-01_origin-story-christian]]

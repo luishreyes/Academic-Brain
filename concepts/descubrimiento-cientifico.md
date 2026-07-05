@@ -20,3 +20,7 @@ El proceso de generación de nuevo conocimiento científico: formulación de hip
 - [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]
 - [[notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica]]
 - [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
+- [[notes/books/1985-01-01_surely-youre-joking-feynman]]
+- [[notes/books/2003-01-01_stiff-roach]]
+- [[notes/books/2016-01-01_the-gene-mukherjee]]
+- [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]

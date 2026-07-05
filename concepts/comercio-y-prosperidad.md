@@ -10,3 +10,4 @@ Relación entre el intercambio voluntario de bienes, servicios e ideas y el crec
 
 ## Notas que usan este concepto
 - [[notes/books/2010-06-15_the-rational-optimist-ridley]]
+- [[notes/books/2011-01-01_sapiens-harari]]

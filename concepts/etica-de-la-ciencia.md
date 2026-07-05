@@ -19,3 +19,8 @@ Dimensiones normativas y de responsabilidad en la producción y aplicación del 
 - [[notes/articles/2021-01-01_eur-ace-marco-acreditacion-ingenieria]]
 - [[notes/articles/2024-10-25_abet-eac-criterios-acreditacion-ingenieria-2025-2026]]
 - [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]
+- [[notes/books/1985-01-01_surely-youre-joking-feynman]]
+- [[notes/books/2003-01-01_stiff-roach]]
+- [[notes/books/2016-01-01_the-gene-mukherjee]]
+- [[notes/books/2020-01-01_the-parasitic-mind-saad]]
+- [[notes/books/2021-01-01_code-breaker-isaacson]]

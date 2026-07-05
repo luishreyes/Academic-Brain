@@ -23,3 +23,6 @@ Cain aporta el ángulo más tangencial: su crítica al "Nuevo Pensamiento de Gru
 - [[notes/books/2012-01-23_quiet-susan-cain]]
 - [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]
 - [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]
+- [[notes/books/2011-01-01_steve-jobs-isaacson]]
+- [[notes/books/2015-01-01_elon-musk-vance]]
+- [[notes/books/2021-01-01_think-again-grant]]

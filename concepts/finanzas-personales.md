@@ -20,3 +20,8 @@ Donde el corpus se fractura es en la fuente de la riqueza y la tolerancia al rie
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/books/2003-01-01_intelligent-investor-graham]]
 - [[notes/books/2020-08-11_almanack-naval-ravikant-jorgenson]]
+- [[notes/books/2010-01-01_the-compound-effect-hardy]]
+- [[notes/books/2020-01-01_the-psychology-of-money-housel]]
+- [[notes/books/2023-01-01_lo-que-nunca-cambia-housel]]
+- [[notes/books/2025-01-01_the-5-types-of-wealth-bloom]]
+- [[notes/books/2025-01-01_the-art-of-spending-money-housel]]

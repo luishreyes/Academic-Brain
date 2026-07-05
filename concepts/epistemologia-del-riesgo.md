@@ -21,3 +21,5 @@ Edmondson es quien más se aleja del diagnóstico puramente descriptivo para ofr
 - [[notes/books/2019-09-10_talking-to-strangers-gladwell]]
 - [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
+- [[notes/books/2020-01-01_the-psychology-of-money-housel]]
+- [[notes/books/2023-01-01_lo-que-nunca-cambia-housel]]

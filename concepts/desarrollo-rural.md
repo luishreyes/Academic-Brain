@@ -22,3 +22,4 @@ El cuarto estudio, sobre monitoreo visual de reactores de biomasa (Mao et al. 20
 - [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]
 - [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
 - [[notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres]]
+- [[notes/books/2011-01-01_poor-economics-banerjee]]

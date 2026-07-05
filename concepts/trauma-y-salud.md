@@ -19,3 +19,5 @@ Donde divergen es en el nivel causal y, por tanto, en la solución. Maté sitúa
 ## Notas que usan este concepto
 - [[notes/books/2022-09-13_the-myth-of-normal]]
 - [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]
+- [[notes/books/1946-01-01_mans-search-for-meaning-frankl]]
+- [[notes/books/2018-01-01_como-hacer-que-te-pasen-cosas-buenas-rojas]]

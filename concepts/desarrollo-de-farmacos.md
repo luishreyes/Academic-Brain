@@ -45,3 +45,5 @@ Proceso de identificación, validación y prueba de compuestos para tratar enfer
 - [[notes/papers/2026-07-02_cubosomes-mrna-ards]]
 - [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
 - [[notes/papers/2026-07-02_nanogeles-quitosano-melanoma]]
+- [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]
+- [[notes/books/2022-01-01_the-song-of-the-cell-mukherjee]]
