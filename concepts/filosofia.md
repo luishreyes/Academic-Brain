@@ -19,3 +19,5 @@ Disciplina que examina cuestiones fundamentales sobre el conocimiento, la moral,
 - [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
 - [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]
+- [[notes/fiction/2019-01-01_exhalation-chiang]]
+- [[notes/fiction/1987-01-01_watchmen]]
