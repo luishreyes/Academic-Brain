@@ -22,3 +22,4 @@ Roach aporta una capa distinta pero convergente: una historia de cómo la eviden
 - [[notes/books/2024-01-01_blind-spots-makary]]
 - [[notes/books/2017-04-04_pandoras-lab-offit]]
 - [[notes/books/2003-01-01_stiff-roach]]
+- [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]

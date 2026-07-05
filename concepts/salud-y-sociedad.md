@@ -28,3 +28,5 @@ Dos notas aportan la contracara: la aritmética poblacional que documenta cuánd
 - [[notes/books/2003-01-01_stiff-roach]]
 - [[notes/books/2019-09-10_talking-to-strangers-gladwell]]
 - [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]
+- [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]
+- [[notes/books/2024-01-01_the-upgrade-brizendine]]

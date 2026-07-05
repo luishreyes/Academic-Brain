@@ -21,3 +21,4 @@ Diseño experimental en que los participantes son asignados aleatoriamente a con
 - [[notes/papers/2025-04-19_metacognitive-support-srl-genai]]
 - [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]
 - [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]
+- [[notes/books/2011-01-01_poor-economics-banerjee]]

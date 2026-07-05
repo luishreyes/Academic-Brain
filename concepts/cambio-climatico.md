@@ -10,3 +10,4 @@ Alteración de largo plazo de los patrones climáticos globales por el aumento d
 
 ## Notas que usan este concepto
 - [[notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres]]
+- [[notes/books/2020-01-01_apocalypse-never-shellenberger]]

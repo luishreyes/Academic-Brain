@@ -10,3 +10,4 @@ Estudio de las diferencias individuales estables (rasgos) y sus manifestaciones 
 
 ## Notas que usan este concepto
 - [[notes/papers/2025-01-01_creatividad-divagacion-cognicion-trabajo]]
+- [[notes/books/2023-01-01_how-to-know-a-person-brooks]]

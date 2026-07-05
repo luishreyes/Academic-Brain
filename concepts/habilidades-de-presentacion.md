@@ -10,3 +10,4 @@ Diseño y entrega de presentaciones orales efectivas en contextos académicos (c
 
 ## Notas que usan este concepto
 - [[notes/articles/2018-12-20_como-dar-una-gran-charla]]
+- [[notes/books/2018-01-01_storyworthy-dicks]]

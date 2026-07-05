@@ -47,3 +47,6 @@ Campo que estudia los mecanismos moleculares de los procesos biológicos: expres
 - [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
 - [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]
 - [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]
+- [[notes/books/2016-01-01_the-gene-mukherjee]]
+- [[notes/books/2021-01-01_code-breaker-isaacson]]
+- [[notes/books/2022-01-01_the-song-of-the-cell-mukherjee]]

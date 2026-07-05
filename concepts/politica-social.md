@@ -24,3 +24,5 @@ Reeves cierra el hilo desde el ángulo opuesto y con más fuerza empírica: en "
 - [[notes/papers/2025-05-22_brecha-digital-ia-generativa-espana]]
 - [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]
 - [[notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres]]
+- [[notes/books/2011-01-01_poor-economics-banerjee]]
+- [[notes/books/2025-01-01_abundance-klein]]

@@ -27,3 +27,4 @@ Integración de métodos, conceptos y perspectivas de distintas disciplinas para
 - [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]
 - [[notes/articles/2021-01-01_eur-ace-marco-acreditacion-ingenieria]]
 - [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]]
+- [[notes/books/2014-01-01_innovators-isaacson]]

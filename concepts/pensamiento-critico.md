@@ -110,3 +110,6 @@ Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
 - [[notes/papers/2026-01-01_writing-against-the-machine]]
+- [[notes/books/2020-01-01_apocalypse-never-shellenberger]]
+- [[notes/books/2020-01-01_the-parasitic-mind-saad]]
+- [[notes/books/2021-01-01_think-again-grant]]

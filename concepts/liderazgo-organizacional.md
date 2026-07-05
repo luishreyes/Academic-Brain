@@ -27,3 +27,5 @@ La tensión de fondo entre los seis autores es si el liderazgo es, en esencia, u
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/books/2009-01-01_start-with-why-sinek]]
 - [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]
+- [[notes/books/2011-01-01_steve-jobs-isaacson]]
+- [[notes/books/2015-01-01_elon-musk-vance]]

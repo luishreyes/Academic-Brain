@@ -61,3 +61,5 @@ Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso d
 - [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]
 - [[notes/papers/2025-07-09_genai-divide-estudiantes-universitarios]]
 - [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
+- [[notes/books/2024-01-01_nexus-harari]]
+- [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]

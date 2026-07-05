@@ -23,3 +23,6 @@ Enfoque terapéutico que introduce, modifica o silencia material genético en c�
 - [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]
 - [[notes/papers/2026-07-02_cubosomes-mrna-ards]]
 - [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
+- [[notes/books/2016-01-01_the-gene-mukherjee]]
+- [[notes/books/2021-01-01_code-breaker-isaacson]]
+- [[notes/books/2022-01-01_the-song-of-the-cell-mukherjee]]

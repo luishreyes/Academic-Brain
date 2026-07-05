@@ -24,3 +24,8 @@ Doerr, finalmente, aporta la pieza organizacional que Ridley y Galloway dan por 
 - [[notes/books/2010-06-15_the-rational-optimist-ridley]]
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]
+- [[notes/books/2011-01-01_steve-jobs-isaacson]]
+- [[notes/books/2014-01-01_innovators-isaacson]]
+- [[notes/books/2015-01-01_elon-musk-vance]]
+- [[notes/books/2025-01-01_abundance-klein]]
+- [[notes/books/2025-01-01_source-code-gates]]
