@@ -77,9 +77,13 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **comunicacion-cientifica** — Práctica de traducir y difundir conocimiento científico a audiencias no especializadas mediante medios de comunicación, resúmenes accesibles y participación pública. _Aliases: divulgación científica, ciencia abierta, public engagement, science communication_
 
+**comunicacion-interpersonal** — Arte y ciencia de la conversación, la conexión y el entendimiento entre personas; incluye la escucha, la construcción de confianza, la narración de historias y las habilidades para comprender a otros. _Aliases: interpersonal communication, comunicación interpersonal, conversación, escucha, storytelling, conexión humana_
+
 **creatividad** — Capacidad de generar ideas novedosas, variadas y de alta calidad en la resolución de problemas; en contextos educativos comprende dimensiones como fluidez, flexibilidad, originalidad y elaboración, y cómo la interacción con IA afecta el desarrollo creativo humano. _Aliases: creativity, pensamiento creativo, creative thinking, creative problem-solving_
 
 **ciencia-de-datos** — Campo interdisciplinario que combina estadística, programación y dominio de conocimiento para extraer información y valor de conjuntos de datos; incluye machine learning, visualización, inferencia bayesiana y análisis de texto. _Aliases: data science, análisis de datos, estadística aplicada, data analytics_
+
+**ciencia-de-materiales** — Estudio de la estructura, propiedades y aplicaciones de los materiales (metales, cerámicas, polímeros, vidrio, compuestos) y de cómo su microestructura determina su comportamiento cotidiano. _Aliases: materials science, ciencia de materiales, materiales, metalurgia, propiedades de materiales_
 
 **confianza-en-la-ia** — Actitud de creer que un agente de IA ayudará a alcanzar los objetivos del usuario en situaciones de incertidumbre; predice la adopción y el uso rutinario de la IA y, vía sesgo de automatización, puede derivar en la aceptación acrítica de sus salidas. _Aliases: trust in AI, confianza en IA, AI trust, automation bias, sesgo de automatización_
 
@@ -139,6 +143,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **economia-de-la-innovacion** — Campo que estudia los determinantes económicos de la innovación tecnológica: retornos crecientes, bienes no rivales, spillovers de conocimiento, propiedad intelectual y el rol del mercado y el Estado en el proceso innovador. _Aliases: economics of innovation, Schumpeter, economía del conocimiento, retornos crecientes_
 
+**economia-del-desarrollo** — Estudio de las causas de la pobreza y de qué intervenciones la reducen, con énfasis en la evidencia experimental (ensayos aleatorios) sobre salud, educación, crédito y mercados en países de bajos ingresos. _Aliases: development economics, economía del desarrollo, pobreza, poverty, Banerjee Duflo_
+
 **educacion-en-programacion** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas. _Aliases: CS education, computing education, educación en ciencias de la computación_
 
 **educacion-en-ingenieria** — Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la ingeniería; incluye diseño curricular, desarrollo de competencias profesionales y transversales, pedagogías basadas en proyectos y la integración de competencias emergentes (como la IA) en los programas de ingeniería. _Aliases: engineering education, educación en ingeniería, first-year engineering, ingeniería de primer año, currículo de ingeniería_
@@ -174,7 +180,11 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **finanzas-personales** — Gestión individual del dinero, el ahorro, la deuda, la inversión y la planificación patrimonial; incluye el comportamiento financiero, la educación financiera y las estrategias para alcanzar seguridad económica a largo plazo. _Aliases: personal finance, educación financiera, wealth building, planificación financiera, inversión personal_
 
+**fisica-y-cosmologia** — Estudio de las leyes fundamentales de la materia, la energía, el espacio y el tiempo, y del origen y estructura del universo; incluye la mecánica cuántica, la relatividad y la divulgación de la física teórica. _Aliases: physics, cosmología, cosmology, física teórica, universo, mecánica cuántica, relatividad_
+
 **formacion-docente** — Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA. _Aliases: teacher education, teacher professional development, teacher training, desarrollo profesional docente_
+
+**fotografia** — Arte y técnica de crear imágenes con la luz; incluye la composición, el instante decisivo, la mirada del observador y la fotografía como forma de documentar y ver el mundo. _Aliases: photography, fotografía, composición fotográfica, instante decisivo, imagen_
 
 **futuro-del-trabajo** — Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales. _Aliases: future of work, mercado laboral, empleabilidad, automatización del empleo_
 
@@ -185,6 +195,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **gestion-por-objetivos** — Marco de gestión organizacional basado en la definición explícita de objetivos ambiciosos y resultados clave medibles (OKR: Objectives and Key Results); fomenta la transparencia, la coordinación y la responsabilidad en todos los niveles de la organización. _Aliases: OKR, objectives and key results, management by objectives, MBO, gestión por resultados_
 
 **grafos-de-conocimiento** — Estructuras de datos que representan entidades como nodos y sus relaciones como aristas etiquetadas (incluye property graphs / Neo4j); usadas para modelar dominios estructurados y servir de contexto recuperable a sistemas de IA. _Aliases: knowledge graph, grafo de conocimiento, labeled property graph, LPG, Neo4j, property graph_
+
+**gran-historia** — Narrativa de gran escala sobre la historia de la humanidad o del universo que integra biología, antropología, tecnología y cultura para explicar cómo llegamos al presente y hacia dónde vamos. _Aliases: big history, gran historia, historia de la humanidad, macrohistoria, Sapiens_
 
 **generacion-aumentada-por-recuperacion** — Técnica que enriquece las respuestas de un LLM recuperando información relevante de una fuente externa (documentos, base de datos o grafo) e insertándola como contexto en el prompt; reduce alucinaciones y aporta datos de dominio; incluye la variante basada en grafos (graph-RAG). _Aliases: retrieval-augmented generation, RAG, graph-RAG, generación aumentada por recuperación_
 
@@ -272,6 +284,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **nanomotores** — Nanopartículas o nanoestructuras autopropulsadas capaces de generar movimiento activo (por reacciones enzimáticas, gradientes químicos o campos magnéticos externos) para mejorar la penetración y distribución en tejidos biológicos; incluye sistemas de movilidad dual (guiado magnético + propulsión enzimática) y análisis de desplazamiento cuadrático medio (MSD). _Aliases: nanomotors, self-propelled nanoparticles, dual-mode mobility, MSD_
 
+**neurociencia** — Estudio científico del sistema nervioso y el cerebro: sus bases biológicas, la cognición, la emoción y la conciencia; incluye la divulgación de hallazgos sobre plasticidad, desarrollo y diferencias cerebrales. _Aliases: neuroscience, neurociencia, cerebro, brain science, ciencia cognitiva_
+
 ## O
 
 **oncologia** — Investigación básica, preclínica y traslacional sobre el cáncer y sus terapias; abarca las bases biológicas de la enfermedad (líneas celulares tumorales, inducción de apoptosis por vías extrínseca/intrínseca vía caspasas), la evaluación de selectividad tumor-normal de nuevas terapias, y su aplicación al diagnóstico y tratamiento mediante nanotecnología, terapia génica y otras modalidades dirigidas. _Aliases: oncology, cáncer, oncología experimental, investigación oncológica, terapias antitumorales, cancer research_
@@ -309,7 +323,11 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **psicologia-de-la-personalidad** — Estudio de las diferencias individuales estables (rasgos) y sus manifestaciones dinámicas (estados de personalidad) en el pensamiento, la emoción y la conducta; incluye modelos como los Cinco Grandes (apertura a la experiencia, neuroticismo) y los enfoques de dinámica de la personalidad que explican cómo el contexto activa estados en marcos temporales cortos. _Aliases: personality psychology, rasgos de personalidad, estados de personalidad, personality states, Big Five, cinco grandes, apertura a la experiencia, neuroticismo_
 
+**psicologia-del-bienestar** — Estudio y práctica del bienestar, el sentido y la resiliencia: cómo las personas encuentran propósito, gestionan la adversidad y cultivan una vida buena; incluye enfoques de la psicología positiva, existencial y adleriana, y su versión divulgativa de autoayuda. _Aliases: wellbeing, bienestar, sentido de la vida, psicología positiva, resiliencia, autoayuda, desarrollo personal_
+
 **psicologia-educativa** — Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas. _Aliases: educational psychology, psicología del aprendizaje_
+
+**psicologia-social** — Estudio de cómo el contexto social, los grupos y las situaciones moldean el pensamiento, la influencia y el comportamiento; incluye el éxito, la persuasión, los umbrales de cambio social y los malentendidos entre desconocidos. _Aliases: social psychology, psicología social, influencia social, dinámica de grupos_
 
 **psicometria** — Teoría y métodos de construcción, validación y análisis de instrumentos de medición psicológica y educativa; incluye fiabilidad, validez, análisis factorial (exploratorio/confirmatorio) y modelos de ecuaciones estructurales para el desarrollo de escalas. _Aliases: psychometrics, psicometría, factor analysis, análisis factorial, scale validation, validación de escalas, CFA, EFA, structural equation modeling_
 
