@@ -2,11 +2,11 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 348,
+    "papers": 353,
     "articles": 53,
     "books": 68,
     "fiction": 65,
-    "concepts": 181
+    "concepts": 183
   },
   "nodes": [
     {
@@ -243,7 +243,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/biologia-molecular.md",
       "content": "Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]\n- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]\n- [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]\n- [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]\n- [[notes/books/2016-01-01_the-gene-mukherjee]]\n- [[notes/books/2021-01-01_code-breaker-isaacson]]\n- [[notes/books/2022-01-01_the-song-of-the-cell-mukherjee]]",
-      "degree": 42
+      "degree": 44
     },
     {
       "id": "concepts/biologia-sintetica",
@@ -297,7 +297,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/biomateriales.md",
       "content": "Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2024-12-02_cpp-posicion-captacion-magnetita]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]\n- [[notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas]]\n- [[notes/papers/2025-01-01_nanocarriers-principios-diseno]]\n- [[notes/papers/2025-01-01_nanocarriers-polimericos]]\n- [[notes/papers/2025-01-01_nanocarriers-inorganicos]]\n- [[notes/papers/2025-01-01_nanocarriers-carbono]]\n- [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]\n- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]\n- [[notes/papers/2026-07-02_cubosomes-mrna-ards]]\n- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]\n- [[notes/papers/2026-07-02_nanogeles-quitosano-melanoma]]\n- [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]\n- [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]",
-      "degree": 43
+      "degree": 46
     },
     {
       "id": "concepts/biopeliculas-bacterianas",
@@ -933,7 +933,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "Las cuatro notas del vault que tocan este concepto —tres de ellas coescritas por Luis H. Reyes— documentan la misma estrategia aplicada en distintos puntos de la cadena agroalimentaria colombiana y latinoamericana: convertir un residuo o subproducto en un insumo de valor en lugar de tratarlo como desecho. Sánchez-Gómez et al. (2020) cierran el ciclo más literal, el de la producción porcina: biodigieren porquinaza en la Reserva El Verjón y usan el biosol resultante como mejorador de suelo, obteniendo un peso de rábano comparable al del fertilizante comercial y raíces incluso más largas, aunque con menor desarrollo de hojas y tallos que sugiere la necesidad de enriquecer el biosol con nitrógeno. Mao et al. (2026) mueven la valorización un escalón más allá de la agricultura, hacia biomasa lignocelulósica residual —astillas, residuos forestales, cáscaras de pecán— convertida en biochar mediante biorreactores portátiles y descentralizados que evitan el transporte de biomasa húmeda a plantas centralizadas; su aporte específico a la economía circular no es agronómico sino de confiabilidad operativa: un monitoreo visual con IA generativa (ControlNet + ResNet-50) que eleva la exactitud de detección de humo de 95,05 % a 98,3 % y reduce las falsas alarmas a 0,6 %, condición práctica para que estos reactores rurales funcionen de forma continua y no reviertan biomasa en ceniza.\n\nDiaz-Bustamante et al. (2026) y Sánchez-Camargo y Reyes (2023) valorizan, en cambio, del lado de la proteína: los primeros incorporan proteína unicelular de *Kluyveromyces lactis* —subproducto de fermentación— en matrices de soya, logrando al 25 % de reemplazo un gel 54 % más firme que el control; los segundos presentan a los insectos (hormiga culona, mojojoy, termitas) como fuente proteica de hasta 77 % de proteína frente al 28 % de la carne de res, con América Latina como segundo mercado mundial. Ambos casos buscan aliviar la huella ambiental de la proteína convencional sustituyéndola por fuentes de menor costo ecológico, aunque —a diferencia del biosol y el biochar— no parten explícitamente de un residuo descartado sino de subproductos o especies subutilizadas; el hilo común sigue siendo cerrar ciclos en sistemas agroalimentarios en lugar de extraer y desechar linealmente.",
       "path": "concepts/economia-circular.md",
       "content": "Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible.\n\n## Qué dice la literatura\n\nLas cuatro notas del vault que tocan este concepto —tres de ellas coescritas por Luis H. Reyes— documentan la misma estrategia aplicada en distintos puntos de la cadena agroalimentaria colombiana y latinoamericana: convertir un residuo o subproducto en un insumo de valor en lugar de tratarlo como desecho. Sánchez-Gómez et al. (2020) cierran el ciclo más literal, el de la producción porcina: biodigieren porquinaza en la Reserva El Verjón y usan el biosol resultante como mejorador de suelo, obteniendo un peso de rábano comparable al del fertilizante comercial y raíces incluso más largas, aunque con menor desarrollo de hojas y tallos que sugiere la necesidad de enriquecer el biosol con nitrógeno. Mao et al. (2026) mueven la valorización un escalón más allá de la agricultura, hacia biomasa lignocelulósica residual —astillas, residuos forestales, cáscaras de pecán— convertida en biochar mediante biorreactores portátiles y descentralizados que evitan el transporte de biomasa húmeda a plantas centralizadas; su aporte específico a la economía circular no es agronómico sino de confiabilidad operativa: un monitoreo visual con IA generativa (ControlNet + ResNet-50) que eleva la exactitud de detección de humo de 95,05 % a 98,3 % y reduce las falsas alarmas a 0,6 %, condición práctica para que estos reactores rurales funcionen de forma continua y no reviertan biomasa en ceniza.\n\nDiaz-Bustamante et al. (2026) y Sánchez-Camargo y Reyes (2023) valorizan, en cambio, del lado de la proteína: los primeros incorporan proteína unicelular de *Kluyveromyces lactis* —subproducto de fermentación— en matrices de soya, logrando al 25 % de reemplazo un gel 54 % más firme que el control; los segundos presentan a los insectos (hormiga culona, mojojoy, termitas) como fuente proteica de hasta 77 % de proteína frente al 28 % de la carne de res, con América Latina como segundo mercado mundial. Ambos casos buscan aliviar la huella ambiental de la proteína convencional sustituyéndola por fuentes de menor costo ecológico, aunque —a diferencia del biosol y el biochar— no parten explícitamente de un residuo descartado sino de subproductos o especies subutilizadas; el hilo común sigue siendo cerrar ciclos en sistemas agroalimentarios en lugar de extraer y desechar linealmente.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]",
-      "degree": 4
+      "degree": 5
     },
     {
       "id": "concepts/economia-de-la-innovacion",
@@ -1056,6 +1056,27 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/educacion-superior.md",
       "content": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]\n- [[notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct]]\n- [[notes/papers/2025-10-06_danos-ia-educacion-programacion]]\n- [[notes/papers/2025-05-15_evaluacion-estructural-genai]]\n- [[notes/papers/2026-01-05_heptagon-alfabetizacion-ia]]\n- [[notes/papers/2026-06-25_ia-literacy-formacion-docente]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]\n- [[notes/papers/2026-01-20_ia-creatividad-ingenieria]]\n- [[notes/papers/2026-02-03_asistente-ia-educacion-superior]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio]]\n- [[notes/papers/2026-01-08_llm-ecuaciones-ingenieria]]\n- [[notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia]]\n- [[notes/papers/2024-07-01_prompting-quimica-preservice]]\n- [[notes/papers/2026-01-10_diseno-especulativo-biodesign-ia]]\n- [[notes/books/2024-04-02_co-intelligence-mollick]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-26_of-boys-and-men-reeves]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/articles/2023-01-01_academia-sostenibilidad-abp]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-01-01_genai-educacion-biotecnologia]]\n- [[notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia]]\n- [[notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento]]\n- [[notes/articles/2025-12-01_dec-marco-alfabetizacion-ia]]\n- [[notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria]]\n- [[notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior]]\n- [[notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico]]\n- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]\n- [[notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente]]\n- [[notes/papers/2025-05-23_alfabetizacion-ia-componente-central]]\n- [[notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision]]\n- [[notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria]]\n- [[notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria]]\n- [[notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa]]\n- [[notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai]]\n- [[notes/papers/2026-01-29_authentic-assessment-genai]]\n- [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]\n- [[notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia]]\n- [[notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados]]\n- [[notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict]]\n- [[notes/papers/2024-04-01_ai-assessment-scale-aias]]\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-10-06_siete-olas-evaluacion-genai]]\n- [[notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior]]\n- [[notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/1996-01-01_enhancing-teaching-constructive-alignment]]\n- [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]\n- [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]\n- [[notes/papers/2023-12-01_contra-deteccion-ia-evaluacion]]\n- [[notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria]]\n- [[notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada]]\n- [[notes/papers/2025-02-02_redesigning-assessments-gen-ai]]\n- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]\n- [[notes/papers/2026-05-21_genai-misuse-assessment-reform]]\n- [[notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica]]\n- [[notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica]]\n- [[notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia]]\n- [[notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas]]\n- [[notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]\n- [[notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado]]\n- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis]]\n- [[notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica]]\n- [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]\n- [[notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion]]\n- [[notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo]]\n- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]\n- [[notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior]]\n- [[notes/papers/2026-06-28_genai-educacion-superior-revision]]\n- [[notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis]]\n- [[notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica]]\n- [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]\n- [[notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar]]\n- [[notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior]]\n- [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]\n- [[notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion]]\n- [[notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales]]\n- [[notes/papers/2025-06-22_genai-educacion-ingenieria-scoping]]\n- [[notes/papers/2026-06-28_stem-faculty-evaluacion-genai]]\n- [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]\n- [[notes/papers/2025-05-12_factores-alfabetizacion-ia-docentes]]\n- [[notes/papers/2026-03-27_genai-percepciones-docentes-tpack]]\n- [[notes/papers/2026-06-28_ai-academy-alfabetizacion-genai-docentes]]\n- [[notes/papers/2025-07-22_perspectivas-docentes-ia-generativa]]\n- [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]\n- [[notes/papers/2025-10-21_needs-satisfaction-tpack-genai-docentes]]\n- [[notes/papers/2026-01-13_estrategias-competencias-ia-educacion-superior]]\n- [[notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior]]\n- [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]\n- [[notes/papers/2026-01-16_evaluacion-detectores-ia-contextos-academicos]]\n- [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]\n- [[notes/papers/2023-06-28_testing-detection-tools-ai-text]]\n- [[notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad]]\n- [[notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico]]\n- [[notes/papers/2026-06-28_ai-detectors-fail-diverse-populations]]\n- [[notes/papers/2025-09-05_formulario-divulgacion-ia-quimica]]\n- [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]\n- [[notes/papers/2023-11-01_assessment-reform-era-ia]]\n- [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]\n- [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]\n- [[notes/papers/2024-05-13_impacto-llm-educacion-programacion]]\n- [[notes/papers/2026-06-28_chatgpt-pregrado-resultados-aprendizaje-metaanalisis]]\n- [[notes/papers/2025-11-03_riesgos-llm-educacion-revision-sistematica]]\n- [[notes/papers/2025-10-01_llm-cualificacion-socializacion-subjetivacion-metaanalisis]]\n- [[notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva]]\n- [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]\n- [[notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje]]\n- [[notes/papers/2025-05-06_retractado-chatgpt-rendimiento-metaanalisis]]\n- [[notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico]]\n- [[notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis]]\n- [[notes/articles/2025-01-01_abet-cac-criterios-computacion-ia-ml]]\n- [[notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision]]\n- [[notes/articles/2021-01-01_eur-ace-marco-acreditacion-ingenieria]]\n- [[notes/articles/2025-06-24_ethics-is-the-edge-ia-educacion-superior]]\n- [[notes/papers/2025-06-27_adapting-university-policies-genai]]\n- [[notes/papers/2025-07-28_efectividad-politicas-institucionales-genai]]\n- [[notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr]]\n- [[notes/articles/2024-10-25_abet-eac-criterios-acreditacion-ingenieria-2025-2026]]\n- [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]\n- [[notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial]]\n- [[notes/articles/2025-11-26_impacto-ia-empleo-graduados]]\n- [[notes/papers/2025-07-16_ai-skills-empleabilidad-egresados]]\n- [[notes/papers/2026-01-01_genai-brecha-digital-educacion-superior]]\n- [[notes/papers/2026-06-28_deskilling-reskilling-upskilling-ia-generativa]]\n- [[notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global]]\n- [[notes/papers/2025-07-09_genai-divide-estudiantes-universitarios]]\n- [[notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes]]\n- [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]\n- [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]\n- [[notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe]]\n- [[notes/papers/2025-04-19_metacognitive-support-srl-genai]]\n- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]\n- [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]\n- [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]\n- [[notes/papers/2026-05-20_salud-mental-investigadores-carrera-temprana-metaanalisis]]\n- [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]",
       "degree": 158
+    },
+    {
+      "id": "concepts/emulsiones",
+      "kind": "concept",
+      "label": "emulsiones",
+      "keyword": "emulsiones",
+      "aliases": [
+        "emulsions",
+        "emulsiones",
+        "Pickering emulsion",
+        "double emulsion",
+        "W/O/W",
+        "HIPE",
+        "high internal phase emulsion",
+        "sistema de encapsulación"
+      ],
+      "definition": "Sistemas coloidales de dos líquidos inmiscibles (aceite y agua) estabilizados por surfactantes, proteínas o partículas; incluye emulsiones simples, dobles (W/O/W), Pickering y de fase interna alta (HIPE), y su uso para encapsular y liberar de forma controlada compuestos bioactivos y microorganismos.",
+      "literature": "",
+      "path": "concepts/emulsiones.md",
+      "content": "Sistemas coloidales de dos líquidos inmiscibles (aceite y agua) estabilizados por surfactantes, proteínas o partículas; incluye emulsiones simples, dobles (W/O/W), Pickering y de fase interna alta (HIPE), y su uso para encapsular y liberar de forma controlada compuestos bioactivos y microorganismos.\n\n## Notas que usan este concepto",
+      "degree": 2
     },
     {
       "id": "concepts/enfermedades-raras",
@@ -1322,7 +1343,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/evolucion-de-laboratorio.md",
       "content": "Técnica experimental en que una población microbiana es sometida a presión selectiva durante múltiples generaciones para identificar mutantes con fenotipos mejorados; permite mapear el paisaje adaptativo de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "concepts/exposicion-laboral-a-la-ia",
@@ -1519,7 +1540,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/genomica.md",
       "content": "Campo que estudia la estructura, función y variación de los genomas completos; incluye secuenciación masiva, transcriptómica, proteómica y herramientas de análisis de datos ómicos para identificar bases genéticas de fenotipos complejos.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]\n- [[notes/books/2016-01-01_the-gene-mukherjee]]\n- [[notes/books/2021-01-01_code-breaker-isaacson]]",
-      "degree": 19
+      "degree": 20
     },
     {
       "id": "concepts/geopolitica-tecnologica",
@@ -1806,7 +1827,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/ingenieria-de-alimentos.md",
       "content": "Disciplina que aplica principios de química, ingeniería y ciencias de materiales al diseño, procesamiento, conservación y caracterización de alimentos; incluye reología, textura, microestructura, análisis sensorial y formulación de productos alimentarios.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]\n- [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]\n- [[notes/papers/2024-01-01_casein-polimorfismos-queso]]\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]",
-      "degree": 17
+      "degree": 21
     },
     {
       "id": "concepts/ingenieria-de-prompts",
@@ -1845,6 +1866,26 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 3
     },
     {
+      "id": "concepts/ingenieria-de-tejidos",
+      "kind": "concept",
+      "label": "ingenieria de tejidos",
+      "keyword": "ingenieria-de-tejidos",
+      "aliases": [
+        "tissue engineering",
+        "ingeniería de tejidos",
+        "medicina regenerativa",
+        "regenerative medicine",
+        "cultivo celular 3D",
+        "scaffolds",
+        "organoides"
+      ],
+      "definition": "Campo que combina células, materiales de soporte (scaffolds, hidrogeles) y señales bioquímicas para reparar o regenerar tejidos; incluye la medicina regenerativa, el cultivo celular 3D, los organoides y la reprogramación celular.",
+      "literature": "",
+      "path": "concepts/ingenieria-de-tejidos.md",
+      "content": "Campo que combina células, materiales de soporte (scaffolds, hidrogeles) y señales bioquímicas para reparar o regenerar tejidos; incluye la medicina regenerativa, el cultivo celular 3D, los organoides y la reprogramación celular.\n\n## Notas que usan este concepto",
+      "degree": 0
+    },
+    {
       "id": "concepts/ingenieria-metabolica",
       "kind": "concept",
       "label": "ingenieria metabolica",
@@ -1860,7 +1901,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/ingenieria-metabolica.md",
       "content": "Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida.\n\n## Notas que usan este concepto\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]",
-      "degree": 21
+      "degree": 23
     },
     {
       "id": "concepts/ingenieria-quimica",
@@ -2068,7 +2109,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "Cuatro estudios entre 2013 y 2023, encadenados por la coautoría constante de Luis H. Reyes, documentan dos estrategias distintas para resolver el mismo problema: la producción de un metabolito secundario compite por precursores con el crecimiento celular. Los primeros tres forman una progresión metodológica explícita sobre carotenoides en Saccharomyces cerevisiae. Reyes, Gómez y Kao (2014) inauguran la estrategia: convierten la carga metabólica en ventaja selectiva sometiendo la cepa a choques de H₂O₂, de modo que los mutantes hiper-pigmentados —más ricos en carotenoides antioxidantes— sobreviven mejor, logrando un incremento de 3× (de 6 a 18 mg/g de peso celular seco) y una transcriptómica que apunta a la vía del mevalonato. Olson et al. (2016), con Reyes y Kao de nuevo entre los autores, toman la cepa resultante (SM14) y la llevan al biorreactor: optimizan pH y razón C:N (50, frente al estándar de 8.8) hasta alcanzar 25.52 mg β-caroteno/g dcw, y validan la espectroscopía Raman como monitoreo no invasivo en tiempo real, encontrando además que el contenido de ácidos grasos correlaciona con el rendimiento de caroteno —un eco directo del hallazgo transcriptómico de 2014 sobre biosíntesis lipídica. Reyes y Kao (2018) cierran la serie sistematizando el protocolo en un capítulo de métodos, y generalizan explícitamente el principio: cualquier metabolito cuya sobreproducción confiera una ventaja selectiva medible (actividad antimicrobiana, redox) es candidato a acoplamiento al crecimiento vía evolución adaptativa de laboratorio (ALE).\n\nParra Daza et al. (2023) no continúan esta línea: cambian de organismo (E. coli), de metabolito (naringenina, un flavonoide) y de estrategia —ingeniería racional de la ruta PAL-4CL-CHS-CHI más modelado a escala genómica— en vez de evolución dirigida. La carga metabólica se resuelve aquí optimizando la transferencia de oxígeno (40% OD en biorreactor), no imponiendo presión selectiva, y el resultado (3.11 g/L) es el mayor título de naringenina reportado por biosíntesis heteróloga en E. coli. El corpus muestra así dos caminos no convergentes hacia el mismo problema de ingeniería metabólica: evolucionar la carga metabólica hasta convertirla en ventaja, o diseñarla racionalmente controlando el bioproceso.",
       "path": "concepts/metabolitos-secundarios.md",
       "content": "Compuestos orgánicos producidos por los organismos que no son directamente esenciales para su crecimiento o reproducción; incluyen pigmentos, antibióticos, terpenoides y carotenoides, y representan una carga metabólica cuya sobreproducción requiere estrategias especiales de ingeniería.\n\n## Qué dice la literatura\n\nCuatro estudios entre 2013 y 2023, encadenados por la coautoría constante de Luis H. Reyes, documentan dos estrategias distintas para resolver el mismo problema: la producción de un metabolito secundario compite por precursores con el crecimiento celular. Los primeros tres forman una progresión metodológica explícita sobre carotenoides en Saccharomyces cerevisiae. Reyes, Gómez y Kao (2014) inauguran la estrategia: convierten la carga metabólica en ventaja selectiva sometiendo la cepa a choques de H₂O₂, de modo que los mutantes hiper-pigmentados —más ricos en carotenoides antioxidantes— sobreviven mejor, logrando un incremento de 3× (de 6 a 18 mg/g de peso celular seco) y una transcriptómica que apunta a la vía del mevalonato. Olson et al. (2016), con Reyes y Kao de nuevo entre los autores, toman la cepa resultante (SM14) y la llevan al biorreactor: optimizan pH y razón C:N (50, frente al estándar de 8.8) hasta alcanzar 25.52 mg β-caroteno/g dcw, y validan la espectroscopía Raman como monitoreo no invasivo en tiempo real, encontrando además que el contenido de ácidos grasos correlaciona con el rendimiento de caroteno —un eco directo del hallazgo transcriptómico de 2014 sobre biosíntesis lipídica. Reyes y Kao (2018) cierran la serie sistematizando el protocolo en un capítulo de métodos, y generalizan explícitamente el principio: cualquier metabolito cuya sobreproducción confiera una ventaja selectiva medible (actividad antimicrobiana, redox) es candidato a acoplamiento al crecimiento vía evolución adaptativa de laboratorio (ALE).\n\nParra Daza et al. (2023) no continúan esta línea: cambian de organismo (E. coli), de metabolito (naringenina, un flavonoide) y de estrategia —ingeniería racional de la ruta PAL-4CL-CHS-CHI más modelado a escala genómica— en vez de evolución dirigida. La carga metabólica se resuelve aquí optimizando la transferencia de oxígeno (40% OD en biorreactor), no imponiendo presión selectiva, y el resultado (3.11 g/L) es el mayor título de naringenina reportado por biosíntesis heteróloga en E. coli. El corpus muestra así dos caminos no convergentes hacia el mismo problema de ingeniería metabólica: evolucionar la carga metabólica hasta convertirla en ventaja, o diseñarla racionalmente controlando el bioproceso.\n\n## Notas que usan este concepto\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]",
-      "degree": 4
+      "degree": 6
     },
     {
       "id": "concepts/microfluidica",
@@ -2086,7 +2127,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "Nueve notas, publicadas entre 2021 y 2026, documentan lo que es en realidad un mismo programa de investigación: Juan C. Cruz y Luis H. Reyes (Universidad de los Andes) firman las nueve, casi siempre junto a Johann F. Osma en la primera mitad de la serie (2021-2024) y, desde 2023, junto a Cristian F. Rodríguez, quien pasa de coautor a primer autor en cuatro de los trabajos más recientes. El corpus se organiza en dos líneas metodológicas que convergen hacia el final.\n\nLa primera línea es la síntesis de liposomas y magnetoliposomas para entrega de fármacos. Giraldo et al. (2021) comparan mezcladores pasivos y acústicos para encapsular nanobioconjugados y encuentran que los sistemas acústicos producen vesículas más uniformes (PDI < 0.1 frente a 0.15-0.25) y hasta 40% más eficiencia de encapsulación para cargas de alto peso molecular. Gómez et al. (2021) bajan el costo del chip en más de 10 veces para sintetizar liposomas gigantes (GUV) usados en el cribado de péptidos activos en membrana. Torres et al. (2022) integran síntesis y purificación de magnetoliposomas en un solo chip, obteniendo vesículas de 150-200 nm con PDI < 0.15 y más de 90% de eficiencia de purificación, aunque documentan desestabilización a pH 1.2 que limita la administración oral directa. Rodríguez et al. (2025), en la revisión que cierra esta línea, sitúan estos hallazgos dentro de un panorama más amplio de magnetoliposomas en nanomedicina y señalan explícitamente que la microfluídica mejora la reproducibilidad frente a la hidratación de película delgada tradicional. Reyes Marín et al. (2026) retoman la cifra de tamaño de vesícula (150-200 nm, de nuevo monodispersas) para liposomas cargados con puntos de carbono, e identifican la relación de caudales (FRR 2:1) como el parámetro dominante de la encapsulación, con la geometría \"Chambers\" alcanzando ~90% de eficiencia.\n\nLa segunda línea, iniciada por la revisión de Rodríguez et al. (2023) sobre alternativas de bajo costo a la sala limpia, se dedica a la separación de partículas. Rodríguez et al. (HardwareX, 2023) logran 96.14% de precisión separando micropartículas de quitosano (15-40 µm) en un chip de PMMA ablacionado por láser. El dispositivo Zweifach-Fung de Rodríguez et al. (2024) —que cita explícitamente el paper anterior— alcanza 94% ± 3% de exactitud a un caudal óptimo de 2 mL/h, con chips de menos de USD 0.90 fabricados en 15 minutos. El siguiente trabajo del mismo año, sobre separación magnética en PMMA, cita a su vez ambos estudios previos y mejora el recall de nanopartículas del 50% (modelos anteriores) al 93.3% ± 4%, reutilizando el mismo caudal óptimo de 2 mL/h como punto de comparación directo entre estudios.\n\nLas dos líneas convergen en el material: el grupo migra del PDMS por litografía blanda (2021-2022) hacia el PMMA por ablación láser como estándar de bajo costo, adoptado primero en la línea de separación (2023-2024) y luego también en la de encapsulación, con los micromezcladores de PMMA de Reyes Marín et al. (2026). El hilo conductor declarado en la revisión de 2023 —democratizar la microfluídica fuera de la sala limpia— se cumple después en cifras concretas: costos por chip inferiores a un dólar, tiempos de fabricación de minutos y precisión que iguala o supera a los sistemas comerciales.",
       "path": "concepts/microfluidica.md",
       "content": "Tecnología de sistemas miniaturizados para manipular fluidos a escala de microlitros o nanolitros; permite síntesis controlada de nanopartículas, liposomas y otros sistemas de encapsulación con alta reproducibilidad y bajo consumo de materiales.\n\n## Qué dice la literatura\n\nNueve notas, publicadas entre 2021 y 2026, documentan lo que es en realidad un mismo programa de investigación: Juan C. Cruz y Luis H. Reyes (Universidad de los Andes) firman las nueve, casi siempre junto a Johann F. Osma en la primera mitad de la serie (2021-2024) y, desde 2023, junto a Cristian F. Rodríguez, quien pasa de coautor a primer autor en cuatro de los trabajos más recientes. El corpus se organiza en dos líneas metodológicas que convergen hacia el final.\n\nLa primera línea es la síntesis de liposomas y magnetoliposomas para entrega de fármacos. Giraldo et al. (2021) comparan mezcladores pasivos y acústicos para encapsular nanobioconjugados y encuentran que los sistemas acústicos producen vesículas más uniformes (PDI < 0.1 frente a 0.15-0.25) y hasta 40% más eficiencia de encapsulación para cargas de alto peso molecular. Gómez et al. (2021) bajan el costo del chip en más de 10 veces para sintetizar liposomas gigantes (GUV) usados en el cribado de péptidos activos en membrana. Torres et al. (2022) integran síntesis y purificación de magnetoliposomas en un solo chip, obteniendo vesículas de 150-200 nm con PDI < 0.15 y más de 90% de eficiencia de purificación, aunque documentan desestabilización a pH 1.2 que limita la administración oral directa. Rodríguez et al. (2025), en la revisión que cierra esta línea, sitúan estos hallazgos dentro de un panorama más amplio de magnetoliposomas en nanomedicina y señalan explícitamente que la microfluídica mejora la reproducibilidad frente a la hidratación de película delgada tradicional. Reyes Marín et al. (2026) retoman la cifra de tamaño de vesícula (150-200 nm, de nuevo monodispersas) para liposomas cargados con puntos de carbono, e identifican la relación de caudales (FRR 2:1) como el parámetro dominante de la encapsulación, con la geometría \"Chambers\" alcanzando ~90% de eficiencia.\n\nLa segunda línea, iniciada por la revisión de Rodríguez et al. (2023) sobre alternativas de bajo costo a la sala limpia, se dedica a la separación de partículas. Rodríguez et al. (HardwareX, 2023) logran 96.14% de precisión separando micropartículas de quitosano (15-40 µm) en un chip de PMMA ablacionado por láser. El dispositivo Zweifach-Fung de Rodríguez et al. (2024) —que cita explícitamente el paper anterior— alcanza 94% ± 3% de exactitud a un caudal óptimo de 2 mL/h, con chips de menos de USD 0.90 fabricados en 15 minutos. El siguiente trabajo del mismo año, sobre separación magnética en PMMA, cita a su vez ambos estudios previos y mejora el recall de nanopartículas del 50% (modelos anteriores) al 93.3% ± 4%, reutilizando el mismo caudal óptimo de 2 mL/h como punto de comparación directo entre estudios.\n\nLas dos líneas convergen en el material: el grupo migra del PDMS por litografía blanda (2021-2022) hacia el PMMA por ablación láser como estándar de bajo costo, adoptado primero en la línea de separación (2023-2024) y luego también en la de encapsulación, con los micromezcladores de PMMA de Reyes Marín et al. (2026). El hilo conductor declarado en la revisión de 2023 —democratizar la microfluídica fuera de la sala limpia— se cumple después en cifras concretas: costos por chip inferiores a un dólar, tiempos de fabricación de minutos y precisión que iguala o supera a los sistemas comerciales.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]\n- [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "concepts/microscopia-de-caracterizacion",
@@ -2104,7 +2145,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/microscopia-de-caracterizacion.md",
       "content": "Técnicas de microscopía electrónica (SEM, TEM, FE-SEM) y de fluorescencia usadas para caracterizar morfología, ultraestructura y distribución espacial de células, biopelículas y materiales a escala micro- y nanométrica.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]",
-      "degree": 1
+      "degree": 3
     },
     {
       "id": "concepts/mitologia-y-religion",
@@ -2143,7 +2184,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/modelado-molecular.md",
       "content": "Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2024-09-25_peptidos-interfaciales-in-silico]]\n- [[notes/papers/2025-10-06_genai-quimica-computacional-roadmap]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai]]",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "concepts/modernizacion",
@@ -2209,7 +2250,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/nanomedicina.md",
       "content": "Aplicación de la nanotecnología al diagnóstico y tratamiento de enfermedades; incluye nanopartículas funcionalizadas para entrega dirigida de fármacos/péptidos, guiado magnético y teranóstica.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]",
-      "degree": 1
+      "degree": 2
     },
     {
       "id": "concepts/nanomotores",
@@ -2263,7 +2304,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "Los dos estudios del corpus abordan el cáncer desde la misma premisa —un nanovehículo que concentra el efecto terapéutico en el tumor y limita el daño colateral— pero por caminos mecanísticos opuestos: uno busca matar la célula tumoral por daño físico directo, el otro busca reprogramarla metabólicamente para que deje de proliferar. Câmpian et al. atacan el adenocarcinoma colorrectal (Caco-2) con nanopartículas de magnetita cargadas de melitina, un péptido citolítico del veneno de abeja, y potencian su efecto con hipertermia magnética; el daño mitocondrial resultante (pérdida de crestas, caída de ATP al 53% del control, caspasa 9 elevada un 2164%) es esencialmente destructivo y agudo, confirmado por TEM como necrosis/apoptosis mitocondrial directa. Dabas et al., en cambio, tratan el cáncer de próstata (modelo C4-2b) restaurando la expresión de PGC1α vía ARNm encapsulado en nanogeles dirigidos a PSMA, lo que activa la biogénesis mitocondrial (+300% de masa mitocondrial, TOMM20) no para dañar la célula sino para revertir su metabolismo tumoral, reprimiendo MYC, KRAS y el eje del receptor de andrógenos. Es una convergencia reveladora: ambos usan la mitocondria como palanca terapéutica, pero una la destruye y la otra la repuebla — el mismo órgano celular funciona como diana antitética según el mecanismo de entrega.\n\nAmbos trabajos comparten también la lógica de la doble selectividad —un ligando o campo externo que dirige la nanopartícula, y una vulnerabilidad biológica específica del tumor que amplifica el efecto solo donde importa— pero difieren notablemente en madurez. Câmpian et al. se quedan en una prueba de concepto in vitro con una sola línea tumoral, una sola dosis y sin validación in vivo, mientras que Dabas et al. avanzan hasta un modelo de xenoinjerto murino con reducción del 73% en volumen tumoral y sin toxicidad hepática aguda, un salto traslacional que el estudio de melitina todavía no ha dado. Leídos juntos, sugieren que la oncología de nanovehículos dirigidos vive hoy dos velocidades distintas: la citotoxicidad física (hipertermia, péptidos líticos) sigue en fase de caracterización mecanística temprana, mientras que la reprogramación metabólica basada en ARNm ya empieza a mostrar eficacia en modelos animales.",
       "path": "concepts/oncologia.md",
       "content": "Investigación básica, preclínica y traslacional sobre el cáncer y sus terapias; abarca las bases biológicas de la enfermedad (líneas celulares tumorales, inducción de apoptosis por vías extrínseca/intrínseca vía caspasas), la evaluación de selectividad tumor-normal de nuevas terapias, y su aplicación al diagnóstico y tratamiento mediante nanotecnología, terapia génica y otras modalidades dirigidas.\n\n## Qué dice la literatura\n\nLos dos estudios del corpus abordan el cáncer desde la misma premisa —un nanovehículo que concentra el efecto terapéutico en el tumor y limita el daño colateral— pero por caminos mecanísticos opuestos: uno busca matar la célula tumoral por daño físico directo, el otro busca reprogramarla metabólicamente para que deje de proliferar. Câmpian et al. atacan el adenocarcinoma colorrectal (Caco-2) con nanopartículas de magnetita cargadas de melitina, un péptido citolítico del veneno de abeja, y potencian su efecto con hipertermia magnética; el daño mitocondrial resultante (pérdida de crestas, caída de ATP al 53% del control, caspasa 9 elevada un 2164%) es esencialmente destructivo y agudo, confirmado por TEM como necrosis/apoptosis mitocondrial directa. Dabas et al., en cambio, tratan el cáncer de próstata (modelo C4-2b) restaurando la expresión de PGC1α vía ARNm encapsulado en nanogeles dirigidos a PSMA, lo que activa la biogénesis mitocondrial (+300% de masa mitocondrial, TOMM20) no para dañar la célula sino para revertir su metabolismo tumoral, reprimiendo MYC, KRAS y el eje del receptor de andrógenos. Es una convergencia reveladora: ambos usan la mitocondria como palanca terapéutica, pero una la destruye y la otra la repuebla — el mismo órgano celular funciona como diana antitética según el mecanismo de entrega.\n\nAmbos trabajos comparten también la lógica de la doble selectividad —un ligando o campo externo que dirige la nanopartícula, y una vulnerabilidad biológica específica del tumor que amplifica el efecto solo donde importa— pero difieren notablemente en madurez. Câmpian et al. se quedan en una prueba de concepto in vitro con una sola línea tumoral, una sola dosis y sin validación in vivo, mientras que Dabas et al. avanzan hasta un modelo de xenoinjerto murino con reducción del 73% en volumen tumoral y sin toxicidad hepática aguda, un salto traslacional que el estudio de melitina todavía no ha dado. Leídos juntos, sugieren que la oncología de nanovehículos dirigidos vive hoy dos velocidades distintas: la citotoxicidad física (hipertermia, péptidos líticos) sigue en fase de caracterización mecanística temprana, mientras que la reprogramación metabólica basada en ARNm ya empieza a mostrar eficacia en modelos animales.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]\n- [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]\n- [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]",
-      "degree": 3
+      "degree": 4
     },
     {
       "id": "concepts/pacientes-virtuales",
@@ -2334,7 +2375,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/peptidos-bioactivos.md",
       "content": "Péptidos cortos con actividad biológica (antimicrobiana, antioxidante, inmunomoduladora) derivados de proteínas mediante hidrólisis enzimática o fermentación microbiana; incluye los péptidos antimicrobianos (AMPs) y su descubrimiento in silico.\n\n## Notas que usan este concepto\n- [[notes/papers/2024-01-01_casein-actividad-antimicrobiana]]\n- [[notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno]]\n- [[notes/papers/2025-01-01_amp-analisis-estadistico-datos]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica]]\n- [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]\n- [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "concepts/percepcion-multisensorial",
@@ -2474,7 +2515,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/probioticos.md",
       "content": "Microorganismos vivos que confieren beneficios a la salud del huésped cuando se administran en cantidades adecuadas; incluye su formulación oral, encapsulación para viabilidad gastrointestinal y aplicaciones en salud digestiva.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]",
-      "degree": 1
+      "degree": 3
     },
     {
       "id": "concepts/procesamiento-de-lenguaje-natural",
@@ -2530,7 +2571,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/proteinas-recombinantes.md",
       "content": "Proteínas producidas por organismos huésped modificados genéticamente para expresar genes foráneos; su producción implica desafíos de plegamiento, glicosilación y actividad biológica, especialmente cuando se expresan en sistemas procarióticos.\n\n## Notas que usan este concepto\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]\n- [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]\n- [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "concepts/psicologia-de-la-personalidad",
@@ -3097,7 +3138,7 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/terapia-genica.md",
       "content": "Enfoque terapéutico que introduce, modifica o silencia material genético en células para tratar enfermedades; incluye vectores virales y no virales, edición genómica (CRISPR/Cas9), terapia de células madre y tecnologías de entrega de genes.\n\n## Notas que usan este concepto\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro]]\n- [[notes/papers/2025-04-09_nanoteranostica-terapia-genica]]\n- [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]\n- [[notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas]]\n- [[notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos]]\n- [[notes/papers/2026-07-02_cubosomes-mrna-ards]]\n- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]\n- [[notes/books/2016-01-01_the-gene-mukherjee]]\n- [[notes/books/2021-01-01_code-breaker-isaacson]]\n- [[notes/books/2022-01-01_the-song-of-the-cell-mukherjee]]",
-      "degree": 17
+      "degree": 18
     },
     {
       "id": "concepts/termodinamica",
@@ -13217,6 +13258,158 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata.md",
       "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/dabas_2026_pgc1a-nanogels-prostate-cancer.pdf",
       "content": "## Resumen\nEl cáncer de próstata (PCa) es uno de los cánceres más diagnosticados en hombres del Reino Unido y Estados Unidos, y su progresión hacia formas resistentes al tratamiento está fuertemente ligada a la desregulación metabólica tumoral. El coactivador transcripcional PGC1α (peroxisome proliferator-activated receptor gamma coactivator 1-alpha) es un regulador central de la biogénesis mitocondrial y el metabolismo oxidativo que, al restaurarse, puede inhibir programas metastásicos y de proliferación tumoral. Este estudio investiga la viabilidad terapéutica de sobreexpresar PGC1α mediante entrega de ARNm utilizando un sistema de nanogeles (NGs) reticulados con enlaces disulfuro, sensibles al entorno redox intracelular, y funcionalizados con un péptido dirigido al antígeno de membrana específico de próstata (PSMA).\n\nLos autores optimizaron primero la composición físico-química de los nanogeles —incluyendo la densidad de maleimida superficial y la cantidad de péptido PSMA conjugado— para lograr partículas de tamaño, carga superficial y capacidad de carga de ARNm óptimos, confirmando la conjugación exitosa mediante RMN, ensayos fluorimétricos y espectroscopía Raman de partícula única (SPARTA). La especificidad de direccionamiento se validó in vitro comparando líneas celulares PSMA-positivas (C4-2) y PSMA-negativas (PC3), así como en modelos de esferoides 3D que aproximan mejor la arquitectura tumoral. Posteriormente se evaluó la biodistribución in vivo en ratones y, finalmente, la eficacia terapéutica en un modelo de xenoinjerto de PCa (células C4-2b) mediante administración sistémica repetida.\n\nLos nanogeles dirigidos con PSMA lograron una acumulación tumoral preferencial y una sobreexpresión sostenida de la isoforma N-terminal de PGC1α (NT-PGC1α), incrementando el contenido mitocondrial y activando perfiles transcripcionales supresores de tumor, mientras suprimían señales proliferativas. En el modelo de xenoinjerto, el tratamiento con NGs cargados de NT-PGC1α redujo el volumen tumoral en aproximadamente un 73% frente al control no tratado, con una reducción del 85% en la proliferación celular (marcador Ki-67) y un aumento de ~300% en la masa mitocondrial (TOMM20), sin toxicidad sistémica evidente. Este trabajo constituye el primer ejemplo de un sistema de nanogeles dirigido a próstata para reprogramación metabólica mediada por ARNm en cáncer, y amplía el repertorio de plataformas de entrega de ARN más allá de los sistemas lipídicos establecidos.\n\n## Contribuciones principales\n- Primer sistema de nanogeles reticulados con disulfuro y dirigidos a PSMA para entrega selectiva de ARNm en células de cáncer de próstata.\n- Caracterización fisicoquímica exhaustiva de la conjugación superficial del péptido PSMA mediante química click tiol-maleimida, validada con RMN, fluorimetría y espectroscopía Raman de partícula única (SPARTA).\n- Demostración de que la sobreexpresión de NT-PGC1α mediada por ARNm suprime significativamente la progresión tumoral en un modelo de xenoinjerto in vivo, con perfil de seguridad favorable.\n- Evidencia mecanística que vincula la reprogramación metabólica inducida por PGC1α con la represión de CAMKK2 y del eje andrógeno-metabolismo en células de PCa.\n\n## Metodología\nLos nanogeles se sintetizaron in situ mediante polimerización por radicales libres (acrilamida, AETC, un entrecruzador disulfuro SS-DiA y acrilato-PEG-maleimida), encapsulando el ARNm de NT-PGC1α por plantillado electrostático. El péptido dirigido a PSMA, inspirado en el motivo de unión de 177Lu-PSMA-617, se conjugó a la superficie de los nanogeles mediante química click tiol-maleimida. La especificidad de captación celular se evaluó in vitro en líneas PSMA-positivas y negativas, y en esferoides 3D. La biodistribución se determinó in vivo en ratones C57BL/6 usando ARNm fluorescente y sistema de imagen IVIS. La eficacia terapéutica se evaluó en un modelo de xenoinjerto subcutáneo de PCa (ratones NSG inoculados con células C4-2b), con tratamiento sistémico subcutáneo tres veces por semana durante 32 días, análisis histológico (Ki-67, TOMM20), perfil transcriptómico por RNA-seq y evaluación de toxicidad sistémica (hemólisis, enzimas hepáticas ALT/AST, peso corporal).\n\n## Hallazgos clave\n- Los nanogeles funcionalizados con 0.026 µmol de péptido PSMA presentaron el tamaño (202 nm) y polidispersidad (PI 0.04) óptimos para direccionamiento celular.\n- La captación de los nanogeles dirigidos por PSMA fue significativamente mayor en células PSMA-positivas (C4-2) que en negativas (PC3), confirmando especificidad de direccionamiento.\n- La administración sistémica de los nanogeles dirigidos logró acumulación tumoral y prostática preferencial en comparación con controles no dirigidos.\n- El tratamiento con NGs-NT-PGC1α redujo el volumen tumoral en ~73% (de 641-667 mm³ en controles a 171 mm³) tras 32 días de tratamiento.\n- Se observó una reducción del 85% en proliferación celular (Ki-67) y un incremento de ~300% en masa mitocondrial (TOMM20) en tumores tratados.\n- El perfil transcriptómico reveló represión de reguladores oncogénicos (MYC, KRAS, AURKA, CTNNB1) y del eje receptor de andrógenos (AR, ARLNC1, NKX3-1), junto con activación de inhibidores del ciclo celular (CDKN1A/CDKN1B) y represión de CAMKK2.\n- No se observó hemólisis ni toxicidad hepática aguda; se detectó una elevación leve de AST en el grupo tratado, sin signos manifiestos de daño hepático o toxicidad conductual.\n\n## Limitaciones\n- El modelo de xenoinjerto subcutáneo utilizado no permite distinguir completamente la entrega mediada por PSMA de la acumulación pasiva por efecto EPR (permeabilidad y retención mejoradas) en el tumor ectópico.\n- El estudio se diseñó como una prueba de eficacia y carece de un análisis formal de dosis-respuesta, análisis de supervivencia y un brazo comparador con terapias de referencia.\n- El paquete de toxicología presentado (hemólisis, ALT/AST, peso corporal) es preliminar; se requiere un estudio de toxicología completo (histopatología, hemograma, perfil de citocinas, seguimiento a largo plazo) antes de cualquier traducción clínica.\n- Los experimentos se realizaron en ratones inmunocomprometidos, lo que no permite evaluar respuestas inmunológicas relevantes para la traducción clínica; se sugieren modelos inmunocompetentes o humanizados en trabajo futuro.\n- Se recomienda validar los hallazgos en modelos más representativos de la enfermedad clínica, como tumores ortotópicos, modelos metastásicos o xenoinjertos derivados de pacientes.\n\n## Notas relacionadas\n- [[concepts/biomateriales]]\n- [[concepts/nanociencia]]\n- [[concepts/terapia-genica]]\n- [[concepts/desarrollo-de-farmacos]]\n- [[concepts/biologia-molecular]]\n- [[concepts/genomica]]\n- [[concepts/oncologia]]"
+    },
+    {
+      "id": "notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg",
+      "kind": "paper",
+      "label": "Study on the characteristics of W1/O/W2 emulsion delivery system stabilized by soybean protein isolate/(-)-epigallocatechin gallate/exopolysaccharides complex",
+      "authors": [
+        "Cuicui Duan",
+        "Cheng Wu",
+        "Hui Liu",
+        "Siyang Sui",
+        "Hongru Wang",
+        "Lin Ma",
+        "Fumin Ma",
+        "Xiaolei Li",
+        "Dan Li"
+      ],
+      "year": "2026",
+      "venue": "Food Research International",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119233",
+      "doi": "10.1016/j.foodres.2026.119233",
+      "keywords": [
+        "emulsiones",
+        "ingenieria-de-alimentos",
+        "probioticos",
+        "biomateriales",
+        "microscopia-de-caracterizacion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg.md",
+      "pdf_local": "",
+      "content": "## Resumen\nEl estudio aborda un problema central en el desarrollo de alimentos funcionales: cómo proteger probióticos para que lleguen vivos al intestino tras el procesamiento, el almacenamiento y el paso por el tracto digestivo. Los autores usan una emulsión doble agua-en-aceite-en-agua (W1/O/W2), cuya estructura de \"dos membranas y tres fases\" encapsula la bacteria *Lacticaseibacillus plantarum* A114 en la fase acuosa interna, mientras la fase oleosa y la fase acuosa externa ofrecen doble protección. El aporte novedoso es el estabilizante: un complejo ternario covalente formado por aislado de proteína de soya (SPI), (-)-epigalocatequina galato (EGCG, el monómero más activo de los polifenoles del té) y exopolisacáridos (EPS) producidos por la propia cepa A114.\n\nLa lógica del diseño es combinar tres funciones en una sola interfaz. La SPI actúa como base emulsionante; el EGCG, unido covalentemente a la proteína por tratamiento alcalino, aporta capacidad antioxidante y refuerza mecánicamente la película interfacial; y el EPS, injertado por reacción de Maillard, aporta viscosidad y estabilidad estérica (impedimento espacial). Se compararon cuatro sistemas —SPI nativa, EGCG-SPI, SPI-EPS y (EGCG-SPI)-EPS— evaluando estabilidad física (tamaño de partícula, potencial ζ, índice de cremado, reología), microestructura (microscopía óptica y confocal CLSM) y tasa de supervivencia de la cepa por citometría de flujo durante 28 días de almacenamiento a 4 °C, tras pasteurización y tras digestión gastrointestinal simulada in vitro.\n\nEl resultado central es que el complejo ternario (EGCG-SPI)-EPS produjo las emulsiones más estables: el menor tamaño de partícula, el mayor valor absoluto de potencial ζ, la mayor eficiencia de encapsulación (90,41 % frente a 74,04 % de la SPI nativa) y la menor oxidación lipídica. Esa superioridad estructural se tradujo en mejor protección de la bacteria: la supervivencia de *L. plantarum* A114 aumentó 1,23 veces durante el almacenamiento, 0,88 veces tras la pasteurización y 1,45 veces tras la digestión gastrointestinal simulada, respecto de los controles. Las imágenes CLSM confirmaron gotas esféricas uniformes con anillos interfaciales continuos y las bacterias confinadas dentro de las gotas. Los autores concluyen que la interfaz compuesta ternaria, mediante barrera física reforzada y protección antioxidante sinérgica, es un sistema de entrega dirigida prometedor para probióticos.\n\n## Contribuciones principales\n- Construcción y caracterización de un complejo ternario covalente (EGCG-SPI)-EPS como estabilizante de emulsiones dobles W1/O/W2 para entrega de probióticos, integrando emulsificación (SPI), antioxidación (EGCG) y estabilidad estérica (EPS) en una interfaz compuesta.\n- Demostración de que la modificación con EGCG y EPS mejora simultáneamente la estabilidad física de la emulsión y la protección activa de la cepa encapsulada frente a estrés oxidativo, térmico y gastrointestinal.\n- Evidencia cuantitativa (eficiencia de encapsulación, potencial ζ, reología, tasas de supervivencia por citometría de flujo) del efecto sinérgico protector del complejo ternario sobre *L. plantarum* A114.\n\n## Metodología\nEl complejo EGCG-SPI se preparó por unión covalente en medio alcalino (pH 9,0, 24 h) con diálisis posterior; los complejos SPI-EPS y (EGCG-SPI)-EPS se obtuvieron por reacción de Maillard (liofilización e incubación a 60 °C, 79 % humedad relativa, 24 h). La emulsión W1/O/W2 se elaboró por doble emulsificación: primero la emulsión primaria agua-en-aceite (fase interna con la bacteria en NaCl 0,15 M, fase oleosa con PGPR en aceite de soya, homogeneización a 10.000 rpm), y luego la emulsión doble mezclando con las soluciones de complejo (homogeneización a 6000 rpm). Se caracterizaron los complejos (tamaño de partícula, turbidez, hidrofobicidad superficial por ANS) y las emulsiones (tamaño, potencial ζ, eficiencia de encapsulación por recuento en placa, microscopía óptica y CLSM con Nile Red/Nile Blue/SYTO-9, reología con reómetro de placas paralelas, estabilidad oxidativa por índice de peróxidos y TBA). La supervivencia bacteriana se midió por citometría de flujo (kit LIVE/Dead BacLight con SYTO-9 y yoduro de propidio) durante 28 días, tras pasteurización (63 °C, 30 min) y tras digestión gastrointestinal simulada in vitro. Análisis estadístico por ANOVA de una vía (SPSS 26.0, p < 0,05).\n\n## Hallazgos clave\n- La emulsión estabilizada por (EGCG-SPI)-EPS presentó el menor tamaño de gota y el mayor valor absoluto de potencial ζ (frente a -18,09 mV de la SPI nativa), indicando la mejor estabilidad física.\n- La eficiencia de encapsulación de *L. plantarum* A114 alcanzó 90,41 % con el complejo ternario, frente a solo 74,04 % con SPI nativa.\n- La supervivencia de la cepa aumentó 1,23× durante 28 días de almacenamiento a 4 °C, 0,88× tras pasteurización y 1,45× tras digestión gastrointestinal simulada.\n- Las emulsiones exhibieron comportamiento pseudoplástico (shear-thinning) y estructura de gel débil (G' > G\"); la (EGCG-SPI)-EPS mostró los mayores G' y G\", es decir la red gelificada más fuerte.\n- El EGCG redujo la oxidación lipídica (menores valores de PV y TBA que la SPI sola), aportando protección antioxidante activa además de la barrera física.\n\n## Limitaciones\n- La cepa protegida es una sola (*L. plantarum* A114) y el EPS empleado proviene de ella; la generalización a otros probióticos o EPS de otras fuentes no se evaluó.\n- La digestión gastrointestinal es simulada in vitro; no se midió la colonización ni el efecto probiótico real in vivo.\n- El estudio se centra en la caracterización fisicoquímica y de supervivencia, sin evaluar propiedades sensoriales, escalado industrial ni vida útil en matrices alimentarias reales.\n\n## Notas relacionadas\n- [[concepts/emulsiones]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/probioticos]]\n- [[concepts/biomateriales]]\n- [[concepts/microscopia-de-caracterizacion]]"
+    },
+    {
+      "id": "notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor",
+      "kind": "paper",
+      "label": "Development of a GMO-free de novo lager yeast with reduced phenolic off-flavor production through interspecific hybridization and UV mutagenesis",
+      "authors": [
+        "Chiara Nasuti",
+        "Gabriele Iannuzziello",
+        "Viola Ceramelli Papiani",
+        "Davide Tagliazucchi",
+        "Kristoffer Krogerus",
+        "Lisa Solieri"
+      ],
+      "year": "2026",
+      "venue": "International Journal of Food Microbiology",
+      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.111786",
+      "doi": "10.1016/j.ijfoodmicro.2026.111786",
+      "keywords": [
+        "ingenieria-de-alimentos",
+        "ingenieria-metabolica",
+        "biologia-molecular",
+        "evolucion-de-laboratorio",
+        "metabolitos-secundarios",
+        "genomica"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor.md",
+      "pdf_local": "",
+      "content": "## Resumen\nLa cerveza lager, que representa más del 90% de la producción mundial, se elabora tradicionalmente con *Saccharomyces pastorianus*, un híbrido natural entre *S. cerevisiae* y la especie criotolerante *S. eubayanus*. Estas cepas comerciales provienen de un acervo genético muy estrecho, lo que limita la diversidad de perfiles aromáticos disponibles. Una estrategia libre de organismos modificados genéticamente (GMO-free) para ampliar esa diversidad es aprovechar cepas de *S. cerevisiae* de nichos no cerveceros, pero estas suelen carecer de las firmas de domesticación y producen \"phenolic off-flavor\" (POF): convierten el ácido ferúlico del mosto en 4-vinil guayacol (4-VG), que aporta aromas a clavo, ahumado o medicinal indeseables en la mayoría de estilos.\n\nEn este trabajo los autores parten de FM1, un híbrido de novo POF⁺ generado por apareamiento espora-a-espora entre una cepa de masa madre (*S. cerevisiae* Y15.2B) y la cepa cervecera *S. eubayanus × S. uvarum* NBRC1948, que mostraba heterosis y buen rendimiento fermentativo pero producía el defecto a clavo asociado al 4-VG. Aplicando mutagénesis aleatoria por luz UV (más un paso de selección con nistatina que enriquece mutantes de crecimiento lento) y cribando sobre medio suplementado con ácido ferúlico, aislaron el mutante FM1.45, con menor conversión de ácido ferúlico (índice FACI) y mayor sensibilidad al ácido cinámico (índice CASI) que el parental. En micro-fermentaciones de mosto, FM1 y FM1.45 superaron a ambas cepas parentales en cinética de fermentación y produjeron perfiles aromáticos comparables, pero FM1.45 generó sustancialmente menos 4-VG.\n\nEl análisis genético por secuenciación Sanger fue consistente con la pérdida del clúster génico *PAD1-FDC1* de *S. eubayanus* y una mutación de cambio de marco (frameshift) en el gen *FDC1* de *S. cerevisiae*, que dejan no funcional a la ferulato descarboxilasa. La citometría de flujo mostró además un aumento de ploidía de 3n a 4n en FM1.45, lo que probablemente explica la viabilidad de esporas restaurada en el mutante frente al FM1 estéril. En conjunto, el estudio demuestra que combinar hibridación interespecífica con mutagénesis UV es una estrategia GMO-free eficaz para generar nuevas cepas lager con fermentación robusta y producción reducida de POF.\n\n## Contribuciones principales\n- Ruta GMO-free reproducible para obtener híbridos lager de novo con POF reducido, combinando hibridación interespecífica y mutagénesis UV aleatoria (sin CRISPR ni marcadores de resistencia que clasificarían la cepa como GMO en la legislación europea).\n- Aislamiento y caracterización de FM1.45, un derivado del híbrido FM1 con baja conversión de ácido ferúlico y baja producción de 4-VG que conserva la ventaja fermentativa (heterosis) del parental.\n- Evidencia genética (secuenciación Sanger) que asocia el fenotipo POF⁻ a la pérdida del clúster *PAD1-FDC1* de *S. eubayanus* y a un frameshift en *FDC1* de *S. cerevisiae*.\n\n## Metodología\nEl híbrido FM1 (previamente construido por apareamiento espora-a-espora) se sometió a mutagénesis por dos fuentes UV; una lámpara UV a 50 cm durante 30 s dio la mortalidad óptima (65-85%). Se aplicó un protocolo estándar y otro con tratamiento de nistatina para enriquecer mutantes de crecimiento lento. Los mutantes se cribaron por réplica en placas con 4 mM de ácido ferúlico. El fenotipo POF se validó con los índices FACI (conversión de ácido ferúlico, absorbancia a 310 nm) y CASI (sensibilidad al ácido cinámico), con cuantificación de ácido ferúlico residual y 4-VG por UHPLC/MS y HPLC-UV. Las micro-fermentaciones de mosto (10 °Plato) se hicieron a 10 °C y 20 °C con dos tasas de inoculación (0,125% y 0,5%); los compuestos aromáticos se midieron por HS-GC-FID. La caracterización genética incluyó secuenciación Sanger de *PAD1* y *FDC1*, PCR especie-específica y determinación de ploidía por citometría de flujo (SYTOX Green) frente a controles diploide y tetraploide.\n\n## Hallazgos clave\n- FM1 (POF⁺) presentó un FACI del 95%; FM1.45 fue el mutante con menor FACI y el único con FACI significativamente menor y CASI significativamente mayor que FM1.\n- FM1 degradó ~57,6% del ácido ferúlico frente a ~23,9% de FM1.45, que retuvo más ácido ferúlico y produjo mucho menos 4-VG a 10 °C y 20 °C.\n- FM1 y FM1.45 superaron a las cepas parentales en cinética de fermentación; sus perfiles aromáticos generales fueron comparables entre sí (la mutagénesis no alteró el balance aromático global).\n- El fenotipo POF⁻ se explica por la pérdida del clúster *PAD1-FDC1* de *S. eubayanus* y un frameshift en *FDC1* de *S. cerevisiae*; FM1.45 pasó de 3n a 4n, recuperando viabilidad de esporas.\n\n## Limitaciones\n- La mutagénesis UV es aleatoria y de baja eficiencia (13,3% y 0,4% de aislamiento de colonias FA-sensibles en los dos protocolos), y puede introducir mutaciones no dirigidas que afecten el crecimiento (varios derivados crecieron mal incluso en condiciones control).\n- La caracterización aromática y fermentativa se hizo a escala de laboratorio (micro-fermentaciones), no a escala industrial ni con evaluación sensorial de catadores.\n- La secuenciación se centró en *PAD1* y *FDC1*; otras posibles mutaciones inducidas por UV en el genoma no fueron mapeadas de forma exhaustiva.\n\n## Notas relacionadas\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/biologia-molecular]]\n- [[concepts/evolucion-de-laboratorio]]\n- [[concepts/metabolitos-secundarios]]\n- [[concepts/genomica]]"
+    },
+    {
+      "id": "notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica",
+      "kind": "paper",
+      "label": "Formulation of Peptide-Based Nanoparticles Using a Microfluidic Device",
+      "authors": [
+        "Thania Hammoum",
+        "Karidia Konate",
+        "Yannick Mousli",
+        "Sébastien Deshayes",
+        "Eric Vivès",
+        "Audrey Nsamela",
+        "Prisca Boisguérin"
+      ],
+      "year": "2026",
+      "venue": "Journal of Peptide Science",
+      "url": "https://doi.org/10.1002/psc.70107",
+      "doi": "10.1002/psc.70107",
+      "keywords": [
+        "peptidos-bioactivos",
+        "microfluidica",
+        "nanomedicina",
+        "biomateriales",
+        "terapia-genica",
+        "oncologia"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica.md",
+      "pdf_local": "",
+      "content": "## Resumen\nLas nanopartículas basadas en péptidos (PBN) han surgido como alternativa prometedora a las nanopartículas lipídicas (LNP) para la vehiculización de ácidos nucleicos, aprovechando la capacidad de los péptidos penetrantes de células (CPP) para atravesar membranas con baja inmunogenicidad. Este estudio evalúa, por primera vez, la formulación de PBN basadas en el péptido anfipático WRAP5 (rico en triptófano y arginina) usando un dispositivo microfluídico (la plataforma TAMARA de Inside Therapeutics), midiendo el impacto de tres parámetros clave de proceso —la relación de caudales (FRR), el caudal total (TFR) y el diseño del canal de mezcla (herringbone vs. baffle)— sobre las características de las nanopartículas.\n\nA diferencia de las LNP, cuya formación exige un intercambio de solvente acuoso-orgánico, las PBN de WRAP5 se ensamblan por interacciones electrostáticas entre el péptido catiónico y los ácidos nucleicos aniónicos, de modo que todo el proceso ocurre en régimen acuoso-acuoso (glucosa 5% en ambos canales). A lo largo de 72 formulaciones que encapsulaban siRNA o pDNA, la dispersión dinámica de luz (DLS) reveló tamaños medios consistentes de 50-70 nm con bajo índice de polidispersidad (PdI < 0,22), independientes de FRR, TFR o tipo de mezclador. Las PBN cargadas con pDNA fueron más pequeñas (~52 nm) que las de siRNA (~106 nm) y permanecieron muy estables hasta 70 días a 4°C, mientras que las de siRNA mostraron un aumento moderado de tamaño durante el almacenamiento.\n\nLos ensayos biológicos confirmaron actividad robusta e independiente del método de formulación o la duración del almacenamiento: las PBN WRAP5:siRNA lograron ~50% de silenciamiento de CDK4 en células GIST-T1 (tumor estromal gastrointestinal) sin afectar la viabilidad celular, y las PBN WRAP5:pDNA mediaron expresión eficiente de mCHERRY en células HeLa. El mensaje central es que las PBN basadas en WRAP5 son notablemente insensibles a los parámetros microfluídicos que sí resultan críticos para las LNP, lo que simplifica el escalado y reduce la variabilidad entre lotes frente a la formulación manual, que depende fuertemente de la experiencia del operador.\n\n## Contribuciones principales\n- Primer reporte de formulación de nanopartículas peptídicas (PBN) mediante un dispositivo microfluídico operando en régimen acuoso-acuoso, en contraste con el intercambio de solvente acuoso-orgánico usado para las LNP.\n- Demostración de que las PBN de WRAP5 son robustas frente a variaciones de FRR, TFR y diseño de mezclador: tamaño y homogeneidad se mantienen constantes en las 72 formulaciones probadas.\n- Evidencia de que la plataforma microfluídica reproduce la formulación manual conservando estabilidad coloidal y actividad biológica, y reduce la variabilidad entre lotes asociada a la pericia del experimentador.\n\n## Metodología\nFormulación de PBN WRAP5:siRNA (relación molar MR = 20) y WRAP5:pDNA (relación de carga CR = 3) con el dispositivo microfluídico TAMARA, que integra en un mismo chip reutilizable un mezclador de tipo herringbone (advección caótica por surcos en chevron) y uno de tipo baffle (vórtices por obstrucciones). Se cruzaron dos diseños de mezclador, tres FRR (1:1, 3:1, 5:1) y tres TFR (1,5, 5 y 8 mL/min), cada condición por duplicado (72 formulaciones). Los regímenes operaron a números de Reynolds bajos (Re ≈ 0,1-5). La caracterización fisicoquímica se hizo por DLS (tamaño medio y PdI) a día 0, 7 y hasta 70 días de almacenamiento a 4°C. La actividad biológica se evaluó por silenciamiento de CDK4 (Western blot) en células GIST-T1 y por expresión del plásmido mCHERRY (microscopía confocal de fluorescencia, cuantificada con ImageJ) en células HeLa. Se compararon los lotes microfluídicos con lotes escalados y con formulaciones manuales.\n\n## Hallazgos clave\n- Tamaños medios consistentes de 50-70 nm con PdI < 0,22, sin efecto significativo de FRR, TFR ni tipo de mezclador —a diferencia de las LNP, que requieren control estricto de estos parámetros.\n- Las PBN de pDNA (~52 nm) fueron más pequeñas que las de siRNA (~106 nm); las de pDNA permanecieron muy estables hasta 70 días a 4°C, mientras que las de siRNA aumentaron moderadamente de tamaño (~60 a ~100 nm).\n- ~50% de silenciamiento de CDK4 en células GIST-T1 (siRNA, 50 nM) sin impacto en la viabilidad, y >35% de células HeLa con expresión nuclear de mCHERRY (pDNA), independientes del método de formulación y del almacenamiento.\n- La formulación manual mostró alta variabilidad según la experiencia del operador (tamaños de ~184 nm en principiantes vs. ~78 nm en expertos); la microfluídica minimiza esta variabilidad entre lotes.\n\n## Limitaciones\n- El mezclador baffle mostró estabilidad reducida para las PBN de siRNA en almacenamiento (tamaño > 150 nm) y una ligera correlación entre partículas más grandes, menor silenciamiento de CDK4 y leve impacto en la viabilidad.\n- La cuantificación de la transfección de pDNA-mCHERRY se considera subestimada (proteína en traducción en el citoplasma no capturada por la señal nuclear).\n- Estudio centrado en un único péptido (WRAP5) y dos cargas (siRNA y pDNA); la generalización a otros CPP y ácidos nucleicos queda abierta. Datos de estabilidad y de variabilidad entre experimentadores basados en un conjunto limitado de lotes.\n\n## Notas relacionadas\n- [[concepts/peptidos-bioactivos]]\n- [[concepts/microfluidica]]\n- [[concepts/nanomedicina]]\n- [[concepts/biomateriales]]\n- [[concepts/terapia-genica]]\n- [[concepts/oncologia]]"
+    },
+    {
+      "id": "notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza",
+      "kind": "paper",
+      "label": "Efficient hydrolysis of glycosides by Pichia kudriavzevii with high-activity β-glucosidase: a critical role in enhancing terpene aroma in beer",
+      "authors": [
+        "Lin Yuan",
+        "Xiaoping Hou",
+        "Yang He",
+        "Xiujuan Wan",
+        "Jiaxin Han",
+        "Wenqi Xu",
+        "Shuo Yu",
+        "Shuang Bi",
+        "Lijuan Ma",
+        "Lei Xing"
+      ],
+      "year": "2026",
+      "venue": "Food Chemistry",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.149138",
+      "doi": "10.1016/j.foodchem.2026.149138",
+      "keywords": [
+        "ingenieria-de-alimentos",
+        "metabolitos-secundarios",
+        "proteinas-recombinantes",
+        "biologia-molecular",
+        "ingenieria-metabolica",
+        "modelado-molecular"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza.md",
+      "pdf_local": "",
+      "content": "## Resumen\nEl aroma de la cerveza depende en gran medida de los terpenos, muchos de los cuales están presentes en el lúpulo como glucósidos no volátiles y, por tanto, no contribuyen directamente a la percepción sensorial. La enzima β-glucosidasa (BGL) puede hidrolizar esos enlaces glucosídicos y liberar los terpenos ligados, pero *Saccharomyces cerevisiae*, la levadura cervecera dominante, tiene actividad glucosidasa débil. En este estudio se cribaron doce levaduras no-*Saccharomyces* y se identificó a *Pichia kudriavzevii* KD4 como la mejor productora de BGL (174,39 U/mL), seleccionándola para experimentos de co-fermentación con *S. cerevisiae* US05.\n\nLa co-fermentación KD4 + US05, tras optimizar por diseño ortogonal las condiciones (relación de inoculación KD4:US05 de 10:1, inoculación de US05 a las 36 h de KD4, 1,1 × 10⁷ CFU/mL, 11 días de fermentación principal a 20 °C), realzó los aromas florales y frutales de la cerveza, aumentando ésteres y alcoholes terpénicos. Frente a la fermentación con US05 sola, el geraniol aumentó 92,6 veces, el nerol 10,4 veces, el linalool 1,8 veces y el mirceno 1,7 veces; los ésteres etil acetato, etil octanoato y feniletil acetato subieron 5,6, 2,4 y 2,1 veces. Los valores OAV confirmaron mirceno, linalool y geraniol como terpenos clave del perfil co-fermentado, y el panel sensorial (QDA) percibió mayor intensidad floral y frutal y menor acidez.\n\nPara caracterizar la enzima, la BGL de KD4 (*Pk*BGL) se expresó de forma heteróloga en *Pichia pastoris* X33 (vector pPICZαA, purificación por Ni-NTA), obteniéndose una proteína de ~37-40 kDa. La *Pk*BGL mostró actividad óptima a 50 °C y pH 5,5, con buena estabilidad a baja temperatura (>95% de actividad residual tras 3 h a 20 °C), en medio ácido, y tolerancia razonable a etanol (~50% de actividad a 8% v/v) e iso-α-ácidos (>50% a 150 IBU) —condiciones relevantes para la cervecería—. Los ensayos enzimáticos confirmaron hidrólisis eficiente de glucósidos del lúpulo (linalool +2,67 veces, nerol +3,06 veces sobre aceite esencial de lúpulo), y el acoplamiento molecular (docking) reveló unión estable de los glucósidos de linalilo y nerol por puentes de hidrógeno e interacciones hidrofóbicas, con hidrólisis más rápida del glucósido de nerol (aglicona de alcohol primario) que del de linalool (aglicona terciaria). Los autores proponen *Pk*BGL como herramienta prometedora para realzar el aroma de la cerveza mediante liberación selectiva de terpenos sin modificar la dosis de lúpulo.\n\n## Contribuciones principales\n- Identificación de *Pichia kudriavzevii* KD4 como levadura no-*Saccharomyces* con la mayor actividad β-glucosidasa entre doce cribadas, y demostración de que su co-fermentación con *S. cerevisiae* US05 amplifica el aroma floral/frutal de la cerveza (aumentos notables de geraniol, nerol, linalool y ésteres).\n- Expresión heteróloga y caracterización enzimática completa de la *Pk*BGL recombinante (óptimos de T y pH, estabilidad a etanol e iso-α-ácidos), mostrando compatibilidad con las condiciones de fermentación cervecera de baja temperatura y medio ácido.\n- Evidencia mecanística —vía acoplamiento molecular— de la unión selectiva de *Pk*BGL a glucósidos de linalilo y nerol y de las diferencias de velocidad de hidrólisis según el tipo de aglicona.\n\n## Metodología\nSe cribaron 12 cepas no-*Saccharomyces* (varias *P. kudriavzevii*, *Wickerhamomyces anomalus*, *Issatchenkia orientalis*) por tolerancia a etanol, pH, azúcar e iso-α-ácidos y por actividad BGL (ensayo con p-NPG, absorbancia a 400 nm). La co-fermentación con US05 se optimizó por prueba ortogonal L9(3⁴) sobre indicadores fisicoquímicos y sensoriales; los aromas se analizaron por GC-MS con cálculo de OAV, y la evaluación sensorial usó análisis hedónico y descriptivo cuantitativo (QDA). El gen de la BGL se clonó desde ADN genómico de KD4 y se expresó en *P. pastoris* X33; la proteína se purificó con Ni-NTA y se verificó por SDS-PAGE. Se caracterizaron óptimos y estabilidad frente a T (20-70 °C), pH (3-7,5), etanol (0-20%) e iso-α-ácidos (0-250 IBU), y parámetros cinéticos (Km, Vmax, Kcat) con p-NPG. La secuencia se modeló con AlphaFold 3 y se hizo acoplamiento molecular (AutoDock Vina) con glucósidos de linalilo y nerol.\n\n## Hallazgos clave\n- KD4 tuvo la mayor actividad BGL (174,39 U/mL); en la co-fermentación optimizada aumentaron geraniol (×92,6), nerol (×10,4), linalool (×1,8) y mirceno (×1,7) frente a US05 sola.\n- La *Pk*BGL recombinante fue óptima a 50 °C y pH 5,5, con >95% de actividad residual tras 3 h a 20 °C, ~50% de actividad a 8% de etanol y >50% a 150 IBU; Km = 2,14 mM con p-NPG.\n- Sobre aceite esencial de lúpulo, *Pk*BGL aumentó linalool ×2,67 y nerol ×3,06; el docking mostró unión estable de glucósidos de linalilo y nerol, con hidrólisis más rápida de la aglicona primaria (nerol) que la terciaria (linalool).\n- El panel sensorial (QDA) percibió mayor intensidad floral y frutal y menor acidez en la cerveza co-fermentada, señal de mayor aceptación del consumidor.\n\n## Limitaciones\n- Los aumentos aromáticos se demostraron en co-fermentación de laboratorio y sobre aceite esencial de lúpulo; falta validación a escala industrial y en distintos estilos y dosis de lúpulo.\n- La estabilidad de la *Pk*BGL cae con el etanol y la temperatura altas (indetectable tras 3 h a 50 °C), lo que acota su ventana operativa a la fermentación principal en frío.\n- El acoplamiento molecular es predictivo (energías de unión, sin estructura cristalográfica resuelta de la enzima), y solo se evaluaron dos glucósidos.\n\n## Notas relacionadas\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/metabolitos-secundarios]]\n- [[concepts/proteinas-recombinantes]]\n- [[concepts/biologia-molecular]]\n- [[concepts/ingenieria-metabolica]]\n- [[concepts/modelado-molecular]]"
+    },
+    {
+      "id": "notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos",
+      "kind": "paper",
+      "label": "Synbiotic alginate microcapsules incorporating a date seed polysaccharide-stabilized Pickering emulsion improve probiotic gastrointestinal survival and modulate SCFA production, gut microbiota, and fecal metabolome",
+      "authors": [
+        "Athira Jayasree Subhash",
+        "Gafar Bamigbade Babatunde",
+        "Maduni Jayahansi Paththuwe Arachchi",
+        "Abdelmoneim Ali",
+        "Afaf Kamal-Eldin",
+        "Mutamed Ayyash"
+      ],
+      "year": "2026",
+      "venue": "International Journal of Biological Macromolecules",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.153313",
+      "doi": "10.1016/j.ijbiomac.2026.153313",
+      "keywords": [
+        "probioticos",
+        "emulsiones",
+        "biomateriales",
+        "ingenieria-de-alimentos",
+        "economia-circular",
+        "microscopia-de-caracterizacion"
+      ],
+      "date": "2026-07-05",
+      "path": "notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos.md",
+      "pdf_local": "",
+      "content": "## Resumen\nUno de los retos centrales al administrar probióticos por vía oral es mantener suficiente viabilidad de las bacterias durante el procesamiento y, sobre todo, el tránsito gástrico, para que lleguen vivas al colon. El alginato gelificado con calcio es el material de encapsulación más usado, pero forma matrices porosas, mecánicamente débiles y poco resistentes a los jugos digestivos. Este estudio, del grupo de Ciencia de Alimentos de la Universidad de los Emiratos Árabes Unidos, refuerza microperlas de alginato con una emulsión Pickering aceite-en-agua estabilizada por un polisacárido de semilla de dátil extraído por ultrasonido (UPS), creando un portador sinbiótico: la matriz protege a la bacteria y a la vez actúa como sustrato prebiótico que modula la microbiota.\n\nSe encapsularon por separado *Lacticaseibacillus rhamnosus* y *Bifidobacterium longum* subsp. *longum* (ambas acid-sensibles en forma libre) en alginato solo, alginato+UPS y alginato+emulsión Pickering (PSE) en distintas proporciones. La formulación óptima para ambas cepas fue la relación alginato:PSE 1:2 (AET3 para *L. rhamnosus*, AET8 para *B. longum*). Frente a las perlas de alginato control —que no dejaron células viables tras la digestión in vitro (INFOGEST 2.0)—, las perlas con emulsión alcanzaron eficiencias de encapsulación de ~68,9% y supervivencias post-digestión de 74,0% (AET3) y 86,3% (AET8). La caracterización (microscopía electrónica de barrido, FTIR, TGA/DSC, análisis de textura, hinchamiento) mostró que la emulsión rellena la red de alginato: perlas más densas, duras, menos porosas, menos hinchables y más estables térmicamente (descomposición desplazada a >350 °C).\n\nLas fracciones bioaccesibles tras la digestión mostraron mayor capacidad antioxidante (DPPH, ABTS, FRAP, SOD) e inhibición de α-amilasa, α-glucosidasa y ACE en las formulaciones con UPS. En fermentación fecal in vitro, AET3 y AET8 indujeron una fermentación temprana con producción notable de propionato y butirato, generaron un ambiente más tamponado (menor caída de pH) que el control prebiótico GOS, enriquecieron géneros asociados a SCFAs y eliminaron patógenos como *Klebsiella*. El metaboloma fecal (LC-QTOF-MS no dirigido) reveló perfiles distintivos dominados por SCFAs, aminoácidos y lípidos. El estudio posiciona así las microperlas Alg:PSE no solo como portadores protectores sino como una plataforma sinbiótica capaz de modular la fermentación colónica.\n\n## Contribuciones principales\n- Demuestra que incorporar una emulsión Pickering estabilizada por polisacárido de semilla de dátil en microperlas de alginato eleva drásticamente la supervivencia gastrointestinal del probiótico (de nula en alginato solo a 74-86%).\n- Identifica la relación alginato:PSE 1:2 como óptima para dos cepas distintas (*L. rhamnosus* y *B. longum*).\n- Une en un solo trabajo la evaluación de supervivencia, la bioactividad post-digestión (antioxidante y de inhibición enzimática) y el efecto downstream sobre microbiota y metaboloma fecal, algo que trabajos previos habían tratado por separado.\n- Valoriza un subproducto agroindustrial (semilla de dátil) convirtiéndolo en un hidrocoloide funcional con doble rol estructural y prebiótico.\n\n## Metodología\nExtracción del polisacárido de semilla de dátil (UPS, Mw ~3290 kDa) mediante solvente eutéctico profundo asistido por ultrasonido; preparación de una emulsión Pickering aceite-en-agua (UPS 2% + aceite de maíz 92:8). Encapsulación por gelificación iónica (extrusión en CaCl₂) de cada cepa en cinco formulaciones. Evaluación de eficiencia de encapsulación y supervivencia con digestión estática in vitro INFOGEST 2.0. Caracterización estructural: microscopía estereoscópica, SEM, FTIR, XRD, TGA, DSC, textura, humedad y hinchamiento. Ensayos antioxidantes y de inhibición enzimática en fracciones bioaccesibles. Fermentación fecal in vitro anaeróbica (heces de 6 adultos sanos) con controles GOS (positivo) y sin carbono (negativo), midiendo pH, gas, SCFAs (HPLC), microbiota (16S rRNA V3-V4) y metaboloma no dirigido (LC-QTOF-MS).\n\n## Hallazgos clave\n- Alginato solo: sin células viables tras digestión, tanto para *L. rhamnosus* como para *B. longum*.\n- Formulación óptima 1:2 (AET3/AET8): eficiencia de encapsulación ~68,9% y supervivencia post-digestión de 74,0% (*L. rhamnosus*) y 86,3% (*B. longum*).\n- Las perlas con emulsión son más duras (AET3: 231,5 g vs CL: 156,8 g), menos porosas, menos hinchables (ratio ~2,0 vs ~3,1) y térmicamente más estables.\n- AET3 y AET8 inducen fermentación temprana con propionato y butirato, enriquecen géneros productores de SCFAs y eliminan *Klebsiella*; el metaboloma se enriquece en SCFAs, aminoácidos y lípidos.\n- Mayor actividad antioxidante e inhibitoria (α-amilasa, α-glucosidasa, ACE) en las fracciones digeridas de las formulaciones con UPS.\n\n## Limitaciones\n- El mecanismo Pickering se infiere de las propiedades coloidales del UPS; falta caracterización interfacial directa (microscopía de gotas, ángulo de contacto trifásico, tensión interfacial), reconocida por los autores.\n- La anotación metabolómica es putativa (nivel MSI 2-3), sin confirmación con estándares químicos ni corrección por comparaciones múltiples.\n- La textura se midió en perlas totalmente hidratadas (humedad 90-97%), por lo que los valores absolutos reflejan el sistema hidratado.\n- Fermentación y digestión in vitro con pool fecal de solo 6 voluntarios; sin validación in vivo.\n\n## Notas relacionadas\n- [[concepts/probioticos]]\n- [[concepts/emulsiones]]\n- [[concepts/biomateriales]]\n- [[concepts/ingenieria-de-alimentos]]\n- [[concepts/economia-circular]]\n- [[concepts/microscopia-de-caracterizacion]]"
     },
     {
       "id": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
@@ -30585,6 +30778,151 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata",
       "target": "concepts/oncologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg",
+      "target": "concepts/emulsiones",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg",
+      "target": "concepts/probioticos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg",
+      "target": "concepts/microscopia-de-caracterizacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor",
+      "target": "concepts/evolucion-de-laboratorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor",
+      "target": "concepts/metabolitos-secundarios",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor",
+      "target": "concepts/genomica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica",
+      "target": "concepts/peptidos-bioactivos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica",
+      "target": "concepts/microfluidica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica",
+      "target": "concepts/nanomedicina",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica",
+      "target": "concepts/terapia-genica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica",
+      "target": "concepts/oncologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza",
+      "target": "concepts/metabolitos-secundarios",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza",
+      "target": "concepts/proteinas-recombinantes",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza",
+      "target": "concepts/biologia-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza",
+      "target": "concepts/ingenieria-metabolica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza",
+      "target": "concepts/modelado-molecular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos",
+      "target": "concepts/probioticos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos",
+      "target": "concepts/emulsiones",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos",
+      "target": "concepts/biomateriales",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos",
+      "target": "concepts/ingenieria-de-alimentos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos",
+      "target": "concepts/economia-circular",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos",
+      "target": "concepts/microscopia-de-caracterizacion",
       "kind": "keyword"
     },
     {
