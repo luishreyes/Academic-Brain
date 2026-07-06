@@ -19,3 +19,4 @@ Diaz-Bustamante et al. (2026) y Sánchez-Camargo y Reyes (2023) valorizan, en ca
 - [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]
 - [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]
 - [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
+- [[notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos]]

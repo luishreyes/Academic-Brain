@@ -5,7 +5,7 @@ year: 2026
 journal: Lab on a Chip
 url: https://doi.org/10.1039/d6lc00406g
 doi: 10.1039/d6lc00406g
-pdf_local: 
+pdf_local: sources/pdfs/microfluidics/tang-2026-doble-emulsion-microfluidica.pdf
 type: paper
 keywords: [microfluidica, emulsiones, ingenieria-quimica, simulacion-computacional, biomateriales]
 date_added: 2026-07-05

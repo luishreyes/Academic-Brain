@@ -38,3 +38,4 @@ Uso de modelos matemáticos y computacionales para reproducir el comportamiento 
 - [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]
 - [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
 - [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]
+- [[notes/papers/2026-07-05_microfluidica-doble-emulsion-prediccion]]

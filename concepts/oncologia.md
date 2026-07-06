@@ -18,3 +18,4 @@ Ambos trabajos comparten también la lógica de la doble selectividad —un liga
 - [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
 - [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]
 - [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]
+- [[notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica]]

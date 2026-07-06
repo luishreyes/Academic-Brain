@@ -5,7 +5,7 @@ year: 2026
 journal: Food Research International
 url: https://doi.org/10.1016/j.foodres.2026.119233
 doi: 10.1016/j.foodres.2026.119233
-pdf_local: 
+pdf_local: sources/pdfs/food-engineering/duan-2026-emulsion-wow-soya-egcg.pdf
 type: paper
 keywords: [emulsiones, ingenieria-de-alimentos, probioticos, biomateriales, microscopia-de-caracterizacion]
 date_added: 2026-07-05

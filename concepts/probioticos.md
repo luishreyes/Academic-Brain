@@ -10,3 +10,7 @@ Microorganismos vivos que confieren beneficios a la salud del huésped cuando se
 
 ## Notas que usan este concepto
 - [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]
+- [[notes/papers/2026-07-05_hipe-polisacarido-probioticos-supervivencia]]
+- [[notes/papers/2026-07-05_biofilm-bacillus-subtilis-intestinal]]
+- [[notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg]]
+- [[notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos]]

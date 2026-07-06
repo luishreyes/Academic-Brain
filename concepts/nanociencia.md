@@ -46,3 +46,4 @@ Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–
 - [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
 - [[notes/papers/2026-07-02_nanogeles-quitosano-melanoma]]
 - [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]
+- [[notes/papers/2026-07-05_dna-hidrogel-microparticulas-3d]]

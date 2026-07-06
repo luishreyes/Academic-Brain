@@ -19,3 +19,4 @@ Técnica experimental en que una población microbiana es sometida a presión se
 - [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]
 - [[notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa]]
 - [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]
+- [[notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor]]
