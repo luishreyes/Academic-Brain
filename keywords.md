@@ -363,6 +363,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **simulacion-computacional** — Uso de modelos matemáticos y computacionales para reproducir el comportamiento de sistemas físicos, químicos o biológicos; incluye dinámica de fluidos computacional (CFD), modelado de procesos industriales y simulación de biorreactores. _Aliases: CFD, computational simulation, computational fluid dynamics, process simulation, modelado de procesos_
 
+**sintesis-de-voz** — Generación artificial de habla a partir de texto, incluida la clonación de voz (reproducir la voz de una persona con IA) y la narración sintética; abarca sus aplicaciones en la producción de contenidos educativos y sus implicaciones de calidad, coste y autenticidad. _Aliases: voice cloning, clonación de voz, text-to-speech, TTS, síntesis de voz, narración con IA, speech synthesis_
+
 **sistemas-y-reglas** — Construcción de mundos de ficción que operan como mecanismos coherentes: reglas explícitas y consistentes (físicas, mágicas, económicas o sociales) de las que se deducen las consecuencias de la trama; el interés está en cómo funciona el sistema, más allá de la etiqueta de género. _Aliases: hard worldbuilding, hard SF, systems fiction, worldbuilding, mundos coherentes, ficción de sistemas_
 
 **sobredependencia-de-la-ia** — Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario acepta sus salidas sin verificarlas y delega en exceso el esfuerzo propio; se asocia con erosión de habilidades, pérdida de agencia y aprendizaje superficial (over-reliance). _Aliases: over-reliance on AI, sobredependencia de la IA, AI over-reliance, dependencia de la IA, automation bias, sesgo de automatización_
