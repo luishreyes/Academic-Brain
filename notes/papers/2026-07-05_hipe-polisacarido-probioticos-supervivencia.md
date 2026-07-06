@@ -5,7 +5,7 @@ year: 2026
 journal: Journal of Food Science
 url: https://doi.org/10.1111/1750-3841.71205
 doi: 10.1111/1750-3841.71205
-pdf_local:
+pdf_local: sources/pdfs/food-engineering/wang-2026-hipe-polisacarido-probioticos.pdf
 type: paper
 keywords: [probioticos, emulsiones, ingenieria-de-alimentos, biomateriales, microscopia-de-caracterizacion]
 date_added: 2026-07-05

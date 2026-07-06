@@ -10,3 +10,4 @@ Estudio de la estructura, propiedades y aplicaciones de los materiales (metales,
 
 ## Notas que usan este concepto
 - [[notes/books/2013-01-01_stuff-matters-miodownik]]
+- [[notes/papers/2026-07-05_dna-hidrogel-microparticulas-3d]]

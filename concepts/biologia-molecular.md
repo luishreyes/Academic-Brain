@@ -50,3 +50,8 @@ Campo que estudia los mecanismos moleculares de los procesos biológicos: expres
 - [[notes/books/2016-01-01_the-gene-mukherjee]]
 - [[notes/books/2021-01-01_code-breaker-isaacson]]
 - [[notes/books/2022-01-01_the-song-of-the-cell-mukherjee]]
+- [[notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza]]
+- [[notes/papers/2026-07-05_hidrogel-inyectable-macrofagos-cartilago]]
+- [[notes/papers/2026-07-05_biofilm-bacillus-subtilis-intestinal]]
+- [[notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor]]
+- [[notes/papers/2026-07-05_levaduras-no-saccharomyces-cerveza-baja-alcohol]]

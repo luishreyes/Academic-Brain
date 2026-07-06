@@ -5,7 +5,7 @@ year: 2026
 journal: Journal of Peptide Science
 url: https://doi.org/10.1002/psc.70107
 doi: 10.1002/psc.70107
-pdf_local:
+pdf_local: sources/pdfs/peptides-proteins/hammoum-2026-peptidos-nanoparticulas-microfluidica.pdf
 type: paper
 keywords: [peptidos-bioactivos, microfluidica, nanomedicina, biomateriales, terapia-genica, oncologia]
 date_added: 2026-07-05

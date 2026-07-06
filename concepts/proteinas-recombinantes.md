@@ -21,3 +21,4 @@ Proteínas producidas por organismos huésped modificados genéticamente para ex
 - [[notes/papers/2025-01-01_amp-downstream-processing]]
 - [[notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante]]
 - [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]
+- [[notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza]]

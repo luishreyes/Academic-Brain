@@ -10,3 +10,4 @@ Agregados de microorganismos embebidos en una matriz de sustancias poliméricas 
 
 ## Notas que usan este concepto
 - [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]
+- [[notes/papers/2026-07-05_biofilm-bacillus-subtilis-intestinal]]

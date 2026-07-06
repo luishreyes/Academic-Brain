@@ -5,7 +5,7 @@ year: 2026
 journal: International Journal of Food Microbiology
 url: https://doi.org/10.1016/j.ijfoodmicro.2026.111786
 doi: 10.1016/j.ijfoodmicro.2026.111786
-pdf_local:
+pdf_local: sources/pdfs/food-engineering/nasuti-2026-levadura-lager-hibridacion.pdf
 type: paper
 keywords: [ingenieria-de-alimentos, ingenieria-metabolica, biologia-molecular, evolucion-de-laboratorio, metabolitos-secundarios, genomica]
 date_added: 2026-07-05

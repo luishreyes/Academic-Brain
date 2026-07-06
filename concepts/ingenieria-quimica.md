@@ -122,3 +122,4 @@ Disciplina que aplica principios de química, física y matemáticas para diseñ
 - [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]
 - [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]
 - [[notes/papers/2026-07-02_nanogeles-quitosano-melanoma]]
+- [[notes/papers/2026-07-05_microfluidica-doble-emulsion-prediccion]]

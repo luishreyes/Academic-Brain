@@ -30,3 +30,6 @@ Modificación racional del metabolismo celular para aumentar la producción de c
 - [[notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva]]
 - [[notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras]]
 - [[notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos]]
+- [[notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza]]
+- [[notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor]]
+- [[notes/papers/2026-07-05_levaduras-no-saccharomyces-cerveza-baja-alcohol]]

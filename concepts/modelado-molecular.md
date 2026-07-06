@@ -20,3 +20,4 @@ Representación computacional de estructuras moleculares y sus interacciones med
 - [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]
 - [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]
 - [[notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai]]
+- [[notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza]]
