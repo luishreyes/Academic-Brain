@@ -34,4 +34,3 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
 - [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]
 - [[notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria]]
-- [[notes/articles/2026-05-09_ia-nativos-pensamiento-critico-empleo]]

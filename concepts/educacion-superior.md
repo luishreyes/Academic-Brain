@@ -161,5 +161,4 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]
 - [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
 - [[notes/papers/2026-05-20_salud-mental-investigadores-carrera-temprana-metaanalisis]]
-- [[notes/articles/2026-05-09_ia-nativos-pensamiento-critico-empleo]]
 - [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
