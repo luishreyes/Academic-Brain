@@ -65,3 +65,5 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]
 - [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
 - [[notes/papers/2026-05-20_salud-mental-investigadores-carrera-temprana-metaanalisis]]
+- [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]
+- [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]

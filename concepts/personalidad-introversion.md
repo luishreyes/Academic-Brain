@@ -15,3 +15,4 @@ Las dos fuentes que usan este concepto abordan la introversión desde ángulos c
 ## Notas que usan este concepto
 - [[notes/books/2012-01-23_quiet-susan-cain]]
 - [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]
+- [[notes/papers/2026-06-01_genai-comunicacion-farmacia-educador]]

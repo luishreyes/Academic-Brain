@@ -50,3 +50,4 @@ Disciplina que estudia los procesos cognitivos, motivacionales y sociales que su
 - [[notes/books/2022-08-11_el-poder-de-las-palabras-sigman]]
 - [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]
 - [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]
+- [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]

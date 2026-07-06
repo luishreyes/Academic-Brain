@@ -116,3 +116,4 @@ Estudio de los principios morales que deben guiar el diseño y comportamiento de
 - [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
 - [[notes/books/2015-01-01_homo-deus-harari]]
 - [[notes/books/2024-01-01_nexus-harari]]
+- [[notes/papers/2026-01-01_clonacion-voz-ia-pedagogia-medica]]

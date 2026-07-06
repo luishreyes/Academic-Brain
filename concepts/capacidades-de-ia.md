@@ -73,3 +73,6 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 - [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
 - [[notes/papers/2026-07-02_labor-market-impacts-ai]]
 - [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]
+- [[notes/papers/2026-01-01_ia-preguntas-opcion-multiple-patologia]]
+- [[notes/papers/2026-01-01_chatgpt-estatica-ingenieria]]
+- [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]

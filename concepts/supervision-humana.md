@@ -97,3 +97,4 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/articles/2026-06-30_twilight-chatbots-mollick]]
 - [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
 - [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]
+- [[notes/papers/2026-01-01_ia-preguntas-opcion-multiple-patologia]]

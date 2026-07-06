@@ -20,3 +20,4 @@ Yuriev, Wink y Holme, desde el editorial que introduce el marco CATALyST para qu
 - [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]
 - [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]
 - [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]
+- [[notes/papers/2026-01-01_chatgpt-estatica-ingenieria]]

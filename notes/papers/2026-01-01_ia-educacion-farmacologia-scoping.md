@@ -5,7 +5,7 @@ year: 2026
 journal: Pharmacology Research & Perspectives
 url: https://doi.org/10.1002/prp2.70290
 doi: 10.1002/prp2.70290
-pdf_local:
+pdf_local: sources/pdfs/ai-education/cordier-2026-ia-farmacologia-scoping.pdf
 type: paper
 keywords: [revision-sistematica-de-literatura, educacion-medica, inteligencia-artificial, capacidades-de-ia, ingenieria-de-prompts, evaluacion-educativa, retroalimentacion-con-ia, tpack]
 date_added: 2026-07-05

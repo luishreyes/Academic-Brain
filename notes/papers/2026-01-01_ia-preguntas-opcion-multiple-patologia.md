@@ -5,7 +5,7 @@ year: 2026
 journal: Academic Pathology
 url: https://doi.org/10.1016/j.acpath.2026.100275
 doi: 10.1016/j.acpath.2026.100275
-pdf_local:
+pdf_local: sources/pdfs/assessment-redesign/ouldismail-2026-ia-preguntas-patologia.pdf
 type: paper
 keywords: [educacion-medica, evaluacion-educativa, capacidades-de-ia, ingenieria-de-prompts, supervision-humana, alucinaciones-de-ia, inteligencia-artificial]
 date_added: 2026-07-05

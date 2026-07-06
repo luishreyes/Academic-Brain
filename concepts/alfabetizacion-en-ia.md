@@ -101,3 +101,4 @@ Conjunto de competencias necesarias para comprender, evaluar críticamente y usa
 - [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
 - [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]
 - [[notes/papers/2026-01-01_writing-against-the-machine]]
+- [[notes/papers/2026-06-01_genai-comunicacion-farmacia-educador]]
