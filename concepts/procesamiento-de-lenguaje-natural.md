@@ -26,3 +26,4 @@ Finalmente, el propio mecanismo generativo —predicción del siguiente token—
 - [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]
 - [[notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva]]
 - [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]
+- [[notes/articles/2026-07-04_ia-cambia-lenguaje-guardian]]

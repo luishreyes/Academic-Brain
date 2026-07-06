@@ -72,3 +72,4 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 - [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]
 - [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
 - [[notes/papers/2026-07-02_labor-market-impacts-ai]]
+- [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]

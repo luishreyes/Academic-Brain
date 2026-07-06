@@ -71,3 +71,4 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 - [[notes/books/2016-02-02_originals-grant]]
 - [[notes/books/2020-08-11_almanack-naval-ravikant-jorgenson]]
 - [[notes/books/2025-01-01_abundance-klein]]
+- [[notes/articles/2026-05-09_ia-nativos-pensamiento-critico-empleo]]

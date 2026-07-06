@@ -30,3 +30,4 @@ Dos notas aportan la contracara: la aritmética poblacional que documenta cuánd
 - [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]
 - [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]
 - [[notes/books/2024-01-01_the-upgrade-brizendine]]
+- [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]

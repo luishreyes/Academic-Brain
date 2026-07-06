@@ -253,3 +253,5 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/books/2014-01-01_the-future-of-the-mind-kaku]]
 - [[notes/books/2015-01-01_homo-deus-harari]]
 - [[notes/books/2024-01-01_nexus-harari]]
+- [[notes/articles/2026-07-04_ia-cambia-lenguaje-guardian]]
+- [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]

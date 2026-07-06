@@ -19,3 +19,4 @@ Yin et al. y Tomisu et al. comparten además un riesgo educativo concreto: penal
 - [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]
 - [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
 - [[notes/papers/2026-01-01_writing-against-the-machine]]
+- [[notes/articles/2026-07-04_ia-cambia-lenguaje-guardian]]
