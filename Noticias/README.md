@@ -26,3 +26,4 @@ node docs/build-noticias.mjs
 
 - [2026-06-28](2026-06-28-boletin.md) — primer número.
 - [2026-06-29](2026-06-29-boletin.md) — segundo número, retoma el hilo de retención/transferencia del primero.
+- [2026-07-06](2026-07-06-boletin.md) — tercer número, cierra el hilo de la evidencia rigurosa: benchmarks de ingeniería vs. aprendizaje real, un RCT con resultado nulo y la brecha desempeño-competencia.
