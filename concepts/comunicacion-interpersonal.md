@@ -15,3 +15,4 @@ Arte y ciencia de la conversación, la conexión y el entendimiento entre person
 - [[notes/books/2023-01-01_how-to-know-a-person-brooks]]
 - [[notes/books/2024-01-01_supercommunicators-duhigg]]
 - [[notes/books/2024-01-01_the-let-them-theory-robbins]]
+- [[notes/papers/2026-06-01_genai-comunicacion-farmacia-educador]]

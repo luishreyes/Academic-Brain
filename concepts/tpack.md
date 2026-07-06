@@ -21,3 +21,4 @@ Cunningham et al. aportan una ilustración disciplinar concreta de esta misma de
 - [[notes/papers/2025-04-23_marco-competencia-ia-pedagogica-docentes]]
 - [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]
 - [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
+- [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]

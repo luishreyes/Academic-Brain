@@ -55,3 +55,4 @@ Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso
 - [[notes/books/2012-11-13_mastery-robert-greene]]
 - [[notes/books/2019-01-01_ultralearning-young]]
 - [[notes/books/2022-08-11_el-poder-de-las-palabras-sigman]]
+- [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]

@@ -19,3 +19,4 @@ Capacidad de los grandes modelos de lenguaje para resolver problemas matemático
 - [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]
 - [[notes/papers/2026-06-28_metaclass-coaching-metacognitivo]]
 - [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]
+- [[notes/papers/2026-01-01_chatgpt-estatica-ingenieria]]

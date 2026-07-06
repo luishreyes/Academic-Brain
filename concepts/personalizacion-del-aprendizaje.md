@@ -45,3 +45,4 @@ Adaptación de contenidos, ritmo e instrucción a las características, necesida
 - [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]
 - [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]
 - [[notes/books/2019-01-01_ultralearning-young]]
+- [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]

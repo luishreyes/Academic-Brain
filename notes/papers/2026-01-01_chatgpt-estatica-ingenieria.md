@@ -5,7 +5,7 @@ year: 2026
 journal: Computer Applications in Engineering Education
 url: https://doi.org/10.1002/cae.70210
 doi: 10.1002/cae.70210
-pdf_local:
+pdf_local: sources/pdfs/engineering-education/hope-2026-chatgpt-estatica-ingenieria.pdf
 type: paper
 keywords: [educacion-en-ingenieria, razonamiento-cuantitativo-llm, capacidades-de-ia, evaluacion-educativa, ingenieria-de-prompts, razonamiento-multimodal, alucinaciones-de-ia, inteligencia-artificial]
 date_added: 2026-07-05

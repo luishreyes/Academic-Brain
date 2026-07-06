@@ -28,3 +28,7 @@ Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LL
 - [[notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai]]
 - [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]
 - [[notes/articles/2026-06-30_twilight-chatbots-mollick]]
+- [[notes/papers/2026-01-01_ia-preguntas-opcion-multiple-patologia]]
+- [[notes/papers/2026-01-01_chatgpt-estatica-ingenieria]]
+- [[notes/papers/2026-01-01_dataset-feedback-formativo-uml-llm]]
+- [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]

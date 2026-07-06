@@ -23,3 +23,4 @@ Diseño experimental en que los participantes son asignados aleatoriamente a con
 - [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]
 - [[notes/books/2011-01-01_poor-economics-banerjee]]
 - [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]
+- [[notes/papers/2026-01-01_clonacion-voz-ia-pedagogia-medica]]
