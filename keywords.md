@@ -123,6 +123,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## E
 
+**emulsiones** — Sistemas coloidales de dos líquidos inmiscibles (aceite y agua) estabilizados por surfactantes, proteínas o partículas; incluye emulsiones simples, dobles (W/O/W), Pickering y de fase interna alta (HIPE), y su uso para encapsular y liberar de forma controlada compuestos bioactivos y microorganismos. _Aliases: emulsions, emulsiones, Pickering emulsion, double emulsion, W/O/W, HIPE, high internal phase emulsion, sistema de encapsulación_
+
 **enfermedades-raras** — Condiciones médicas con baja prevalencia poblacional; incluye errores innatos del metabolismo, enfermedades lisosomales de depósito y otras condiciones huérfanas; su tratamiento frecuentemente implica terapia de reemplazo enzimático (TRE) o génico. _Aliases: rare diseases, orphan diseases, lysosomal storage diseases, inborn errors of metabolism, enzyme replacement therapy, ERT_
 
 **enfermedades-respiratorias** — Condiciones patológicas que afectan las vías respiratorias y el tejido pulmonar, incluyendo el síndrome de dificultad respiratoria aguda (SDRA/ARDS), la inflamación pulmonar y el daño alveolar; abarca su fisiopatología y las estrategias terapéuticas dirigidas al pulmón. _Aliases: respiratory diseases, acute respiratory distress syndrome, ARDS, SDRA, lung disease, pulmonary inflammation_
@@ -229,6 +231,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **ingenieria-de-prompts** — Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LLM para obtener respuestas precisas y útiles; incluye estrategias como zero/few-shot, chain-of-thought y plantillas estructuradas. _Aliases: prompt engineering, ingeniería de prompts, prompting, chain-of-thought, few-shot prompting_
 
 **ingenieria-de-sistemas** — Enfoque para diseñar y analizar sistemas complejos sociotécnicos considerando componentes, interacciones y propiedades emergentes; incluye la teoría de sistemas aplicada a la seguridad (STAMP/STPA) y la ingeniería de sistemas de procesos. _Aliases: systems engineering, systems theory, STAMP, pensamiento sistémico, process systems engineering_
+
+**ingenieria-de-tejidos** — Campo que combina células, materiales de soporte (scaffolds, hidrogeles) y señales bioquímicas para reparar o regenerar tejidos; incluye la medicina regenerativa, el cultivo celular 3D, los organoides y la reprogramación celular. _Aliases: tissue engineering, ingeniería de tejidos, medicina regenerativa, regenerative medicine, cultivo celular 3D, scaffolds, organoides_
 
 **ingenieria-metabolica** — Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida. _Aliases: metabolic engineering, strain engineering, biocatalyst engineering, cell factory, ingeniería de cepas_
 
