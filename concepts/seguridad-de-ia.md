@@ -20,3 +20,4 @@ Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de 
 - [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]
 - [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]
 - [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]]
+- [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]

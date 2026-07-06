@@ -29,3 +29,5 @@ Herramientas y técnicas para identificar texto o código generado por IA en tra
 - [[notes/papers/2023-11-01_assessment-reform-era-ia]]
 - [[notes/papers/2025-06-27_adapting-university-policies-genai]]
 - [[notes/papers/2026-03-06_responsible-genai-se-education]]
+- [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
+- [[notes/articles/2026-07-04_ia-cambia-lenguaje-guardian]]

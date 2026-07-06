@@ -35,3 +35,4 @@ Capacidad de generar ideas novedosas, variadas y de alta calidad en la resoluci√
 - [[notes/books/2020-08-11_almanack-naval-ravikant-jorgenson]]
 - [[notes/books/2022-08-11_el-poder-de-las-palabras-sigman]]
 - [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]
+- [[notes/articles/2026-07-04_ia-cambia-lenguaje-guardian]]

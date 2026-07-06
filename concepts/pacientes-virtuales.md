@@ -10,3 +10,4 @@ Sistemas que simulan encuentros clínicos con pacientes para entrenar a profesio
 
 ## Notas que usan este concepto
 - [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]
+- [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]

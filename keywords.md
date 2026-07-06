@@ -254,6 +254,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **libre-albedrio** — Problema filosófico y narrativo sobre si las decisiones humanas son libres o están determinadas; en la ficción de ideas aparece como determinismo, predestinación, bucles causales y la tensión entre conocer el futuro y poder cambiarlo. _Aliases: free will, libre albedrío, determinismo, determinism, predestinación, causalidad_
 
+**linguistica** — Estudio científico del lenguaje humano en todos sus niveles (fonética, sintaxis, semántica, pragmática, discurso) y en sus ramas aplicadas (sociolingüística, lingüística forense, lingüística literaria); incluye cómo se distingue el lenguaje humano del generado por máquinas. _Aliases: linguistics, lingüística, sociolingüística, lingüística forense, forensic linguistics, ciencia del lenguaje_
+
 ## M
 
 **magia-dura** — Sistema mágico gobernado por reglas explícitas, costes y límites consistentes de los que se derivan las soluciones de la trama (Leyes de Sanderson), en contraste con la magia como misterio evocador; expresión fantástica del gusto por los mundos que funcionan como un mecanismo. _Aliases: hard magic, magia dura, sistema de magia, Sanderson's laws, hard magic system_

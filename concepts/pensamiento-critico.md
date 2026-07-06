@@ -113,3 +113,4 @@ Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia
 - [[notes/books/2020-01-01_apocalypse-never-shellenberger]]
 - [[notes/books/2020-01-01_the-parasitic-mind-saad]]
 - [[notes/books/2021-01-01_think-again-grant]]
+- [[notes/articles/2026-05-09_ia-nativos-pensamiento-critico-empleo]]

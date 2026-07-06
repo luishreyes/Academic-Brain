@@ -24,3 +24,4 @@ El estudio de Cheung, Maier y Lieder aporta la pieza que explica por qué esa co
 - [[notes/papers/2026-01-01_genai-brecha-digital-educacion-superior]]
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
 - [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
+- [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]
