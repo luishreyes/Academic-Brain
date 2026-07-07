@@ -29,3 +29,4 @@ Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario ace
 - [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
 - [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
 - [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap12-adultos-mayores]]

@@ -24,3 +24,4 @@ Campo interdisciplinario que combina estadística, programación y dominio de co
 - [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
 - [[notes/papers/2025-05-22_brecha-digital-ia-generativa-espana]]
 - [[notes/books/2014-01-01_innovators-isaacson]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]

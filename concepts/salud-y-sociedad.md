@@ -31,3 +31,7 @@ Dos notas aportan la contracara: la aritmética poblacional que documenta cuánd
 - [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]
 - [[notes/books/2024-01-01_the-upgrade-brizendine]]
 - [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap05-salud-disparidades]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap06-discapacidad]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap11-adicciones]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap12-adultos-mayores]]

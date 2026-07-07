@@ -19,3 +19,5 @@ Técnica que enriquece las respuestas de un LLM recuperando información relevan
 - [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]
 - [[notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional]]
 - [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]

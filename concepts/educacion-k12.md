@@ -38,3 +38,4 @@ Educación primaria y secundaria que abarca desde los primeros años escolares h
 - [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]
 - [[notes/books/2008-01-01_outliers-gladwell]]
 - [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap10-escolar]]

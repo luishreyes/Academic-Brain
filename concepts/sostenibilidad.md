@@ -42,3 +42,4 @@ Principio de satisfacer las necesidades presentes sin comprometer la capacidad d
 - [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
 - [[notes/books/2020-01-01_apocalypse-never-shellenberger]]
 - [[notes/books/2025-01-01_abundance-klein]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap17-ambiental-clima]]
