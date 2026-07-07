@@ -71,6 +71,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **comportamiento-organizacional** — Estudio de las actitudes, conductas, estados psicológicos y diferencias individuales de las personas en el lugar de trabajo y su relación con el desempeño, la creatividad y el bienestar; nivel micro (individual y de equipo) del análisis de las organizaciones. _Aliases: organizational behavior, comportamiento organizacional, workplace psychology, psicología del trabajo, employee behavior_
 
+**conservacion-de-la-naturaleza** — Protección y restauración de ecosistemas y vida silvestre; incluye reforestación, defensa de territorios prístinos y advocacy ambiental a través de la imagen. _Aliases: nature conservation, conservación ambiental, reforestación, medio ambiente_
+
+**composicion-visual** — Principios de organización formal de la imagen (geometría, encuadre, líneas, equilibrio, simetría) que estructuran una fotografía u obra visual. _Aliases: visual composition, geometría visual, encuadre, composición_
+
 **construccion-de-teoria** — Proceso de desarrollo, evaluación y refinamiento de teorías y marcos teóricos que explican fenómenos; incluye la distinción entre teorías locales de un efecto y marcos teóricos generales que integran múltiples efectos, y los criterios de poder explicativo, alcance y parsimonia. _Aliases: theory building, theoretical frameworks, marcos teóricos, teorización, theory development_
 
 **comercio-y-prosperidad** — Relación entre el intercambio voluntario de bienes, servicios e ideas y el crecimiento del bienestar humano; incluye la división del trabajo, la especialización y la función de los mercados como mecanismos de coordinación descentralizada. _Aliases: trade and prosperity, free trade, comercio libre, división del trabajo, specialization_
@@ -96,6 +100,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 ## D
 
 **desigualdad-de-genero** — Diferencias sistemáticas en oportunidades, resultados y poder entre hombres y mujeres; abarca brechas salariales, educativas, laborales y de representación, así como su intersección con raza y clase social. _Aliases: gender inequality, gender gap, brecha de género, sexismo estructural_
+
+**dignidad-humana** — Reconocimiento del valor intrínseco de las personas, en especial de los vulnerables, marginados o explotados; eje ético de la fotografía y el pensamiento humanistas. _Aliases: human dignity, humanismo, dignidad_
 
 **dinamica-de-poblaciones** — Estudio cuantitativo de cómo cambia con el tiempo el tamaño, la composición y la estructura de las poblaciones biológicas; incluye modelos de crecimiento, interferencia clonal, selección natural y deriva genética. _Aliases: population dynamics, population genetics, genética de poblaciones, clonal interference, estructura poblacional_
 
@@ -138,6 +144,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **envejecimiento** — Proceso de envejecimiento y el campo de servicios y tecnologías para personas mayores; incluye compañeros digitales, monitoreo del hogar, detección de caídas y apoyo a la autonomía, con sus tensiones de privacidad y cuidado humano. _Aliases: aging, envejecimiento, adultos mayores, gerontología, cuidado de mayores, older adults_
 
 **epistemologia-del-riesgo** — Estudio filosófico del conocimiento bajo incertidumbre y riesgo; incluye el problema de la inducción, la distinción entre riesgo medible e incertidumbre radical, y las implicaciones epistemológicas de distribuciones con colas pesadas. _Aliases: risk epistemology, incertidumbre radical, uncertainty, Black Swan, cisne negro, probabilidad subjetiva_
+
+**exilio** — Condición de quien vive fuera de su tierra por causas políticas o forzadas; desarraigo, pérdida y memoria del lugar de origen. _Aliases: exile, exiles, desarraigo, destierro, apátrida_
 
 **exposicion-laboral-a-la-ia** — Medida ocupacional/tarea del grado en que el trabajo de una ocupación puede ser realizado o acelerado por IA, combinando la capacidad teórica de los LLM con datos reales de uso (automatizado vs. augmentativo, contexto laboral); usada para proyectar riesgo de desplazamiento laboral antes de que los efectos sean visibles en el empleo. _Aliases: AI exposure, occupational AI exposure, observed exposure, task-based exposure measures, AI displacement risk, riesgo de desplazamiento laboral_
 
@@ -192,7 +200,17 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **formacion-docente** — Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA. _Aliases: teacher education, teacher professional development, teacher training, desarrollo profesional docente_
 
-**fotografia** — Arte y técnica de crear imágenes con la luz; incluye la composición, el instante decisivo, la mirada del observador y la fotografía como forma de documentar y ver el mundo. _Aliases: photography, fotografía, composición fotográfica, instante decisivo, imagen_
+**fotografia** — Arte y técnica de crear imágenes con la luz; incluye la composición, el instante decisivo, la mirada del observador y la fotografía como forma de documentar y ver el mundo. _Aliases: photography, fotografía, imagen_
+
+**fotografia-callejera** — Género fotográfico que capta la vida cotidiana y espontánea en el espacio público urbano. _Aliases: street photography, fotografía de calle_
+
+**fotografia-documental** — Fotografía que registra la realidad social, histórica o cultural con voluntad testimonial, más allá del hecho noticioso inmediato. _Aliases: documentary photography, fotografía testimonial_
+
+**fotografia-en-blanco-y-negro** — Fotografía monocroma que privilegia la luz, el contraste, la forma y la textura sobre el color como recurso expresivo. _Aliases: black and white photography, monocromo, blanco y negro, duotono_
+
+**fotografia-social** — Fotografía comprometida con el testimonio y la denuncia de las condiciones de vida de los desfavorecidos; heredera de la "concerned photography". _Aliases: social documentary photography, concerned photography, fotografía comprometida_
+
+**fotoperiodismo** — Periodismo visual: narración de acontecimientos y realidades mediante la fotografía para la prensa. _Aliases: photojournalism, reportaje fotográfico, fotorreportaje_
 
 **futuro-del-trabajo** — Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales. _Aliases: future of work, mercado laboral, empleabilidad, automatización del empleo_
 
@@ -244,6 +262,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ingenieria-quimica** — Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial. _Aliases: chemical engineering, biochemical engineering, proceso industrial, ingeniería de procesos_
 
+**instante-decisivo** — Concepto de Henri Cartier-Bresson: el momento preciso e irrepetible en que los elementos de una escena se alinean en una composición significativa. _Aliases: decisive moment, moment décisif, instante decisivo_
+
 **integridad-academica** — Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política. _Aliases: academic integrity, deshonestidad académica, plagiarism, trampa académica_
 
 **ia-explicable** — Métodos para hacer interpretables las decisiones de modelos de IA; incluye mapas de saliencia/localización (Grad-CAM), importancia de variables y explicaciones post-hoc. _Aliases: explainable AI, XAI, interpretabilidad, Grad-CAM, saliency maps_
@@ -274,13 +294,19 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **magia-dura** — Sistema mágico gobernado por reglas explícitas, costes y límites consistentes de los que se derivan las soluciones de la trama (Leyes de Sanderson), en contraste con la magia como misterio evocador; expresión fantástica del gusto por los mundos que funcionan como un mecanismo. _Aliases: hard magic, magia dura, sistema de magia, Sanderson's laws, hard magic system_
 
+**magnum-photos** — Cooperativa fotográfica fundada en 1947 por Cartier-Bresson, Capa, Rodger y Seymour; modelo de autoría independiente y de control de los fotógrafos sobre su obra. _Aliases: Magnum, agencia Magnum, cooperativa fotográfica_
+
 **mayoria-de-edad** — Relato de formación de un protagonista, casi siempre joven, que atraviesa una prueba y sale transformado (coming of age). _Aliases: coming of age, mayoría de edad, bildungsroman, iniciación, relato de formación_
 
 **medicina-basada-en-evidencia** — Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio. _Aliases: evidence-based medicine, EBM, medicina basada en evidencias_
 
+**memoria-historica** — Registro y transmisión de acontecimientos históricos y políticos para preservar su memoria colectiva. _Aliases: historical memory, memoria colectiva, testimonio histórico_
+
 **metabolitos-secundarios** — Compuestos producidos por microorganismos que no son esenciales para el crecimiento celular pero tienen valor industrial, farmacéutico o nutricional; incluye terpenoides, alcaloides, policétidos, carotenoides e isoprenoides. _Aliases: secondary metabolites, natural products, productos naturales, terpenoids, isoprenoids, carotenoids_
 
 **microscopia-de-caracterizacion** — Técnicas de microscopía electrónica (SEM, TEM, FE-SEM) y de fluorescencia usadas para caracterizar morfología, ultraestructura y distribución espacial de células, biopelículas y materiales a escala micro- y nanométrica. _Aliases: electron microscopy, fluorescence microscopy, SEM, TEM, FE-SEM_
+
+**migracion-y-desplazamiento** — Movimiento de poblaciones por causas económicas, políticas o ambientales; migración, refugio, desplazamiento forzado y sus consecuencias humanas. _Aliases: migration, displacement, migración, refugiados, desplazamiento forzado_
 
 **motivacion-y-compromiso-estudiantil** — Energía, impulso y conductas que sostienen la participación, el esfuerzo y la persistencia del estudiante en el aprendizaje; el compromiso (engagement) es multidimensional (cognitivo, conductual, emocional y de agencia) y se distingue de los resultados de aprendizaje. _Aliases: student motivation and engagement, learning engagement, motivación estudiantil, compromiso del estudiante_
 
@@ -351,6 +377,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **publicacion-academica** — Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales. _Aliases: publicación científica, peer review, revistas académicas, publish or perish_
 
+**pueblo-gitano** — Comunidades romaníes (gitanas) de Europa; su cultura, vida cotidiana y marginación social. _Aliases: Roma, gypsies, gitanos, comunidad roma, romaní_
+
 ## Q
 
 **quimica-computacional** — Uso de métodos computacionales (mecánica cuántica, mecánica molecular, dinámica molecular) para estudiar sistemas químicos; incluye cálculos DFT, campos de fuerza ab initio y simulaciones atomísticas de moléculas y materiales. _Aliases: computational chemistry, DFT, density functional theory, química teórica, ab initio_
@@ -402,9 +430,13 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **STEM** — Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.
 
+**surrealismo** — Movimiento artístico de vanguardia que explora el inconsciente, el azar y lo onírico; influyó de forma decisiva en la fotografía moderna. _Aliases: surrealism, vanguardia, surrealista_
+
 ## T
 
 **teoria-de-juegos** — Estudio de la decisión estratégica entre agentes racionales cuyos resultados dependen de las elecciones de los demás; en la ficción aparece como dilemas de cooperación y conflicto, disuasión y equilibrios (p. ej., la hipótesis del bosque oscuro como respuesta a la paradoja de Fermi). _Aliases: game theory, teoría de juegos, dilema del prisionero, equilibrio de Nash, disuasión, estrategia_
+
+**trabajo-y-clase-obrera** — El trabajo manual e industrial y quienes lo realizan; su dignidad, sus condiciones y su transformación o desaparición. _Aliases: labor, working class, clase trabajadora, trabajo manual, obreros_
 
 **trauma-y-salud** — Estudio del impacto del trauma psicológico —especialmente el trauma temprano y el trauma complejo— sobre la salud física y mental; incluye la neurobiología del estrés crónico, la epigenética del trauma y los enfoques de atención informada en trauma. _Aliases: trauma and health, trauma-informed care, trauma complejo, adverse childhood experiences, ACEs, psiconeuroinmunología_
 
