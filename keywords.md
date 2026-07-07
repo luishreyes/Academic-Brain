@@ -23,6 +23,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **analisis-bibliometrico** — Método cuantitativo de mapeo de la literatura científica que analiza patrones de publicación, redes de coautoría, co-ocurrencia de palabras clave y estructuras de citación para revelar la estructura intelectual y la evolución temática de un campo. _Aliases: bibliometric analysis, bibliometría, bibliometric mapping, scientometrics, cienciometría, VOSviewer_
 
+**analitica-predictiva** — Uso de modelos estadísticos y de aprendizaje automático para estimar riesgos y anticipar eventos que guían decisiones en servicios sociales y humanos (cribado, asignación de recursos, priorización); incluye los sistemas de apoyo a la decisión y sus debates de exactitud, equidad y sesgo. _Aliases: predictive analytics, analítica predictiva, modelos predictivos de riesgo, risk modeling, decision support, apoyo a la decisión_
+
 **alfabetizacion-en-ia** — Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación. _Aliases: AI literacy, AI competency, competencias en IA, literacia en IA_
 
 **alineamiento-de-ia** — Conjunto de técnicas y objetivos orientados a que los sistemas de IA persigan los valores, intenciones y normas previstos por sus diseñadores; incluye enfoques como el constitucionalismo de IA (reglas y principios incrustados en el modelo). _Aliases: AI alignment, alineación de IA, IA constitucional, constitutional AI_
@@ -121,6 +123,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **divagacion-mental** — Desplazamiento espontáneo de la atención desde el entorno externo o la tarea en curso hacia pensamientos generados internamente; incluye sus formas constructivas (positivo-constructiva, ligada a la incubación y la creatividad) y disfuncionales (culpa, miedo al fracaso, rumiación), y su papel en la cognición cotidiana y laboral. _Aliases: mind-wandering, daydreaming, ensoñación, ensoñación diurna, pensamiento espontáneo, off-task thinking, divagación_
 
+**diversidad-sexual-y-genero** — Poblaciones y experiencias LGBTQIA+, y el diseño de servicios y tecnologías inclusivas y afirmativas; incluye los sesgos de los sistemas de IA hacia identidades de género y orientaciones sexuales diversas. _Aliases: LGBTQIA+, diversidad sexual y de género, poblaciones LGBTQ, identidad de género, orientación sexual, inclusión_
+
 ## E
 
 **emulsiones** — Sistemas coloidales de dos líquidos inmiscibles (aceite y agua) estabilizados por surfactantes, proteínas o partículas; incluye emulsiones simples, dobles (W/O/W), Pickering y de fase interna alta (HIPE), y su uso para encapsular y liberar de forma controlada compuestos bioactivos y microorganismos. _Aliases: emulsions, emulsiones, Pickering emulsion, double emulsion, W/O/W, HIPE, high internal phase emulsion, sistema de encapsulación_
@@ -130,6 +134,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **enfermedades-respiratorias** — Condiciones patológicas que afectan las vías respiratorias y el tejido pulmonar, incluyendo el síndrome de dificultad respiratoria aguda (SDRA/ARDS), la inflamación pulmonar y el daño alveolar; abarca su fisiopatología y las estrategias terapéuticas dirigidas al pulmón. _Aliases: respiratory diseases, acute respiratory distress syndrome, ARDS, SDRA, lung disease, pulmonary inflammation_
 
 **entrega-de-mrna** — Diseño y desarrollo de sistemas de transporte (nanopartículas lipídicas, LNPs, cubosomas) que protegen y liberan mRNA terapéutico en el citosol de células diana, superando barreras biológicas como el escape endosomal; incluye lípidos ionizables, mecanismos de fusión de membrana y optimización de formulación. _Aliases: mRNA delivery, mRNA therapeutics, lipid nanoparticles, LNP, ionizable lipids, cubosomes, endosomal escape_
+
+**envejecimiento** — Proceso de envejecimiento y el campo de servicios y tecnologías para personas mayores; incluye compañeros digitales, monitoreo del hogar, detección de caídas y apoyo a la autonomía, con sus tensiones de privacidad y cuidado humano. _Aliases: aging, envejecimiento, adultos mayores, gerontología, cuidado de mayores, older adults_
 
 **epistemologia-del-riesgo** — Estudio filosófico del conocimiento bajo incertidumbre y riesgo; incluye el problema de la inducción, la distinción entre riesgo medible e incertidumbre radical, y las implicaciones epistemológicas de distribuciones con colas pesadas. _Aliases: risk epistemology, incertidumbre radical, uncertainty, Black Swan, cisne negro, probabilidad subjetiva_
 
@@ -248,6 +254,10 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## J
 
+**justicia-penal** — Sistema de justicia penal, policía, tribunales y rehabilitación, y el uso de IA y analítica predictiva en decisiones de riesgo, vigilancia y reinserción; incluye sus riesgos de sesgo y criminalización. _Aliases: criminal justice, justicia penal, policía predictiva, rehabilitación, reincidencia, encarcelamiento_
+
+**justicia-social** — Principio y movimiento orientado a una distribución equitativa de recursos, derechos y oportunidades, y a la defensa de los derechos humanos y de las poblaciones marginadas; incluye la incidencia (advocacy), la equidad y el uso de datos y tecnología para documentar abusos y movilizar apoyo. _Aliases: social justice, justicia social, derechos humanos, human rights, incidencia, advocacy, equidad social_
+
 ## K
 
 ## L
@@ -308,6 +318,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **petroleo-y-gas** — Ingeniería y ciencia aplicada a la extracción, procesamiento y transporte de hidrocarburos; incluye flujos multifásicos, emulsiones de crudo, demulsificación, reología de crudos pesados y técnicas de recuperación mejorada. _Aliases: oil and gas, petroleum engineering, crudo pesado, heavy crude oil, demulsification_
 
 **proteinas-recombinantes** — Proteínas producidas mediante expresión de genes heterólogos en sistemas hospederos como E. coli, levaduras o células de mamífero; incluye enzimas terapéuticas, anticuerpos monoclonales y biosimilares para uso médico o industrial. _Aliases: recombinant proteins, biopharmaceuticals, therapeutic proteins, protein expression, enzyme production_
+
+**proteccion-infantil** — Sistemas y prácticas de bienestar de la niñez y la familia orientados a prevenir y responder al maltrato y la negligencia; incluye los modelos predictivos de riesgo en protección infantil y sus debates de equidad y sesgo. _Aliases: child welfare, protección infantil, bienestar infantil, servicios de familia, child protective services, maltrato infantil_
 
 **poder-y-persuasion** — Estudio de los mecanismos sociales, psicológicos e históricos mediante los cuales los individuos adquieren, ejercen y mantienen influencia sobre otros; incluye estrategia política, retórica, psicología social de la influencia y el pensamiento maquiavélico. _Aliases: power and persuasion, influence, maquiavelismo, strategic power, Machiavelli, realpolitik_
 
@@ -377,6 +389,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **salud-y-sociedad** — Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos. _Aliases: social determinants of health, determinantes sociales de la salud, health and society, medicina social_
 
+**salud-mental** — Estado de bienestar psicológico y emocional, y el campo de servicios y políticas para prevenir, detectar y tratar trastornos mentales (depresión, ansiedad, ideación suicida, adicciones); incluye la teleterapia, los chatbots de apoyo y la detección temprana asistida por IA. _Aliases: mental health, salud mental, teleterapia, prevención del suicidio, servicios de salud mental, bienestar psicológico_
+
 **satira** — Uso de la ironía, la exageración y el humor para criticar instituciones, ideologías o la condición humana. _Aliases: satire, sátira, humor, ironía, parodia_
 
 **seguridad-de-ia** — Campo dedicado a prevenir comportamientos dañinos o no deseados en sistemas de IA, como evadir la supervisión, engañar a usuarios o actuar fuera del control previsto. _Aliases: AI safety, seguridad de la inteligencia artificial_
@@ -393,6 +407,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **teoria-de-juegos** — Estudio de la decisión estratégica entre agentes racionales cuyos resultados dependen de las elecciones de los demás; en la ficción aparece como dilemas de cooperación y conflicto, disuasión y equilibrios (p. ej., la hipótesis del bosque oscuro como respuesta a la paradoja de Fermi). _Aliases: game theory, teoría de juegos, dilema del prisionero, equilibrio de Nash, disuasión, estrategia_
 
 **trauma-y-salud** — Estudio del impacto del trauma psicológico —especialmente el trauma temprano y el trauma complejo— sobre la salud física y mental; incluye la neurobiología del estrés crónico, la epigenética del trauma y los enfoques de atención informada en trauma. _Aliases: trauma and health, trauma-informed care, trauma complejo, adverse childhood experiences, ACEs, psiconeuroinmunología_
+
+**trabajo-social** — Disciplina y profesión orientada a promover el bienestar, los derechos humanos y la justicia social de individuos, familias, grupos y comunidades; interviene en ámbitos como bienestar infantil, salud mental, pobreza, justicia penal y servicios humanos, y crecientemente incorpora tecnologías de IA en su práctica, educación e investigación. _Aliases: social work, trabajo social, servicios humanos, human services, intervención social, bienestar social_
 
 **taxonomia-de-bloom** — Marco jerárquico de seis niveles cognitivos (recordar, comprender, aplicar, analizar, evaluar, crear) usado para diseñar currículo y evaluación, y para mapear la complejidad cognitiva de tareas; sirve de referencia para evaluar el razonamiento de la IA frente a la progresión cognitiva humana. _Aliases: Bloom's taxonomy, taxonomía de Bloom, niveles cognitivos_
 
@@ -414,7 +430,11 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **vision-por-computadora** — Campo de la IA que extrae información de imágenes y video mediante redes neuronales (CNN); incluye clasificación de imágenes, detección y localización de objetos, y aprendizaje por transferencia sobre modelos preentrenados. _Aliases: computer vision, visión artificial, image classification, CNN, transfer learning_
 
+**violencia-de-genero** — Violencia sexual, doméstica y de pareja íntima, y su prevención, detección y apoyo a sobrevivientes; incluye el uso de chatbots, análisis multimodal y sistemas de alerta, y la trata de personas con fines de explotación. _Aliases: gender-based violence, violencia de género, violencia doméstica, violencia sexual, intimate partner violence, trata de personas_
+
 **visualizacion-de-datos** — Arte y ciencia de representar datos e información de forma gráfica para facilitar la comprensión, el análisis y la comunicación; incluye diseño de gráficos, principios de percepción visual y narrativa con datos. _Aliases: data visualization, dataviz, gráficos estadísticos, storytelling with data, infografía de datos_
+
+**vivienda** — Acceso a la vivienda, la inestabilidad habitacional y el sinhogarismo, y el uso de datos e IA para priorizar servicios, predecir riesgo de desalojo y coordinar la atención a comunidades en riesgo. _Aliases: housing, vivienda, sinhogarismo, homelessness, inestabilidad habitacional, housing stability_
 
 ## W
 
