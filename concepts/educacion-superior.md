@@ -162,3 +162,5 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
 - [[notes/papers/2026-05-20_salud-mental-investigadores-carrera-temprana-metaanalisis]]
 - [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]

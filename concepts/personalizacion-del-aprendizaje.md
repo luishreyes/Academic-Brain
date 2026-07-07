@@ -46,3 +46,4 @@ Adaptación de contenidos, ritmo e instrucción a las características, necesida
 - [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]
 - [[notes/books/2019-01-01_ultralearning-young]]
 - [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]

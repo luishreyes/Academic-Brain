@@ -17,3 +17,12 @@ Pese a esa diferencia de estrategia, el corpus converge en que la interpretabili
 ## Notas que usan este concepto
 - [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
 - [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap06-discapacidad]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap10-escolar]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap13-vivienda]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap14-justicia-penal]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap15-trata-personas]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap17-ambiental-clima]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap19-internacional]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]

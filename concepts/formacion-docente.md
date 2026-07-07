@@ -66,3 +66,4 @@ Preparación y desarrollo profesional continuo del profesorado; incluye la forma
 - [[notes/articles/2026-01-01_evidence-base-ia-k12-review]]
 - [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
 - [[notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]

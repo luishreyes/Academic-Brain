@@ -19,3 +19,8 @@ Donde el corpus técnico se detiene en la confianza operativa, la NSPE la eleva 
 - [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]
 - [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
 - [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap02-etica]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap09-salud-mental]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap10-escolar]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]

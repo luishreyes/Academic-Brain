@@ -24,3 +24,8 @@ El Sur Global aparece una y otra vez como el contexto donde la brecha se vuelve 
 - [[notes/papers/2026-06-28_genai-divide-japan-rat]]
 - [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]
 - [[notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap06-discapacidad]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap17-ambiental-clima]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap19-internacional]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]

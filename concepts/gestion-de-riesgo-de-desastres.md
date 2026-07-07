@@ -10,3 +10,6 @@ Enfoque sistemático para reducir la vulnerabilidad y construir resiliencia fren
 
 ## Notas que usan este concepto
 - [[notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap13-vivienda]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap17-ambiental-clima]]

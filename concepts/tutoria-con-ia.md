@@ -61,3 +61,4 @@ Uso de sistemas de inteligencia artificial para proporcionar instrucción indivi
 - [[notes/papers/2026-06-28_metaclass-coaching-metacognitivo]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
 - [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]

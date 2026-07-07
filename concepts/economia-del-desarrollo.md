@@ -10,3 +10,5 @@ Estudio de las causas de la pobreza y de qué intervenciones la reducen, con én
 
 ## Notas que usan este concepto
 - [[notes/books/2011-01-01_poor-economics-banerjee]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap03-pobreza]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap19-internacional]]

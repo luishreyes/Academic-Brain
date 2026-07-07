@@ -67,3 +67,5 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2026-05-20_salud-mental-investigadores-carrera-temprana-metaanalisis]]
 - [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]
 - [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap15-trata-personas]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social]]

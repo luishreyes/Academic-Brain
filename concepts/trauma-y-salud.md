@@ -21,3 +21,4 @@ Donde divergen es en el nivel causal y, por tanto, en la solución. Maté sitúa
 - [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]
 - [[notes/books/1946-01-01_mans-search-for-meaning-frankl]]
 - [[notes/books/2018-01-01_como-hacer-que-te-pasen-cosas-buenas-rojas]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap08-violencia-pareja]]

@@ -10,3 +10,4 @@ Estudio de las actitudes, conductas, estados psicológicos y diferencias individ
 
 ## Notas que usan este concepto
 - [[notes/papers/2025-01-01_creatividad-divagacion-cognicion-trabajo]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap18-empleo]]

@@ -17,3 +17,4 @@ Leídas en conjunto, las dos notas sugieren que la acreditación formal tiende a
 ## Notas que usan este concepto
 - [[notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision]]
 - [[notes/articles/2021-01-01_eur-ace-marco-acreditacion-ingenieria]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]
