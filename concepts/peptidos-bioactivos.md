@@ -20,3 +20,4 @@ Péptidos cortos con actividad biológica (antimicrobiana, antioxidante, inmunom
 - [[notes/papers/2025-01-01_amp-introduccion-bench-to-bedside]]
 - [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]
 - [[notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica]]
+- [[notes/papers/2026-07-07_poros-transitorios-cpp-homeoproteinas]]

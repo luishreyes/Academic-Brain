@@ -14,3 +14,4 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje en las 
 - [[notes/papers/2026-01-01_ia-preguntas-opcion-multiple-patologia]]
 - [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]
 - [[notes/papers/2026-01-01_clonacion-voz-ia-pedagogia-medica]]
+- [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]

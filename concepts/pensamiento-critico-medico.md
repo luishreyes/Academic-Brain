@@ -18,3 +18,4 @@ El sesgo de supervivencia de Taleb encuentra su versión institucional en el cap
 - [[notes/books/2024-01-01_blind-spots-makary]]
 - [[notes/books/2001-01-01_fooled-by-randomness]]
 - [[notes/books/2017-04-04_pandoras-lab-offit]]
+- [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
