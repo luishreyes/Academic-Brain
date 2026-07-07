@@ -4,7 +4,7 @@ tipo: modulo-de-recomendacion
 alcance: lectura y conversacion sobre libros
 no_alcance: escritura, edicion de prosa, generacion de texto de autor
 registro: usted
-actualizado: 2026-07-05
+actualizado: 2026-07-07
 ---
 
 # Módulo: Club de Lectura
@@ -67,6 +67,7 @@ Al terminar cada libro: conversación breve, dos o tres preguntas concretas, nad
 
 - Leyendo ahora: Exhalation, de Ted Chiang. Valoración provisional 4.5, ya encargó la pasta dura para coleccionarlo.
 - Hilo abierto: la segunda máquina de Chiang sobre el libre albedrío, todavía sin aparecer en su lectura. Retomar al cierre.
+- Fotografía confirmada como vena real, no capricho: cerró tres Photofile, Salgado, Koudelka y Cartier-Bresson, los tres en 4.5. El dato fino está en la distancia con el 5 que dio a The Decisive Moment. Prefiere la obra completa a la monografía de bolsillo que la resume. Esto refuerza el salto lateral pendiente hacia Calvino: el ojo de observador tiene hambre de material, y el libro literario construido como sistema de imágenes es la apuesta natural.
 
 ## Recomendaciones del club
 

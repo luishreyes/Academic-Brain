@@ -2,9 +2,9 @@
 titulo: Catálogo de lecturas
 tipo: fuente-de-datos
 proposito: base para el módulo Club de Lectura y para generar notas de ficción y enlaces en el grafo
-total_leidos: 117
+total_leidos: 120
 en_curso: 1
-actualizado: 2026-07-05
+actualizado: 2026-07-07
 leyenda_valoracion: "5, 4, 3 (entero) · 's/c' sin calificar · 'prov' provisional"
 leyenda_idioma: "EN edición en inglés · ES edición en español · ND no determinado"
 leyenda_estado: "leído · leyendo · recomendado"
@@ -188,6 +188,9 @@ Uso: el módulo `/bookclub` lee este catálogo para entender el criterio de Luis
 | Título | Autor | Idioma | Valoración | Estado |
 |---|---|---|---|---|
 | The Decisive Moment | Henri Cartier-Bresson | EN | 5 | leído |
+| Sebastião Salgado (Photofile) | Sebastião Salgado | EN | 4.5 | leído |
+| Josef Koudelka (Photofile) | Josef Koudelka | EN | 4.5 | leído |
+| Henri Cartier-Bresson (Photofile) | Henri Cartier-Bresson | EN | 4.5 | leído |
 
 ## Thriller
 
