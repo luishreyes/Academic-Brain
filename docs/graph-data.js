@@ -4,9 +4,9 @@ window.__ACADEMIC_BRAIN__ = {
   "counts": {
     "papers": 383,
     "articles": 53,
-    "books": 68,
+    "books": 71,
     "fiction": 65,
-    "concepts": 193
+    "concepts": 209
   },
   "nodes": [
     {
@@ -569,6 +569,23 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 2
     },
     {
+      "id": "concepts/composicion-visual",
+      "kind": "concept",
+      "label": "composicion visual",
+      "keyword": "composicion-visual",
+      "aliases": [
+        "visual composition",
+        "geometría visual",
+        "encuadre",
+        "composición"
+      ],
+      "definition": "Principios de organización formal de la imagen (geometría, encuadre, líneas, equilibrio, simetría) que estructuran una fotografía u obra visual.",
+      "literature": "",
+      "path": "concepts/composicion-visual.md",
+      "content": "Principios de organización formal de la imagen (geometría, encuadre, líneas, equilibrio, simetría) que estructuran una fotografía u obra visual.\n\n## Notas que usan este concepto\n- [[notes/books/2008-01-01_cartier-bresson-photofile]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/comunicacion-cientifica",
       "kind": "concept",
       "label": "comunicacion cientifica",
@@ -621,6 +638,23 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/confianza-en-la-ia.md",
       "content": "Actitud de creer que un agente de IA ayudará a alcanzar los objetivos del usuario en situaciones de incertidumbre; predice la adopción y el uso rutinario de la IA y, vía sesgo de automatización, puede derivar en la aceptación acrítica de sus salidas.\n\n## Qué dice la literatura\n\nCinco trabajos —tres estudios empíricos, una revisión que cita un informe de confianza pública, y un artículo de divulgación institucional— convergen en un diagnóstico compartido: la confianza en la IA rara vez está calibrada con la fiabilidad real del sistema, y esa brecha es el mecanismo que explica tanto la sobredependencia cognitiva como los riesgos éticos documentados en el corpus. El hallazgo más contundente proviene de Choudhuri et al., cuyo modelo PLS-SEM sobre 299 estudiantes STEM de cinco universidades muestra que la confianza predice fuertemente el uso rutinario de la genAI (β = 0.64) y que este, a su vez, media casi por completo (VAF > 0.8) la caída en reflexión (β = −0.66), pensamiento crítico (β = −0.41) y necesidad de comprensión (β = −0.21). El dato más inquietante de ese estudio es que los rasgos que STEM valora como indicadores de preparación profesional —tolerancia al riesgo, autoeficacia computacional, motivación tecnofílica— predicen mayor uso y, por tanto, mayor desenganche cognitivo: la confianza no protege a los mejor preparados, los expone más.\n\nLiu, Fan y Pan documentan el mismo fenómeno desde una óptica cualitativa y en un dominio distinto (programación en Java, un semestre, teoría fundamentada). Su corpus de interacción revela una \"Ilusión de Diálogo\": los estudiantes narran su relación con Copilot como colaboración de un tutor 24/7, mientras los logs muestran que el 75% de los prompts fueron delegación transaccional de un solo paso. Dos patrones de confianza mal calibrada emergen según la experiencia: los novatos exhiben \"Trust-but-Can't-Verify\" (confían porque no tienen la base para verificar), y los estudiantes avanzados sufren el \"Boilerplate Blindspot\" (delegan acríticamente el código que juzgan trivial, y ahí es donde aparecen los defectos). Ambos casos son formas distintas de la misma \"calibración metacognitiva atenuada\": la confianza en la propia competencia se desacopla de la capacidad real sin asistencia.\n\nJamal Eddine et al. sitúan este mismo problema en un nivel estructural: dentro de su mapeo de evidencia sobre brecha digital y GenAI, señalan que la \"sobreconfianza\" estudiantil surge cuando la confianza en la adopción supera la preparación institucional y la capacitación docente, una \"paradoja de adopción\" que citan del Trust in AI Report 2025 (Melbourne/KPMG) y que resulta más aguda en economías emergentes. Es una lectura complementaria, no contradictoria, a la de Choudhuri y Liu et al.: donde estos últimos ven la descalibración como un fenómeno psicológico individual, Jamal Eddine la ve como un desfase institucional —la infraestructura de gobernanza no alcanza al ritmo de adopción—, y Georgieva y Stuart, desde EDUCAUSE, proponen la respuesta normativa a ese mismo desfase: la confianza no debe darse por sentada ni construirse solo por default de mercado, sino cultivarse deliberadamente mediante gobernanza (su propuesto Comité Institucional de Revisión Ética, AIERB) y principios explícitos de transparencia y rendición de cuentas, precisamente porque perciben que \"acelerar la creatividad\" sin marcos éticos \"arriesga... erosionar relaciones educativas\" y desplazar a los docentes de mentores a monitores.\n\nEl estudio de Cheung, Maier y Lieder aporta la pieza que explica por qué esa confianza acrítica es, en efecto, arriesgada: al comparar las decisiones morales de GPT-4, Llama 3.1-Instruct y Claude 3.5 Sonnet con las de participantes humanos, encuentran que los LLMs exhiben un sesgo de omisión muchísimo más marcado que las personas (~45 puntos porcentuales de diferencia entre elegir la opción de costo-beneficio según coincida con acción u omisión, frente a apenas ~5 puntos en humanos) y un \"sesgo sí-no\" no observado en personas, que hace que el consejo del modelo cambie según cómo se formule la pregunta. Cruzan menos de 0.7 de correlación con las respuestas humanas en la mayoría de dilemas —evidencia de que los LLMs no solo están más sesgados, sino que razonan de forma cualitativamente distinta— y localizan el origen del sesgo en el fine-tuning conversacional (RLHF), no en el preentrenamiento. Su conclusión explícita conecta directamente con el resto del corpus: la confianza acrítica en el consejo moral de un LLM puede amplificar sesgos humanos existentes e introducir sesgos enteramente nuevos. Leído junto a Choudhuri et al. y Liu et al., el conjunto sugiere que la confianza en la IA opera como un mecanismo único con manifestaciones en tres niveles —cognitivo (erosión de hábitos de pensamiento), procedimental (incapacidad de verificar lo delegado) y normativo (aceptación de juicios sesgados)— y que ninguno de los cinco estudios encuentra evidencia de que la experiencia previa, la pericia técnica o el nivel académico actúen como protección automática contra la descalibración.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]\n- [[notes/articles/2025-06-24_ethics-is-the-edge-ia-educacion-superior]]\n- [[notes/papers/2026-01-01_genai-brecha-digital-educacion-superior]]\n- [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]\n- [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]\n- [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap02-etica]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap04-bienestar-infantil]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap09-salud-mental]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap12-adultos-mayores]]",
       "degree": 10
+    },
+    {
+      "id": "concepts/conservacion-de-la-naturaleza",
+      "kind": "concept",
+      "label": "conservacion de la naturaleza",
+      "keyword": "conservacion-de-la-naturaleza",
+      "aliases": [
+        "nature conservation",
+        "conservación ambiental",
+        "reforestación",
+        "medio ambiente"
+      ],
+      "definition": "Protección y restauración de ecosistemas y vida silvestre; incluye reforestación, defensa de territorios prístinos y advocacy ambiental a través de la imagen.",
+      "literature": "",
+      "path": "concepts/conservacion-de-la-naturaleza.md",
+      "content": "Protección y restauración de ecosistemas y vida silvestre; incluye reforestación, defensa de territorios prístinos y advocacy ambiental a través de la imagen.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_salgado-photofile]]",
+      "degree": 1
     },
     {
       "id": "concepts/construccion-de-teoria",
@@ -809,6 +843,22 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/deteccion-de-texto-ia.md",
       "content": "Herramientas y técnicas para identificar texto o código generado por IA en trabajos académicos (Turnitin AI, GPTZero, Copyleaks, ZeroGPT, clasificadores de OpenAI); incluye su exactitud, falsos positivos/negativos, vulnerabilidad al parafraseo, watermarking y sesgo contra escritores no nativos.\n\n## Notas que usan este concepto\n- [[notes/papers/2025-10-16_deteccion-ia-educacion-superior]]\n- [[notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas]]\n- [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]\n- [[notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr]]\n- [[notes/papers/2026-06-28_stem-faculty-evaluacion-genai]]\n- [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]\n- [[notes/papers/2026-06-28_ai-academy-alfabetizacion-genai-docentes]]\n- [[notes/papers/2026-01-13_estrategias-competencias-ia-educacion-superior]]\n- [[notes/papers/2026-01-16_evaluacion-detectores-ia-contextos-academicos]]\n- [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]\n- [[notes/papers/2023-06-28_testing-detection-tools-ai-text]]\n- [[notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad]]\n- [[notes/papers/2026-03-26_sesgo-detectores-gpt-no-nativos-checo]]\n- [[notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico]]\n- [[notes/papers/2026-06-28_ai-detectors-fail-diverse-populations]]\n- [[notes/papers/2026-06-28_ia-generativa-integridad-academica-revision]]\n- [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]\n- [[notes/papers/2023-11-01_assessment-reform-era-ia]]\n- [[notes/papers/2025-06-27_adapting-university-policies-genai]]\n- [[notes/papers/2026-03-06_responsible-genai-se-education]]\n- [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]\n- [[notes/articles/2026-07-04_ia-cambia-lenguaje-guardian]]",
       "degree": 22
+    },
+    {
+      "id": "concepts/dignidad-humana",
+      "kind": "concept",
+      "label": "dignidad humana",
+      "keyword": "dignidad-humana",
+      "aliases": [
+        "human dignity",
+        "humanismo",
+        "dignidad"
+      ],
+      "definition": "Reconocimiento del valor intrínseco de las personas, en especial de los vulnerables, marginados o explotados; eje ético de la fotografía y el pensamiento humanistas.",
+      "literature": "",
+      "path": "concepts/dignidad-humana.md",
+      "content": "Reconocimiento del valor intrínseco de las personas, en especial de los vulnerables, marginados o explotados; eje ético de la fotografía y el pensamiento humanistas.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_salgado-photofile]]",
+      "degree": 1
     },
     {
       "id": "concepts/dinamica-de-poblaciones",
@@ -1403,6 +1453,24 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 11
     },
     {
+      "id": "concepts/exilio",
+      "kind": "concept",
+      "label": "exilio",
+      "keyword": "exilio",
+      "aliases": [
+        "exile",
+        "exiles",
+        "desarraigo",
+        "destierro",
+        "apátrida"
+      ],
+      "definition": "Condición de quien vive fuera de su tierra por causas políticas o forzadas; desarraigo, pérdida y memoria del lugar de origen.",
+      "literature": "",
+      "path": "concepts/exilio.md",
+      "content": "Condición de quien vive fuera de su tierra por causas políticas o forzadas; desarraigo, pérdida y memoria del lugar de origen.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_koudelka-photofile]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/exposicion-laboral-a-la-ia",
       "kind": "concept",
       "label": "exposicion laboral a la ia",
@@ -1530,6 +1598,69 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 58
     },
     {
+      "id": "concepts/fotografia-callejera",
+      "kind": "concept",
+      "label": "fotografia callejera",
+      "keyword": "fotografia-callejera",
+      "aliases": [
+        "street photography",
+        "fotografía de calle"
+      ],
+      "definition": "Género fotográfico que capta la vida cotidiana y espontánea en el espacio público urbano.",
+      "literature": "",
+      "path": "concepts/fotografia-callejera.md",
+      "content": "Género fotográfico que capta la vida cotidiana y espontánea en el espacio público urbano.\n\n## Notas que usan este concepto\n- [[notes/books/2008-01-01_cartier-bresson-photofile]]",
+      "degree": 1
+    },
+    {
+      "id": "concepts/fotografia-documental",
+      "kind": "concept",
+      "label": "fotografia documental",
+      "keyword": "fotografia-documental",
+      "aliases": [
+        "documentary photography",
+        "fotografía testimonial"
+      ],
+      "definition": "Fotografía que registra la realidad social, histórica o cultural con voluntad testimonial, más allá del hecho noticioso inmediato.",
+      "literature": "Los tres fotógrafos del corpus —Cartier-Bresson, Koudelka y Salgado— pertenecen a la misma tradición (documental, blanco y negro, todos pasaron por Magnum) y sin embargo cada uno resuelve de forma distinta la pregunta que define el género: qué relación establece el fotógrafo con lo que documenta, y qué pesa más, la verdad o la belleza. Leídas juntas, las tres monografías Photofile trazan tres respuestas casi incompatibles.\n\nCartier-Bresson (1908-2004) representa el polo de la **distancia geométrica**. Formado en la pintura y el surrealismo, subordina el documento a la composición: el \"instante decisivo\" es el momento en que la realidad, por un segundo, se ordena en una geometría significativa, y el trabajo del fotógrafo es reconocerla sin intervenir. Documenta la India de Gandhi o la China de 1949, pero el acontecimiento histórico queda organizado por el ojo del compositor. Koudelka (n. 1938) está en el extremo opuesto: la **inmersión sin distancia**. Convive casi una década con las comunidades romaníes para *Gypsies* y hace de su propio exilio la materia de *Exiles*; no observa desde afuera sino desde dentro, y su blanco y negro granulado y teatral renuncia a la elegancia de Cartier-Bresson para ganar intensidad y pertenencia. Salgado (1944-2025) ocupa un tercer vértice, el más disputado: la **estetización épica**. Su mirada de economista fotografía sistemas —el hambre del Sahel, el trabajo global en *Workers*, el desplazamiento en *Migrations*— con una monumentalidad de resonancia bíblica que convierte la miseria en imágenes de gran belleza formal, y es justamente esa belleza la que le valió la crítica (de Ingrid Sischy, en la estela de Susan Sontag) de anestesiar el dolor que denuncia.\n\nLa tensión que emerge del conjunto es productiva. Los tres comparten la premisa documental —dar testimonio de una realidad humana— pero difieren en dónde ponen la honestidad: Cartier-Bresson en la fidelidad al instante y a la forma, Koudelka en la abolición de la distancia entre quien mira y quien es mirado, Salgado en la dignificación del sujeto aun a riesgo de embellecer su sufrimiento. No hay un ganador: el corpus muestra que \"documentar honestamente\" no es una técnica sino una ética, y que esa ética admite soluciones opuestas dentro de una misma tradición.",
+      "path": "concepts/fotografia-documental.md",
+      "content": "Fotografía que registra la realidad social, histórica o cultural con voluntad testimonial, más allá del hecho noticioso inmediato.\n\n## Qué dice la literatura\n\nLos tres fotógrafos del corpus —Cartier-Bresson, Koudelka y Salgado— pertenecen a la misma tradición (documental, blanco y negro, todos pasaron por Magnum) y sin embargo cada uno resuelve de forma distinta la pregunta que define el género: qué relación establece el fotógrafo con lo que documenta, y qué pesa más, la verdad o la belleza. Leídas juntas, las tres monografías Photofile trazan tres respuestas casi incompatibles.\n\nCartier-Bresson (1908-2004) representa el polo de la **distancia geométrica**. Formado en la pintura y el surrealismo, subordina el documento a la composición: el \"instante decisivo\" es el momento en que la realidad, por un segundo, se ordena en una geometría significativa, y el trabajo del fotógrafo es reconocerla sin intervenir. Documenta la India de Gandhi o la China de 1949, pero el acontecimiento histórico queda organizado por el ojo del compositor. Koudelka (n. 1938) está en el extremo opuesto: la **inmersión sin distancia**. Convive casi una década con las comunidades romaníes para *Gypsies* y hace de su propio exilio la materia de *Exiles*; no observa desde afuera sino desde dentro, y su blanco y negro granulado y teatral renuncia a la elegancia de Cartier-Bresson para ganar intensidad y pertenencia. Salgado (1944-2025) ocupa un tercer vértice, el más disputado: la **estetización épica**. Su mirada de economista fotografía sistemas —el hambre del Sahel, el trabajo global en *Workers*, el desplazamiento en *Migrations*— con una monumentalidad de resonancia bíblica que convierte la miseria en imágenes de gran belleza formal, y es justamente esa belleza la que le valió la crítica (de Ingrid Sischy, en la estela de Susan Sontag) de anestesiar el dolor que denuncia.\n\nLa tensión que emerge del conjunto es productiva. Los tres comparten la premisa documental —dar testimonio de una realidad humana— pero difieren en dónde ponen la honestidad: Cartier-Bresson en la fidelidad al instante y a la forma, Koudelka en la abolición de la distancia entre quien mira y quien es mirado, Salgado en la dignificación del sujeto aun a riesgo de embellecer su sufrimiento. No hay un ganador: el corpus muestra que \"documentar honestamente\" no es una técnica sino una ética, y que esa ética admite soluciones opuestas dentro de una misma tradición.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_salgado-photofile]]\n- [[notes/books/2007-01-01_koudelka-photofile]]\n- [[notes/books/2008-01-01_cartier-bresson-photofile]]",
+      "degree": 3
+    },
+    {
+      "id": "concepts/fotografia-en-blanco-y-negro",
+      "kind": "concept",
+      "label": "fotografia en blanco y negro",
+      "keyword": "fotografia-en-blanco-y-negro",
+      "aliases": [
+        "black and white photography",
+        "monocromo",
+        "blanco y negro",
+        "duotono"
+      ],
+      "definition": "Fotografía monocroma que privilegia la luz, el contraste, la forma y la textura sobre el color como recurso expresivo.",
+      "literature": "",
+      "path": "concepts/fotografia-en-blanco-y-negro.md",
+      "content": "Fotografía monocroma que privilegia la luz, el contraste, la forma y la textura sobre el color como recurso expresivo.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_salgado-photofile]]\n- [[notes/books/2007-01-01_koudelka-photofile]]\n- [[notes/books/2008-01-01_cartier-bresson-photofile]]",
+      "degree": 3
+    },
+    {
+      "id": "concepts/fotografia-social",
+      "kind": "concept",
+      "label": "fotografia social",
+      "keyword": "fotografia-social",
+      "aliases": [
+        "social documentary photography",
+        "concerned photography",
+        "fotografía comprometida"
+      ],
+      "definition": "Fotografía comprometida con el testimonio y la denuncia de las condiciones de vida de los desfavorecidos; heredera de la \"concerned photography\".",
+      "literature": "",
+      "path": "concepts/fotografia-social.md",
+      "content": "Fotografía comprometida con el testimonio y la denuncia de las condiciones de vida de los desfavorecidos; heredera de la \"concerned photography\".\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_salgado-photofile]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/fotografia",
       "kind": "concept",
       "label": "fotografia",
@@ -1537,15 +1668,29 @@ window.__ACADEMIC_BRAIN__ = {
       "aliases": [
         "photography",
         "fotografía",
-        "composición fotográfica",
-        "instante decisivo",
         "imagen"
       ],
       "definition": "Arte y técnica de crear imágenes con la luz; incluye la composición, el instante decisivo, la mirada del observador y la fotografía como forma de documentar y ver el mundo.",
       "literature": "",
       "path": "concepts/fotografia.md",
-      "content": "Arte y técnica de crear imágenes con la luz; incluye la composición, el instante decisivo, la mirada del observador y la fotografía como forma de documentar y ver el mundo.\n\n## Notas que usan este concepto\n- [[notes/books/1952-01-01_the-decisive-moment-cartier-bresson]]",
-      "degree": 1
+      "content": "Arte y técnica de crear imágenes con la luz; incluye la composición, el instante decisivo, la mirada del observador y la fotografía como forma de documentar y ver el mundo.\n\n## Notas que usan este concepto\n- [[notes/books/1952-01-01_the-decisive-moment-cartier-bresson]]\n- [[notes/books/2007-01-01_salgado-photofile]]\n- [[notes/books/2007-01-01_koudelka-photofile]]\n- [[notes/books/2008-01-01_cartier-bresson-photofile]]",
+      "degree": 4
+    },
+    {
+      "id": "concepts/fotoperiodismo",
+      "kind": "concept",
+      "label": "fotoperiodismo",
+      "keyword": "fotoperiodismo",
+      "aliases": [
+        "photojournalism",
+        "reportaje fotográfico",
+        "fotorreportaje"
+      ],
+      "definition": "Periodismo visual: narración de acontecimientos y realidades mediante la fotografía para la prensa.",
+      "literature": "",
+      "path": "concepts/fotoperiodismo.md",
+      "content": "Periodismo visual: narración de acontecimientos y realidades mediante la fotografía para la prensa.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_koudelka-photofile]]\n- [[notes/books/2008-01-01_cartier-bresson-photofile]]",
+      "degree": 2
     },
     {
       "id": "concepts/futuro-del-trabajo",
@@ -1811,8 +1956,8 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos.",
       "literature": "",
       "path": "concepts/humanidades.md",
-      "content": "Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/papers/2026-01-01_writing-against-the-machine]]\n- [[notes/books/1952-01-01_the-decisive-moment-cartier-bresson]]\n- [[notes/books/2003-01-01_stiff-roach]]\n- [[notes/books/2012-11-13_mastery-robert-greene]]\n- [[notes/books/2016-02-02_originals-grant]]\n- [[notes/books/2019-09-10_talking-to-strangers-gladwell]]\n- [[notes/books/2022-08-11_el-poder-de-las-palabras-sigman]]\n- [[notes/articles/2026-07-04_ia-cambia-lenguaje-guardian]]",
-      "degree": 16
+      "content": "Disciplinas que estudian la expresión y experiencia humana: filosofía, historia, literatura, lingüística, estudios culturales y religiosos.\n\n## Notas que usan este concepto\n- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]\n- [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]\n- [[notes/papers/2024-06-13_ia-educacion-ficcion-cientifica]]\n- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]\n- [[notes/books/2018-02-20_educated-tara-westover]]\n- [[notes/books/2022-09-13_the-myth-of-normal]]\n- [[notes/books/2001-01-01_fooled-by-randomness]]\n- [[notes/books/2000-01-01_the-48-laws-of-power-greene]]\n- [[notes/papers/2026-01-01_writing-against-the-machine]]\n- [[notes/books/1952-01-01_the-decisive-moment-cartier-bresson]]\n- [[notes/books/2003-01-01_stiff-roach]]\n- [[notes/books/2012-11-13_mastery-robert-greene]]\n- [[notes/books/2016-02-02_originals-grant]]\n- [[notes/books/2019-09-10_talking-to-strangers-gladwell]]\n- [[notes/books/2022-08-11_el-poder-de-las-palabras-sigman]]\n- [[notes/articles/2026-07-04_ia-cambia-lenguaje-guardian]]\n- [[notes/books/2007-01-01_salgado-photofile]]\n- [[notes/books/2007-01-01_koudelka-photofile]]\n- [[notes/books/2008-01-01_cartier-bresson-photofile]]",
+      "degree": 19
     },
     {
       "id": "concepts/ia-explicable",
@@ -1976,6 +2121,22 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/ingenieria-quimica.md",
       "content": "Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial.\n\n## Notas que usan este concepto\n- [[notes/papers/2007-05-18_force-constants-alanine-polypeptides]]\n- [[notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli]]\n- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]\n- [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]\n- [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]\n- [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]\n- [[notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa]]\n- [[notes/papers/2013-11-18_carotenoides-levadura-ale]]\n- [[notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso]]\n- [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]\n- [[notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica]]\n- [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]\n- [[notes/papers/2017-11-21_clostridium-xylose-cofermentacion]]\n- [[notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones]]\n- [[notes/papers/2019-01-30_ids-proteoma-cerebro-mps]]\n- [[notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia]]\n- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]\n- [[notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis]]\n- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]\n- [[notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes]]\n- [[notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores]]\n- [[notes/papers/2020-01-01_clostridium-xylose-transcriptomica]]\n- [[notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde]]\n- [[notes/papers/2020-07-30_wil-employability-ingenieria-quimica]]\n- [[notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd]]\n- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]\n- [[notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion]]\n- [[notes/papers/2020-11-06_sal-queso-costeno-multiscale]]\n- [[notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico]]\n- [[notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers]]\n- [[notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion]]\n- [[notes/papers/2021-09-01_genome-editing-parkinson]]\n- [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]\n- [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]\n- [[notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis]]\n- [[notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel]]\n- [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]\n- [[notes/papers/2022-01-10_biobricks-genomica-sintetica]]\n- [[notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa]]\n- [[notes/papers/2022-02-24_multiscale-productos-lacteos]]\n- [[notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid]]\n- [[notes/books/2011-01-01_chemical-product-design-cussler]]\n- [[notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos]]\n- [[notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata]]\n- [[notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike]]\n- [[notes/papers/2022-07-14_peptidos-antimicrobianos-ia]]\n- [[notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas]]\n- [[notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales]]\n- [[notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal]]\n- [[notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest]]\n- [[notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional]]\n- [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]\n- [[notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial]]\n- [[notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo]]\n- [[notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular]]\n- [[notes/papers/2023-05-31_crispra-magnetita-entrega-genes]]\n- [[notes/papers/2023-06-03_proteinas-alternativas-lacteos]]\n- [[notes/papers/2023-06-12_invertasa-magnetita-fos]]\n- [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]\n- [[notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas]]\n- [[notes/papers/2024-07-01_yeastsim-simulador-control-procesos]]\n- [[notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion]]\n- [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]\n- [[notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina]]\n- [[notes/papers/2024-11-14_omv-gfp-ecoli-escalable]]\n- [[notes/papers/2025-01-01_amp-downstream-processing]]\n- [[notes/papers/2025-01-11_po-pbl-operaciones-unitarias]]\n- [[notes/papers/2025-04-03_gases-malolientes-aguas]]\n- [[notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal]]\n- [[notes/articles/2026-03-08_genai-aula-ingenieria-quimica]]\n- [[notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica]]\n- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]\n- [[notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica]]\n- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]\n- [[notes/papers/2025-06-06_genai-catalisis-revision]]\n- [[notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente]]\n- [[notes/papers/2025-07-06_talking-like-pids]]\n- [[notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso]]\n- [[notes/papers/2021-03-12_data-science-ciencia-molecular]]\n- [[notes/papers/2024-05-09_genai-process-systems-engineering]]\n- [[notes/papers/2024-01-01_generacion-automatica-control-pfd-llm]]\n- [[notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo]]\n- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]\n- [[notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales]]\n- [[notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos]]\n- [[notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado]]\n- [[notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica]]\n- [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]\n- [[notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos]]\n- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]\n- [[notes/papers/2026-01-01_genai-computing-ingenieria-quimica]]\n- [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]\n- [[notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica]]\n- [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]\n- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]\n- [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]\n- [[notes/papers/2026-06-27_superstudent-llm-termodinamica]]\n- [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]\n- [[notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos]]\n- [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]\n- [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]\n- [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]\n- [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]\n- [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]\n- [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]\n- [[notes/papers/2026-06-27_llm-automatizan-hazop]]\n- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]\n- [[notes/articles/2025-01-01_icheme-codigo-conducta-etica]]\n- [[notes/articles/2026-06-08_ai-coming-for-your-job]]\n- [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]\n- [[notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica]]\n- [[notes/papers/2026-07-02_nanogeles-quitosano-melanoma]]\n- [[notes/papers/2026-07-05_microfluidica-doble-emulsion-prediccion]]",
       "degree": 114
+    },
+    {
+      "id": "concepts/instante-decisivo",
+      "kind": "concept",
+      "label": "instante decisivo",
+      "keyword": "instante-decisivo",
+      "aliases": [
+        "decisive moment",
+        "moment décisif",
+        "instante decisivo"
+      ],
+      "definition": "Concepto de Henri Cartier-Bresson: el momento preciso e irrepetible en que los elementos de una escena se alinean en una composición significativa.",
+      "literature": "",
+      "path": "concepts/instante-decisivo.md",
+      "content": "Concepto de Henri Cartier-Bresson: el momento preciso e irrepetible en que los elementos de una escena se alinean en una composición significativa.\n\n## Notas que usan este concepto\n- [[notes/books/2008-01-01_cartier-bresson-photofile]]",
+      "degree": 1
     },
     {
       "id": "concepts/integridad-academica",
@@ -2155,6 +2316,22 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 5
     },
     {
+      "id": "concepts/magnum-photos",
+      "kind": "concept",
+      "label": "magnum photos",
+      "keyword": "magnum-photos",
+      "aliases": [
+        "Magnum",
+        "agencia Magnum",
+        "cooperativa fotográfica"
+      ],
+      "definition": "Cooperativa fotográfica fundada en 1947 por Cartier-Bresson, Capa, Rodger y Seymour; modelo de autoría independiente y de control de los fotógrafos sobre su obra.",
+      "literature": "Los tres fotógrafos del corpus pasaron por Magnum, y juntos dibujan el arco completo de lo que la agencia significó: su fundación, su función y sus límites. Cartier-Bresson la **funda** en 1947, junto a Capa, Rodger y Seymour, como la encarnación institucional de una idea: que el fotógrafo, no la revista, sea dueño de sus negativos y de sus reportajes. Koudelka la **habita** como refugio: llega a comienzos de los setenta, ya exiliado y apátrida, y encuentra en la cooperativa una casa sin país —de hecho, fueron canales de Magnum los que sacaron clandestinamente sus negativos de la invasión de Praga y los publicaron con las iniciales \"P. P.\" para protegerlo. Salgado la **desborda**: trabaja a través de Magnum durante los años ochenta y comienzos de los noventa, pero termina saliendo para fundar su propia agencia, Amazonas Images, con su esposa Lélia Wanick.\n\nEsa salida es el dato revelador del conjunto. Salgado abandona precisamente el modelo que Cartier-Bresson había creado para dar autonomía al autor, porque su visión —proyectos de escala de libro, controlados de principio a fin, del rodaje a la impresión y la reforestación de Instituto Terra— pedía un control aún mayor que el que ofrecía la cooperativa. Leídos juntos, los tres muestran a Magnum como una institución que hizo posible la fotografía de autor del siglo XX y que, en su propio éxito, engendró autores tan totales que terminaron necesitando salir de ella.",
+      "path": "concepts/magnum-photos.md",
+      "content": "Cooperativa fotográfica fundada en 1947 por Cartier-Bresson, Capa, Rodger y Seymour; modelo de autoría independiente y de control de los fotógrafos sobre su obra.\n\n## Qué dice la literatura\n\nLos tres fotógrafos del corpus pasaron por Magnum, y juntos dibujan el arco completo de lo que la agencia significó: su fundación, su función y sus límites. Cartier-Bresson la **funda** en 1947, junto a Capa, Rodger y Seymour, como la encarnación institucional de una idea: que el fotógrafo, no la revista, sea dueño de sus negativos y de sus reportajes. Koudelka la **habita** como refugio: llega a comienzos de los setenta, ya exiliado y apátrida, y encuentra en la cooperativa una casa sin país —de hecho, fueron canales de Magnum los que sacaron clandestinamente sus negativos de la invasión de Praga y los publicaron con las iniciales \"P. P.\" para protegerlo. Salgado la **desborda**: trabaja a través de Magnum durante los años ochenta y comienzos de los noventa, pero termina saliendo para fundar su propia agencia, Amazonas Images, con su esposa Lélia Wanick.\n\nEsa salida es el dato revelador del conjunto. Salgado abandona precisamente el modelo que Cartier-Bresson había creado para dar autonomía al autor, porque su visión —proyectos de escala de libro, controlados de principio a fin, del rodaje a la impresión y la reforestación de Instituto Terra— pedía un control aún mayor que el que ofrecía la cooperativa. Leídos juntos, los tres muestran a Magnum como una institución que hizo posible la fotografía de autor del siglo XX y que, en su propio éxito, engendró autores tan totales que terminaron necesitando salir de ella.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_salgado-photofile]]\n- [[notes/books/2007-01-01_koudelka-photofile]]\n- [[notes/books/2008-01-01_cartier-bresson-photofile]]",
+      "degree": 3
+    },
+    {
       "id": "concepts/mayoria-de-edad",
       "kind": "concept",
       "label": "mayoria de edad",
@@ -2187,6 +2364,22 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/medicina-basada-en-evidencia.md",
       "content": "Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio.\n\n## Qué dice la literatura\n\nMakary y Offit, aunque escriben desde géneros distintos —el primero como cirujano en ejercicio, el segundo como investigador de vacunas convertido en historiador de la ciencia—, catalogan el mismo fenómeno desde ángulos complementarios: consensos médicos institucionalizados que resultaron erróneos y que tardaron décadas en corregirse. Makary documenta casos donde la recomendación oficial produjo directamente el daño que pretendía evitar: la indicación de 1999 de evitar el maní en la dieta infantil generó, según sostiene, la propia epidemia de alergia que intentaba prevenir; el abandono masivo de la terapia de reemplazo hormonal tras un estudio del NIH de 2002 malinterpretado causó, en su lectura, decenas de miles de muertes cardíacas evitables en mujeres que sí se habrían beneficiado del tratamiento. A esto suma el dogma infundado sobre el colesterol del huevo, la prescripción de antibióticos bajo el supuesto de que \"no tienen efectos secundarios\", y el error de atribuir el cáncer de ovario al propio ovario en vez de a las trompas de Falopio. Su cifra más provocadora —que el 40% de las prácticas médicas aceptadas no resistiría un escrutinio riguroso— funciona como síntesis cuantitativa de todo el catálogo.\n\nOffit documenta un patrón estructuralmente idéntico pero en la ciencia biomédica más amplia: una idea prometedora (el opio como analgésico seguro convertido en OxyContin mediante estudios manipulados; la lobotomía prefrontal, que le valió a Egas Moniz el Nobel de 1949 sin evidencia sólida de eficacia; las megadosis de vitamina C promovidas por el prestigio de Linus Pauling) se institucionaliza como dogma y la evidencia contraria queda suprimida o ignorada durante años, a veces décadas. Ambos autores coinciden en el diagnóstico causal: no es la ciencia la que falla, sino los mecanismos —prestigio individual, presión de conformidad, financiamiento sesgado hacia la industria, periodismo científico que amplifica sin escrutinio— que deberían incentivar la autocorrección temprana y no lo hacen. Makary lo llama *groupthink* médico y cultura de obediencia; Offit, dogmatismo que sustituye a la evidencia. El caso de Barry Marshall y el *H. pylori* que cita Makary —marginado por años hasta que la evidencia se volvió innegable— es el mismo arquetipo narrativo que estructura los ocho capítulos de Offit.\n\nDonde el corpus se vuelve más interesante es en su punto de fricción. Offit, al defender que la prohibición global del DDT impulsada por Rachel Carson fue una sobrecorrección que costó millones de vidas por paludismo en el mundo en desarrollo, complica la narrativa simple de \"dogma institucional vs. disidente correcto\": el reformador que desafía el consenso no es automáticamente el que tiene razón, y el propio libro reconoce que la mayoría de epidemiólogos y ecólogos rechaza esta lectura del impacto de *Silent Spring*. Es una autocrítica que Makary no se aplica a sí mismo: su libro narra con entusiasmo casos donde el disenso resultó vindicado, pero —como notan las limitaciones de ambas notas— ninguno de los dos autores examina con el mismo rigor los mecanismos por los cuales el propio sistema médico sí termina corrigiendo sus errores; documentan el fallo mejor de lo que documentan la reparación.\n\nRoach aporta una capa distinta pero convergente: una historia de cómo la evidencia médica se ha construido literalmente a partir de cuerpos, y de cómo el tabú cultural —no la falta de método científico— ha sido históricamente la barrera principal para generarla. El robo de cadáveres en la Gran Bretaña del siglo XIX (el caso Burke y Hare) surgió porque la oferta legal de cuerpos para las escuelas de anatomía no alcanzaba a cubrir la demanda de conocimiento médico verificable; los maniquíes de prueba de impacto hechos con cadáveres desde los años cincuenta generaron, mediante observación empírica directa y no por deducción teórica, la evidencia que fundamenta cinturones de seguridad y zonas de deformación controlada. Leído junto a Makary y Offit, el patrón compartido por los tres libros es que la medicina basada en evidencia no avanza por default: requiere superar activamente barreras no científicas —tabú cultural en Roach, prestigio y conformidad institucional en Makary y Offit— y esas mismas barreras, cuando ceden, tienden a hacerlo tarde y por presión externa, no por autocorrección interna del sistema.\n\n## Notas que usan este concepto\n- [[notes/books/2024-01-01_blind-spots-makary]]\n- [[notes/books/2017-04-04_pandoras-lab-offit]]\n- [[notes/books/2003-01-01_stiff-roach]]\n- [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]",
       "degree": 4
+    },
+    {
+      "id": "concepts/memoria-historica",
+      "kind": "concept",
+      "label": "memoria historica",
+      "keyword": "memoria-historica",
+      "aliases": [
+        "historical memory",
+        "memoria colectiva",
+        "testimonio histórico"
+      ],
+      "definition": "Registro y transmisión de acontecimientos históricos y políticos para preservar su memoria colectiva.",
+      "literature": "",
+      "path": "concepts/memoria-historica.md",
+      "content": "Registro y transmisión de acontecimientos históricos y políticos para preservar su memoria colectiva.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_koudelka-photofile]]",
+      "degree": 1
     },
     {
       "id": "concepts/metabolitos-secundarios",
@@ -2242,6 +2435,24 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/microscopia-de-caracterizacion.md",
       "content": "Técnicas de microscopía electrónica (SEM, TEM, FE-SEM) y de fluorescencia usadas para caracterizar morfología, ultraestructura y distribución espacial de células, biopelículas y materiales a escala micro- y nanométrica.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]\n- [[notes/papers/2026-07-05_hipe-polisacarido-probioticos-supervivencia]]\n- [[notes/papers/2026-07-05_hidrogel-inyectable-macrofagos-cartilago]]\n- [[notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg]]\n- [[notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos]]\n- [[notes/papers/2026-07-05_dna-hidrogel-microparticulas-3d]]",
       "degree": 6
+    },
+    {
+      "id": "concepts/migracion-y-desplazamiento",
+      "kind": "concept",
+      "label": "migracion y desplazamiento",
+      "keyword": "migracion-y-desplazamiento",
+      "aliases": [
+        "migration",
+        "displacement",
+        "migración",
+        "refugiados",
+        "desplazamiento forzado"
+      ],
+      "definition": "Movimiento de poblaciones por causas económicas, políticas o ambientales; migración, refugio, desplazamiento forzado y sus consecuencias humanas.",
+      "literature": "Salgado y Koudelka hicieron del desplazamiento su tema, pero desde posiciones opuestas, y esa oposición es lo que vuelve interesante leerlos juntos. Salgado lo mira **desde afuera y a escala planetaria**: en *Migrations/Exodus* documenta la maquinaria global del refugio, el éxodo rural y la migración económica como un sistema, con la mirada del economista que fotografía estructuras a través de las personas que las padecen. Su *Workers* prolonga ese enfoque hacia el desplazamiento como fuerza laboral: el éxodo del campo a la mina o al astillero.\n\nKoudelka lo mira **desde adentro y en primera persona**: en *Exiles* el desplazado es él mismo. Tras abandonar Checoslovaquia en 1970 vivió años como apátrida, y su serie no cartografía un fenómeno colectivo sino que registra la condición interior del desarraigo —la soledad, la extrañeza, la memoria del lugar perdido— desde quien la vive, no desde quien la observa. Entre los dos, el concepto queda cubierto por sus dos caras: Salgado aporta la dimensión objetiva y sistémica del desplazamiento; Koudelka, la subjetiva y existencial. El mismo hecho humano visto como estadística encarnada y como herida propia.",
+      "path": "concepts/migracion-y-desplazamiento.md",
+      "content": "Movimiento de poblaciones por causas económicas, políticas o ambientales; migración, refugio, desplazamiento forzado y sus consecuencias humanas.\n\n## Qué dice la literatura\n\nSalgado y Koudelka hicieron del desplazamiento su tema, pero desde posiciones opuestas, y esa oposición es lo que vuelve interesante leerlos juntos. Salgado lo mira **desde afuera y a escala planetaria**: en *Migrations/Exodus* documenta la maquinaria global del refugio, el éxodo rural y la migración económica como un sistema, con la mirada del economista que fotografía estructuras a través de las personas que las padecen. Su *Workers* prolonga ese enfoque hacia el desplazamiento como fuerza laboral: el éxodo del campo a la mina o al astillero.\n\nKoudelka lo mira **desde adentro y en primera persona**: en *Exiles* el desplazado es él mismo. Tras abandonar Checoslovaquia en 1970 vivió años como apátrida, y su serie no cartografía un fenómeno colectivo sino que registra la condición interior del desarraigo —la soledad, la extrañeza, la memoria del lugar perdido— desde quien la vive, no desde quien la observa. Entre los dos, el concepto queda cubierto por sus dos caras: Salgado aporta la dimensión objetiva y sistémica del desplazamiento; Koudelka, la subjetiva y existencial. El mismo hecho humano visto como estadística encarnada y como herida propia.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_salgado-photofile]]\n- [[notes/books/2007-01-01_koudelka-photofile]]",
+      "degree": 2
     },
     {
       "id": "concepts/mitologia-y-religion",
@@ -2801,6 +3012,24 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 4
     },
     {
+      "id": "concepts/pueblo-gitano",
+      "kind": "concept",
+      "label": "pueblo gitano",
+      "keyword": "pueblo-gitano",
+      "aliases": [
+        "Roma",
+        "gypsies",
+        "gitanos",
+        "comunidad roma",
+        "romaní"
+      ],
+      "definition": "Comunidades romaníes (gitanas) de Europa; su cultura, vida cotidiana y marginación social.",
+      "literature": "",
+      "path": "concepts/pueblo-gitano.md",
+      "content": "Comunidades romaníes (gitanas) de Europa; su cultura, vida cotidiana y marginación social.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_koudelka-photofile]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/quimica-computacional",
       "kind": "concept",
       "label": "quimica computacional",
@@ -3207,6 +3436,22 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 100
     },
     {
+      "id": "concepts/surrealismo",
+      "kind": "concept",
+      "label": "surrealismo",
+      "keyword": "surrealismo",
+      "aliases": [
+        "surrealism",
+        "vanguardia",
+        "surrealista"
+      ],
+      "definition": "Movimiento artístico de vanguardia que explora el inconsciente, el azar y lo onírico; influyó de forma decisiva en la fotografía moderna.",
+      "literature": "",
+      "path": "concepts/surrealismo.md",
+      "content": "Movimiento artístico de vanguardia que explora el inconsciente, el azar y lo onírico; influyó de forma decisiva en la fotografía moderna.\n\n## Notas que usan este concepto\n- [[notes/books/2008-01-01_cartier-bresson-photofile]]",
+      "degree": 1
+    },
+    {
       "id": "concepts/taxonomia-de-bloom",
       "kind": "concept",
       "label": "taxonomia de bloom",
@@ -3327,6 +3572,24 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "concepts/trabajo-social.md",
       "content": "Disciplina y profesión orientada a promover el bienestar, los derechos humanos y la justicia social de individuos, familias, grupos y comunidades; interviene en ámbitos como bienestar infantil, salud mental, pobreza, justicia penal y servicios humanos, y crecientemente incorpora tecnologías de IA en su práctica, educación e investigación.\n\n## Notas que usan este concepto\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap01-introduccion]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap02-etica]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap03-pobreza]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap04-bienestar-infantil]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap05-salud-disparidades]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap06-discapacidad]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap07-lgbtqia]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap08-violencia-pareja]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap09-salud-mental]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap10-escolar]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap11-adicciones]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap12-adultos-mayores]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap13-vivienda]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap14-justicia-penal]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap15-trata-personas]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap17-ambiental-clima]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap18-empleo]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap19-internacional]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap22-gobernanza]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]\n- [[notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion]]",
       "degree": 24
+    },
+    {
+      "id": "concepts/trabajo-y-clase-obrera",
+      "kind": "concept",
+      "label": "trabajo y clase obrera",
+      "keyword": "trabajo-y-clase-obrera",
+      "aliases": [
+        "labor",
+        "working class",
+        "clase trabajadora",
+        "trabajo manual",
+        "obreros"
+      ],
+      "definition": "El trabajo manual e industrial y quienes lo realizan; su dignidad, sus condiciones y su transformación o desaparición.",
+      "literature": "",
+      "path": "concepts/trabajo-y-clase-obrera.md",
+      "content": "El trabajo manual e industrial y quienes lo realizan; su dignidad, sus condiciones y su transformación o desaparición.\n\n## Notas que usan este concepto\n- [[notes/books/2007-01-01_salgado-photofile]]",
+      "degree": 1
     },
     {
       "id": "concepts/trauma-y-salud",
@@ -16019,6 +16282,90 @@ window.__ACADEMIC_BRAIN__ = {
       "path": "notes/books/2007-01-01_einstein-isaacson.md",
       "pdf_local": "",
       "content": "## Resumen\n\n*Einstein: His Life and Universe* es la biografía integral que Walter Isaacson escribió a partir de las cartas personales de Albert Einstein liberadas en 2006, que le permitieron retratar tanto al físico revolucionario como al hombre. El libro recorre la vida completa de Einstein: su infancia en Múnich, su rebeldía frente a la autoridad y la enseñanza rígida, sus años como oscuro examinador de patentes en Berna —donde en el \"año milagroso\" de 1905 publicó los artículos que transformarían la física—, su ascenso a la fama mundial, su exilio a Estados Unidos huyendo del nazismo y sus últimas décadas en Princeton.\n\nIsaacson explica con claridad divulgativa las grandes aportaciones científicas. En 1905 Einstein publicó cuatro trabajos que cambiaron la física: el efecto fotoeléctrico (que introdujo la idea del cuanto de luz y le valdría el Nobel), el movimiento browniano (prueba de la existencia de los átomos), la relatividad especial (que fusionó espacio y tiempo y estableció E=mc²) y la equivalencia masa-energía. Una década después, en 1915, culminó su obra maestra: la teoría de la relatividad general, que reinterpretó la gravedad como la curvatura del espacio-tiempo y cuya confirmación durante el eclipse de 1919 lo convirtió en la primera celebridad científica global.\n\nUn tema central del libro es la relación de Einstein con la mecánica cuántica. Aunque él mismo contribuyó a fundarla, nunca aceptó plenamente su carácter probabilístico e indeterminista —\"Dios no juega a los dados\"—, y pasó las últimas décadas de su vida en un aislamiento científico creciente, buscando una teoría de campo unificada y debatiendo con Niels Bohr sobre la naturaleza de la realidad. Isaacson conecta esta postura con su filosofía de la ciencia: la convicción de que existe un orden objetivo y armonioso en el universo, susceptible de ser comprendido por la razón humana.\n\nMás allá de la ciencia, Isaacson dibuja al Einstein humano y público: sus complejas relaciones familiares (dos matrimonios, hijos, la fría distancia con algunos de ellos), su condición de judío y su relación ambivalente con el sionismo, su pacifismo, su papel en la carta a Roosevelt que impulsó el Proyecto Manhattan pese a su rechazo posterior a las armas nucleares, y su activismo por los derechos civiles y el gobierno mundial. El libro sostiene que la misma cualidad que hizo de Einstein un genio —el inconformismo, la disposición a cuestionar las verdades establecidas— definió también su vida moral y política.\n\n## Ideas principales\n\n- El \"año milagroso\" de 1905 produjo cuatro artículos revolucionarios: efecto fotoeléctrico, movimiento browniano, relatividad especial y equivalencia masa-energía (E=mc²).\n- La relatividad general (1915) reinterpretó la gravedad como curvatura del espacio-tiempo; su confirmación en el eclipse de 1919 hizo de Einstein una celebridad mundial.\n- El inconformismo y el rechazo a la autoridad que marcaron su carácter fueron también la raíz de su originalidad científica.\n- Einstein ayudó a fundar la mecánica cuántica pero nunca aceptó su indeterminismo, aislándose científicamente en su búsqueda de una teoría de campo unificada.\n- Su filosofía de la ciencia se basaba en la creencia en un orden objetivo y armonioso del universo, accesible a la razón.\n- Su vida pública abarcó el pacifismo, la identidad judía y el sionismo, la carta que impulsó el Proyecto Manhattan y el activismo por los derechos civiles.\n- Isaacson vincula genio científico y conciencia moral: la misma independencia de pensamiento definió su ciencia y su compromiso político.\n\n## Notas relacionadas\n\n- [[concepts/fisica-y-cosmologia]]\n- [[concepts/historia-de-la-innovacion]]\n- [[concepts/comunicacion-cientifica]]\n- [[concepts/filosofia-de-la-ciencia]]\n- [[concepts/ciencia-y-sociedad]]"
+    },
+    {
+      "id": "notes/books/2007-01-01_koudelka-photofile",
+      "kind": "book",
+      "label": "Josef Koudelka (Photofile)",
+      "authors": [
+        "Josef Koudelka"
+      ],
+      "year": "2007",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "fotografia",
+        "fotografia-documental",
+        "fotoperiodismo",
+        "fotografia-en-blanco-y-negro",
+        "magnum-photos",
+        "exilio",
+        "pueblo-gitano",
+        "migracion-y-desplazamiento",
+        "memoria-historica",
+        "humanidades"
+      ],
+      "date": "2026-07-07",
+      "path": "notes/books/2007-01-01_koudelka-photofile.md",
+      "pdf_local": "",
+      "content": "## Resumen\n\nMonografía de bolsillo de la colección Photofile (Thames & Hudson / Photo Poche), con una selección de unas sesenta imágenes en duotono y un ensayo introductorio. Recorre las obras fundamentales de Josef Koudelka, uno de los grandes fotógrafos del siglo XX, cuya vida y cuya obra están atravesadas por una misma condición: el exilio.\n\nJosef Koudelka (Moravia, Checoslovaquia, 1938) era ingeniero aeronáutico y fotografiaba teatro cuando emprendió los dos trabajos que lo definirían. El primero, *Gypsies* (Gitanos, 1962-1971), es uno de los foto-ensayos seminales del siglo: durante casi una década convivió con comunidades romaníes de Checoslovaquia, Rumanía, Hungría, Francia y España, y produjo un retrato íntimo, sin condescendencia ni exotismo, de una cultura al margen de la sociedad. Sus imágenes —blanco y negro granulado, intenso, de composición dramática— captan rituales, duelos, música y vida doméstica con una cercanía que solo la convivencia prolongada permite.\n\nEl segundo trabajo lo lanzó a la historia casi por accidente. Koudelka había vuelto de fotografiar gitanos en Rumanía apenas dos días antes de que, en agosto de 1968, las tropas del Pacto de Varsovia invadieran Praga para aplastar la Primavera de Praga. Salió a las calles y registró la resistencia civil frente a los tanques soviéticos. Sus negativos fueron sacados clandestinamente del país y publicados en el *Sunday Times Magazine* firmados solo con las iniciales **P. P.** (\"Prague Photographer\"), para proteger a su familia de represalias. Su autoría no se reveló hasta 1984. Aquellas imágenes se convirtieron en el testimonio visual definitivo de la invasión.\n\nEn 1970 Koudelka abandonó Checoslovaquia y vivió durante años como apátrida. De esa experiencia nació *Exiles* (Exiliados, 1968-años ochenta), meditación errante sobre el desarraigo, la soledad y la extrañeza del que no tiene lugar. Ingresó a Magnum y recibió el Prix Nadar (1978) y el Grand Prix National de la Photographie (1989). En su obra tardía viró hacia el formato panorámico y el paisaje devastado por la mano humana (*Chaos*, *Wall*), pero el hilo permanece: la mirada de quien observa desde el borde.\n\n## Series y proyectos principales\n\n- **Gypsies (1962-1971):** retrato íntimo y de largo plazo de las comunidades romaníes de Europa central y meridional; uno de los foto-ensayos capitales del siglo.\n- **Invasion / Prague 1968:** el registro de la ocupación soviética de Praga, publicado anónimamente como \"P. P.\"; testimonio histórico de primer orden.\n- **Exiles (1968-años 80):** el desarraigo como tema y como forma de vida; imágenes de soledad y extrañeza tomadas durante su propio exilio.\n- **Obra tardía (panorámicas):** paisajes y \"chaos\" del territorio alterado por el hombre; el ojo del exiliado aplicado a la escala del paisaje.\n\n## Qué define su mirada\n\n- El blanco y negro granulado, contrastado y de composición teatral, deudor de su origen en la fotografía de escena.\n- La inmersión de largo plazo y sin exotismo: fotografía desde dentro de las comunidades, no desde la distancia del reportero de paso.\n- El exilio como estructura profunda de toda la obra: marginalidad, desarraigo y memoria del lugar perdido.\n- La coincidencia entre biografía e historia: su cámara estuvo donde el siglo se rompía.\n\n## Limitaciones\n\n- La monografía Photofile es una síntesis breve; los grandes trabajos (*Gypsies*, *Exiles*) merecen sus libros completos para apreciar la secuencia y la escala.\n- La fuerza icónica de las imágenes de Praga 1968 tiende a eclipsar, en la recepción popular, la profundidad antropológica de *Gypsies*, que fue el trabajo de su vida.\n\n## Notas relacionadas\n\n- [[concepts/fotografia]]\n- [[concepts/fotografia-documental]]\n- [[concepts/fotoperiodismo]]\n- [[concepts/fotografia-en-blanco-y-negro]]\n- [[concepts/magnum-photos]]\n- [[concepts/exilio]]\n- [[concepts/pueblo-gitano]]\n- [[concepts/migracion-y-desplazamiento]]\n- [[concepts/memoria-historica]]\n- [[concepts/humanidades]]"
+    },
+    {
+      "id": "notes/books/2007-01-01_salgado-photofile",
+      "kind": "book",
+      "label": "Sebastião Salgado (Photofile)",
+      "authors": [
+        "Sebastião Salgado"
+      ],
+      "year": "2007",
+      "venue": "",
+      "url": "https://thamesandhudson.com/photofile-sebastio-salgado-9780500410868",
+      "doi": "",
+      "keywords": [
+        "fotografia",
+        "fotografia-documental",
+        "fotografia-social",
+        "fotografia-en-blanco-y-negro",
+        "magnum-photos",
+        "migracion-y-desplazamiento",
+        "trabajo-y-clase-obrera",
+        "conservacion-de-la-naturaleza",
+        "dignidad-humana",
+        "humanidades"
+      ],
+      "date": "2026-07-07",
+      "path": "notes/books/2007-01-01_salgado-photofile.md",
+      "pdf_local": "",
+      "content": "## Resumen\n\nVolumen de la colección Photofile (Thames & Hudson), la edición inglesa de la serie francesa Photo Poche fundada por Robert Delpire en el Centre National de la Photographie: una monografía de bolsillo con unas sesenta reproducciones a página completa impresas en duotono, precedidas de un ensayo crítico y una bibliografía. El texto introductorio es de Christian Caujolle, y la selección recorre sobre todo el trabajo que Salgado realizó durante su etapa en la agencia Magnum, entre 1980 y 1991.\n\nSebastião Salgado (Aimorés, Brasil, 1944 – París, 2025) llegó a la fotografía por un camino inusual: economista de formación, trabajó para la Organización Internacional del Café antes de dedicarse por completo a la imagen a mediados de los años setenta. Esa mirada de economista se nota en su obra: no fotografía individuos aislados sino sistemas —la migración, el trabajo, el hambre, la extracción— vistos a través de las personas que los encarnan. Su estilo es inconfundible: blanco y negro de gran contraste y profundidad tonal, composiciones monumentales de resonancia casi bíblica, y una paciencia de largo aliento que lo lleva a convivir meses o años con sus sujetos. Salgado se definía como un fotógrafo humanista, movido por una solidaridad que no flaquea ante el dolor.\n\nLa monografía condensa los ejes que harían su reputación. *Other Americas* (1977-1984) retrata la vida campesina y las culturas de resistencia en América Latina. *Sahel: l'homme en détresse* (1984-1985) documenta la hambruna en el Sahel africano junto a Médicos Sin Fronteras, con imágenes que se volvieron íconos de la crisis humanitaria. *Workers* (proyecto de los años ochenta y noventa, publicado en 1993) es una elegía global al trabajo manual e industrial en el momento en que empezaba a desaparecer: minas de oro de Serra Pelada, astilleros, pozos petroleros, plantaciones. En todos, la tesis implícita es la misma: los desfavorecidos del mundo poseen una dignidad que la cámara debe honrar, no compadecer.\n\nLa obra posterior de Salgado, que la selección Photofile de 1980-1991 solo anticipa, extendió esa mirada primero a la escala planetaria del desarraigo —*Migrations/Exodus* (2000), sobre los desplazados del mundo— y luego, tras el desgaste emocional de tanto sufrimiento, a la naturaleza: *Genesis* (2013) es un homenaje a los territorios y pueblos aún intactos del planeta, y *Amazônia* (2021) a la selva y sus habitantes. En paralelo, Salgado y su esposa Lélia Wanick fundaron el Instituto Terra y reforestaron con más de tres millones de árboles la finca familiar en la Mata Atlántica brasileña. Contrajo malaria durante *Genesis* en 2010, cuyas secuelas derivaron en la leucemia que causó su muerte.\n\n## Series y proyectos principales\n\n- **Other Americas (1977-1984):** vida campesina y cultura popular en América Latina; el punto de partida de su compromiso.\n- **Sahel (1984-1985):** la hambruna africana documentada con Médicos Sin Fronteras; imágenes que fijaron la iconografía de la crisis humanitaria.\n- **Workers (años 80-90):** retrato global del trabajo manual e industrial como forma de vida en vías de extinción; su obra más citada sobre la clase obrera.\n- **Migrations / Exodus (1993-2000):** el desplazamiento humano a escala planetaria: refugiados, migrantes, éxodos rurales.\n- **Genesis (2004-2013) y Amazônia (2021):** el giro hacia la naturaleza prístina y los pueblos indígenas; fotografía como advocacy ambiental.\n\n## Qué define su mirada\n\n- El blanco y negro monumental como lenguaje de la dignidad: luz, forma y textura por encima de la anécdota.\n- La escala épica y la inmersión de largo plazo: proyectos de años, no reportajes de días.\n- La solidaridad como método: fotografiar sistemas de injusticia a través de quienes los sufren, sin quitarles nobleza.\n- La continuidad entre lo humano y lo ambiental: la explotación de las personas y la del planeta como una sola herida.\n\n## Limitaciones\n\n- Su obra ha sido objeto del debate sobre la \"estetización del sufrimiento\": críticos como Ingrid Sischy y, en su estela, la tradición de Susan Sontag, le reprocharon que la belleza formal de sus imágenes de hambre y miseria pueda anestesiar más que movilizar, o convertir el dolor ajeno en objeto de contemplación.\n- La monografía Photofile es una introducción de bolsillo: ofrece una muestra (~60 imágenes del período Magnum 1980-1991), no el arco completo de una carrera que se extendió tres décadas más.\n\n## Notas relacionadas\n\n- [[concepts/fotografia]]\n- [[concepts/fotografia-documental]]\n- [[concepts/fotografia-social]]\n- [[concepts/fotografia-en-blanco-y-negro]]\n- [[concepts/magnum-photos]]\n- [[concepts/migracion-y-desplazamiento]]\n- [[concepts/trabajo-y-clase-obrera]]\n- [[concepts/conservacion-de-la-naturaleza]]\n- [[concepts/dignidad-humana]]\n- [[concepts/humanidades]]"
+    },
+    {
+      "id": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "kind": "book",
+      "label": "Henri Cartier-Bresson (Photofile)",
+      "authors": [
+        "Henri Cartier-Bresson"
+      ],
+      "year": "2008",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "fotografia",
+        "fotografia-documental",
+        "fotoperiodismo",
+        "fotografia-callejera",
+        "fotografia-en-blanco-y-negro",
+        "magnum-photos",
+        "instante-decisivo",
+        "composicion-visual",
+        "surrealismo",
+        "humanidades"
+      ],
+      "date": "2026-07-07",
+      "path": "notes/books/2008-01-01_cartier-bresson-photofile.md",
+      "pdf_local": "",
+      "content": "## Resumen\n\nVolumen de la colección Photofile (Thames & Hudson / Photo Poche): monografía de bolsillo con unas sesenta imágenes en duotono y un ensayo introductorio que sitúa la obra del fotógrafo más influyente del siglo XX. Cartier-Bresson es, para bien y para mal, el fundador del canon: casi todo lo que hoy se entiende por fotografía de calle y fotoperiodismo moderno pasa por él.\n\nHenri Cartier-Bresson (Chanteloup, Francia, 1908 – Montjustin, 2004) se formó primero como pintor, en el taller de André Lhote, y frecuentó los círculos surrealistas de París; esa doble herencia —el rigor geométrico de la composición y la atención surrealista al azar y al inconsciente— define toda su obra. A comienzos de los años treinta adoptó la Leica de 35 mm, ligera y silenciosa, que le permitió moverse invisible por la calle y capturar la vida sin posar. Renunció al recorte y al retoque: la imagen se componía en el visor, en el acto, o no se componía.\n\nDe ahí su concepto más célebre, el **instante decisivo** (*l'instant décisif*), título que la traducción inglesa dio a su libro *Images à la sauvette* (1952), con portada de Matisse. Cartier-Bresson tomó la idea de una frase del cardenal de Retz —\"no hay nada en este mundo que no tenga un momento decisivo\"— y la convirtió en una poética: el instante preciso, irrepetible, en que los elementos de una escena se alinean en una composición cargada de sentido. Fotografiar era reconocer y atrapar ese instante en la fracción de segundo antes de que se deshiciera.\n\nEn 1947 cofundó, con Robert Capa, David Seymour, George Rodger y William Vandivert, la agencia **Magnum Photos**, cooperativa que dio a los fotógrafos el control sobre sus negativos y sus reportajes, y que se volvió el modelo de la autoría fotográfica independiente. Con Magnum, Cartier-Bresson fue testigo de los grandes acontecimientos del siglo: los últimos meses de Gandhi y su funeral (1948), la caída de Shanghái y el triunfo de la revolución china (1949), la URSS del deshielo. En sus últimas décadas abandonó en buena medida la fotografía y volvió al dibujo, cerrando el círculo con el que había empezado.\n\n## Series y ejes de la obra\n\n- **Los años surrealistas (1930s):** encuadres inesperados, azar y geometría; la fotografía como caza poética antes que como reportaje.\n- **El instante decisivo:** la doctrina compositiva y temporal que ordenó su obra y la de generaciones posteriores.\n- **El reportaje Magnum:** Gandhi y la India (1948), la revolución china (1949), la URSS; el nacimiento del fotoperiodismo de autor.\n- **El retrato y la calle:** figuras (Matisse, Giacometti, Camus) y escenas anónimas resueltas con la misma economía geométrica.\n- **El regreso al dibujo:** el abandono tardío de la cámara por el lápiz.\n\n## Qué define su mirada\n\n- La geometría como columna vertebral: líneas, simetrías y equilibrios que estructuran cada encuadre.\n- La invisibilidad del fotógrafo: la Leica discreta y la renuncia al montaje; captar sin intervenir.\n- La síntesis de forma y momento: la composición perfecta y el instante irrepetible fundidos en una sola toma.\n- La fundación de una gramática: definió a la vez la fotografía de calle y el fotoperiodismo de autor.\n\n## Limitaciones\n\n- Su canon es tan dominante que se volvió también una ortodoxia: la doctrina del \"instante decisivo\" ha sido cuestionada por corrientes posteriores (la fotografía en secuencia, el documento frío, la puesta en escena) como una idealización del gesto único del autor.\n- La monografía Photofile es una puerta de entrada breve; la selección no sustituye a *Images à la sauvette* ni a las grandes retrospectivas de su obra.\n\n## Notas relacionadas\n\n- [[concepts/fotografia]]\n- [[concepts/fotografia-documental]]\n- [[concepts/fotoperiodismo]]\n- [[concepts/fotografia-callejera]]\n- [[concepts/fotografia-en-blanco-y-negro]]\n- [[concepts/magnum-photos]]\n- [[concepts/instante-decisivo]]\n- [[concepts/composicion-visual]]\n- [[concepts/surrealismo]]\n- [[concepts/humanidades]]"
     },
     {
       "id": "notes/books/2008-01-01_outliers-gladwell",
@@ -35548,6 +35895,156 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/books/2007-01-01_einstein-isaacson",
       "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_koudelka-photofile",
+      "target": "concepts/fotografia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_koudelka-photofile",
+      "target": "concepts/fotografia-documental",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_koudelka-photofile",
+      "target": "concepts/fotoperiodismo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_koudelka-photofile",
+      "target": "concepts/fotografia-en-blanco-y-negro",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_koudelka-photofile",
+      "target": "concepts/magnum-photos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_koudelka-photofile",
+      "target": "concepts/exilio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_koudelka-photofile",
+      "target": "concepts/pueblo-gitano",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_koudelka-photofile",
+      "target": "concepts/migracion-y-desplazamiento",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_koudelka-photofile",
+      "target": "concepts/memoria-historica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_koudelka-photofile",
+      "target": "concepts/humanidades",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_salgado-photofile",
+      "target": "concepts/fotografia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_salgado-photofile",
+      "target": "concepts/fotografia-documental",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_salgado-photofile",
+      "target": "concepts/fotografia-social",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_salgado-photofile",
+      "target": "concepts/fotografia-en-blanco-y-negro",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_salgado-photofile",
+      "target": "concepts/magnum-photos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_salgado-photofile",
+      "target": "concepts/migracion-y-desplazamiento",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_salgado-photofile",
+      "target": "concepts/trabajo-y-clase-obrera",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_salgado-photofile",
+      "target": "concepts/conservacion-de-la-naturaleza",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_salgado-photofile",
+      "target": "concepts/dignidad-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2007-01-01_salgado-photofile",
+      "target": "concepts/humanidades",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "target": "concepts/fotografia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "target": "concepts/fotografia-documental",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "target": "concepts/fotoperiodismo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "target": "concepts/fotografia-callejera",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "target": "concepts/fotografia-en-blanco-y-negro",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "target": "concepts/magnum-photos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "target": "concepts/instante-decisivo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "target": "concepts/composicion-visual",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "target": "concepts/surrealismo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/books/2008-01-01_cartier-bresson-photofile",
+      "target": "concepts/humanidades",
       "kind": "keyword"
     },
     {

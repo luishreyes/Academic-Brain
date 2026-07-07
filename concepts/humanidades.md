@@ -25,3 +25,6 @@ Disciplinas que estudian la expresión y experiencia humana: filosofía, histori
 - [[notes/books/2019-09-10_talking-to-strangers-gladwell]]
 - [[notes/books/2022-08-11_el-poder-de-las-palabras-sigman]]
 - [[notes/articles/2026-07-04_ia-cambia-lenguaje-guardian]]
+- [[notes/books/2007-01-01_salgado-photofile]]
+- [[notes/books/2007-01-01_koudelka-photofile]]
+- [[notes/books/2008-01-01_cartier-bresson-photofile]]
