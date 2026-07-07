@@ -47,3 +47,4 @@ Proceso de identificación, validación y prueba de compuestos para tratar enfer
 - [[notes/papers/2026-07-02_nanogeles-quitosano-melanoma]]
 - [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]
 - [[notes/books/2022-01-01_the-song-of-the-cell-mukherjee]]
+- [[notes/papers/2026-07-07_poros-transitorios-cpp-homeoproteinas]]

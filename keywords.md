@@ -51,6 +51,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **biocombustibles** — Combustibles derivados de biomasa o producidos por microorganismos mediante fermentación; incluye etanol, n-butanol, isobutanol y otros biocombustibles de segunda generación. _Aliases: biofuels, biobutanol, n-butanol, bioethanol, combustibles renovables_
 
+**biofisica-de-membranas** — Estudio de las propiedades físicas y mecánicas de las membranas biológicas: estructura lipídica, permeabilidad, formación de poros, interacciones péptido-lípido y dinámica de translocación a través de bicapas. _Aliases: membrane biophysics, biofísica de membranas, lipid bilayer, bicapa lipídica, membrane permeability_
+
 **biologia-molecular** — Campo que estudia los mecanismos moleculares de los procesos biológicos: expresión génica, replicación del ADN, señalización celular; incluye técnicas como PCR, secuenciación, sobreexpresión y deleción de genes. _Aliases: molecular biology, biología celular y molecular, gene expression, molecular mechanisms_
 
 **biologia-sintetica** — Campo que aplica principios de ingeniería al diseño y construcción de sistemas biológicos nuevos o al rediseño de los existentes; incluye partes genéticas estandarizadas, circuitos regulatorios sintéticos y organismos con metabolismos rediseñados. _Aliases: synthetic biology, biología sintética, genetic circuits, synthetic genomics, metabolic design_
@@ -132,6 +134,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **diversidad-sexual-y-genero** — Poblaciones y experiencias LGBTQIA+, y el diseño de servicios y tecnologías inclusivas y afirmativas; incluye los sesgos de los sistemas de IA hacia identidades de género y orientaciones sexuales diversas. _Aliases: LGBTQIA+, diversidad sexual y de género, poblaciones LGBTQ, identidad de género, orientación sexual, inclusión_
 
 ## E
+
+**electrofisiologia** — Técnicas de registro de la actividad eléctrica de células y tejidos (patch-clamp, voltage-clamp, registros extracelulares); incluye la caracterización de corrientes iónicas, canales y conductancias en membranas biológicas. _Aliases: electrophysiology, patch-clamp, voltage clamp, corrientes iónicas, ion channels_
 
 **emulsiones** — Sistemas coloidales de dos líquidos inmiscibles (aceite y agua) estabilizados por surfactantes, proteínas o partículas; incluye emulsiones simples, dobles (W/O/W), Pickering y de fase interna alta (HIPE), y su uso para encapsular y liberar de forma controlada compuestos bioactivos y microorganismos. _Aliases: emulsions, emulsiones, Pickering emulsion, double emulsion, W/O/W, HIPE, high internal phase emulsion, sistema de encapsulación_
 

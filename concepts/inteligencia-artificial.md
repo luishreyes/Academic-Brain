@@ -280,3 +280,4 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion]]
+- [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]

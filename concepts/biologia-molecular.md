@@ -55,3 +55,4 @@ Campo que estudia los mecanismos moleculares de los procesos biológicos: expres
 - [[notes/papers/2026-07-05_biofilm-bacillus-subtilis-intestinal]]
 - [[notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor]]
 - [[notes/papers/2026-07-05_levaduras-no-saccharomyces-cerveza-baja-alcohol]]
+- [[notes/papers/2026-07-07_poros-transitorios-cpp-homeoproteinas]]

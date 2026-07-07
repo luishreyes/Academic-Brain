@@ -115,3 +115,4 @@ Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia
 - [[notes/books/2021-01-01_think-again-grant]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap05-salud-disparidades]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]
+- [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]

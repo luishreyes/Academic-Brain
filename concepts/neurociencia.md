@@ -13,3 +13,4 @@ Estudio científico del sistema nervioso y el cerebro: sus bases biológicas, la
 - [[notes/books/2018-01-01_como-hacer-que-te-pasen-cosas-buenas-rojas]]
 - [[notes/books/2024-01-01_supercommunicators-duhigg]]
 - [[notes/books/2024-01-01_the-upgrade-brizendine]]
+- [[notes/papers/2026-07-07_poros-transitorios-cpp-homeoproteinas]]
