@@ -436,6 +436,8 @@
 const CONFIG = {
   // Base para enlazar al archivo .md original en GitHub.
   repoBlobBase: "https://github.com/luishreyes/Academic-Brain/blob/main/",
+  // Base para leer el .md crudo (contenido de la nota, cargado bajo demanda).
+  repoRawBase: "https://raw.githubusercontent.com/luishreyes/Academic-Brain/main/",
 };
 
 const COLORS = { paper: "#60a5fa", article: "#2dd4bf", book: "#f472b6", fiction: "#a78bfa", concept: "#fbbf24" };
@@ -923,8 +925,44 @@ function select(id, pushHistory = true) {
       kwWrap.appendChild(chip);
     });
     body.appendChild(section("Keywords", kwWrap));
-    if (n.content) body.appendChild(section("Contenido", mdEl(n.content)));
+    // El contenido ya no viaja en el grafo: se lee del .md original bajo demanda.
+    if (n.path) appendLazyContent(body, n.path, id);
   }
+}
+
+// ---- Carga perezosa del contenido de la nota (.md crudo desde GitHub) ----
+const contentCache = new Map(); // path -> Promise<string|null>
+function fetchNoteContent(path) {
+  if (contentCache.has(path)) return contentCache.get(path);
+  const p = fetch(CONFIG.repoRawBase + path)
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then((raw) => stripToContent(raw))
+    .catch(() => null);
+  contentCache.set(path, p);
+  return p;
+}
+// Réplica de noteContent() de build.mjs: quita el frontmatter y el H1 inicial.
+function stripToContent(raw) {
+  let bodyText = raw.replace(/\r\n/g, "\n");
+  if (bodyText.startsWith("---")) {
+    const end = bodyText.indexOf("\n---", 3);
+    if (end !== -1) bodyText = bodyText.slice(end + 4);
+  }
+  return bodyText.replace(/^\s+/, "").replace(/^#\s+[^\n]*\n+/, "").trim();
+}
+// Inserta la sección "Contenido" con placeholder y la rellena cuando llega el .md.
+// `token` es el id seleccionado al pedirlo: si el usuario navega a otra nota
+// antes de que resuelva el fetch, se descarta el resultado obsoleto.
+function appendLazyContent(container, path, token) {
+  const holder = document.createElement("div");
+  holder.className = "md";
+  holder.textContent = "Cargando contenido…";
+  container.appendChild(section("Contenido", holder));
+  fetchNoteContent(path).then((md) => {
+    if (selectedId !== token || !holder.isConnected) return;
+    if (md == null) { holder.textContent = "No se pudo cargar el contenido."; return; }
+    holder.replaceWith(mdEl(md));
+  });
 }
 
 function section(title, contentEl) {
