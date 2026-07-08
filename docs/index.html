@@ -126,8 +126,8 @@
 
   /* ---- Graph ---- */
   #stage { position: relative; }
-  svg { width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
-  svg.panning { cursor: grabbing; }
+  #svg { width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
+  #svg.panning { cursor: grabbing; }
   .link { stroke: var(--line); stroke-width: 1; }
   .link.related { stroke: var(--accent); stroke-dasharray: 4 3; stroke-width: 1.4; opacity: .8; }
   .node circle { stroke: rgba(10,14,30,.85); stroke-width: 1.5; cursor: pointer; }
@@ -410,7 +410,7 @@
   <div id="stage">
     <button id="sb-toggle" title="Mostrar/ocultar panel">◀</button>
     <div id="sb-backdrop"></div>
-    <svg id="svg"></svg>
+    <canvas id="svg"></canvas>
     <div class="zoom-controls">
       <button id="zoom-in" title="Acercar">+</button>
       <button id="zoom-out" title="Alejar">−</button>
@@ -536,50 +536,28 @@ function radius(n) {
   return 7;
 }
 
-// ===================== Render SVG =====================
-const gZoom = document.createElementNS(NS, "g");
-const gLinks = document.createElementNS(NS, "g");
-const gNodes = document.createElementNS(NS, "g");
-gZoom.appendChild(gLinks); gZoom.appendChild(gNodes);
-svg.appendChild(gZoom);
+// ===================== Render Canvas =====================
+// El elemento #svg es ahora un <canvas>: dibujamos nodos y aristas a mano
+// (como Obsidian con PixiJS) en vez de miles de elementos SVG en el DOM. Así
+// se elimina el reflow por nodo y cientos/miles de nodos se vuelven triviales.
+const canvas = svg;
+const ctx = canvas.getContext("2d");
+let dpr = Math.max(1, window.devicePixelRatio || 1);
 
-const linkEls = links.map((l) => {
-  const el = document.createElementNS(NS, "line");
-  el.setAttribute("class", "link" + (l.kind === "related" ? " related" : ""));
-  gLinks.appendChild(el);
-  l._el = el;
-  return el;
-});
+// Colores tomados de las variables CSS (una sola vez).
+const cssVar = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+const C_LINE = cssVar("--line") || "#263150";
+const C_ACCENT = cssVar("--accent") || "#a78bfa";
+const C_LABEL = cssVar("--text") || "#e6ecf7";
+const C_NODE_STROKE = "rgba(10,14,30,.85)";
+const C_LABEL_HALO = "rgba(8,12,26,.9)";
+const TAU = Math.PI * 2;
 
-const nodeEls = nodes.map((n) => {
-  const g = document.createElementNS(NS, "g");
-  g.setAttribute("class", "node");
-  // círculo invisible más grande solo para facilitar el toque en móvil
-  const hit = document.createElementNS(NS, "circle");
-  hit.setAttribute("class", "hit");
-  hit.setAttribute("r", Math.max(radius(n) + 10, 18));
-  hit.setAttribute("pointer-events", "all");
-  const c = document.createElementNS(NS, "circle");
-  c.setAttribute("r", radius(n));
-  c.setAttribute("fill", COLORS[n.kind]);
-  const t = document.createElementNS(NS, "text");
-  t.setAttribute("x", radius(n) + 4);
-  t.setAttribute("y", 4);
-  t.textContent = labelFor(n);
-  g.appendChild(hit); g.appendChild(c); g.appendChild(t);
-  gNodes.appendChild(g);
-  n._g = g; n._c = c; n._t = t;
-  g.addEventListener("mousedown", (e) => startDragNode(e, n));
-  g.addEventListener("click", (e) => { e.stopPropagation(); select(n.id); });
-  g.addEventListener("mouseenter", () => hover(n.id));
-  g.addEventListener("mouseleave", () => hover(null));
-  g.addEventListener("touchstart", (e) => {
-    if (e.touches.length !== 1) return;
-    e.stopPropagation();
-    dragNode = n; dragMoved = false; reheat(0.5); touchMode = "drag";
-  }, { passive: true });
-  return g;
-});
+// Estado de resaltado (antes eran clases CSS .dim/.hl sobre elementos SVG).
+let highlightFocus = null;
+let hoverId = null;
+// Pre-computa radio y color de cada nodo una sola vez.
+for (const n of nodes) { n._r = radius(n); n._color = COLORS[n.kind]; }
 
 function labelFor(n) {
   if (n.kind === "concept") return n.label;
@@ -598,22 +576,76 @@ let simRepulsion = 12000;
 let simAttraction = 0.01;
 let simLinkDist = 160;
 let simDamping = 0.50;
-function reheat(t) { alphaTarget = t; if (alpha < t) alpha = t; }
+// Control del bucle: la simulación corre por requestAnimationFrame mientras
+// hay energía (alpha > 0) y se DETIENE sola al enfriarse. En reposo no gasta
+// CPU; cualquier interacción (hover, zoom, arrastre) pide un redibujado o
+// recalienta la simulación según haga falta.
+let running = false;
+function ensureRunning() { if (!running) { running = true; requestAnimationFrame(tick); } }
+function requestDraw() { if (!running) draw(); }
+function reheat(t) { alphaTarget = t; if (alpha < t) alpha = t; ensureRunning(); }
+
+// ---- Barnes-Hut quadtree: repulsión O(n log n) en vez de O(n²) ----
+// Cada celda agrega su masa (nº de nodos) y su centro de masa; un cúmulo
+// suficientemente lejano (size/dist < THETA) se trata como un único punto en
+// lugar de recorrer cada nodo. Es lo que hacen los motores de grafos para
+// escalar a miles de nodos sin que el coste crezca cuadráticamente.
+const THETA = 0.9;
+function buildQuad(pts) {
+  let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+  for (const p of pts) {
+    if (p.x < minX) minX = p.x; if (p.x > maxX) maxX = p.x;
+    if (p.y < minY) minY = p.y; if (p.y > maxY) maxY = p.y;
+  }
+  const size = Math.max(maxX - minX, maxY - minY, 1);
+  const root = { x: minX, y: minY, size, cx: 0, cy: 0, mass: 0, body: null, kids: null };
+  for (const p of pts) insert(root, p);
+  return root;
+}
+function insert(q, p) {
+  // COM acumulado de la celda (incluye todos los cuerpos que la atraviesan).
+  q.cx = (q.cx * q.mass + p.x) / (q.mass + 1);
+  q.cy = (q.cy * q.mass + p.y) / (q.mass + 1);
+  q.mass += 1;
+  if (q.size < 0.5) return;               // celda diminuta: no subdividir (nodos coincidentes)
+  if (q.mass === 1) { q.body = p; return; }
+  if (!q.kids) { q.kids = [null, null, null, null]; const b = q.body; q.body = null; if (b) place(q, b); }
+  place(q, p);
+}
+function place(q, p) {
+  const half = q.size / 2;
+  const right = p.x >= q.x + half ? 1 : 0;
+  const bottom = p.y >= q.y + half ? 1 : 0;
+  const idx = bottom * 2 + right;
+  let child = q.kids[idx];
+  if (!child) {
+    child = { x: q.x + right * half, y: q.y + bottom * half, size: half,
+              cx: 0, cy: 0, mass: 0, body: null, kids: null };
+    q.kids[idx] = child;
+  }
+  insert(child, p);
+}
+function applyRepulsion(q, p, k) {
+  if (q.mass === 0 || q.body === p) return;
+  const dx = p.x - q.cx, dy = p.y - q.cy;
+  const d2 = dx * dx + dy * dy || 0.01;
+  if (q.kids === null || (q.size * q.size) / d2 < THETA * THETA) {
+    const d = Math.sqrt(d2);
+    const f = (k * q.mass) / d2;
+    p.vx += (dx / d) * f; p.vy += (dy / d) * f;
+    return;
+  }
+  for (const c of q.kids) if (c) applyRepulsion(c, p, k);
+}
+
 function tick() {
   const active = nodes.filter((n) => visibleKinds[n.kind] && nodeInActiveCategories(n));
   const cx = W / 2, cy = H / 2;
-  // repulsión O(n²) — suficiente para cientos de nodos
-  for (let i = 0; i < active.length; i++) {
-    const a = active[i];
-    for (let j = i + 1; j < active.length; j++) {
-      const b = active[j];
-      let dx = a.x - b.x, dy = a.y - b.y;
-      let d2 = dx * dx + dy * dy || 0.01;
-      const f = (simRepulsion * alpha) / d2;
-      const d = Math.sqrt(d2);
-      const fx = (dx / d) * f, fy = (dy / d) * f;
-      a.vx += fx; a.vy += fy; b.vx -= fx; b.vy -= fy;
-    }
+  // repulsión O(n log n) vía Barnes-Hut
+  const k = simRepulsion * alpha;
+  if (active.length > 1 && k > 0) {
+    const tree = buildQuad(active);
+    for (const p of active) applyRepulsion(tree, p, k);
   }
   // atracción por aristas
   for (const l of links) {
@@ -641,36 +673,100 @@ function tick() {
   alpha += (alphaTarget - alpha) * ALPHA_DECAY;
   if (alpha < 0.001) alpha = 0;
   draw();
-  requestAnimationFrame(tick);
+  if (alpha > 0) requestAnimationFrame(tick); else running = false;
 }
 
 function draw() {
+  // Reinicia la transformación (con densidad de píxeles) y limpia el lienzo.
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  ctx.clearRect(0, 0, W, H);
+  ctx.translate(view.x, view.y);
+  ctx.scale(view.k, view.k);
+
+  const term = searchTerm.trim().toLowerCase();
+  const focus = highlightFocus;
+  const dimming = !!focus || !!term;
+
+  // Aristas (debajo de los nodos).
+  ctx.lineWidth = 1;
   for (const l of links) {
-    const vis = visibleKinds[l.source.kind] && visibleKinds[l.target.kind] &&
-                (l.kind !== "related" || showRelated) &&
-                nodeInActiveCategories(l.source) && nodeInActiveCategories(l.target);
-    l._el.style.display = vis ? "" : "none";
-    if (!vis) continue;
-    l._el.setAttribute("x1", l.source.x); l._el.setAttribute("y1", l.source.y);
-    l._el.setAttribute("x2", l.target.x); l._el.setAttribute("y2", l.target.y);
+    const s = l.source, t = l.target;
+    if (!visibleKinds[s.kind] || !visibleKinds[t.kind]) continue;
+    if (l.kind === "related" && !showRelated) continue;
+    if (!nodeInActiveCategories(s) || !nodeInActiveCategories(t)) continue;
+    let on = true;
+    if (focus) on = s.id === focus || t.id === focus;
+    if (term && on) on = matches(s, term) && matches(t, term);
+    const related = l.kind === "related";
+    ctx.globalAlpha = (dimming && !on) ? 0.06 : (related ? 0.8 : 0.55);
+    ctx.strokeStyle = related ? C_ACCENT : C_LINE;
+    ctx.setLineDash(related ? [4, 3] : []);
+    ctx.beginPath();
+    ctx.moveTo(s.x, s.y); ctx.lineTo(t.x, t.y);
+    ctx.stroke();
   }
+  ctx.setLineDash([]);
+
+  // Nodos.
+  const showAll = labelMode === "all";
+  const showConcepts = labelMode === "concepts";
+  ctx.lineWidth = 1.5;
+  ctx.strokeStyle = C_NODE_STROKE;
+  ctx.textBaseline = "middle";
+  ctx.font = "11px system-ui, -apple-system, sans-serif";
+  ctx.lineJoin = "round";
   for (const n of nodes) {
-    const vis = visibleKinds[n.kind] && nodeInActiveCategories(n);
-    n._g.style.display = vis ? "" : "none";
-    n._g.setAttribute("transform", `translate(${n.x},${n.y})`);
-    const showLabel = labelMode === "all" || (labelMode === "concepts" && n.kind === "concept");
-    if (n._t) n._t.style.display = (showLabel && vis) ? "" : "none";
+    if (!visibleKinds[n.kind] || !nodeInActiveCategories(n)) continue;
+    let on = true;
+    if (focus) on = n.id === focus || neighbors.get(focus).has(n.id);
+    if (term && on) on = matches(n, term);
+    const hl = focus && n.id === focus;
+    ctx.globalAlpha = (dimming && !on) ? 0.12 : 1;
+    ctx.beginPath();
+    ctx.arc(n.x, n.y, n._r, 0, TAU);
+    ctx.fillStyle = n._color;
+    ctx.fill();
+    ctx.lineWidth = 1.5; ctx.strokeStyle = C_NODE_STROKE;
+    ctx.stroke();
+    if (showAll || (showConcepts && n.kind === "concept") || hl) {
+      const label = labelFor(n);
+      const lx = n.x + n._r + 4;
+      // Halo oscuro (equivale a paint-order:stroke del SVG) + relleno.
+      ctx.lineWidth = 3; ctx.strokeStyle = C_LABEL_HALO;
+      ctx.strokeText(label, lx, n.y);
+      ctx.fillStyle = hl ? "#fff" : C_LABEL;
+      ctx.fillText(label, lx, n.y);
+    }
   }
+  ctx.globalAlpha = 1;
 }
 
 // ===================== Zoom / Pan =====================
 const view = { x: 0, y: 0, k: 1 };
-function applyView() {
-  gZoom.setAttribute("transform", `translate(${view.x},${view.y}) scale(${view.k})`);
+function applyView() { requestDraw(); }   // el transform se aplica dentro de draw()
+
+// Convierte coordenadas de pantalla a coordenadas del mundo (grafo).
+function toWorld(clientX, clientY) {
+  const r = canvas.getBoundingClientRect();
+  return { x: (clientX - r.left - view.x) / view.k, y: (clientY - r.top - view.y) / view.k };
 }
-svg.addEventListener("wheel", (e) => {
+// Nodo bajo el puntero: búsqueda lineal con tolerancia constante en pantalla
+// (reemplaza el círculo "hit" invisible que usaba el SVG para el toque).
+function nodeAt(clientX, clientY) {
+  const w = toWorld(clientX, clientY);
+  const tol = 6 / view.k;
+  let best = null, bestD = Infinity;
+  for (const n of nodes) {
+    if (!visibleKinds[n.kind] || !nodeInActiveCategories(n)) continue;
+    const rr = n._r + tol, dx = n.x - w.x, dy = n.y - w.y, d2 = dx * dx + dy * dy;
+    if (d2 <= rr * rr && d2 < bestD) { best = n; bestD = d2; }
+  }
+  return best;
+}
+
+canvas.addEventListener("wheel", (e) => {
   e.preventDefault();
-  const r = svg.getBoundingClientRect();
+  const r = canvas.getBoundingClientRect();
   const mx = e.clientX - r.left, my = e.clientY - r.top;
   const factor = e.deltaY < 0 ? 1.12 : 1 / 1.12;
   const k2 = Math.max(0.2, Math.min(4, view.k * factor));
@@ -679,32 +775,37 @@ svg.addEventListener("wheel", (e) => {
   view.k = k2; applyView();
 }, { passive: false });
 
+// ---- Ratón: hit-test en mousedown decide arrastrar nodo vs. pan ----
 let panning = false, panStart = null;
-svg.addEventListener("mousedown", (e) => {
-  if (e.target.closest(".node")) return;
-  panning = true; svg.classList.add("panning");
-  panStart = { x: e.clientX - view.x, y: e.clientY - view.y };
-});
-window.addEventListener("mousemove", (e) => {
-  if (panning) { view.x = e.clientX - panStart.x; view.y = e.clientY - panStart.y; applyView(); }
-});
-window.addEventListener("mouseup", () => { panning = false; svg.classList.remove("panning"); });
-svg.addEventListener("click", (e) => { if (!e.target.closest(".node")) select(null); });
+let dragNode = null, pointerMoved = false;
 
-// arrastrar nodos
-let dragNode = null, dragMoved = false;
-function startDragNode(e, n) {
-  e.stopPropagation();
-  dragNode = n; dragMoved = false; reheat(0.5);
-}
-window.addEventListener("mousemove", (e) => {
-  if (!dragNode) return;
-  const r = svg.getBoundingClientRect();
-  dragNode.x = (e.clientX - r.left - view.x) / view.k;
-  dragNode.y = (e.clientY - r.top - view.y) / view.k;
-  dragNode.vx = 0; dragNode.vy = 0; dragMoved = true;
+canvas.addEventListener("mousedown", (e) => {
+  pointerMoved = false;
+  const hit = nodeAt(e.clientX, e.clientY);
+  if (hit) { dragNode = hit; reheat(0.5); }
+  else { panning = true; canvas.classList.add("panning"); panStart = { x: e.clientX - view.x, y: e.clientY - view.y }; }
 });
-window.addEventListener("mouseup", () => { if (dragNode) { dragNode = null; alphaTarget = 0; } });
+window.addEventListener("mousemove", (e) => {
+  if (dragNode) {
+    const w = toWorld(e.clientX, e.clientY);
+    dragNode.x = w.x; dragNode.y = w.y; dragNode.vx = 0; dragNode.vy = 0; pointerMoved = true;
+  } else if (panning) {
+    view.x = e.clientX - panStart.x; view.y = e.clientY - panStart.y; pointerMoved = true; applyView();
+  } else {
+    const hit = nodeAt(e.clientX, e.clientY);
+    const id = hit ? hit.id : null;
+    if (id !== hoverId) { hoverId = id; canvas.style.cursor = id ? "pointer" : ""; hover(id); }
+  }
+});
+window.addEventListener("mouseup", () => {
+  if (dragNode) {
+    if (!pointerMoved) select(dragNode.id);          // clic sin arrastre → seleccionar
+    dragNode = null; alphaTarget = 0;
+  } else if (panning) {
+    if (!pointerMoved) select(null);                 // clic en vacío → cerrar selección
+    panning = false; canvas.classList.remove("panning");
+  }
+});
 
 // ---- Táctil: arrastre de fondo (pan), arrastre de nodo y pinch-zoom ----
 let touchMode = null; // 'pan' | 'drag' | 'pinch'
@@ -712,11 +813,13 @@ let pinchStartDist = 0, pinchStartK = 1, pinchMid = { x: 0, y: 0 };
 function touchDist(a, b) { return Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY); }
 function touchMidpoint(a, b) { return { x: (a.clientX + b.clientX) / 2, y: (a.clientY + b.clientY) / 2 }; }
 
-svg.addEventListener("touchstart", (e) => {
+canvas.addEventListener("touchstart", (e) => {
   if (e.touches.length === 1) {
-    touchMode = "pan"; panning = true; svg.classList.add("panning");
     const t = e.touches[0];
-    panStart = { x: t.clientX - view.x, y: t.clientY - view.y };
+    pointerMoved = false;
+    const hit = nodeAt(t.clientX, t.clientY);
+    if (hit) { touchMode = "drag"; dragNode = hit; reheat(0.5); }
+    else { touchMode = "pan"; panning = true; canvas.classList.add("panning"); panStart = { x: t.clientX - view.x, y: t.clientY - view.y }; }
   } else if (e.touches.length === 2) {
     touchMode = "pinch"; panning = false; dragNode = null;
     pinchStartDist = touchDist(e.touches[0], e.touches[1]);
@@ -727,19 +830,16 @@ svg.addEventListener("touchstart", (e) => {
 
 window.addEventListener("touchmove", (e) => {
   if (touchMode === "drag" && dragNode && e.touches.length === 1) {
-    const t = e.touches[0];
-    const r = svg.getBoundingClientRect();
-    dragNode.x = (t.clientX - r.left - view.x) / view.k;
-    dragNode.y = (t.clientY - r.top - view.y) / view.k;
-    dragNode.vx = 0; dragNode.vy = 0; dragMoved = true;
+    const t = e.touches[0], w = toWorld(t.clientX, t.clientY);
+    dragNode.x = w.x; dragNode.y = w.y; dragNode.vx = 0; dragNode.vy = 0; pointerMoved = true;
     e.preventDefault();
   } else if (touchMode === "pan" && panning && e.touches.length === 1) {
     const t = e.touches[0];
-    view.x = t.clientX - panStart.x; view.y = t.clientY - panStart.y;
+    view.x = t.clientX - panStart.x; view.y = t.clientY - panStart.y; pointerMoved = true;
     applyView();
     e.preventDefault();
   } else if (touchMode === "pinch" && e.touches.length === 2) {
-    const r = svg.getBoundingClientRect();
+    const r = canvas.getBoundingClientRect();
     const dist = touchDist(e.touches[0], e.touches[1]);
     const k2 = Math.max(0.2, Math.min(4, pinchStartK * (dist / pinchStartDist)));
     const mx = pinchMid.x - r.left, my = pinchMid.y - r.top;
@@ -753,12 +853,12 @@ window.addEventListener("touchmove", (e) => {
 
 window.addEventListener("touchend", (e) => {
   if (e.touches.length === 0) {
-    if (touchMode === "drag" && dragNode) { dragNode = null; alphaTarget = 0; }
-    if (touchMode === "pan") { panning = false; svg.classList.remove("panning"); }
+    if (touchMode === "drag" && dragNode) { if (!pointerMoved) select(dragNode.id); dragNode = null; alphaTarget = 0; }
+    else if (touchMode === "pan") { if (!pointerMoved) select(null); panning = false; canvas.classList.remove("panning"); }
     touchMode = null;
   } else if (e.touches.length === 1 && touchMode === "pinch") {
     // queda un solo dedo tras un pellizco: seguir como pan
-    touchMode = "pan"; panning = true;
+    touchMode = "pan"; panning = true; pointerMoved = true;
     const t = e.touches[0];
     panStart = { x: t.clientX - view.x, y: t.clientY - view.y };
   }
@@ -787,22 +887,9 @@ function fitView() {
 
 // ===================== Resaltado / búsqueda =====================
 function hover(id) { if (!selectedId) applyHighlight(id); }
-function applyHighlight(focusId) {
-  const term = searchTerm.trim().toLowerCase();
-  nodes.forEach((n) => {
-    let on = true;
-    if (focusId) on = n.id === focusId || neighbors.get(focusId).has(n.id);
-    if (term) on = on && matches(n, term);
-    n._g.classList.toggle("dim", !on && (!!focusId || !!term));
-    n._g.classList.toggle("hl", !!focusId && n.id === focusId);
-  });
-  links.forEach((l) => {
-    let on = true;
-    if (focusId) on = l.source.id === focusId || l.target.id === focusId;
-    if (term) on = on && matches(l.source, term) && matches(l.target, term);
-    l._el.classList.toggle("dim", !on && (!!focusId || !!term));
-  });
-}
+// Ahora el resaltado solo fija el foco y pide un redibujado; draw() calcula
+// el atenuado (dim) y el destacado (hl) leyendo highlightFocus + searchTerm.
+function applyHighlight(focusId) { highlightFocus = focusId; requestDraw(); }
 function matches(n, term) {
   if (!term) return true;
   const hay = [n.label, n.keyword, (n.authors || []).join(" "), (n.keywords || []).join(" "), (n.aliases || []).join(" ")]
@@ -828,6 +915,7 @@ document.querySelectorAll(".toggle[data-kind]").forEach((t) => {
 const relToggle = document.querySelector(".toggle[data-edge=related]");
 relToggle.querySelector("input").addEventListener("change", (e) => {
   showRelated = e.target.checked; relToggle.classList.toggle("off", !showRelated);
+  requestDraw();
 });
 document.querySelectorAll(".label-btn").forEach((btn) => {
   btn.addEventListener("click", () => {
@@ -1126,12 +1214,19 @@ sbBackdrop.addEventListener("click", () => setSidebarOpen(false));
 setSidebarOpen(!isMobile());
 
 // ===================== Init =====================
-function resize() { W = svg.clientWidth; H = svg.clientHeight; }
+// El canvas se dimensiona a densidad de píxeles del dispositivo (nitidez en
+// pantallas HiDPI); el escalado por dpr se aplica en draw() con setTransform.
+function resize() {
+  W = canvas.clientWidth; H = canvas.clientHeight;
+  dpr = Math.max(1, window.devicePixelRatio || 1);
+  canvas.width = Math.round(W * dpr);
+  canvas.height = Math.round(H * dpr);
+  requestDraw();
+}
 window.addEventListener("resize", resize);
 resize();
 initSidebar();
-applyView();
-requestAnimationFrame(tick);
+ensureRunning();          // arranca la simulación (se detiene sola al enfriarse)
 setTimeout(fitView, 600);
 </script>
 </body>
