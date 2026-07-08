@@ -71,12 +71,6 @@ function noteId(rel) {
   return rel.replace(/\.md$/, "");
 }
 
-// Cuerpo de la nota listo para leer en el panel: quita el título H1 inicial
-// (ya se muestra en la cabecera del detalle) y recorta espacios.
-function noteContent(body) {
-  return body.replace(/^\s+/, "").replace(/^#\s+[^\n]*\n+/, "").trim();
-}
-
 // --- Definiciones canónicas desde keywords.md (fallback de definición) ---
 function parseKeywords() {
   const defs = {};
@@ -127,7 +121,6 @@ for (const { rel, abs } of listMd("concepts")) {
     definition: (defMatch || keywordDefs[keyword] || "").trim(),
     literature: litMatch ? litMatch[1].trim() : "",
     path: rel,
-    content: noteContent(body),
   });
   conceptByKeyword.set(keyword, node.id);
 }
@@ -157,7 +150,6 @@ for (const dir of ["notes/papers", "notes/articles", "notes/books", "notes/ficti
       date: data.date_added || data.date || "",
       path: rel,
       pdf_local: data.pdf_local || "",
-      content: noteContent(body),
     });
 
     // Aristas nota -> concepto (por cada keyword del frontmatter)
