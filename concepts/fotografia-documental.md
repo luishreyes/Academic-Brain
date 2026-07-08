@@ -20,3 +20,5 @@ La tensión que emerge del conjunto es productiva. Los tres comparten la premisa
 - [[notes/books/2007-01-01_salgado-photofile]]
 - [[notes/books/2007-01-01_koudelka-photofile]]
 - [[notes/books/2008-01-01_cartier-bresson-photofile]]
+- [[notes/books/1958-01-01_the-americans-frank]]
+- [[notes/books/2024-01-01_la-imagen-como-arte-caicedo]]

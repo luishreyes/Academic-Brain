@@ -10,3 +10,7 @@ Principios de organización formal de la imagen (geometría, encuadre, líneas, 
 
 ## Notas que usan este concepto
 - [[notes/books/2008-01-01_cartier-bresson-photofile]]
+- [[notes/books/1958-01-01_the-americans-frank]]
+- [[notes/books/1971-01-01_on-reading-kertesz]]
+- [[notes/books/2024-01-01_la-imagen-como-arte-caicedo]]
+- [[notes/books/2006-01-01_aquel-dia-ronis]]
