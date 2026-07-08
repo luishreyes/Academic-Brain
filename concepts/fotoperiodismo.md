@@ -11,3 +11,4 @@ Periodismo visual: narración de acontecimientos y realidades mediante la fotogr
 ## Notas que usan este concepto
 - [[notes/books/2007-01-01_koudelka-photofile]]
 - [[notes/books/2008-01-01_cartier-bresson-photofile]]
+- [[notes/books/2024-01-01_la-imagen-como-arte-caicedo]]
