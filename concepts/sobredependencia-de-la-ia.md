@@ -31,3 +31,4 @@ Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario ace
 - [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap12-adultos-mayores]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
+- [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]

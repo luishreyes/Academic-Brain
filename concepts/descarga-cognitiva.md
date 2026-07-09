@@ -25,3 +25,4 @@ Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integraci
 - [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]
 - [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
+- [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]

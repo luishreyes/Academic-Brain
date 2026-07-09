@@ -106,3 +106,4 @@ Principios éticos y normas institucionales que regulan el comportamiento honest
 - [[notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior]]
 - [[notes/papers/2026-01-01_writing-against-the-machine]]
 - [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
+- [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]

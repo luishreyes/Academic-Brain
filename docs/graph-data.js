@@ -3,7 +3,7 @@ window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
     "papers": 385,
-    "articles": 53,
+    "articles": 54,
     "books": 75,
     "fiction": 65,
     "concepts": 211
@@ -87,7 +87,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.",
       "literature": "",
       "path": "concepts/alfabetizacion-en-ia.md",
-      "degree": 101
+      "degree": 102
     },
     {
       "id": "concepts/alineamiento-de-ia",
@@ -765,7 +765,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integración de información) a apoyos externos —herramientas, dispositivos o IA— en lugar de ejecutarlo internamente; en contextos de aprendizaje puede saltarse procesos mentales integrales a la formación de conocimiento (cognitive offloading, deuda cognitiva).",
       "literature": "",
       "path": "concepts/descarga-cognitiva.md",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "concepts/descubrimiento-cientifico",
@@ -1045,7 +1045,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la programación y las ciencias de la computación; incluye CS1/CS2, herramientas pedagógicas y evaluación de competencias técnicas.",
       "literature": "",
       "path": "concepts/educacion-en-programacion.md",
-      "degree": 26
+      "degree": 27
     },
     {
       "id": "concepts/educacion-k12",
@@ -1095,7 +1095,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "literature": "",
       "path": "concepts/educacion-superior.md",
-      "degree": 160
+      "degree": 161
     },
     {
       "id": "concepts/electrofisiologia",
@@ -1367,7 +1367,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.",
       "literature": "",
       "path": "concepts/evaluacion-educativa.md",
-      "degree": 131
+      "degree": 132
     },
     {
       "id": "concepts/evolucion-cultural",
@@ -1644,7 +1644,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Transformaciones del empleo y la empleabilidad ante la automatización y la IA; incluye qué competencias se valoran, qué ocupaciones se vuelven vulnerables y cómo se redefinen las trayectorias profesionales.",
       "literature": "",
       "path": "concepts/futuro-del-trabajo.md",
-      "degree": 64
+      "degree": 65
     },
     {
       "id": "concepts/generacion-aumentada-por-recuperacion",
@@ -2065,7 +2065,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política.",
       "literature": "",
       "path": "concepts/integridad-academica.md",
-      "degree": 100
+      "degree": 101
     },
     {
       "id": "concepts/inteligencia-artificial",
@@ -2080,7 +2080,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "literature": "",
       "path": "concepts/inteligencia-artificial.md",
-      "degree": 277
+      "degree": 278
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -2547,7 +2547,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas.",
       "literature": "",
       "path": "concepts/pensamiento-critico.md",
-      "degree": 110
+      "degree": 111
     },
     {
       "id": "concepts/peptidos-bioactivos",
@@ -3241,7 +3241,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario acepta sus salidas sin verificarlas y delega en exceso el esfuerzo propio; se asocia con erosión de habilidades, pérdida de agencia y aprendizaje superficial (over-reliance).",
       "literature": "",
       "path": "concepts/sobredependencia-de-la-ia.md",
-      "degree": 22
+      "degree": 23
     },
     {
       "id": "concepts/sostenibilidad",
@@ -15516,6 +15516,33 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-07-01",
       "path": "notes/articles/2026-06-30_twilight-chatbots-mollick.md",
       "pdf_local": "sources/pdfs/ai-science-society/mollick_2026_twilight-of-chatbots.pdf"
+    },
+    {
+      "id": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "kind": "article",
+      "label": "Instead of banning AI, I made a classroom contract with my students",
+      "authors": [
+        "Tomasz Głowacki"
+      ],
+      "year": "2026",
+      "venue": "Science (Working Life), Vol 393, Issue 6806",
+      "url": "https://www.science.org/content/article/instead-banning-ai",
+      "doi": "10.1126/science.zet3i5g",
+      "keywords": [
+        "inteligencia-artificial",
+        "alfabetizacion-en-ia",
+        "integridad-academica",
+        "pensamiento-critico",
+        "evaluacion-educativa",
+        "educacion-superior",
+        "educacion-en-programacion",
+        "sobredependencia-de-la-ia",
+        "descarga-cognitiva",
+        "futuro-del-trabajo"
+      ],
+      "date": "2026-07-09",
+      "path": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula.md",
+      "pdf_local": "sources/pdfs/glowacki2026-contrato-de-ia-en-el-aula.pdf"
     },
     {
       "id": "notes/articles/2026-07-04_ia-cambia-lenguaje-guardian",
@@ -35168,6 +35195,71 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/articles/2026-06-30_twilight-chatbots-mollick",
       "target": "notes/books/2024-04-02_co-intelligence-mollick",
+      "kind": "related"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "concepts/integridad-academica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "concepts/pensamiento-critico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "concepts/educacion-en-programacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "concepts/sobredependencia-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "concepts/descarga-cognitiva",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "concepts/futuro-del-trabajo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
+      "kind": "related"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "notes/articles/2026-05-06_teqsa-genai-integridad-reforma-evaluacion",
+      "kind": "related"
+    },
+    {
+      "source": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
+      "target": "notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky",
       "kind": "related"
     },
     {

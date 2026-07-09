@@ -73,3 +73,4 @@ Transformaciones del empleo y la empleabilidad ante la automatización y la IA; 
 - [[notes/books/2025-01-01_abundance-klein]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap18-empleo]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion]]
+- [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]
