@@ -35,3 +35,4 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la p
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
 - [[notes/books/2025-01-01_source-code-gates]]
 - [[notes/papers/2026-01-01_dataset-feedback-formativo-uml-llm]]
+- [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]

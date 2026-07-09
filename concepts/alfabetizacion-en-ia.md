@@ -110,3 +110,4 @@ Conjunto de competencias necesarias para comprender, evaluar críticamente y usa
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
+- [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]

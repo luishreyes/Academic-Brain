@@ -164,3 +164,4 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]
+- [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]
