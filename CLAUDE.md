@@ -243,3 +243,35 @@ omitirla que forzar una síntesis pobre solo por completar la plantilla.
 - Slug del keyword en `concepts/`: minúsculas con guiones (ej: `machine-learning.md`)
 - Los wiki-links siguen el formato Obsidian: `[[ruta/al/archivo]]`
 - Fecha: formato ISO 8601 (`YYYY-MM-DD`)
+
+## Estilo de escritura (prosa que Claude redacta: correos, documentos, síntesis, respuestas de chat)
+
+Aplicar SIEMPRE estas reglas al redactar prosa para el usuario. No aplican a
+citas textuales de fuentes, a código, ni a nombres propios con guion (p. ej.
+`CD-AIF`, `two-lane`).
+
+**Sin rayas ni guiones para frases parentéticas**
+- Nunca usar raya (—) ni guion (–) para encerrar una frase explicativa.
+- Reemplazar por comas, punto y seguido, dos puntos, o reestructurar la oración.
+- Mal: "Los estudiantes llegan —moldeados por las herramientas de su generación— listos para aprender."
+- Bien: "Los estudiantes llegan moldeados por las herramientas de su generación, listos para aprender."
+- Bien: "Los estudiantes llegan listos para aprender. Las herramientas de su generación los han moldeado."
+
+**Evitar construcciones "de X a Y" ("from X to Y")**
+- El patrón suena formulaico y sobreusado. Evitar "de X a Y", "que va de X a Y", "todo, de X a Y".
+- Evitar también patrones emparentados: "ya sea X o Y", "tanto X como Y", "no solo X sino también Y".
+- Mal: "de memorizar fórmulas a entender principios."
+- Bien: "memorizar fórmulas y entender principios."
+
+**Escribir con variedad natural**
+- Variar la estructura de las oraciones y las transiciones.
+- No repetir construcciones paralelas en oraciones consecutivas.
+- Alternar formas de conectar ideas: a veces dos puntos, a veces punto y seguido, a veces una conjunción.
+- Leer la frase en voz alta. Si suena a texto escrito por una IA, reescribirla.
+
+**Frases prohibidas**
+- "de [sustantivo] a [sustantivo]" ("from X to Y")
+- "todo, de X a Y" ("everything from X to Y")
+- "que va de X a Y" ("ranging from X to Y")
+- "no solo X sino también Y" ("not only X but also Y")
+- Cualquier raya usada a mitad de oración para aclarar.
