@@ -68,7 +68,8 @@ Al terminar cada libro: conversación breve, dos o tres preguntas concretas, nad
 - Leyendo ahora: Exhalation, de Ted Chiang. Valoración provisional 4.5, ya encargó la pasta dura para coleccionarlo.
 - Hilo abierto: la segunda máquina de Chiang sobre el libre albedrío, todavía sin aparecer en su lectura. Retomar al cierre.
 - Fotografía confirmada como vena real, no capricho: cerró tres Photofile, Salgado, Koudelka y Cartier-Bresson, los tres en 4.5. El dato fino está en la distancia con el 5 que dio a The Decisive Moment. Prefiere la obra completa a la monografía de bolsillo que la resume. Esto refuerza el salto lateral pendiente hacia Calvino: el ojo de observador tiene hambre de material, y el libro literario construido como sistema de imágenes es la apuesta natural.
-- Compra adelantada por crédito de Audible a punto de vencer: se llevó Stoner en audiolibro para más tarde. Con esto queda entregado el tiro a ciegas y cerrada la rotación completa de los tres tipos. El próximo ciclo reabre con tiro con efecto. La lectura real de Stoner sigue pendiente: el rebote, o la rendición, es el dato que interesa.
+- Stoner comprado en audiolibro para más tarde, con esto queda entregado el tiro a ciegas y cerrada la rotación completa de los tres tipos. La lectura real de Stoner sigue pendiente: el rebote, o la rendición, es el dato que interesa.
+- El crédito de Audible por vencer seguía vivo: Stoner lo pagó aparte por despiste. El crédito se gastó en Blindsight, que abre el nuevo ciclo como tiro con efecto. Lectura pendiente, con antena puesta en si el argumento sobre la conciencia le muerde el punto ciego desde dentro de su propio género.
 
 ## Recomendaciones del club
 
@@ -84,4 +85,8 @@ Edición sugerida: Siruela, traducción de Aurora Bernárdez.
 ### Entregada. A ciegas
 **John Williams, Stoner.**
 Razón: sin red. Ni nave, ni magia, ni gran idea. La vida interior de un hombre común, contada despacio y con una prosa bellísima. En el papel es el anti Luis, y por eso mismo es la prueba honesta de su punto ciego. Muchos lectores de sistemas que juran odiar la novela literaria callada caen rendidos con esta. Si rebota, ese rebote enseña más que cualquier acierto.
-Comprado en audiolibro para guardarlo para después, aprovechando un crédito de Audible por vencer. Validado con búsqueda: novela de 1965 rescatada del olvido tras la traducción francesa de Anna Gavalda en 2011, hoy clásico de culto por su precisión emocional y su prosa contenida.
+Comprado en audiolibro para guardarlo para después. Validado con búsqueda: novela de 1965 rescatada del olvido tras la traducción francesa de Anna Gavalda en 2011, hoy clásico de culto por su precisión emocional y su prosa contenida.
+
+### Entregada. Tiro con efecto (nuevo ciclo)
+**Peter Watts, Blindsight.**
+Razón: hard SF de primer contacto con el rigor despiadado que le enganchó en Liu Cixin, nave, vacío y física sin concesiones. La trampa está en el ángulo: la novela es un ataque sostenido a la idea de que la conciencia sirve de algo, sugiere que el yo interior es un accidente evolutivo y una desventaja. Le muerde el punto ciego, la vida interior, pero desde dentro de su propio género, con la forma de un argumento de ingeniería y no de una novela sentimental. Confort con trampa en estado puro. Validado con búsqueda: Elizabeth Bear la llamó la mejor novela de hard SF de la primera década del siglo, nominada al Hugo, Campbell y Locus. Aviso honesto: en audio es densa, casi conferencias sobre la mente, ideal para quien va a por las ideas.
