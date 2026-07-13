@@ -27,3 +27,4 @@ node docs/build-noticias.mjs
 - [2026-06-28](2026-06-28-boletin.md) — primer número.
 - [2026-06-29](2026-06-29-boletin.md) — segundo número, retoma el hilo de retención/transferencia del primero.
 - [2026-07-06](2026-07-06-boletin.md) — tercer número, cierra el hilo de la evidencia rigurosa: benchmarks de ingeniería vs. aprendizaje real, un RCT con resultado nulo y la brecha desempeño-competencia.
+- [2026-07-13](2026-07-13-boletin.md) — cuarto número, aparece el ensayo de transferencia que faltaba (Contractor y Reyes) con su contradicción (Barcaui): lo que decide entre aprender y desaprender es el modo de uso, y lo gobierna el diseño de la evaluación (marco de Gao).
