@@ -2,11 +2,11 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 385,
+    "papers": 388,
     "articles": 54,
     "books": 75,
     "fiction": 65,
-    "concepts": 211
+    "concepts": 212
   },
   "nodes": [
     {
@@ -765,7 +765,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integración de información) a apoyos externos —herramientas, dispositivos o IA— en lugar de ejecutarlo internamente; en contextos de aprendizaje puede saltarse procesos mentales integrales a la formación de conocimiento (cognitive offloading, deuda cognitiva).",
       "literature": "",
       "path": "concepts/descarga-cognitiva.md",
-      "degree": 17
+      "degree": 19
     },
     {
       "id": "concepts/descubrimiento-cientifico",
@@ -1095,7 +1095,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "literature": "",
       "path": "concepts/educacion-superior.md",
-      "degree": 161
+      "degree": 164
     },
     {
       "id": "concepts/electrofisiologia",
@@ -1182,7 +1182,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones.",
       "literature": "",
       "path": "concepts/ensayo-controlado-aleatorio.md",
-      "degree": 15
+      "degree": 18
     },
     {
       "id": "concepts/ensenanza-basada-en-evidencia",
@@ -1217,7 +1217,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje de lenguas (en particular el inglés como lengua extranjera/segunda lengua, ELT); incluye competencia lingüística y comunicativa, didáctica de lenguas y la integración de tecnología en el aula de idiomas.",
       "literature": "Tres estudios sobre detectores de texto generado por IA, publicados con tres años de diferencia, cuentan una historia de cómo un mismo hallazgo se sostiene, se matiza y finalmente se revierte. Liang et al. (2023) documentaron el caso fundacional: sobre 91 ensayos TOEFL de hablantes no nativos de inglés, siete detectores comerciales arrojaron una tasa promedio de falsos positivos del 61,3%, explicada por la menor perplejidad del inglés no nativo —vocabulario y gramática más limitados— que los detectores confunden con las huellas estadísticas de un LLM. Tres años después, Al Ali, Helcl y Libovický repiten el experimento pero cambian de idioma: en checo, una lengua de morfología compleja, encuentran el patrón invertido (p < 10⁻¹⁴) —los no nativos producen entropía igual o mayor, no menor, porque los errores gramaticales pesan más que el vocabulario limitado— y ningún detector muestra sesgo sistemático contra ellos. Más revelador aún: al reevaluar el propio dataset en inglés de Liang et al. con un detector comercial actual, el sesgo persiste pero se ha reducido del 61,3% al 23,1% de falsos positivos. Hadra, Cambridge y Mesbah, con Turnitin y Originality sobre escritura EFL, encuentran una señal en la misma dirección pero apenas al borde de la significancia (Fisher unilateral, p = 0,058; 100% de exactitud en textos profesionales frente a 91,6% en EFL). Leídos en conjunto, los tres estudios no confirman ni descartan el sesgo de forma simple: muestran que es dependiente del idioma —su mecanismo causal, la perplejidad, se comporta de forma opuesta según la morfología de la lengua— y sensible al tiempo, pues la tecnología de detección ha mejorado desde 2023 aunque el problema no ha desaparecido.\n\nEse hallazgo técnico entra en tensión directa con las notas del vault sobre desarrollo profesional docente. Zou, Kohnke y Xie diseñan su marco de competencia pedagógica en IA —con foco explícito en enseñanza de lenguas, desde universidades de Hong Kong— e incluyen la equidad entre los riesgos que los docentes deben aprender a mitigar; Lakhe Shrestha et al., en su indagación narrativa con cuatro profesores de inglés en Nepal, documentan que esas mismas preocupaciones éticas (sesgo algorítmico, privacidad de datos) surgen espontáneamente en el discurso de los docentes, no como imposición de un marco teórico. Hadra et al. cierran el círculo con una recomendación concreta: los detectores no deben usarse como base única para decisiones de integridad académica, sino como indicador que exige formación docente para interpretarlos con cautela —exactamente la \"alfabetización en IA\" que Zou et al. y Lakhe Shrestha et al. señalan como vacío en la preparación de profesores de idiomas. El Espejo Cognitivo de Tomisu et al. anticipa una variante futura del mismo problema: advierten que su propio Índice de Calidad de la Enseñanza (TQI), si se entrena sobre un estilo de explicación \"estándar\", podría penalizar a aprendices con estilos retóricos distintos (narrativos u holísticos) —el mismo mecanismo de sesgo algorítmico contra la desviación de la norma que documentan los estudios de detección, ahora desplazado de la detección a la evaluación pedagógica.\n\nEl estudio de Bencsik et al. sobre acceso global a ChatGPT añade una capa previa a cualquier cuestión de sesgo algorítmico: el \"apoyo lingüístico\" es uno de sus tres factores de nivel meso (junto al institucional), pero no muestra efecto directo significativo sobre el uso, mediado en cambio por el acceso funcional y el desarrollo digital nacional (IDI). Leído junto con el resto del corpus, esto sugiere que la desigualdad que enfrenta el hablante no nativo en la enseñanza de lenguas mediada por IA no es de un solo tipo: primero debe superar barreras de acceso material y funcional para usar la herramienta (Bencsik et al.), y si lo logra —o incluso si no usa IA en absoluto—, enfrenta el riesgo adicional de que su propio texto, por las huellas estadísticas de su condición de no nativo, sea malinterpretado por los mismos sistemas que deberían evaluarlo con justicia.",
       "path": "concepts/ensenanza-de-lenguas.md",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "concepts/entrega-de-mrna",
@@ -1367,7 +1367,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.",
       "literature": "",
       "path": "concepts/evaluacion-educativa.md",
-      "degree": 132
+      "degree": 133
     },
     {
       "id": "concepts/evolucion-cultural",
@@ -2414,7 +2414,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Energía, impulso y conductas que sostienen la participación, el esfuerzo y la persistencia del estudiante en el aprendizaje; el compromiso (engagement) es multidimensional (cognitivo, conductual, emocional y de agencia) y se distingue de los resultados de aprendizaje.",
       "literature": "",
       "path": "concepts/motivacion-y-compromiso-estudiantil.md",
-      "degree": 21
+      "degree": 23
     },
     {
       "id": "concepts/nanociencia",
@@ -3015,6 +3015,25 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 1
     },
     {
+      "id": "concepts/retencion-del-aprendizaje",
+      "kind": "concept",
+      "label": "retencion del aprendizaje",
+      "keyword": "retencion-del-aprendizaje",
+      "aliases": [
+        "knowledge retention",
+        "retención del conocimiento",
+        "aprendizaje duradero",
+        "durable learning",
+        "delayed retention",
+        "transferencia del aprendizaje",
+        "desirable difficulties"
+      ],
+      "definition": "Persistencia del conocimiento y las habilidades a lo largo del tiempo, más allá del desempeño inmediato durante la intervención. Incluye la medición diferida (pruebas sin asistencia tras días o semanas), la transferencia a tareas nuevas y el principio de las \"dificultades deseables\": el esfuerzo costoso que fija el aprendizaje.",
+      "literature": "La retención medida en diferido es la prueba que separa el desempeño del aprendizaje real, y es donde la evidencia sobre IA generativa se vuelve discriminante. Xu y colegas ya habían nombrado la brecha desempeño-competencia: la IA levanta mucho más lo que el estudiante hace mientras la usa que lo que llega a saber. Dos ensayos controlados aleatorizados con medición diferida la anclan ahora en cifras, y a primera vista se contradicen.\n\nContractor y Reyes (2026), con 211 estudiantes evaluados sin asistencia a una semana, encuentran que el acceso a IA eleva el desempeño inmediato en 0,27 SD y que esa ganancia persiste. Barcaui (2025), con 120 estudiantes y una prueba sorpresa a los 45 días, encuentra lo opuesto: el grupo con ChatGPT retuvo 57,5 % frente al 68,5 % del grupo tradicional (d = 0,68), una muleta cognitiva que deteriora la memoria duradera.\n\nLa contradicción se disuelve en el diseño. Barcaui entregó ChatGPT sin restricciones, la condición que empuja hacia la automatización. Contractor y Reyes separaron a quienes usaban la IA para entender (aumentación) de quienes le pedían que produjera el texto (automatización), y solo los primeros conservaron la habilidad al retirar la herramienta. La tesis conjunta: la IA sin barandas favorece el uso que erosiona el aprendizaje, y solo el uso deliberado como andamiaje conceptual preserva la habilidad. El corolario metodológico es tan importante como el hallazgo: la foto durante la intervención casi siempre favorece a la IA (Han 2026), y la foto una semana o mes y medio después es la que discrimina.",
+      "path": "concepts/retencion-del-aprendizaje.md",
+      "degree": 2
+    },
+    {
       "id": "concepts/retroalimentacion-con-ia",
       "kind": "concept",
       "label": "retroalimentacion con ia",
@@ -3241,7 +3260,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario acepta sus salidas sin verificarlas y delega en exceso el esfuerzo propio; se asocia con erosión de habilidades, pérdida de agencia y aprendizaje superficial (over-reliance).",
       "literature": "",
       "path": "concepts/sobredependencia-de-la-ia.md",
-      "degree": 23
+      "degree": 26
     },
     {
       "id": "concepts/sostenibilidad",
@@ -3455,7 +3474,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.",
       "literature": "",
       "path": "concepts/tutoria-con-ia.md",
-      "degree": 55
+      "degree": 57
     },
     {
       "id": "concepts/universidades-chinas",
@@ -9589,6 +9608,28 @@ window.__ACADEMIC_BRAIN__ = {
       "pdf_local": "sources/pdfs/existing-reviews-gapmap/cibu_2025_llm-topic-analysis.pdf"
     },
     {
+      "id": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "kind": "paper",
+      "label": "ChatGPT as a cognitive crutch: Evidence from a randomized controlled trial on knowledge retention",
+      "authors": [
+        "André Barcaui"
+      ],
+      "year": "2025",
+      "venue": "Social Sciences & Humanities Open, 12, 102287",
+      "url": "https://doi.org/10.1016/j.ssaho.2025.102287",
+      "doi": "10.1016/j.ssaho.2025.102287",
+      "keywords": [
+        "ensayo-controlado-aleatorio",
+        "descarga-cognitiva",
+        "sobredependencia-de-la-ia",
+        "retencion-del-aprendizaje",
+        "educacion-superior"
+      ],
+      "date": "2026-07-13",
+      "path": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion.md",
+      "pdf_local": "sources/pdfs/learning-impact-evidence/barcaui2025-chatgpt-muleta-cognitiva.pdf"
+    },
+    {
       "id": "notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms",
       "kind": "paper",
       "label": "QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry",
@@ -14241,6 +14282,55 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-07-07",
       "path": "notes/papers/2026-07-07_poros-transitorios-cpp-homeoproteinas.md",
       "pdf_local": "sources/pdfs/trofimenko2026-poros-transitorios-cpp.pdf"
+    },
+    {
+      "id": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "kind": "paper",
+      "label": "Experimental Evidence on the Learning Impact of Generative AI",
+      "authors": [
+        "Zara Contractor",
+        "Germán Reyes"
+      ],
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2607.08849 [econ.GN]",
+      "url": "https://arxiv.org/abs/2607.08849",
+      "doi": "",
+      "keywords": [
+        "ensayo-controlado-aleatorio",
+        "retencion-del-aprendizaje",
+        "descarga-cognitiva",
+        "sobredependencia-de-la-ia",
+        "tutoria-con-ia",
+        "evaluacion-educativa",
+        "motivacion-y-compromiso-estudiantil",
+        "educacion-superior"
+      ],
+      "date": "2026-07-13",
+      "path": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct.md",
+      "pdf_local": "sources/pdfs/learning-impact-evidence/contractor2026-impacto-aprendizaje-genai.pdf"
+    },
+    {
+      "id": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
+      "kind": "paper",
+      "label": "Comparing AI chatbots and web-based synchronous collaborative writing tools, leveraging group cohesion, motivation, and performance",
+      "authors": [
+        "Rong Han"
+      ],
+      "year": "2026",
+      "venue": "Acta Psychologica, 268, 107355",
+      "url": "https://doi.org/10.1016/j.actpsy.2026.107355",
+      "doi": "10.1016/j.actpsy.2026.107355",
+      "keywords": [
+        "ensayo-controlado-aleatorio",
+        "ensenanza-de-lenguas",
+        "motivacion-y-compromiso-estudiantil",
+        "sobredependencia-de-la-ia",
+        "tutoria-con-ia",
+        "educacion-superior"
+      ],
+      "date": "2026-07-13",
+      "path": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2.md",
+      "pdf_local": "sources/pdfs/learning-impact-evidence/han2026-ia-escritura-colaborativa-l2.pdf"
     },
     {
       "id": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
@@ -26358,6 +26448,51 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "target": "concepts/ensayo-controlado-aleatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "target": "concepts/descarga-cognitiva",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "target": "concepts/sobredependencia-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "target": "concepts/retencion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "target": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "target": "notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "target": "notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "target": "notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading",
+      "kind": "related"
+    },
+    {
       "source": "notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms",
       "target": "concepts/capacidades-de-ia",
       "kind": "keyword"
@@ -33211,6 +33346,111 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2026-07-07_poros-transitorios-cpp-homeoproteinas",
       "target": "concepts/electrofisiologia",
       "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "concepts/ensayo-controlado-aleatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "concepts/retencion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "concepts/descarga-cognitiva",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "concepts/sobredependencia-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "concepts/motivacion-y-compromiso-estudiantil",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "target": "notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
+      "target": "concepts/ensayo-controlado-aleatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
+      "target": "concepts/ensenanza-de-lenguas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
+      "target": "concepts/motivacion-y-compromiso-estudiantil",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
+      "target": "concepts/sobredependencia-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
+      "target": "concepts/tutoria-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
+      "target": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
+      "target": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
+      "target": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
+      "kind": "related"
     },
     {
       "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
