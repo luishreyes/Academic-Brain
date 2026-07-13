@@ -401,6 +401,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **replicabilidad-cientifica** — Grado en que un hallazgo empírico puede reproducirse de forma fiable cuando se repite un estudio con procedimientos y potencia estadística adecuados; incluye los debates sobre la crisis de replicación, la robustez de los efectos, la generalización y las prácticas de investigación abierta. _Aliases: replicability, reproducibility, replicación, crisis de replicación, replication crisis, robustez de efectos_
 
+**retencion-del-aprendizaje** — Persistencia del conocimiento y las habilidades a lo largo del tiempo, más allá del desempeño inmediato durante la intervención; incluye la medición diferida (pruebas sin asistencia tras días o semanas), la transferencia a tareas nuevas y el principio de las "dificultades deseables" (el esfuerzo costoso que fija el aprendizaje). _Aliases: knowledge retention, retención del conocimiento, aprendizaje duradero, durable learning, delayed retention, transferencia del aprendizaje, desirable difficulties_
+
 **retroalimentacion-con-ia** — Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico. _Aliases: AI feedback, AI grading, automated feedback, calificación con IA, retroalimentación automatizada, retroalimentación_
 
 **revision-sistematica-de-literatura** — Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo. _Aliases: systematic literature review, SLR, revisión sistemática, PRISMA_

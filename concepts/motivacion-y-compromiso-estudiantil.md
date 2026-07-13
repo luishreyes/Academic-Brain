@@ -30,3 +30,5 @@ Energía, impulso y conductas que sostienen la participación, el esfuerzo y la 
 - [[notes/papers/2026-06-01_genai-comunicacion-farmacia-educador]]
 - [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]
 - [[notes/papers/2026-01-01_clonacion-voz-ia-pedagogia-medica]]
+- [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]
+- [[notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2]]

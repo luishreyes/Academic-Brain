@@ -24,3 +24,6 @@ Diseño experimental en que los participantes son asignados aleatoriamente a con
 - [[notes/books/2011-01-01_poor-economics-banerjee]]
 - [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]
 - [[notes/papers/2026-01-01_clonacion-voz-ia-pedagogia-medica]]
+- [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]
+- [[notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion]]
+- [[notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2]]

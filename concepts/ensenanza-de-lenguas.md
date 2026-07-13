@@ -24,3 +24,4 @@ El estudio de Bencsik et al. sobre acceso global a ChatGPT añade una capa previ
 - [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]
 - [[notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global]]
 - [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
+- [[notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2]]

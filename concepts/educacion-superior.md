@@ -165,3 +165,6 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]
 - [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]
+- [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]
+- [[notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion]]
+- [[notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2]]

@@ -138,3 +138,4 @@ Diseño, validez y mecanismos de evaluación del aprendizaje en educación super
 - [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
 - [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]
+- [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]
