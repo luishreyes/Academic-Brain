@@ -1043,3 +1043,33 @@ Kim, M.-K., Yoo, T.-A., & Chung, J.-B. (2025). Toward Sustainable Generative AI:
 #IAGenerativa #IngenieríaEducación #Sostenibilidad #IngenieríaQuímica #ABET
 
 ---
+
+## P033 — El experimento que mide el aprendizaje cuando se apaga la IA
+
+- **estado:** programado
+- **fecha_programada:** 2026-09-13
+- **fecha_publicacion:**
+- **url:**
+- **fuente:** `Noticias/2026-07-13-boletin.md` · [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]] · [[notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion]]
+- **fecha_creacion:** 2026-07-13
+- **tags:** [retencion-del-aprendizaje, sobredependencia-de-la-ia, ensayo-controlado-aleatorio, descarga-cognitiva, educacion-superior]
+
+Casi toda la evidencia sobre IA en el aula mide en el peor momento posible: mientras la máquina está encendida. Ahí los números casi siempre favorecen a la IA. Dos ensayos controlados comparten un diseño poco común, medir el aprendizaje cuando la IA ya está apagada, y la respuesta se vuelve incómoda.
+
+Zara Contractor y Germán Reyes (Middlebury) reclutaron 211 estudiantes, los pusieron a aprender un tema nuevo con o sin IA, y los evaluaron sin asistencia una semana después. El acceso a la herramienta subió el examen inmediato 0,27 desviaciones estándar, y la ganancia persistió. Buena noticia. Pero al separar cómo se usó la IA aparecieron dos poblaciones opuestas. Quienes la usaron para que les explicara conceptos conservaron y hasta mejoraron su habilidad. Quienes la usaron para que produjera el texto vieron evaporarse la ganancia apenas les quitaron la máquina.
+
+André Barcaui (UFRJ) llegó a la conclusión contraria con un diseño casi idéntico: ChatGPT sin restricciones y una prueba sorpresa a los 45 días. Resultado: 57,5 % de aciertos con IA frente a 68,5 % sin ella, un tamaño de efecto grande (d de Cohen = 0,68). Su título nombra el fenómeno: muleta.
+
+¿Se contradicen? No. Barcaui entregó la IA sin barandas, la condición que empuja a delegar. Contractor y Reyes separaron a quienes delegaban de quienes usaban la IA para entender. Leídos juntos dicen una sola cosa: el signo del efecto no es una propiedad de la IA, es una propiedad del modo de uso. La aumentación preserva la habilidad; la automatización la erosiona.
+
+El matiz honesto: ambas muestras salen de una sola institución, la ventana de Contractor es de apenas una semana, y Barcaui no distingue modos de uso. Aun así, la dirección converge con lo que ya veníamos viendo.
+
+Para quienes enseñamos, la pregunta deja de ser si la IA enseña. Es si el estudiante la deja enseñar en vez de pedirle la respuesta.
+
+Referencias:
+Contractor, Z., & Reyes, G. (2026). *Experimental Evidence on the Learning Impact of Generative AI*. arXiv:2607.08849.
+Barcaui, A. (2025). *ChatGPT as a cognitive crutch*. Social Sciences & Humanities Open, 12, 102287.
+
+#IAGenerativa #EducaciónSuperior #EducaciónEnIngeniería #AprendizajeEfectivo
+
+---
