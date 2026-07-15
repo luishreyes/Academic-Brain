@@ -2,9 +2,9 @@
 titulo: Catálogo de lecturas
 tipo: fuente-de-datos
 proposito: base para el módulo Club de Lectura y para generar notas de ficción y enlaces en el grafo
-total_leidos: 120
-en_curso: 1
-actualizado: 2026-07-07
+total_leidos: 121
+en_curso: 0
+actualizado: 2026-07-15
 leyenda_valoracion: "5, 4, 3 (entero) · 's/c' sin calificar · 'prov' provisional"
 leyenda_idioma: "EN edición en inglés · ES edición en español · ND no determinado"
 leyenda_estado: "leído · leyendo · recomendado"
@@ -40,6 +40,7 @@ Uso: el módulo `/bookclub` lee este catálogo para entender el criterio de Luis
 | An Absolutely Remarkable Thing | Hank Green | The Carls · #1 | EN | 4 | leído |
 | Ready Player One | Ernest Cline | Ready Player One · #1 | EN | 4 | leído |
 | Slaughterhouse-Five | Kurt Vonnegut | n/a | EN | 4 | leído |
+| Exhalation | Ted Chiang | n/a (cuentos) | ND | 5 | leído |
 
 ## The Expanse (saga completa)
 
@@ -201,6 +202,4 @@ Uso: el módulo `/bookclub` lee este catálogo para entender el criterio de Luis
 
 ## En curso
 
-| Título | Autor | Categoría | Idioma | Valoración | Estado |
-|---|---|---|---|---|---|
-| Exhalation | Ted Chiang | SciFi (cuentos) | ND | 4.5 prov | leyendo |
+_(nada en curso ahora)_

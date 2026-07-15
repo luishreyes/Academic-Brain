@@ -2080,7 +2080,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "literature": "",
       "path": "concepts/inteligencia-artificial.md",
-      "degree": 278
+      "degree": 279
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -2366,7 +2366,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Presencia de dioses, mitos, fe, profecía y teología en la ficción; incluye la reinterpretación de mitologías, el poder social de la creencia y la tensión entre lo sagrado y lo secular.",
       "literature": "",
       "path": "concepts/mitologia-y-religion.md",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "concepts/modelado-molecular",
@@ -2959,7 +2959,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Multiverso, mundos paralelos, realidades simuladas o virtuales y bucles o viajes en el tiempo; el interés está en las reglas que gobiernan el salto entre realidades y sus consecuencias.",
       "literature": "",
       "path": "concepts/realidades-multiples.md",
-      "degree": 4
+      "degree": 5
     },
     {
       "id": "concepts/rebelion-y-revolucion",
@@ -18442,8 +18442,11 @@ window.__ACADEMIC_BRAIN__ = {
       "doi": "",
       "keywords": [
         "libre-albedrio",
+        "realidades-multiples",
         "sistemas-y-reglas",
         "filosofia",
+        "inteligencia-artificial",
+        "mitologia-y-religion",
         "ciencia-y-sociedad"
       ],
       "date": "2026-07-05",
@@ -38609,12 +38612,27 @@ window.__ACADEMIC_BRAIN__ = {
     },
     {
       "source": "notes/fiction/2019-01-01_exhalation-chiang",
+      "target": "concepts/realidades-multiples",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2019-01-01_exhalation-chiang",
       "target": "concepts/sistemas-y-reglas",
       "kind": "keyword"
     },
     {
       "source": "notes/fiction/2019-01-01_exhalation-chiang",
       "target": "concepts/filosofia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2019-01-01_exhalation-chiang",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2019-01-01_exhalation-chiang",
+      "target": "concepts/mitologia-y-religion",
       "kind": "keyword"
     },
     {

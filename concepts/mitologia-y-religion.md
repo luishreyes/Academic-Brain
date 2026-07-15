@@ -15,3 +15,4 @@ Presencia de dioses, mitos, fe, profecía y teología en la ficción; incluye la
 - [[notes/fiction/2008-01-01_mistborn-hero-of-ages]]
 - [[notes/fiction/2013-01-01_abaddons-gate]]
 - [[notes/fiction/2013-01-01_the-ocean-at-the-end-of-the-lane]]
+- [[notes/fiction/2019-01-01_exhalation-chiang]]

@@ -13,3 +13,4 @@ Multiverso, mundos paralelos, realidades simuladas o virtuales y bucles o viajes
 - [[notes/fiction/2011-01-01_ready-player-one]]
 - [[notes/fiction/2016-01-01_dark-matter]]
 - [[notes/fiction/2019-01-01_recursion]]
+- [[notes/fiction/2019-01-01_exhalation-chiang]]

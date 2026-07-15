@@ -4,7 +4,7 @@ tipo: modulo-de-recomendacion
 alcance: lectura y conversacion sobre libros
 no_alcance: escritura, edicion de prosa, generacion de texto de autor
 registro: usted
-actualizado: 2026-07-09
+actualizado: 2026-07-15
 ---
 
 # Módulo: Club de Lectura
@@ -65,17 +65,19 @@ Al terminar cada libro: conversación breve, dos o tres preguntas concretas, nad
 
 ## Estado actual del club
 
-- Leyendo ahora: Exhalation, de Ted Chiang. Valoración provisional 4.5, ya encargó la pasta dura para coleccionarlo.
-- Hilo abierto: la segunda máquina de Chiang sobre el libre albedrío, todavía sin aparecer en su lectura. Retomar al cierre.
+- Exhalation, de Ted Chiang, cerrado en 5. Confirmó lo que buscaba la recomendación: la mezcla de filosofía y ciencia ficción es lo que le gana la nota máxima, y la vida interior entró por la puerta del mecanismo sin rebotar. Punto ciego movido. Cuentos que más marcó: The Great Silence, Omphalos y Anxiety Is the Dizziness of Freedom, con The Merchant and the Alchemist's Gate y The Lifecycle of Software Objects ya amados de antes.
+- Hilo cerrado: la segunda máquina de Chiang sobre el libre albedrío era el propio Exhalation. What's Expected of Us lo mata con el Predictor y Anxiety Is the Dizziness of Freedom lo reabre como geometría de muchos mundos. Cobrado.
+- Hilo nuevo abierto: Philip K. Dick. Luis lo tiene fichado como el mismo cruce de filosofía y ciencia ficción, pero nunca ha leído nada suyo. Candidato natural para el próximo tiro. Ojo con el contraste: Dick no es Chiang, su mecanismo es sucio y la realidad se disuelve en vez de sostenerse, y ahí está la trampa interesante.
 - Fotografía confirmada como vena real, no capricho: cerró tres Photofile, Salgado, Koudelka y Cartier-Bresson, los tres en 4.5. El dato fino está en la distancia con el 5 que dio a The Decisive Moment. Prefiere la obra completa a la monografía de bolsillo que la resume. Esto refuerza el salto lateral pendiente hacia Calvino: el ojo de observador tiene hambre de material, y el libro literario construido como sistema de imágenes es la apuesta natural.
 - Stoner comprado en audiolibro para más tarde, con esto queda entregado el tiro a ciegas y cerrada la rotación completa de los tres tipos. La lectura real de Stoner sigue pendiente: el rebote, o la rendición, es el dato que interesa.
 - El crédito de Audible por vencer seguía vivo: Stoner lo pagó aparte por despiste. Blindsight quedó descartado porque su marketplace de Audible no lo lista. El crédito se gastó en Children of Time, que abre el nuevo ciclo como tiro con efecto. Lectura pendiente, con antena puesta en si la empatía forzada hacia una mente alienígena le mueve el punto ciego.
 
 ## Recomendaciones del club
 
-### Entregada. Tiro con efecto
+### Leída, 5. Tiro con efecto
 **Ted Chiang, Exhalation.**
 Razón: ciencia ficción de ideas tan rigurosa como el Liu Cixin que lo enganchó, con mecanismos impecables, pero cada relato mete un golpe emocional por debajo de la línea de flotación. La trampa: le demuestra que el rigor y el corazón no son enemigos. Estrena además el cuento corto, formato casi ausente en su historial.
+Resultado: cinco redondo. La trampa funcionó, la vida interior entró por la puerta del mecanismo. Acierto pleno del tiro con efecto y del punto ciego apuntado a propósito.
 
 ### Entregada. Salto lateral
 **Italo Calvino, Las ciudades invisibles.**
