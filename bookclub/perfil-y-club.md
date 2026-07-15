@@ -33,6 +33,8 @@ Es completista de sagas. Cuando una serie lo atrapa, la termina entera, novelas 
 
 Lee en inglés y en español según la edición.
 
+Prosa que prefiere: directa, que va al grano, casi científica. Le molesta el adorno, la metáfora rebuscada, el lenguaje difícil por difícil. Chiang le funcionó también por eso, la claridad al servicio de la idea. Dato a tener en cuenta con la ficción literaria: la que gane por precisión y no por ornamento tiene más chance con él.
+
 ## Patrones de valoración
 
 - Cinco estrellas: ideas con ingeniería por debajo, o artesanía ejecutada con limpieza.
@@ -42,6 +44,8 @@ Lee en inglés y en español según la edición.
   2. Ficción que corre con emociones en vez de mecanismo. Ejemplos: Firekeeper's Daughter, Gods of Risk, Artemis.
 
 Punto ciego declarado: el interior. Lo íntimo, lo que no se puede diagramar. Ahí es donde un buen libro puede expandirlo, y donde se aprende más de él cuando algo le falla.
+
+Matiz que dejó Exhalation, importante para apuntar bien: el interior sí lo alcanza, pero por una puerta concreta. Cuando la pregunta existencial o ética llega planteada como un escenario, la ciencia ficción como máquina de hipótesis donde poner las dudas sobre la existencia, el control, la conciencia y el otro, entra hondo y le gana el cinco. Lo leyó así en Omphalos, con la ética que queda suelta cuando el creador se fue y nadie mira, y en Merchant y Anxiety, con la imposibilidad de controlar la propia vida aunque se viaje al pasado o se abran los mundos. Lo que sigue siendo punto ciego es la otra cosa, la interioridad callada y sin concepto, la vida común contada despacio sin sistema por debajo, el territorio Stoner. La distinción sirve: para llegarle al interior conviene el escenario que dramatiza una idea, no el retrato íntimo a secas.
 
 Regla de aprendizaje: un tres enseña más que diez cincos. Preste atención a dónde y por qué se cae un libro.
 
@@ -67,7 +71,8 @@ Al terminar cada libro: conversación breve, dos o tres preguntas concretas, nad
 
 - Exhalation, de Ted Chiang, cerrado en 5. Confirmó lo que buscaba la recomendación: la mezcla de filosofía y ciencia ficción es lo que le gana la nota máxima, y la vida interior entró por la puerta del mecanismo sin rebotar. Punto ciego movido. Cuentos que más marcó: The Great Silence, Omphalos y Anxiety Is the Dizziness of Freedom, con The Merchant and the Alchemist's Gate y The Lifecycle of Software Objects ya amados de antes.
 - Hilo cerrado: la segunda máquina de Chiang sobre el libre albedrío era el propio Exhalation. What's Expected of Us lo mata con el Predictor y Anxiety Is the Dizziness of Freedom lo reabre como geometría de muchos mundos. Cobrado.
-- Hilo nuevo abierto: Philip K. Dick. Luis lo tiene fichado como el mismo cruce de filosofía y ciencia ficción, pero nunca ha leído nada suyo. Candidato natural para el próximo tiro. Ojo con el contraste: Dick no es Chiang, su mecanismo es sucio y la realidad se disuelve en vez de sostenerse, y ahí está la trampa interesante.
+- Hilo nuevo abierto: Philip K. Dick. Luis lo tiene fichado como el mismo cruce de filosofía y ciencia ficción, pero nunca ha leído nada suyo. Ojo con el contraste: Dick no es Chiang, su mecanismo es sucio y la realidad se disuelve en vez de sostenerse, y ahí está la trampa interesante. Título elegido cuando toque: Do Androids Dream of Electric Sheep? Es el puente exacto desde su lectura de Exhalation, empalma Lifecycle of Software Objects, la empatía como prueba de quién cuenta como persona, con Omphalos, la religión de Mercer cuyo dios puede ser un fraude y la moral que se sostiene sola cuando nadie mira. Tiro con efecto, no lateral ni ciegas, porque es su género de casa entrando por el ángulo de la realidad que no se sostiene.
+- Recomendación en juego ahora mismo: Children of Time, el tiro con efecto que abrió el nuevo ciclo con el crédito de Audible. Sigue pendiente de lectura. Dick queda on-deck, detrás de este, salvo que Luis pida cambiar el orden.
 - Fotografía confirmada como vena real, no capricho: cerró tres Photofile, Salgado, Koudelka y Cartier-Bresson, los tres en 4.5. El dato fino está en la distancia con el 5 que dio a The Decisive Moment. Prefiere la obra completa a la monografía de bolsillo que la resume. Esto refuerza el salto lateral pendiente hacia Calvino: el ojo de observador tiene hambre de material, y el libro literario construido como sistema de imágenes es la apuesta natural.
 - Stoner comprado en audiolibro para más tarde, con esto queda entregado el tiro a ciegas y cerrada la rotación completa de los tres tipos. La lectura real de Stoner sigue pendiente: el rebote, o la rendición, es el dato que interesa.
 - El crédito de Audible por vencer seguía vivo: Stoner lo pagó aparte por despiste. Blindsight quedó descartado porque su marketplace de Audible no lo lista. El crédito se gastó en Children of Time, que abre el nuevo ciclo como tiro con efecto. Lectura pendiente, con antena puesta en si la empatía forzada hacia una mente alienígena le mueve el punto ciego.

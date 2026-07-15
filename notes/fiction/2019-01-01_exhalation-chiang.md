@@ -29,6 +29,10 @@ Estrena además el cuento corto, formato casi ausente en el historial de Luis, y
 - Estado: leído. Valoración final 5.
 - Cuentos que más marcó: "The Great Silence", "Omphalos" y "Anxiety Is the Dizziness of Freedom". Amó de antes "The Merchant and the Alchemist's Gate" y "The Lifecycle of Software Objects".
 - Lectura: la mezcla de filosofía y ciencia ficción es lo que le ganó la nota. Toque en el punto ciego confirmado: la vida interior entró por la puerta del mecanismo y no rebotó.
+- Su lectura de "Omphalos": lo que le tocó fue lo existencial y ético. El momento en que las criaturas descubren que dejaron de ser el centro, que el creador las hizo y se fue, no por importantes, y que con esa mirada retirada se afloja la exigencia moral. La pregunta que queda suelta, qué hago cuando nadie mira, la leyó como espejo de nuestro propio espacio.
+- Su lectura de "The Merchant and the Alchemist's Gate" y "Anxiety": las vio en direcciones opuestas pero apuntando a lo mismo, la imposibilidad de cambiar el pasado y la falta de control real sobre la propia vida, aun viajando en el tiempo o abriendo los mundos. Para él la ciencia ficción funciona como máquina de escenarios donde poner esas dudas sobre la existencia, la conciencia y el otro en un contexto que las vuelve pensables.
+- Su lectura de "The Lifecycle of Software Objects": la conectó con lo que pasa hoy, la humanización de la IA, bots criados como hijos a los que se empieza a dar derechos, un mundo aparte al que ahora entramos nosotros y no ellos a nosotros. La leyó como ética de la IA, hilo que Mollick y otros del vault también tocan.
+- Sobre la prosa: valora que Chiang vaya al grano, científico, sin metáforas rebuscadas ni lenguaje difícil por difícil. La ameno viene de la claridad, no del adorno.
 - Hilo del libre albedrío en Chiang: cerrado. "What's Expected of Us" y "Anxiety Is the Dizziness of Freedom" eran la segunda vuelta pendiente.
 - Hilo nuevo abierto: curiosidad por Philip K. Dick, ese mismo cruce de filosofía y ciencia ficción, todavía sin leer nada suyo.
 
