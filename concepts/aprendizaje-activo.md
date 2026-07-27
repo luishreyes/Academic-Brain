@@ -48,3 +48,4 @@ Conjunto de metodologías pedagógicas en que el estudiante participa activament
 - [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]
 - [[notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria]]
 - [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
+- [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]

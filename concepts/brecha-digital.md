@@ -29,3 +29,4 @@ El Sur Global aparece una y otra vez como el contexto donde la brecha se vuelve 
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap17-ambiental-clima]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap19-internacional]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]
+- [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]

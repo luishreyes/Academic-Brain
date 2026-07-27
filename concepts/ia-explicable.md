@@ -24,3 +24,4 @@ Donde el corpus técnico se detiene en la confianza operativa, la NSPE la eleva 
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap10-escolar]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]
+- [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]

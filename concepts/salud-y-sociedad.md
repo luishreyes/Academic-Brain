@@ -35,3 +35,4 @@ Dos notas aportan la contracara: la aritmética poblacional que documenta cuánd
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap06-discapacidad]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap11-adicciones]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap12-adultos-mayores]]
+- [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]

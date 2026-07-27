@@ -27,3 +27,4 @@ Diseño experimental en que los participantes son asignados aleatoriamente a con
 - [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]
 - [[notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion]]
 - [[notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2]]
+- [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]

@@ -57,3 +57,4 @@ Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso
 - [[notes/books/2022-08-11_el-poder-de-las-palabras-sigman]]
 - [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
+- [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]

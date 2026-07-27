@@ -5,7 +5,7 @@ year: 2026
 journal: Arquivos Brasileiros de Oftalmologia
 url: https://doi.org/10.5935/0004-2749.2025-0283
 doi: 10.5935/0004-2749.2025-0283
-pdf_local:
+pdf_local: sources/pdfs/capability-reliability/gobira-2026-chatgpt5-glaucoma-residentes.pdf
 type: paper
 keywords: [capacidades-de-ia, educacion-medica, evaluacion-educativa, alucinaciones-de-ia, ingenieria-de-prompts, procesamiento-de-lenguaje-natural, inteligencia-artificial]
 date_added: 2026-07-09

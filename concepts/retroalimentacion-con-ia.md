@@ -60,3 +60,4 @@ Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y p
 - [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]
 - [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]
+- [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]

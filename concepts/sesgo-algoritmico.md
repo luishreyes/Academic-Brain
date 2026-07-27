@@ -42,3 +42,4 @@ Yin et al. y Tomisu et al. comparten además un riesgo educativo concreto: penal
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap22-gobernanza]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion]]
+- [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]

@@ -68,3 +68,4 @@ Preparación y desarrollo profesional continuo del profesorado; incluye la forma
 - [[notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]
+- [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]

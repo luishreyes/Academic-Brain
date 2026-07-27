@@ -30,3 +30,4 @@ El estudio de Cheung, Maier y Lieder aporta la pieza que explica por qué esa co
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap09-salud-mental]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap12-adultos-mayores]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
+- [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]

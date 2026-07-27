@@ -5,7 +5,7 @@ year: 2026
 journal: Turkish Journal of Thoracic and Cardiovascular Surgery
 url: https://doi.org/10.4274/tjtcs.2026.2026-2-40
 doi: 10.4274/tjtcs.2026.2026-2-40
-pdf_local:
+pdf_local: sources/pdfs/ai-education/bayici-2026-ia-cirugia-cardiovascular-examenes.pdf
 type: paper
 keywords: [educacion-medica, evaluacion-educativa, capacidades-de-ia, razonamiento-multimodal, descarga-cognitiva, supervision-humana, sobredependencia-de-la-ia, alucinaciones-de-ia, inteligencia-artificial]
 date_added: 2026-07-09

@@ -66,3 +66,5 @@ Fenómeno en que sistemas de IA generan información incorrecta o fabricada pres
 - [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
 - [[notes/papers/2026-01-01_ia-preguntas-opcion-multiple-patologia]]
 - [[notes/papers/2026-01-01_chatgpt-estatica-ingenieria]]
+- [[notes/papers/2026-01-01_chatgpt5-glaucoma-residentes]]
+- [[notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes]]
