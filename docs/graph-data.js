@@ -2,7 +2,7 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 388,
+    "papers": 392,
     "articles": 54,
     "books": 75,
     "fiction": 65,
@@ -117,7 +117,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.",
       "literature": "",
       "path": "concepts/alucinaciones-de-ia.md",
-      "degree": 59
+      "degree": 61
     },
     {
       "id": "concepts/analisis-bibliometrico",
@@ -167,7 +167,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "literature": "",
       "path": "concepts/aprendizaje-activo.md",
-      "degree": 41
+      "degree": 42
     },
     {
       "id": "concepts/aprendizaje-en-contexto",
@@ -199,7 +199,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición).",
       "literature": "",
       "path": "concepts/autorregulacion-del-aprendizaje.md",
-      "degree": 49
+      "degree": 50
     },
     {
       "id": "concepts/bienestar-academico",
@@ -383,7 +383,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Desigualdades en el acceso, la conectividad, las competencias y los beneficios derivados de las tecnologías digitales —y, de forma emergente, de la IA generativa (la \"brecha de IA\" o GenAI divide)— entre individuos, grupos y países según factores socioeconómicos, geográficos, de género y de recursos.",
       "literature": "Siete estudios, publicados entre 2025 y 2026 y con poblaciones que van de 194 estudiantes australianos a 20.242 encuestados en 58 países, convergen en un mismo marco teórico: la brecha digital de tres niveles de van Dijk (acceso, competencias, resultados), aplicada ahora a la IA generativa. La coincidencia no es casual: Jamal Eddine et al., Beckman et al. y Nakagomi et al. citan explícitamente ese marco, y los demás lo reproducen sin nombrarlo. Lo que aportan en conjunto es evidencia de que la GenAI no inaugura una desigualdad nueva sino que reactiva ejes ya conocidos. En España (Suárez y García-Mariñoso) y en Japón (Nakagomi et al.), ser mayor, tener menos educación y ser mujer predicen sistemáticamente menor uso de chatbots, replicando casi al pie de la letra el patrón de la brecha de Internet de dos décadas atrás.\n\nPero el corpus también documenta una segunda capa de desigualdad, más sutil que el acceso material. Beckman et al. encuentran que la alfabetización digital y la alfabetización en IA se disocian: su perfil de estudiantes \"cautelosos\" (49% de la muestra) tiene alta competencia digital pero evita la IA generativa, mientras que la variable que sí predice el uso es la alfabetización específica en IA, no la digital general. Gonzabay-Jiménez et al. llevan esta idea más lejos y proponen que el eje de la desigualdad se está desplazando: ya no es tanto quién tiene acceso al dispositivo sino quién sabe formular un prompt eficaz y evaluar críticamente lo que la IA produce, lo que ellos llaman una \"brecha cognitiva\". Bencsik et al. matizan esta lectura con datos globales: incluso en países con desarrollo digital (IDI) muy alto persisten diferencias sustanciales de uso, así que el acceso estructural por sí solo no garantiza adopción activa. Hace falta lo que llaman \"acceso funcional\": la disponibilidad estable y confiable del recurso, no solo su existencia formal.\n\nEl Sur Global aparece una y otra vez como el contexto donde la brecha se vuelve más cruda y menos abstracta. Jamal Eddine et al. documentan cortes eléctricos y conectividad deficiente en Líbano y Sierra Leona como barreras que preceden cualquier discusión sobre alfabetización; Gonzabay-Jiménez et al. citan cifras de UNESCO para América Latina (27% de acceso a dispositivos compatibles con IA en universidades rurales) que sitúan el problema en un plano material, no cognitivo. Sin embargo, ninguno de los dos extremos —solo infraestructura, solo alfabetización— basta por sí solo. Segura Altamirano et al., en la revisión más grande del corpus (125 estudios), muestran que incluso cuando las instituciones sí invierten en formación docente, esa inversión casi no se traduce en transformación pedagógica real (r = 0,12, la \"paradoja de integración curricular\"). El diagnóstico compartido, entonces, no es que falte voluntad institucional, sino que las respuestas —ya sea prohibir, como en el caso australiano de Beckman et al. durante el vacío de política posterior al lanzamiento de ChatGPT, o capacitar sin rediseñar la pedagogía— tienden a tratar un problema de varios niveles con soluciones de un solo nivel. Nakagomi et al. añaden una nota disonante al conjunto: en Japón, el motivo de no uso más citado no es la falta de acceso ni de habilidad, sino \"no la necesito\" (39,9%), lo que sugiere que en algunos contextos la brecha no es solo de oportunidad sino también de percepción de relevancia, una dimensión que ningún otro estudio del corpus mide directamente.",
       "path": "concepts/brecha-digital.md",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "concepts/cadenas-de-suministro-globales",
@@ -433,7 +433,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en tareas específicas; incluye benchmarks, comparativas entre modelos y estudios de capacidades emergentes.",
       "literature": "",
       "path": "concepts/capacidades-de-ia.md",
-      "degree": 68
+      "degree": 70
     },
     {
       "id": "concepts/ciencia-de-datos",
@@ -449,7 +449,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Campo interdisciplinario que combina estadística, programación y dominio de conocimiento para extraer información y valor de conjuntos de datos; incluye machine learning, visualización, inferencia bayesiana y análisis de texto.",
       "literature": "",
       "path": "concepts/ciencia-de-datos.md",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "concepts/ciencia-de-materiales",
@@ -618,7 +618,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Actitud de creer que un agente de IA ayudará a alcanzar los objetivos del usuario en situaciones de incertidumbre; predice la adopción y el uso rutinario de la IA y, vía sesgo de automatización, puede derivar en la aceptación acrítica de sus salidas.",
       "literature": "Cinco trabajos —tres estudios empíricos, una revisión que cita un informe de confianza pública, y un artículo de divulgación institucional— convergen en un diagnóstico compartido: la confianza en la IA rara vez está calibrada con la fiabilidad real del sistema, y esa brecha es el mecanismo que explica tanto la sobredependencia cognitiva como los riesgos éticos documentados en el corpus. El hallazgo más contundente proviene de Choudhuri et al., cuyo modelo PLS-SEM sobre 299 estudiantes STEM de cinco universidades muestra que la confianza predice fuertemente el uso rutinario de la genAI (β = 0.64) y que este, a su vez, media casi por completo (VAF > 0.8) la caída en reflexión (β = −0.66), pensamiento crítico (β = −0.41) y necesidad de comprensión (β = −0.21). El dato más inquietante de ese estudio es que los rasgos que STEM valora como indicadores de preparación profesional —tolerancia al riesgo, autoeficacia computacional, motivación tecnofílica— predicen mayor uso y, por tanto, mayor desenganche cognitivo: la confianza no protege a los mejor preparados, los expone más.\n\nLiu, Fan y Pan documentan el mismo fenómeno desde una óptica cualitativa y en un dominio distinto (programación en Java, un semestre, teoría fundamentada). Su corpus de interacción revela una \"Ilusión de Diálogo\": los estudiantes narran su relación con Copilot como colaboración de un tutor 24/7, mientras los logs muestran que el 75% de los prompts fueron delegación transaccional de un solo paso. Dos patrones de confianza mal calibrada emergen según la experiencia: los novatos exhiben \"Trust-but-Can't-Verify\" (confían porque no tienen la base para verificar), y los estudiantes avanzados sufren el \"Boilerplate Blindspot\" (delegan acríticamente el código que juzgan trivial, y ahí es donde aparecen los defectos). Ambos casos son formas distintas de la misma \"calibración metacognitiva atenuada\": la confianza en la propia competencia se desacopla de la capacidad real sin asistencia.\n\nJamal Eddine et al. sitúan este mismo problema en un nivel estructural: dentro de su mapeo de evidencia sobre brecha digital y GenAI, señalan que la \"sobreconfianza\" estudiantil surge cuando la confianza en la adopción supera la preparación institucional y la capacitación docente, una \"paradoja de adopción\" que citan del Trust in AI Report 2025 (Melbourne/KPMG) y que resulta más aguda en economías emergentes. Es una lectura complementaria, no contradictoria, a la de Choudhuri y Liu et al.: donde estos últimos ven la descalibración como un fenómeno psicológico individual, Jamal Eddine la ve como un desfase institucional —la infraestructura de gobernanza no alcanza al ritmo de adopción—, y Georgieva y Stuart, desde EDUCAUSE, proponen la respuesta normativa a ese mismo desfase: la confianza no debe darse por sentada ni construirse solo por default de mercado, sino cultivarse deliberadamente mediante gobernanza (su propuesto Comité Institucional de Revisión Ética, AIERB) y principios explícitos de transparencia y rendición de cuentas, precisamente porque perciben que \"acelerar la creatividad\" sin marcos éticos \"arriesga... erosionar relaciones educativas\" y desplazar a los docentes de mentores a monitores.\n\nEl estudio de Cheung, Maier y Lieder aporta la pieza que explica por qué esa confianza acrítica es, en efecto, arriesgada: al comparar las decisiones morales de GPT-4, Llama 3.1-Instruct y Claude 3.5 Sonnet con las de participantes humanos, encuentran que los LLMs exhiben un sesgo de omisión muchísimo más marcado que las personas (~45 puntos porcentuales de diferencia entre elegir la opción de costo-beneficio según coincida con acción u omisión, frente a apenas ~5 puntos en humanos) y un \"sesgo sí-no\" no observado en personas, que hace que el consejo del modelo cambie según cómo se formule la pregunta. Cruzan menos de 0.7 de correlación con las respuestas humanas en la mayoría de dilemas —evidencia de que los LLMs no solo están más sesgados, sino que razonan de forma cualitativamente distinta— y localizan el origen del sesgo en el fine-tuning conversacional (RLHF), no en el preentrenamiento. Su conclusión explícita conecta directamente con el resto del corpus: la confianza acrítica en el consejo moral de un LLM puede amplificar sesgos humanos existentes e introducir sesgos enteramente nuevos. Leído junto a Choudhuri et al. y Liu et al., el conjunto sugiere que la confianza en la IA opera como un mecanismo único con manifestaciones en tres niveles —cognitivo (erosión de hábitos de pensamiento), procedimental (incapacidad de verificar lo delegado) y normativo (aceptación de juicios sesgados)— y que ninguno de los cinco estudios encuentra evidencia de que la experiencia previa, la pericia técnica o el nivel académico actúen como protección automática contra la descalibración.",
       "path": "concepts/confianza-en-la-ia.md",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "concepts/conservacion-de-la-naturaleza",
@@ -765,7 +765,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integración de información) a apoyos externos —herramientas, dispositivos o IA— en lugar de ejecutarlo internamente; en contextos de aprendizaje puede saltarse procesos mentales integrales a la formación de conocimiento (cognitive offloading, deuda cognitiva).",
       "literature": "",
       "path": "concepts/descarga-cognitiva.md",
-      "degree": 19
+      "degree": 20
     },
     {
       "id": "concepts/descubrimiento-cientifico",
@@ -1081,7 +1081,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Campo de investigación y práctica sobre la enseñanza y el aprendizaje en las profesiones de la salud (medicina, odontología/estomatología, enfermería); incluye formación de competencias clínicas, evaluación del desempeño y la integración de tecnologías educativas.",
       "literature": "",
       "path": "concepts/educacion-medica.md",
-      "degree": 6
+      "degree": 8
     },
     {
       "id": "concepts/educacion-superior",
@@ -1095,7 +1095,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "literature": "",
       "path": "concepts/educacion-superior.md",
-      "degree": 164
+      "degree": 165
     },
     {
       "id": "concepts/electrofisiologia",
@@ -1182,7 +1182,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Diseño experimental en que los participantes son asignados aleatoriamente a condiciones de tratamiento o control; estándar de oro para establecer causalidad en intervenciones.",
       "literature": "",
       "path": "concepts/ensayo-controlado-aleatorio.md",
-      "degree": 18
+      "degree": 19
     },
     {
       "id": "concepts/ensenanza-basada-en-evidencia",
@@ -1367,7 +1367,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.",
       "literature": "",
       "path": "concepts/evaluacion-educativa.md",
-      "degree": 133
+      "degree": 136
     },
     {
       "id": "concepts/evolucion-cultural",
@@ -1539,7 +1539,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Preparación y desarrollo profesional continuo del profesorado; incluye la formación inicial (pre-servicio) y en ejercicio (in-service) de docentes, así como el diseño de programas de capacitación en habilidades pedagógicas, digitales y de competencias en IA.",
       "literature": "",
       "path": "concepts/formacion-docente.md",
-      "degree": 59
+      "degree": 60
     },
     {
       "id": "concepts/fotografia-callejera",
@@ -1660,7 +1660,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Técnica que enriquece las respuestas de un LLM recuperando información relevante de una fuente externa e insertándola como contexto en el prompt; reduce alucinaciones y aporta datos de dominio; incluye la variante basada en grafos (graph-RAG).",
       "literature": "",
       "path": "concepts/generacion-aumentada-por-recuperacion.md",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "concepts/genomica",
@@ -1897,7 +1897,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Métodos para hacer interpretables las decisiones de modelos de IA; incluye mapas de saliencia/localización (Grad-CAM), importancia de variables y explicaciones post-hoc.",
       "literature": "Los cuatro documentos del corpus —un white paper multi-actor de la EFCE/SFGP, un estudio técnico de monitoreo de biorreactores (Mao et al.), un artículo de perspectiva sobre IA generativa responsable (Daniel y Xuan) y una declaración de política profesional (NSPE)— convergen en tratar la explicabilidad no como un atributo técnico opcional sino como condición de confianza necesaria para que la IA opere en dominios de seguridad crítica de la ingeniería. La EFCE/SFGP diagnostica una \"estancación de la confianza\" (trust stagnation) frente a los modelos data-driven, opacos por naturaleza, y la contrapone a la causalidad transparente de los modelos físicos; su respuesta es promover modelos híbridos y técnicas post-hoc (valores de Shapley, coordenadas paralelas) para recuperar interpretabilidad sin renunciar a la capacidad predictiva del aprendizaje automático. Mao et al. materializan esa misma lógica en un caso aplicado: para que operadores de campo confíen en un clasificador de humo basado en ResNet-50, añaden mapas de calor Grad-CAM++ que localizan visualmente la región de humo detectada, lo que no solo genera confianza sino que revela una fuente sistemática de error (falsas alarmas por cielos muy brillantes), permitiendo su corrección. Daniel y Xuan generalizan el argumento: la explicabilidad (XAI) es uno de los tres pilares tecnológicos —junto con reducción de sesgos en datos y verificación de resultados— de lo que llaman \"trustworthy AI\" (definición de la UE: legal, ética y robusta), y advierten que los modelos de caja negra \"erosionan la confianza experta\", rompiendo la cadena de confianza entre entrada y salida en aplicaciones como generación de P&IDs o HAZOPs automatizados.\n\nDonde el corpus técnico se detiene en la confianza operativa, la NSPE la eleva a un requisito de gobernanza: exige que los sistemas de IA con impacto en la seguridad pública sean \"transparentes, explicables y rindan cuentas\", y liga explícitamente esa exigencia al modelo de licenciatura profesional (Professional Engineer) ya existente en ingeniería. Los cuatro textos coinciden en que la explicabilidad es la bisagra entre capacidad predictiva y responsabilidad profesional: sin ella, ni el operador de planta ni el regulador pueden ejercer la supervisión humana que las cuatro fuentes —cada una desde su propio registro, técnico o normativo— consideran indispensable.",
       "path": "concepts/ia-explicable.md",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "concepts/impacto-de-investigacion",
@@ -1965,7 +1965,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LLM para obtener respuestas precisas y útiles; incluye estrategias como zero/few-shot, chain-of-thought y plantillas estructuradas.",
       "literature": "",
       "path": "concepts/ingenieria-de-prompts.md",
-      "degree": 23
+      "degree": 25
     },
     {
       "id": "concepts/ingenieria-de-sistemas",
@@ -2080,7 +2080,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "literature": "",
       "path": "concepts/inteligencia-artificial.md",
-      "degree": 278
+      "degree": 282
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -2263,7 +2263,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Paradigma de práctica clínica que integra la mejor evidencia científica disponible con la experiencia clínica y las preferencias del paciente para guiar la toma de decisiones médicas; incluye debates sobre jerarquía de evidencia, sesgos en la investigación y límites del ensayo clínico aleatorio.",
       "literature": "Makary y Offit, aunque escriben desde géneros distintos —el primero como cirujano en ejercicio, el segundo como investigador de vacunas convertido en historiador de la ciencia—, catalogan el mismo fenómeno desde ángulos complementarios: consensos médicos institucionalizados que resultaron erróneos y que tardaron décadas en corregirse. Makary documenta casos donde la recomendación oficial produjo directamente el daño que pretendía evitar: la indicación de 1999 de evitar el maní en la dieta infantil generó, según sostiene, la propia epidemia de alergia que intentaba prevenir; el abandono masivo de la terapia de reemplazo hormonal tras un estudio del NIH de 2002 malinterpretado causó, en su lectura, decenas de miles de muertes cardíacas evitables en mujeres que sí se habrían beneficiado del tratamiento. A esto suma el dogma infundado sobre el colesterol del huevo, la prescripción de antibióticos bajo el supuesto de que \"no tienen efectos secundarios\", y el error de atribuir el cáncer de ovario al propio ovario en vez de a las trompas de Falopio. Su cifra más provocadora —que el 40% de las prácticas médicas aceptadas no resistiría un escrutinio riguroso— funciona como síntesis cuantitativa de todo el catálogo.\n\nOffit documenta un patrón estructuralmente idéntico pero en la ciencia biomédica más amplia: una idea prometedora (el opio como analgésico seguro convertido en OxyContin mediante estudios manipulados; la lobotomía prefrontal, que le valió a Egas Moniz el Nobel de 1949 sin evidencia sólida de eficacia; las megadosis de vitamina C promovidas por el prestigio de Linus Pauling) se institucionaliza como dogma y la evidencia contraria queda suprimida o ignorada durante años, a veces décadas. Ambos autores coinciden en el diagnóstico causal: no es la ciencia la que falla, sino los mecanismos —prestigio individual, presión de conformidad, financiamiento sesgado hacia la industria, periodismo científico que amplifica sin escrutinio— que deberían incentivar la autocorrección temprana y no lo hacen. Makary lo llama *groupthink* médico y cultura de obediencia; Offit, dogmatismo que sustituye a la evidencia. El caso de Barry Marshall y el *H. pylori* que cita Makary —marginado por años hasta que la evidencia se volvió innegable— es el mismo arquetipo narrativo que estructura los ocho capítulos de Offit.\n\nDonde el corpus se vuelve más interesante es en su punto de fricción. Offit, al defender que la prohibición global del DDT impulsada por Rachel Carson fue una sobrecorrección que costó millones de vidas por paludismo en el mundo en desarrollo, complica la narrativa simple de \"dogma institucional vs. disidente correcto\": el reformador que desafía el consenso no es automáticamente el que tiene razón, y el propio libro reconoce que la mayoría de epidemiólogos y ecólogos rechaza esta lectura del impacto de *Silent Spring*. Es una autocrítica que Makary no se aplica a sí mismo: su libro narra con entusiasmo casos donde el disenso resultó vindicado, pero —como notan las limitaciones de ambas notas— ninguno de los dos autores examina con el mismo rigor los mecanismos por los cuales el propio sistema médico sí termina corrigiendo sus errores; documentan el fallo mejor de lo que documentan la reparación.\n\nRoach aporta una capa distinta pero convergente: una historia de cómo la evidencia médica se ha construido literalmente a partir de cuerpos, y de cómo el tabú cultural —no la falta de método científico— ha sido históricamente la barrera principal para generarla. El robo de cadáveres en la Gran Bretaña del siglo XIX (el caso Burke y Hare) surgió porque la oferta legal de cuerpos para las escuelas de anatomía no alcanzaba a cubrir la demanda de conocimiento médico verificable; los maniquíes de prueba de impacto hechos con cadáveres desde los años cincuenta generaron, mediante observación empírica directa y no por deducción teórica, la evidencia que fundamenta cinturones de seguridad y zonas de deformación controlada. Leído junto a Makary y Offit, el patrón compartido por los tres libros es que la medicina basada en evidencia no avanza por default: requiere superar activamente barreras no científicas —tabú cultural en Roach, prestigio y conformidad institucional en Makary y Offit— y esas mismas barreras, cuando ceden, tienden a hacerlo tarde y por presión externa, no por autocorrección interna del sistema.",
       "path": "concepts/medicina-basada-en-evidencia.md",
-      "degree": 4
+      "degree": 5
     },
     {
       "id": "concepts/memoria-historica",
@@ -2414,7 +2414,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Energía, impulso y conductas que sostienen la participación, el esfuerzo y la persistencia del estudiante en el aprendizaje; el compromiso (engagement) es multidimensional (cognitivo, conductual, emocional y de agencia) y se distingue de los resultados de aprendizaje.",
       "literature": "",
       "path": "concepts/motivacion-y-compromiso-estudiantil.md",
-      "degree": 23
+      "degree": 24
     },
     {
       "id": "concepts/nanociencia",
@@ -2714,7 +2714,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Campo de la IA que permite a las máquinas analizar, interpretar y generar lenguaje humano; incluye embeddings (BERT, Word2Vec, TF-IDF), clasificación y clustering de texto, y modelos de lenguaje.",
       "literature": "A nivel de mecanismo, los detectores de texto generado por IA son clasificadores binarios entrenados o calibrados sobre una señal estadística concreta: la perplejidad, es decir, cuán predecible resulta la siguiente palabra para un modelo de lenguaje de referencia. Weber-Wulff et al. (2023) prueban 14 de estas herramientas como sistemas de clasificación puros —sin mirar aún a quién clasifican— y muestran que su exactitud (ninguna supera 80%) colapsa ante perturbaciones adversariales del texto: la paráfrasis automática con Quillbot la hunde a ~26%. Liang et al. (2023) identifican el mecanismo causal exacto: los detectores dependen de la perplejidad, y basta pedirle a ChatGPT que \"eleve\" el registro léxico de un texto para desplazar su perplejidad y evadir la detección casi por completo. Al Ali, Helcl y Libovický (2026) llevan el análisis técnico un paso más allá construyendo ellos mismos tres familias de detectores para checo —un clasificador clásico (Naïve Bayes sobre características TF-IDF), un transformer afinado (RobeCzech) y un sistema comercial de caja negra— y midiendo directamente la correlación entre entropía y salida del detector (|ρ| ≤ 0.2): encuentran que los detectores contemporáneos ya no dependen sustancialmente de la perplejidad, y que la propia estimación de entropía es sensible a la elección del modelo de referencia (Llama 3.2 1B en vez de GPT-2, que rinde mal en checo por su morfología).\n\nEl modelado automatizado de tópicos revela otra capa del mecanismo: cómo el PLN estructura un corpus sin intervención humana directa. Cibu et al. (2025) triangulan dos técnicas de naturaleza distinta —LDA, que asigna documentos a temas mediante distribuciones probabilísticas de palabras (bag-of-words), y BERTopic, que agrupa por similitud semántica en un espacio de embeddings— sobre 507 papers: ambas convergen en tres de cuatro temas, pero BERTopic no aísla un clúster ético propio, evidencia de que el \"significado\" que captura un modelo basado en embeddings no es idéntico al que captura un modelo basado en co-ocurrencia léxica. La misma lógica de embeddings-más-clustering aparece como instrumento metodológico en otras notas: Yang et al. (2026) vectorizan respuestas abiertas de encuesta con embeddings de OpenAI (3072 dimensiones), reducen con UMAP y agrupan con HDBSCAN, dejando que un LLM etiquete los clústeres resultantes; Lee et al. (2026) usan embeddings BERT para alinear y puntuar por similitud coseno hojas HAZOP generadas por IA frente a una referencia experta, y PCA + K-means para juzgar la validez semántica de los escenarios generados (con tasas de validez de apenas 19-37%); Prilop et al. (2025) combinan un modelo de análisis de sentimiento preentrenado (Asent) con un LLM (Llama 3.1 8b) como apoyo al análisis temático cualitativo.\n\nFinalmente, el propio mecanismo generativo —predicción del siguiente token— deja huellas medibles en el texto producido. Kerche, Zook y Graham (2026) describen el \"sesgo de patrón\" como consecuencia directa de que el motor de LLMs optimiza por la continuación estadísticamente modal, mecánicamente reforzando regularidades léxicas del corpus de entrenamiento. Kosmyna et al. (2025) observan esa misma huella empíricamente en los ensayos del grupo que escribió con ChatGPT: mediante reconocimiento de entidades nombradas, n-gramas y ontología de temas encuentran una homogeneidad marcada entre ensayos, convergentes hacia la respuesta \"por defecto\" del modelo — el rastro lingüístico directo del mecanismo autorregresivo, no ya su efecto cognitivo (cubierto en otro concepto).",
       "path": "concepts/procesamiento-de-lenguaje-natural.md",
-      "degree": 25
+      "degree": 26
     },
     {
       "id": "concepts/profesion-de-la-ingenieria",
@@ -2873,7 +2873,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Sistema de producción y distribución de conocimiento científico a través de revistas revisadas por pares; incluye debates sobre acceso abierto, paywalls, tiempos de publicación y sesgos editoriales.",
       "literature": "Los tres textos del corpus convergen, desde ángulos distintos, en una misma pregunta: ¿qué garantiza hoy el sistema de publicación académica —y qué certifica en realidad cuando aprueba un manuscrito? Lu et al. la plantean de la forma más directa al automatizar el ciclo completo de investigación: su AI Scientist no solo redacta artículos sino que los somete a revisión real, y en el workshop ICBINB de ICLR 2025 logra una tasa de aceptación del 70% (frente al 48% de línea base del workshop), con un manuscrito que supera el umbral de aceptación (6.33 sobre 6). Su Automated Reviewer, con 66-69% de balanced accuracy, iguala aproximadamente a revisores humanos. El hallazgo es inquietante no porque el sistema produzca ciencia excelente —los propios autores documentan ideas derivadas, resultados confabulados y figuras duplicadas— sino porque demuestra que pasar peer review, entendido como filtro de calidad, no requiere necesariamente una contribución intelectual genuina: basta con producir un texto que emule convincentemente las convenciones del género.\n\nSlimi documenta, desde el terreno de las políticas editoriales, que esa brecha entre forma y sustancia ya se está institucionalizando. Su revisión de 54 estudios y 6 documentos de política (2023-2025) encuentra que, mientras ICMJE y los editores rechazan formalmente la coautoría de la IA —la autoría sigue siendo, en el papel, prerrogativa humana—, la práctica real ya opera como colaboración híbrida humano-IA no declarada, con fragmentación marcada en las políticas de divulgación entre disciplinas (70% de revistas de enfermería exigen declarar el uso de IA, frente a apenas 46,7% en cirugía plástica). Más grave aún: según Slimi, la GenAI actúa como acelerante de paper mills y predatory publishing, es decir, exactamente el mecanismo que permite inflar el volumen de publicación sin inflar el conocimiento genuino. La respuesta institucional dominante —la detección tecnológica— resulta poco confiable (falsos positivos elevados contra escritores no nativos, vulnerabilidad al parafraseo adversarial), lo que deja al sistema sin una defensa robusta frente al problema que Lu et al. demuestran empíricamente que es posible: producir ciencia aparente a escala.\n\nChaplin completa el cuadro desde el extremo opuesto, sin mencionar la IA en absoluto: incluso la investigación humana, genuina y publicada en las revistas correctas, puede fallar en su propósito último. Relata que uno de sus papers tardó ocho años entre el envío y la publicación, y que el sistema de paywalls y silos disciplinares mantuvo su trabajo —relevante para padres y educadores— fuera del alcance de quienes lo necesitaban. Su pregunta organizadora, \"¿quién está leyendo mi trabajo?\", es el reverso exacto de la que plantean Lu et al. y Slimi: no si un texto logra pasar el filtro editorial, sino si haberlo pasado significa algo. Leídas en conjunto, las tres fuentes sugieren que la legitimidad que certifica la publicación académica —vía peer review, autoría declarada o aceptación en revista indexada— se ha vuelto una señal cada vez más desacoplada tanto de la calidad real de la contribución (que la IA ya puede simular) como de su impacto efectivo en el mundo (que ni siquiera la investigación humana rigurosa garantiza). La lógica de \"publish or perish\" que Chaplin nombra explícitamente como fuente de burnout es, en este sentido, el mismo sistema de incentivos que vuelve rentable, para actores maliciosos, usar GenAI para inflar el volumen de publicación, según documenta Slimi.",
       "path": "concepts/publicacion-academica.md",
-      "degree": 4
+      "degree": 5
     },
     {
       "id": "concepts/pueblo-gitano",
@@ -2939,7 +2939,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Capacidad de los modelos de IA para integrar y razonar sobre múltiples modalidades (texto, imágenes, diagramas, fórmulas); incluye la interpretación de figuras científicas, diagramas de proceso y notación matemática.",
       "literature": "Las tres fuentes del corpus abordan el razonamiento multimodal desde ciencias duras —física, termodinámica, química— donde interpretar un diagrama o mapear una geometría a una cantidad física no es un adorno sino el núcleo mismo de la tarea, y sin embargo llegan a valoraciones muy distintas de cuán resuelta está esa capacidad. Tufino y Gregorcic la muestran funcionando: su Gem de Gemini 2.5 Pro, configurado mediante \"role engineering\" como tutor socrático, interpreta correctamente un diagrama de fuerzas dibujado a mano por un estudiante y lo confronta contra reglas notacionales específicas (notación de dos subíndices) cargadas en un archivo de \"Knowledge\", guiándolo hasta corregir las etiquetas erróneas. Geißler et al., en cambio, la someten a prueba sistemática y encuentran una falla profunda: en su benchmark UTQA, 19 LLMs contemporáneos promedian 67% en preguntas de solo texto sobre termodinámica pero caen a 32% —cerca del azar— en preguntas que exigen leer diagramas p–V, T–S o H–p, y ni siquiera el mejor modelo (gpt-o3, 82% global) alcanza el umbral de fiabilidad del 95% que los autores fijan como mínimo para tutoría no supervisada.\n\nLa tensión entre ambos hallazgos es reveladora antes que contradictoria. Geißler et al. nombran el problema con precisión: un déficit de \"binding\" multimodal —los modelos sí extraen rasgos visuales de bajo nivel (ejes, curvatura, segmentación) pero fallan al ligar esa geometría a su significado termodinámico, como reconocer que un área con signo bajo una curva p–V representa trabajo. El caso exitoso de Tufino y Gregorcic no refuta esto; más bien sugiere una condición para que el binding funcione: su diagrama es único, cuidadosamente curado por el instructor, acompañado de reglas notacionales explícitas y evaluado dentro de un diálogo iterativo donde el propio tutor puede detectar y corregir errores sobre la marcha. Es, en otras palabras, razonamiento multimodal fuertemente andamiado, no la capacidad genérica que UTQA pone a prueba con 17 diagramas variados y sin apoyo adicional. Los mismos autores del caso exitoso lo admiten indirectamente al insistir en que el desempeño de la IA es una \"simulación convincente de comprensión\", no cognición genuina, y en que persiste una tasa de inexactitud factual —eco directo de los patrones de error que Geißler et al. documentan con más rigor cuantitativo (anclaje a valores de libro de texto, uso indebido de plantillas cuasiestáticas).\n\nYuriev, Wink y Holme, desde el editorial que introduce el marco CATALyST para química, confirman que este panorama aún es incipiente: ubican la \"multimodalidad\" (capacidad de manejar entradas visuales) como un avance tecnológico apenas emergente dentro de la dimensión \"Technology\", junto al razonamiento sobre mecanismos de reacción orgánica, y señalan que el impacto de la IA generativa sobre las \"operaciones cognitivas\" —donde encajaría el razonamiento multimodal— sigue siendo, a la fecha del editorial, un área abierta más que resuelta. Leídas juntas, las tres fuentes trazan una misma curva: la multimodalidad es la frontera donde la IA generativa en ciencias duras se muestra más prometedora en demostraciones acotadas y más frágil cuando se evalúa a escala.",
       "path": "concepts/razonamiento-multimodal.md",
-      "degree": 4
+      "degree": 5
     },
     {
       "id": "concepts/realidades-multiples",
@@ -2994,7 +2994,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA.",
       "literature": "",
       "path": "concepts/regulacion-de-ia.md",
-      "degree": 62
+      "degree": 63
     },
     {
       "id": "concepts/replicabilidad-cientifica",
@@ -3049,7 +3049,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico.",
       "literature": "",
       "path": "concepts/retroalimentacion-con-ia.md",
-      "degree": 53
+      "degree": 54
     },
     {
       "id": "concepts/revision-sistematica-de-literatura",
@@ -3099,7 +3099,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Relación entre las condiciones sociales, culturales y económicas y los resultados de salud de las personas; incluye determinantes sociales de la salud, desigualdades sanitarias y crítica a los modelos puramente biomédicos.",
       "literature": "Nueve notas tocan la salud, pero la mayoría de lo que dicen sobre error clínico, epistemología del riesgo, trauma individual, política de género y desigualdad de género ya está sintetizado en otros conceptos del vault. El hilo genuinamente propio de \"salud y sociedad\" —el que sobrevive al filtrar esos ángulos— es más estrecho pero real: la salud como fenómeno poblacional que se gobierna interviniendo sobre el entorno, no sobre el individuo, y que se mide en aritmética agregada, no en historias clínicas singulares.\n\nEl caso más literal es ambiental. Meléndez-Plata et al. documentan cómo el H2S, el NH3 y los compuestos volátiles de azufre generados por la actividad microbiana y los vertidos industriales degradan la calidad del agua y amenazan la salud pública de las comunidades ribereñas; su estudio de caso del río Bogotá muestra que la solución no es tratar a los afectados sino rediseñar el entorno —biofiltros, biopercoladores, marcos regulatorios— para que el agua deje de producir el daño. Offit ofrece, desde otro dominio, el mismo patrón a escala planetaria: la síntesis de amoniaco de Haber y Bosch permitió alimentar a más de siete mil millones de personas, pero la sobreacumulación de nitrógeno en suelos y aguas es hoy una crisis ambiental que amenaza la salud colectiva que la propia innovación hizo posible —el doble filo de intervenir sobre el entorno a escala masiva sin poder calibrar después la dosis.\n\nLa misma lógica de intervención ambiental, aplicada al comportamiento en vez de a la química, aparece en Reinoso-Carvalho y Reyes: frente a que el 35% de los consumidores de alcohol en Colombia tiene hábitos perjudiciales, su experimento no apela a la fuerza de voluntad individual sino a rediseñar la experiencia sensorial del producto —un sonido de botella vertida— para desplazar el consumo hacia la cerveza sin alcohol. Gladwell documenta el mismo principio en un registro más sombrío: el \"acoplamiento\" entre un acto riesgoso y su contexto material —el suicidio de Sylvia Plath ligado al gas doméstico británico, o el patrullaje de micro-zonas específicas en los experimentos de Kansas City— muestra que remover el medio o concentrar la intervención en el lugar reduce el daño poblacional más que cualquier tratamiento dirigido a la persona. Haidt aplica esa misma gramática a la crisis de salud mental adolescente: sus reformas propuestas (edad mínima de acceso al teléfono, escuelas libres de pantallas) no tratan la ansiedad individual sino que buscan cambiar las condiciones estructurales de una generación entera, documentando el \"tsunami\" de sufrimiento como estadística sincronizada en decenas de países, no como caso clínico.\n\nDos notas aportan la contracara: la aritmética poblacional que documenta cuándo esas intervenciones fallan o son necesarias precisamente porque el entorno castiga de forma desigual. Reeves cuantifica que las \"muertes de desesperación\" —sobredosis, suicidio, enfermedades relacionadas con el alcohol— son casi tres veces más frecuentes en hombres de clase trabajadora que en mujeres en situación comparable, un patrón de mortalidad que responde a la desindustrialización, no a decisiones clínicas individuales. Roach cierra el hilo desde un ángulo casi opuesto: la sociedad regula —mal, según ella— el destino de los cuerpos muertos, y esa regulación cultural tiene consecuencias públicas concretas, desde la escasez histórica de cadáveres para la enseñanza anatómica hasta las opciones de disposición final disponibles hoy para cualquier ciudadano; es, también, salud gobernada a nivel de política y tabú colectivo, no de decisión médica individual.",
       "path": "concepts/salud-y-sociedad.md",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "concepts/satira",
@@ -3171,7 +3171,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Reproducción y amplificación sistemática de desigualdades por parte de sistemas algorítmicos y de IA (sesgos demográficos, geográficos, de género o de representación), y el estudio de la equidad (fairness) para medirlos y mitigarlos; incluye auditoría de algoritmos y definiciones formales de justicia.",
       "literature": "Los cuatro estudios convergen en el mismo mecanismo aplicado a dominios distintos: el sesgo no es un error técnico corregible sino un reflejo de la composición desigual de los datos de entrenamiento. Kerche et al., tras auditar 20,3 millones de consultas a GPT-4o-mini, lo nombran \"sesgo de disponibilidad\" (privilegio de fuentes anglófonas del Norte Global) y \"sesgo de patrón\" (la predicción del siguiente token reproduce regularidades modales, como \"finlandeses inteligentes\"). Gerteis describe el mismo fenómeno sin tipificarlo: los LLM \"heredan el emplotment\" sobrerrepresentado en enciclopedias, aplanando la historia hacia un cierre reconciliatorio aunque el archivo resista — disponibilidad y patrón operando sobre narrativa, no geografía. Yin et al. sitúan la misma raíz en la educación: el sesgo histórico de admisiones que favorecen escuelas privilegiadas y el sesgo de medición que califica más bajo el inglés vernáculo afroamericano son, como en Kerche et al., desigualdades ya existentes codificadas en los datos.\n\nYin et al. y Tomisu et al. comparten además un riesgo educativo concreto: penalizar estilos retóricos no estándar. Yin et al. lo documentan empíricamente; Tomisu et al. lo anticipan, sin probarlo, como límite reconocido de su propio TQI. El corpus se bifurca en la solución: Yin et al. confían en métricas formales de fairness (SPD, EO, Concordance Imparity), mientras Kerche et al. las rechazan —el sesgo es \"intrínseco e inextricable\", un problema de poder— y Gerteis, desde la historia, tampoco confía en la corrección algorítmica sino en la responsabilidad humana auditable.",
       "path": "concepts/sesgo-algoritmico.md",
-      "degree": 27
+      "degree": 28
     },
     {
       "id": "concepts/sesgo-cognitivo",
@@ -3260,7 +3260,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario acepta sus salidas sin verificarlas y delega en exceso el esfuerzo propio; se asocia con erosión de habilidades, pérdida de agencia y aprendizaje superficial (over-reliance).",
       "literature": "",
       "path": "concepts/sobredependencia-de-la-ia.md",
-      "degree": 26
+      "degree": 27
     },
     {
       "id": "concepts/sostenibilidad",
@@ -3293,7 +3293,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "La participación activa de personas en el control, validación y orientación de sistemas automatizados o de IA; garantiza que los errores sean detectados y que las decisiones tengan anclaje ético.",
       "literature": "",
       "path": "concepts/supervision-humana.md",
-      "degree": 100
+      "degree": 103
     },
     {
       "id": "concepts/surrealismo",
@@ -9771,6 +9771,37 @@ window.__ACADEMIC_BRAIN__ = {
       "pdf_local": "sources/pdfs/engineering-education/hope-2026-chatgpt-estatica-ingenieria.pdf"
     },
     {
+      "id": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes",
+      "kind": "paper",
+      "label": "Assessing a large language model for glaucoma knowledge: ChatGPT-5 versus residents",
+      "authors": [
+        "Mauro Gobira",
+        "Rodrigo Moreira",
+        "Flavio J. L. Galhardo Carvalho Filho",
+        "Kevin Waquim Pessoa Carvalho",
+        "Francisco N. Murta",
+        "Lucas Antônio Avelar Carvalho",
+        "Rubens Belfort Jr.",
+        "Ivan M. Tavares"
+      ],
+      "year": "2026",
+      "venue": "Arquivos Brasileiros de Oftalmologia",
+      "url": "https://doi.org/10.5935/0004-2749.2025-0283",
+      "doi": "10.5935/0004-2749.2025-0283",
+      "keywords": [
+        "capacidades-de-ia",
+        "educacion-medica",
+        "evaluacion-educativa",
+        "alucinaciones-de-ia",
+        "ingenieria-de-prompts",
+        "procesamiento-de-lenguaje-natural",
+        "inteligencia-artificial"
+      ],
+      "date": "2026-07-09",
+      "path": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes.md",
+      "pdf_local": "sources/pdfs/capability-reliability/gobira-2026-chatgpt5-glaucoma-residentes.pdf"
+    },
+    {
       "id": "notes/papers/2026-01-01_clonacion-voz-ia-pedagogia-medica",
       "kind": "paper",
       "label": "Voice Cloning Using AI vs Traditional Audio Recording for Prerecorded Courses in Medical Pedagogy: Randomized Controlled Trial",
@@ -13703,6 +13734,43 @@ window.__ACADEMIC_BRAIN__ = {
       "pdf_local": "sources/pdfs/ai-education/xie_2026_ai-virtual-patients-dental-communication.pdf"
     },
     {
+      "id": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "kind": "paper",
+      "label": "When evidence meets artificial intelligence",
+      "authors": [
+        "Gustavo Adolfo Cruz-Suarez",
+        "Daniela Hincapié-Ayala",
+        "Felipe Ocampo Osorio",
+        "María Camila Gómez-Ayala",
+        "Sergio Alzate-Ricaurte",
+        "Fredy Ariza",
+        "Santiago Esteban",
+        "Sohyeon Jeon",
+        "Leo Anthony Celi"
+      ],
+      "year": "2026",
+      "venue": "The Lancet Regional Health - Americas",
+      "url": "https://doi.org/10.1016/j.lana.2026.101472",
+      "doi": "10.1016/j.lana.2026.101472",
+      "keywords": [
+        "medicina-basada-en-evidencia",
+        "inteligencia-artificial",
+        "ciencia-de-datos",
+        "ensayo-controlado-aleatorio",
+        "supervision-humana",
+        "confianza-en-la-ia",
+        "ia-explicable",
+        "sesgo-algoritmico",
+        "regulacion-de-ia",
+        "salud-y-sociedad",
+        "brecha-digital",
+        "publicacion-academica"
+      ],
+      "date": "2026-07-09",
+      "path": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial.md",
+      "pdf_local": "sources/pdfs/ai-science-society/cruzsuarez-2026-evidencia-medica-ia.pdf"
+    },
+    {
       "id": "notes/papers/2026-07-02_alginato-biofilm-probioticos",
       "kind": "paper",
       "label": "Alginate-based biofilm-assisted encapsulation of a Co-culture of Bifidobacterium longum DSM20219 and Bacillus subtilis SOM8 enhances resistance to gastrointestinal stress",
@@ -14284,6 +14352,37 @@ window.__ACADEMIC_BRAIN__ = {
       "pdf_local": "sources/pdfs/trofimenko2026-poros-transitorios-cpp.pdf"
     },
     {
+      "id": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "kind": "paper",
+      "label": "Artificial intelligence and feedback in university education: effectiveness and student perceptions",
+      "authors": [
+        "Valentina Grion",
+        "Beatrice Doria",
+        "Daniele Agostini",
+        "Giorgia Slaviero"
+      ],
+      "year": "2026",
+      "venue": "Assessment & Evaluation in Higher Education",
+      "url": "https://doi.org/10.1080/02602938.2026.2697962",
+      "doi": "10.1080/02602938.2026.2697962",
+      "keywords": [
+        "retroalimentacion-con-ia",
+        "evaluacion-educativa",
+        "educacion-superior",
+        "aprendizaje-activo",
+        "formacion-docente",
+        "ingenieria-de-prompts",
+        "generacion-aumentada-por-recuperacion",
+        "autorregulacion-del-aprendizaje",
+        "supervision-humana",
+        "motivacion-y-compromiso-estudiantil",
+        "inteligencia-artificial"
+      ],
+      "date": "2026-07-09",
+      "path": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones.md",
+      "pdf_local": "sources/pdfs/assessment-redesign/grion-2026-ia-retroalimentacion-universidad.pdf"
+    },
+    {
       "id": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
       "kind": "paper",
       "label": "Experimental Evidence on the Learning Impact of Generative AI",
@@ -14331,6 +14430,38 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-07-13",
       "path": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2.md",
       "pdf_local": "sources/pdfs/learning-impact-evidence/han2026-ia-escritura-colaborativa-l2.pdf"
+    },
+    {
+      "id": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
+      "kind": "paper",
+      "label": "Artificial intelligence for improving cardiovascular surgery training: A multiyear national exam analysis",
+      "authors": [
+        "Bedirhan Buğra Bayıcı",
+        "Fatih Kızılyel",
+        "Hatice Şahin",
+        "Yüksel Atay",
+        "Mehmet Kaplan",
+        "Murat Sargın",
+        "Murat Bülent Rabuş"
+      ],
+      "year": "2026",
+      "venue": "Turkish Journal of Thoracic and Cardiovascular Surgery",
+      "url": "https://doi.org/10.4274/tjtcs.2026.2026-2-40",
+      "doi": "10.4274/tjtcs.2026.2026-2-40",
+      "keywords": [
+        "educacion-medica",
+        "evaluacion-educativa",
+        "capacidades-de-ia",
+        "razonamiento-multimodal",
+        "descarga-cognitiva",
+        "supervision-humana",
+        "sobredependencia-de-la-ia",
+        "alucinaciones-de-ia",
+        "inteligencia-artificial"
+      ],
+      "date": "2026-07-09",
+      "path": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes.md",
+      "pdf_local": "sources/pdfs/ai-education/bayici-2026-ia-cirugia-cardiovascular-examenes.pdf"
     },
     {
       "id": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
@@ -26678,6 +26809,41 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes",
+      "target": "concepts/educacion-medica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes",
+      "target": "concepts/ingenieria-de-prompts",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes",
+      "target": "concepts/procesamiento-de-lenguaje-natural",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-01-01_clonacion-voz-ia-pedagogia-medica",
       "target": "concepts/sintesis-de-voz",
       "kind": "keyword"
@@ -32713,6 +32879,66 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/medicina-basada-en-evidencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/ciencia-de-datos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/ensayo-controlado-aleatorio",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/confianza-en-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/ia-explicable",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/sesgo-algoritmico",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/regulacion-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/salud-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/brecha-digital",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
+      "target": "concepts/publicacion-academica",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-07-02_alginato-biofilm-probioticos",
       "target": "concepts/biomateriales",
       "kind": "keyword"
@@ -33348,6 +33574,61 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/retroalimentacion-con-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/educacion-superior",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/aprendizaje-activo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/formacion-docente",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/ingenieria-de-prompts",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/generacion-aumentada-por-recuperacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/motivacion-y-compromiso-estudiantil",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
       "target": "concepts/ensayo-controlado-aleatorio",
       "kind": "keyword"
@@ -33451,6 +33732,51 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
       "target": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
       "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
+      "target": "concepts/educacion-medica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
+      "target": "concepts/evaluacion-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
+      "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
+      "target": "concepts/razonamiento-multimodal",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
+      "target": "concepts/descarga-cognitiva",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
+      "target": "concepts/supervision-humana",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
+      "target": "concepts/sobredependencia-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
+      "target": "concepts/alucinaciones-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
+      "target": "concepts/inteligencia-artificial",
+      "kind": "keyword"
     },
     {
       "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",

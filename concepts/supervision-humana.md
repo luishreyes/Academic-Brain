@@ -109,3 +109,6 @@ La participación activa de personas en el control, validación y orientación d
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap22-gobernanza]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion]]
+- [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]
+- [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]
+- [[notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes]]

@@ -282,3 +282,7 @@ Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de 
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
 - [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]
+- [[notes/papers/2026-01-01_chatgpt5-glaucoma-residentes]]
+- [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]
+- [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]
+- [[notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes]]

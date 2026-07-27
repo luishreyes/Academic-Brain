@@ -21,3 +21,4 @@ Yuriev, Wink y Holme, desde el editorial que introduce el marco CATALyST para qu
 - [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]
 - [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]
 - [[notes/papers/2026-01-01_chatgpt-estatica-ingenieria]]
+- [[notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes]]

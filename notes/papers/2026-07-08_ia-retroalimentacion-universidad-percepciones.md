@@ -5,7 +5,7 @@ year: 2026
 journal: Assessment & Evaluation in Higher Education
 url: https://doi.org/10.1080/02602938.2026.2697962
 doi: 10.1080/02602938.2026.2697962
-pdf_local:
+pdf_local: sources/pdfs/assessment-redesign/grion-2026-ia-retroalimentacion-universidad.pdf
 type: paper
 keywords: [retroalimentacion-con-ia, evaluacion-educativa, educacion-superior, aprendizaje-activo, formacion-docente, ingenieria-de-prompts, generacion-aumentada-por-recuperacion, autorregulacion-del-aprendizaje, supervision-humana, motivacion-y-compromiso-estudiantil, inteligencia-artificial]
 date_added: 2026-07-09

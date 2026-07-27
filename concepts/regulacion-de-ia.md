@@ -69,3 +69,4 @@ Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso d
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap18-empleo]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap22-gobernanza]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion]]
+- [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]

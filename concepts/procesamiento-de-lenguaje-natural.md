@@ -42,3 +42,4 @@ Finalmente, el propio mecanismo generativo —predicción del siguiente token—
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap15-trata-personas]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]
+- [[notes/papers/2026-01-01_chatgpt5-glaucoma-residentes]]

@@ -32,3 +32,5 @@ Diseño y refinamiento sistemático de las instrucciones (prompts) dadas a un LL
 - [[notes/papers/2026-01-01_chatgpt-estatica-ingenieria]]
 - [[notes/papers/2026-01-01_dataset-feedback-formativo-uml-llm]]
 - [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]
+- [[notes/papers/2026-01-01_chatgpt5-glaucoma-residentes]]
+- [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]

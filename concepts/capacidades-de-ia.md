@@ -76,3 +76,5 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 - [[notes/papers/2026-01-01_ia-preguntas-opcion-multiple-patologia]]
 - [[notes/papers/2026-01-01_chatgpt-estatica-ingenieria]]
 - [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]
+- [[notes/papers/2026-01-01_chatgpt5-glaucoma-residentes]]
+- [[notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes]]
