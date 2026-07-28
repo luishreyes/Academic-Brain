@@ -13,7 +13,11 @@ Vault para construir una base de conocimiento académico personal. Conecta paper
 | `notes/books/` | Notas de libros procesados |
 | `concepts/` | Una página por keyword/concepto (construye el grafo) |
 | `keywords.md` | Taxonomía canónica de palabras clave — fuente de verdad |
-| `docs/` | Visualizador web del grafo (GitHub Pages) |
+| `docs/` | Visualizador web del grafo y lector de boletines (GitHub Pages) |
+| `Noticias/` | Boletines semanales de IA en educación e ingeniería |
+| `Noticias-Biotec/` | Boletines semanales de investigación en biotecnología |
+| `rutinas/` | Prompts versionados de las dos Rutinas semanales |
+| `tools/` | Utilidades del vault (extracción de figuras de PDF) |
 
 ## Visualizador web (GitHub Pages)
 
@@ -24,6 +28,20 @@ El vault tiene su propio visualizador interactivo en `docs/`, servido por GitHub
 - `docs/graph-data.js` — datos del grafo (generado; no editar a mano).
 
 **Regla:** después de cualquier cambio en notas, conceptos o keywords, ejecutar `node docs/build.mjs` y commitear `docs/graph-data.js`. El comando `/ingest` ya hace esto en su paso 10.
+
+## Boletines (formato revista)
+
+Los boletines semanales se leen en `docs/noticias.html`, compuestos como revista según el sistema editorial "Comunicaciones Luis H": papel hueso, tinta densa, un pigmento plano por colección, la regla como elemento estructural.
+
+- `docs/formato-boletin.md` — **especificación del formato.** Frontmatter, bloques `cifras`, `cita`, `nota`, `figura` y `datos`, y reglas de estilo. Leerlo antes de escribir un boletín.
+- `docs/revista.css` — tokens y composición del lector.
+- `docs/build-noticias.mjs` — genera `docs/noticias-data.js` desde `Noticias/` y `Noticias-Biotec/`.
+- `docs/figuras/` — imágenes referenciadas por los bloques `figura`, con su nota de licencia.
+- `tools/extraer-figuras.py` — saca figuras de un PDF del vault hacia `docs/figuras/`.
+
+**Regla:** después de escribir o editar un boletín, ejecutar `node docs/build-noticias.mjs` y commitear `docs/noticias-data.js` junto al `.md`.
+
+**Limitación del entorno:** la política de red responde 403 a `arxiv.org`, `biorxiv.org`, `chemrxiv.org`, `ncbi.nlm.nih.gov` y `api.crossref.org`. No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP; queda WebSearch y los conectores de PubMed y Scholar Gateway.
 
 ## Dónde poner los PDFs
 
