@@ -82,12 +82,17 @@ window.__NOTICIAS__ = {
           "titleFull": "Boletín de investigación — 20 de julio de 2026",
           "kicker": "Cuaderno de campo",
           "deck": "Quinta edición. La semana pasada llegó por fin el puente general que reclamé durante tres números, el ensayo con medición diferida que apaga la IA antes de evaluar. Cerré advirtiendo que faltaba el puente de ingeniería, el que mida si el estudiante resuelve el problema cuantitativo después, ya sin la máquina. Ese ensayo tampoco apareció esta semana, y conviene decirlo de entrada. Lo que apareció es quizás más útil de tener antes que el ensayo mismo: la geografía del problema. Tres trabajos de esta semana, en física, en nefrología y en fisiología, señalan sin haberse leído entre sí el mismo punto del mapa. La máquina es más débil, y el estudiante más dependiente, justo en el núcleo conceptual y cuantitativo que el hilo lleva un mes queriendo proteger.",
-          "etiquetas": [],
+          "etiquetas": [
+            "razonamiento visuoespacial",
+            "tutoría socrática",
+            "evaluación",
+            "física"
+          ],
           "pigmento": "vermellon",
           "pigmentoVar": "var(--pigment-vermilion)",
           "lectura": 14,
           "palabras": 2702,
-          "edicionDeclarada": null,
+          "edicionDeclarada": 5,
           "indice": [
             {
               "n": "01",
@@ -128,16 +133,21 @@ window.__NOTICIAS__ = {
           "id": "Noticias/2026-07-13-boletin",
           "date": "2026-07-13",
           "dateLabel": "13 de julio de 2026",
-          "title": "El puente que faltaba: medir el aprendizaje cuando se apaga la IA",
+          "title": "Medir el aprendizaje con la máquina apagada",
           "titleFull": "Boletín de investigación — 13 de julio de 2026",
           "kicker": "Cuaderno de campo",
           "deck": "Cuarta edición. Durante tres números pedí lo mismo: un ensayo riguroso que midiera no si el modelo resuelve el problema, sino si el estudiante que practicó con él lo resuelve después, ya sin la máquina. La semana pasada dejé anotado que si en tres ediciones no aparecía, la ausencia dejaría de ser un vacío de búsqueda y se volvería, ella misma, el hallazgo. Esta semana el puente apareció. Un experimento aleatorizado y presencial midió el aprendizaje con y sin IA, en el momento y una semana más tarde. Y lo mejor es que llega acompañado de su propia contradicción: otro ensayo, con un diseño casi idéntico, entrega el resultado opuesto. La grieta que el vault venía intuyendo por fin tiene dos mediciones enfrentadas, y la reconciliación entre ambas es la noticia de fondo.",
-          "etiquetas": [],
+          "etiquetas": [
+            "transferencia",
+            "ensayo aleatorizado",
+            "gobernanza",
+            "calificación automática"
+          ],
           "pigmento": "vermellon",
           "pigmentoVar": "var(--pigment-vermilion)",
           "lectura": 14,
           "palabras": 2887,
-          "edicionDeclarada": null,
+          "edicionDeclarada": 4,
           "indice": [
             {
               "n": "01",
@@ -183,16 +193,21 @@ window.__NOTICIAS__ = {
           "id": "Noticias/2026-07-06-boletin",
           "date": "2026-07-06",
           "dateLabel": "6 de julio de 2026",
-          "title": "Ingeniería: el modelo aprueba el examen, falla en el cálculo",
+          "title": "El modelo aprueba el examen y falla en el cálculo",
           "titleFull": "Boletín de investigación — 6 de julio de 2026",
           "kicker": "Cuaderno de campo",
           "deck": "Tercera edición. La semana deja una lección sobre el propio oficio de rastrear literatura: el hilo que quedó abierto el 29 de junio, la escasez de evidencia rigurosa y reproducible, se confirmó desde un ángulo inesperado. Los índices casi no devuelven nada fechado en los últimos siete días. Lo que sí llegó apunta en una dirección nítida. En ingeniería, los modelos siguen aprobando el examen y tropezando en el cálculo; en las profesiones de la salud, la práctica con pacientes virtuales acumula evidencia; y cuando aparece un ensayo verdaderamente riguroso, su resultado es un empate.",
-          "etiquetas": [],
+          "etiquetas": [
+            "ingeniería",
+            "pacientes virtuales",
+            "ensayo controlado",
+            "evaluación"
+          ],
           "pigmento": "vermellon",
           "pigmentoVar": "var(--pigment-vermilion)",
           "lectura": 12,
           "palabras": 2465,
-          "edicionDeclarada": null,
+          "edicionDeclarada": 3,
           "indice": [
             {
               "n": "01",
@@ -238,16 +253,21 @@ window.__NOTICIAS__ = {
           "id": "Noticias/2026-06-29-boletin",
           "date": "2026-06-29",
           "dateLabel": "29 de junio de 2026",
-          "title": "La paradoja de la integración",
+          "title": "La fricción que el estudiante no quiere y el aprendizaje sí",
           "titleFull": "Boletín de investigación — 29 de junio de 2026",
           "kicker": "Cuaderno de campo",
           "deck": "<strong>Segunda edición.</strong> Retoma el <a href=\"#Noticias/2026-06-28-boletin\" class=\"internal-link\" data-goto=\"Noticias/2026-06-28-boletin\">primer número del 28 de junio</a>, que cerró con un hilo abierto: la tensión entre los estudios que miden el efecto de la IA <em>durante</em> la intervención (Kestin, Ma &amp; Zhong) y los que miden la retención diferida a escala real (Rismanchian et al.), con la pregunta de si el conocimiento aprendido con apoyo de IA realmente se queda y transfiere. Ese hilo —retención y transferencia en aprendizaje asistido por IA— vuelve a aparecer aquí, ahora desde el ángulo de la metacognición y la &quot;fricción&quot;.",
-          "etiquetas": [],
+          "etiquetas": [
+            "retención",
+            "transferencia",
+            "metacognición",
+            "pacientes virtuales"
+          ],
           "pigmento": "vermellon",
           "pigmentoVar": "var(--pigment-vermilion)",
           "lectura": 11,
           "palabras": 2134,
-          "edicionDeclarada": null,
+          "edicionDeclarada": 2,
           "indice": [
             {
               "n": "01",
@@ -302,12 +322,17 @@ window.__NOTICIAS__ = {
           "titleFull": "Boletín de investigación · 28 de junio de 2026",
           "kicker": "Cuaderno de campo",
           "deck": "Primer número. La carpeta <code>Noticias</code> no existía; la creamos hoy. El second brain tiene 324 notas, con énfasis en IA en educación superior e ingeniería química. No hay exclusiones previas: todos los papers de esta edición son nuevos en la colección.",
-          "etiquetas": [],
+          "etiquetas": [
+            "evidencia",
+            "tutoría con IA",
+            "pensamiento crítico",
+            "evaluación"
+          ],
           "pigmento": "vermellon",
           "pigmentoVar": "var(--pigment-vermilion)",
           "lectura": 8,
           "palabras": 1547,
-          "edicionDeclarada": null,
+          "edicionDeclarada": 1,
           "indice": [
             {
               "n": "01",
@@ -357,16 +382,21 @@ window.__NOTICIAS__ = {
           "id": "Noticias-Biotec/2026-07-27-boletin",
           "date": "2026-07-27",
           "dateLabel": "27 de julio de 2026",
-          "title": "Nuevas metodologías: ALE, ingeniería de cepas y biología sintética",
+          "title": "Dividir una célula sintética con una sola proteína",
           "titleFull": "Boletín de investigación en biotecnología, 27 de julio de 2026",
           "kicker": "Cuaderno de laboratorio",
           "deck": "Quinta edición. La semana dibuja una simetría curiosa alrededor de las células sintéticas: mientras SpudCell sigue atascada, sin capacidad de fabricar sus propios ribosomas y sin revista receptora nueva, un grupo del laboratorio de Cees Dekker resuelve una pieza distinta y necesaria del mismo problema, cómo dividir una célula sintética con una maquinaria mínima de una sola proteína. Un trío de nanopartículas de magnetita apareció el mismo periodo, la señal más fuerte que ha dado esa línea desde que empezó el boletín. El CRISPR entregado por bacterias probióticas vivas se asoma como una alternativa genuina a los vectores virales y a las nanopartículas lipídicas, con dos papers independientes la misma semana. El eje de levaduras cerveceras rompe, por fin, cuatro semanas de silencio, aunque con un hallazgo modesto. La familia de hidrogeles con motivos coiled-coil que se abrió la semana pasada ya suma dos publicaciones más. Y el hilo de enfermedades lisosomales que este boletín sigue desde su primera edición se refuerza con dos estudios nuevos sobre terapia de reemplazo enzimático.",
-          "etiquetas": [],
+          "etiquetas": [
+            "células sintéticas",
+            "magnetita",
+            "CRISPR",
+            "hidrogeles"
+          ],
           "pigmento": "ultramar",
           "pigmentoVar": "var(--pigment-ultramarine)",
           "lectura": 22,
           "palabras": 4367,
-          "edicionDeclarada": null,
+          "edicionDeclarada": 5,
           "indice": [
             {
               "n": "01",
@@ -422,16 +452,21 @@ window.__NOTICIAS__ = {
           "id": "Noticias-Biotec/2026-07-20-boletin",
           "date": "2026-07-20",
           "dateLabel": "20 de julio de 2026",
-          "title": "Nuevas metodologías: ALE, ingeniería de cepas y biología sintética",
+          "title": "Un editor CRISPR minimalista salido del laboratorio de Doudna",
           "titleFull": "Boletín de investigación en biotecnología, 20 de julio de 2026",
           "kicker": "Cuaderno de laboratorio",
           "deck": "<em>Cuarta edición. La semana cierra, por fin, el hilo más viejo de este boletín: D-GK17 dejó de ser un péptido reconstruido a partir de coberturas de prensa y se convirtió en un paper legible, con revista y DOI confirmados. En compensación por ese cierre llegó una noticia de peso en edición génica, un editor CRISPR sintético y minimalista salido del laboratorio de Jennifer Doudna, y una racha inusualmente fuerte de nanopartículas lipídicas de mRNA que sigue empujando la frontera más allá del hígado. </em>Pseudomonas putida<em> volvió a aparecer como protagonista de ingeniería metabólica y ALE, esta vez por partida doble el mismo día. Y el eje de levaduras cerveceras no convencionales completa ya su segunda semana consecutiva en silencio.</em>",
-          "etiquetas": [],
+          "etiquetas": [
+            "CRISPR",
+            "nanopartículas lipídicas",
+            "ALE",
+            "hidrogeles"
+          ],
           "pigmento": "ultramar",
           "pigmentoVar": "var(--pigment-ultramarine)",
           "lectura": 24,
           "palabras": 4702,
-          "edicionDeclarada": null,
+          "edicionDeclarada": 4,
           "indice": [
             {
               "n": "01",
@@ -492,16 +527,21 @@ window.__NOTICIAS__ = {
           "id": "Noticias-Biotec/2026-07-13-boletin",
           "date": "2026-07-13",
           "dateLabel": "13 de julio de 2026",
-          "title": "Biología sintética e ingeniería de cepas: chasis mejor editados",
+          "title": "El rechazo de SpudCell y los péptidos que retan a los lípidos",
           "titleFull": "Boletín de investigación en biotecnología, 13 de julio de 2026",
           "kicker": "Cuaderno de laboratorio",
           "deck": "Tercera edición. La semana no trajo un hallazgo tan grande como el de SpudCell, pero sí un desenlace parcial de esa historia: el manuscrito fue rechazado por Cell y ahora busca casa en otra revista, mientras la comunidad científica se divide entre el asombro y la cautela. En compensación, la semana entrega un lote inusualmente amplio de ingeniería metabólica de aminoácidos y vitaminas, un grupo de hallazgos biomédicos que insisten en superar a las nanopartículas lipídicas con alternativas peptídicas, y el cierre de dos hilos que llevaban semanas abiertos: la pasada profunda en Advanced Materials y Advanced Healthcare Materials, y una reconstrucción bastante completa del péptido D-GK17 pese a que su fuente original sigue bloqueada.",
-          "etiquetas": [],
+          "etiquetas": [
+            "células sintéticas",
+            "ingeniería metabólica",
+            "péptidos",
+            "biomateriales"
+          ],
           "pigmento": "ultramar",
           "pigmentoVar": "var(--pigment-ultramarine)",
           "lectura": 22,
           "palabras": 4472,
-          "edicionDeclarada": null,
+          "edicionDeclarada": 3,
           "indice": [
             {
               "n": "01",
@@ -552,16 +592,21 @@ window.__NOTICIAS__ = {
           "id": "Noticias-Biotec/2026-07-06-boletin",
           "date": "2026-07-06",
           "dateLabel": "6 de julio de 2026",
-          "title": "Biología sintética: una célula desde cero y un editor de genes que despierta hongos dormidos",
+          "title": "Una célula ensamblada desde cero",
           "titleFull": "Boletín de investigación en biotecnología, 6 de julio de 2026",
           "kicker": "Cuaderno de laboratorio",
           "deck": "Segunda edición. Esta semana trae la noticia más grande que ha pasado por este boletín desde que empezó: un grupo de Minnesota construyó una célula enteramente a partir de componentes químicos purificados y la vio crecer, replicar su genoma, dividirse y competir por selección darwiniana durante varias generaciones. No es una modificación de algo vivo. Es vida ensamblada desde cero. Junto a esa noticia, la semana cierra cuatro hilos que quedaron pendientes el 2 de julio, en levaduras cerveceras y en encapsulación de probióticos, y aporta un segundo hallazgo de peso en edición génica fúngica que conecta de forma directa con la línea de metabolitos secundarios del vault.",
-          "etiquetas": [],
+          "etiquetas": [
+            "células sintéticas",
+            "edición génica",
+            "levaduras cerveceras",
+            "encapsulación"
+          ],
           "pigmento": "ultramar",
           "pigmentoVar": "var(--pigment-ultramarine)",
           "lectura": 26,
           "palabras": 5117,
-          "edicionDeclarada": null,
+          "edicionDeclarada": 2,
           "indice": [
             {
               "n": "01",
@@ -612,16 +657,21 @@ window.__NOTICIAS__ = {
           "id": "Noticias-Biotec/2026-07-02-boletin",
           "date": "2026-07-02",
           "dateLabel": "2 de julio de 2026",
-          "title": "Nuevas metodologías: evolución adaptativa, ingeniería de cepas y biología sintética",
+          "title": "Seis frentes abiertos y un clúster de nanopartículas lipídicas",
           "titleFull": "Boletín de investigación en biotecnología — 2 de julio de 2026",
           "kicker": "Cuaderno de laboratorio",
           "deck": "<em>Primera edición.</em> Este boletín nace con una premisa distinta a la de <code>Noticias/</code>: en vez de seguir un solo tema, recorre seis frentes de investigación en biotecnología y nanobiotecnología que interesan a mi trabajo, desde la evolución adaptativa de laboratorio hasta la microfluídica aplicada a bioprocesos. La semana no defraudó. El frente biomédico de entrega de biomoléculas trajo el volumen más alto, con un clúster completo de nanopartículas lipídicas publicado el mismo día en <em>Journal of Controlled Release</em>. La ingeniería de cepas aportó dos cifras que vale la pena recordar: 93,7 g/L de L-valina y un incremento de 8,4 veces en la producción de surfactina. Y en más de un punto, lo nuevo dialoga directamente con papers que ya están en el vault, sobre todo en la línea de magnetita, péptidos y microfluídica que vengo construyendo desde 2020.",
-          "etiquetas": [],
+          "etiquetas": [
+            "ingeniería metabólica",
+            "nanopartículas lipídicas",
+            "péptidos",
+            "microfluídica"
+          ],
           "pigmento": "ultramar",
           "pigmentoVar": "var(--pigment-ultramarine)",
           "lectura": 20,
           "palabras": 3945,
-          "edicionDeclarada": null,
+          "edicionDeclarada": 1,
           "indice": [
             {
               "n": "01",
