@@ -39,4 +39,4 @@ El EAFSG es uno de los marcos de acreditación de ingeniería más influyentes e
 - [[concepts/etica-de-la-ciencia]]
 - [[concepts/interdisciplinariedad]]
 
-<!-- Documentos fuente (5 partes): sources/pdfs/policy-ethics-accreditation/enaee_2021_eur-ace-framework-part1.pdf, enaee_2021_eur-ace-framework-part2.pdf, enaee_2021_eur-ace-framework-part3.pdf, enaee_2021_eur-ace-framework-part4.pdf, enaee_2021_eur-ace-framework-part5.pdf -->
+<!-- Documentos fuente (5 partes) en Brain/biblioteca: enaee_2021_eur-ace-framework-part1.pdf … part5.pdf -->

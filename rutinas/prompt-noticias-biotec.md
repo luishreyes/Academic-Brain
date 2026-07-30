@@ -99,7 +99,7 @@ Este es el cambio de fondo respecto de los primeros cinco números: **el boletí
 - **Un bloque `cifras`** en la sección de más peso, con dos o tres números de proceso y su nota de condiciones (g/L, veces de mejora, eficiencia, con el organismo y el sustrato).
 - **Una `cita`** con la frase que resume la tensión de la semana, máximo catorce palabras.
 - **Una `nota`** cuando haya un preprint, una muestra pequeña, un dato de nota de prensa corporativa o algo que no pude verificar contra fuente primaria por el bloqueo de red. Declarar el límite es obligatorio.
-- **Una `figura`** solo si el paper está en `sources/pdfs/` y pude extraerla con `tools/extraer-figuras.py`, con su licencia verificada. Si no, el bloque `figura` sin `src` compone el marco de semitono con la leyenda "Figura pendiente", y eso es correcto. Nunca ponga una imagen genérica para llenar el hueco.
+- **Una `figura`** solo si pude descargar el PDF de `Brain/biblioteca` en Drive y extraerla con `tools/extraer-figuras.py` del hub `agentic-os`, con su licencia verificada. Si no, el bloque `figura` sin `src` compone el marco de semitono con la leyenda "Figura pendiente", y eso es correcto. Nunca ponga una imagen genérica para llenar el hueco.
 
 Toda cifra que se publique lleva su fuente y sus condiciones. Una cifra de proceso sin organismo, sustrato y escala no dice nada; anótelos en la nota.
 
