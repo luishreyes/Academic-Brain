@@ -8,6 +8,7 @@ doi: "10.1016/j.procbio.2022.11.012"
 pdf_ref: perez-bejarano-2022-biosurfactantes-peptidos-md.pdf
 sha256: fe7542b7ec05541890b96ab22ebcb63512acea69e5e45b219678a84762e65fce
 type: paper
+visibility: public
 keywords: [ingenieria-quimica, bioquimica-computacional, modelado-molecular, biosurfactantes]
 date_added: 2026-06-26
 ---

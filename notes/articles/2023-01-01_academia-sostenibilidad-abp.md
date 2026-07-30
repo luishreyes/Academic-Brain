@@ -5,6 +5,7 @@ publication: "EXPONOTAS (ANALDEX)"
 date: 2023
 url: "https://issuu.com/analdex./docs/exponotas_no._71"
 type: article
+visibility: public
 keywords: [aprendizaje-activo, educacion-superior, interdisciplinariedad, ciencia-y-sociedad, sostenibilidad]
 date_added: 2026-06-26
 ---

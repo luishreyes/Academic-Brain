@@ -8,6 +8,7 @@ doi: 10.2196/86569
 pdf_ref: gavoille-2026-clonacion-voz-pedagogia-medica.pdf
 sha256: 3dc92eb3177795589a0565dfac3b64a114b59406ef7a8817656d302b0fc56257
 type: paper
+visibility: public
 keywords: [sintesis-de-voz, ensayo-controlado-aleatorio, educacion-medica, etica-de-la-ia, adopcion-de-tecnologia, motivacion-y-compromiso-estudiantil, inteligencia-artificial]
 date_added: 2026-07-05
 ---

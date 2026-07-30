@@ -8,6 +8,7 @@ doi: 10.48550/arXiv.2601.06776
 pdf_ref: tian_2026_text-to-simulation-multiagent.pdf
 sha256: 2fb7529b0bac3853b524d5cf50321503c148cfcce8abcf4ff681fd736b0ee9cb
 type: paper
+visibility: public
 keywords: [agentes-de-ia, inteligencia-artificial, ingenieria-quimica, simulacion-computacional, capacidades-de-ia, supervision-humana]
 date_added: 2026-06-27
 ---

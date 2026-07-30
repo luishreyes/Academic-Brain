@@ -10,6 +10,7 @@ rating: 5
 status: leído
 genre: [ciencia-ficcion, distopia, space-opera]
 type: fiction
+visibility: public
 keywords: [poder-y-persuasion, guerra-y-conflicto, rebelion-y-revolucion]
 date_added: 2026-07-05
 ---

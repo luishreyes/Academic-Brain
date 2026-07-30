@@ -8,6 +8,7 @@ doi: 10.1016/j.jconrel.2026.115144
 pdf_ref: dabas_2026_pgc1a-nanogels-prostate-cancer.pdf
 sha256: 060cd6a42f48ac3d83f780af545643f277065be4ecc119d114dc42da22bbf7d5
 type: paper
+visibility: public
 keywords: [biomateriales, nanociencia, terapia-genica, desarrollo-de-farmacos, biologia-molecular, genomica, oncologia]
 date_added: 2026-07-02
 ---

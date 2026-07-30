@@ -8,6 +8,7 @@ doi: 10.1002/psc.70107
 pdf_ref: hammoum-2026-peptidos-nanoparticulas-microfluidica.pdf
 sha256: 4b6e41bfd8cd802929131fd1d97b87eadf04503e571344fe393a9d16146097ac
 type: paper
+visibility: public
 keywords: [peptidos-bioactivos, microfluidica, nanomedicina, biomateriales, terapia-genica, oncologia]
 date_added: 2026-07-05
 ---

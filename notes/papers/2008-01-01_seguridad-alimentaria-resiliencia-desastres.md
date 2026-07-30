@@ -8,6 +8,7 @@ doi: 10.1111/j.1746-692X.2008.00108.x
 pdf_ref: dehaen_2008_food-security-resilience-disasters.pdf
 sha256: d20754b51a23f7bc6127f6f2a04440fca774eab051e5c8d8fc3e31d4f9f16191
 type: paper
+visibility: public
 keywords: [desarrollo-rural, gestion-de-riesgo-de-desastres, cambio-climatico, politica-social]
 date_added: 2026-07-04
 ---

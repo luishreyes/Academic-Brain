@@ -8,6 +8,7 @@ doi: 10.1002/cae.22806
 pdf_ref: chen_2025_basic-ai-course-impact.pdf
 sha256: 5ed32bd20de2ef6182374159fde7faf2e527ee667c305e7aa4daceddf35b7d65
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, educacion-superior, evaluacion-educativa, universidades-chinas, futuro-del-trabajo, psicologia-educativa]
 date_added: 2026-06-27
 ---

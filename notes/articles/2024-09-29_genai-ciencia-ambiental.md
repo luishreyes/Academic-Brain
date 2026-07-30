@@ -7,6 +7,7 @@ url: https://doi.org/10.1021/acs.est.4c07216
 pdf_ref: wu_2024_genai-environmental-science-viewpoint.pdf
 sha256: 201e9eccec7838b9a6c6c50442809a8831a1349ea798adbee6ec5283fe02ec09
 type: article
+visibility: public
 keywords: [inteligencia-artificial, agentes-de-ia, generacion-aumentada-por-recuperacion, ingenieria-ambiental, sostenibilidad, supervision-humana, alucinaciones-de-ia, descubrimiento-cientifico]
 date_added: 2026-06-27
 ---

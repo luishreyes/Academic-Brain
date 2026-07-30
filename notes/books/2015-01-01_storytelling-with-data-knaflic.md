@@ -6,6 +6,7 @@ publisher: Wiley
 url: 
 isbn: 9781119002253
 type: book
+visibility: public
 keywords: [comunicacion-cientifica, visualizacion-de-datos]
 date_added: 2026-06-26
 ---

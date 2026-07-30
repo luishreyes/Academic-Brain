@@ -8,6 +8,7 @@ doi:
 pdf_ref: kadel_2024_crafting-tomorrows-evaluations.pdf
 sha256: 83f2d59070d49e3d42e667e1cc3d96286c87cc2054eb9ea18d2be3936e12be61
 type: paper
+visibility: public
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, pensamiento-critico, equidad-educativa, supervision-humana, educacion-en-ingenieria]
 date_added: 2026-06-27
 ---

@@ -8,6 +8,7 @@ doi: 10.1016/j.ijbiomac.2026.153313
 pdf_ref: subhash-2026-synbiotic-alginato-pickering.pdf
 sha256: 3c437dc7903a2e6c2f606dce1b60c2fc84b09ab77edea681870039b078a78bd4
 type: paper
+visibility: public
 keywords: [probioticos, emulsiones, biomateriales, ingenieria-de-alimentos, economia-circular, microscopia-de-caracterizacion]
 date_added: 2026-07-05
 ---

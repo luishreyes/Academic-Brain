@@ -6,6 +6,7 @@ publisher: New World Library
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [comunicacion-interpersonal, habilidades-de-presentacion, psicologia-del-bienestar, creatividad]
 date_added: 2026-07-05
 ---

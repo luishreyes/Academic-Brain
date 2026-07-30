@@ -6,6 +6,7 @@ publisher: Harmony Books
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [neurociencia, salud-y-sociedad, desigualdad-de-genero, psicologia-del-bienestar]
 date_added: 2026-07-05
 ---

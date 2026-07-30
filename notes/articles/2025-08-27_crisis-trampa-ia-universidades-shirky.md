@@ -5,6 +5,7 @@ publication: The New York Times (en español)
 date: 2025-08-27
 url: https://www.nytimes.com/es/2025/08/27/espanol/opinion/chatgpt-ia-trampa-universidades.html
 type: article
+visibility: public
 keywords: [integridad-academica, evaluacion-educativa, deteccion-de-texto-ia, educacion-superior, aprendizaje-activo, descarga-cognitiva, sobredependencia-de-la-ia]
 date_added: 2026-07-05
 ---

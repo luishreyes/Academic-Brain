@@ -6,6 +6,7 @@ publisher: Random House
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [comunicacion-interpersonal, psicologia-social, neurociencia]
 date_added: 2026-07-05
 ---

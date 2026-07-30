@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_2
 pdf_ref: ch02-fundamentos-eticos.pdf
 sha256: a3e60aebb13338d08c22b9d3139e1baf7e3578e52fcf3fa0f42c30a1e1ae8078
 type: paper
+visibility: public
 keywords: [trabajo-social, etica-de-la-ia, sesgo-algoritmico, supervision-humana, regulacion-de-ia, justicia-social, ia-explicable, confianza-en-la-ia]
 date_added: 2026-07-05
 ---

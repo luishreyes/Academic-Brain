@@ -8,6 +8,7 @@ doi:
 pdf_ref: feldman_2024_first-year-eng-ai-literacy.pdf
 sha256: 26755658bff7351f9783ea9f7abb582c82c355c579f0a3d223522417a7b89862
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, educacion-en-ingenieria, educacion-superior, inteligencia-artificial, etica-de-la-ia, integridad-academica, aprendizaje-activo]
 date_added: 2026-06-27
 ---

@@ -8,6 +8,7 @@ doi: 10.3390/su16093555
 pdf_ref: becerra-2024-extension-agricola-en.pdf
 sha256: 42897bcda57dd4c685430d6378385578fff531cc682be22b7ead54c71f264bd6
 type: paper
+visibility: public
 keywords: [revision-sistematica-de-literatura, sostenibilidad, desarrollo-rural, adopcion-de-tecnologia, politica-social]
 date_added: 2026-06-26
 ---

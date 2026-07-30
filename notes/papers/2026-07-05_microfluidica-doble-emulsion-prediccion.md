@@ -8,6 +8,7 @@ doi: 10.1039/d6lc00406g
 pdf_ref: tang-2026-doble-emulsion-microfluidica.pdf
 sha256: 38a0b3b76ce51063f30ba2a0ad974e79d920d6738871b9cc28e750cb1fd29672
 type: paper
+visibility: public
 keywords: [microfluidica, emulsiones, ingenieria-quimica, simulacion-computacional, biomateriales]
 date_added: 2026-07-05
 ---

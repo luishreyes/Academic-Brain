@@ -8,6 +8,7 @@ doi: 10.1002/bit.24938
 pdf_ref: almario2013-vert-saccharomyces-hidrolizados.pdf
 sha256: 3e89cc58a60e7165689cedaa80fb181ff64a0faadf983e4a34da4a6e89351c97
 type: paper
+visibility: public
 keywords: [evolucion-de-laboratorio, ingenieria-metabolica, biocombustibles, biomasa-lignocelulosica, genomica, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26
 ---

@@ -8,6 +8,7 @@ doi: 10.1016/j.coche.2025.101209
 pdf_ref: rupprecht_2026_multiagent-systems-chemeng.pdf
 sha256: 460f0b5ea083113cc9d816f64dd61d7411cf68cb20ac183f5bcd759ea4ec4559
 type: paper
+visibility: public
 keywords: [agentes-de-ia, inteligencia-artificial, ingenieria-quimica, capacidades-de-ia, supervision-humana]
 date_added: 2026-06-27
 ---

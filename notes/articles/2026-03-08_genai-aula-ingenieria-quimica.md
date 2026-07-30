@@ -5,6 +5,7 @@ publication: CACHE (Computer Aids for Chemical Engineering)
 date: 2026-03-08
 url: https://cache.org/incorporating-generative-ai-chemical-engineering-classroom
 type: article
+visibility: public
 keywords: [inteligencia-artificial, alfabetizacion-en-ia, ingenieria-quimica, educacion-superior, integridad-academica, evaluacion-educativa, pensamiento-critico, adopcion-de-tecnologia, sostenibilidad]
 date_added: 2026-06-27
 ---

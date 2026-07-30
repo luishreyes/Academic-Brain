@@ -8,6 +8,7 @@ doi: 10.1186/s40594-025-00583-x
 pdf_ref: martin_2025_ai-engineering-careers-graduates.pdf
 sha256: 06a67044f83781cbaff50738eaf85813219659957deb7df7c0eba642b70d0ab7
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, futuro-del-trabajo, educacion-en-ingenieria, educacion-superior, alfabetizacion-en-ia, adopcion-de-tecnologia, etica-de-la-ia, supervision-humana]
 date_added: 2026-06-28
 ---

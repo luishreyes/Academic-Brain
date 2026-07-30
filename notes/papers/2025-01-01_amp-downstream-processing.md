@@ -8,6 +8,7 @@ doi: 10.1016/B978-0-443-15393-8.00011-7
 pdf_ref: almario-2025-amp-downstream-processing.pdf
 sha256: 34dc4a0b620adda06b4830f07c001b4839e7a7ce835ac53eee7d32cae1c6dc33
 type: paper
+visibility: public
 keywords: [peptidos-bioactivos, ingenieria-quimica, proteinas-recombinantes, desarrollo-de-farmacos]
 date_added: 2026-06-26
 ---

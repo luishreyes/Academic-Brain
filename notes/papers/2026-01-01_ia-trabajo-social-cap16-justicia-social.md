@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_16
 pdf_ref: ch16-incidencia-justicia-social.pdf
 sha256: fcf279ec6a7b64ec27e3be1cf97d5169de4c20ece7fbc62b58e7541dba803c8b
 type: paper
+visibility: public
 keywords: [trabajo-social, justicia-social, procesamiento-de-lenguaje-natural, vision-por-computadora, brecha-digital, revision-sistematica-de-literatura, sesgo-algoritmico, ia-explicable, violencia-de-genero, diversidad-sexual-y-genero, gestion-de-riesgo-de-desastres, salud-mental]
 date_added: 2026-07-05
 ---

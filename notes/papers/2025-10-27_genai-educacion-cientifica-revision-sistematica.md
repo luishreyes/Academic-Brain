@@ -8,6 +8,7 @@ doi: 10.1080/03057267.2025.2578091
 pdf_ref: cheung_2025_genai-science-education.pdf
 sha256: d55a84e63e6adb2d73ef1d18f30ec131592862197388c2f643897eda3f91bf82
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, pensamiento-critico, etica-de-la-ia, integridad-academica, educacion-k12, formacion-docente, autorregulacion-del-aprendizaje, personalizacion-del-aprendizaje, alucinaciones-de-ia, descubrimiento-cientifico]
 date_added: 2026-06-28
 ---

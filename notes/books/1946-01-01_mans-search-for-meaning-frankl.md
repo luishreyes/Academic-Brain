@@ -6,6 +6,7 @@ publisher: Beacon Press
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [psicologia-del-bienestar, filosofia, trauma-y-salud]
 date_added: 2026-07-05
 ---

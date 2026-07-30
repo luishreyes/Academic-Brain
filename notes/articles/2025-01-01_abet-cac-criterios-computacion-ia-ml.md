@@ -7,6 +7,7 @@ url: https://www.abet.org
 pdf_ref: abet-cad_2025_computing-criteria-changes-aiml.pdf
 sha256: a8cc1a711004f686922bfc484bc70fdc815aa07bfbed6f9b86cd20a65be9fba1
 type: article
+visibility: public
 keywords: [educacion-en-programacion, inteligencia-artificial, etica-de-la-ia, regulacion-de-ia, evaluacion-educativa, educacion-superior, educacion-en-ingenieria]
 date_added: 2026-06-28
 ---

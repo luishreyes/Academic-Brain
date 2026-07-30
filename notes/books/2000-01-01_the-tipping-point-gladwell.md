@@ -6,6 +6,7 @@ publisher: Little, Brown and Company
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [psicologia-social, comportamiento-del-consumidor, ciencia-y-sociedad, evolucion-cultural, adopcion-de-tecnologia]
 date_added: 2026-07-05
 ---

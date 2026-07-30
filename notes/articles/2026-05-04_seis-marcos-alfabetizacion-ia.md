@@ -5,6 +5,7 @@ publication: Interactive Learning Environments
 date: 2026-05-04
 url: https://doi.org/10.1080/10494820.2026.2648342
 type: article
+visibility: public
 keywords: [alfabetizacion-en-ia, etica-de-la-ia, formacion-docente, regulacion-de-ia, educacion-k12, futuro-del-trabajo, supervision-humana, evaluacion-educativa, pensamiento-critico, interdisciplinariedad]
 date_added: 2026-06-27
 ---

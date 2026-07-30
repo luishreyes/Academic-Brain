@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [fantasia, humor]
 type: fiction
+visibility: public
 keywords: [mitologia-y-religion, satira, libre-albedrio]
 date_added: 2026-07-05
 ---

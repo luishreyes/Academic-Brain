@@ -8,6 +8,7 @@ doi:
 pdf_ref: mudur_2025_feabench-multiphysics-reasoning.pdf
 sha256: dad2c1d6b22935ed04bf2b7aa054f576e44886352782475a1c19510e4dfc25e4
 type: paper
+visibility: public
 keywords: [capacidades-de-ia, agentes-de-ia, inteligencia-artificial, alucinaciones-de-ia, simulacion-computacional, supervision-humana]
 date_added: 2026-06-27
 ---

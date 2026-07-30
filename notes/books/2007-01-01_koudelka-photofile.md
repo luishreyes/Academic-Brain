@@ -6,6 +6,7 @@ publisher: Thames & Hudson
 url: 
 isbn: 9780500410929
 type: book
+visibility: public
 keywords: [fotografia, fotografia-documental, fotoperiodismo, fotografia-en-blanco-y-negro, magnum-photos, exilio, pueblo-gitano, migracion-y-desplazamiento, memoria-historica, humanidades]
 date_added: 2026-07-07
 ---

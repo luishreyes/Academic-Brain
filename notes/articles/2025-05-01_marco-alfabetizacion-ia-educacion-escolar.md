@@ -5,6 +5,7 @@ publication: OECD / European Commission (AILit Framework)
 date: 2025-05
 url: https://ailiteracyframework.org
 type: article
+visibility: public
 keywords: [alfabetizacion-en-ia, educacion-k12, formacion-docente, etica-de-la-ia, regulacion-de-ia, inteligencia-artificial, equidad-educativa, integridad-academica, creatividad, sostenibilidad]
 date_added: 2026-06-27
 pdf_ref: ec-oecd_2025_ailit-framework-review-draft.pdf

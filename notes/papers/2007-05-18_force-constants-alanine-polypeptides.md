@@ -8,6 +8,7 @@ doi: 10.1016/j.theochem.2007.05.015
 pdf_ref: reyes2007-force-constants-alanine.pdf
 sha256: 0685628abc7b6f416a76407a65ef56735cd9e01d0db4e1b7f1dd5c3caee6ff6f
 type: paper
+visibility: public
 keywords: [quimica-computacional, modelado-molecular, bioquimica-computacional, nanociencia, ingenieria-quimica]
 date_added: 2026-06-26
 ---

@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [ciencia-ficcion, hard-sf]
 type: fiction
+visibility: public
 keywords: [primer-contacto, sistemas-y-reglas, ecologia-y-terraformacion]
 date_added: 2026-07-05
 ---

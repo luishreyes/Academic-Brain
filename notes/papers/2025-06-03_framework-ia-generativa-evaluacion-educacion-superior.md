@@ -8,6 +8,7 @@ doi: 10.3390/info16060472
 pdf_ref: ilieva_2025_genai-driven-assessment-framework.pdf
 sha256: 65596141e91aa696cef37e9a4d860d85c91655597e0fdc90aaddafdbba6eddac
 type: paper
+visibility: public
 keywords: [evaluacion-educativa, inteligencia-artificial, educacion-superior, integridad-academica, regulacion-de-ia, supervision-humana, tutoria-con-ia, etica-de-la-ia, retroalimentacion-con-ia]
 date_added: 2026-06-27
 ---

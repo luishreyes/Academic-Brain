@@ -8,6 +8,7 @@ doi: 10.5772/intechopen.101949
 pdf_ref: reyes2022-biobricks-genomica-sintetica.pdf
 sha256: 3b48e996c722abc9a69c1b8156082e5107dc464cd91c0836bdefd48598c9cc02
 type: paper
+visibility: public
 keywords: [biologia-sintetica, biologia-molecular, genomica, ingenieria-metabolica, ingenieria-quimica]
 date_added: 2026-06-26
 ---

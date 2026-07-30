@@ -8,6 +8,7 @@ doi: "10.1016/j.heliyon.2023.e16974"
 pdf_ref: diaz-bustamante-2023-proteinas-alternativas-lacteos.pdf
 sha256: f1d38638f1bedb8df552a1f70c39068a81438c15c0f5dfd13e60b6d3c46e79e9
 type: paper
+visibility: public
 keywords: [ingenieria-de-alimentos, proteinas-recombinantes, ingenieria-quimica]
 date_added: 2026-06-26
 ---

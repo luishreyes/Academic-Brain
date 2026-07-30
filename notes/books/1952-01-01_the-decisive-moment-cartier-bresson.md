@@ -6,6 +6,7 @@ publisher: Simon & Schuster / Éditions Verve
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [fotografia, filosofia, humanidades]
 date_added: 2026-07-05
 ---

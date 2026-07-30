@@ -7,6 +7,7 @@ url: https://www.thechemicalengineer.com/features/is-ai-really-coming-for-your-j
 pdf_ref: rhymer_2026_ai-coming-for-your-job.pdf
 sha256: a03b3ab94196808b4e37d3ae0d44ed94ea2b7917a6ef9369dcc8a1e94f2a23ae
 type: article
+visibility: public
 keywords: [futuro-del-trabajo, inteligencia-artificial, educacion-en-ingenieria, ingenieria-quimica, supervision-humana, pensamiento-critico, capacidades-de-ia, adopcion-de-tecnologia]
 date_added: 2026-06-28
 ---

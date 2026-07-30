@@ -8,6 +8,7 @@ doi: 10.1111/ejed.70262
 pdf_ref: lee_2025_chatgpt-gst.pdf
 sha256: f52a1ce491f4d9202d0e4c0a60b3a31dd4423a6200320978f67fd18918ff01a6
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, retroalimentacion-con-ia, personalizacion-del-aprendizaje, evaluacion-educativa, STEM, educacion-superior, taxonomia-de-bloom, ingenieria-de-sistemas, tutoria-con-ia]
 date_added: 2026-06-28
 ---

@@ -8,6 +8,7 @@ doi: 10.1021/acsomega.5c12654
 pdf_ref: garg_2026_genai-process-calculations-fuelcells-flowbatteries.pdf
 sha256: b52de8da87e456ca560bf1b3a2ea973395c57f9f00b64b70788e81ca9ff2d36f
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, agentes-de-ia, ingenieria-quimica, simulacion-computacional, alucinaciones-de-ia, supervision-humana, sostenibilidad, capacidades-de-ia]
 date_added: 2026-06-27
 ---

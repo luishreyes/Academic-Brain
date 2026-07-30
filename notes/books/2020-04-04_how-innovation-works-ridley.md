@@ -6,6 +6,7 @@ publisher: HarperCollins
 url: 
 isbn: 9780062916617
 type: book
+visibility: public
 keywords: [ciencia-y-sociedad, descubrimiento-cientifico, creatividad, futuro-del-trabajo, modernizacion, regulacion-de-ia, etica-de-la-ciencia, historia-de-la-innovacion, economia-de-la-innovacion]
 date_added: 2026-06-25
 ---

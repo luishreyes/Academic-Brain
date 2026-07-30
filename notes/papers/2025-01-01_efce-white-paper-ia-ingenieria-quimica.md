@@ -8,6 +8,7 @@ doi:
 pdf_ref: efce_2025_ai-cheme-white-paper.pdf
 sha256: 9cc273b4fe0dc7850fa68ef6261f1df7a2af88a467596e03309fe6ba4aeda087
 type: paper
+visibility: public
 keywords: [ingenieria-quimica, inteligencia-artificial, simulacion-computacional, ia-explicable, agentes-de-ia, seguridad-de-procesos, educacion-en-ingenieria, ciencia-de-datos, supervision-humana, desarrollo-de-farmacos]
 date_added: 2026-06-28
 ---

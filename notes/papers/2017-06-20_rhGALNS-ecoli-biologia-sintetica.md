@@ -8,6 +8,7 @@ doi: 10.1038/s41598-017-06367-w
 pdf_ref: reyes2017-rhGALNS-ecoli-produccion.pdf
 sha256: 5f04a5d5a5429c168285a1d3c0f474ef8b990ee898b885f3c9a47bb6ca0fb1fa
 type: paper
+visibility: public
 keywords: [ingenieria-metabolica, biologia-molecular, biologia-sintetica, proteinas-recombinantes, enfermedades-raras, ingenieria-quimica]
 date_added: 2026-06-26
 ---

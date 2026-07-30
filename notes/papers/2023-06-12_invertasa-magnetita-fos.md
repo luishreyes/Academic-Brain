@@ -8,6 +8,7 @@ doi: "10.3390/chemengineering7030055"
 pdf_ref: polania-melo-2023-invertasa-magnetita-fos.pdf
 sha256: aebf215ccabc0415930ee6ff92df95054bdeda13dcabd2a3a2c7eb32a69f4435
 type: paper
+visibility: public
 keywords: [biomateriales, nanociencia, ingenieria-de-alimentos, ingenieria-quimica]
 date_added: 2026-06-26
 ---

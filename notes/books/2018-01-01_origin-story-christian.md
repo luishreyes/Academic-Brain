@@ -6,6 +6,7 @@ publisher: Little, Brown and Company
 url: 
 isbn: 978-0-316-39200-9
 type: book
+visibility: public
 keywords: [gran-historia, evolucion-cultural, fisica-y-cosmologia, ciencia-y-sociedad, historia-de-la-innovacion]
 date_added: 2026-07-05
 ---

@@ -8,6 +8,7 @@ doi: 10.1080/02602938.2026.2697962
 pdf_ref: grion-2026-ia-retroalimentacion-universidad.pdf
 sha256: ed9b8ace73a0e801f5072b1b89c688e05eff06cc1d52dbd8622d9276fa4162ec
 type: paper
+visibility: public
 keywords: [retroalimentacion-con-ia, evaluacion-educativa, educacion-superior, aprendizaje-activo, formacion-docente, ingenieria-de-prompts, generacion-aumentada-por-recuperacion, autorregulacion-del-aprendizaje, supervision-humana, motivacion-y-compromiso-estudiantil, inteligencia-artificial]
 date_added: 2026-07-09
 ---

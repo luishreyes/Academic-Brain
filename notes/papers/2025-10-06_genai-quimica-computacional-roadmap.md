@@ -8,6 +8,7 @@ doi: 10.1073/pnas.2415655121
 pdf_ref: tiwary_2025_genai-computational-chemistry-roadmap.pdf
 sha256: 953e5b5a8cd8219a37802d7bbe7689c413da51e5204d6c5643a7057e3215de3b
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, quimica-computacional, modelado-molecular, simulacion-computacional, bioquimica-computacional, capacidades-de-ia, alucinaciones-de-ia, descubrimiento-cientifico]
 date_added: 2026-06-27
 ---

@@ -8,6 +8,7 @@ doi: 10.3390/pr8070878
 pdf_ref: ramirez2020-biorreactor-cfd-kla.pdf
 sha256: 419a427d6584ae31f5e018e7b41d0c3fb591d8f04c120e7837b7e5338bddc3cf
 type: paper
+visibility: public
 keywords: [ingenieria-quimica, simulacion-computacional]
 date_added: 2026-06-26
 ---

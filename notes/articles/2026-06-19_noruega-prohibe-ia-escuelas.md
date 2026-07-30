@@ -7,6 +7,7 @@ url: https://www.internazionale.it/ultime-notizie-reuters/2026/06/19/norway-impo
 pdf_ref: reuters2026-noruega-prohibe-ia-escuelas.pdf
 sha256: 8073e41db9c1c10d019f1e9d21f310a8384518225469c490ff8a264d5e4d1ee9
 type: article
+visibility: public
 keywords: [inteligencia-artificial, regulacion-de-ia, supervision-humana, psicologia-educativa, etica-de-la-ia, futuro-del-trabajo]
 date_added: 2026-06-25
 ---

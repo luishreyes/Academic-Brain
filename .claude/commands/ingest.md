@@ -13,19 +13,47 @@ revisar `Brain/biblioteca` en Drive)
 >
 > Carpeta: `Brain/biblioteca` — ID `1oH8Gux01JgenFMID2QYj1HUc1dN8Z_Qm`
 >
-> Es **una sola carpeta**: recibe lo nuevo y guarda lo ya procesado. No se mueven
-> archivos entre carpetas — el conector MCP de Drive no puede mover, y de todas
-> formas el registro de qué está ingerido no es la ubicación del archivo sino la
-> existencia de una nota que lo referencie.
+> **Entrada por `Brain/inbox`** (ID `1f-TJelDlaedTk5UVQaSZOx_YGAJ-HwBN`): un
+> único punto donde soltar cosas sin decidir dónde van. El ingest clasifica,
+> renombra y enruta al dominio correcto.
+>
+> Un PDF ya ingerido no se reconoce por su carpeta sino porque existe una nota
+> que lo referencia. Lo pendiente es la diferencia entre los archivos y los
+> `pdf_ref` de las notas.
 
 ---
+
+## 0. Triage: qué es esto y a dónde va
+
+**Antes de nada, clasificar el destino.** No todo lo que cae en `inbox/` es
+material del brain.
+
+| Qué es | Archivo va a | ¿Nota? |
+|---|---|---|
+| Paper, artículo, libro, ficción | `biblioteca/` | Sí, este flujo completo |
+| Presentación, taller, guía, rúbrica propios | `docencia/<curso>/` | **Todavía no** — ver abajo |
+| Foto | `fotografia/<anio-mes>_<serie>/` | No |
+| Borrador de manuscrito propio | `manuscritos/<slug>/` | No |
+
+**PARAR y preguntar** si:
+
+- **Parece trabajo de estudiantes** — entregas, exámenes, tareas con nombres de
+  personas. No se archiva "por si acaso": son datos de terceros y este vault
+  publica a GitHub Pages. Decirlo y no tocar el archivo.
+- **Es material privado** (clase, evaluación, borrador). Hoy la única casa de las
+  notas es este repositorio, que es **público**. Hasta la fase 2 de
+  `decisions/0004` —la mudanza al hub y el pipeline de publicación— no hay dónde
+  poner una nota privada. Enruta el archivo a su carpeta de Drive, di que la nota
+  queda pendiente, y no la crees aquí.
+- **No está claro qué es.** Preguntar cuesta menos que archivar mal.
 
 ## 1. Determinar qué falta por ingerir
 
 **Si no hay argumento, o es vago** ("los pdfs nuevos", "organiza", "revisa Drive"):
 
-1. Listar la carpeta de Drive con `mcp__Google_Drive__search_files`, acotado a
-   `parentId = '1oH8Gux01JgenFMID2QYj1HUc1dN8Z_Qm'`.
+1. Listar `Brain/inbox` con `mcp__Google_Drive__search_files`, acotado a
+   `parentId = '1f-TJelDlaedTk5UVQaSZOx_YGAJ-HwBN'`. Y `Brain/biblioteca`
+   (`1oH8Gux01JgenFMID2QYj1HUc1dN8Z_Qm`) para lo que ya se movió pero no tiene nota.
 
    **Nunca hacer una búsqueda abierta en Drive.** El conector alcanza todo el
    Drive, incluidas carpetas compartidas por terceros con trabajo de estudiantes.
@@ -106,7 +134,13 @@ Frontmatter, con la referencia al PDF en la forma nueva:
 ```yaml
 pdf_ref: apellido_año_slug.pdf    # solo el nombre, sin ruta
 sha256: <hash del PDF>            # identidad verificable del archivo
+visibility: public                # ver decisions/0004
 ```
+
+**`visibility` es obligatorio** y el lint lo exige. Es propiedad del render, no
+del conocimiento: marca si la nota sale al sitio público, no si el contenido es
+secreto. En este repositorio, hoy, solo cabe `public` — si algo debería ser
+`private`, no pertenece aquí todavía.
 
 **Nunca una ruta** en `pdf_ref`: la raíz la resuelve `BRAIN_SOURCES_ROOT` fuera
 del repo. Si el PDF viene de Drive, el `sha256` sale de descargarlo y hashearlo;
@@ -119,6 +153,12 @@ y aliases, tomados de `keywords.md`.
 
 **No editar a mano la sección "Notas que usan este concepto".** Se deriva en el
 paso siguiente.
+
+## 9b. Mover el archivo a su carpeta de destino
+
+Con `drive_move_file` del servidor `drive_mcp`, renombrando al nombre canónico
+del dominio. Si ese servidor no está activo, decir que el archivo sigue en
+`inbox/` en vez de dar por hecho que se movió.
 
 ## 10. Derivar backlinks y regenerar el grafo
 

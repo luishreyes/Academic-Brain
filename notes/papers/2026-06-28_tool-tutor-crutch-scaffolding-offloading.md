@@ -8,6 +8,7 @@ doi: 10.1186/s40594-025-00592-w
 pdf_ref: liu_2026_tool_tutor_crutch.pdf
 sha256: dc2bd27de1fc47e2d5407c8f1bc05b3adce2cecbdf0d60bd60af677df863ad69
 type: paper
+visibility: public
 keywords: [educacion-en-programacion, descarga-cognitiva, sobredependencia-de-la-ia, tutoria-con-ia, autorregulacion-del-aprendizaje, pensamiento-critico, confianza-en-la-ia, psicologia-educativa, STEM]
 date_added: 2026-06-28
 ---

@@ -8,6 +8,7 @@ doi: 10.1145/3769994.3770036
 pdf_ref: bernstein2025-danos-ia-cs.pdf
 sha256: 7a7dc21db82e283640e8334e6caa49917afc5ceb2bb0286161d3e06d506ebae2
 type: paper
+visibility: public
 keywords:
   - inteligencia-artificial
   - educacion-en-programacion

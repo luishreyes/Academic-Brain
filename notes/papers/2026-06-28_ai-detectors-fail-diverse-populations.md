@@ -8,6 +8,7 @@ doi:
 pdf_ref: garland_2026_structural-detection-limits.pdf
 sha256: 80f21766e459ebecbbc4cba683266365dce12043109471d1a5371b9877f1ac38
 type: paper
+visibility: public
 keywords: [deteccion-de-texto-ia, integridad-academica, evaluacion-educativa, equidad-educativa, educacion-superior, inteligencia-artificial]
 date_added: 2026-06-28
 ---

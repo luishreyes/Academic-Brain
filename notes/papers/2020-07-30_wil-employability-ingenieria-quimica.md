@@ -8,6 +8,7 @@ doi: 10.1016/j.ece.2020.09.002
 pdf_ref: reedy2020-wil-employability-quimica.pdf
 sha256: 51858a0aa192aa55d1ecbec54e70b2061ca98e32c82be6909e9a4d0e938ff3ee
 type: paper
+visibility: public
 keywords: [ingenieria-quimica, aprendizaje-activo, educacion-superior, futuro-del-trabajo, creatividad]
 date_added: 2026-06-26
 ---

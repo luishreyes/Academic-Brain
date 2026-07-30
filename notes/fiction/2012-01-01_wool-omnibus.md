@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [ciencia-ficcion, distopia]
 type: fiction
+visibility: public
 keywords: [distopia, colapso-civilizatorio, sistemas-y-reglas]
 date_added: 2026-07-05
 ---

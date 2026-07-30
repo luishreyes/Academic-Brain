@@ -7,6 +7,7 @@ url: https://www.asce.org/advocacy/policy-statements/ps573---artificial-intellig
 pdf_ref: asce_2024_policy-statement-573-ai.pdf
 sha256: 2351c35f1d3bc256f9179b9c0a17760613749628735b44ff25b20f9ef227aaf8
 type: article
+visibility: public
 keywords: [regulacion-de-ia, supervision-humana, etica-de-la-ia, sobredependencia-de-la-ia, profesion-de-la-ingenieria, inteligencia-artificial]
 date_added: 2026-06-28
 ---

@@ -8,6 +8,7 @@ doi: 10.3390/educsci15111452
 pdf_ref: eyal_2025_aitpack-assessment.pdf
 sha256: 518386908d174be975fc8fc799096ca916e8a5aa256034e65b74b0dfc9534add
 type: paper
+visibility: public
 keywords: [formacion-docente, evaluacion-educativa, alfabetizacion-en-ia, inteligencia-artificial, psicometria, revision-sistematica-de-literatura, etica-de-la-ia, adopcion-de-tecnologia]
 date_added: 2026-06-28
 ---

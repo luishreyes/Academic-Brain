@@ -8,6 +8,7 @@ doi: 10.1016/j.compchemeng.2025.109333
 pdf_ref: loubet_2026_llm-textbook-thermo-problems.pdf
 sha256: 8679bf9d007814c2331cdcdaae531d5f84ee6b3df91db194792a2ccc1982988c
 type: paper
+visibility: public
 keywords: [capacidades-de-ia, razonamiento-cuantitativo-llm, inteligencia-artificial, ingenieria-quimica, alucinaciones-de-ia, grafos-de-conocimiento, supervision-humana, evaluacion-educativa]
 date_added: 2026-06-27
 ---

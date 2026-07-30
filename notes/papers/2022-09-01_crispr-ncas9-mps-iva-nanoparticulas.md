@@ -8,6 +8,7 @@ doi: 10.1038/s41598-022-19407-x
 pdf_ref: leal2022-crispr-ncas9-mps-iva-nanoparticulas.pdf
 sha256: 6bdfecb4bac58afce7fdc50478a72cae48b32c3cbd44c92c95f5d8a27a03d539
 type: paper
+visibility: public
 keywords: [terapia-genica, enfermedades-raras, biomateriales, nanociencia, genomica, ingenieria-quimica]
 date_added: 2026-06-26
 ---

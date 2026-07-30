@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_17
 pdf_ref: ch17-trabajo-social-ambiental-clima.pdf
 sha256: 840f5f4b22abd9d0cc0e0066c8a1574e6e1f79bdfcf91bd9f6602f756d34ba33
 type: paper
+visibility: public
 keywords: [trabajo-social, cambio-climatico, sostenibilidad, gestion-de-riesgo-de-desastres, justicia-social, vision-por-computadora, analitica-predictiva, brecha-digital, huella-ambiental-de-la-ia, inteligencia-artificial]
 date_added: 2026-07-05
 ---

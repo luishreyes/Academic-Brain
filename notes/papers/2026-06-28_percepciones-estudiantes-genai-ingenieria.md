@@ -8,6 +8,7 @@ doi: 10.1177/03064190251407621
 pdf_ref: quince_2025_genai-liability-engineering.pdf
 sha256: 9834454468b6ee31c8e32f12a3540da8437dbeadc0aa6d49dc6f343ef4f5b7f3
 type: paper
+visibility: public
 keywords: [etica-de-la-ia, educacion-en-ingenieria, inteligencia-artificial, supervision-humana, evaluacion-educativa, seguridad-de-procesos, integridad-academica, regulacion-de-ia, pensamiento-critico, sobredependencia-de-la-ia]
 date_added: 2026-06-28
 ---

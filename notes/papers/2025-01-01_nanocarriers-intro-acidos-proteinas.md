@@ -8,6 +8,7 @@ doi: 10.1201/9781003473183
 pdf_ref: cruz-2025-nanocarriers-introduccion.pdf
 sha256: 01bc05ab0687848542e30cf9d271ed5eb34dc1ac916decbca58bf8a96a8f4004
 type: paper
+visibility: public
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos, terapia-genica]
 date_added: 2026-06-26
 ---

@@ -8,6 +8,7 @@ doi: 10.1080/02602938.2026.2644516
 pdf_ref: perkins-g_2026_resilient-assessment-verbal-exams.pdf
 sha256: b5310f0bfe27809fa7b992947e9f4c0c946bbff43014340809120ccb3f9cab21
 type: paper
+visibility: public
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, aprendizaje-activo, pensamiento-critico, alfabetizacion-en-ia, futuro-del-trabajo]
 date_added: 2026-06-27
 ---

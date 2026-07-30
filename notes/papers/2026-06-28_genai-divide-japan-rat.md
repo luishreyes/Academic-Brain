@@ -8,6 +8,7 @@ doi: 10.1016/j.tele.2025.102360
 pdf_ref: nakagomi_2026_genai-divide-japan-rat.pdf
 sha256: 938e678e2ab486a1fcd3ceae07c611b400d0994c1b38f5ddeecaa60e767bea7b
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, brecha-digital, adopcion-de-tecnologia, alfabetizacion-en-ia, futuro-del-trabajo, sesgo-cognitivo]
 date_added: 2026-06-28
 ---

@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [distopia, ciencia-ficcion, mayoria-de-edad]
 type: fiction
+visibility: public
 keywords: [distopia, mayoria-de-edad]
 date_added: 2026-07-05
 ---

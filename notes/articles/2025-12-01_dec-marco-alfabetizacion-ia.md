@@ -5,6 +5,7 @@ publication: Digital Education Council
 date: 2025-12-01
 url: https://www.digitaleducationcouncil.com
 type: article
+visibility: public
 keywords: [alfabetizacion-en-ia, educacion-superior, formacion-docente, pensamiento-critico, etica-de-la-ia, supervision-humana, integridad-academica, futuro-del-trabajo, regulacion-de-ia]
 date_added: 2026-06-27
 pdf_ref: dec_2025_ai-literacy-framework.pdf

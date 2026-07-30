@@ -8,6 +8,7 @@ doi: 10.3389/fbioe.2024.1420183
 pdf_ref: guzman-sastoque-2024-crispra-gdnf-parkinson.pdf
 sha256: f12e2ff2c97ad89b74a5614016978be58c15a83d7afd47e181c7a082f418edbb
 type: paper
+visibility: public
 keywords: [terapia-genica, biologia-molecular, nanociencia, biomateriales, desarrollo-de-farmacos]
 date_added: 2026-06-26
 ---

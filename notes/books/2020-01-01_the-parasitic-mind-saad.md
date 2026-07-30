@@ -6,6 +6,7 @@ publisher: Regnery Publishing
 url: 
 isbn: 978-1-68451-126-1
 type: book
+visibility: public
 keywords: [pensamiento-critico, ciencia-y-sociedad, etica-de-la-ciencia]
 date_added: 2026-07-05
 ---

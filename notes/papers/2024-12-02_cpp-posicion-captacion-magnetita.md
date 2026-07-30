@@ -8,6 +8,7 @@ doi: 10.3389/fbioe.2024.1450694
 pdf_ref: salgado-2024-cpp-captacion-magnetita.pdf
 sha256: df48b353465b913af4da03552b98db0f1b1b27cc872bdd3cbc127332d4e40788
 type: paper
+visibility: public
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos, biologia-molecular]
 date_added: 2026-06-26
 ---

@@ -8,6 +8,7 @@ doi:
 pdf_ref: geissler_2025_utqa-thermodynamics-benchmark-preprint.pdf
 sha256: ebf2c8fd2f518c740f215173f5d9ff6b98b5947d57a40a045752a30b53e49f32
 type: paper
+visibility: public
 keywords: [capacidades-de-ia, razonamiento-cuantitativo-llm, tutoria-con-ia, inteligencia-artificial, ingenieria-de-prompts, razonamiento-multimodal, termodinamica, educacion-superior]
 date_added: 2026-06-27
 ---

@@ -6,6 +6,7 @@ publisher: Viking
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [pensamiento-critico, psicologia-social, sesgo-cognitivo, cultura-organizacional, comunicacion-interpersonal]
 date_added: 2026-07-05
 ---

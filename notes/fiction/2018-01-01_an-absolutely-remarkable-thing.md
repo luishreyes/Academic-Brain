@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [ciencia-ficcion, thriller]
 type: fiction
+visibility: public
 keywords: [primer-contacto, ciencia-y-sociedad]
 date_added: 2026-07-05
 ---

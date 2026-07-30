@@ -8,6 +8,7 @@ doi: 10.1016/j.ssci.2024.106608
 pdf_ref: charalampidou_2024_chatgpt-stpa-hazard-analysis.pdf
 sha256: a5e135a1e412f0bc7e0ab5d364930312a64e137508e54b9284f982894052ddbc
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, capacidades-de-ia, alucinaciones-de-ia, supervision-humana, seguridad-de-procesos, ingenieria-de-sistemas]
 date_added: 2026-06-27
 ---

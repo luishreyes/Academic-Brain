@@ -58,21 +58,26 @@ faltantes y 1 obsoleto acumulados en 586 notas.
 
 ## Dónde poner los PDFs
 
-**En `Brain/biblioteca` de Google Drive** (ID `1oH8Gux01JgenFMID2QYj1HUc1dN8Z_Qm`).
+**En `Brain/inbox` de Google Drive** (ID `1f-TJelDlaedTk5UVQaSZOx_YGAJ-HwBN`).
 No en el repo: git guarda cada versión completa de un binario y no la suelta
 nunca. El repo guarda la referencia; Drive guarda el archivo.
 
-**Flujo:** sueltas el PDF en esa carpeta → escribes `/ingest` → Claude lo lee por
-el conector MCP, redacta la nota y commitea.
+**Flujo:** sueltas cualquier cosa en `inbox/` → escribes `/ingest` → Claude
+clasifica, enruta el archivo a su dominio, redacta la nota si corresponde y
+commitea.
 
-**Es una sola carpeta.** No hay `inbox/` ni `procesados/`: el conector MCP no
-puede mover archivos, y de todas formas el registro de qué está ingerido no es
-dónde está el archivo sino si existe una nota que lo referencie. Lo pendiente es
-la diferencia entre lo que hay en Drive y los `pdf_ref` de las notas.
+El inbox es un único punto de entrada **donde no tienes que decidir nada**:
+decidir a dónde va cada cosa es precisamente el trabajo que hace el ingest. Un
+paper acaba en `biblioteca/`, una presentación en `docencia/<curso>/`, una foto
+en `fotografia/`.
+
+Que un PDF esté ingerido no se sabe por su carpeta sino porque existe una nota
+que lo referencia. Lo pendiente es la diferencia entre los archivos y los
+`pdf_ref` de las notas — el dato se deriva, no se mantiene.
 
 **Alternativas:** pegar texto o dar una URL (Claude procesa sin PDF), o subir el
-PDF al chat (Claude lo lee, pero el archivo hay que subirlo a Drive aparte —
-escribir en Drive requiere una credencial OAuth que el conector no incluye).
+PDF al chat (Claude lo lee, pero subirlo a Drive requiere el servidor
+`drive_mcp`, que no siempre está activo).
 
 Convención de nombres canónicos: `apellido-primer-autor + año + slug-corto.pdf`  
 Ejemplo: `kestin2025-tutoria-ia-supera-activo.pdf`
@@ -123,6 +128,7 @@ url:
 doi: 
 pdf_ref:            # nombre canónico, SIN ruta, ej: apellido_2024_slug.pdf
 sha256:             # hash del PDF — verifica que es el archivo que la nota describe
+visibility: public  # public | private — obligatorio, ver decisions/0004
 type: paper
 keywords: []
 date_added: 

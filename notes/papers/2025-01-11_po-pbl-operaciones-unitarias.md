@@ -8,6 +8,7 @@ doi: 10.1016/j.ece.2025.01.001
 pdf_ref: acuna-2025-po-pbl-operaciones-unitarias.pdf
 sha256: 03ca8283ce616fa3683374754401e34d2d6f106789d5c942d62b42402dcaf8a0
 type: paper
+visibility: public
 keywords: [educacion-superior, ingenieria-quimica, aprendizaje-activo, inteligencia-artificial, futuro-del-trabajo]
 date_added: 2026-06-26
 ---

@@ -6,6 +6,7 @@ publisher:
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [psicologia-del-bienestar, filosofia, comunicacion-interpersonal]
 date_added: 2026-07-05
 ---

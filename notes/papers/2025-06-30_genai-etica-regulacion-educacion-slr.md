@@ -8,6 +8,7 @@ doi: 10.3389/feduc.2025.1565938
 pdf_ref: garcia-lopez_2025_genai-ethical-regulatory-review.pdf
 sha256: 7b6dc26c1c6b771ac4ccd3eb9e87bf43cd2d794be9ec78041b5731aec2b856b2
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, etica-de-la-ia, regulacion-de-ia, educacion-superior, revision-sistematica-de-literatura, integridad-academica, equidad-educativa, personalizacion-del-aprendizaje, retroalimentacion-con-ia, supervision-humana, alfabetizacion-en-ia]
 date_added: 2026-06-28
 ---
