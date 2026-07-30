@@ -49,4 +49,4 @@ Revisión bibliográfica de literatura sobre edición genómica en modelos de EP
 - [[concepts/genomica]]
 - [[concepts/desarrollo-de-farmacos]]
 - [[concepts/ingenieria-quimica]]
-- [[notes/papers/2020-07-30_enfermedades-lisosomales-terapias-alternativas]]
+- [[notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas]]

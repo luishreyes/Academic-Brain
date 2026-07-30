@@ -17,7 +17,7 @@ Vault para construir una base de conocimiento académico personal. Conecta paper
 | `Noticias/` | Boletines semanales de IA en educación e ingeniería |
 | `Noticias-Biotec/` | Boletines semanales de investigación en biotecnología |
 | `rutinas/` | Prompts versionados de las dos Rutinas semanales |
-| `tools/` | Utilidades del vault (extracción de figuras de PDF) |
+| `tools/` | Utilidades del vault (backlinks derivados, extracción de figuras) |
 
 ## Visualizador web (GitHub Pages)
 
@@ -38,6 +38,20 @@ Los boletines semanales se leen en `docs/noticias.html`, compuestos como revista
 - `docs/build-noticias.mjs` — genera `docs/noticias-data.js` desde `Noticias/` y `Noticias-Biotec/`.
 - `docs/figuras/` — imágenes referenciadas por los bloques `figura`, con su nota de licencia.
 - `tools/extraer-figuras.py` — saca figuras de un PDF del vault hacia `docs/figuras/`.
+
+## Backlinks de las páginas de concepto
+
+La sección `## Notas que usan este concepto` **se deriva**, no se escribe. La
+fuente de verdad es el campo `keywords:` del frontmatter de cada nota.
+
+```bash
+python3 tools/regenerar-backlinks.py           # aplica los cambios
+python3 tools/regenerar-backlinks.py --check   # no escribe; exit 1 si hay deriva
+```
+
+**Regla:** después de crear o editar notas, correr el regenerador antes de
+`node docs/build.mjs`. Mantener la lista a mano fue lo que produjo 39 backlinks
+faltantes y 1 obsoleto acumulados en 586 notas.
 
 **Regla:** después de escribir o editar un boletín, ejecutar `node docs/build-noticias.mjs` y commitear `docs/noticias-data.js` junto al `.md`.
 

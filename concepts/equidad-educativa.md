@@ -75,3 +75,4 @@ Distribución equitativa de oportunidades y resultados de aprendizaje; incluye e
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
 - [[notes/books/2008-01-01_outliers-gladwell]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap10-escolar]]
+- [[notes/articles/2025-04-08_llm-laboratorios-quimica-materiales]]

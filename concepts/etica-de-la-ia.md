@@ -129,3 +129,6 @@ Estudio de los principios morales que deben guiar el diseño y comportamiento de
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap22-gobernanza]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion]]
+- [[notes/articles/2024-07-02_two-lane-approach-faq]]
+- [[notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion]]
+- [[notes/articles/2025-04-08_llm-laboratorios-quimica-materiales]]

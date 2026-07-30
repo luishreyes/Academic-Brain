@@ -142,3 +142,6 @@ Diseño, validez y mecanismos de evaluación del aprendizaje en educación super
 - [[notes/papers/2026-01-01_chatgpt5-glaucoma-residentes]]
 - [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]
 - [[notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes]]
+- [[notes/articles/2024-07-02_two-lane-approach-faq]]
+- [[notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion]]
+- [[notes/articles/2026-05-06_teqsa-genai-integridad-reforma-evaluacion]]
