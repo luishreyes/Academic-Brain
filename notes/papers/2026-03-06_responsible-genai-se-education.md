@@ -5,7 +5,8 @@ year: 2026
 journal: The Journal of Systems and Software
 url: https://doi.org/10.1016/j.jss.2026.112846
 doi: 10.1016/j.jss.2026.112846
-pdf_local: sources/pdfs/policy-ethics-accreditation/garousi_2026_responsible-genai-see-jss.pdf
+pdf_ref: garousi_2026_responsible-genai-see-jss.pdf
+sha256: 237b791d74a484f9f4c0e907256a45423768f2e54fa88c13dea237307b69e332
 type: paper
 keywords: [inteligencia-artificial, educacion-en-programacion, pensamiento-critico, sobredependencia-de-la-ia, alfabetizacion-en-ia, integridad-academica, taxonomia-de-bloom, supervision-humana, evaluacion-educativa, etica-de-la-ia, deteccion-de-texto-ia]
 date_added: 2026-06-28

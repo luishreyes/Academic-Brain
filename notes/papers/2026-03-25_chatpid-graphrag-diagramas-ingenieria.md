@@ -5,7 +5,8 @@ year: 2026
 journal: arXiv (preprint)
 url: https://arxiv.org/abs/2603.18258
 doi: 
-pdf_local: sources/pdfs/capability-reliability/alimin_2026_chatpid-graphrag-engineering-diagrams.pdf
+pdf_ref: alimin_2026_chatpid-graphrag-engineering-diagrams.pdf
+sha256: d46327616f634bf9bfbe217829ee8218a9ffe47de4f4ceccc32c7e8d4c151deb
 type: paper
 keywords: [inteligencia-artificial, agentes-de-ia, alucinaciones-de-ia, capacidades-de-ia, ingenieria-quimica, grafos-de-conocimiento, generacion-aumentada-por-recuperacion, supervision-humana]
 date_added: 2026-06-27

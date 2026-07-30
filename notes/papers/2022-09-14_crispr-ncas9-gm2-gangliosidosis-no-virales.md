@@ -5,7 +5,8 @@ year: 2022
 journal: "International Journal of Molecular Sciences"
 url: "https://doi.org/10.3390/ijms231810672"
 doi: "10.3390/ijms231810672"
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/leal-2022-crispr-ncas9-gm2-gangliosidosis.pdf
+pdf_ref: leal-2022-crispr-ncas9-gm2-gangliosidosis.pdf
+sha256: dabd52400fee7d2e361ed62d0d26a59338e51da7f2fee1e1eda5b9fd46f05ba4
 type: paper
 keywords: [terapia-genica, enfermedades-raras, biomateriales, nanociencia, genomica, ingenieria-quimica]
 date_added: 2026-06-26

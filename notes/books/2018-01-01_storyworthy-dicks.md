@@ -5,7 +5,6 @@ year: 2018
 publisher: New World Library
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [comunicacion-interpersonal, habilidades-de-presentacion, psicologia-del-bienestar, creatividad]
 date_added: 2026-07-05

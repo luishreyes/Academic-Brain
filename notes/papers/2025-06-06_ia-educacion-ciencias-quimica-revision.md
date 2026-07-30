@@ -5,7 +5,8 @@ year: 2025
 journal: Discover Education
 url: https://doi.org/10.1007/s44217-025-00622-3
 doi: 10.1007/s44217-025-00622-3
-pdf_local: sources/pdfs/existing-reviews-gapmap/erumit_2025_ai-science-chemistry.pdf
+pdf_ref: erumit_2025_ai-science-chemistry.pdf
+sha256: ca2cc15fe35c4fb430e5d25f122f0313ce85740b8f59793ec0aaea7c3fdac458
 type: paper
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, tutoria-con-ia, personalizacion-del-aprendizaje, etica-de-la-ia, alucinaciones-de-ia]
 date_added: 2026-06-28

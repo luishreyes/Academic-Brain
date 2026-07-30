@@ -5,7 +5,6 @@ year: 2024
 publisher: Planeta / Universidad del Rosario
 url: 
 isbn: "9786287734418"
-pdf_local: 
 type: book
 keywords: [fotografia, fotografia-documental, fotografia-en-blanco-y-negro, fotoperiodismo, fotografia-social, composicion-visual]
 date_added: 2026-07-08

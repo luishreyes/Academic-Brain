@@ -5,7 +5,8 @@ year: 2026
 journal: Journal of Science Education and Technology
 url: https://doi.org/10.1007/s10956-026-10333-5
 doi: 10.1007/s10956-026-10333-5
-pdf_local: sources/pdfs/cheme-applications/nguyen_2026_llm-simulate-student-scientific-thinking.pdf
+pdf_ref: nguyen_2026_llm-simulate-student-scientific-thinking.pdf
+sha256: 203ecbaba4df1779326aa1fe758edc42812585bb8d4005c53a294fe7dac6cd3c
 type: paper
 keywords: [inteligencia-artificial, educacion-k12, psicologia-educativa, capacidades-de-ia, formacion-docente, retroalimentacion-con-ia, supervision-humana, evaluacion-educativa]
 date_added: 2026-06-27

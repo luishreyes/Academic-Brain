@@ -5,7 +5,8 @@ year: 2026
 journal: Food Research International
 url: https://doi.org/10.1016/j.foodres.2026.118443
 doi: 10.1016/j.foodres.2026.118443
-pdf_local: sources/pdfs/food-engineering/wang-2026-levaduras-no-saccharomyces-cerveza.pdf
+pdf_ref: wang-2026-levaduras-no-saccharomyces-cerveza.pdf
+sha256: 37d8005c405fe18ef39ab31e7afa1e40b2a13083bf37b7a8c8d6266ce4ecbcf0
 type: paper
 keywords: [ingenieria-de-alimentos, metabolitos-secundarios, biologia-molecular, ingenieria-metabolica]
 date_added: 2026-07-05

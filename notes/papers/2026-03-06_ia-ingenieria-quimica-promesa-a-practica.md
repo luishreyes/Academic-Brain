@@ -5,7 +5,8 @@ year: 2026
 journal: AIChE Journal
 url: https://doi.org/10.1002/aic.70358
 doi: 10.1002/aic.70358
-pdf_local: sources/pdfs/capability-reliability/chew_2026_ai-chemeng-promise-to-practice.pdf
+pdf_ref: chew_2026_ai-chemeng-promise-to-practice.pdf
+sha256: 42ac7b15c325db4532b6dc4fa47f25d82b832e6e53760a5d9b0d223c0bed3bc7
 type: paper
 keywords: [inteligencia-artificial, ingenieria-quimica, simulacion-computacional, capacidades-de-ia, regulacion-de-ia, supervision-humana, sostenibilidad, educacion-en-ingenieria, adopcion-de-tecnologia]
 date_added: 2026-06-27

@@ -5,7 +5,8 @@ year: 2023
 journal: Tertiary Education Quality and Standards Agency (TEQSA)
 url: https://www.teqsa.gov.au/
 doi:
-pdf_local: sources/pdfs/integrity-by-design/lodge_2023_teqsa-assessment-reform.pdf
+pdf_ref: lodge_2023_teqsa-assessment-reform.pdf
+sha256: 32f64ca1dc80e499483a631d089982f439e06fbb5e72fdc25644e36558d7908c
 type: paper
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, regulacion-de-ia, pensamiento-critico, supervision-humana, etica-de-la-ia, alfabetizacion-en-ia, deteccion-de-texto-ia]
 date_added: 2026-06-28

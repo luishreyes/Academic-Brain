@@ -5,7 +5,8 @@ year: 2025
 journal: Education Sciences
 url: https://doi.org/10.3390/educsci15020174
 doi: 10.3390/educsci15020174
-pdf_local: sources/pdfs/assessment-redesign/khlaif_2025_redesigning-assessments-framework.pdf
+pdf_ref: khlaif_2025_redesigning-assessments-framework.pdf
+sha256: 688a231fe1ccb9bcc3b43560bdb887bdc626cbdd45fdef71e1bbae667ce9c262
 type: paper
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, pensamiento-critico, formacion-docente, equidad-educativa, etica-de-la-ia, futuro-del-trabajo, supervision-humana]
 date_added: 2026-06-27

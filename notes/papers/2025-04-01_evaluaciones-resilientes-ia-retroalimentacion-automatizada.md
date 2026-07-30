@@ -5,7 +5,8 @@ year: 2025
 journal: arXiv preprint (arXiv:2503.23622)
 url: https://arxiv.org/abs/2503.23622
 doi: 
-pdf_local: sources/pdfs/assessment-redesign/akbar_2025_ai-resilient-automated-feedback.pdf
+pdf_ref: akbar_2025_ai-resilient-automated-feedback.pdf
+sha256: 5753de58efda64977ebc9ad3535720d3c91bb767fdf8ba048a16222700a7ab76
 type: paper
 keywords: [evaluacion-educativa, integridad-academica, pensamiento-critico, creatividad, inteligencia-artificial, educacion-superior, etica-de-la-ia, supervision-humana, educacion-en-programacion]
 date_added: 2026-06-27

@@ -5,7 +5,8 @@ year: 2025
 journal: "arXiv preprint (preprint)"
 url: http://arxiv.org/abs/2506.22231
 doi:
-pdf_local: sources/pdfs/policy-ethics-accreditation/beale_2025_adapting-university-policies-preprint.pdf
+pdf_ref: beale_2025_adapting-university-policies-preprint.pdf
+sha256: 833045a9a252d63e0c2d9d0aca4932d89af9fe724e405132495be2128ebe4ec9
 type: paper
 keywords: [educacion-superior, regulacion-de-ia, integridad-academica, evaluacion-educativa, deteccion-de-texto-ia, alfabetizacion-en-ia, etica-de-la-ia, equidad-educativa, inteligencia-artificial, supervision-humana, sobredependencia-de-la-ia]
 date_added: 2026-06-28

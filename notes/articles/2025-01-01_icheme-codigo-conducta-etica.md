@@ -7,7 +7,8 @@ url:
 type: article
 keywords: [etica-de-la-ciencia, ingenieria-quimica, seguridad-de-procesos, sostenibilidad, etica-de-la-ia, supervision-humana, adopcion-de-tecnologia]
 date_added: 2026-06-28
-pdf_local: sources/pdfs/policy-ethics-accreditation/icheme_2025_code-of-conduct-ethics.pdf
+pdf_ref: icheme_2025_code-of-conduct-ethics.pdf
+sha256: a3523af605e40e869066d34dae4890c7d4515c498e1460181d2a21f1969c9ecd
 ---
 
 # Code of Conduct and Ethics (2025) — Regulation 4B (IChemE)

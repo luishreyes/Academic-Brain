@@ -5,7 +5,8 @@ year: 2026
 journal: Assessment & Evaluation in Higher Education
 url: https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2644516
 doi: 10.1080/02602938.2026.2644516
-pdf_local: sources/pdfs/assessment-redesign/perkins-g_2026_resilient-assessment-verbal-exams.pdf
+pdf_ref: perkins-g_2026_resilient-assessment-verbal-exams.pdf
+sha256: b5310f0bfe27809fa7b992947e9f4c0c946bbff43014340809120ccb3f9cab21
 type: paper
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, aprendizaje-activo, pensamiento-critico, alfabetizacion-en-ia, futuro-del-trabajo]
 date_added: 2026-06-27

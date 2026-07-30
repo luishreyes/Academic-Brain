@@ -5,7 +5,8 @@ year: 2026
 journal: Journal of Consumer Psychology
 url: https://doi.org/10.1002/jcpy.70033
 doi: 10.1002/jcpy.70033
-pdf_local: sources/pdfs/research-methodology/gal_2026_three-strategies-research-progress.pdf
+pdf_ref: gal_2026_three-strategies-research-progress.pdf
+sha256: f3736623619f9052fab36a164b582833c7341fb92c96181f3bc3bf12631c65f5
 type: paper
 keywords: [comportamiento-del-consumidor, epistemologia, filosofia-de-la-ciencia, replicabilidad-cientifica, construccion-de-teoria, publicacion-academica]
 date_added: 2026-07-04

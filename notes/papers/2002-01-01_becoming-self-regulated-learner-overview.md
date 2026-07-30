@@ -5,7 +5,8 @@ year: 2002
 journal: Theory Into Practice
 url: https://doi.org/10.1207/s15430421tip4102_2
 doi: 10.1207/s15430421tip4102_2
-pdf_local: sources/pdfs/scaffolding-socratic-metacognition/zimmerman_2002_becoming_srl.pdf
+pdf_ref: zimmerman_2002_becoming_srl.pdf
+sha256: 60afc7765dd18407d3ddea6124ec0c2a9ae62b666e7cc2b9956a9d2e835106c9
 type: paper
 keywords: [autorregulacion-del-aprendizaje, psicologia-educativa, motivacion-y-compromiso-estudiantil, evaluacion-educativa, pensamiento-critico]
 date_added: 2026-06-28

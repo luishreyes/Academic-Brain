@@ -7,7 +7,8 @@ url: https://er.educause.edu/articles/2025/6/ethics-is-the-edge-the-future-of-ai
 type: article
 keywords: [etica-de-la-ia, educacion-superior, regulacion-de-ia, equidad-educativa, liderazgo-educativo, supervision-humana, confianza-en-la-ia, evaluacion-educativa]
 date_added: 2026-06-28
-pdf_local: sources/pdfs/policy-ethics-accreditation/georgieva_2025_ethics-is-the-edge-educause.pdf
+pdf_ref: georgieva_2025_ethics-is-the-edge-educause.pdf
+sha256: addc7b9d5f93f13c0e3a4f73883793468c24b7a8e3c91b6f69a6f6e849b7ef88
 ---
 
 # Ethics Is the Edge: The Future of AI in Higher Education

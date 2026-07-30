@@ -5,7 +5,6 @@ year: 2006
 publisher: Mercure de France / Periférica & Errata naturae
 url: 
 isbn: "9788418838118"
-pdf_local: 
 type: book
 keywords: [fotografia, fotografia-callejera, fotografia-en-blanco-y-negro, fotografia-social, composicion-visual, dignidad-humana]
 date_added: 2026-07-08

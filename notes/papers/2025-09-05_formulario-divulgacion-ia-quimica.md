@@ -5,7 +5,8 @@ year: 2025
 journal: Frontiers in Education
 url: https://doi.org/10.3389/feduc.2025.1654805
 doi: 10.3389/feduc.2025.1654805
-pdf_local: sources/pdfs/integrity-by-design/garciaramos_2025_ai-disclosure-form-chemistry.pdf
+pdf_ref: garciaramos_2025_ai-disclosure-form-chemistry.pdf
+sha256: 30bcf62241d6ce1998a636c6ac200c4a25c1d0c9e7fe615622d2ea262051c8d3
 type: paper
 keywords: [integridad-academica, alfabetizacion-en-ia, etica-de-la-ia, autorregulacion-del-aprendizaje, evaluacion-educativa, educacion-superior, diseno-universal-para-el-aprendizaje, equidad-educativa, inteligencia-artificial]
 date_added: 2026-06-28

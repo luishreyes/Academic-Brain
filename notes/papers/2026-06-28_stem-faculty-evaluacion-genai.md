@@ -5,7 +5,8 @@ year: 2025
 journal: "2025 IEEE Frontiers in Education Conference (FIE)"
 url:
 doi: 10.1109/FIE63631.2025.11011019
-pdf_local: sources/pdfs/faculty-development-implementation/butt_2025_stem-assessment-design.pdf
+pdf_ref: butt_2025_stem-assessment-design.pdf
+sha256: 522bd50e41cc1e2da60dd3cfc4888adaf63b118310d4ba04164f004602b2ac70
 type: paper
 keywords: [evaluacion-educativa, inteligencia-artificial, integridad-academica, educacion-superior, STEM, educacion-en-ingenieria, formacion-docente, deteccion-de-texto-ia, equidad-educativa, etica-de-la-ia, autorregulacion-del-aprendizaje]
 date_added: 2026-06-28

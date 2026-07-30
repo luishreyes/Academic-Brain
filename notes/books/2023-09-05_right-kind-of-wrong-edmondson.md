@@ -5,7 +5,6 @@ year: 2023
 publisher: Atria Books
 url: 
 isbn: 9781982195083
-pdf_local: 
 type: book
 keywords: [psicologia-educativa, desarrollo-del-caracter, cultura-organizacional, liderazgo-organizacional, descubrimiento-cientifico, sesgo-cognitivo, epistemologia-del-riesgo, bienestar-academico, creatividad]
 date_added: 2026-06-25

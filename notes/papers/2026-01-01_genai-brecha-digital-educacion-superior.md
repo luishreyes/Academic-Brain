@@ -5,7 +5,8 @@ year: 2026
 journal: Discover Computing
 url: https://doi.org/10.1007/s10791-026-10044-w
 doi: 10.1007/s10791-026-10044-w
-pdf_local: sources/pdfs/risks-overreliance-equity/jamaleddine_2026_genai-digital-divide-evidence-map.pdf
+pdf_ref: jamaleddine_2026_genai-digital-divide-evidence-map.pdf
+sha256: 37da75cc0a70da58f8b683ac78042c206a7c20bc75d8023d3ab37d7ee981ff3f
 type: paper
 keywords: [inteligencia-artificial, equidad-educativa, educacion-superior, alfabetizacion-en-ia, revision-sistematica-de-literatura, adopcion-de-tecnologia, confianza-en-la-ia, regulacion-de-ia, brecha-digital]
 date_added: 2026-06-28

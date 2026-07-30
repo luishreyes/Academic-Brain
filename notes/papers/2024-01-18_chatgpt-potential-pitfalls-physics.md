@@ -5,7 +5,8 @@ year: 2024
 journal: Frontiers in Education
 url: https://www.frontiersin.org/articles/10.3389/feduc.2023.1330486/full
 doi: 10.3389/feduc.2023.1330486
-pdf_local: sources/pdfs/capability-reliability/wang_2024_chatgpt-science-engineering-pitfalls.pdf
+pdf_ref: wang_2024_chatgpt-science-engineering-pitfalls.pdf
+sha256: 14e5f2e2adc7ab3e652abb14a8119f144a43ee0f8a9118d9f03be66e106a28d3
 type: paper
 keywords: [capacidades-de-ia, inteligencia-artificial, alucinaciones-de-ia, pensamiento-critico, supervision-humana, STEM, educacion-en-ingenieria, evaluacion-educativa, tutoria-con-ia]
 date_added: 2026-06-27

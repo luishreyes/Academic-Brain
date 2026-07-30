@@ -7,7 +7,8 @@ url:
 type: article
 keywords: [capacidades-de-ia, educacion-en-ingenieria, evaluacion-educativa, pensamiento-critico, creatividad, sobredependencia-de-la-ia, alucinaciones-de-ia, inteligencia-artificial]
 date_added: 2026-06-28
-pdf_local: sources/pdfs/risks-overreliance-equity/kwasi-effah_2024_chatgpt-fe-nipes-commentary.pdf
+pdf_ref: kwasi-effah_2024_chatgpt-fe-nipes-commentary.pdf
+sha256: f5520d94772d7042c448f09273223a17f4e7ac7bef01b42ddb62e80e4c06796d
 ---
 
 # El desempeño de ChatGPT en el examen de Fundamentos de Ingeniería (FE): un foco sobre las fallas de la educación en ingeniería

@@ -5,7 +5,6 @@ year: 2000
 publisher: Little, Brown and Company
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [psicologia-social, comportamiento-del-consumidor, ciencia-y-sociedad, evolucion-cultural, adopcion-de-tecnologia]
 date_added: 2026-07-05

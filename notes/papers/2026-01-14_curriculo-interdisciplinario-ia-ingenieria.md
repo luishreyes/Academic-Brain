@@ -5,7 +5,8 @@ year: 2026
 journal: Computer Applications in Engineering Education
 url: https://doi.org/10.1002/cae.70151
 doi: 10.1002/cae.70151
-pdf_local: sources/pdfs/ai-literacy-competency/schleiss_2026_interdisciplinary-ai-curriculum.pdf
+pdf_ref: schleiss_2026_interdisciplinary-ai-curriculum.pdf
+sha256: 6156e1e2a15526a7be72adcd54aeab955a103592346894eadf431049b89ec49d
 type: paper
 keywords: [alfabetizacion-en-ia, educacion-en-ingenieria, educacion-superior, interdisciplinariedad, futuro-del-trabajo, evaluacion-educativa]
 date_added: 2026-06-27

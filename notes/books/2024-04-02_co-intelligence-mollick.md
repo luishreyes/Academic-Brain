@@ -5,7 +5,6 @@ year: 2024
 publisher: Penguin Publishing Group
 url: https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/
 isbn: 9780593716724
-pdf_local: sources/pdfs/mollick2024-co-intelligence.epub
 type: book
 keywords: [inteligencia-artificial, futuro-del-trabajo, tutoria-con-ia, etica-de-la-ia, alucinaciones-de-ia, alineamiento-de-ia, alfabetizacion-en-ia, capacidades-de-ia, creatividad, supervision-humana, educacion-superior]
 date_added: 2026-06-25

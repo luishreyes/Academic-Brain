@@ -5,7 +5,8 @@ year: 2022
 journal: Pharmaceutics
 url: https://doi.org/10.3390/pharmaceutics14020315
 doi: 10.3390/pharmaceutics14020315
-pdf_local: sources/pdfs/microfluidics/torres2022-magnetoliposomas-microfluidica-entrega-oral.pdf
+pdf_ref: torres2022-magnetoliposomas-microfluidica-entrega-oral.pdf
+sha256: f59fed2283d8f0381b7ba8c66f60d8d4e2c8c906e97836a10c90212de3d50a76
 type: paper
 keywords: [microfluidica, biomateriales, nanociencia, desarrollo-de-farmacos, ingenieria-quimica]
 date_added: 2026-06-26

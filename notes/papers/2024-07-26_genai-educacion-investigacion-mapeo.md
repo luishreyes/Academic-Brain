@@ -5,7 +5,8 @@ year: 2024
 journal: Review of Education
 url: https://doi.org/10.1002/rev3.3489
 doi: 10.1002/rev3.3489
-pdf_local: sources/pdfs/existing-reviews-gapmap/yusuf_2024_genai-mapping.pdf
+pdf_ref: yusuf_2024_genai-mapping.pdf
+sha256: 20a59892a1858a371fe5267b4d6e07ea475e45fc8bdc6d7f082f8a7aaa0d8472
 type: paper
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, analisis-bibliometrico, etica-de-la-ia, adopcion-de-tecnologia, educacion-superior, integridad-academica]
 date_added: 2026-06-28

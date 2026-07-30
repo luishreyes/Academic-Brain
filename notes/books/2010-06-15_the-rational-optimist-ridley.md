@@ -5,7 +5,6 @@ year: 2010
 publisher: HarperCollins
 url: 
 isbn: 978-0-06-145205-5
-pdf_local: 
 type: book
 keywords: [historia-de-la-innovacion, economia-de-la-innovacion, modernizacion, ciencia-y-sociedad, futuro-del-trabajo, comercio-y-prosperidad, evolucion-cultural, sesgo-cognitivo]
 date_added: 2026-06-25

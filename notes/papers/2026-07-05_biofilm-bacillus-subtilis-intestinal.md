@@ -5,7 +5,8 @@ year: 2026
 journal: Gut Microbes
 url: https://doi.org/10.1080/19490976.2026.2684066
 doi: 10.1080/19490976.2026.2684066
-pdf_local: sources/pdfs/metabolic-biotechnology/kunyeit-2026-biofilm-bacillus-intestinal.pdf
+pdf_ref: kunyeit-2026-biofilm-bacillus-intestinal.pdf
+sha256: 274b3f842a2f6e7afb1297612b1eb0af72ec41adc8429d7361d3a3bf625420cc
 type: paper
 keywords: [biopeliculas-bacterianas, probioticos, biologia-molecular, biomateriales, ingenieria-de-alimentos]
 date_added: 2026-07-05

@@ -5,7 +5,8 @@ year: 2026
 journal: "Emerging Technologies in Applied Engineering and Education (EAI/Springer Innovations in Communication and Computing)"
 url: https://doi.org/10.1007/978-3-032-10310-9_13
 doi: 10.1007/978-3-032-10310-9_13
-pdf_local: sources/pdfs/risks-overreliance-equity/gonzabay-jimenez_2026_genai-digital-divide-higher-ed.pdf
+pdf_ref: gonzabay-jimenez_2026_genai-digital-divide-higher-ed.pdf
+sha256: 1d3a4ae98b6145a4369f4dd88acc090dfe18e4358d7949c8694691664469ffc0
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, equidad-educativa, alfabetizacion-en-ia, sobredependencia-de-la-ia, pensamiento-critico, ingenieria-de-prompts, evaluacion-educativa, formacion-docente, integridad-academica, revision-sistematica-de-literatura, brecha-digital]
 date_added: 2026-06-28

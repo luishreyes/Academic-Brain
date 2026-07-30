@@ -5,7 +5,8 @@ year: 2026
 journal: Journal of Chemical Education
 url: https://pubs.acs.org/doi/10.1021/acs.jchemed.5c01531
 doi: 10.1021/acs.jchemed.5c01531
-pdf_local: sources/pdfs/cheme-applications/garcia-morales_2026_genai-excel-vba-mass-transfer-separations.pdf
+pdf_ref: garcia-morales_2026_genai-excel-vba-mass-transfer-separations.pdf
+sha256: c526e8d81db9f03bde5b1bdb24f42a8fb7ee62a213917673083def682f24435a
 type: paper
 keywords: [ingenieria-quimica, educacion-en-ingenieria, inteligencia-artificial, aprendizaje-activo, simulacion-computacional, educacion-en-programacion, pensamiento-critico, supervision-humana]
 date_added: 2026-06-27

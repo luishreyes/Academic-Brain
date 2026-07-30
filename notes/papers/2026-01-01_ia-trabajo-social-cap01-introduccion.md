@@ -5,7 +5,8 @@ year: 2026
 journal: "Artificial Intelligence in Social Work (An & Lindsey, eds.), Springer"
 url: https://doi.org/10.1007/978-3-032-18443-6_1
 doi: 10.1007/978-3-032-18443-6_1
-pdf_local: sources/pdfs/ai-social-work/ch01-introduccion.pdf
+pdf_ref: ch01-introduccion.pdf
+sha256: f718ca02969bdc559915a7da6c1ce6a430273450c21d1bc1afa20fc3a6c4c545
 type: paper
 keywords: [trabajo-social, inteligencia-artificial, alfabetizacion-en-ia, etica-de-la-ia, justicia-social, analitica-predictiva, sesgo-algoritmico, supervision-humana, procesamiento-de-lenguaje-natural]
 date_added: 2026-07-05

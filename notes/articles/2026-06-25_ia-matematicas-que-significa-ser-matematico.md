@@ -5,7 +5,8 @@ publication: IEEE Spectrum
 date: 2026-06-25
 url: https://spectrum.ieee.org/ai-in-mathematics
 type: article
-pdf_local: sources/pdfs/ai-science-society/skuse_2026_ai-mathematics-big-questions.pdf
+pdf_ref: skuse_2026_ai-mathematics-big-questions.pdf
+sha256: 914cf256097742ea9aa0012263fea162286f222f29bd4c222aac81796cfb2a08
 keywords: [inteligencia-artificial, razonamiento-cuantitativo-llm, capacidades-de-ia, agentes-de-ia, epistemologia, filosofia, futuro-del-trabajo, descarga-cognitiva]
 date_added: 2026-07-01
 ---

@@ -5,7 +5,6 @@ year: 2011
 publisher: Simon & Schuster
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [historia-de-la-innovacion, economia-de-la-innovacion, liderazgo-organizacional, diseno-de-producto, cultura-organizacional]
 date_added: 2026-07-05

@@ -5,7 +5,8 @@ year: 2025
 journal: 
 url: 
 doi: 
-pdf_local: sources/pdfs/learning-impact-evidence/yunus_2025_codesign-metacognitive-laziness.pdf
+pdf_ref: yunus_2025_codesign-metacognitive-laziness.pdf
+sha256: 190353738a06dcf001979b33ff983d541c1e882de55cbdbc03febf270e88bf64
 type: paper
 keywords: [retroalimentacion-con-ia, autorregulacion-del-aprendizaje, equidad-educativa, generacion-aumentada-por-recuperacion, personalizacion-del-aprendizaje, diseno-universal-para-el-aprendizaje, formacion-docente, motivacion-y-compromiso-estudiantil, inteligencia-artificial, evaluacion-educativa]
 date_added: 2026-06-28

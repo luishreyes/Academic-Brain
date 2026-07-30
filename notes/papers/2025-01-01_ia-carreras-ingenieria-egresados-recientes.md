@@ -5,7 +5,8 @@ year: 2025
 journal: International Journal of STEM Education
 url: https://doi.org/10.1186/s40594-025-00583-x
 doi: 10.1186/s40594-025-00583-x
-pdf_local: sources/pdfs/risks-overreliance-equity/martin_2025_ai-engineering-careers-graduates.pdf
+pdf_ref: martin_2025_ai-engineering-careers-graduates.pdf
+sha256: 06a67044f83781cbaff50738eaf85813219659957deb7df7c0eba642b70d0ab7
 type: paper
 keywords: [inteligencia-artificial, futuro-del-trabajo, educacion-en-ingenieria, educacion-superior, alfabetizacion-en-ia, adopcion-de-tecnologia, etica-de-la-ia, supervision-humana]
 date_added: 2026-06-28

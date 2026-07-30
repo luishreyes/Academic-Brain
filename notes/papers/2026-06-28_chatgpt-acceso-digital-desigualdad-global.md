@@ -5,7 +5,8 @@ year: 2026
 journal: Social Sciences & Humanities Open
 url: https://doi.org/10.1016/j.ssaho.2026.102479
 doi: 10.1016/j.ssaho.2026.102479
-pdf_local: sources/pdfs/risks-overreliance-equity/bencsik_2026_chatgpt-access-global-inequality.pdf
+pdf_ref: bencsik_2026_chatgpt-access-global-inequality.pdf
+sha256: 901eee6c01452237192545fdb5c1d1ea87e371dd47323753527cc4d53543de56
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, equidad-educativa, adopcion-de-tecnologia, alfabetizacion-en-ia, sostenibilidad, psicometria, ensenanza-de-lenguas, brecha-digital]
 date_added: 2026-06-28

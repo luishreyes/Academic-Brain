@@ -5,7 +5,8 @@ year: 2026
 journal: "Artificial Intelligence in Social Work (An & Lindsey, eds.), Springer"
 url: https://doi.org/10.1007/978-3-032-18443-6_10
 doi: 10.1007/978-3-032-18443-6_10
-pdf_local: sources/pdfs/ai-social-work/ch10-trabajo-social-escolar.pdf
+pdf_ref: ch10-trabajo-social-escolar.pdf
+sha256: b0b2a768e0b3420df920b718816059c0f6bb320852d546c285d4f9048cfad825
 type: paper
 keywords: [trabajo-social, educacion-k12, salud-mental, inteligencia-artificial, analitica-predictiva, procesamiento-de-lenguaje-natural, vision-por-computadora, sesgo-algoritmico, equidad-educativa, ia-explicable]
 date_added: 2026-07-05

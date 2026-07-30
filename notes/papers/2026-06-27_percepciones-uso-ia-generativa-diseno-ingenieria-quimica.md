@@ -5,7 +5,8 @@ year: 2025
 journal: ASEE Annual Conference & Exposition (Paper ID #49274)
 url: 
 doi: 
-pdf_local: sources/pdfs/cheme-applications/verrett_2025_student-perceptions-design.pdf
+pdf_ref: verrett_2025_student-perceptions-design.pdf
+sha256: 2964dc18b98b3eba69cf401e96e818828e58e1c779c5e2fdfca218801b3e237c
 type: paper
 keywords: [educacion-en-ingenieria, ingenieria-quimica, inteligencia-artificial, integridad-academica, pensamiento-critico, educacion-superior, adopcion-de-tecnologia]
 date_added: 2026-06-27

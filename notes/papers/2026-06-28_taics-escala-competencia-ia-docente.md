@@ -5,7 +5,8 @@ year: 2025
 journal: "Education and Information Technologies"
 url: https://doi.org/10.1007/s10639-024-13094-z
 doi: 10.1007/s10639-024-13094-z
-pdf_local: sources/pdfs/faculty-development-implementation/chiu_2024_taics-scale.pdf
+pdf_ref: chiu_2024_taics-scale.pdf
+sha256: 8fa11abb54472ad22f09732a0f027014b11e778fd9ca1413519220adbceee253
 type: paper
 keywords: [formacion-docente, alfabetizacion-en-ia, educacion-k12, psicometria, evaluacion-educativa, etica-de-la-ia, inteligencia-artificial]
 date_added: 2026-06-28

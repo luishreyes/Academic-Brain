@@ -4,7 +4,8 @@ author: Nic Fleming
 publication: Nature
 date: 2018-12-20
 url: https://doi.org/10.1038/d41586-018-07780-5
-pdf_local: sources/pdfs/academic-wellbeing/fleming_2018_how-to-give-a-great-talk.pdf
+pdf_ref: fleming_2018_how-to-give-a-great-talk.pdf
+sha256: 2e7f8c7b00b030a455af42dc4aed68507304508efef03e8af6bf9bb7f8a5e533
 type: article
 keywords: [comunicacion-cientifica, habilidades-de-presentacion, desarrollo-profesional-academico]
 date_added: 2026-07-02

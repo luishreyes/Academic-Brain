@@ -5,7 +5,8 @@ year: 2026
 journal: ACS Omega
 url: https://doi.org/10.1021/acsomega.5c12654
 doi: 10.1021/acsomega.5c12654
-pdf_local: sources/pdfs/capability-reliability/garg_2026_genai-process-calculations-fuelcells-flowbatteries.pdf
+pdf_ref: garg_2026_genai-process-calculations-fuelcells-flowbatteries.pdf
+sha256: b52de8da87e456ca560bf1b3a2ea973395c57f9f00b64b70788e81ca9ff2d36f
 type: paper
 keywords: [inteligencia-artificial, agentes-de-ia, ingenieria-quimica, simulacion-computacional, alucinaciones-de-ia, supervision-humana, sostenibilidad, capacidades-de-ia]
 date_added: 2026-06-27

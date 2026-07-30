@@ -5,7 +5,8 @@ year: 2024
 journal: AIChE Journal
 url: https://doi.org/10.1002/aic.18259
 doi: 10.1002/aic.18259
-pdf_local: sources/pdfs/capability-reliability/hirtreiter_2024_pfd-control-structures-llm.pdf
+pdf_ref: hirtreiter_2024_pfd-control-structures-llm.pdf
+sha256: fbfbac2c22e3d43742f8cba85787031adbae230e34899a90d2d7c0f7bb1bbc88
 type: paper
 keywords: [inteligencia-artificial, ingenieria-quimica, simulacion-computacional]
 date_added: 2026-06-27

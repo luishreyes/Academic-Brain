@@ -5,7 +5,6 @@ year: 2015
 publisher: Ecco
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [historia-de-la-innovacion, economia-de-la-innovacion, liderazgo-organizacional, cultura-organizacional]
 date_added: 2026-07-05

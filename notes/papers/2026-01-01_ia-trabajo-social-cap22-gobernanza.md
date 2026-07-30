@@ -5,7 +5,8 @@ year: 2026
 journal: "Artificial Intelligence in Social Work (An & Lindsey, eds.), Springer"
 url: https://doi.org/10.1007/978-3-032-18443-6_22
 doi: 10.1007/978-3-032-18443-6_22
-pdf_local: sources/pdfs/ai-social-work/ch22-etica-gobernanza-ia.pdf
+pdf_ref: ch22-etica-gobernanza-ia.pdf
+sha256: 0284d587ca637913661c35a9bfd266b428c8408e66cf7d73a962f687795ca5d1
 type: paper
 keywords: [trabajo-social, etica-de-la-ia, regulacion-de-ia, sesgo-algoritmico, supervision-humana, justicia-social, analitica-predictiva, proteccion-infantil]
 date_added: 2026-07-05

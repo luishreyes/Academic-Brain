@@ -5,7 +5,8 @@ year: 2026
 journal: "The International Journal of Information and Learning Technology"
 url: "http://www.emerald.com/ijilt/article-pdf/43/1/26/11152380/ijilt-06-2024-0113en.pdf"
 doi: "10.1108/IJILT-06-2024-0113"
-pdf_local: sources/pdfs/policy-ethics-accreditation/ofosu-asare_2025_genai-ethical-framework.pdf
+pdf_ref: ofosu-asare_2025_genai-ethical-framework.pdf
+sha256: 53ccad973ede76b37cdcbec5ed47e6afec62591365d4cafd2b30b3aed12b1dff
 type: paper
 keywords: [etica-de-la-ia, inteligencia-artificial, educacion-k12, integridad-academica, revision-sistematica-de-literatura, equidad-educativa, supervision-humana, regulacion-de-ia, analisis-bibliometrico, personalizacion-del-aprendizaje]
 date_added: 2026-06-28

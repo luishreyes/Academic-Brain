@@ -5,7 +5,8 @@ year: 2023
 journal: "Computers in Human Behavior: Artificial Humans"
 url: https://doi.org/10.1016/j.chbah.2023.100014
 doi: 10.1016/j.chbah.2023.100014
-pdf_local: sources/pdfs/ai-literacy-competency/carolus_2023_mails-meta-ai-literacy-scale.pdf
+pdf_ref: carolus_2023_mails-meta-ai-literacy-scale.pdf
+sha256: 2033f5a8747121520c2e91fa2b0a8dbb85cd875cb31b4d0860f553dfdfff1def
 type: paper
 keywords: [alfabetizacion-en-ia, inteligencia-artificial, psicometria, autorregulacion-del-aprendizaje, psicologia-educativa, futuro-del-trabajo]
 date_added: 2026-06-27

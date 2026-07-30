@@ -5,7 +5,8 @@ year: 2024
 journal: International Journal of Educational Technology in Higher Education
 url: https://doi.org/10.1186/s41239-024-00468-z
 doi: 10.1186/s41239-024-00468-z
-pdf_local: sources/pdfs/existing-reviews-gapmap/xia_2024_genai-assessment-scoping.pdf
+pdf_ref: xia_2024_genai-assessment-scoping.pdf
+sha256: 6694e87914ddca486d75cef726ffdb84acc9031b7756feb566d07ade7854524e
 type: paper
 keywords: [evaluacion-educativa, inteligencia-artificial, educacion-superior, revision-sistematica-de-literatura, integridad-academica, retroalimentacion-con-ia, autorregulacion-del-aprendizaje, alfabetizacion-en-ia, formacion-docente, pensamiento-critico, interdisciplinariedad, regulacion-de-ia]
 date_added: 2026-06-28

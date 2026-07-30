@@ -5,7 +5,8 @@ year: 2026
 journal: "Preprint (under review)"
 url: 
 doi: 
-pdf_local: sources/pdfs/ai-literacy-competency/song_2026_falcon-ai-faculty-scale.pdf
+pdf_ref: song_2026_falcon-ai-faculty-scale.pdf
+sha256: 195fd5decf6a3ea5979da07e5f998b6713b2069493f24f6def33483bf7336ffe
 type: paper
 keywords: [alfabetizacion-en-ia, educacion-superior, formacion-docente, etica-de-la-ia, evaluacion-educativa, supervision-humana, inteligencia-artificial]
 date_added: 2026-06-27

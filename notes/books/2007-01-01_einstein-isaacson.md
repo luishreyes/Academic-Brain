@@ -5,7 +5,6 @@ year: 2007
 publisher: Simon & Schuster
 url: 
 isbn: 978-0-7432-6473-0
-pdf_local: 
 type: book
 keywords: [fisica-y-cosmologia, historia-de-la-innovacion, comunicacion-cientifica, filosofia-de-la-ciencia, ciencia-y-sociedad]
 date_added: 2026-07-05

@@ -5,7 +5,8 @@ year: 2025
 journal: 
 url: 
 doi: 
-pdf_local: sources/pdfs/capability-reliability/garousi_2025_chatgpt-error-rates-mlr.pdf
+pdf_ref: garousi_2025_chatgpt-error-rates-mlr.pdf
+sha256: f859a605c9236f406ec101a5cadb6d2c189c7501ca4ebb71b9dfca82abf389f0
 type: paper
 keywords: [capacidades-de-ia, inteligencia-artificial, alucinaciones-de-ia, supervision-humana, revision-sistematica-de-literatura, educacion-en-programacion, pensamiento-critico, etica-de-la-ia]
 date_added: 2026-06-27

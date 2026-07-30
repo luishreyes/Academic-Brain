@@ -5,7 +5,8 @@ year: 2025
 journal: Education for Chemical Engineers
 url: https://doi.org/10.1016/j.ece.2025.05.006
 doi: 10.1016/j.ece.2025.05.006
-pdf_local: sources/pdfs/capability-reliability/xiao_2025_genai-bioprocess-engineering-exams.pdf
+pdf_ref: xiao_2025_genai-bioprocess-engineering-exams.pdf
+sha256: a7870c19ace5656141f154dd8915d7cd836ed9e1f712c4533279393e025c37a3
 type: paper
 keywords: [inteligencia-artificial, capacidades-de-ia, educacion-en-ingenieria, evaluacion-educativa, integridad-academica, alfabetizacion-en-ia, retroalimentacion-con-ia, supervision-humana, equidad-educativa, ingenieria-quimica, pensamiento-critico]
 date_added: 2026-06-27

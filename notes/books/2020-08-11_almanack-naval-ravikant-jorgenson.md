@@ -5,7 +5,6 @@ year: 2020
 publisher: Magrathea Publishing
 url: https://www.navalmanack.com/
 isbn: 978-1-5445-1420-8
-pdf_local: 
 type: book
 keywords: [finanzas-personales, filosofia, desarrollo-del-caracter, sesgo-cognitivo, futuro-del-trabajo, creatividad, psicologia-educativa, poder-y-persuasion]
 date_added: 2026-06-25

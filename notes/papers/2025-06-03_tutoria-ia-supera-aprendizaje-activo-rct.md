@@ -5,7 +5,8 @@ year: 2025
 journal: Scientific Reports
 url: https://doi.org/10.1038/s41598-025-97652-6
 doi: 10.1038/s41598-025-97652-6
-pdf_local: sources/pdfs/ai-education/kestin2025-tutoria-ia-supera-activo.pdf
+pdf_ref: kestin2025-tutoria-ia-supera-activo.pdf
+sha256: 6f034478747b9f69b656fbe3889aaef630e9e633f9111eb17c81ea8e9659d7fa
 type: paper
 keywords:
   - alucinaciones-de-ia

@@ -5,7 +5,8 @@ year: 2025
 journal: Social Sciences & Humanities Open
 url: https://doi.org/10.1016/j.ssaho.2025.101866
 doi: 10.1016/j.ssaho.2025.101866
-pdf_local: sources/pdfs/existing-reviews-gapmap/abdallah_2025_chatgpt-he-wellbeing.pdf
+pdf_ref: abdallah_2025_chatgpt-he-wellbeing.pdf
+sha256: 05c21f9a9cf55c46762195a822c091405cff3f36718d2aa7f67772aa569046c2
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, retroalimentacion-con-ia, tutoria-con-ia, integridad-academica, pensamiento-critico, autorregulacion-del-aprendizaje, revision-sistematica-de-literatura, adopcion-de-tecnologia, alfabetizacion-en-ia]
 date_added: 2026-06-28

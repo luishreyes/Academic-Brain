@@ -5,7 +5,8 @@ year: 2025
 journal: Trends in Higher Education
 url: https://doi.org/10.3390/higheredu4010002
 doi: 10.3390/higheredu4010002
-pdf_local: sources/pdfs/existing-reviews-gapmap/tillmanns_2025_genai-he-mapping.pdf
+pdf_ref: tillmanns_2025_genai-he-mapping.pdf
+sha256: 8f34bc57670e731ff6a2947b409e4a201581f52b2e86b997ce7fd84bf9bc7b3a
 type: paper
 keywords: [educacion-superior, inteligencia-artificial, revision-sistematica-de-literatura, integridad-academica, alfabetizacion-en-ia, etica-de-la-ia, pensamiento-critico, creatividad, personalizacion-del-aprendizaje, tutoria-con-ia, retroalimentacion-con-ia, formacion-docente]
 date_added: 2026-06-28

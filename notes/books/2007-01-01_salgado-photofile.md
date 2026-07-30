@@ -5,7 +5,6 @@ year: 2007
 publisher: Thames & Hudson
 url: https://thamesandhudson.com/photofile-sebastio-salgado-9780500410868
 isbn: 9780500410868
-pdf_local: 
 type: book
 keywords: [fotografia, fotografia-documental, fotografia-social, fotografia-en-blanco-y-negro, magnum-photos, migracion-y-desplazamiento, trabajo-y-clase-obrera, conservacion-de-la-naturaleza, dignidad-humana, humanidades]
 date_added: 2026-07-07

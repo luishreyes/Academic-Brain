@@ -5,7 +5,8 @@ year: 2025
 journal: "arXiv preprint (manuscript submitted to ACM)"
 url: https://arxiv.org/abs/2509.11990
 doi: 
-pdf_local: sources/pdfs/faculty-development-implementation/chen_2025_ai-academy.pdf
+pdf_ref: chen_2025_ai-academy.pdf
+sha256: 50e67a994f54f51ff131cb3ccdf485d4600a7fd630cab745acf6fbd9d9758314
 type: paper
 keywords: [alfabetizacion-en-ia, formacion-docente, educacion-superior, etica-de-la-ia, ingenieria-de-prompts, evaluacion-educativa, integridad-academica, deteccion-de-texto-ia, psicometria, pensamiento-critico]
 date_added: 2026-06-28

@@ -5,7 +5,8 @@ year: 2022
 journal: IntechOpen (Synthetic Genomics — From BioBricks to Synthetic Genomes)
 url: https://doi.org/10.5772/intechopen.101949
 doi: 10.5772/intechopen.101949
-pdf_local: sources/pdfs/metabolic-biotechnology/reyes2022-biobricks-genomica-sintetica.pdf
+pdf_ref: reyes2022-biobricks-genomica-sintetica.pdf
+sha256: 3b48e996c722abc9a69c1b8156082e5107dc464cd91c0836bdefd48598c9cc02
 type: paper
 keywords: [biologia-sintetica, biologia-molecular, genomica, ingenieria-metabolica, ingenieria-quimica]
 date_added: 2026-06-26

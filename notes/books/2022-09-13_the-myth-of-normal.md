@@ -5,7 +5,6 @@ year: 2022
 publisher: Penguin Publishing Group
 url: 
 isbn: 9780593083895
-pdf_local: 
 type: book
 keywords: [trauma-y-salud, psicologia-educativa, ciencia-y-sociedad, filosofia, bienestar-academico, salud-y-sociedad, desarrollo-del-caracter, humanidades]
 date_added: 2026-06-25

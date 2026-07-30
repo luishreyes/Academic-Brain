@@ -5,7 +5,8 @@ year: 2019
 journal: Education for Chemical Engineers
 url: https://doi.org/10.1016/j.ece.2019.01.005
 doi: 10.1016/j.ece.2019.01.005
-pdf_local: sources/pdfs/engineering-education/ballesteros2019-pbl-ingenieria-quimica.pdf
+pdf_ref: ballesteros2019-pbl-ingenieria-quimica.pdf
+sha256: 5a6ca94b87501381db61e4f1fa43c8e3c85b0a604337876b9fe243899003667f
 type: paper
 keywords: [ingenieria-quimica, aprendizaje-activo, educacion-superior]
 date_added: 2026-06-26

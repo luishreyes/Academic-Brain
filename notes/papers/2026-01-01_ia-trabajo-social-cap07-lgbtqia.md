@@ -5,7 +5,8 @@ year: 2026
 journal: "Artificial Intelligence in Social Work (An & Lindsey, eds.), Springer"
 url: https://doi.org/10.1007/978-3-032-18443-6_7
 doi: 10.1007/978-3-032-18443-6_7
-pdf_local: sources/pdfs/ai-social-work/ch07-poblaciones-lgbtqia.pdf
+pdf_ref: ch07-poblaciones-lgbtqia.pdf
+sha256: 9409be02a644f8f4e0abd95567ccc9ccb517f5143c257156acb97633556fa898
 type: paper
 keywords: [trabajo-social, diversidad-sexual-y-genero, sesgo-algoritmico, justicia-social, salud-mental, inteligencia-artificial, procesamiento-de-lenguaje-natural, alfabetizacion-en-ia]
 date_added: 2026-07-05

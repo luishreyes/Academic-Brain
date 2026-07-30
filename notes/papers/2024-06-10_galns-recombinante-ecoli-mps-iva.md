@@ -5,7 +5,8 @@ year: 2024
 journal: Heliyon
 url: https://doi.org/10.1016/j.heliyon.2024.e32555
 doi: 10.1016/j.heliyon.2024.e32555
-pdf_local: sources/pdfs/metabolic-biotechnology/pimentel-vera-2024-galns-recombinante.pdf
+pdf_ref: pimentel-vera-2024-galns-recombinante.pdf
+sha256: d96927fbd4d53a3154d76d0f9927e5c78259e1e164439abd0d5b423634a132fe
 type: paper
 keywords: [proteinas-recombinantes, enfermedades-raras, biologia-molecular, ingenieria-metabolica, desarrollo-de-farmacos]
 date_added: 2026-06-26

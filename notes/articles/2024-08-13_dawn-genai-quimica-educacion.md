@@ -4,7 +4,8 @@ author: Elizabeth Yuriev, Donald J. Wink, Thomas A. Holme
 publication: Journal of Chemical Education
 date: 2024-08-13
 url: https://doi.org/10.1021/acs.jchemed.4c00836
-pdf_local: sources/pdfs/existing-reviews-gapmap/yuriev_2024_catalyst-editorial-genai-chem-ed.pdf
+pdf_ref: yuriev_2024_catalyst-editorial-genai-chem-ed.pdf
+sha256: b1f177acef6f30ba943d9ad4b5774cf1d9ecc399c2ecf0f76a96d1b36b77a1cc
 type: article
 keywords: [inteligencia-artificial, educacion-superior, integridad-academica, alfabetizacion-en-ia, pensamiento-critico, ingenieria-de-prompts, personalizacion-del-aprendizaje, razonamiento-multimodal, evaluacion-educativa, adopcion-de-tecnologia]
 date_added: 2026-06-28

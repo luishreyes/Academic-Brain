@@ -5,7 +5,8 @@ year: 2026
 journal: "Nature Medicine"
 url: "https://doi.org/10.1038/s41591-026-04438-y"
 doi: "10.1038/s41591-026-04438-y"
-pdf_local: sources/pdfs/ke2026-never-skilling-educacion-medica.pdf
+pdf_ref: ke2026-never-skilling-educacion-medica.pdf
+sha256: beccd695dd467921864da6f621c37cd1cb6d2aea29b59f308ce6c9e81d72d810
 type: paper
 keywords: [educacion-medica, inteligencia-artificial, descarga-cognitiva, sobredependencia-de-la-ia, pensamiento-critico, pensamiento-critico-medico, evaluacion-educativa, formacion-docente, alfabetizacion-en-ia, confianza-en-la-ia, tutoria-con-ia, autorregulacion-del-aprendizaje]
 date_added: 2026-07-07

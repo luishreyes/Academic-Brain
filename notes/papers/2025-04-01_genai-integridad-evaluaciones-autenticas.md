@@ -5,7 +5,8 @@ year: 2025
 journal: British Journal of Educational Technology
 url: https://doi.org/10.1111/bjet.13585
 doi: 10.1111/bjet.13585
-pdf_local: sources/pdfs/assessment-redesign/kofinas_2025_genai-authentic-assessment-integrity.pdf
+pdf_ref: kofinas_2025_genai-authentic-assessment-integrity.pdf
+sha256: 2229aedf9f3b1ee05a767bccf2f926fd4c4805dfcf4e5183fd206c09e29b0c6d
 type: paper
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, deteccion-de-texto-ia]
 date_added: 2026-06-27

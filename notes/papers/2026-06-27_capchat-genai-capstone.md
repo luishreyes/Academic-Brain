@@ -5,7 +5,8 @@ year: 2025
 journal: ASEE Annual Conference (American Society for Engineering Education)
 url: 
 doi: 
-pdf_local: sources/pdfs/cheme-applications/farahmand_2025_capchat-capstone.pdf
+pdf_ref: farahmand_2025_capchat-capstone.pdf
+sha256: 000701baf537ff477a5db5fde437f897e269dd74c8643695ce88fe6d1fcc6193
 type: paper
 keywords: [educacion-en-ingenieria, inteligencia-artificial, tutoria-con-ia, retroalimentacion-con-ia, evaluacion-educativa, pensamiento-critico, integridad-academica, sostenibilidad]
 date_added: 2026-06-27

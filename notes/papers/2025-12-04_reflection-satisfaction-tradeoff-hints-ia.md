@@ -5,7 +5,8 @@ year: 2025
 journal: arXiv preprint (arXiv:2512.04063)
 url: https://arxiv.org/abs/2512.04063
 doi:
-pdf_local: sources/pdfs/scaffolding-socratic-metacognition/choi_2025_reflection_satisfaction_arxiv.pdf
+pdf_ref: choi_2025_reflection_satisfaction_arxiv.pdf
+sha256: ee22579c92dcb1e0037415b6a7fd5739df05faef75ca60f9663d2c5b8bf925e6
 type: paper
 keywords: [educacion-en-programacion, autorregulacion-del-aprendizaje, retroalimentacion-con-ia, descarga-cognitiva, sobredependencia-de-la-ia, pensamiento-critico, ensayo-controlado-aleatorio, psicologia-educativa, inteligencia-artificial]
 date_added: 2026-06-28

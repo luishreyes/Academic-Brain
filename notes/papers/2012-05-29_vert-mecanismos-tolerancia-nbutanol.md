@@ -5,7 +5,8 @@ year: 2012
 journal: Metabolic Engineering
 url: https://doi.org/10.1016/j.ymben.2012.05.002
 doi: 10.1016/j.ymben.2012.05.002
-pdf_local: sources/pdfs/metabolic-biotechnology/reyes2012-vert-nbutanol-mechanisms.pdf
+pdf_ref: reyes2012-vert-nbutanol-mechanisms.pdf
+sha256: 86d0e73470e15ea1632b9c2e8e9949b89bec6d65a7fa7ee2d699581a978c8401
 type: paper
 keywords: [evolucion-de-laboratorio, ingenieria-metabolica, biocombustibles, genomica, biologia-molecular, dinamica-de-poblaciones, ingenieria-quimica]
 date_added: 2026-06-26

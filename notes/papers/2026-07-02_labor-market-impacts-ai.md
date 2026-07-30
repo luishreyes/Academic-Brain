@@ -5,7 +5,8 @@ year: 2026
 journal: Anthropic (Economic Index)
 url: https://www.anthropic.com/research/labor-market-impacts
 doi:
-pdf_local: sources/pdfs/ai-science-society/massenkoff-mccrory_2026_labor-market-impacts-ai.pdf
+pdf_ref: massenkoff-mccrory_2026_labor-market-impacts-ai.pdf
+sha256: 48c941dbdc1053456ec72f893c6a27630559507d3882895bb036d034b6972450
 type: paper
 keywords: [futuro-del-trabajo, inteligencia-artificial, capacidades-de-ia, adopcion-de-tecnologia, exposicion-laboral-a-la-ia, desigualdad-de-genero]
 date_added: 2026-07-02

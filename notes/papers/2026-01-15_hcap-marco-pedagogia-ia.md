@@ -5,7 +5,8 @@ year: 2026
 journal: Interactive Learning Environments
 url: https://doi.org/10.1080/10494820.2026.2615818
 doi: 10.1080/10494820.2026.2615818
-pdf_local: sources/pdfs/ai-literacy-competency/chiu_2026_hcap-framework.pdf
+pdf_ref: chiu_2026_hcap-framework.pdf
+sha256: 0f4c2cd0e5ed8cc4f76ab3f2debc3c7e4b4eddfaa2475e60167edd05cfa1fb1e
 type: paper
 keywords: [alfabetizacion-en-ia, formacion-docente, inteligencia-artificial, etica-de-la-ia, evaluacion-educativa, supervision-humana, educacion-k12, agentes-de-ia]
 date_added: 2026-06-27

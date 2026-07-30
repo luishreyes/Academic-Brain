@@ -5,7 +5,6 @@ year: 2024
 publisher: Hay House
 url: 
 isbn: 978-1-4019-7136-6
-pdf_local: 
 type: book
 keywords: [psicologia-del-bienestar, desarrollo-del-caracter, comunicacion-interpersonal]
 date_added: 2026-07-05
