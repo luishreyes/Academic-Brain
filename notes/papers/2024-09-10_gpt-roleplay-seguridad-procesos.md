@@ -5,7 +5,8 @@ year: 2024
 journal: Education for Chemical Engineers
 url: https://doi.org/10.1016/j.ece.2024.09.001
 doi: 10.1016/j.ece.2024.09.001
-pdf_local: sources/pdfs/cheme-applications/honig_2024_gpt-roleplay-process-safety.pdf
+pdf_ref: honig_2024_gpt-roleplay-process-safety.pdf
+sha256: 25bbe9fdfb2de84f0b3bdb28ff08899e788780e134d295f1c56f1978ab9bee8d
 type: paper
 keywords: [inteligencia-artificial, educacion-en-ingenieria, ingenieria-quimica, tutoria-con-ia, evaluacion-educativa, alucinaciones-de-ia, adopcion-de-tecnologia, generacion-aumentada-por-recuperacion, integridad-academica, personalidad-introversion]
 date_added: 2026-06-27

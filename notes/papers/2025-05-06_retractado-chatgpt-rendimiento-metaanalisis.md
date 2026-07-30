@@ -5,7 +5,8 @@ year: 2025
 journal: Humanities and Social Sciences Communications
 url: https://doi.org/10.1057/s41599-025-04787-y
 doi: 10.1057/s41599-025-04787-y
-pdf_local: sources/pdfs/learning-impact-evidence/wangfan_2025_chatgpt-metaanalysis-RETRACTED-typeset.pdf
+pdf_ref: wangfan_2025_chatgpt-metaanalysis-RETRACTED-typeset.pdf
+sha256: 83c46e8f73e69f25a46325786554017dd751fb14034ee9e1e1ba4ce07d1bc7d3
 type: paper
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, educacion-superior, evaluacion-educativa, tutoria-con-ia, pensamiento-critico, motivacion-y-compromiso-estudiantil, capacidades-de-ia]
 date_added: 2026-06-28

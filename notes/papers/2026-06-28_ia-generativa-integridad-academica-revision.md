@@ -5,7 +5,8 @@ year: 2025
 journal: Information
 url: https://doi.org/10.3390/info16040296
 doi: 10.3390/info16040296
-pdf_local: sources/pdfs/integrity-by-design/bittle_2025_genai-integrity-systematic-review.pdf
+pdf_ref: bittle_2025_genai-integrity-systematic-review.pdf
+sha256: fd94882e0054b4f5d141ccb5d099e8a58dfd017a4654311f8400be14629b9e2a
 type: paper
 keywords: [revision-sistematica-de-literatura, integridad-academica, educacion-superior, deteccion-de-texto-ia, evaluacion-educativa, etica-de-la-ia, regulacion-de-ia, inteligencia-artificial, pensamiento-critico]
 date_added: 2026-06-28

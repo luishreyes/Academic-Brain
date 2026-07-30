@@ -5,7 +5,8 @@ year: 2025
 journal: Journal of Chemical Information and Modeling
 url: https://github.com/jiaqingxie/QCBench
 doi: 
-pdf_local: sources/pdfs/capability-reliability/xie_2025_qcbench-quantitative-chemistry.pdf
+pdf_ref: xie_2025_qcbench-quantitative-chemistry.pdf
+sha256: 8ab3bcfb90389586a8bcba533d2978d6ac7ffac8eec444430e64161e731348fb
 type: paper
 keywords: [capacidades-de-ia, razonamiento-cuantitativo-llm, inteligencia-artificial, quimica-computacional, alucinaciones-de-ia]
 date_added: 2026-06-27

@@ -5,7 +5,6 @@ year: 2024
 publisher: Grupo Planeta
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [bienestar-academico, psicologia-educativa, educacion-k12, regulacion-de-ia, salud-y-sociedad, desarrollo-del-caracter, trauma-y-salud, sesgo-cognitivo, ciencia-y-sociedad]
 date_added: 2026-06-25

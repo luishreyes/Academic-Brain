@@ -5,7 +5,6 @@ year: 2021
 publisher: Viking
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [pensamiento-critico, psicologia-social, sesgo-cognitivo, cultura-organizacional, comunicacion-interpersonal]
 date_added: 2026-07-05

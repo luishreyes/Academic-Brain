@@ -4,7 +4,8 @@ author: TEQSA (Tertiary Education Quality and Standards Agency)
 publication: TEQSA — Gen AI knowledge hub
 date: 2026-05-06
 url: https://www.teqsa.gov.au/guides-resources/higher-education-good-practice-hub/gen-ai-academic-integrity-and-assessment-reform
-pdf_local: sources/pdfs/assessment-redesign/teqsa_2024_genai-integrity-assessment-reform-hub.pdf
+pdf_ref: teqsa_2024_genai-integrity-assessment-reform-hub.pdf
+sha256: c8db156a1b31d13260a7ec6e998597531715ece2680a130d168e53768f2feb6b
 type: article
 keywords: [integridad-academica, evaluacion-educativa, inteligencia-artificial, educacion-superior, regulacion-de-ia]
 date_added: 2026-06-27

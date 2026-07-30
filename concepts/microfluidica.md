@@ -19,7 +19,6 @@ La segunda línea, iniciada por la revisión de Rodríguez et al. (2023) sobre a
 Las dos líneas convergen en el material: el grupo migra del PDMS por litografía blanda (2021-2022) hacia el PMMA por ablación láser como estándar de bajo costo, adoptado primero en la línea de separación (2023-2024) y luego también en la de encapsulación, con los micromezcladores de PMMA de Reyes Marín et al. (2026). El hilo conductor declarado en la revisión de 2023 —democratizar la microfluídica fuera de la sala limpia— se cumple después en cifras concretas: costos por chip inferiores a un dólar, tiempos de fabricación de minutos y precisión que iguala o supera a los sistemas comerciales.
 
 ## Notas que usan este concepto
-- [[notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica]]
 - [[notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados]]
 - [[notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos]]
 - [[notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral]]

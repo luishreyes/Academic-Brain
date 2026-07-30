@@ -5,7 +5,8 @@ year: 2023
 journal: Journal of Digital Learning in Teacher Education
 url: https://doi.org/10.1080/21532974.2023.2247480
 doi: 10.1080/21532974.2023.2247480
-pdf_local: sources/pdfs/faculty-development-implementation/mishra_2023_tpack-genai.pdf
+pdf_ref: mishra_2023_tpack-genai.pdf
+sha256: 3881848ad07ecd88fc2ca6bc158eab6138466b44b0c9e61da0f6693ebd8b52a9
 type: paper
 keywords: [formacion-docente, inteligencia-artificial, evaluacion-educativa, equidad-educativa, etica-de-la-ia, alucinaciones-de-ia, futuro-del-trabajo, tutoria-con-ia, pensamiento-critico]
 date_added: 2026-06-28

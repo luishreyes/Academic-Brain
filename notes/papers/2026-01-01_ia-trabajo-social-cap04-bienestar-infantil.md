@@ -5,7 +5,8 @@ year: 2026
 journal: "Artificial Intelligence in Social Work (An & Lindsey, eds.), Springer"
 url: https://doi.org/10.1007/978-3-032-18443-6_4
 doi: 10.1007/978-3-032-18443-6_4
-pdf_local: sources/pdfs/ai-social-work/ch04-bienestar-infantil-familias.pdf
+pdf_ref: ch04-bienestar-infantil-familias.pdf
+sha256: 20db3fb1711628f998675747cd0e67d62bf298f94adeae4eafe8194bf4838b01
 type: paper
 keywords: [trabajo-social, inteligencia-artificial, proteccion-infantil, analitica-predictiva, sesgo-algoritmico, supervision-humana, etica-de-la-ia, confianza-en-la-ia, procesamiento-de-lenguaje-natural]
 date_added: 2026-07-05

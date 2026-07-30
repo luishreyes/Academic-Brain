@@ -5,7 +5,8 @@ year: 2026
 journal: "Computers and Education: Artificial Intelligence"
 url: https://doi.org/10.1016/j.caeai.2026.100571
 doi: 10.1016/j.caeai.2026.100571
-pdf_local: sources/pdfs/existing-reviews-gapmap/li_2026_chatgpt-cognition.pdf
+pdf_ref: li_2026_chatgpt-cognition.pdf
+sha256: 816da884aa90960dfd23a67feac351226cd442e0cb21e8826ee9b9497f8dcd24
 type: paper
 keywords: [revision-sistematica-de-literatura, pensamiento-critico, creatividad, educacion-superior, inteligencia-artificial, alfabetizacion-en-ia, autorregulacion-del-aprendizaje, evaluacion-educativa, integridad-academica, ingenieria-de-prompts]
 date_added: 2026-06-28

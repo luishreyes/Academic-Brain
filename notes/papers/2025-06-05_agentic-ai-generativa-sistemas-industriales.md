@@ -5,7 +5,8 @@ year: 2025
 journal: Current Opinion in Chemical Engineering
 url: https://doi.org/10.1016/j.coche.2025.101150
 doi: 10.1016/j.coche.2025.101150
-pdf_local: sources/pdfs/capability-reliability/boskabadi_2025_industrial-agentic-genai.pdf
+pdf_ref: boskabadi_2025_industrial-agentic-genai.pdf
+sha256: 45a5aed9f9f98a54bc7dd74b31dd4e7986d76fb48ad473b49ff5e217c5410405
 type: paper
 keywords: [agentes-de-ia, inteligencia-artificial, ingenieria-quimica, simulacion-computacional, modelado-molecular, sostenibilidad, ciencia-de-datos, biologia-sintetica]
 date_added: 2026-06-27

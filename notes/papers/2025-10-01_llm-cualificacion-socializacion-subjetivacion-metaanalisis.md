@@ -5,7 +5,8 @@ year: 2025
 journal: "arXiv preprint (arXiv:2509.27225)"
 url: https://arxiv.org/abs/2509.27225
 doi:
-pdf_local: sources/pdfs/learning-impact-evidence/huang_2025_llm-qualification-socialisation-metaanalysis.pdf
+pdf_ref: huang_2025_llm-qualification-socialisation-metaanalysis.pdf
+sha256: 0a391ff3c8b68b25c472f8e1e54cb8f4a4808bb3657885398c32d546dc3aa28a
 type: paper
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, educacion-superior, tutoria-con-ia, evaluacion-educativa, autorregulacion-del-aprendizaje, motivacion-y-compromiso-estudiantil, personalizacion-del-aprendizaje, pensamiento-critico]
 date_added: 2026-06-28

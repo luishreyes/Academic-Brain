@@ -5,7 +5,8 @@ year: 2023
 journal: Education for Chemical Engineers
 url: https://doi.org/10.1016/j.ece.2023.05.001
 doi: 10.1016/j.ece.2023.05.001
-pdf_local: sources/pdfs/capability-reliability/tsai_2023_llms-chemeng-core-course-models.pdf
+pdf_ref: tsai_2023_llms-chemeng-core-course-models.pdf
+sha256: c5e374d581fa8cf2b4e5269437a643bfd4fbff0b45b2ba17bd615c8661f76ede
 type: paper
 keywords: [ingenieria-quimica, educacion-en-ingenieria, inteligencia-artificial, pensamiento-critico, alucinaciones-de-ia, integridad-academica, etica-de-la-ia, regulacion-de-ia]
 date_added: 2026-06-27

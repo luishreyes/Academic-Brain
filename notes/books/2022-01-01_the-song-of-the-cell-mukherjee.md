@@ -5,7 +5,6 @@ year: 2022
 publisher: Scribner
 url: 
 isbn: 978-1-9821-1735-1
-pdf_local: 
 type: book
 keywords: [biologia-molecular, historia-de-la-innovacion, terapia-genica, desarrollo-de-farmacos, comunicacion-cientifica]
 date_added: 2026-07-05

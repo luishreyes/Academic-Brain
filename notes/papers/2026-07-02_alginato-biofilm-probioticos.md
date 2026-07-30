@@ -5,7 +5,8 @@ year: 2026
 journal: International Journal of Biological Macromolecules
 url: https://doi.org/10.1016/j.ijbiomac.2026.153262
 doi: 10.1016/j.ijbiomac.2026.153262
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/alginate-probiotics-encapsulation_2026.pdf
+pdf_ref: alginate-probiotics-encapsulation_2026.pdf
+sha256: 7272891aa4c2fe4eaf58a3755ac5dc3ec5901436ce7022eee5c733eabfcb0375
 type: paper
 keywords: [biomateriales, biologia-molecular, probioticos, biopeliculas-bacterianas, microscopia-de-caracterizacion]
 date_added: 2026-07-02

@@ -5,7 +5,6 @@ year: 1946
 publisher: Beacon Press
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [psicologia-del-bienestar, filosofia, trauma-y-salud]
 date_added: 2026-07-05

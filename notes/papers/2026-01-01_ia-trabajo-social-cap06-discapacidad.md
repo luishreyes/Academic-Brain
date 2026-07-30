@@ -5,7 +5,8 @@ year: 2026
 journal: "Artificial Intelligence in Social Work (An & Lindsey, eds.), Springer"
 url: https://doi.org/10.1007/978-3-032-18443-6_6
 doi: 10.1007/978-3-032-18443-6_6
-pdf_local: sources/pdfs/ai-social-work/ch06-discapacidad-cognitiva-desarrollo.pdf
+pdf_ref: ch06-discapacidad-cognitiva-desarrollo.pdf
+sha256: 2737b6766e82f34b1084e9a06e393ffdf82e90b5b7a296a810b9205f428fdbe4
 type: paper
 keywords: [trabajo-social, inteligencia-artificial, vision-por-computadora, procesamiento-de-lenguaje-natural, sesgo-algoritmico, brecha-digital, envejecimiento, salud-y-sociedad, supervision-humana]
 date_added: 2026-07-05

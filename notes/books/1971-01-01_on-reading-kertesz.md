@@ -5,7 +5,6 @@ year: 1971
 publisher: Grossman Publishers
 url: 
 isbn: "9780393066562"
-pdf_local: 
 type: book
 keywords: [fotografia, fotografia-en-blanco-y-negro, composicion-visual]
 date_added: 2026-07-08

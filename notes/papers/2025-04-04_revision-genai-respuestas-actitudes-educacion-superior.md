@@ -5,7 +5,8 @@ year: 2025
 journal: Behavioral Sciences
 url: https://doi.org/10.3390/bs15040467
 doi: 10.3390/bs15040467
-pdf_local: sources/pdfs/existing-reviews-gapmap/wu_2025_genai-attitudes-he.pdf
+pdf_ref: wu_2025_genai-attitudes-he.pdf
+sha256: 62d3a9298ace0042805a04ee1ddf88b9c9cbc105e6631958afc8f6fdae1240f1
 type: paper
 keywords: [revision-sistematica-de-literatura, inteligencia-artificial, educacion-superior, psicologia-educativa, adopcion-de-tecnologia, pensamiento-critico, autorregulacion-del-aprendizaje, creatividad, integridad-academica, retroalimentacion-con-ia, personalizacion-del-aprendizaje, etica-de-la-ia]
 date_added: 2026-06-28

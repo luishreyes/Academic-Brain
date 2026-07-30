@@ -34,7 +34,6 @@ Conjunto de metodologías pedagógicas en que el estudiante participa activament
 - [[notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica]]
 - [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]
 - [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]
-- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]
 - [[notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp]]
 - [[notes/articles/2026-06-28_oecd-digital-education-outlook-2026]]
 - [[notes/papers/2024-12-03_scaffold-or-crutch-genai-stem]]
@@ -49,3 +48,4 @@ Conjunto de metodologías pedagógicas en que el estudiante participa activament
 - [[notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria]]
 - [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
 - [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]
+- [[notes/articles/2025-04-08_llm-laboratorios-quimica-materiales]]

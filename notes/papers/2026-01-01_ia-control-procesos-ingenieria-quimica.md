@@ -5,7 +5,8 @@ year: 2026
 journal: "Education for Chemical Engineers"
 url: https://doi.org/10.1016/j.ece.2025.10.002
 doi: 10.1016/j.ece.2025.10.002
-pdf_local: sources/pdfs/cheme-applications/huang_2026_ai-process-control-education.pdf
+pdf_ref: huang_2026_ai-process-control-education.pdf
+sha256: 2ed1f9052eaf56db2c6ad62d081fd617e9b067398e5ee53684ce394f79a9775f
 type: paper
 keywords: [educacion-en-ingenieria, ingenieria-quimica, tutoria-con-ia, inteligencia-artificial, aprendizaje-activo, alfabetizacion-en-ia, pensamiento-critico, simulacion-computacional]
 date_added: 2026-06-27

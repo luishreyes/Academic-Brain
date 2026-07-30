@@ -5,7 +5,6 @@ year: 2023
 publisher: Random House
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [comunicacion-interpersonal, psicologia-del-bienestar, filosofia, psicologia-de-la-personalidad]
 date_added: 2026-07-05

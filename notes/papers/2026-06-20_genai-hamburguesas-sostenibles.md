@@ -5,7 +5,8 @@ year: 2026
 journal: npj Science of Food
 url: https://doi.org/10.1038/s41538-026-00953-x
 doi: 10.1038/s41538-026-00953-x
-pdf_local: sources/pdfs/multisensory-consumer/tac-2026-genai-hamburguesas-sostenibles.pdf
+pdf_ref: tac-2026-genai-hamburguesas-sostenibles.pdf
+sha256: df0848c74d083c90b243edeb2c0834419c033156e1d139b5e81ba3f2fd3cf434
 type: paper
 keywords: [inteligencia-artificial, ingenieria-de-alimentos, sostenibilidad, comportamiento-del-consumidor, diseno-de-producto]
 date_added: 2026-06-26

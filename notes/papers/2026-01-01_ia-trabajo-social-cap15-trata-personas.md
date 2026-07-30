@@ -5,7 +5,8 @@ year: 2026
 journal: "Artificial Intelligence in Social Work (An & Lindsey, eds.), Springer"
 url: https://doi.org/10.1007/978-3-032-18443-6_15
 doi: 10.1007/978-3-032-18443-6_15
-pdf_local: sources/pdfs/ai-social-work/ch15-trata-de-personas.pdf
+pdf_ref: ch15-trata-de-personas.pdf
+sha256: a54eefacd3036f98a851cf598fe95ff3a31b03ea3bda6facca6deb793f9b4056
 type: paper
 keywords: [trabajo-social, violencia-de-genero, justicia-penal, procesamiento-de-lenguaje-natural, vision-por-computadora, analitica-predictiva, sesgo-algoritmico, revision-sistematica-de-literatura]
 date_added: 2026-07-05

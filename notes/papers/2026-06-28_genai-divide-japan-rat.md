@@ -5,7 +5,8 @@ year: 2026
 journal: Telematics and Informatics
 url: https://doi.org/10.1016/j.tele.2025.102360
 doi: 10.1016/j.tele.2025.102360
-pdf_local: sources/pdfs/risks-overreliance-equity/nakagomi_2026_genai-divide-japan-rat.pdf
+pdf_ref: nakagomi_2026_genai-divide-japan-rat.pdf
+sha256: 938e678e2ab486a1fcd3ceae07c611b400d0994c1b38f5ddeecaa60e767bea7b
 type: paper
 keywords: [inteligencia-artificial, brecha-digital, adopcion-de-tecnologia, alfabetizacion-en-ia, futuro-del-trabajo, sesgo-cognitivo]
 date_added: 2026-06-28

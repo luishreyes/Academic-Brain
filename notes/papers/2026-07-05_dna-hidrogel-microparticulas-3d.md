@@ -5,7 +5,8 @@ year: 2026
 journal: Advanced Materials
 url: https://doi.org/10.1002/adma.202514218
 doi: 10.1002/adma.202514218
-pdf_local: sources/pdfs/microfluidics/walther-2026-dna-hidrogel-microparticulas.pdf
+pdf_ref: walther-2026-dna-hidrogel-microparticulas.pdf
+sha256: fee29f5035ffab1fb955c85282baae089069488e0b33ef277cb8ea5f6af82bc0
 type: paper
 keywords: [biomateriales, ingenieria-de-tejidos, microfluidica, nanociencia, ciencia-de-materiales, microscopia-de-caracterizacion]
 date_added: 2026-07-05

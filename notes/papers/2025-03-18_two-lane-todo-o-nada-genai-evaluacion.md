@@ -5,7 +5,8 @@ year: 2025
 journal: Higher Education Research & Development
 url: https://doi.org/10.1080/07294360.2025.2476516
 doi: 10.1080/07294360.2025.2476516
-pdf_local: sources/pdfs/assessment-redesign/curtis_2025_two-lane-road-all-or-none-critique.pdf
+pdf_ref: curtis_2025_two-lane-road-all-or-none-critique.pdf
+sha256: de6241d89d1bfd0dc0ee70a285949804fcddc5e83e9677e79fd8ec9e5224c65c
 type: paper
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, equidad-educativa, pensamiento-critico, adopcion-de-tecnologia]
 date_added: 2026-06-27

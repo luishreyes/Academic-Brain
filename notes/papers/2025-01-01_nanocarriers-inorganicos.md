@@ -5,7 +5,8 @@ year: 2025
 journal: "Nano Carriers for Nucleic Acids and Proteins (Routledge/CRC, eds. Reyes, Cruz & Pathak), cap. 5"
 url: https://doi.org/10.1201/9781003473183
 doi: 10.1201/9781003473183
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/cruz-2025-nanocarriers-inorganicos.pdf
+pdf_ref: cruz-2025-nanocarriers-inorganicos.pdf
+sha256: fc0ca334e8fbc888ecaeda61502eacfac3251a13316f7e9ad568d4281dcd97d3
 type: paper
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos]
 date_added: 2026-06-26

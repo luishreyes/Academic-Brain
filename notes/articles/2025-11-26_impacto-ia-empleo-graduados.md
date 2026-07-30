@@ -7,7 +7,8 @@ url:
 type: article
 keywords: [futuro-del-trabajo, inteligencia-artificial, educacion-superior, equidad-educativa, adopcion-de-tecnologia, regulacion-de-ia, alfabetizacion-en-ia, desigualdad-de-genero]
 date_added: 2026-06-28
-pdf_local: sources/pdfs/risks-overreliance-equity/intuitionlabs_2025_ai-graduate-jobs-trade-analysis.pdf
+pdf_ref: intuitionlabs_2025_ai-graduate-jobs-trade-analysis.pdf
+sha256: a4224aad8fa8438566f5eeb304b0b7254977ca60755e12354b91acff5d6bdece
 ---
 
 # AI's Impact on Graduate Jobs: A 2025 Data Analysis

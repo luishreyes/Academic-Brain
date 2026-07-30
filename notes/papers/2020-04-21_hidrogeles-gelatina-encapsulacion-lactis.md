@@ -5,7 +5,8 @@ year: 2020
 journal: Polymers
 url: https://doi.org/10.3390/polym12061287
 doi: 10.3390/polym12061287
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/patarroyo2020-hidrogeles-gelatina-encapsulacion.pdf
+pdf_ref: patarroyo2020-hidrogeles-gelatina-encapsulacion.pdf
+sha256: 3ce6cad7170af5ba77d0675508104173c62ef05cf2147603bef80378e6b7bb76
 type: paper
 keywords: [biomateriales, ingenieria-quimica, biologia-molecular]
 date_added: 2026-06-26

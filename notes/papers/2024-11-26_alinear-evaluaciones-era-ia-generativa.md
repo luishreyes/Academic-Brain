@@ -5,7 +5,8 @@ year: 2024
 journal: Teaching@Sydney (University of Sydney, Educational Innovation)
 url: https://educational-innovation.sydney.edu.au/teaching@sydney/aligning-our-assessments-to-the-age-of-generative-ai/
 doi: 
-pdf_local: sources/pdfs/assessment-redesign/bridgeman_2024_aligning-assessments-genai.pdf
+pdf_ref: bridgeman_2024_aligning-assessments-genai.pdf
+sha256: 9929176527e32e98d1b1f7f15daa37ee2f8c805cc5c24ff8479a01306805e533
 type: article
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, regulacion-de-ia, alfabetizacion-en-ia, futuro-del-trabajo, supervision-humana]
 date_added: 2026-06-27

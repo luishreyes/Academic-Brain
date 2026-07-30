@@ -5,7 +5,8 @@ year: 2026
 journal: Frontiers in Education
 url: https://doi.org/10.3389/feduc.2026.1769680
 doi: 10.3389/feduc.2026.1769680
-pdf_local: sources/pdfs/existing-reviews-gapmap/slimi_2026_genai-authorship-integrity.pdf
+pdf_ref: slimi_2026_genai-authorship-integrity.pdf
+sha256: b15a21ea1ce065834b0b3b6055372d3041d6df69c9b8f253084ae5e1207b72fe
 type: paper
 keywords: [integridad-academica, etica-de-la-ia, alfabetizacion-en-ia, evaluacion-educativa, educacion-superior, publicacion-academica, deteccion-de-texto-ia, regulacion-de-ia, revision-sistematica-de-literatura, inteligencia-artificial, pensamiento-critico, equidad-educativa]
 date_added: 2026-06-28

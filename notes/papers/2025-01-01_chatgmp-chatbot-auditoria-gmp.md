@@ -5,7 +5,8 @@ year: 2025
 journal: "Computers and Education: Artificial Intelligence"
 url: https://doi.org/10.1016/j.caeai.2024.100354
 doi: 10.1016/j.caeai.2024.100354
-pdf_local: sources/pdfs/cheme-applications/caccavale_2025_chatgmp-interview-gmp.pdf
+pdf_ref: caccavale_2025_chatgmp-interview-gmp.pdf
+sha256: d06c064f5640580e89838af56ff5dca277f1763d38cce5ec76f404a8f7a7177a
 type: paper
 keywords: [inteligencia-artificial, tutoria-con-ia, educacion-en-ingenieria, educacion-superior, ingenieria-quimica, alucinaciones-de-ia, generacion-aumentada-por-recuperacion, aprendizaje-activo, supervision-humana]
 date_added: 2026-06-27

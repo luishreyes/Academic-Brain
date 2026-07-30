@@ -5,7 +5,8 @@ year: 2024
 journal: PeerJ
 url: https://doi.org/10.7717/peerj.17239
 doi: 10.7717/peerj.17239
-pdf_local: sources/pdfs/peptides-proteins/nunez-2024-dna-shuffling-ompa-biosurfactante.pdf
+pdf_ref: nunez-2024-dna-shuffling-ompa-biosurfactante.pdf
+sha256: 7c711b518750abceccdaf36f0c46a84fa7d75073aa56c9848329839932070811
 type: paper
 keywords: [biosurfactantes, proteinas-recombinantes, biologia-molecular, evolucion-de-laboratorio, petroleo-y-gas]
 date_added: 2026-06-26

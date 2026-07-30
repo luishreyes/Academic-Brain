@@ -63,3 +63,4 @@ Campo de investigación y práctica sobre la enseñanza y el aprendizaje de la i
 - [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]
 - [[notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria]]
 - [[notes/papers/2026-01-01_chatgpt-estatica-ingenieria]]
+- [[notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion]]

@@ -4,7 +4,8 @@ author: Stanford HAI
 publication: Stanford Institute for Human-Centered Artificial Intelligence (HAI)
 date: 2025
 url: https://hai.stanford.edu/ai-index/2025-ai-index-report
-pdf_local: sources/pdfs/capability-reliability/stanford-hai_2025_ai-index-ch2-technical-performance.pdf
+pdf_ref: stanford-hai_2025_ai-index-ch2-technical-performance.pdf
+sha256: df546a82463df1c460508ba5b450b80b35e2564716a4e499a9d3fa843e20e617
 type: article
 keywords: [capacidades-de-ia, inteligencia-artificial, agentes-de-ia, geopolitica-tecnologica]
 date_added: 2026-06-27

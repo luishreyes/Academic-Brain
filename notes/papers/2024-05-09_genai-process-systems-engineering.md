@@ -5,7 +5,8 @@ year: 2024
 journal: Computers and Chemical Engineering
 url: https://doi.org/10.1016/j.compchemeng.2024.108723
 doi: 10.1016/j.compchemeng.2024.108723
-pdf_local: sources/pdfs/capability-reliability/decardi-nelson_2024_genai-process-systems-engineering.pdf
+pdf_ref: decardi-nelson_2024_genai-process-systems-engineering.pdf
+sha256: afb617efc004607060d19bd1b328f95db6b653fcd1057dd1d516b4bbfefcadfa
 type: paper
 keywords: [inteligencia-artificial, ingenieria-quimica, simulacion-computacional, quimica-computacional, capacidades-de-ia, alucinaciones-de-ia, seguridad-de-ia, revision-sistematica-de-literatura]
 date_added: 2026-06-27

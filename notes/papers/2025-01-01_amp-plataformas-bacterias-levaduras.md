@@ -5,7 +5,8 @@ year: 2025
 journal: "Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development (Elsevier), cap. 7"
 url: https://doi.org/10.1016/B978-0-443-15393-8.00007-5
 doi: 10.1016/B978-0-443-15393-8.00007-5
-pdf_local: sources/pdfs/peptides-proteins/cruz-2025-amp-plataformas-bacterias-levaduras.pdf
+pdf_ref: cruz-2025-amp-plataformas-bacterias-levaduras.pdf
+sha256: 4fd2a5ff250fd7879bec4e7c86abde854cd6469643762fee64d2f5bd97a8f21e
 type: paper
 keywords: [peptidos-bioactivos, proteinas-recombinantes, ingenieria-metabolica, biologia-molecular, desarrollo-de-farmacos]
 date_added: 2026-06-26

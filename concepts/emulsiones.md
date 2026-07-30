@@ -1,7 +1,7 @@
 ---
 type: concept
 keyword: emulsiones
-aliases: [emulsions, emulsiones, Pickering emulsion, double emulsion, W/O/W, HIPE, high internal phase emulsion, sistema de encapsulación]
+aliases: [emulsions, Pickering emulsion, double emulsion, W/O/W, HIPE, high internal phase emulsion, sistema de encapsulación]
 ---
 
 # Emulsiones

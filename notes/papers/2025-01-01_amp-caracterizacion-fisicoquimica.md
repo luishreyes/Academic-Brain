@@ -5,7 +5,8 @@ year: 2025
 journal: "Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development (Elsevier), cap. 12"
 url: https://doi.org/10.1016/B978-0-443-15393-8.00012-9
 doi: 10.1016/B978-0-443-15393-8.00012-9
-pdf_local: sources/pdfs/peptides-proteins/quezada-2025-amp-caracterizacion-fisicoquimica.pdf
+pdf_ref: quezada-2025-amp-caracterizacion-fisicoquimica.pdf
+sha256: a2b3eef20cf2bb2249929807eec22a57992277cfcb3157f54c3c159e1b7ca46c
 type: paper
 keywords: [peptidos-bioactivos, biologia-molecular, desarrollo-de-farmacos]
 date_added: 2026-06-26

@@ -5,7 +5,6 @@ year: 2025
 publisher: Portfolio / Penguin
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [finanzas-personales, psicologia-del-bienestar, comportamiento-del-consumidor]
 date_added: 2026-07-05

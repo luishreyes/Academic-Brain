@@ -5,7 +5,8 @@ year: 2025
 journal: Journal of Chemical Education
 url: https://doi.org/10.1021/acs.jchemed.5c00657
 doi: 10.1021/acs.jchemed.5c00657
-pdf_local: sources/pdfs/scaffolding-socratic-metacognition/haraldsrud_2025_self-scaffolding-computational-modeling.pdf
+pdf_ref: haraldsrud_2025_self-scaffolding-computational-modeling.pdf
+sha256: 4f434aa3cd121703c11fb40927518e52552da5a9ee5be7006438de3737ab168f
 type: paper
 keywords: [educacion-en-programacion, quimica-computacional, modelado-molecular, descarga-cognitiva, sobredependencia-de-la-ia, ingenieria-de-prompts, pensamiento-critico, autorregulacion-del-aprendizaje, aprendizaje-activo, supervision-humana]
 date_added: 2026-06-28

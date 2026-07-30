@@ -5,7 +5,8 @@ year: 2026
 journal: "British Journal of Educational Technology"
 url: https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70047
 doi: 10.1111/bjet.70047
-pdf_local: sources/pdfs/ai-education/le2026-ia-literacy-formacion-docente.pdf
+pdf_ref: le2026-ia-literacy-formacion-docente.pdf
+sha256: 107b7ff68d3e8d5028cbaa603d5f7a28209d7894e12a7fbb588bb0313c228dd8
 type: paper
 keywords: [alfabetizacion-en-ia, formacion-docente, inteligencia-artificial, educacion-superior, etica-de-la-ia, aprendizaje-activo, supervision-humana]
 date_added: 2026-06-25

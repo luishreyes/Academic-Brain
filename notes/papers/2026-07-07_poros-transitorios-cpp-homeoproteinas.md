@@ -5,7 +5,8 @@ year: 2026
 journal: "Proceedings of the National Academy of Sciences"
 url: "https://doi.org/10.1073/pnas.2602649123"
 doi: "10.1073/pnas.2602649123"
-pdf_local: sources/pdfs/trofimenko2026-poros-transitorios-cpp.pdf
+pdf_ref: trofimenko2026-poros-transitorios-cpp.pdf
+sha256: a758882bf9f63ef87fd0bc8c7ff098d3055022868365f8eb9bfd02b68d3c1755
 type: paper
 keywords: [peptidos-bioactivos, biologia-molecular, desarrollo-de-farmacos, nanomedicina, neurociencia, biofisica-de-membranas, electrofisiologia]
 date_added: 2026-07-07

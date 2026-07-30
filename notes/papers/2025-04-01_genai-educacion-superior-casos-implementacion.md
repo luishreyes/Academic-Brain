@@ -5,7 +5,8 @@ year: 2025
 journal: "Computers and Education: Artificial Intelligence"
 url: https://doi.org/10.1016/j.caeai.2025.100407
 doi: 10.1016/j.caeai.2025.100407
-pdf_local: sources/pdfs/existing-reviews-gapmap/belkina_2025_genai-he-casestudies.pdf
+pdf_ref: belkina_2025_genai-he-casestudies.pdf
+sha256: b13b0da2f0e7a008d6615efeee306bb3822e7e4f73ca244c71eb6587b5716b04
 type: paper
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, educacion-superior, adopcion-de-tecnologia, personalizacion-del-aprendizaje]
 date_added: 2026-06-28

@@ -5,7 +5,8 @@ year: 2026
 journal: "Platforms & Society"
 url: https://journals.sagepub.com/home/pns
 doi: 10.1177/29768624251408919
-pdf_local: sources/pdfs/risks-overreliance-equity/kerche_2026_silicon-gaze-llm-place-bias.pdf
+pdf_ref: kerche_2026_silicon-gaze-llm-place-bias.pdf
+sha256: 9536076009ab3a0546d9f4ff66778ba345c8ae7e1fa834069c6181902faee949
 type: paper
 keywords: [inteligencia-artificial, sesgo-algoritmico, etica-de-la-ia, procesamiento-de-lenguaje-natural, capacidades-de-ia]
 date_added: 2026-06-28

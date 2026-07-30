@@ -5,7 +5,8 @@ year: 2025
 journal: Journal of Computer Assisted Learning
 url: https://onlinelibrary.wiley.com/doi/10.1111/jcal.70096
 doi: 10.1111/jcal.70096
-pdf_local: sources/pdfs/learning-impact-evidence/liu_2025_chatgpt-achievement-metaanalysis.pdf
+pdf_ref: liu_2025_chatgpt-achievement-metaanalysis.pdf
+sha256: ce462aef1c5cdf0733f5046677582b8a218db7b45d51f51c4a239b31d4c6f91b
 type: paper
 keywords: [inteligencia-artificial, tutoria-con-ia, evaluacion-educativa, revision-sistematica-de-literatura, equidad-educativa, personalizacion-del-aprendizaje, aprendizaje-activo, retroalimentacion-con-ia, educacion-superior, educacion-en-programacion]
 date_added: 2026-06-28

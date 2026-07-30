@@ -5,7 +5,8 @@ year: 2026
 journal: Review of Education
 url: https://doi.org/10.1002/rev3.70152
 doi: 10.1002/rev3.70152
-pdf_local: sources/pdfs/existing-reviews-gapmap/altamirano_2026_genai-higher-ed-systematic-review.pdf
+pdf_ref: altamirano_2026_genai-higher-ed-systematic-review.pdf
+sha256: 3f9c4d8603d5b2cdb2df2b68ec84a15d19612ee66cb7cd1bd073d868339d7af4
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, formacion-docente, tpack, revision-sistematica-de-literatura, adopcion-de-tecnologia, etica-de-la-ia, brecha-digital]
 date_added: 2026-06-30

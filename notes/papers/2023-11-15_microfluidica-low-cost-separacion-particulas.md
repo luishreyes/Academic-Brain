@@ -5,7 +5,8 @@ year: 2023
 journal: HardwareX
 url: https://doi.org/10.1016/j.ohx.2023.e00493
 doi: 10.1016/j.ohx.2023.e00493
-pdf_local: sources/pdfs/microfluidics/rodriguez-2023-microfluidica-pmma.pdf
+pdf_ref: rodriguez-2023-microfluidica-pmma.pdf
+sha256: 6d5a4c4d1d30b9b74116a65294ca56546fd397afcac979ac2943d7a8abf60da4
 type: paper
 keywords: [microfluidica, simulacion-computacional, biomateriales, ingenieria-quimica]
 date_added: 2026-06-26

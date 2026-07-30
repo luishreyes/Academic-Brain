@@ -5,7 +5,8 @@ year: 2026
 journal: "Artificial Intelligence in Social Work (An & Lindsey, eds.), Springer"
 url: https://doi.org/10.1007/978-3-032-18443-6_21
 doi: 10.1007/978-3-032-18443-6_21
-pdf_local: sources/pdfs/ai-social-work/ch21-investigacion-trabajo-social.pdf
+pdf_ref: ch21-investigacion-trabajo-social.pdf
+sha256: 51439a2f8016f10601947b89baa193673990aef6e6de831068f71766b585b434
 type: paper
 keywords: [trabajo-social, inteligencia-artificial, ciencia-de-datos, procesamiento-de-lenguaje-natural, analitica-predictiva, vision-por-computadora, agentes-de-ia, generacion-aumentada-por-recuperacion, ia-explicable, sesgo-algoritmico, supervision-humana, proteccion-infantil]
 date_added: 2026-07-05
