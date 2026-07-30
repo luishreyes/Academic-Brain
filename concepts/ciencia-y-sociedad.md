@@ -54,3 +54,4 @@ Relación entre la producción científica y sus contextos sociales, políticos 
 - [[notes/books/2022-08-11_el-poder-de-las-palabras-sigman]]
 - [[notes/books/2024-01-01_nexus-harari]]
 - [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]
+- [[notes/papers/2021-07-21_nuevas-fronteras-bioseguridad]]
