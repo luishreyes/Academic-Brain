@@ -17,8 +17,8 @@ La convergencia más fuerte entre ambos es metodológica y conceptual: los dos r
 Donde divergen es en el nivel causal y, por tanto, en la solución. Maté sitúa el origen en fuerzas difusas y sistémicas —capitalismo, racismo, patriarcado, incertidumbre económica— sin ofrecer mecanismos de intervención estructural concretos, una limitación que su propia nota reconoce. Haidt, en cambio, identifica una causa mucho más específica y accionable: el diseño deliberado de las plataformas y la ausencia de regulación durante la adopción masiva del smartphone, lo que le permite proponer reformas puntuales (edad mínima de 14 años, restricción de redes hasta los 16, escuelas libres de teléfonos). Esta especificidad le da a Haidt mayor poder prescriptivo, pero a costa de una explicación más estrecha: su análisis, centrado en países anglosajones, no incorpora las condiciones estructurales de desigualdad que para Maté son la causa raíz. Leídos en conjunto, ambos sugieren que el trauma contemporáneo opera en capas anidadas —una capa sistémico-cultural de largo plazo (Maté) y una capa tecnológico-generacional más reciente y aguda (Haidt)— que se refuerzan sin que ninguno de los dos autores las integre explícitamente en un solo marco.
 
 ## Notas que usan este concepto
-- [[notes/books/2022-09-13_the-myth-of-normal]]
-- [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]
 - [[notes/books/1946-01-01_mans-search-for-meaning-frankl]]
 - [[notes/books/2018-01-01_como-hacer-que-te-pasen-cosas-buenas-rojas]]
+- [[notes/books/2022-09-13_the-myth-of-normal]]
+- [[notes/books/2024-06-07_la-generacion-ansiosa-haidt]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap08-violencia-pareja]]

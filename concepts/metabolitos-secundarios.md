@@ -19,6 +19,6 @@ Parra Daza et al. (2023) no continúan esta línea: cambian de organismo (E. col
 - [[notes/papers/2016-07-07_carotenoides-biorreactor-raman]]
 - [[notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento]]
 - [[notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno]]
-- [[notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza]]
 - [[notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor]]
 - [[notes/papers/2026-07-05_levaduras-no-saccharomyces-cerveza-baja-alcohol]]
+- [[notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza]]

@@ -17,7 +17,7 @@ Yang, Amin, Sajid y Khan (2026) usan grafos de conocimiento de forma distinta pe
 Loubet et al. (2026) proveen el contraste que ata el corpus: evalúan LLMs puros, sin grafo, resolviendo problemas de termodinámica y documentan una caída de rendimiento de ~87-89% en problemas simples a 41-55% en avanzados, con alta varianza entre repeticiones idénticas del mismo prompt. Su punto de comparación, KnowTD, es exactamente el tipo de sistema que los otros tres papers construyen: una ontología/grafo de conocimiento que resuelve los problemas simples de forma exacta y trazable, aunque sin cobertura de los avanzados. La conclusión que atraviesa las cuatro notas es la misma: en dominios técnicos de ingeniería de procesos, los LLMs solos son rápidos pero poco fiables, y el grafo de conocimiento —ya sea como fuente de recuperación (P&ID), como espacio de codificación generativa (QRA) o como sistema de referencia externo (termodinámica)— es el mecanismo que se repite para acotar las alucinaciones y anclar las respuestas a la estructura real del proceso.
 
 ## Notas que usan este concepto
-- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]
 - [[notes/papers/2025-07-06_talking-like-pids]]
+- [[notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria]]
 - [[notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra]]
 - [[notes/papers/2026-08-17_llm-problemas-termodinamica-textbook]]

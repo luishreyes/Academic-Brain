@@ -17,6 +17,6 @@ Los dos editoriales de *Nature* y el libro de Miller abordan la tecnocracia desd
 Leídos en conjunto, los tres textos sugieren que la tecnocracia opera en dos registros que rara vez se cruzan en la literatura del vault: uno normativo-epistémico —¿debe la pericia técnica gobernar la producción de conocimiento?, que *Nature* responde con un no matizado— y otro material-estratégico —¿quién controla de facto la infraestructura que hace posible ese conocimiento?, que Miller documenta sin juzgarlo moralmente. La gobernanza humanista que Fan y el editorial de *Nature* reclaman para la ciencia en 2026 no tiene, en el corpus actual, un equivalente que pregunte quién gobierna —o debería gobernar— la infraestructura de cómputo y semiconductores sobre la que esa misma ciencia se apoya: la supervisión humana que ambos artículos exigen para la IA convive, sin que ninguno lo señale, con una cadena de suministro de chips controlada por un puñado de actores estatales y corporativos que operan bajo la lógica casi exclusivamente técnica que Miller describe.
 
 ## Notas que usan este concepto
-- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]
 - [[notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos]]
+- [[notes/articles/2026-06-25_ciencia-necesita-humanidades]]
 - [[notes/books/2022-10-04_chip-war-miller]]

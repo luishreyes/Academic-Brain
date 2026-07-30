@@ -15,13 +15,13 @@ Los cuatro documentos del corpus —un white paper multi-actor de la EFCE/SFGP, 
 Donde el corpus técnico se detiene en la confianza operativa, la NSPE la eleva a un requisito de gobernanza: exige que los sistemas de IA con impacto en la seguridad pública sean "transparentes, explicables y rindan cuentas", y liga explícitamente esa exigencia al modelo de licenciatura profesional (Professional Engineer) ya existente en ingeniería. Los cuatro textos coinciden en que la explicabilidad es la bisagra entre capacidad predictiva y responsabilidad profesional: sin ella, ni el operador de planta ni el regulador pueden ejercer la supervisión humana que las cuatro fuentes —cada una desde su propio registro, técnico o normativo— consideran indispensable.
 
 ## Notas que usan este concepto
-- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
-- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]
-- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
 - [[notes/articles/2026-02-01_nspe-declaracion-posicion-ia]]
+- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap02-etica]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap09-salud-mental]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap10-escolar]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]
+- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
+- [[notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica]]
 - [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]

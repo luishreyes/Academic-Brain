@@ -17,9 +17,9 @@ El estudio de 2025 sobre palma de aceite en Colombia, que cita explícitamente l
 El cuarto estudio, sobre monitoreo visual de reactores de biomasa (Mao et al. 2026), pertenece a un grupo y dominio distintos, pero toca el desarrollo rural desde un ángulo complementario: reactores portátiles y descentralizados de torrefacción buscan integrar a comunidades rurales remotas en la economía circular de biomasa, evitando el costo de transportar biomasa suelta y húmeda hasta plantas centralizadas. Aquí la barrera de adopción no es cultural ni regulatoria sino de confiabilidad técnica —tasas de falsa alarma que en el régimen realista *shuffled video-based* llegan al 100 %— y el estudio la aborda no con extensión participativa sino con explicabilidad (Grad-CAM++) para generar confianza en los operadores de campo. Es un recordatorio útil: la confianza del usuario rural en la tecnología, tema central de los tres estudios de palma, también aparece aquí, aunque construida por vías técnicas (transparencia del modelo) en lugar de institucionales (extensión bidireccional).
 
 ## Notas que usan este concepto
+- [[notes/books/2011-01-01_poor-economics-banerjee]]
+- [[notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres]]
 - [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]
 - [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]
-- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]
 - [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
-- [[notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres]]
-- [[notes/books/2011-01-01_poor-economics-banerjee]]
+- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]

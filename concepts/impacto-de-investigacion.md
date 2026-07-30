@@ -18,6 +18,6 @@ Chintalapati et al. y Lu et al. representan los dos extremos de un tercer eje: q
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
-- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]
 - [[notes/books/2024-01-01_blind-spots-makary]]
+- [[notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica]]
 - [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]

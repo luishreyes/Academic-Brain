@@ -17,8 +17,8 @@ Cartier-Bresson (1908-2004) representa el polo de la **distancia geométrica**. 
 La tensión que emerge del conjunto es productiva. Los tres comparten la premisa documental —dar testimonio de una realidad humana— pero difieren en dónde ponen la honestidad: Cartier-Bresson en la fidelidad al instante y a la forma, Koudelka en la abolición de la distancia entre quien mira y quien es mirado, Salgado en la dignificación del sujeto aun a riesgo de embellecer su sufrimiento. No hay un ganador: el corpus muestra que "documentar honestamente" no es una técnica sino una ética, y que esa ética admite soluciones opuestas dentro de una misma tradición.
 
 ## Notas que usan este concepto
-- [[notes/books/2007-01-01_salgado-photofile]]
-- [[notes/books/2007-01-01_koudelka-photofile]]
-- [[notes/books/2008-01-01_cartier-bresson-photofile]]
 - [[notes/books/1958-01-01_the-americans-frank]]
+- [[notes/books/2007-01-01_koudelka-photofile]]
+- [[notes/books/2007-01-01_salgado-photofile]]
+- [[notes/books/2008-01-01_cartier-bresson-photofile]]
 - [[notes/books/2024-01-01_la-imagen-como-arte-caicedo]]

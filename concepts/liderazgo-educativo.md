@@ -19,9 +19,9 @@ Georgieva y Stuart, en el artículo de EDUCAUSE Review que da título a la nota 
 El estudio de caso de Schleiss, Johri y Stober sobre el programa de "AI engineering" de Magdeburgo aporta una nota discordante útil: el cambio curricular exitoso no lo impulsó una iniciativa estratégica top-down, sino educadores que diseñaron el programa de abajo hacia arriba y usaron la financiación externa como palanca de validación frente a una cultura institucional inicialmente resistente. Leído junto a *Originals* de Adam Grant, este hallazgo se vuelve más nítido: Grant argumenta que las culturas organizacionales realmente innovadoras no son las que designan *devil's advocates* teatrales, sino las que dan seguridad psicológica a disidentes genuinos dispuestos a cuestionar los valores por defecto, y que la voluminosidad de ideas —no la audacia individual— predice el éxito de un original. El vacío de liderazgo que documentan Arar et al. y la fragmentación reactiva que describen Azevedo et al. pueden leerse, en clave de Grant, como el síntoma de instituciones que gestionan la IA como riesgo a contener antes que como una oportunidad de innovación pedagógica a cultivar: el llamado de Georgieva y Stuart a "liderar con propósito" y el caso bottom-up de Magdeburgo son, en el fondo, episodios de liderazgo que toleraron el disenso inicial —la resistencia cultural del profesorado— el tiempo suficiente para que se convirtiera en innovación curricular, en vez de sofocarlo con controles prematuros.
 
 ## Notas que usan este concepto
-- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
-- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]
-- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]
-- [[notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes]]
 - [[notes/articles/2025-06-24_ethics-is-the-edge-ia-educacion-superior]]
 - [[notes/books/2016-02-02_originals-grant]]
+- [[notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio]]
+- [[notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes]]
+- [[notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo]]
+- [[notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior]]

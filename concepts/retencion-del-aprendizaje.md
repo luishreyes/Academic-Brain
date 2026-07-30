@@ -17,5 +17,5 @@ Contractor y Reyes (2026), con 211 estudiantes evaluados sin asistencia a una se
 La contradicción se disuelve en el diseño. Barcaui entregó ChatGPT sin restricciones, la condición que empuja hacia la automatización. Contractor y Reyes separaron a quienes usaban la IA para entender (aumentación) de quienes le pedían que produjera el texto (automatización), y solo los primeros conservaron la habilidad al retirar la herramienta. La tesis conjunta: la IA sin barandas favorece el uso que erosiona el aprendizaje, y solo el uso deliberado como andamiaje conceptual preserva la habilidad. El corolario metodológico es tan importante como el hallazgo: la foto durante la intervención casi siempre favorece a la IA (Han 2026), y la foto una semana o mes y medio después es la que discrimina.
 
 ## Notas que usan este concepto
-- [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]
 - [[notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion]]
+- [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]

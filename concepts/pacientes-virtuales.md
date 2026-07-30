@@ -9,7 +9,7 @@ aliases: [virtual patients, simulated patients, AI virtual patients, standardise
 Sistemas que simulan encuentros clínicos con pacientes para entrenar a profesionales de la salud, incluidos los pacientes virtuales basados en IA/LLM y su contraste con los pacientes estandarizados (SP) humanos; permiten práctica repetible, de bajo costo y en entorno seguro.
 
 ## Notas que usan este concepto
-- [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]
+- [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]
 - [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]
 - [[notes/papers/2026-06-01_genai-comunicacion-farmacia-educador]]
-- [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]
+- [[notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica]]

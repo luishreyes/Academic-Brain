@@ -21,7 +21,7 @@ Mollick cierra el círculo señalando hacia dónde se dirige la demanda de todo 
 Leídos juntos, los cuatro textos describen una guerra tecnológica de capas que rara vez se sintetizan en la literatura: el hardware que Miller trata como destino geográfico fijo, las métricas de rendimiento que el AI Index usa para medir si ese destino sigue siendo determinante, y el consumo energético-hídrico que Jegham revela como un segundo cuello de botella material, tan desigual como el primero pero regido por la red eléctrica en vez de la fundición. Mollick añade la variable temporal: si el modo dominante de uso se desplaza hacia agentes que consumen cómputo de forma prolongada y autónoma, la presión sobre chips, energía y agua no hace sino intensificarse, y la pregunta de "quién controla la IA" —que para Miller era una pregunta sobre fábricas— se vuelve simultáneamente una pregunta sobre fábricas, redes eléctricas y algoritmos.
 
 ## Notas que usan este concepto
-- [[notes/books/2022-10-04_chip-war-miller]]
 - [[notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico]]
-- [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]
 - [[notes/articles/2026-06-30_twilight-chatbots-mollick]]
+- [[notes/books/2022-10-04_chip-war-miller]]
+- [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]

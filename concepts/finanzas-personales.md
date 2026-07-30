@@ -17,11 +17,11 @@ El horizonte largo es el segundo punto de convergencia explícita. Graham defien
 Donde el corpus se fractura es en la fuente de la riqueza y la tolerancia al riesgo concentrado. Ravikant idealiza el apalancamiento sin permiso —código, medios, equity— como el multiplicador que permite a cualquiera con "conocimiento específico" escalar su impacto sin escalar su esfuerzo, y celebra la apuesta concentrada sobre el propio proyecto como vía preferente hacia la riqueza real. Galloway ataca casi punto por punto esa misma narrativa: rechaza explícitamente "la mitología del emprendedor excepcional" (menciona a Jay-Z, a Buffett) como modelo de conducta, señalando que son anomalías estadísticas sobrevivientes, y propone en su lugar la carrera asalariada con ventajas estructurales, combinada con diversificación clásica de cartera, como el vehículo realista para la mayoría. Graham queda a medio camino entre ambos: comparte con Galloway la desconfianza hacia la concentración —su capítulo sobre diversificación y sus criterios cuantitativos de selección son, en esencia, un sistema para evitar apuestas no verificadas— pero, a diferencia de Galloway, sí exige del inversor emprendedor un trabajo activo de análisis fundamental que Naval directamente elude apostando al apalancamiento tecnológico y al juicio personal antes que a la valoración de activos ajenos. Es revelador que las propias notas señalen el mismo punto ciego en Graham y en Ravikant desde direcciones opuestas: a Graham (2003) le faltó anticipar los fondos indexados que hoy encarnan su filosofía defensiva sin requerir el análisis que él prescribía, mientras que a Ravikant (2020) se le critica un marco "fuertemente situado en la economía de Silicon Valley" que asume una movilidad y un acceso al capital que Galloway trata explícitamente como la excepción, no la regla.
 
 ## Notas que usan este concepto
-- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/books/2003-01-01_intelligent-investor-graham]]
-- [[notes/books/2020-08-11_almanack-naval-ravikant-jorgenson]]
 - [[notes/books/2010-01-01_the-compound-effect-hardy]]
 - [[notes/books/2020-01-01_the-psychology-of-money-housel]]
+- [[notes/books/2020-08-11_almanack-naval-ravikant-jorgenson]]
 - [[notes/books/2023-01-01_lo-que-nunca-cambia-housel]]
+- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/books/2025-01-01_the-5-types-of-wealth-bloom]]
 - [[notes/books/2025-01-01_the-art-of-spending-money-housel]]
