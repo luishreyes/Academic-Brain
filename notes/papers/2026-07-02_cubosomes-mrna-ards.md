@@ -8,6 +8,7 @@ doi: 10.1016/j.jconrel.2026.115146
 pdf_ref: gao_2026_cubosomes-mrna-delivery-ards.pdf
 sha256: efc55e72b3d591ef6593edc5b681b36b63ab615fc4b6b375fa9a1eed71728982
 type: paper
+visibility: public
 keywords: [biomateriales, terapia-genica, nanociencia, desarrollo-de-farmacos, entrega-de-mrna, enfermedades-respiratorias]
 date_added: 2026-07-02
 ---

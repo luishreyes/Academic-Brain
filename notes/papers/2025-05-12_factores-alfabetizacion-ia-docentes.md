@@ -8,6 +8,7 @@ doi: 10.3389/feduc.2025.1530721
 pdf_ref: ayyoub_2025_educator-ai-literacy.pdf
 sha256: 7576eaba11f043c7865beb1a1d712d08158f788681810a20225f3004417acd37
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, inteligencia-artificial, formacion-docente, educacion-superior, adopcion-de-tecnologia, etica-de-la-ia, psicometria]
 date_added: 2026-06-28
 ---

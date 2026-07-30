@@ -8,6 +8,7 @@ doi: 10.1016/j.ymben.2012.05.002
 pdf_ref: reyes2012-vert-nbutanol-mechanisms.pdf
 sha256: 86d0e73470e15ea1632b9c2e8e9949b89bec6d65a7fa7ee2d699581a978c8401
 type: paper
+visibility: public
 keywords: [evolucion-de-laboratorio, ingenieria-metabolica, biocombustibles, genomica, biologia-molecular, dinamica-de-poblaciones, ingenieria-quimica]
 date_added: 2026-06-26
 ---

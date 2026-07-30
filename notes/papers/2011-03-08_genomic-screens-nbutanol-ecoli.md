@@ -8,6 +8,7 @@ doi: 10.1371/journal.pone.0017678
 pdf_ref: reyes2011-genomic-screens-nbutanol.pdf
 sha256: 5599f6787eb5b26468e0d2e5883e8fe9c148b683781279b21eddb65087524e9b
 type: paper
+visibility: public
 keywords: [ingenieria-metabolica, biocombustibles, genomica, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26
 ---

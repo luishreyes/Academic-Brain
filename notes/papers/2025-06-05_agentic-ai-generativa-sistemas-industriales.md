@@ -8,6 +8,7 @@ doi: 10.1016/j.coche.2025.101150
 pdf_ref: boskabadi_2025_industrial-agentic-genai.pdf
 sha256: 45a5aed9f9f98a54bc7dd74b31dd4e7986d76fb48ad473b49ff5e217c5410405
 type: paper
+visibility: public
 keywords: [agentes-de-ia, inteligencia-artificial, ingenieria-quimica, simulacion-computacional, modelado-molecular, sostenibilidad, ciencia-de-datos, biologia-sintetica]
 date_added: 2026-06-27
 ---

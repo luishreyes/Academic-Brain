@@ -5,6 +5,7 @@ publication: OpenAI
 date: 2026-04-23
 url: https://openai.com/index/gpt-5-5-system-card/
 type: article
+visibility: public
 keywords: [seguridad-de-ia, capacidades-de-ia, alineamiento-de-ia, alucinaciones-de-ia, agentes-de-ia, supervision-humana, etica-de-la-ia, inteligencia-artificial]
 date_added: 2026-06-27
 pdf_ref: openai_2026_gpt-5-5-system-card.pdf

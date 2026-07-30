@@ -8,6 +8,7 @@ doi: 10.3390/fluids6090309
 pdf_ref: giraldo2021-microfluidica-encapsulacion-nanobioconjugados.pdf
 sha256: fcfb8f9562fb7046d9acc3f40a36784a0731912476bbb63ed5b89680b5bb8a2f
 type: paper
+visibility: public
 keywords: [microfluidica, biomateriales, nanociencia, ingenieria-quimica]
 date_added: 2026-06-26
 ---

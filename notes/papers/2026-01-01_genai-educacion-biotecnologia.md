@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-05246-9_12
 pdf_ref: cruz-2026-genai-educacion-biotecnologia.pdf
 sha256: 4667644862f1c16891817d7d93992978f650af27cfa7afd5bcdf1ff775b1198b
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, personalizacion-del-aprendizaje, etica-de-la-ia, tutoria-con-ia]
 date_added: 2026-06-26
 ---

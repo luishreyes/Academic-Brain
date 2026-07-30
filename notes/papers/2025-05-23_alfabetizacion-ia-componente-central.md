@@ -8,6 +8,7 @@ doi: 10.1002/aaai.70007
 pdf_ref: tadimalla_2025_ai-literacy-core-component.pdf
 sha256: e287252544b9a142d075a0185bc7714ca78df43494b46c1aaa1cbbd39ad728bf
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, inteligencia-artificial, educacion-superior, etica-de-la-ia, evaluacion-educativa, aprendizaje-activo, equidad-educativa, integridad-academica, futuro-del-trabajo]
 date_added: 2026-06-27
 ---

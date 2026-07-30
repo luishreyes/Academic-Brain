@@ -6,6 +6,7 @@ publisher: HarperCollins Publishers
 url: 
 isbn: 9780060555665
 type: book
+visibility: public
 keywords: [finanzas-personales, sesgo-cognitivo]
 date_added: 2026-06-26
 ---

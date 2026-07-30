@@ -8,6 +8,7 @@ doi: 10.5935/0004-2749.2025-0283
 pdf_ref: gobira-2026-chatgpt5-glaucoma-residentes.pdf
 sha256: 6879f5fe8f90efb210d33a85c41cf5e1325d1dd50a3e282c8efe845f38c6a392
 type: paper
+visibility: public
 keywords: [capacidades-de-ia, educacion-medica, evaluacion-educativa, alucinaciones-de-ia, ingenieria-de-prompts, procesamiento-de-lenguaje-natural, inteligencia-artificial]
 date_added: 2026-07-09
 ---

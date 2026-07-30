@@ -8,6 +8,7 @@ doi: 10.48550/arXiv.2605.14604
 pdf_ref: kasneci-2026-sycophancy-tutores-llm.pdf
 sha256: c18973f1634361c43f7ad5cdbe2506f3f553cda7496c5dfc9d89121e5fa5c598
 type: paper
+visibility: public
 keywords: [tutoria-con-ia, seguridad-de-ia, alineamiento-de-ia, capacidades-de-ia, psicologia-educativa]
 date_added: 2026-06-27
 ---

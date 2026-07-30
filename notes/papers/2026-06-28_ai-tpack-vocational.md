@@ -8,6 +8,7 @@ doi: 10.1016/j.caeo.2025.100319
 pdf_ref: setiyawan_2025_aitpack-vocational.pdf
 sha256: b60e0b308634649f6e4fb3a45778203146997513439537b1f94c863a15d1ca85
 type: paper
+visibility: public
 keywords: [formacion-docente, alfabetizacion-en-ia, inteligencia-artificial, psicometria, educacion-en-ingenieria, adopcion-de-tecnologia]
 date_added: 2026-06-28
 ---

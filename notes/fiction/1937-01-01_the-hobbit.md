@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [fantasia, fantasia-epica, aventura]
 type: fiction
+visibility: public
 keywords: [mayoria-de-edad]
 date_added: 2026-07-05
 ---

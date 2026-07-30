@@ -5,6 +5,7 @@ publication: One Useful Thing (Substack)
 date: 2026-03-12
 url: https://www.oneusefulthing.org/p/the-shape-of-the-thing
 type: article
+visibility: public
 keywords: [capacidades-de-ia, agentes-de-ia, futuro-del-trabajo, inteligencia-artificial]
 date_added: 2026-06-26
 ---

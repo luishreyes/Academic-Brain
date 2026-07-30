@@ -6,6 +6,7 @@ publisher: Bantam Books
 url: 
 isbn: 978-0-553-80537-6
 type: book
+visibility: public
 keywords: [fisica-y-cosmologia, filosofia, filosofia-de-la-ciencia, comunicacion-cientifica]
 date_added: 2026-07-05
 ---

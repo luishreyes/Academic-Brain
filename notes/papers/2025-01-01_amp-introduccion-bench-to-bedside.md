@@ -8,6 +8,7 @@ doi: 10.1016/B978-0-443-15393-8.10000-4
 pdf_ref: reyes-2025-amp-introduccion-bench-bedside.pdf
 sha256: e38e06733f7121a1f5f87a6ac514c79148d05e4307bb3e2524d256249fbcd252
 type: paper
+visibility: public
 keywords: [peptidos-bioactivos, desarrollo-de-farmacos]
 date_added: 2026-06-26
 ---

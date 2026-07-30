@@ -8,6 +8,7 @@ doi: 10.1038/s41598-020-71428-6
 pdf_ref: tafur2020-clostridium-xylose-transcriptomica.pdf
 sha256: 87dcb0e77fd03ecc7751f24104b763fbba226ed4e3d73e4ae2133a7eedf0ee0c
 type: paper
+visibility: public
 keywords: [biomasa-lignocelulosica, genomica, ingenieria-metabolica, biologia-molecular, biocombustibles, ingenieria-quimica]
 date_added: 2026-06-26
 ---

@@ -7,6 +7,7 @@ url: https://educational-innovation.sydney.edu.au/teaching@sydney/frequently-ask
 pdf_ref: bridgeman_2024_two-lane-approach-faq.pdf
 sha256: 19a3852d8e429dc6a20a479873623c8d5344a3999c7d4659506fc0a60dbcd602
 type: article
+visibility: public
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, etica-de-la-ia, regulacion-de-ia, pensamiento-critico, autorregulacion-del-aprendizaje]
 date_added: 2026-06-27
 ---

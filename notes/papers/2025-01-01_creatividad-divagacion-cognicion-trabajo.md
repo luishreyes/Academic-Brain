@@ -8,6 +8,7 @@ doi: 10.1002/job.2882
 pdf_ref: ibaceta_2025_daydreaming-creativity-work.pdf
 sha256: f180c27c162b13b2a63081cd922cb08d09ee515451842d47f0b9dea97a601489
 type: paper
+visibility: public
 keywords: [creatividad, comportamiento-organizacional, psicologia-de-la-personalidad, divagacion-mental]
 date_added: 2026-07-04
 ---

@@ -8,6 +8,7 @@ doi: 10.1002/rev3.3489
 pdf_ref: yusuf_2024_genai-mapping.pdf
 sha256: 20a59892a1858a371fe5267b4d6e07ea475e45fc8bdc6d7f082f8a7aaa0d8472
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, analisis-bibliometrico, etica-de-la-ia, adopcion-de-tecnologia, educacion-superior, integridad-academica]
 date_added: 2026-06-28
 ---

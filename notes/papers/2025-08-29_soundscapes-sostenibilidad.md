@@ -8,6 +8,7 @@ doi: 10.1016/j.jenvp.2025.102749
 pdf_ref: rodriguez-2025-soundscapes-sostenibilidad.pdf
 sha256: 958e11f72ae5c1c745bede56ab0ea26e9e1eeeb99ebe1beb099ebe7d93711128
 type: paper
+visibility: public
 keywords: [percepcion-multisensorial, sostenibilidad, diseno-de-producto]
 date_added: 2026-06-26
 ---

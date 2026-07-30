@@ -8,6 +8,7 @@ doi: 10.1111/hequ.70054
 pdf_ref: jiang_2025_institutional-ai-policies.pdf
 sha256: 4d1fb4a483f135efe316a750cf6c597a4c5df4ea496036dc169c9bbd901014b6
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, regulacion-de-ia, educacion-superior, formacion-docente, alfabetizacion-en-ia, integridad-academica, desigualdad-de-genero, adopcion-de-tecnologia]
 date_added: 2026-06-28
 ---

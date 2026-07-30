@@ -6,6 +6,7 @@ publisher: PublicAffairs
 url: 
 isbn: 978-1-610-39093-4
 type: book
+visibility: public
 keywords: [economia-del-desarrollo, ensayo-controlado-aleatorio, politica-social, desarrollo-rural]
 date_added: 2026-07-05
 ---

@@ -8,6 +8,7 @@ doi: 10.4274/tjtcs.2026.2026-2-40
 pdf_ref: bayici-2026-ia-cirugia-cardiovascular-examenes.pdf
 sha256: cc07fe5b5b38a6493cb482f05c9b64bd3bf90f353592e0fb4cdbcbaa98e32823
 type: paper
+visibility: public
 keywords: [educacion-medica, evaluacion-educativa, capacidades-de-ia, razonamiento-multimodal, descarga-cognitiva, supervision-humana, sobredependencia-de-la-ia, alucinaciones-de-ia, inteligencia-artificial]
 date_added: 2026-07-09
 ---

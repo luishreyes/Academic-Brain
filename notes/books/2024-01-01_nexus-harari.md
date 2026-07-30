@@ -6,6 +6,7 @@ publisher: Fern Press
 url: 
 isbn: 978-1-911-70910-6
 type: book
+visibility: public
 keywords: [inteligencia-artificial, historia-de-la-innovacion, ciencia-y-sociedad, regulacion-de-ia, gran-historia, etica-de-la-ia]
 date_added: 2026-07-05
 ---

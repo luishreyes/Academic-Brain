@@ -5,6 +5,7 @@ publication: Frontiers in Chemistry
 date: 2024-10-09
 url: https://doi.org/10.3389/fchem.2024.1500836
 type: article
+visibility: public
 keywords: [biomateriales, desarrollo-de-farmacos, ingenieria-quimica]
 date_added: 2026-06-26
 ---

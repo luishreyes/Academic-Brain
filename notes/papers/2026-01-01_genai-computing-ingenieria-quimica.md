@@ -8,6 +8,7 @@ doi:
 pdf_ref: zhang_2026_genai-computing-course.pdf
 sha256: 19caca4388ddc3cd76d38892ed64a60201ea3f5fe6c2b3a370c3ae34d13b7528
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-en-ingenieria, educacion-en-programacion, ingenieria-quimica, autorregulacion-del-aprendizaje, pensamiento-critico, retroalimentacion-con-ia, integridad-academica, alfabetizacion-en-ia, aprendizaje-activo]
 date_added: 2026-06-27
 ---

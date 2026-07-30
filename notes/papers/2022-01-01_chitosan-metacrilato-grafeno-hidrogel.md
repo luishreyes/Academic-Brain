@@ -8,6 +8,7 @@ doi: 10.3390/polym14010126
 pdf_ref: cespedes2022-chitosan-grafeno-hidrogel-hueso.pdf
 sha256: c3bcd8cdc6f4e52a95adcd714fbbef7fd06923083fa04b394b47a2b6f2cb9653
 type: paper
+visibility: public
 keywords: [biomateriales, ingenieria-quimica]
 date_added: 2026-06-26
 ---

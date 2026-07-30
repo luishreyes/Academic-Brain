@@ -10,6 +10,7 @@ rating: 5
 status: leído
 genre: [ciencia-ficcion, hard-sf, space-opera]
 type: fiction
+visibility: public
 keywords: [sistemas-y-reglas, primer-contacto, colapso-civilizatorio, ciencia-y-sociedad]
 date_added: 2026-07-05
 ---

@@ -6,6 +6,7 @@ publisher: Portfolio Trade
 url: 
 isbn: 1591846447
 type: book
+visibility: public
 keywords: [liderazgo-organizacional, futuro-del-trabajo, creatividad, psicologia-educativa, comunicacion-cientifica, filosofia]
 date_added: 2026-06-25
 ---

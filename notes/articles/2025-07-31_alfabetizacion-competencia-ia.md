@@ -5,6 +5,7 @@ publication: Interactive Learning Environments
 date: 2025-07-31
 url: https://doi.org/10.1080/10494820.2025.2514372
 type: article
+visibility: public
 keywords: [alfabetizacion-en-ia, capacidades-de-ia, etica-de-la-ia, interdisciplinariedad, educacion-k12, formacion-docente, equidad-educativa, supervision-humana]
 date_added: 2026-06-27
 ---

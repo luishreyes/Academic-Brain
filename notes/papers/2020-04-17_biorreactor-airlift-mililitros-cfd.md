@@ -8,6 +8,7 @@ doi: 10.1016/j.jbiotec.2020.09.022
 pdf_ref: marroquin2020-biorreactor-airlift-mililitros.pdf
 sha256: 90c86f04c6096b421bd381f9c44c46f9d3ce0b118571f5304eb25b9036dd2975
 type: paper
+visibility: public
 keywords: [ingenieria-quimica, simulacion-computacional]
 date_added: 2026-06-26
 ---

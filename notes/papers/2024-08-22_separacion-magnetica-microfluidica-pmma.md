@@ -8,6 +8,7 @@ doi: 10.3390/mi15081057
 pdf_ref: rodriguez-2024-separacion-magnetica-microfluidica.pdf
 sha256: caae9072977b861ee548df4e3be102f75eb471fba4bc4e5fbbd4dbbc832cce95
 type: paper
+visibility: public
 keywords: [microfluidica, simulacion-computacional, nanociencia, biomateriales, ingenieria-quimica]
 date_added: 2026-06-26
 ---

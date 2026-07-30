@@ -8,6 +8,7 @@ doi: 10.1016/j.ijinfomgt.2025.103002
 pdf_ref: yang_2026_deskilling-reskilling-upskilling.pdf
 sha256: c85d4a3bd56d4cbaa735ec43a4403c0d6903cf3ba938802829d450d05058fd3d
 type: paper
+visibility: public
 keywords: [sobredependencia-de-la-ia, descarga-cognitiva, futuro-del-trabajo, educacion-superior, autorregulacion-del-aprendizaje, creatividad, pensamiento-critico, adopcion-de-tecnologia, alfabetizacion-en-ia, inteligencia-artificial]
 date_added: 2026-06-28
 ---

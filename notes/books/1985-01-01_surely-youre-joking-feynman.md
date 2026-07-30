@@ -6,6 +6,7 @@ publisher: W. W. Norton & Company
 url: 
 isbn: 978-0-393-31604-9
 type: book
+visibility: public
 keywords: [fisica-y-cosmologia, descubrimiento-cientifico, filosofia, etica-de-la-ciencia, comunicacion-cientifica]
 date_added: 2026-07-05
 ---

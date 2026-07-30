@@ -10,6 +10,7 @@ rating: 3
 status: leído
 genre: [space-opera, ciencia-ficcion]
 type: fiction
+visibility: public
 keywords: [mayoria-de-edad, ecologia-y-terraformacion]
 date_added: 2026-07-05
 ---

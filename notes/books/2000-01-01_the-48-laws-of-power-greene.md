@@ -6,6 +6,7 @@ publisher: Profile Books Ltd.
 url: 
 isbn: 9781861972781
 type: book
+visibility: public
 keywords: [filosofia, liderazgo-organizacional, desarrollo-del-caracter, psicologia-educativa, sesgo-cognitivo, humanidades, poder-y-persuasion]
 date_added: 2026-06-25
 ---

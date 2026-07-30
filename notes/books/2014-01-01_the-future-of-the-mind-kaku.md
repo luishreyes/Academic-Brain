@@ -6,6 +6,7 @@ publisher: Doubleday
 url: 
 isbn: 978-0-385-53082-8
 type: book
+visibility: public
 keywords: [neurociencia, inteligencia-artificial, fisica-y-cosmologia, filosofia, comunicacion-cientifica]
 date_added: 2026-07-05
 ---

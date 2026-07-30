@@ -8,6 +8,7 @@ doi: 10.3389/feduc.2025.1550773
 pdf_ref: lakheshrestha_2025_pd-narrative-tpack.pdf
 sha256: 5eea2ebcf110affb723018e1e3559ba3231b6ffc17597211248183bff153a252
 type: paper
+visibility: public
 keywords: [formacion-docente, inteligencia-artificial, ensenanza-de-lenguas, retroalimentacion-con-ia, personalizacion-del-aprendizaje, pensamiento-critico, etica-de-la-ia, alfabetizacion-en-ia, adopcion-de-tecnologia]
 date_added: 2026-06-28
 ---

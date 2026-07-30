@@ -8,6 +8,7 @@ doi: 10.1080/03043797.2025.2492736
 pdf_ref: murray_2026_engineering-practitioners-views-chatgpt.pdf
 sha256: 9ad8d05b04da16e9e43f39719e9a31a95a18a84bf296d027544be693be631056
 type: paper
+visibility: public
 keywords: [educacion-en-ingenieria, inteligencia-artificial, capacidades-de-ia, adopcion-de-tecnologia, futuro-del-trabajo, alucinaciones-de-ia, pensamiento-critico, alfabetizacion-en-ia, educacion-superior]
 date_added: 2026-06-27
 ---

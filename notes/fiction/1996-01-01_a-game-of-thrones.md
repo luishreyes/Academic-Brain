@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [fantasia, fantasia-epica]
 type: fiction
+visibility: public
 keywords: [poder-y-persuasion, guerra-y-conflicto, teoria-de-juegos]
 date_added: 2026-07-05
 ---

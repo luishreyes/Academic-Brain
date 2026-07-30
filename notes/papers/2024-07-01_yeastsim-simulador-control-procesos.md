@@ -8,6 +8,7 @@ doi: 10.1016/j.ece.2024.06.005
 pdf_ref: jaramillo-2024-yeastsim-control-procesos.pdf
 sha256: c9ff29f8bb014d76bdf1d9af74165ae800c0c3bc8566f439a834165dbee931f0
 type: paper
+visibility: public
 keywords: [ingenieria-quimica, educacion-superior, simulacion-computacional, aprendizaje-activo]
 date_added: 2026-06-26
 ---

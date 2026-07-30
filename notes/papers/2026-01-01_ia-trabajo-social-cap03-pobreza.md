@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_3
 pdf_ref: ch03-pobreza-desigualdad-economica.pdf
 sha256: 1dc76b51c59b8c6879760b06cc4462cdb6ab399a7009bff59f93b6128ea4397b
 type: paper
+visibility: public
 keywords: [trabajo-social, inteligencia-artificial, analitica-predictiva, politica-social, economia-del-desarrollo, sesgo-algoritmico, justicia-social, vivienda, regulacion-de-ia]
 date_added: 2026-07-05
 ---

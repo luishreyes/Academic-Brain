@@ -8,6 +8,7 @@ doi: "10.1016/j.ces.2022.118208"
 pdf_ref: ricardo-2022-tension-superficial-random-forest.pdf
 sha256: b8e05c325a7a90c414782a058e69939584614c87f21e23ec1d6bac22997f822e
 type: paper
+visibility: public
 keywords: [ingenieria-quimica, ciencia-de-datos, biosurfactantes]
 date_added: 2026-06-26
 ---

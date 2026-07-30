@@ -8,6 +8,7 @@ doi: 10.1111/bjet.13556
 pdf_ref: chee_2025_competency-framework-learner-groups.pdf
 sha256: f2d129ecccf9c29b815d90185937d06e982cf191395b2b0fecf52d0dcf5ea74f
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, revision-sistematica-de-literatura, educacion-k12, educacion-superior, etica-de-la-ia, formacion-docente, futuro-del-trabajo, ciencia-de-datos, supervision-humana]
 date_added: 2026-06-27
 ---

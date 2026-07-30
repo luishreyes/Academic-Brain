@@ -9,6 +9,7 @@ rating: 5
 status: leído
 genre: [fantasia, fantasia-urbana, mitologia]
 type: fiction
+visibility: public
 keywords: [mitologia-y-religion, ciencia-y-sociedad, poder-y-persuasion]
 date_added: 2026-07-05
 ---

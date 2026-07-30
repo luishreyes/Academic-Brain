@@ -10,6 +10,7 @@ rating: 4
 status: leído
 genre: [distopia, young-adult, aventura]
 type: fiction
+visibility: public
 keywords: [distopia, rebelion-y-revolucion, mayoria-de-edad]
 date_added: 2026-07-05
 ---

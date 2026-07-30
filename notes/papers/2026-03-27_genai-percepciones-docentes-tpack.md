@@ -8,6 +8,7 @@ doi: 10.3390/educsci16040531
 pdf_ref: georgiou_2026_teachers-tpack-perceptions_XWP.pdf
 sha256: cbcd0779a553ecd528982d4ff10c205debde1143ada18d0f9b1a8719743a7161
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, formacion-docente, tpack, adopcion-de-tecnologia, integridad-academica, etica-de-la-ia, evaluacion-educativa, equidad-educativa, pensamiento-critico]
 date_added: 2026-06-28
 ---

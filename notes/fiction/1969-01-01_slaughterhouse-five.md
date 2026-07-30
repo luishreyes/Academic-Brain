@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [ciencia-ficcion, satira]
 type: fiction
+visibility: public
 keywords: [guerra-y-conflicto, libre-albedrio, satira, realidades-multiples]
 date_added: 2026-07-05
 ---

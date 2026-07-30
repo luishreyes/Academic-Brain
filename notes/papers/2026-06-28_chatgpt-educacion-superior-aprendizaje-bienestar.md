@@ -8,6 +8,7 @@ doi: 10.1016/j.ssaho.2025.101866
 pdf_ref: abdallah_2025_chatgpt-he-wellbeing.pdf
 sha256: 05c21f9a9cf55c46762195a822c091405cff3f36718d2aa7f67772aa569046c2
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, retroalimentacion-con-ia, tutoria-con-ia, integridad-academica, pensamiento-critico, autorregulacion-del-aprendizaje, revision-sistematica-de-literatura, adopcion-de-tecnologia, alfabetizacion-en-ia]
 date_added: 2026-06-28
 ---

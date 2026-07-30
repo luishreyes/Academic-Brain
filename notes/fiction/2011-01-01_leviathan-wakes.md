@@ -10,6 +10,7 @@ rating: 4
 status: leído
 genre: [space-opera, ciencia-ficcion, noir, thriller]
 type: fiction
+visibility: public
 keywords: [primer-contacto, guerra-y-conflicto, poder-y-persuasion, colapso-civilizatorio]
 date_added: 2026-07-05
 ---

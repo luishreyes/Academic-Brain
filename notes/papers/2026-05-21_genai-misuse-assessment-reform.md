@@ -8,6 +8,7 @@ doi: 10.1126/science.aec5115
 pdf_ref: chirikov_2026_genai-misuse-assessment-reform.pdf
 sha256: 87b15cd150434e8cc16b027e4f0e9cb92527819f84d466824531ebebc246fa7f
 type: paper
+visibility: public
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, alfabetizacion-en-ia, equidad-educativa, pensamiento-critico, formacion-docente]
 date_added: 2026-06-27
 ---

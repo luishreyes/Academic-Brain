@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_24
 pdf_ref: ch24-conclusion.pdf
 sha256: 9bc4c8d2f9bf7b52082e95e47d0980faafadcdfef5017a19fe7fc74e079aea67
 type: paper
+visibility: public
 keywords: [trabajo-social, inteligencia-artificial, etica-de-la-ia, justicia-social, alfabetizacion-en-ia, regulacion-de-ia, sesgo-algoritmico, supervision-humana, analitica-predictiva, futuro-del-trabajo]
 date_added: 2026-07-05
 ---

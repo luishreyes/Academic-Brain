@@ -8,6 +8,7 @@ doi:
 pdf_ref: schleiss_2024_integrating-ai-systems-change.pdf
 sha256: 7610e15410b86cbbdb333ac208e566eeaa0346d7356e75f261752f90bcbf2644
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, educacion-superior, interdisciplinariedad, formacion-docente, adopcion-de-tecnologia, liderazgo-educativo, regulacion-de-ia, futuro-del-trabajo]
 date_added: 2026-06-27
 ---

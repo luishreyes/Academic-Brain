@@ -6,6 +6,7 @@ section: "Science & technology"
 date: 2026-06-24
 url: 
 type: article
+visibility: public
 keywords:
   - inteligencia-artificial
   - filosofia

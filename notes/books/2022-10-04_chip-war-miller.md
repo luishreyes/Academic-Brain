@@ -6,6 +6,7 @@ publisher: Scribner
 url: 
 isbn: 9781982172008
 type: book
+visibility: public
 keywords: [inteligencia-artificial, futuro-del-trabajo, modernizacion, ciencia-y-sociedad, tecnocracia, regulacion-de-ia, universidades-chinas, STEM, geopolitica-tecnologica, cadenas-de-suministro-globales]
 date_added: 2026-06-25
 ---

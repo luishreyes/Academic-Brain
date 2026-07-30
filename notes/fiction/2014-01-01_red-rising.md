@@ -10,6 +10,7 @@ rating: 5
 status: leído
 genre: [ciencia-ficcion, distopia, young-adult]
 type: fiction
+visibility: public
 keywords: [rebelion-y-revolucion, distopia, poder-y-persuasion, mayoria-de-edad, guerra-y-conflicto]
 date_added: 2026-07-05
 ---

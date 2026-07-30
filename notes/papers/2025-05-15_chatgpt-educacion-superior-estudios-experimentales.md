@@ -8,6 +8,7 @@ doi: 10.1111/jcal.70072
 pdf_ref: jin_2025_chatgpt-experimental.pdf
 sha256: e5b0c590240dfbe6e10457e7e3c8cfd63a984898144d69f1f9d289d78da79a03
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, educacion-superior, tutoria-con-ia, ensayo-controlado-aleatorio, evaluacion-educativa]
 date_added: 2026-06-28
 ---

@@ -10,6 +10,7 @@ rating: 5
 status: leído
 genre: [ciencia-ficcion, hard-sf]
 type: fiction
+visibility: public
 keywords: [primer-contacto, teoria-de-juegos, sistemas-y-reglas, ciencia-y-sociedad]
 date_added: 2026-07-05
 ---

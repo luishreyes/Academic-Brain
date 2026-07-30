@@ -8,6 +8,7 @@ doi:
 pdf_ref: delikoura_2025_superficial-outputs-learning.pdf
 sha256: 377876da7488a938cb61444ebd45ca8ad2db399dae3098cc1cdaba7754586c7b
 type: paper
+visibility: public
 keywords: [revision-sistematica-de-literatura, inteligencia-artificial, educacion-superior, sobredependencia-de-la-ia, pensamiento-critico, autorregulacion-del-aprendizaje, integridad-academica, alucinaciones-de-ia, equidad-educativa, etica-de-la-ia, retroalimentacion-con-ia, motivacion-y-compromiso-estudiantil]
 date_added: 2026-06-28
 ---

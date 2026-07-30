@@ -8,6 +8,7 @@ doi: 10.1016/B978-0-443-15836-0.00007-X
 pdf_ref: ricardo-2024-casein-polimorfismos-queso.pdf
 sha256: 7aeb84ba8ee5d9c4bd51732e6bf0c2bf6f0f05e9eedf0b83f3287a2fd005735a
 type: paper
+visibility: public
 keywords: [ingenieria-de-alimentos, biologia-molecular, genomica]
 date_added: 2026-06-26
 ---

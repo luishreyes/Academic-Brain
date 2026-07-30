@@ -9,6 +9,7 @@ rating: 5
 status: leído
 genre: [ciencia-ficcion, space-opera]
 type: fiction
+visibility: public
 keywords: [guerra-y-conflicto, primer-contacto, sistemas-y-reglas, mayoria-de-edad, poder-y-persuasion]
 date_added: 2026-07-05
 ---

@@ -8,6 +8,7 @@ doi: 10.1016/j.dche.2026.100312
 pdf_ref: liang_2026_llm-agent-process-simulations.pdf
 sha256: 8b7613c3090eeda540770d015c2bbdb08dd0ba95e3220dcfcf26cde11eda721c
 type: paper
+visibility: public
 keywords: [ingenieria-quimica, simulacion-computacional, agentes-de-ia, inteligencia-artificial, educacion-en-ingenieria, supervision-humana, alucinaciones-de-ia, adopcion-de-tecnologia]
 date_added: 2026-06-27
 ---

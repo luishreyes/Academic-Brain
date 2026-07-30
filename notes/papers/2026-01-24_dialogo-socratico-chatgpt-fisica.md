@@ -8,6 +8,7 @@ doi: 10.3390/educsci16020184
 pdf_ref: santosguevara_2026_socratic_chatgpt_thermo.pdf
 sha256: c346a134979bf8518265cb1c4ec769a7c2f3eff8009a602bfdb5ace238640a32
 type: paper
+visibility: public
 keywords: [tutoria-con-ia, aprendizaje-activo, motivacion-y-compromiso-estudiantil, termodinamica, educacion-en-ingenieria, filosofia, pensamiento-critico, autorregulacion-del-aprendizaje, equidad-educativa, inteligencia-artificial]
 date_added: 2026-06-28
 ---

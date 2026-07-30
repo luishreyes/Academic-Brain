@@ -8,6 +8,7 @@ doi:
 pdf_ref: loubet_2025_superstudent-thermodynamics-preprint.pdf
 sha256: f89b7c8c32184d0f19c11426b092b0ee42dd1a020727779c1061e4ad68e77304
 type: paper
+visibility: public
 keywords: [capacidades-de-ia, razonamiento-cuantitativo-llm, inteligencia-artificial, educacion-en-ingenieria, ingenieria-quimica, evaluacion-educativa, futuro-del-trabajo, termodinamica]
 date_added: 2026-06-27
 ---

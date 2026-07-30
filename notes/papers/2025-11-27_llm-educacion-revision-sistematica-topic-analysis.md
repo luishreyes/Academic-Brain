@@ -8,6 +8,7 @@ doi: 10.3390/electronics14234683
 pdf_ref: cibu_2025_llm-topic-analysis.pdf
 sha256: 48038a30a7be0929224d331f00f161a34efa8eafa942668737efc347f374cf77
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, procesamiento-de-lenguaje-natural, educacion-superior, evaluacion-educativa, retroalimentacion-con-ia, integridad-academica, etica-de-la-ia, equidad-educativa, ciencia-de-datos]
 date_added: 2026-06-28
 ---

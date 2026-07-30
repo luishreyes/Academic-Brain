@@ -8,6 +8,7 @@ doi: "10.3390/ijms231810672"
 pdf_ref: leal-2022-crispr-ncas9-gm2-gangliosidosis.pdf
 sha256: dabd52400fee7d2e361ed62d0d26a59338e51da7f2fee1e1eda5b9fd46f05ba4
 type: paper
+visibility: public
 keywords: [terapia-genica, enfermedades-raras, biomateriales, nanociencia, genomica, ingenieria-quimica]
 date_added: 2026-06-26
 ---

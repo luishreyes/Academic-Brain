@@ -8,6 +8,7 @@ doi:
 pdf_ref: song_2026_falcon-ai-faculty-scale.pdf
 sha256: 195fd5decf6a3ea5979da07e5f998b6713b2069493f24f6def33483bf7336ffe
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, educacion-superior, formacion-docente, etica-de-la-ia, evaluacion-educativa, supervision-humana, inteligencia-artificial]
 date_added: 2026-06-27
 ---

@@ -8,6 +8,7 @@ doi: 10.1007/s10648-026-10133-8
 pdf_ref: futterer2026-autorregulacion-genai-rct.pdf
 sha256: 262e0c5ec5f0e5919d610a7712abd4f72d454ed012d09170e1b872919f78f1d4
 type: paper
+visibility: public
 keywords: [ensayo-controlado-aleatorio, psicologia-educativa, educacion-k12, inteligencia-artificial, personalizacion-del-aprendizaje, tutoria-con-ia, autorregulacion-del-aprendizaje]
 date_added: 2026-06-25
 ---

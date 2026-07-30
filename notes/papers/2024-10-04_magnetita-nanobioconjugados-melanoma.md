@@ -8,6 +8,7 @@ doi: 10.1021/acsomega.4c07415
 pdf_ref: diaz-2024-magnetita-nanobioconjugados-melanoma.pdf
 sha256: 2cd33a3833644af5fb6b0e86bea3ade3faff8580fe2e2a5546b944541528aa0c
 type: paper
+visibility: public
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos]
 date_added: 2026-06-26
 ---

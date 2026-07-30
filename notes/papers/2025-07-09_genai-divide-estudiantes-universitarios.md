@@ -8,6 +8,7 @@ doi: 10.1016/j.iheduc.2025.101036
 pdf_ref: beckman_2025_genai-divide-university-students.pdf
 sha256: 9fc49ff155799aeccf094635b90015318f8b90476f339ed9d167323440d1fca4
 type: paper
+visibility: public
 keywords: [equidad-educativa, inteligencia-artificial, educacion-superior, alfabetizacion-en-ia, adopcion-de-tecnologia, integridad-academica, regulacion-de-ia, brecha-digital]
 date_added: 2026-06-28
 ---

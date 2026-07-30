@@ -8,6 +8,7 @@ doi: 10.1016/j.ssaho.2026.102479
 pdf_ref: bencsik_2026_chatgpt-access-global-inequality.pdf
 sha256: 901eee6c01452237192545fdb5c1d1ea87e371dd47323753527cc4d53543de56
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, equidad-educativa, adopcion-de-tecnologia, alfabetizacion-en-ia, sostenibilidad, psicometria, ensenanza-de-lenguas, brecha-digital]
 date_added: 2026-06-28
 ---

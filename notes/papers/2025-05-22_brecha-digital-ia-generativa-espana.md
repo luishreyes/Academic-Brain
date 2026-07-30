@@ -8,6 +8,7 @@ doi: 10.1016/j.telpol.2025.102997
 pdf_ref: suarez_2025_genai-digital-divide-spain.pdf
 sha256: 76ed5dd755b74bc6396c3d1c2a336ebc43d3d14aa51890a37ed31c6e41c54966
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, equidad-educativa, adopcion-de-tecnologia, alfabetizacion-en-ia, futuro-del-trabajo, ciencia-de-datos, politica-social, regulacion-de-ia, brecha-digital]
 date_added: 2026-06-28
 ---
