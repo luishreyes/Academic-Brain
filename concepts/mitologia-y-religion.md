@@ -1,7 +1,7 @@
 ---
 type: concept
 keyword: mitologia-y-religion
-aliases: [mythology, religion, mitología, religión, teología, profecía, faith]
+aliases: [mythology, mitología, religión, teología, profecía, faith]
 ---
 
 # Mitología y religión

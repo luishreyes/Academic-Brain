@@ -1,7 +1,7 @@
 ---
 type: concept
 keyword: ecologia-y-terraformacion
-aliases: [ecology, terraforming, ecología, terraformación, medio ambiente, ecosistema]
+aliases: [ecology, terraforming, ecología, terraformación, ecosistema]
 ---
 
 # Ecología y terraformación

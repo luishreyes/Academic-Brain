@@ -128,7 +128,6 @@ Diseño, validez y mecanismos de evaluación del aprendizaje en educación super
 - [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
 - [[notes/papers/2002-01-01_becoming-self-regulated-learner-overview]]
 - [[notes/papers/2025-04-19_metacognitive-support-srl-genai]]
-- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
 - [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
 - [[notes/papers/2026-06-01_genai-comunicacion-farmacia-educador]]

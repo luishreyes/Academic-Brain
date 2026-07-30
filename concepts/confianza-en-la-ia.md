@@ -1,7 +1,7 @@
 ---
 type: concept
 keyword: confianza-en-la-ia
-aliases: [trust in AI, confianza en IA, AI trust, automation bias, sesgo de automatizacion]
+aliases: [trust in AI, confianza en IA, AI trust]
 ---
 
 # Confianza en la IA
