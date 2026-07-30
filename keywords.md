@@ -41,6 +41,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **bienestar-academico** — Estado de salud mental y satisfacción profesional de investigadores y docentes universitarios; incluye debates sobre burnout, presiones de productividad, cultura del "publish or perish" y redefinición del éxito académico. _Aliases: burnout académico, salud mental en academia, academic wellbeing_
 
+**bioseguridad** — Conjunto de prácticas, normas y decisiones orientadas a gestionar los riesgos derivados del uso de organismos y técnicas biológicas; abarca tanto la contención de material peligroso (biosafety) como la prevención de su uso malicioso (biosecurity), y su reencuadre como optimización del balance entre oportunidad y riesgo. _Aliases: biosafety, biosecurity, bioprotección, contención biológica, gain-of-function_
+
 **brecha-digital** — Desigualdades en el acceso, la conectividad, las competencias y los beneficios derivados de las tecnologías digitales —y, de forma emergente, de la IA generativa (la "brecha de IA" o GenAI divide)— entre individuos, grupos y países según factores socioeconómicos, geográficos, de género y de recursos. _Aliases: digital divide, brecha digital, AI divide, brecha de IA, GenAI divide, digital inequality, desigualdad digital_
 
 **biomateriales** — Materiales de origen natural o sintético diseñados para interactuar con sistemas biológicos; incluye hidrogeles, nanopartículas, polímeros y scaffolds para encapsulación celular, liberación de fármacos y aplicaciones biomédicas. _Aliases: biomaterials, hydrogels, scaffolds, encapsulation, drug delivery materials_
@@ -96,6 +98,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **confianza-en-la-ia** — Actitud de creer que un agente de IA ayudará a alcanzar los objetivos del usuario en situaciones de incertidumbre; predice la adopción y el uso rutinario de la IA y, vía sesgo de automatización, puede derivar en la aceptación acrítica de sus salidas. _Aliases: trust in AI, confianza en IA, AI trust_
 
 **ciencia-y-sociedad** — Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad. _Aliases: ciencia en contexto, estudios sociales de la ciencia, STS_
+
+**cultivos-transgenicos** — Plantas de cultivo modificadas por ingeniería genética o edición génica para conferir rasgos como tolerancia a herbicidas, resistencia a insectos o cambios de arquitectura; incluye el debate sobre su evaluación regulatoria, su impacto ambiental y agronómico, y su aceptación social. _Aliases: GM crops, transgénicos, OGM, GMO, cultivos editados, gene-edited crops, biotecnología verde_
 
 **cultura-organizacional** — Conjunto de valores, normas, rituales y creencias compartidas que definen cómo funciona una organización; incluye su relación con el rendimiento, la innovación y la adopción de sistemas de gestión como los OKR. _Aliases: organizational culture, cultura corporativa, corporate culture, culture change_
 
@@ -266,6 +270,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ingenieria-quimica** — Disciplina que aplica principios de química, física y matemáticas para diseñar procesos de transformación de materiales y energía; incluye ingeniería de reacciones, transferencia de calor y masa, diseño de procesos y biotecnología industrial. _Aliases: chemical engineering, biochemical engineering, proceso industrial, ingeniería de procesos_
 
+**innovacion-responsable** — Marco que exige a quien desarrolla una tecnología anticipar sus efectos, involucrar a las partes afectadas y responder por los resultados, más allá del cumplimiento normativo mínimo; incluye estándares de certificación y el compromiso recíproco de la sociedad civil en el debate público. _Aliases: responsible innovation, RI, innovación responsable, responsible research and innovation, RRI_
+
 **instante-decisivo** — Concepto de Henri Cartier-Bresson: el momento preciso e irrepetible en que los elementos de una escena se alinean en una composición significativa. _Aliases: decisive moment, moment décisif, instante decisivo_
 
 **integridad-academica** — Principios éticos y normas institucionales que regulan el comportamiento honesto en entornos educativos; incluye el plagio, la deshonestidad académica habilitada por IA, y los debates sobre detección y política. _Aliases: academic integrity, deshonestidad académica, plagiarism, trampa académica_
@@ -398,6 +404,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 **rebelion-y-revolucion** — Levantamiento colectivo o individual contra un orden político opresor; incluye la organización de la resistencia, el coste moral de la violencia y la pregunta de si el nuevo orden repite al viejo. _Aliases: rebellion, revolution, rebelión, revolución, resistencia, uprising, insurrección_
 
 **regulacion-de-ia** — Políticas y marcos regulatorios gubernamentales que rigen el desarrollo y uso de sistemas de IA; incluye legislaciones, restricciones de uso por edad o sector, supervisión estatal y debates sobre gobernanza de IA. _Aliases: AI regulation, gobernanza de IA, AI policy, AI governance_
+
+**regulacion-de-la-biotecnologia** — Regímenes normativos que autorizan o restringen aplicaciones biotecnológicas, y la tensión entre el principio de precaución —centrado en detectar daño potencial— y el principio de innovación —que pondera el costo de oportunidad de no innovar—; incluye la asimetría entre la regulación de la biotecnología médica y la agrícola. _Aliases: principio de precaución, precautionary principle, principio de innovación, innovation principle, política regulatoria, regulación de OGM_
 
 **replicabilidad-cientifica** — Grado en que un hallazgo empírico puede reproducirse de forma fiable cuando se repite un estudio con procedimientos y potencia estadística adecuados; incluye los debates sobre la crisis de replicación, la robustez de los efectos, la generalización y las prácticas de investigación abierta. _Aliases: replicability, reproducibility, replicación, crisis de replicación, replication crisis, robustez de efectos_
 

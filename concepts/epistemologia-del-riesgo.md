@@ -23,3 +23,4 @@ Edmondson es quien más se aleja del diagnóstico puramente descriptivo para ofr
 - [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/books/2020-01-01_the-psychology-of-money-housel]]
 - [[notes/books/2023-01-01_lo-que-nunca-cambia-housel]]
+- [[notes/papers/2021-07-21_nuevas-fronteras-bioseguridad]]
