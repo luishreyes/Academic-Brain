@@ -17,7 +17,7 @@ La aplicación de esa idea a la tolerancia a n-butanol en *E. coli* (Reyes et al
 Winkler, Reyes y Kao (2013, *Methods in Molecular Biology*) generalizan esta lección en forma de protocolo: comparan la transferencia serial en lote, los quimiostatos continuos y VERT, y señalan que el diseño experimental en sí —tamaño poblacional, tasa de mutación, duración del experimento y, sobre todo, los cuellos de botella que introduce cada transferencia en lote— determina cuánta deriva genética contamina el resultado de un experimento de evolución adaptativa. Leído junto con los otros tres trabajos, el capítulo deja claro que la "pérdida" de mutantes en evolución de laboratorio clásica no es ruido experimental sino una consecuencia predecible de la estructura poblacional: sin herramientas que resuelvan subpoblaciones, la interferencia clonal y los cuellos de botella oscurecen sistemáticamente la diversidad real de rutas adaptativas disponibles.
 
 ## Notas que usan este concepto
-- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]
 - [[notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol]]
+- [[notes/papers/2012-05-29_vert-metodo-ingenieria-cepas]]
 - [[notes/papers/2013-01-01_adaptive-lab-evolution-protocolos]]
 - [[notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos]]

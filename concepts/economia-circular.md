@@ -15,8 +15,8 @@ Las cuatro notas del vault que tocan este concepto —tres de ellas coescritas p
 Diaz-Bustamante et al. (2026) y Sánchez-Camargo y Reyes (2023) valorizan, en cambio, del lado de la proteína: los primeros incorporan proteína unicelular de *Kluyveromyces lactis* —subproducto de fermentación— en matrices de soya, logrando al 25 % de reemplazo un gel 54 % más firme que el control; los segundos presentan a los insectos (hormiga culona, mojojoy, termitas) como fuente proteica de hasta 77 % de proteína frente al 28 % de la carne de res, con América Latina como segundo mercado mundial. Ambos casos buscan aliviar la huella ambiental de la proteína convencional sustituyéndola por fuentes de menor costo ecológico, aunque —a diferencia del biosol y el biochar— no parten explícitamente de un residuo descartado sino de subproductos o especies subutilizadas; el hilo común sigue siendo cerrar ciclos en sistemas agroalimentarios en lugar de extraer y desechar linealmente.
 
 ## Notas que usan este concepto
-- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]
 - [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]
-- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]
+- [[notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano]]
 - [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
+- [[notes/papers/2026-04-10_klactis-scp-proteina-soya]]
 - [[notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos]]

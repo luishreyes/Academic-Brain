@@ -15,11 +15,9 @@ Los cuatro estudios convergen en el mismo mecanismo aplicado a dominios distinto
 Yin et al. y Tomisu et al. comparten además un riesgo educativo concreto: penalizar estilos retóricos no estándar. Yin et al. lo documentan empíricamente; Tomisu et al. lo anticipan, sin probarlo, como límite reconocido de su propio TQI. El corpus se bifurca en la solución: Yin et al. confían en métricas formales de fairness (SPD, EO, Concordance Imparity), mientras Kerche et al. las rechazan —el sesgo es "intrínseco e inextricable", un problema de poder— y Gerteis, desde la historia, tampoco confía en la corrección algorítmica sino en la responsabilidad humana auditable.
 
 ## Notas que usan este concepto
-- [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
-- [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]
-- [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
-- [[notes/papers/2026-01-01_writing-against-the-machine]]
 - [[notes/articles/2026-07-04_ia-cambia-lenguaje-guardian]]
+- [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
+- [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap01-introduccion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap02-etica]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap03-pobreza]]
@@ -42,4 +40,6 @@ Yin et al. y Tomisu et al. comparten además un riesgo educativo concreto: penal
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap22-gobernanza]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion]]
+- [[notes/papers/2026-01-01_writing-against-the-machine]]
+- [[notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar]]
 - [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]

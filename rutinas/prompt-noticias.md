@@ -86,7 +86,7 @@ Este es el cambio de fondo respecto de los primeros seis números: **el boletín
 - **Un bloque `cifras`** en la sección de más peso, con dos o tres números y su nota de muestra.
 - **Una `cita`** con la frase que resume la tensión de la semana, máximo catorce palabras.
 - **Una `nota`** cuando haya un preprint, una muestra pequeña o un dato que no pude verificar. Declarar el límite es obligatorio.
-- **Una `figura`** solo si el paper está en `sources/pdfs/` y pude extraerla con `tools/extraer-figuras.py`, con su licencia verificada. Si no, el bloque `figura` sin `src` compone el marco de semitono con la leyenda "Figura pendiente", y eso es correcto. Nunca ponga una imagen genérica para llenar el hueco.
+- **Una `figura`** solo si pude descargar el PDF de `Brain/biblioteca` en Drive y extraerla con `tools/extraer-figuras.py` del hub `agentic-os`, con su licencia verificada. Si no, el bloque `figura` sin `src` compone el marco de semitono con la leyenda "Figura pendiente", y eso es correcto. Nunca ponga una imagen genérica para llenar el hueco.
 
 Toda cifra que se publique lleva su fuente y su tamaño de muestra. Una cifra sin nota no se publica.
 

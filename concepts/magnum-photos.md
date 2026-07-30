@@ -15,6 +15,6 @@ Los tres fotógrafos del corpus pasaron por Magnum, y juntos dibujan el arco com
 Esa salida es el dato revelador del conjunto. Salgado abandona precisamente el modelo que Cartier-Bresson había creado para dar autonomía al autor, porque su visión —proyectos de escala de libro, controlados de principio a fin, del rodaje a la impresión y la reforestación de Instituto Terra— pedía un control aún mayor que el que ofrecía la cooperativa. Leídos juntos, los tres muestran a Magnum como una institución que hizo posible la fotografía de autor del siglo XX y que, en su propio éxito, engendró autores tan totales que terminaron necesitando salir de ella.
 
 ## Notas que usan este concepto
-- [[notes/books/2007-01-01_salgado-photofile]]
 - [[notes/books/2007-01-01_koudelka-photofile]]
+- [[notes/books/2007-01-01_salgado-photofile]]
 - [[notes/books/2008-01-01_cartier-bresson-photofile]]

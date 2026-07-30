@@ -19,11 +19,11 @@ La segunda lectura es de oportunidad: rediseñar deliberadamente las tareas haci
 Un tercer uso del marco, distinto de evaluar el desempeño de la IA o diseñar tareas resistentes a ella, aparece en los estudios centrados en la formación docente: Caspari-Sadeghi construye su currículo de alfabetización en IA sobre el marco de Ng et al. (2021), explícitamente basado en una versión revisada de Bloom, para estructurar las competencias —desde conocimiento fundamental hasta evaluación y ética— que los formadores de docentes necesitan; Seufert y Sonderegger integran la taxonomía como referencia en el módulo de autoevaluación de su Teacher Copilot. En ambos casos Bloom no mide lo que la IA sabe hacer, sino lo que el docente debe saber para diseñar en función de esa asimetría. La revisión de Lee et al. (92 artículos, marco KSA alineado con Bloom) matiza el conjunto con una advertencia sobre la propia base de evidencia: los efectos positivos reportados se concentran en construcción de conocimiento (63 menciones) y desarrollo de habilidades (59), mientras que la dimensión actitudinal —más cercana a los niveles de evaluar y crear en su componente afectivo— recibe comparativamente poca atención (20), lo que sugiere que la literatura mide con más facilidad justamente los niveles donde la IA ya es fuerte, y deja relativamente inexplorado el terreno donde el corpus, en conjunto, dice que más importa vigilarla.
 
 ## Notas que usan este concepto
-- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]
+- [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]
 - [[notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias]]
 - [[notes/papers/2025-09-10_chatgpt-educacion-revision-gst]]
-- [[notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia]]
+- [[notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria]]
+- [[notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica]]
+- [[notes/papers/2026-03-06_responsible-genai-se-education]]
 - [[notes/papers/2026-04-14_ai-literacy-educadores-docentes]]
 - [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]
-- [[notes/papers/2026-03-06_responsible-genai-se-education]]
-- [[notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria]]

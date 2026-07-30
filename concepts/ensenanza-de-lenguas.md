@@ -17,11 +17,11 @@ Ese hallazgo técnico entra en tensión directa con las notas del vault sobre de
 El estudio de Bencsik et al. sobre acceso global a ChatGPT añade una capa previa a cualquier cuestión de sesgo algorítmico: el "apoyo lingüístico" es uno de sus tres factores de nivel meso (junto al institucional), pero no muestra efecto directo significativo sobre el uso, mediado en cambio por el acceso funcional y el desarrollo digital nacional (IDI). Leído junto con el resto del corpus, esto sugiere que la desigualdad que enfrenta el hablante no nativo en la enseñanza de lenguas mediada por IA no es de un solo tipo: primero debe superar barreras de acceso material y funcional para usar la herramienta (Bencsik et al.), y si lo logra —o incluso si no usa IA en absoluto—, enfrenta el riesgo adicional de que su propio texto, por las huellas estadísticas de su condición de no nativo, sea malinterpretado por los mismos sistemas que deberían evaluarlo con justicia.
 
 ## Notas que usan este concepto
-- [[notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack]]
+- [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]
 - [[notes/papers/2025-04-23_marco-competencia-ia-pedagogica-docentes]]
+- [[notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack]]
+- [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
 - [[notes/papers/2026-01-16_evaluacion-detectores-ia-contextos-academicos]]
 - [[notes/papers/2026-03-26_sesgo-detectores-gpt-no-nativos-checo]]
-- [[notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos]]
 - [[notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global]]
-- [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
 - [[notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2]]

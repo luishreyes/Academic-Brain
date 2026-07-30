@@ -15,7 +15,7 @@ Los dos estudios del corpus abordan el cáncer desde la misma premisa —un nano
 Ambos trabajos comparten también la lógica de la doble selectividad —un ligando o campo externo que dirige la nanopartícula, y una vulnerabilidad biológica específica del tumor que amplifica el efecto solo donde importa— pero difieren notablemente en madurez. Câmpian et al. se quedan en una prueba de concepto in vitro con una sola línea tumoral, una sola dosis y sin validación in vivo, mientras que Dabas et al. avanzan hasta un modelo de xenoinjerto murino con reducción del 73% en volumen tumoral y sin toxicidad hepática aguda, un salto traslacional que el estudio de melitina todavía no ha dado. Leídos juntos, sugieren que la oncología de nanovehículos dirigidos vive hoy dos velocidades distintas: la citotoxicidad física (hipertermia, péptidos líticos) sigue en fase de caracterización mecanística temprana, mientras que la reprogramación metabólica basada en ARNm ya empieza a mostrar eficacia en modelos animales.
 
 ## Notas que usan este concepto
-- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
-- [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]
 - [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]
+- [[notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia]]
+- [[notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata]]
 - [[notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica]]

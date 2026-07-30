@@ -19,10 +19,10 @@ La seguridad psicológica de Edmondson ofrece una lectura más directa del halla
 Cain aporta el ángulo más tangencial: su crítica al "Nuevo Pensamiento de Grupo" —que las soluciones colectivas uniformes silencian el juicio reflexivo individual— resuena en abstracto con el llamado de Yang et al. a marcos diferenciados por rol y disciplina, pero el vault no tiene evidencia que conecte temperamento introvertido con patrones de adopción de IA; forzar esa conexión sería estirar el dato. Es una convergencia de forma (rechazar la solución única), no de contenido.
 
 ## Notas que usan este concepto
-- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]
-- [[notes/books/2012-01-23_quiet-susan-cain]]
-- [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]
-- [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]
 - [[notes/books/2011-01-01_steve-jobs-isaacson]]
+- [[notes/books/2012-01-23_quiet-susan-cain]]
 - [[notes/books/2015-01-01_elon-musk-vance]]
+- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]
 - [[notes/books/2021-01-01_think-again-grant]]
+- [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]
+- [[notes/papers/2026-05-27_barreras-multinivel-adopcion-genai]]

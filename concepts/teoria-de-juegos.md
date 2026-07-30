@@ -9,8 +9,8 @@ aliases: [game theory, teoría de juegos, dilema del prisionero, equilibrio de N
 Estudio de la decisión estratégica entre agentes racionales cuyos resultados dependen de las elecciones de los demás; en la ficción aparece como dilemas de cooperación y conflicto, disuasión y equilibrios (p. ej., la hipótesis del bosque oscuro como respuesta a la paradoja de Fermi).
 
 ## Notas que usan este concepto
-- [[notes/fiction/saga-remembrance-of-earths-past]]
-- [[notes/fiction/2008-01-01_three-body-problem]]
 - [[notes/fiction/1951-01-01_foundation]]
 - [[notes/fiction/1996-01-01_a-game-of-thrones]]
 - [[notes/fiction/2008-01-01_the-dark-forest]]
+- [[notes/fiction/2008-01-01_three-body-problem]]
+- [[notes/fiction/saga-remembrance-of-earths-past]]

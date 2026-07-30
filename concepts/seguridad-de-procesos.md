@@ -15,9 +15,9 @@ Dos estudios técnicos, publicados el mismo año en *Safety Science*, evalúan d
 Las tres fuentes institucionales muestran cómo el sector responde a esa misma tensión desde la regulación y la formación, no desde la técnica. La guía de acreditación de IChemE (2024) convierte la seguridad de procesos en un resultado de aprendizaje de cumplimiento obligatorio (Appendix A2.6/B2.6) justo en la edición que más énfasis pone en incorporar IA y tecnologías digitales al currículo. El Código de Conducta y Ética de IChemE (2025) traduce esa tensión en una norma explícita: su Principio 2 exige "priorizar la seguridad" usando IA de forma transparente y ética, documentando cómo y para qué se usó y qué controles de calidad y seguridad se aplicaron — una respuesta institucional directa al tipo de fallo que Charalampidou et al. y Lee et al. documentan empíricamente. Quince et al. (2025) sugieren que esta cautela ya está internalizada por la próxima generación: de 48 estudiantes de ingeniería en cinco disciplinas, el 100% identificó espontáneamente "control y supervisión" y "toma de decisiones bajo riesgo e incertidumbre" como las consideraciones centrales al razonar sobre fallas fatales atribuibles a GenAI, aunque con puntos ciegos notables (propiedad de datos, poder y hegemonía, 0% de menciones) que revelan un encuadre todavía centrado en el uso inmediato y no en la gobernanza sistémica de la IA.
 
 ## Notas que usan este concepto
-- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]
-- [[notes/papers/2026-06-27_llm-automatizan-hazop]]
-- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
-- [[notes/articles/2025-01-01_icheme-codigo-conducta-etica]]
-- [[notes/papers/2026-06-28_percepciones-estudiantes-genai-ingenieria]]
 - [[notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica]]
+- [[notes/articles/2025-01-01_icheme-codigo-conducta-etica]]
+- [[notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros]]
+- [[notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica]]
+- [[notes/papers/2026-06-27_llm-automatizan-hazop]]
+- [[notes/papers/2026-06-28_percepciones-estudiantes-genai-ingenieria]]

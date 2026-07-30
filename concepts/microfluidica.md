@@ -28,6 +28,6 @@ Las dos líneas convergen en el material: el grupo migra del PDMS por litografí
 - [[notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma]]
 - [[notes/papers/2025-05-12_magnetoliposomas-nanomedicina]]
 - [[notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots]]
+- [[notes/papers/2026-07-05_dna-hidrogel-microparticulas-3d]]
 - [[notes/papers/2026-07-05_microfluidica-doble-emulsion-prediccion]]
 - [[notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica]]
-- [[notes/papers/2026-07-05_dna-hidrogel-microparticulas-3d]]

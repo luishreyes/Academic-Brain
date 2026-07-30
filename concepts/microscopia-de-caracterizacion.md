@@ -10,8 +10,8 @@ Técnicas de microscopía electrónica (SEM, TEM, FE-SEM) y de fluorescencia usa
 
 ## Notas que usan este concepto
 - [[notes/papers/2026-07-02_alginato-biofilm-probioticos]]
-- [[notes/papers/2026-07-05_hipe-polisacarido-probioticos-supervivencia]]
-- [[notes/papers/2026-07-05_hidrogel-inyectable-macrofagos-cartilago]]
-- [[notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg]]
-- [[notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos]]
 - [[notes/papers/2026-07-05_dna-hidrogel-microparticulas-3d]]
+- [[notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg]]
+- [[notes/papers/2026-07-05_hidrogel-inyectable-macrofagos-cartilago]]
+- [[notes/papers/2026-07-05_hipe-polisacarido-probioticos-supervivencia]]
+- [[notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos]]

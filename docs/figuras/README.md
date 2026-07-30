@@ -6,11 +6,11 @@ es decir `figuras/nombre.png`.
 
 ## Cómo llega una imagen a esta carpeta
 
-Con `tools/extraer-figuras.py`, a partir de un PDF que ya esté en el vault:
+Con `<hub>/tools/extraer-figuras.py`, a partir de un PDF que ya esté en el vault:
 
 ```bash
-python3 tools/extraer-figuras.py sources/pdfs/kestin2025.pdf --listar
-python3 tools/extraer-figuras.py sources/pdfs/kestin2025.pdf \
+python3 <hub>/tools/extraer-figuras.py /tmp/kestin2025.pdf --listar
+python3 <hub>/tools/extraer-figuras.py /tmp/kestin2025.pdf \
     --pagina 4 --recorte 8,22,92,58 --prefijo 2026-08-03-kestin-fig01
 ```
 

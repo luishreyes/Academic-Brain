@@ -15,6 +15,6 @@ Las dos notas del corpus describen dos momentos y escalas distintas del mismo fe
 Leídas en conjunto, las dos notas sugieren que la acreditación formal tiende a rezagarse frente a la aparición de nuevos campos técnicos: el marco europeo de 2021, pese a incorporar explícitamente sostenibilidad, ética e interdisciplinariedad como dimensiones contemporáneas, no anticipa una vía propia para la IA como disciplina, y son los organismos estadounidenses de computación quienes, cuatro años más tarde, apenas empiezan a construir ese carril dedicado. Más allá de esta dinámica compartida de institucionalización reactiva, el corpus es todavía pequeño —dos notas de dos sistemas de acreditación distintos, ingeniería generalista europea frente a computación estadounidense— para extraer convergencias más finas.
 
 ## Notas que usan este concepto
-- [[notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision]]
 - [[notes/articles/2021-01-01_eur-ace-marco-acreditacion-ingenieria]]
+- [[notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion]]

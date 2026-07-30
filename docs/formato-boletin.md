@@ -200,12 +200,12 @@ número. Este es el camino principal: úselo siempre que haya dos números que
 comparar.
 
 **Segundo, la figura extraída de un PDF del vault.** Si el paper está en
-`sources/pdfs/` o llegó por `sources/inbox/`, se puede sacar la figura del propio
+`Brain/biblioteca` en Drive, se descarga y se saca la figura del propio
 archivo:
 
 ```bash
-python3 tools/extraer-figuras.py sources/pdfs/kestin2025.pdf --listar
-python3 tools/extraer-figuras.py sources/pdfs/kestin2025.pdf \
+python3 <hub>/tools/extraer-figuras.py /tmp/kestin2025.pdf --listar
+python3 <hub>/tools/extraer-figuras.py /tmp/kestin2025.pdf \
     --pagina 4 --recorte 8,22,92,58 --prefijo 2026-08-03-kestin-fig01 \
     --fuente "arXiv:2607.19371 · CC BY 4.0"
 ```

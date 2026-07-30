@@ -18,5 +18,5 @@ Donde las dos notas no convergen —y donde cada una aporta algo que la otra no 
 
 ## Notas que usan este concepto
 - [[notes/papers/2025-01-01_sustainable-genai-carbon-scoping]]
-- [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap17-ambiental-clima]]
+- [[notes/papers/2026-06-28_huella-ambiental-inferencia-llm]]

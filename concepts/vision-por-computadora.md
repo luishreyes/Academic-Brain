@@ -15,8 +15,6 @@ Las dos notas que usan este concepto aplican visión por computadora al mismo ti
 Pese a esa diferencia de estrategia, el corpus converge en que la interpretabilidad es condición de despliegue, no un añadido opcional. Mao et al. incorporan mapas de calor Grad-CAM++ para que los operadores de campo vean dónde el modelo detecta humo y puedan corregir predicciones erróneas —revelando, de paso, que buena parte de las falsas alarmas restantes se debe a condiciones de iluminación adversas, no a fallas del clasificador—. Yang et al. generalizan esa misma preocupación al plano epistémico: distinguen detección de segmentación como una diferencia "epistémica", porque la segmentación a nivel de píxel preserva la morfología del fenómeno (forma, continuidad, propagación de una llama) y permite razonar sobre su comportamiento físico, no solo señalar su presencia. Ambos trabajos coinciden, además, en que ninguno de los dos sistemas está listo para operar sin supervisión humana ni ha sido validado en condiciones reales de despliegue: el sistema de Mao et al. "aún no se ha desplegado en campo (solo se emula)", y Yang et al. advierten que SAM 3 y los MLLM requieren "validación sistemática por escenario industrial, geometría de cámara y condiciones ambientales" antes de un uso operativo, insistiendo en que estos modelos deben concebirse como capas de razonamiento asesoras y no como tomadores de decisiones autónomos.
 
 ## Notas que usan este concepto
-- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
-- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap06-discapacidad]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap10-escolar]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap13-vivienda]]
@@ -26,3 +24,5 @@ Pese a esa diferencia de estrategia, el corpus converge en que la interpretabili
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap17-ambiental-clima]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap19-internacional]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]
+- [[notes/papers/2026-01-01_monitoreo-visual-biomasa-genai]]
+- [[notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos]]
