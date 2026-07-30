@@ -6,8 +6,7 @@ Vault para construir una base de conocimiento académico personal. Conecta paper
 
 | Carpeta | Contenido |
 |---|---|
-| `sources/inbox/` | PDFs nuevos subidos a GitHub, pendientes de ingest |
-| `sources/pdfs/` | PDFs procesados con nombre canónico — rastreados por git |
+| — | **Los PDFs ya no viven en el repo.** Están en `Brain/biblioteca` en Google Drive; la nota guarda `pdf_ref` + `sha256`, no el binario. Ver `decisions/0002` en el hub `agentic-os`. |
 | `notes/papers/` | Notas de papers académicos procesados |
 | `notes/articles/` | Notas de artículos periodísticos procesados |
 | `notes/books/` | Notas de libros procesados |
@@ -17,7 +16,7 @@ Vault para construir una base de conocimiento académico personal. Conecta paper
 | `Noticias/` | Boletines semanales de IA en educación e ingeniería |
 | `Noticias-Biotec/` | Boletines semanales de investigación en biotecnología |
 | `rutinas/` | Prompts versionados de las dos Rutinas semanales |
-| `tools/` | Utilidades del vault (extracción de figuras de PDF) |
+| `tools/` | Utilidades del vault (backlinks derivados, extracción de figuras) |
 
 ## Visualizador web (GitHub Pages)
 
@@ -39,24 +38,41 @@ Los boletines semanales se leen en `docs/noticias.html`, compuestos como revista
 - `docs/figuras/` — imágenes referenciadas por los bloques `figura`, con su nota de licencia.
 - `tools/extraer-figuras.py` — saca figuras de un PDF del vault hacia `docs/figuras/`.
 
+## Backlinks de las páginas de concepto
+
+La sección `## Notas que usan este concepto` **se deriva**, no se escribe. La
+fuente de verdad es el campo `keywords:` del frontmatter de cada nota.
+
+```bash
+python3 tools/regenerar-backlinks.py           # aplica los cambios
+python3 tools/regenerar-backlinks.py --check   # no escribe; exit 1 si hay deriva
+```
+
+**Regla:** después de crear o editar notas, correr el regenerador antes de
+`node docs/build.mjs`. Mantener la lista a mano fue lo que produjo 39 backlinks
+faltantes y 1 obsoleto acumulados en 586 notas.
+
 **Regla:** después de escribir o editar un boletín, ejecutar `node docs/build-noticias.mjs` y commitear `docs/noticias-data.js` junto al `.md`.
 
 **Limitación del entorno:** la política de red responde 403 a `arxiv.org`, `biorxiv.org`, `chemrxiv.org`, `ncbi.nlm.nih.gov` y `api.crossref.org`. No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP; queda WebSearch y los conectores de PubMed y Scholar Gateway.
 
 ## Dónde poner los PDFs
 
-**Flujo principal:** subir PDFs a `sources/inbox/` en GitHub → escribir `/ingest` → Claude los procesa, los mueve a `sources/pdfs/` con nombre canónico y crea la nota.
+**En `Brain/biblioteca` de Google Drive** (ID `1oH8Gux01JgenFMID2QYj1HUc1dN8Z_Qm`).
+No en el repo: git guarda cada versión completa de un binario y no la suelta
+nunca. El repo guarda la referencia; Drive guarda el archivo.
 
-**Alternativas:**
-- Subir al chat de Claude Code: Claude lo lee y lo copia a `sources/pdfs/` directamente
-- Pegar texto o dar URL: Claude procesa sin PDF local
+**Flujo:** sueltas el PDF en esa carpeta → escribes `/ingest` → Claude lo lee por
+el conector MCP, redacta la nota y commitea.
 
-**Al hacer `/ingest` con PDFs en `sources/inbox/`:**
-1. Claude lee todos los archivos en `sources/inbox/`
-2. Los procesa (extrae metadatos, redacta resumen, asigna keywords)
-3. Mueve cada PDF a `sources/pdfs/apellido-año-slug.pdf` (nombre canónico)
-4. Elimina el archivo original de `sources/inbox/`
-5. Crea las notas, actualiza conceptos, commite todo
+**Es una sola carpeta.** No hay `inbox/` ni `procesados/`: el conector MCP no
+puede mover archivos, y de todas formas el registro de qué está ingerido no es
+dónde está el archivo sino si existe una nota que lo referencie. Lo pendiente es
+la diferencia entre lo que hay en Drive y los `pdf_ref` de las notas.
+
+**Alternativas:** pegar texto o dar una URL (Claude procesa sin PDF), o subir el
+PDF al chat (Claude lo lee, pero el archivo hay que subirlo a Drive aparte —
+escribir en Drive requiere una credencial OAuth que el conector no incluye).
 
 Convención de nombres canónicos: `apellido-primer-autor + año + slug-corto.pdf`  
 Ejemplo: `kestin2025-tutoria-ia-supera-activo.pdf`
@@ -105,7 +121,8 @@ year:
 journal: 
 url: 
 doi: 
-pdf_local:          # ruta local en Obsidian, ej: sources/pdfs/apellido2024.pdf
+pdf_ref:            # nombre canónico, SIN ruta, ej: apellido_2024_slug.pdf
+sha256:             # hash del PDF — verifica que es el archivo que la nota describe
 type: paper
 keywords: []
 date_added: 
@@ -175,7 +192,7 @@ year:
 publisher: 
 url: 
 isbn: 
-pdf_local:          # ruta local al epub/pdf en Obsidian
+pdf_ref:            # nombre canónico, SIN ruta\nsha256:             # hash del archivo
 type: book
 keywords: []
 date_added: 

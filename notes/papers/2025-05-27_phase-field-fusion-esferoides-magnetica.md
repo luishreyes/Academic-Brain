@@ -5,7 +5,8 @@ year: 2025
 journal: Scientific Reports
 url: https://doi.org/10.1038/s41598-025-04495-2
 doi: 10.1038/s41598-025-04495-2
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/rodriguez-2025-phase-field-esferoides-magnetica.pdf
+pdf_ref: rodriguez-2025-phase-field-esferoides-magnetica.pdf
+sha256: 8df197d361f84df7eb5fd76d49f11a7bb640c82e39ff9f79ca72048019c31232
 type: paper
 keywords: [simulacion-computacional, nanociencia, biomateriales]
 date_added: 2026-06-26

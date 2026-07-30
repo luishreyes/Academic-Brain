@@ -5,7 +5,8 @@ year: 2024
 journal: Safety Science
 url: https://doi.org/10.1016/j.ssci.2024.106608
 doi: 10.1016/j.ssci.2024.106608
-pdf_local: sources/pdfs/cheme-applications/charalampidou_2024_chatgpt-stpa-hazard-analysis.pdf
+pdf_ref: charalampidou_2024_chatgpt-stpa-hazard-analysis.pdf
+sha256: a5e135a1e412f0bc7e0ab5d364930312a64e137508e54b9284f982894052ddbc
 type: paper
 keywords: [inteligencia-artificial, capacidades-de-ia, alucinaciones-de-ia, supervision-humana, seguridad-de-procesos, ingenieria-de-sistemas]
 date_added: 2026-06-27

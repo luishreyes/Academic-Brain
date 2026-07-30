@@ -5,7 +5,8 @@ year: 2025
 journal: Journal of University Teaching and Learning Practice
 url: https://doi.org/10.53761/zpp2ja61
 doi: 10.53761/zpp2ja61
-pdf_local: sources/pdfs/assessment-redesign/nicola-richmond_2025_program-wide-assessment-redesign.pdf
+pdf_ref: nicola-richmond_2025_program-wide-assessment-redesign.pdf
+sha256: f53f9dc68951531395057bc2165163fd4ea3d4418931b571a0d21b91dfe29fd0
 type: paper
 keywords: [evaluacion-educativa, inteligencia-artificial, educacion-superior, integridad-academica, futuro-del-trabajo, alfabetizacion-en-ia, pensamiento-critico, formacion-docente]
 date_added: 2026-06-27

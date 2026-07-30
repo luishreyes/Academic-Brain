@@ -5,7 +5,6 @@ year: 2022
 publisher: Penguin Random House Grupo Editorial
 url: 
 isbn: 9789877950472
-pdf_local: 
 type: book
 keywords: [filosofia, psicologia-educativa, sesgo-cognitivo, creatividad, autorregulacion-del-aprendizaje, comunicacion-cientifica, ciencia-y-sociedad, desarrollo-del-caracter, humanidades]
 date_added: 2026-06-25

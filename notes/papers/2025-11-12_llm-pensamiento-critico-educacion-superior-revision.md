@@ -5,7 +5,8 @@ year: 2025
 journal: Systems
 url: https://doi.org/10.3390/systems13111013
 doi: 10.3390/systems13111013
-pdf_local: sources/pdfs/cheme-applications/martinez-pelaez_2025_llm-critical-thinking-higher.pdf
+pdf_ref: martinez-pelaez_2025_llm-critical-thinking-higher-ed-review.pdf
+sha256: 1a046839a3e98f539694c575bd06d95e0054ac7935de959652a401ccfb013228
 type: paper
 keywords: [revision-sistematica-de-literatura, inteligencia-artificial, educacion-superior, pensamiento-critico, aprendizaje-activo, retroalimentacion-con-ia, evaluacion-educativa, equidad-educativa, futuro-del-trabajo, autorregulacion-del-aprendizaje]
 date_added: 2026-06-27

@@ -48,7 +48,6 @@ Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y p
 - [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
 - [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]
 - [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]
-- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]
 - [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]
 - [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]
 - [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]
@@ -61,3 +60,4 @@ Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y p
 - [[notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]
 - [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]
+- [[notes/articles/2025-04-08_llm-laboratorios-quimica-materiales]]

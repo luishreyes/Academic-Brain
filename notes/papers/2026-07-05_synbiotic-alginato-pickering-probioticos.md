@@ -5,7 +5,8 @@ year: 2026
 journal: International Journal of Biological Macromolecules
 url: https://doi.org/10.1016/j.ijbiomac.2026.153313
 doi: 10.1016/j.ijbiomac.2026.153313
-pdf_local: sources/pdfs/food-engineering/subhash-2026-synbiotic-alginato-pickering.pdf
+pdf_ref: subhash-2026-synbiotic-alginato-pickering.pdf
+sha256: 3c437dc7903a2e6c2f606dce1b60c2fc84b09ab77edea681870039b078a78bd4
 type: paper
 keywords: [probioticos, emulsiones, biomateriales, ingenieria-de-alimentos, economia-circular, microscopia-de-caracterizacion]
 date_added: 2026-07-05

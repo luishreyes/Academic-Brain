@@ -4,7 +4,8 @@ author: ENAEE (European Network for Accreditation of Engineering Education)
 publication: ENAEE
 date: 2021
 url: https://www.enaee.eu/eur-ace-system/eur-ace-framework-standards-and-guidelines/
-pdf_local: sources/pdfs/policy-ethics-accreditation/enaee_2021_eur-ace-framework-part1.pdf
+pdf_ref: enaee_2021_eur-ace-framework-part1.pdf
+sha256: 99b951cfc071df6f906bbc243f61d403e4b15376ff27305fa78a0b2136f59b59
 type: article
 keywords: [educacion-en-ingenieria, acreditacion-academica, educacion-superior, evaluacion-educativa, sostenibilidad, etica-de-la-ciencia, interdisciplinariedad]
 date_added: 2026-06-28

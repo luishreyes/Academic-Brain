@@ -5,7 +5,8 @@ year: 2026
 journal: arXiv preprint (arXiv:2602.02762)
 url: https://arxiv.org/abs/2602.02762
 doi:
-pdf_local: sources/pdfs/scaffolding-socratic-metacognition/liu_2026_metaclass_arxiv.pdf
+pdf_ref: liu_2026_metaclass_arxiv.pdf
+sha256: d94b083211a38de25cba82848a0c82308004a08588d2c2075683240a046d180d
 type: paper
 keywords: [tutoria-con-ia, autorregulacion-del-aprendizaje, psicologia-educativa, capacidades-de-ia, razonamiento-cuantitativo-llm, retroalimentacion-con-ia, sobredependencia-de-la-ia, aprendizaje-activo]
 date_added: 2026-06-28

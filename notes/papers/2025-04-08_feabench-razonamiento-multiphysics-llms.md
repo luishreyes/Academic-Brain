@@ -5,7 +5,8 @@ year: 2025
 journal: arXiv (preprint)
 url: https://arxiv.org/abs/2504.06260
 doi:
-pdf_local: sources/pdfs/capability-reliability/mudur_2025_feabench-multiphysics-reasoning.pdf
+pdf_ref: mudur_2025_feabench-multiphysics-reasoning.pdf
+sha256: dad2c1d6b22935ed04bf2b7aa054f576e44886352782475a1c19510e4dfc25e4
 type: paper
 keywords: [capacidades-de-ia, agentes-de-ia, inteligencia-artificial, alucinaciones-de-ia, simulacion-computacional, supervision-humana]
 date_added: 2026-06-27

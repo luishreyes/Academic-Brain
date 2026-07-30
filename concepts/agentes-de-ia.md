@@ -38,3 +38,4 @@ Sistemas de IA autónomos o semi-autónomos compuestos por múltiples módulos i
 - [[notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico]]
 - [[notes/articles/2024-09-29_genai-ciencia-ambiental]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]
+- [[notes/articles/2025-04-08_llm-laboratorios-quimica-materiales]]

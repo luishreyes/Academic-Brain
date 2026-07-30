@@ -5,7 +5,8 @@ year: 2024
 journal: Education for Chemical Engineers
 url: https://doi.org/10.1016/j.ece.2024.07.002
 doi: 10.1016/j.ece.2024.07.002
-pdf_local: sources/pdfs/capability-reliability/caccavale_2024_llms-virtual-tutors-chemeng.pdf
+pdf_ref: caccavale_2024_llms-virtual-tutors-chemeng.pdf
+sha256: c6cc97cfc9fb9993f463d173bf96afa8c9c71563495d1aa42005be14e4257177
 type: paper
 keywords: [inteligencia-artificial, tutoria-con-ia, educacion-en-ingenieria, educacion-superior, etica-de-la-ia, regulacion-de-ia, alucinaciones-de-ia, supervision-humana, retroalimentacion-con-ia, personalizacion-del-aprendizaje]
 date_added: 2026-06-27

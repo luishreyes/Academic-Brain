@@ -5,7 +5,6 @@ year: 2017
 publisher: National Geographic Society
 url: 
 isbn: 978-1-4262-1799-9
-pdf_local: 
 type: book
 keywords: [ciencia-y-sociedad, etica-de-la-ciencia, historia-de-la-innovacion, desarrollo-de-farmacos, comunicacion-cientifica, pensamiento-critico-medico, medicina-basada-en-evidencia, sesgo-cognitivo, salud-y-sociedad]
 date_added: 2026-06-25

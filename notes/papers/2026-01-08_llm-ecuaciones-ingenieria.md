@@ -5,7 +5,8 @@ year: 2026
 journal: arXiv preprint
 url: https://arxiv.org/abs/2601.01774
 doi: 
-pdf_local: sources/pdfs/engineering-education/kodathala2026-llm-ecuaciones-ingenieria.pdf
+pdf_ref: kodathala2026-llm-ecuaciones-ingenieria.pdf
+sha256: af2b85cf9ef08412291859d0794bd4ae6fbd75bc7f5b68c9bc2a0af8db851959
 type: paper
 keywords: [inteligencia-artificial, STEM, capacidades-de-ia, supervision-humana, educacion-superior]
 date_added: 2026-06-25

@@ -149,7 +149,7 @@ for (const dir of ["notes/papers", "notes/articles", "notes/books", "notes/ficti
       keywords: data.keywords || [],
       date: data.date_added || data.date || "",
       path: rel,
-      pdf_local: data.pdf_local || "",
+      pdf_ref: data.pdf_ref || "",
     });
 
     // Aristas nota -> concepto (por cada keyword del frontmatter)

@@ -93,7 +93,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ciencia-de-materiales** — Estudio de la estructura, propiedades y aplicaciones de los materiales (metales, cerámicas, polímeros, vidrio, compuestos) y de cómo su microestructura determina su comportamiento cotidiano. _Aliases: materials science, ciencia de materiales, materiales, metalurgia, propiedades de materiales_
 
-**confianza-en-la-ia** — Actitud de creer que un agente de IA ayudará a alcanzar los objetivos del usuario en situaciones de incertidumbre; predice la adopción y el uso rutinario de la IA y, vía sesgo de automatización, puede derivar en la aceptación acrítica de sus salidas. _Aliases: trust in AI, confianza en IA, AI trust, automation bias, sesgo de automatización_
+**confianza-en-la-ia** — Actitud de creer que un agente de IA ayudará a alcanzar los objetivos del usuario en situaciones de incertidumbre; predice la adopción y el uso rutinario de la IA y, vía sesgo de automatización, puede derivar en la aceptación acrítica de sus salidas. _Aliases: trust in AI, confianza en IA, AI trust_
 
 **ciencia-y-sociedad** — Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad. _Aliases: ciencia en contexto, estudios sociales de la ciencia, STS_
 
@@ -137,7 +137,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **electrofisiologia** — Técnicas de registro de la actividad eléctrica de células y tejidos (patch-clamp, voltage-clamp, registros extracelulares); incluye la caracterización de corrientes iónicas, canales y conductancias en membranas biológicas. _Aliases: electrophysiology, patch-clamp, voltage clamp, corrientes iónicas, ion channels_
 
-**emulsiones** — Sistemas coloidales de dos líquidos inmiscibles (aceite y agua) estabilizados por surfactantes, proteínas o partículas; incluye emulsiones simples, dobles (W/O/W), Pickering y de fase interna alta (HIPE), y su uso para encapsular y liberar de forma controlada compuestos bioactivos y microorganismos. _Aliases: emulsions, emulsiones, Pickering emulsion, double emulsion, W/O/W, HIPE, high internal phase emulsion, sistema de encapsulación_
+**emulsiones** — Sistemas coloidales de dos líquidos inmiscibles (aceite y agua) estabilizados por surfactantes, proteínas o partículas; incluye emulsiones simples, dobles (W/O/W), Pickering y de fase interna alta (HIPE), y su uso para encapsular y liberar de forma controlada compuestos bioactivos y microorganismos. _Aliases: emulsions, Pickering emulsion, double emulsion, W/O/W, HIPE, high internal phase emulsion, sistema de encapsulación_
 
 **enfermedades-raras** — Condiciones médicas con baja prevalencia poblacional; incluye errores innatos del metabolismo, enfermedades lisosomales de depósito y otras condiciones huérfanas; su tratamiento frecuentemente implica terapia de reemplazo enzimático (TRE) o génico. _Aliases: rare diseases, orphan diseases, lysosomal storage diseases, inborn errors of metabolism, enzyme replacement therapy, ERT_
 
@@ -157,7 +157,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **evolucion-cultural** — Proceso por el cual las ideas, tecnologías, normas y prácticas sociales cambian a lo largo del tiempo mediante mecanismos análogos a la selección natural: variación, transmisión y selección diferencial; incluye la teoría de la evolución de doble herencia y el concepto de memes. _Aliases: cultural evolution, evolución de la cultura, memética, cultural transmission, double inheritance theory_
 
-**ecologia-y-terraformacion** — Ecología, medio ambiente y transformación planetaria (terraformación) como eje del mundo narrativo; incluye la dependencia entre una sociedad y su entorno físico. _Aliases: ecology, terraforming, ecología, terraformación, medio ambiente, ecosistema_
+**ecologia-y-terraformacion** — Ecología, medio ambiente y transformación planetaria (terraformación) como eje del mundo narrativo; incluye la dependencia entre una sociedad y su entorno físico. _Aliases: ecology, terraforming, ecología, terraformación, ecosistema_
 
 **economia-circular** — Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible. _Aliases: circular economy, bioeconomía, waste valorization, economía regenerativa_
 
@@ -260,7 +260,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **ingenieria-de-sistemas** — Enfoque para diseñar y analizar sistemas complejos sociotécnicos considerando componentes, interacciones y propiedades emergentes; incluye la teoría de sistemas aplicada a la seguridad (STAMP/STPA) y la ingeniería de sistemas de procesos. _Aliases: systems engineering, systems theory, STAMP, pensamiento sistémico, process systems engineering_
 
-**ingenieria-de-tejidos** — Campo que combina células, materiales de soporte (scaffolds, hidrogeles) y señales bioquímicas para reparar o regenerar tejidos; incluye la medicina regenerativa, el cultivo celular 3D, los organoides y la reprogramación celular. _Aliases: tissue engineering, ingeniería de tejidos, medicina regenerativa, regenerative medicine, cultivo celular 3D, scaffolds, organoides_
+**ingenieria-de-tejidos** — Campo que combina células, materiales de soporte (scaffolds, hidrogeles) y señales bioquímicas para reparar o regenerar tejidos; incluye la medicina regenerativa, el cultivo celular 3D, los organoides y la reprogramación celular. _Aliases: tissue engineering, ingeniería de tejidos, medicina regenerativa, regenerative medicine, cultivo celular 3D, organoides_
 
 **ingenieria-metabolica** — Modificación racional del metabolismo celular para aumentar la producción de compuestos de interés (biocombustibles, medicamentos, productos químicos); combina biología de sistemas, herramientas ómicas y evolución dirigida. _Aliases: metabolic engineering, strain engineering, biocatalyst engineering, cell factory, ingeniería de cepas_
 
@@ -314,7 +314,7 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **motivacion-y-compromiso-estudiantil** — Energía, impulso y conductas que sostienen la participación, el esfuerzo y la persistencia del estudiante en el aprendizaje; el compromiso (engagement) es multidimensional (cognitivo, conductual, emocional y de agencia) y se distingue de los resultados de aprendizaje. _Aliases: student motivation and engagement, learning engagement, motivación estudiantil, compromiso del estudiante_
 
-**mitologia-y-religion** — Presencia de dioses, mitos, fe, profecía y teología en la ficción; incluye la reinterpretación de mitologías, el poder social de la creencia y la tensión entre lo sagrado y lo secular. _Aliases: mythology, religion, mitología, religión, teología, profecía, faith_
+**mitologia-y-religion** — Presencia de dioses, mitos, fe, profecía y teología en la ficción; incluye la reinterpretación de mitologías, el poder social de la creencia y la tensión entre lo sagrado y lo secular. _Aliases: mythology, mitología, religión, teología, profecía, faith_
 
 **modelado-molecular** — Representación computacional de estructuras moleculares y sus interacciones mediante campos de fuerza, mecánica molecular y dinámica molecular; permite simular propiedades físicas y bioquímicas de moléculas. _Aliases: molecular modeling, molecular mechanics, molecular dynamics, MD simulation, force field, campo de fuerzas_
 

@@ -5,7 +5,8 @@ year: 2025
 journal: EFCE / SFGP White Paper (5th European Forum on New Technologies, Paris, 13 December 2024)
 url:
 doi:
-pdf_local: sources/pdfs/faculty-development-implementation/efce_2025_ai-cheme-white-paper.pdf
+pdf_ref: efce_2025_ai-cheme-white-paper.pdf
+sha256: 9cc273b4fe0dc7850fa68ef6261f1df7a2af88a467596e03309fe6ba4aeda087
 type: paper
 keywords: [ingenieria-quimica, inteligencia-artificial, simulacion-computacional, ia-explicable, agentes-de-ia, seguridad-de-procesos, educacion-en-ingenieria, ciencia-de-datos, supervision-humana, desarrollo-de-farmacos]
 date_added: 2026-06-28

@@ -5,7 +5,8 @@ year: 2026
 journal: "Safety Science"
 url: https://doi.org/10.1016/j.ssci.2025.107039
 doi: 10.1016/j.ssci.2025.107039
-pdf_local: sources/pdfs/cheme-applications/lee_2026_llm-automate-hazop.pdf
+pdf_ref: lee_2026_llm-automate-hazop.pdf
+sha256: 73078993b97866221de027a27c359646c295336410c3d4d8dfa09a25a6ec5f0b
 type: paper
 keywords: [seguridad-de-procesos, ingenieria-quimica, inteligencia-artificial, capacidades-de-ia, supervision-humana, procesamiento-de-lenguaje-natural]
 date_added: 2026-06-27

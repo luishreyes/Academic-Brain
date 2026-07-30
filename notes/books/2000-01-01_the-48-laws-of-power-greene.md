@@ -5,7 +5,6 @@ year: 2000
 publisher: Profile Books Ltd.
 url: 
 isbn: 9781861972781
-pdf_local: 
 type: book
 keywords: [filosofia, liderazgo-organizacional, desarrollo-del-caracter, psicologia-educativa, sesgo-cognitivo, humanidades, poder-y-persuasion]
 date_added: 2026-06-25

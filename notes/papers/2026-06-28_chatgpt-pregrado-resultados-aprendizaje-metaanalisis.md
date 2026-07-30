@@ -5,7 +5,8 @@ year: 2026
 journal: "Computers and Education: Artificial Intelligence"
 url: https://doi.org/10.1016/j.caeai.2025.100536
 doi: 10.1016/j.caeai.2025.100536
-pdf_local: sources/pdfs/learning-impact-evidence/mo_2026_undergrad-chatgpt-metaanalysis.pdf
+pdf_ref: mo_2026_undergrad-chatgpt-metaanalysis.pdf
+sha256: 895c9a437c0ba9b385f6d37b626a4d88b0bdf0ef85286056d8c099203c18f28e
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, retroalimentacion-con-ia, capacidades-de-ia, revision-sistematica-de-literatura, evaluacion-educativa, motivacion-y-compromiso-estudiantil, equidad-educativa, integridad-academica, STEM]
 date_added: 2026-06-28

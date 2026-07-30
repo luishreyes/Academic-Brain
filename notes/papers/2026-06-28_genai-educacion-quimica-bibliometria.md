@@ -5,7 +5,8 @@ year: 2026
 journal: Journal of Chemical Education
 url: https://doi.org/10.1021/acs.jchemed.5c01667
 doi: 10.1021/acs.jchemed.5c01667
-pdf_local: sources/pdfs/existing-reviews-gapmap/park_2026_genai-chemistry-bibliometric.pdf
+pdf_ref: park_2026_genai-chemistry-bibliometric.pdf
+sha256: ab90544c93e37c862a1fa2602a0a99f428223da5cfa433e7a135a9b0bfe5da10
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, evaluacion-educativa, integridad-academica, alfabetizacion-en-ia, ingenieria-de-prompts, pensamiento-critico, analisis-bibliometrico]
 date_added: 2026-06-28

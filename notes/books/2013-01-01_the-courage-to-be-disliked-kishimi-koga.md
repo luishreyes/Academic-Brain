@@ -5,7 +5,6 @@ year: 2013
 publisher: 
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [psicologia-del-bienestar, filosofia, comunicacion-interpersonal]
 date_added: 2026-07-05

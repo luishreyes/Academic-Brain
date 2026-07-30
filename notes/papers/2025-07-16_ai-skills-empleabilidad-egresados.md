@@ -5,7 +5,8 @@ year: 2025
 journal: Frontiers in Artificial Intelligence
 url: https://doi.org/10.3389/frai.2025.1629320
 doi: 10.3389/frai.2025.1629320
-pdf_local: sources/pdfs/risks-overreliance-equity/portocarrero_2025_ai-skills-employability-peru.pdf
+pdf_ref: portocarrero_2025_ai-skills-employability-peru.pdf
+sha256: 6abda23e049788d437ccd2e974f53e1c11523cc9ddb7c2237998a84e08964eac
 type: paper
 keywords: [inteligencia-artificial, futuro-del-trabajo, alfabetizacion-en-ia, educacion-superior, adopcion-de-tecnologia, equidad-educativa, desigualdad-de-genero, etica-de-la-ia]
 date_added: 2026-06-28

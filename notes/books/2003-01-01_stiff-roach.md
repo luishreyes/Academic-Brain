@@ -5,7 +5,6 @@ year: 2003
 publisher: W. W. Norton & Company
 url: 
 isbn: 0-670-91217-4
-pdf_local: 
 type: book
 keywords: [etica-de-la-ciencia, ciencia-y-sociedad, historia-de-la-innovacion, medicina-basada-en-evidencia, salud-y-sociedad, humanidades, comunicacion-cientifica, descubrimiento-cientifico]
 date_added: 2026-06-25

@@ -5,7 +5,8 @@ year: 2026
 journal: AI and Ethics
 url: https://doi.org/10.1007/s43681-025-00871-w
 doi: 10.1007/s43681-025-00871-w
-pdf_local: sources/pdfs/integrity-by-design/ncube_2026_redefining-assessment-integrity.pdf
+pdf_ref: ncube_2026_redefining-assessment-integrity.pdf
+sha256: f617d1f3f975d5d2b32057af5fad236ad6d30b19ce586174b4f90fd4690899eb
 type: paper
 keywords: [integridad-academica, evaluacion-educativa, educacion-superior, deteccion-de-texto-ia, etica-de-la-ia, supervision-humana, alfabetizacion-en-ia, retroalimentacion-con-ia, revision-sistematica-de-literatura, taxonomia-de-bloom, pensamiento-critico, inteligencia-artificial]
 date_added: 2026-06-28

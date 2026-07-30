@@ -7,7 +7,8 @@ url: https://openai.com/index/gpt-5-5-system-card/
 type: article
 keywords: [seguridad-de-ia, capacidades-de-ia, alineamiento-de-ia, alucinaciones-de-ia, agentes-de-ia, supervision-humana, etica-de-la-ia, inteligencia-artificial]
 date_added: 2026-06-27
-pdf_local: sources/pdfs/capability-reliability/openai_2026_gpt-5-5-system-card.pdf
+pdf_ref: openai_2026_gpt-5-5-system-card.pdf
+sha256: 50c7c11439c316732dbccd0f7df01be65cd46926ad21436ab7cd36735ac15106
 ---
 
 # GPT-5.5 System Card

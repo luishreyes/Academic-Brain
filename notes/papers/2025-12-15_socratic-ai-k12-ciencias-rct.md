@@ -5,7 +5,8 @@ year: 2025
 journal: Research Square (preprint)
 url: https://doi.org/10.21203/rs.3.rs-8118546/v1
 doi: 10.21203/rs.3.rs-8118546/v1
-pdf_local: sources/pdfs/scaffolding-socratic-metacognition/kao_2025_socratic_ai_k12_rct_preprint.pdf
+pdf_ref: kao_2025_socratic_ai_k12_rct_preprint.pdf
+sha256: 2d4586306df7338f39159708c245882fcf3d577215d92816b38f9cedf823c905
 type: paper
 keywords: [tutoria-con-ia, educacion-k12, pensamiento-critico, ensayo-controlado-aleatorio, autorregulacion-del-aprendizaje, motivacion-y-compromiso-estudiantil, aprendizaje-activo, retroalimentacion-con-ia, personalizacion-del-aprendizaje, inteligencia-artificial]
 date_added: 2026-06-28

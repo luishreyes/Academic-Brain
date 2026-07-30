@@ -5,7 +5,8 @@ year: 2025
 journal: Higher Education Quarterly
 url: https://doi.org/10.1111/hequ.70054
 doi: 10.1111/hequ.70054
-pdf_local: sources/pdfs/policy-ethics-accreditation/jiang_2025_institutional-ai-policies.pdf
+pdf_ref: jiang_2025_institutional-ai-policies.pdf
+sha256: 4d1fb4a483f135efe316a750cf6c597a4c5df4ea496036dc169c9bbd901014b6
 type: paper
 keywords: [inteligencia-artificial, regulacion-de-ia, educacion-superior, formacion-docente, alfabetizacion-en-ia, integridad-academica, desigualdad-de-genero, adopcion-de-tecnologia]
 date_added: 2026-06-28

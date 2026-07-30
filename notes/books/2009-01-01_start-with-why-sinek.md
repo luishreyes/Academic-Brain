@@ -5,7 +5,6 @@ year: 2009
 publisher: Portfolio Trade
 url: 
 isbn: 1591846447
-pdf_local: 
 type: book
 keywords: [liderazgo-organizacional, futuro-del-trabajo, creatividad, psicologia-educativa, comunicacion-cientifica, filosofia]
 date_added: 2026-06-25

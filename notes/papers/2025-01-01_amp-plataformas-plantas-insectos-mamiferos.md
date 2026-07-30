@@ -5,7 +5,8 @@ year: 2025
 journal: "Antimicrobial Peptides: A Roadmap for Accelerating Discovery and Development (Elsevier), cap. 8"
 url: https://doi.org/10.1016/B978-0-443-15393-8.00008-7
 doi: 10.1016/B978-0-443-15393-8.00008-7
-pdf_local: sources/pdfs/peptides-proteins/reyes-2025-amp-plataformas-plantas-insectos.pdf
+pdf_ref: reyes-2025-amp-plataformas-plantas-insectos.pdf
+sha256: 612e9ea2351228506fba5b38ec50c223d973162f3085c9505484be58589f7592
 type: paper
 keywords: [peptidos-bioactivos, proteinas-recombinantes, ingenieria-metabolica, biologia-molecular, desarrollo-de-farmacos]
 date_added: 2026-06-26

@@ -5,7 +5,8 @@ year: 2026
 journal: Food Chemistry
 url: https://doi.org/10.1016/j.foodchem.2026.149138
 doi: 10.1016/j.foodchem.2026.149138
-pdf_local: sources/pdfs/food-engineering/yuan-2026-pichia-glucosidasa-terpenos-cerveza.pdf
+pdf_ref: yuan-2026-pichia-glucosidasa-terpenos-cerveza.pdf
+sha256: 712f23e44e8abb34b3ed1d3bbb1bf470ab406352b069e0a3589902a10f7b700b
 type: paper
 keywords: [ingenieria-de-alimentos, metabolitos-secundarios, proteinas-recombinantes, biologia-molecular, ingenieria-metabolica, modelado-molecular]
 date_added: 2026-07-05

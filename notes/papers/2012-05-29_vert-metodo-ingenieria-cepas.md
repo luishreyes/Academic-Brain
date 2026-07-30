@@ -5,7 +5,8 @@ year: 2012
 journal: Frontiers in Microbiology
 url: https://doi.org/10.3389/fmicb.2012.00198
 doi: 10.3389/fmicb.2012.00198
-pdf_local: sources/pdfs/metabolic-biotechnology/reyes2012-vert-strain-engineering-review.pdf
+pdf_ref: reyes2012-vert-strain-engineering-review.pdf
+sha256: f1fff22f3457cccef964895d6e84f4291af905f5dd98f94ca066173b1c0215b5
 type: paper
 keywords: [evolucion-de-laboratorio, ingenieria-metabolica, dinamica-de-poblaciones, ingenieria-quimica]
 date_added: 2026-06-26

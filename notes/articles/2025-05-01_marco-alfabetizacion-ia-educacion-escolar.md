@@ -7,7 +7,8 @@ url: https://ailiteracyframework.org
 type: article
 keywords: [alfabetizacion-en-ia, educacion-k12, formacion-docente, etica-de-la-ia, regulacion-de-ia, inteligencia-artificial, equidad-educativa, integridad-academica, creatividad, sostenibilidad]
 date_added: 2026-06-27
-pdf_local: sources/pdfs/ai-literacy-competency/ec-oecd_2025_ailit-framework-review-draft.pdf
+pdf_ref: ec-oecd_2025_ailit-framework-review-draft.pdf
+sha256: d554f59d3571236517578ae8204a77bb282a25733a7b5524f1b952ed8c94a7b4
 ---
 
 # Empowering Learners for the Age of AI: An AI Literacy Framework for Primary and Secondary Education (Review Draft)

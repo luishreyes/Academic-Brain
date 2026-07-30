@@ -5,7 +5,8 @@ year: 2025
 journal: Preprint (under review) — MIT Media Lab
 url: https://www.brainonllm.com/
 doi:
-pdf_local: sources/pdfs/learning-impact-evidence/kosmyna_2025_your-brain-on-chatgpt.pdf
+pdf_ref: kosmyna_2025_your-brain-on-chatgpt.pdf
+sha256: 3125dd9c2d7082a3e753175542b92a16169b12230130301e8627e2db68e56758
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, pensamiento-critico, descarga-cognitiva, motivacion-y-compromiso-estudiantil, evaluacion-educativa, procesamiento-de-lenguaje-natural, psicologia-educativa]
 date_added: 2026-06-28

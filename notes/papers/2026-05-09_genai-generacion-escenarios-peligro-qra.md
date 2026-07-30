@@ -5,7 +5,8 @@ year: 2026
 journal: Process Safety and Environmental Protection
 url: https://doi.org/10.1016/j.psep.2026.108977
 doi: 10.1016/j.psep.2026.108977
-pdf_local: sources/pdfs/cheme-applications/yang_2026_genai-hazard-scenario-generation-qra.pdf
+pdf_ref: yang_2026_genai-hazard-scenario-generation-qra.pdf
+sha256: 1e1bf348492dd4b6933c4d227fad1504f99a7655611d8b8f36e2a1f381574091
 type: paper
 keywords: [ingenieria-quimica, inteligencia-artificial, agentes-de-ia, grafos-de-conocimiento, supervision-humana, simulacion-computacional, descubrimiento-cientifico]
 date_added: 2026-06-27

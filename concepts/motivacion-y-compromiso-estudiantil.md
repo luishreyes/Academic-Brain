@@ -23,7 +23,6 @@ Energía, impulso y conductas que sostienen la participación, el esfuerzo y la 
 - [[notes/papers/2026-06-28_revision-srl-seis-modelos]]
 - [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]
 - [[notes/papers/2002-01-01_becoming-self-regulated-learner-overview]]
-- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]
 - [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]
 - [[notes/papers/2026-06-28_ia-feedback-srl-meta-analisis]]
 - [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]

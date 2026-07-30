@@ -5,7 +5,6 @@ year: 2012
 publisher: Crown
 url: 
 isbn: 9780307352149
-pdf_local: 
 type: book
 keywords: [psicologia-educativa, desarrollo-del-caracter, creatividad, liderazgo-organizacional, cultura-organizacional, sesgo-cognitivo, personalidad-introversion, educacion-k12]
 date_added: 2026-06-25

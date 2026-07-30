@@ -5,7 +5,8 @@ year: 2026
 journal: Currents in Pharmacy Teaching and Learning
 url: https://doi.org/10.1016/j.cptl.2026.102675
 doi: 10.1016/j.cptl.2026.102675
-pdf_local: sources/pdfs/ai-education/lim-2026-genai-comunicacion-farmacia.pdf
+pdf_ref: lim-2026-genai-comunicacion-farmacia.pdf
+sha256: a97fdd817239e3315196ae1eac9ef3ff621dba4bc79345cbb50eedf9eaf81a4b
 type: paper
 keywords: [educacion-medica, comunicacion-interpersonal, pacientes-virtuales, retroalimentacion-con-ia, evaluacion-educativa, motivacion-y-compromiso-estudiantil, inteligencia-artificial, alfabetizacion-en-ia, personalidad-introversion]
 date_added: 2026-07-05

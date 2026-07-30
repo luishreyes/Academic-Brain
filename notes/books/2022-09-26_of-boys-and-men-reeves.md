@@ -5,7 +5,6 @@ year: 2022
 publisher: Brookings Institution Press
 url: 
 isbn: 978-0-815-73987-6
-pdf_local: 
 type: book
 keywords: [equidad-educativa, educacion-k12, educacion-superior, futuro-del-trabajo, desigualdad-de-genero, psicologia-educativa, salud-y-sociedad, politica-social, desarrollo-del-caracter, STEM]
 date_added: 2026-06-25

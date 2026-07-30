@@ -4,7 +4,8 @@ author: National Society of Professional Engineers (NSPE)
 publication: NSPE Professional Policy
 date: 2026-02
 url: https://www.nspe.org/
-pdf_local: sources/pdfs/policy-ethics-accreditation/nspe_2026_position-statement-03-1774-ai.pdf
+pdf_ref: nspe_2026_position-statement-03-1774-ai.pdf
+sha256: 945195db31530b6e398b8406eae02afe9d1c60c931051d6f3b2c8e7c9741d2ab
 type: article
 keywords: [etica-de-la-ia, regulacion-de-ia, seguridad-de-ia, supervision-humana, ia-explicable, educacion-en-ingenieria, interdisciplinariedad, inteligencia-artificial]
 date_added: 2026-06-28

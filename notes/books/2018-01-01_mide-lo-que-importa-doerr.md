@@ -5,7 +5,6 @@ year: 2018
 publisher: Conecta
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [gestion-por-objetivos, liderazgo-organizacional, cultura-organizacional, futuro-del-trabajo, historia-de-la-innovacion, economia-de-la-innovacion, psicologia-educativa, creatividad]
 date_added: 2026-06-25

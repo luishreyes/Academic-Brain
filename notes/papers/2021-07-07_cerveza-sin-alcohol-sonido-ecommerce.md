@@ -5,7 +5,8 @@ year: 2021
 journal: Foods
 url: https://doi.org/10.3390/foods10092063
 doi: 10.3390/foods10092063
-pdf_local: sources/pdfs/multisensory-consumer/rodriguez2021-cerveza-sin-alcohol-sonido.pdf
+pdf_ref: rodriguez2021-cerveza-sin-alcohol-sonido.pdf
+sha256: 9ad97c8e980431b4c5cf1f4b142c9044300a3ffb4895e85b94fd377bf4e82363
 type: paper
 keywords: [ingenieria-de-alimentos, comportamiento-del-consumidor]
 date_added: 2026-06-26

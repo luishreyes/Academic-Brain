@@ -5,7 +5,8 @@ year: 2026
 journal: ASEE Annual Conference & Exposition
 url: 
 doi: 
-pdf_local: sources/pdfs/cheme-applications/zhang_2026_genai-computing-course.pdf
+pdf_ref: zhang_2026_genai-computing-course.pdf
+sha256: 19caca4388ddc3cd76d38892ed64a60201ea3f5fe6c2b3a370c3ae34d13b7528
 type: paper
 keywords: [inteligencia-artificial, educacion-en-ingenieria, educacion-en-programacion, ingenieria-quimica, autorregulacion-del-aprendizaje, pensamiento-critico, retroalimentacion-con-ia, integridad-academica, alfabetizacion-en-ia, aprendizaje-activo]
 date_added: 2026-06-27

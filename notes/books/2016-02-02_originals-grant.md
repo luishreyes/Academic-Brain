@@ -5,7 +5,6 @@ year: 2016
 publisher: Viking / Penguin Publishing Group
 url: 
 isbn: 9780698405776
-pdf_local: 
 type: book
 keywords: [creatividad, psicologia-educativa, liderazgo-educativo, futuro-del-trabajo, desarrollo-del-caracter, ciencia-y-sociedad, filosofia, humanidades]
 date_added: 2026-06-25

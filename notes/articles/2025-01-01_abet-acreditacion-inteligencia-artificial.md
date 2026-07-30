@@ -4,7 +4,8 @@ author: ABET
 publication: ABET
 date: 2025
 url: https://www.abet.org/accreditation/ai-policy/
-pdf_local: sources/pdfs/policy-ethics-accreditation/abet_2025_ai-accreditation-policy.pdf
+pdf_ref: abet_2025_ai-accreditation-policy.pdf
+sha256: 574a96b5fcb196a640011f15f9e7227b00c6180ef11b5cbf6d38b7cbe55d80c4
 type: article
 keywords: [regulacion-de-ia, educacion-en-ingenieria, integridad-academica, supervision-humana, etica-de-la-ia, educacion-superior, evaluacion-educativa, inteligencia-artificial]
 date_added: 2026-06-28

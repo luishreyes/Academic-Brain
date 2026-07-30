@@ -5,7 +5,8 @@ year: 2026
 journal: Nature Human Behaviour
 url: https://doi.org/10.1038/s41562-026-02505-5
 doi: 10.1038/s41562-026-02505-5
-pdf_local: sources/pdfs/academic-wellbeing/dreisoerner_2026_ecr-mental-health-meta-analysis.pdf
+pdf_ref: dreisoerner_2026_ecr-mental-health-meta-analysis.pdf
+sha256: 4f3db84917d5401bf47d45064b346d763b555e7762de5a8af57e9d3d7a9dab9f
 type: paper
 keywords: [bienestar-academico, revision-sistematica-de-literatura, educacion-superior, psicometria]
 date_added: 2026-07-01

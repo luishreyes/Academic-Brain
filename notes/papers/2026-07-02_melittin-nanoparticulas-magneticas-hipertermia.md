@@ -5,7 +5,8 @@ year: 2026
 journal: Molecules
 url: https://doi.org/10.3390/molecules31122171
 doi: 10.3390/molecules31122171
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/campian_2026_melittin-magnetite-nanoparticles.pdf
+pdf_ref: campian_2026_melittin-magnetite-nanoparticles.pdf
+sha256: 9b4c40f006c0b0d1753920b69685cf42f2e28152adc446bfc22a311add023a21
 type: paper
 keywords: [nanomedicina, hipertermia-magnetica, oncologia, biomateriales, nanociencia, peptidos-bioactivos, biologia-molecular]
 date_added: 2026-07-02

@@ -5,7 +5,8 @@ year: 2024
 journal: "Applied Sciences"
 url: https://www.mdpi.com/2076-3417/14/10/4115
 doi: 10.3390/app14104115
-pdf_local: sources/pdfs/learning-impact-evidence/jost_2024_llm-programming-education.pdf
+pdf_ref: jost_2024_llm-programming-education.pdf
+sha256: a95dc6cf6a37f4e25f2e56546a0aa839e34767f7a3bcbb57974747430adf5c8e
 type: paper
 keywords: [educacion-en-programacion, inteligencia-artificial, motivacion-y-compromiso-estudiantil, pensamiento-critico, evaluacion-educativa, retroalimentacion-con-ia, ensayo-controlado-aleatorio, integridad-academica, educacion-superior]
 date_added: 2026-06-28

@@ -1,7 +1,7 @@
 ---
 type: concept
 keyword: ingenieria-de-tejidos
-aliases: [tissue engineering, ingeniería de tejidos, medicina regenerativa, regenerative medicine, cultivo celular 3D, scaffolds, organoides]
+aliases: [tissue engineering, ingeniería de tejidos, medicina regenerativa, regenerative medicine, cultivo celular 3D, organoides]
 ---
 
 # Ingeniería de tejidos

@@ -4,7 +4,8 @@ author: Adam Bridgeman, Danny Liu
 publication: "Teaching@Sydney (University of Sydney, Educational Innovation)"
 date: 2024-07-02
 url: https://educational-innovation.sydney.edu.au/teaching@sydney/frequently-asked-questions-about-the-two-lane-approach-to-assessment-in-the-age-of-ai/
-pdf_local: sources/pdfs/assessment-redesign/bridgeman_2024_two-lane-approach-faq.pdf
+pdf_ref: bridgeman_2024_two-lane-approach-faq.pdf
+sha256: 19a3852d8e429dc6a20a479873623c8d5344a3999c7d4659506fc0a60dbcd602
 type: article
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, etica-de-la-ia, regulacion-de-ia, pensamiento-critico, autorregulacion-del-aprendizaje]
 date_added: 2026-06-27

@@ -5,7 +5,8 @@ year: 2024
 journal: arXiv preprint
 url: https://arxiv.org/abs/2412.02653
 doi: 10.48550/arXiv.2412.02653
-pdf_local: sources/pdfs/learning-impact-evidence/wang_2024_scaffold-or-crutch.pdf
+pdf_ref: wang_2024_scaffold-or-crutch.pdf
+sha256: 71084eb9aff170ebfeaac23f5a7fd9bfac3e19e820058d2eb1390223ffd7b647
 type: paper
 keywords: [inteligencia-artificial, STEM, educacion-superior, alfabetizacion-en-ia, ingenieria-de-prompts, autorregulacion-del-aprendizaje, pensamiento-critico, equidad-educativa, alucinaciones-de-ia, integridad-academica, tutoria-con-ia, aprendizaje-activo]
 date_added: 2026-06-28

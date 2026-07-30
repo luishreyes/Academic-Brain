@@ -5,7 +5,8 @@ year: 2026
 journal: Frontiers in Education
 url: https://doi.org/10.3389/feduc.2025.1683909
 doi: 10.3389/feduc.2025.1683909
-pdf_local: sources/pdfs/faculty-development-implementation/petrova_2026_ai-competency-strategies.pdf
+pdf_ref: petrova_2026_ai-competency-strategies.pdf
+sha256: baaa2def22afaf8031f5587b8e5d2ec7c3a2e21f956f330d0223a9679739a662
 type: paper
 keywords: [alfabetizacion-en-ia, educacion-superior, formacion-docente, agentes-de-ia, equidad-educativa, etica-de-la-ia, evaluacion-educativa, pensamiento-critico, deteccion-de-texto-ia, adopcion-de-tecnologia]
 date_added: 2026-06-28

@@ -5,7 +5,8 @@ year: 2026
 journal: Computers and Chemical Engineering
 url: https://doi.org/10.1016/j.compchemeng.2025.109464
 doi: 10.1016/j.compchemeng.2025.109464
-pdf_local: sources/pdfs/capability-reliability/mao_2026_visual-monitoring-biomass-genai.pdf
+pdf_ref: mao_2026_visual-monitoring-biomass-genai.pdf
+sha256: 7edc7bc579f7fe643f37456760f8274ca1606a6b747d5f6c98694b401c741d83
 type: paper
 keywords: [biomasa-lignocelulosica, economia-circular, ingenieria-quimica, sostenibilidad, desarrollo-rural, vision-por-computadora, ia-explicable, inteligencia-artificial]
 date_added: 2026-06-27

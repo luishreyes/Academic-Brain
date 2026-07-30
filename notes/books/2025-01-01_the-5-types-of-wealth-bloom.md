@@ -5,7 +5,6 @@ year: 2025
 publisher: Portfolio / Penguin
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [psicologia-del-bienestar, finanzas-personales, desarrollo-del-caracter]
 date_added: 2026-07-05

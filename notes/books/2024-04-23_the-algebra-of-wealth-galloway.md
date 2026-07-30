@@ -5,7 +5,6 @@ year: 2024
 publisher: Penguin Publishing Group
 url: 
 isbn: 9780593714034
-pdf_local: 
 type: book
 keywords: [futuro-del-trabajo, desarrollo-del-caracter, sesgo-cognitivo, epistemologia-del-riesgo, economia-de-la-innovacion, finanzas-personales, filosofia, liderazgo-organizacional]
 date_added: 2026-06-25

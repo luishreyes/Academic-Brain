@@ -5,7 +5,8 @@ year: 2013
 journal: Journal of Engineering Education
 url: https://doi.org/10.1002/jee.20020
 doi: 10.1002/jee.20020
-pdf_local: sources/pdfs/engineering-education/borrego_2013_fidelity-implementation-rbis.pdf
+pdf_ref: borrego_2013_fidelity-implementation-rbis.pdf
+sha256: c75a1512fd2c60bd2589092eaa15bd91f05639e81b7af7b5874cdc05ed42abd0
 type: paper
 keywords: [educacion-en-ingenieria, STEM, aprendizaje-activo, adopcion-de-tecnologia, formacion-docente, fidelidad-de-implementacion, ensenanza-basada-en-evidencia]
 date_added: 2026-07-04

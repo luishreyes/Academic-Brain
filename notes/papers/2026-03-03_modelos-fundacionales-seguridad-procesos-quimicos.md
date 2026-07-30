@@ -5,7 +5,8 @@ year: 2026
 journal: ACS Chemical Health & Safety
 url: https://doi.org/10.1021/acs.chas.5c00227
 doi: 10.1021/acs.chas.5c00227
-pdf_local: sources/pdfs/cheme-applications/yang_2026_foundation-models-process-safety.pdf
+pdf_ref: yang_2026_foundation-models-process-safety.pdf
+sha256: f5849053bed6c6b295edcc64fa0e3ed9daece807b8254945fa959ef16fa2aefa
 type: paper
 keywords: [ingenieria-quimica, inteligencia-artificial, generacion-aumentada-por-recuperacion, vision-por-computadora, alucinaciones-de-ia, seguridad-de-ia, supervision-humana, capacidades-de-ia]
 date_added: 2026-06-27

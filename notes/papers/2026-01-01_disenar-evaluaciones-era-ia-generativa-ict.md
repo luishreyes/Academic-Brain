@@ -5,7 +5,8 @@ year: 2026
 journal: International Journal of Educational Technology in Higher Education
 url: https://doi.org/10.1186/s41239-026-00582-0
 doi: 10.1186/s41239-026-00582-0
-pdf_local: sources/pdfs/assessment-redesign/ahangama_2026_ict-tailored-assessment-framework.pdf
+pdf_ref: ahangama_2026_ict-tailored-assessment-framework.pdf
+sha256: e9b3df97a1f623b93d92f21dad1e07239bdcb0becf86a40b7d1bc2c91cd3fdda
 type: paper
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, educacion-en-programacion, alfabetizacion-en-ia, etica-de-la-ia, revision-sistematica-de-literatura]
 date_added: 2026-06-27

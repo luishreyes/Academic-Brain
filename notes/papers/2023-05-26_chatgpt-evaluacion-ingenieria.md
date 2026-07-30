@@ -5,7 +5,8 @@ year: 2023
 journal: European Journal of Engineering Education
 url: https://doi.org/10.1080/03043797.2023.2213169
 doi: 10.1080/03043797.2023.2213169
-pdf_local: sources/pdfs/assessment-redesign/nikolic_2023_chatgpt-engineering-assessment.pdf
+pdf_ref: nikolic_2023_chatgpt-engineering-assessment.pdf
+sha256: 6847130d1000e913b7828c1a620c385528ab546dfefdfe035ee131bba692ca92
 type: paper
 keywords: [evaluacion-educativa, educacion-en-ingenieria, integridad-academica, inteligencia-artificial, educacion-superior, educacion-en-programacion, pensamiento-critico, tutoria-con-ia]
 date_added: 2026-06-27

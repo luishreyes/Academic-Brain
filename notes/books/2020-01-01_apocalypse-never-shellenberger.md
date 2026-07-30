@@ -5,7 +5,6 @@ year: 2020
 publisher: Harper
 url: 
 isbn: 978-0-06-300169-5
-pdf_local: 
 type: book
 keywords: [sostenibilidad, cambio-climatico, ciencia-y-sociedad, pensamiento-critico]
 date_added: 2026-07-05

@@ -5,7 +5,8 @@ year: 2021
 journal: Annual Review of Chemical and Biomolecular Engineering
 url: https://doi.org/10.1146/annurev-chembioeng-101220-102232
 doi: 10.1146/annurev-chembioeng-101220-102232
-pdf_local: sources/pdfs/capability-reliability/ashraf_2021_data-science-molecular.pdf
+pdf_ref: ashraf_2021_data-science-molecular.pdf
+sha256: 89972534a728e055d4d502e6bb37aca6b76cd13873dc3b4d4aea47fde7777011
 type: paper
 keywords: [ciencia-de-datos, modelado-molecular, inteligencia-artificial, quimica-computacional, ingenieria-quimica, simulacion-computacional, descubrimiento-cientifico]
 date_added: 2026-06-27

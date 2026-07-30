@@ -5,7 +5,8 @@ year: 2022
 journal: Heliyon
 url: https://doi.org/10.1016/j.heliyon.2022.e09145
 doi: 10.1016/j.heliyon.2022.e09145
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/patarroyo2022-hidrogeles-antibacterianos-gelatin-grafeno-plata.pdf
+pdf_ref: patarroyo2022-hidrogeles-antibacterianos-gelatin-grafeno-plata.pdf
+sha256: ba4097bc3e133253119a9fd2ebfeb3ca08934634627e7b695bdf0fa36bb5d70e
 type: paper
 keywords: [biomateriales, nanociencia, ingenieria-quimica]
 date_added: 2026-06-26

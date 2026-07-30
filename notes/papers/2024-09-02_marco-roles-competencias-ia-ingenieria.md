@@ -5,7 +5,8 @@ year: 2024
 journal: "SEFI Annual Conference (practice paper)"
 url: 
 doi: 
-pdf_local: sources/pdfs/ai-literacy-competency/schleiss_2024_rcaie-roles-competency-framework.pdf
+pdf_ref: schleiss_2024_rcaie-roles-competency-framework.pdf
+sha256: d2a721283c5009998772a0dfbb6776e0d2fe92648ef40b874bf43bb4c89de294
 type: paper
 keywords: [alfabetizacion-en-ia, educacion-en-ingenieria, educacion-superior, formacion-docente, interdisciplinariedad, etica-de-la-ia]
 date_added: 2026-06-27

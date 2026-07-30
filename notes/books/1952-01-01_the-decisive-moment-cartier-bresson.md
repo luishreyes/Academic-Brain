@@ -5,7 +5,6 @@ year: 1952
 publisher: Simon & Schuster / Éditions Verve
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [fotografia, filosofia, humanidades]
 date_added: 2026-07-05

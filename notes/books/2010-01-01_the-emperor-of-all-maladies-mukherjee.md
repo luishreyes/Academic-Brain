@@ -5,7 +5,6 @@ year: 2010
 publisher: Scribner
 url: 
 isbn: 978-1-4391-0795-9
-pdf_local: 
 type: book
 keywords: [oncologia, historia-de-la-innovacion, medicina-basada-en-evidencia, desarrollo-de-farmacos, salud-y-sociedad, comunicacion-cientifica]
 date_added: 2026-07-05

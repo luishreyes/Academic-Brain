@@ -5,7 +5,8 @@ year: 1996
 journal: Higher Education
 url: 
 doi: 
-pdf_local: sources/pdfs/assessment-redesign/biggs_1996_constructive-alignment.pdf
+pdf_ref: biggs_1996_constructive-alignment.pdf
+sha256: 8ac00fcdf876bcb6251a0f96005757c882ca0c2fc668b1a266ec072e26e3455b
 type: paper
 keywords: [evaluacion-educativa, educacion-superior, psicologia-educativa, aprendizaje-activo, pensamiento-critico, formacion-docente, personalizacion-del-aprendizaje]
 date_added: 2026-06-27

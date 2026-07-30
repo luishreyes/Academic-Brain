@@ -5,7 +5,8 @@ year: 2025
 journal: "Computers and Education: Artificial Intelligence"
 url: https://doi.org/10.1016/j.caeai.2025.100471
 doi: 10.1016/j.caeai.2025.100471
-pdf_local: sources/pdfs/faculty-development-implementation/prilop_2025_teacher-educators-ai-literacy.pdf
+pdf_ref: prilop_2025_teacher-educators-ai-literacy.pdf
+sha256: 8d073b959805f192e42593e7d08e24702ba3dd3ace1f8c53c1fb266839d49e99
 type: paper
 keywords: [formacion-docente, alfabetizacion-en-ia, inteligencia-artificial, etica-de-la-ia, evaluacion-educativa, pensamiento-critico, adopcion-de-tecnologia, procesamiento-de-lenguaje-natural, motivacion-y-compromiso-estudiantil]
 date_added: 2026-06-28

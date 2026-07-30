@@ -7,7 +7,8 @@ url: https://www.teqsa.gov.au/
 type: article
 keywords: [integridad-academica, evaluacion-educativa, inteligencia-artificial, educacion-superior, capacidades-de-ia, equidad-educativa, pensamiento-critico, regulacion-de-ia]
 date_added: 2026-06-27
-pdf_local: sources/pdfs/assessment-redesign/teqsa-lodge_2024_evolving-risk-academic-integrity.pdf
+pdf_ref: teqsa-lodge_2024_evolving-risk-academic-integrity.pdf
+sha256: 1eba1d3476a4fe6f08bf5353b28a0fe3ecc996e20345cb159db841c3bcf38c8e
 ---
 
 # The evolving risk to academic integrity posed by generative artificial intelligence: Options for immediate action

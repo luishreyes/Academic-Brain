@@ -5,7 +5,8 @@ year: 2026
 journal: "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL), Volume 4: Student Research Workshop"
 url: 
 doi: 
-pdf_local: sources/pdfs/integrity-by-design/alali_2026_revisiting-bias-nonnative-czech.pdf
+pdf_ref: alali_2026_revisiting-bias-nonnative-czech.pdf
+sha256: f83b3cba8a3e7681293020970174f71f04719f37380d50155b3e33f99435de2d
 type: paper
 keywords: [deteccion-de-texto-ia, integridad-academica, procesamiento-de-lenguaje-natural, inteligencia-artificial, sesgo-cognitivo, equidad-educativa, ensenanza-de-lenguas]
 date_added: 2026-06-28

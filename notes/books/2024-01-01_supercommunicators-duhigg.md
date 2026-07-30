@@ -5,7 +5,6 @@ year: 2024
 publisher: Random House
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [comunicacion-interpersonal, psicologia-social, neurociencia]
 date_added: 2026-07-05

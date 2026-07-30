@@ -5,7 +5,8 @@ year: 2025
 journal: Interactive Learning Environments
 url: https://doi.org/10.1080/10494820.2025.2545053
 doi: 10.1080/10494820.2025.2545053
-pdf_local: sources/pdfs/faculty-development-implementation/chiu_2025_itpack-framework.pdf
+pdf_ref: chiu_2025_itpack-framework.pdf
+sha256: a56e6a312d93619798e5706b38ba963ddc147387f8e979792e9370a7a7c82499
 type: paper
 keywords: [formacion-docente, alfabetizacion-en-ia, inteligencia-artificial, etica-de-la-ia, ingenieria-de-prompts, supervision-humana, evaluacion-educativa, pensamiento-critico, integridad-academica]
 date_added: 2026-06-28

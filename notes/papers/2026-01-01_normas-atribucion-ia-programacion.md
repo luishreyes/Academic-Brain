@@ -5,7 +5,8 @@ year: 2026
 journal: "arXiv preprint (cs.HC)"
 url: https://arxiv.org/abs/2602.04062
 doi: 
-pdf_local: sources/pdfs/assessment-redesign/ye_2026_ai-attribution-disclosure-programming.pdf
+pdf_ref: ye_2026_ai-attribution-disclosure-programming.pdf
+sha256: 0676647640b10f34ea96f707b70547245a4c466e1e9b3a0c5cb89f2811fe484f
 type: paper
 keywords: [educacion-en-programacion, integridad-academica, evaluacion-educativa, inteligencia-artificial, etica-de-la-ia, regulacion-de-ia, autorregulacion-del-aprendizaje, pensamiento-critico, supervision-humana]
 date_added: 2026-06-27

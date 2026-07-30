@@ -4,7 +4,8 @@ author: Reuters (Terje Solsvik)
 publication: Internazionale / Reuters
 date: 2026-06-19
 url: https://www.internazionale.it/ultime-notizie-reuters/2026/06/19/norway-imposes-near-ban-on-ai-in-elementary-school
-pdf_local: sources/pdfs/ai-education/reuters2026-noruega-prohibe-ia-escuelas.pdf
+pdf_ref: reuters2026-noruega-prohibe-ia-escuelas.pdf
+sha256: 8073e41db9c1c10d019f1e9d21f310a8384518225469c490ff8a264d5e4d1ee9
 type: article
 keywords: [inteligencia-artificial, regulacion-de-ia, supervision-humana, psicologia-educativa, etica-de-la-ia, futuro-del-trabajo]
 date_added: 2026-06-25

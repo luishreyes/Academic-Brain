@@ -5,7 +5,8 @@ year: 2026
 journal: "Computers and Education: Artificial Intelligence"
 url: https://doi.org/10.1016/j.caeai.2025.100529
 doi: 10.1016/j.caeai.2025.100529
-pdf_local: sources/pdfs/existing-reviews-gapmap/shi_2026_llm-education-systrev.pdf
+pdf_ref: shi_2026_llm-education-systrev.pdf
+sha256: 6bb909fe160518933b725dab880dca67a3c8e2672e882669c59db1a47b2fdb8f
 type: paper
 keywords: [revision-sistematica-de-literatura, inteligencia-artificial, tutoria-con-ia, retroalimentacion-con-ia, personalizacion-del-aprendizaje, educacion-superior, educacion-k12, capacidades-de-ia, alucinaciones-de-ia, integridad-academica, autorregulacion-del-aprendizaje, pensamiento-critico]
 date_added: 2026-06-28

@@ -5,7 +5,6 @@ year: 2018
 publisher: Little, Brown and Company
 url: 
 isbn: 978-0-316-39200-9
-pdf_local: 
 type: book
 keywords: [gran-historia, evolucion-cultural, fisica-y-cosmologia, ciencia-y-sociedad, historia-de-la-innovacion]
 date_added: 2026-07-05

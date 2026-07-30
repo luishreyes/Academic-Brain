@@ -5,7 +5,8 @@ year: 2026
 journal: Data in Brief
 url: https://doi.org/10.1016/j.dib.2026.112962
 doi: 10.1016/j.dib.2026.112962
-pdf_local: sources/pdfs/ai-education/pecuchova-2026-dataset-feedback-uml.pdf
+pdf_ref: pecuchova-2026-dataset-feedback-uml.pdf
+sha256: 7a305e27271c604731dec321ae4bb4cee1d4c96518c6eb0c79b7859bb6f0e5b5
 type: paper
 keywords: [educacion-en-programacion, retroalimentacion-con-ia, evaluacion-educativa, ingenieria-de-prompts, procesamiento-de-lenguaje-natural, inteligencia-artificial]
 date_added: 2026-07-05

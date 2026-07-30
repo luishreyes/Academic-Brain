@@ -5,7 +5,8 @@ year: 2025
 journal: British Journal of Educational Technology
 url: https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544
 doi: 10.1111/bjet.13544
-pdf_local: sources/pdfs/learning-impact-evidence/fan_2024_metacognitive-laziness.pdf
+pdf_ref: fan_2024_metacognitive-laziness.pdf
+sha256: 6039c548568962db88655656b77258d57fa06f7ffcd178811b4b6641ef4b73b8
 type: paper
 keywords: [autorregulacion-del-aprendizaje, retroalimentacion-con-ia, motivacion-y-compromiso-estudiantil, ensayo-controlado-aleatorio, inteligencia-artificial, pensamiento-critico, tutoria-con-ia, educacion-superior]
 date_added: 2026-06-28

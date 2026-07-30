@@ -5,7 +5,8 @@ year: 2026
 journal: "Computers and Education: Artificial Intelligence"
 url: https://doi.org/10.1016/j.caeai.2026.100577
 doi: 10.1016/j.caeai.2026.100577
-pdf_local: sources/pdfs/cheme-applications/caccavale_2026_fermbench-fermentation-llm-benchmark.pdf
+pdf_ref: caccavale_2026_fermbench-fermentation-llm-benchmark.pdf
+sha256: 4c185e4dc87ef90e01de51010c930c43db59133b9ff6d48bbc428266035a0878
 type: paper
 keywords: [capacidades-de-ia, inteligencia-artificial, ingenieria-quimica, educacion-en-ingenieria, biocombustibles, tutoria-con-ia, evaluacion-educativa, alucinaciones-de-ia, pensamiento-critico, generacion-aumentada-por-recuperacion, supervision-humana]
 date_added: 2026-06-27

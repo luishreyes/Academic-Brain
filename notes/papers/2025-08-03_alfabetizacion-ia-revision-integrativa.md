@@ -5,7 +5,8 @@ year: 2025
 journal: "ICER 2025 Vol. 1 — ACM Conference on International Computing Education Research"
 url: https://doi.org/10.1145/3702652.3744217
 doi: 10.1145/3702652.3744217
-pdf_local: sources/pdfs/ai-literacy-competency/gu_2025_ai-literacy-integrative-review.pdf
+pdf_ref: gu_2025_ai-literacy-integrative-review.pdf
+sha256: 1ae371a0b671f6835f3b9fa788205261e5a0345f0d258281462b35af6aa3f17f
 type: paper
 keywords: [alfabetizacion-en-ia, inteligencia-artificial, educacion-k12, educacion-superior, educacion-en-programacion, etica-de-la-ia, regulacion-de-ia, futuro-del-trabajo, interdisciplinariedad]
 date_added: 2026-06-27

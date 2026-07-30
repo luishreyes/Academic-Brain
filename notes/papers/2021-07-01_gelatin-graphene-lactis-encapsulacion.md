@@ -5,7 +5,8 @@ year: 2021
 journal: Biomolecules
 url: https://doi.org/10.3390/biom11070922
 doi: 10.3390/biom11070922
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/patarroyo2021-gelatin-graphene-lactis.pdf
+pdf_ref: patarroyo2021-gelatin-graphene-lactis.pdf
+sha256: f1f144dd8815b954185e726ab8f97ba17a6f60971b540780173197b5abd24823
 type: paper
 keywords: [biomateriales, ingenieria-quimica, ingenieria-de-alimentos]
 date_added: 2026-06-26

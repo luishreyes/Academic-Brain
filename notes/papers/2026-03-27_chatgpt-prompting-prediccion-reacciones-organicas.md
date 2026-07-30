@@ -5,7 +5,8 @@ year: 2026
 journal: "Journal of Chemical Education"
 url: https://doi.org/10.1021/acs.jchemed.5c01712
 doi: 10.1021/acs.jchemed.5c01712
-pdf_local: sources/pdfs/cheme-applications/thrall_2026_chatgpt-prompting-organic-reaction-prediction.pdf
+pdf_ref: thrall_2026_chatgpt-prompting-organic-reaction-prediction.pdf
+sha256: 78c5aacce2af9c5d9a418256748767cf059d2071914116165d79c6cd6b40a70c
 type: paper
 keywords: [inteligencia-artificial, alfabetizacion-en-ia, educacion-superior, pensamiento-critico, ingenieria-de-prompts, aprendizaje-en-contexto, generacion-aumentada-por-recuperacion]
 date_added: 2026-06-27
