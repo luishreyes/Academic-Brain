@@ -21,11 +21,11 @@ Doerr, Edmondson y Galloway ofrecen variantes intermedias, más operacionales qu
 La tensión de fondo entre los seis autores es si el liderazgo es, en esencia, una técnica de control asimétrico (Greene) o una relación de confianza voluntaria (Sinek, Edmondson); Doerr y Cain ocupan un terreno intermedio donde la estructura —objetivos transparentes, ausencia de jerarquía performativa— sustituye tanto a la manipulación como al carisma como mecanismo de coordinación, mientras Galloway recuerda que, antes de liderar a otros, el primer acto de liderazgo es gobernarse a uno mismo.
 
 ## Notas que usan este concepto
-- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]
-- [[notes/books/2012-01-23_quiet-susan-cain]]
 - [[notes/books/2000-01-01_the-48-laws-of-power-greene]]
-- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/books/2009-01-01_start-with-why-sinek]]
-- [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]
 - [[notes/books/2011-01-01_steve-jobs-isaacson]]
+- [[notes/books/2012-01-23_quiet-susan-cain]]
 - [[notes/books/2015-01-01_elon-musk-vance]]
+- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]
+- [[notes/books/2023-09-05_right-kind-of-wrong-edmondson]]
+- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]

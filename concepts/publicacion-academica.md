@@ -18,7 +18,7 @@ Chaplin completa el cuadro desde el extremo opuesto, sin mencionar la IA en abso
 
 ## Notas que usan este concepto
 - [[notes/articles/2026-02-11_investigacion-impacto-mundo-real]]
+- [[notes/papers/2026-01-01_tres-estrategias-progreso-investigacion]]
 - [[notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia]]
 - [[notes/papers/2026-04-29_genai-autoria-pedagogia-integridad]]
-- [[notes/papers/2026-01-01_tres-estrategias-progreso-investigacion]]
 - [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]

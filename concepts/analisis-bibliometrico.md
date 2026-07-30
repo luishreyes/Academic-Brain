@@ -19,7 +19,7 @@ Los dos estudios que sí reportan bibliometría de coautoría por país (Park et
 Temáticamente, la ética aparece una y otra vez como nodo estructural del campo, independientemente de la lente disciplinar con la que cada mapeo se construyó: es uno de los ocho temas discursivos de Yusuf et al. ("implicaciones éticas y riesgos"), es precisamente el vacío que Ofosu-Asare busca llenar construyendo un marco ético a partir de 108 publicaciones curadas de más de 5.000, y es, según Tsakeni et al., una dimensión "frecuentemente inexplorada" dentro de su propio corpus bibliométrico sobre metacognición en STEM. Park et al. no hablan de ética per se, pero su clúster de "evaluación y alfabetización en IA" apunta a la misma presión —repensar cómo se evalúa el aprendizaje— que subyace a buena parte de la discusión ética en los otros tres estudios. La convergencia, entonces, no es tanto metodológica —los cuatro difieren en bases de datos (WoS exclusivamente en Park et al.; Scopus+WoS en Tsakeni et al.; cinco bases en Ofosu-Asare; tres en Yusuf et al.) y en herramientas— sino temática: distintos mapeos bibliométricos, aplicados a distintos subcampos, tienden a converger en ética y evaluación como los nodos más persistentes de la literatura sobre GenAI en educación.
 
 ## Notas que usan este concepto
-- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]
 - [[notes/papers/2024-07-26_genai-educacion-investigacion-mapeo]]
-- [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]
+- [[notes/papers/2026-06-28_genai-educacion-quimica-bibliometria]]
 - [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]
+- [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]

@@ -19,15 +19,15 @@ Jamal Eddine et al. sitúan este mismo problema en un nivel estructural: dentro 
 El estudio de Cheung, Maier y Lieder aporta la pieza que explica por qué esa confianza acrítica es, en efecto, arriesgada: al comparar las decisiones morales de GPT-4, Llama 3.1-Instruct y Claude 3.5 Sonnet con las de participantes humanos, encuentran que los LLMs exhiben un sesgo de omisión muchísimo más marcado que las personas (~45 puntos porcentuales de diferencia entre elegir la opción de costo-beneficio según coincida con acción u omisión, frente a apenas ~5 puntos en humanos) y un "sesgo sí-no" no observado en personas, que hace que el consejo del modelo cambie según cómo se formule la pregunta. Cruzan menos de 0.7 de correlación con las respuestas humanas en la mayoría de dilemas —evidencia de que los LLMs no solo están más sesgados, sino que razonan de forma cualitativamente distinta— y localizan el origen del sesgo en el fine-tuning conversacional (RLHF), no en el preentrenamiento. Su conclusión explícita conecta directamente con el resto del corpus: la confianza acrítica en el consejo moral de un LLM puede amplificar sesgos humanos existentes e introducir sesgos enteramente nuevos. Leído junto a Choudhuri et al. y Liu et al., el conjunto sugiere que la confianza en la IA opera como un mecanismo único con manifestaciones en tres niveles —cognitivo (erosión de hábitos de pensamiento), procedimental (incapacidad de verificar lo delegado) y normativo (aceptación de juicios sesgados)— y que ninguno de los cinco estudios encuentra evidencia de que la experiencia previa, la pericia técnica o el nivel académico actúen como protección automática contra la descalibración.
 
 ## Notas que usan este concepto
-- [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]
 - [[notes/articles/2025-06-24_ethics-is-the-edge-ia-educacion-superior]]
 - [[notes/papers/2026-01-01_genai-brecha-digital-educacion-superior]]
-- [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
-- [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
-- [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap02-etica]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap04-bienestar-infantil]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap09-salud-mental]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap12-adultos-mayores]]
-- [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
+- [[notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico]]
+- [[notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes]]
+- [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
 - [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]
+- [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]
+- [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]

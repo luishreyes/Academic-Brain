@@ -15,5 +15,5 @@ Salgado y Koudelka hicieron del desplazamiento su tema, pero desde posiciones op
 Koudelka lo mira **desde adentro y en primera persona**: en *Exiles* el desplazado es él mismo. Tras abandonar Checoslovaquia en 1970 vivió años como apátrida, y su serie no cartografía un fenómeno colectivo sino que registra la condición interior del desarraigo —la soledad, la extrañeza, la memoria del lugar perdido— desde quien la vive, no desde quien la observa. Entre los dos, el concepto queda cubierto por sus dos caras: Salgado aporta la dimensión objetiva y sistémica del desplazamiento; Koudelka, la subjetiva y existencial. El mismo hecho humano visto como estadística encarnada y como herida propia.
 
 ## Notas que usan este concepto
-- [[notes/books/2007-01-01_salgado-photofile]]
 - [[notes/books/2007-01-01_koudelka-photofile]]
+- [[notes/books/2007-01-01_salgado-photofile]]

@@ -19,12 +19,12 @@ La línea de Rodríguez et al. sobre cerveza sin alcohol (NAB) ofrece una tercer
 El estudio de perfumería (Rodríguez et al. 2024) añade un matiz relevante para cualquier estrategia de marketing sensorial: las bandas sonoras de marca modulan la frescura percibida a nivel implícito (medido con el Test de Asociación Implícita) incluso cuando el autorreporte no siempre lo refleja, lo que sugiere que estos nudges auditivos pueden mover la valoración de un producto sin que el consumidor sea consciente de por qué le resulta más atractivo —una asimetría entre la efectividad del marketing sensorial y la capacidad del consumidor de justificarla.
 
 ## Notas que usan este concepto
-- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]
 - [[notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol]]
-- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]
 - [[notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia]]
-- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]
-- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]
-- [[notes/papers/2026-01-01_tres-estrategias-progreso-investigacion]]
 - [[notes/books/2000-01-01_the-tipping-point-gladwell]]
 - [[notes/books/2025-01-01_the-art-of-spending-money-housel]]
+- [[notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce]]
+- [[notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos]]
+- [[notes/papers/2024-05-15_sound-of-freshness-perfumeria]]
+- [[notes/papers/2026-01-01_tres-estrategias-progreso-investigacion]]
+- [[notes/papers/2026-06-20_genai-hamburguesas-sostenibles]]

@@ -17,14 +17,14 @@ Suárez y García-Mariñoso trasladan la misma lógica al terreno digital: docum
 Reeves cierra el hilo desde el ángulo opuesto y con más fuerza empírica: en "Non-Responders" documenta que los programas sociales educativos y laborales existentes en EE. UU. benefician a las mujeres pero tienen eficacia casi nula en los hombres, un fracaso de diseño que la literatura de políticas públicas sistemáticamente ignora. Su respuesta —redshirting escolar, incentivos para que los hombres entren a los sectores HEAL, y una reforma de la paternidad independiente del matrimonio— es, estructuralmente, el mismo movimiento que piden los estudios de palma y de IA: abandonar la intervención genérica y diseñar política calibrada al grupo específico, sea este definido por tipología de productor, perfil sociodemográfico, generación universitaria o género.
 
 ## Notas que usan este concepto
+- [[notes/books/2011-01-01_poor-economics-banerjee]]
 - [[notes/books/2022-09-26_of-boys-and-men-reeves]]
+- [[notes/books/2025-01-01_abundance-klein]]
+- [[notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres]]
 - [[notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica]]
 - [[notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas]]
-- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]
 - [[notes/papers/2025-05-22_brecha-digital-ia-generativa-espana]]
-- [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]
-- [[notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres]]
-- [[notes/books/2011-01-01_poor-economics-banerjee]]
-- [[notes/books/2025-01-01_abundance-klein]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap03-pobreza]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap13-vivienda]]
+- [[notes/papers/2026-03-06_clusters-sostenibilidad-palma]]
+- [[notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion]]

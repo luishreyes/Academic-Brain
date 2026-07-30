@@ -17,11 +17,11 @@ El panorama se complica al mirar la exposición laboral. Massenkoff y McCrory (A
 Este conjunto de hallazgos no encaja con facilidad en la tesis de Reeves sobre el rezago masculino. Reeves documenta que los hombres obtienen 26 puntos porcentuales menos titulaciones universitarias que las mujeres y que su participación laboral cae de forma estructural, un cuadro donde los hombres son el grupo desfavorecido. Pero ninguna nota sobre IA, género y empleo reporta a los hombres como el grupo con menor competencia, menor acceso o mayor riesgo: al contrario, son las mujeres quienes reportan menos conocimiento de IA (Portocarrero Ramos et al.) pese a tener más credenciales educativas, y quienes están sobrerrepresentadas tanto en las ocupaciones más expuestas y mejor pagadas (Massenkoff y McCrory) como en los nichos junior más automatizables de profesiones feminizadas como el derecho (Sídney/IntuitionLabs). La brecha de género que emerge en el dominio de la IA laboral y educativa no parece, entonces, una extensión de la brecha educativa que preocupa a Reeves, sino un eje distinto y casi ortogonal a ella: la exposición y la desventaja dependen más del sector y del nivel de seniority que de un rezago educativo generalizado por género.
 
 ## Notas que usan este concepto
-- [[notes/books/2022-09-26_of-boys-and-men-reeves]]
-- [[notes/papers/2025-07-22_perspectivas-docentes-ia-generativa]]
-- [[notes/papers/2025-07-28_efectividad-politicas-institucionales-genai]]
 - [[notes/articles/2025-11-26_impacto-ia-empleo-graduados]]
+- [[notes/books/2022-09-26_of-boys-and-men-reeves]]
+- [[notes/books/2024-01-01_the-upgrade-brizendine]]
 - [[notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa]]
 - [[notes/papers/2025-07-16_ai-skills-empleabilidad-egresados]]
+- [[notes/papers/2025-07-22_perspectivas-docentes-ia-generativa]]
+- [[notes/papers/2025-07-28_efectividad-politicas-institucionales-genai]]
 - [[notes/papers/2026-07-02_labor-market-impacts-ai]]
-- [[notes/books/2024-01-01_the-upgrade-brizendine]]

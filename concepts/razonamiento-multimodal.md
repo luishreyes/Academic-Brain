@@ -17,8 +17,8 @@ La tensión entre ambos hallazgos es reveladora antes que contradictoria. Geißl
 Yuriev, Wink y Holme, desde el editorial que introduce el marco CATALyST para química, confirman que este panorama aún es incipiente: ubican la "multimodalidad" (capacidad de manejar entradas visuales) como un avance tecnológico apenas emergente dentro de la dimensión "Technology", junto al razonamiento sobre mecanismos de reacción orgánica, y señalan que el impacto de la IA generativa sobre las "operaciones cognitivas" —donde encajaría el razonamiento multimodal— sigue siendo, a la fecha del editorial, un área abierta más que resuelta. Leídas juntas, las tres fuentes trazan una misma curva: la multimodalidad es la frontera donde la IA generativa en ciencias duras se muestra más prometedora en demostraciones acotadas y más frágil cuando se evalúa a escala.
 
 ## Notas que usan este concepto
-- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]
 - [[notes/articles/2024-08-13_dawn-genai-quimica-educacion]]
 - [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]
 - [[notes/papers/2026-01-01_chatgpt-estatica-ingenieria]]
+- [[notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica]]
 - [[notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes]]

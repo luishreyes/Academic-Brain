@@ -19,13 +19,13 @@ Galloway aporta el mecanismo de asignación de capital que falta en Ridley. Su f
 Doerr, finalmente, aporta la pieza organizacional que Ridley y Galloway dan por sentada: la libertad de intercambio y el capital disponible solo se traducen en innovación escalada cuando existe una tecnología de coordinación interna. El caso de Operación Crush en Intel (1979-1980) muestra cómo los OKR alinearon a miles de empleados en semanas para responder a una amenaza competitiva existencial; el abandono de la evaluación anual en Adobe (80.000 horas de supervisión ahorradas al año) muestra cómo rediseñar la infraestructura de gestión libera capacidad real de trabajo. El llamado del editorial a formar ingenieros con "competencias diversas" que lideren —no solo ejecuten— presupone precisamente este tipo de tecnología de gestión: mercados abiertos (Ridley) y capital bien asignado (Galloway) no bastan si las universidades y empresas de la región carecen de sistemas explícitos para coordinar objetivos y escalar el esfuerzo individual en resultado institucional. Ninguno de los cuatro textos aborda directamente la política industrial latinoamericana, y el optimismo del editorial sobre los recursos naturales y las economías dinámicas de la región deja abierta, sin resolver, la pregunta de si existe la profundidad de capital y la infraestructura organizacional necesarias para ejecutar la transición que propone.
 
 ## Notas que usan este concepto
-- [[notes/books/2020-04-04_how-innovation-works-ridley]]
-- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]
-- [[notes/books/2010-06-15_the-rational-optimist-ridley]]
-- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/articles/2024-01-01_ingenieria-quimica-america-latina]]
+- [[notes/books/2010-06-15_the-rational-optimist-ridley]]
 - [[notes/books/2011-01-01_steve-jobs-isaacson]]
 - [[notes/books/2014-01-01_innovators-isaacson]]
 - [[notes/books/2015-01-01_elon-musk-vance]]
+- [[notes/books/2018-01-01_mide-lo-que-importa-doerr]]
+- [[notes/books/2020-04-04_how-innovation-works-ridley]]
+- [[notes/books/2024-04-23_the-algebra-of-wealth-galloway]]
 - [[notes/books/2025-01-01_abundance-klein]]
 - [[notes/books/2025-01-01_source-code-gates]]

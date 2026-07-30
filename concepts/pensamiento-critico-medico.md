@@ -15,7 +15,7 @@ Taleb ofrece el andamiaje cognitivo que Offit y Makary llenan de contenido clín
 El sesgo de supervivencia de Taleb encuentra su versión institucional en el capítulo de Offit sobre Linus Pauling: el prestigio de un Nobel de química se transfirió, sin evidencia, a la nutrición y las megadosis de vitamina C, mostrando que la autoridad reputacional —como la riqueza del trader afortunado que Taleb usa como ejemplo— puede originarse en el azar de un campo y aun así blindar contra el escrutinio en otro completamente distinto. Donde Taleb propone una respuesta individual y casi estoica (la metáfora de Odiseo atado al mástil frente al propio engaño cognitivo), Offit y Makary desplazan el remedio al plano institucional: el *groupthink* que documenta Makary —la cultura de obediencia que marginó a Barry Marshall antes de que se aceptara el papel del H. pylori en las úlceras— y la ausencia de mecanismos de autocorrección que señala Offit sugieren que ningún individuo, por escéptico que sea, resiste solo la presión de conformidad; hace falta tolerancia institucional al disenso, no solo virtud epistémica personal.
 
 ## Notas que usan este concepto
-- [[notes/books/2024-01-01_blind-spots-makary]]
 - [[notes/books/2001-01-01_fooled-by-randomness]]
 - [[notes/books/2017-04-04_pandoras-lab-offit]]
+- [[notes/books/2024-01-01_blind-spots-makary]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]

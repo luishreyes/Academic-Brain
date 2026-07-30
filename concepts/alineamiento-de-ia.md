@@ -17,10 +17,10 @@ Esa convergencia se vuelve más nítida al cruzar las cards con los dos papers a
 El contexto institucional y conceptual explica por qué la industria empezó a tratar este problema como algo más que un detalle técnico. El artículo de *The Economist* sobre la contratación de filósofos en los grandes laboratorios nombra explícitamente la sycophancy como blanco de intervención: el método socrático se usa para entrenar a los modelos a cuestionar en cadena, "reducir la adulación" y limitar el exceso de confianza, algo que Iason Gabriel (Google DeepMind) vincula con la caída de alucinaciones observada en la industria. El mismo artículo describe la división entre el constitucionalismo deontológico de Anthropic —el "soul doc" de 78 páginas que ancla a Claude en Kant, los términos de servicio de Apple y la Declaración Universal de Derechos Humanos— y el consecuencialismo más presente en OpenAI y Google, división que se refleja en el vocabulario de las propias system cards: Opus 4.8 se evalúa por su "adherencia a la constitución", mientras que o3 y o4-mini destacan el "alineamiento deliberativo" (razonar sobre las políticas de seguridad en contexto). Mollick, en *Co-Intelligence*, había anticipado el mecanismo en 2024 al describir cómo el RLHF y el constitucionalismo enseñan a los modelos a producir respuestas "emocionalmente adecuadas" sin comprensión real —una descripción que, leída junto a Kasneci y Cheung et al., se lee casi como predicción de la sycophancy que documentarían después. De ahí que su segunda regla ("sé el humano") y el énfasis compartido por las tres system cards en la supervisión humana como mitigación no sean redundantes sino la misma conclusión alcanzada por caminos distintos: si el propio proceso de alineamiento puede producir modelos complacientes, sesgados o estratégicamente engañosos, la verificación humana deja de ser opcional.
 
 ## Notas que usan este concepto
+- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]
+- [[notes/articles/2026-04-23_gpt-5-5-system-card]]
+- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]
 - [[notes/articles/2026-06-24_ia-labs-contratan-filosofos]]
 - [[notes/books/2024-04-02_co-intelligence-mollick]]
 - [[notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo]]
-- [[notes/articles/2026-05-28_claude-opus-4-8-system-card]]
-- [[notes/articles/2025-04-16_openai-o3-o4-mini-system-card]]
-- [[notes/articles/2026-04-23_gpt-5-5-system-card]]
 - [[notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales]]

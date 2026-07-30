@@ -19,8 +19,8 @@ Donde el corpus se vuelve más interesante es en su punto de fricción. Offit, a
 Roach aporta una capa distinta pero convergente: una historia de cómo la evidencia médica se ha construido literalmente a partir de cuerpos, y de cómo el tabú cultural —no la falta de método científico— ha sido históricamente la barrera principal para generarla. El robo de cadáveres en la Gran Bretaña del siglo XIX (el caso Burke y Hare) surgió porque la oferta legal de cuerpos para las escuelas de anatomía no alcanzaba a cubrir la demanda de conocimiento médico verificable; los maniquíes de prueba de impacto hechos con cadáveres desde los años cincuenta generaron, mediante observación empírica directa y no por deducción teórica, la evidencia que fundamenta cinturones de seguridad y zonas de deformación controlada. Leído junto a Makary y Offit, el patrón compartido por los tres libros es que la medicina basada en evidencia no avanza por default: requiere superar activamente barreras no científicas —tabú cultural en Roach, prestigio y conformidad institucional en Makary y Offit— y esas mismas barreras, cuando ceden, tienden a hacerlo tarde y por presión externa, no por autocorrección interna del sistema.
 
 ## Notas que usan este concepto
-- [[notes/books/2024-01-01_blind-spots-makary]]
-- [[notes/books/2017-04-04_pandoras-lab-offit]]
 - [[notes/books/2003-01-01_stiff-roach]]
 - [[notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee]]
+- [[notes/books/2017-04-04_pandoras-lab-offit]]
+- [[notes/books/2024-01-01_blind-spots-makary]]
 - [[notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial]]
