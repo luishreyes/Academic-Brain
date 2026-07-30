@@ -8,6 +8,7 @@ doi: 10.1007/s00109-020-01935-6
 pdf_ref: leal2020-enfermedades-lisosomales-terapias.pdf
 sha256: 70699cfdd9ffd0c239626555b1615c12a7922abb2aa88b9ae1abcca40a948346
 type: paper
+visibility: public
 keywords: [enfermedades-raras, proteinas-recombinantes, biologia-molecular, terapia-genica, ingenieria-quimica]
 date_added: 2026-06-26
 ---

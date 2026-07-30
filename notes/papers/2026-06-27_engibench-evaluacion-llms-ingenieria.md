@@ -8,6 +8,7 @@ doi:
 pdf_ref: zhou_2025_engibench-engineering-problem-solving.pdf
 sha256: 85b80d252465c170d69195ad4979a1531c7cd31b43c20c17586cf7ea50a6702c
 type: paper
+visibility: public
 keywords: [capacidades-de-ia, inteligencia-artificial, educacion-en-ingenieria, pensamiento-critico]
 date_added: 2026-06-27
 ---

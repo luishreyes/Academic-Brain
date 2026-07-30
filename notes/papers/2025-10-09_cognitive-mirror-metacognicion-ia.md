@@ -8,6 +8,7 @@ doi: 10.3389/feduc.2025.1697554
 pdf_ref: tomisu_2025_cognitive_mirror.pdf
 sha256: ecd4b5eb4990aa27f56981f5a3ecbd19c1ab7ffb605b521da0fdf6c8c05c3eb2
 type: paper
+visibility: public
 keywords: [tutoria-con-ia, inteligencia-artificial, descarga-cognitiva, autorregulacion-del-aprendizaje, pensamiento-critico, evaluacion-educativa, retroalimentacion-con-ia, sesgo-algoritmico, ensenanza-de-lenguas, personalizacion-del-aprendizaje, supervision-humana]
 date_added: 2026-06-28
 ---

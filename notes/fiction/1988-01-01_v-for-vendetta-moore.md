@@ -9,6 +9,7 @@ rating: 5
 status: leído
 genre: [novela-grafica, distopia, ciencia-ficcion]
 type: fiction
+visibility: public
 keywords: [distopia, rebelion-y-revolucion, poder-y-persuasion]
 date_added: 2026-07-05
 ---

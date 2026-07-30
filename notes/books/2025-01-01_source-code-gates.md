@@ -6,6 +6,7 @@ publisher: Alfred A. Knopf
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [educacion-en-programacion, historia-de-la-innovacion, economia-de-la-innovacion]
 date_added: 2026-07-05
 ---

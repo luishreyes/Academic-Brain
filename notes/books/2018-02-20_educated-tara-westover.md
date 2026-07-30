@@ -6,6 +6,7 @@ publisher: Random House Publishing Group
 url: 
 isbn: 9780399590511
 type: book
+visibility: public
 keywords: [humanidades, filosofia, psicologia-educativa, educacion-superior, desarrollo-del-caracter, equidad-educativa, bienestar-academico, autorregulacion-del-aprendizaje]
 date_added: 2026-06-25
 ---

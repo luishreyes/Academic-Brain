@@ -6,6 +6,7 @@ publisher: HarperOne
 url: 
 isbn: 978-0-06-245771-4
 type: book
+visibility: public
 keywords: [psicologia-del-bienestar, filosofia, desarrollo-del-caracter]
 date_added: 2026-07-05
 ---

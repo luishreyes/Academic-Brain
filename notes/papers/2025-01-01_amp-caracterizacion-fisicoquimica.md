@@ -8,6 +8,7 @@ doi: 10.1016/B978-0-443-15393-8.00012-9
 pdf_ref: quezada-2025-amp-caracterizacion-fisicoquimica.pdf
 sha256: a2b3eef20cf2bb2249929807eec22a57992277cfcb3157f54c3c159e1b7ca46c
 type: paper
+visibility: public
 keywords: [peptidos-bioactivos, biologia-molecular, desarrollo-de-farmacos]
 date_added: 2026-06-26
 ---

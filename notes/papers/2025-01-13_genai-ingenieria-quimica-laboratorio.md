@@ -8,6 +8,7 @@ doi: 10.1016/j.ece.2025.01.002
 pdf_ref: keith2025-genai-ingenieria-quimica-laboratorio.pdf
 sha256: ca1f6de6399606a693b7b05eec0c88570d1192c3786c060e53cb5b9763e498d0
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, STEM, aprendizaje-activo, etica-de-la-ia, alucinaciones-de-ia, evaluacion-educativa, alfabetizacion-en-ia]
 date_added: 2026-06-25
 ---

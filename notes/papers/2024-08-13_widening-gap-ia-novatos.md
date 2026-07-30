@@ -8,6 +8,7 @@ doi: 10.1145/3632620.3671116
 pdf_ref: reeves2024-widening-gap-ia-novatos.pdf
 sha256: 6cb5e420734118aa1657d31fe6badac1cb9a0ba23a21d5da32ec2bdbaa0c8135
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-en-programacion, psicologia-educativa, tutoria-con-ia, equidad-educativa, supervision-humana, personalizacion-del-aprendizaje]
 date_added: 2026-06-25
 ---

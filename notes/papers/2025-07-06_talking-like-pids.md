@@ -8,6 +8,7 @@ doi: 10.69997/sct.159477
 pdf_ref: alimin_2025_talking-like-pids-escape35.pdf
 sha256: 2a86b880409198a301725f89323e657cefaaf86c1e1495a2676dd8e3386b3e5d
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, agentes-de-ia, alucinaciones-de-ia, capacidades-de-ia, ingenieria-quimica, grafos-de-conocimiento, generacion-aumentada-por-recuperacion]
 date_added: 2026-06-27
 ---

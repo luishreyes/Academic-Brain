@@ -7,6 +7,7 @@ url: https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots
 pdf_ref: mollick_2026_twilight-of-chatbots.pdf
 sha256: 9c50928f79749498cf84878561324fd32f38a68f57f6469ac5a9630ffc946e0f
 type: article
+visibility: public
 keywords: [inteligencia-artificial, agentes-de-ia, capacidades-de-ia, futuro-del-trabajo, adopcion-de-tecnologia, supervision-humana, geopolitica-tecnologica, ingenieria-de-prompts]
 date_added: 2026-07-01
 ---

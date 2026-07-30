@@ -5,6 +5,7 @@ publication: The Guardian
 date: 2026-07-04
 url: https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt
 type: article
+visibility: public
 keywords: [linguistica, procesamiento-de-lenguaje-natural, deteccion-de-texto-ia, creatividad, sesgo-algoritmico, humanidades, inteligencia-artificial]
 date_added: 2026-07-05
 ---

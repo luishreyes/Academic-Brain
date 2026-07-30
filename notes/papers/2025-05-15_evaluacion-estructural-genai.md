@@ -8,6 +8,7 @@ doi: 10.1080/02602938.2025.2503964
 pdf_ref: corbin2025-talk-is-cheap-evaluacion.pdf
 sha256: 40c5910ff39600be37e78d9db59c6eddb4d9e5e16e929fd5b1904ad2b1f42461
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, integridad-academica, evaluacion-educativa, etica-de-la-ia, supervision-humana]
 date_added: 2026-06-25
 ---

@@ -6,6 +6,7 @@ publisher: Scribner
 url: 
 isbn: 978-1-4767-3350-0
 type: book
+visibility: public
 keywords: [genomica, biologia-molecular, historia-de-la-innovacion, terapia-genica, etica-de-la-ciencia, descubrimiento-cientifico, comunicacion-cientifica]
 date_added: 2026-07-05
 ---

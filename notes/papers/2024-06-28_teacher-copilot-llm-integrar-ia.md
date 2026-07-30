@@ -8,6 +8,7 @@ doi:
 pdf_ref: seufert_2024_teacher-copilot.pdf
 sha256: 1f126ae6dc8e05341433f2502b6eecbbe34aa44ca81c168cd95641bc43beeaeb
 type: paper
+visibility: public
 keywords: [formacion-docente, tutoria-con-ia, alfabetizacion-en-ia, inteligencia-artificial, ingenieria-de-prompts, generacion-aumentada-por-recuperacion, retroalimentacion-con-ia, taxonomia-de-bloom, etica-de-la-ia, adopcion-de-tecnologia]
 date_added: 2026-06-28
 ---

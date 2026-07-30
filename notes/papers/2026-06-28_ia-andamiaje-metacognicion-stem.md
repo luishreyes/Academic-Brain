@@ -8,6 +8,7 @@ doi: 10.3390/jintelligence13110148
 pdf_ref: tsakeni_2025_ai_metacognition_stem_review.pdf
 sha256: d233c3f0f7cd982aa01c9a559e8c1e527073d007a983a688cfeecec27877e2a1
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, autorregulacion-del-aprendizaje, tutoria-con-ia, STEM, analisis-bibliometrico, revision-sistematica-de-literatura, retroalimentacion-con-ia, etica-de-la-ia, supervision-humana, ingenieria-de-sistemas]
 date_added: 2026-06-28
 ---

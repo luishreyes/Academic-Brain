@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_14
 pdf_ref: ch14-justicia-penal-rehabilitacion.pdf
 sha256: c262cc2b09af2feeeb146d41c0945fdd6a4b6465ccd6e62ebee57e282f400797
 type: paper
+visibility: public
 keywords: [trabajo-social, justicia-penal, analitica-predictiva, sesgo-algoritmico, justicia-social, vision-por-computadora, etica-de-la-ia, alfabetizacion-en-ia, supervision-humana, salud-mental]
 date_added: 2026-07-05
 ---

@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [ciencia-ficcion, post-apocaliptico, terror]
 type: fiction
+visibility: public
 keywords: [colapso-civilizatorio, ciencia-y-sociedad, guerra-y-conflicto]
 date_added: 2026-07-05
 ---

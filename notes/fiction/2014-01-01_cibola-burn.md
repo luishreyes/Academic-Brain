@@ -10,6 +10,7 @@ rating: 4
 status: leído
 genre: [space-opera, ciencia-ficcion, thriller]
 type: fiction
+visibility: public
 keywords: [primer-contacto, ecologia-y-terraformacion, guerra-y-conflicto, colapso-civilizatorio]
 date_added: 2026-07-05
 ---

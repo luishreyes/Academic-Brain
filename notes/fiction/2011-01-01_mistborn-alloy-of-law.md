@@ -10,6 +10,7 @@ rating: 4
 status: leído
 genre: [fantasia]
 type: fiction
+visibility: public
 keywords: [sistemas-y-reglas, magia-dura]
 date_added: 2026-07-05
 ---

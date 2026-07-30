@@ -8,6 +8,7 @@ doi:
 pdf_ref: kosmyna_2025_your-brain-on-chatgpt.pdf
 sha256: 3125dd9c2d7082a3e753175542b92a16169b12230130301e8627e2db68e56758
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, pensamiento-critico, descarga-cognitiva, motivacion-y-compromiso-estudiantil, evaluacion-educativa, procesamiento-de-lenguaje-natural, psicologia-educativa]
 date_added: 2026-06-28
 ---

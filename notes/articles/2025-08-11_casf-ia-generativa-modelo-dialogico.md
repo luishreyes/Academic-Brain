@@ -5,6 +5,7 @@ publication: Preprints.org (preprint, no revisado por pares)
 date: 2025-08-11
 url: https://doi.org/10.20944/preprints202508.0727.v1
 type: article
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, evaluacion-educativa, integridad-academica, autorregulacion-del-aprendizaje, pensamiento-critico, agentes-de-ia, formacion-docente, etica-de-la-ia, equidad-educativa]
 date_added: 2026-06-27
 ---

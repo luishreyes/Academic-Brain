@@ -8,6 +8,7 @@ doi:
 pdf_ref: choudhuri_2026_thinking-less-trusting-more.pdf
 sha256: 3c5f8ff766c6f559ab93e42d501140aca61fda4bbe930830277b62580d9a71e3
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, pensamiento-critico, autorregulacion-del-aprendizaje, descarga-cognitiva, confianza-en-la-ia, sesgo-cognitivo, psicologia-educativa, psicometria, STEM, motivacion-y-compromiso-estudiantil]
 date_added: 2026-06-28
 ---

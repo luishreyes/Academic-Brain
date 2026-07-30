@@ -8,6 +8,7 @@ doi: 10.1201/9781003473183
 pdf_ref: cruz-2025-nanocarriers-polimericos.pdf
 sha256: 36c48e11010338c1bac6d2392bee6f1faaa9dd8330f68bca0841e26419892c7d
 type: paper
+visibility: public
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos]
 date_added: 2026-06-26
 ---

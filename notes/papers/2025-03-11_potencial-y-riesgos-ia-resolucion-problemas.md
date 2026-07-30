@@ -8,6 +8,7 @@ doi: 10.33902/JPR.202532099
 pdf_ref: memis_2025_ai-pitfalls-problem-solving.pdf
 sha256: e55e26107f4af9d3877a6db0f73cfa1d1cbe7bd8017e376646bb58f20b1bf7ff
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, capacidades-de-ia, pensamiento-critico, evaluacion-educativa, alucinaciones-de-ia, supervision-humana, psicologia-educativa]
 date_added: 2026-06-27
 ---

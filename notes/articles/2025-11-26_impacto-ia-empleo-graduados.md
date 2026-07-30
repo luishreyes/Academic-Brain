@@ -5,6 +5,7 @@ publication: IntuitionLabs.ai
 date: 2025-11-26
 url:
 type: article
+visibility: public
 keywords: [futuro-del-trabajo, inteligencia-artificial, educacion-superior, equidad-educativa, adopcion-de-tecnologia, regulacion-de-ia, alfabetizacion-en-ia, desigualdad-de-genero]
 date_added: 2026-06-28
 pdf_ref: intuitionlabs_2025_ai-graduate-jobs-trade-analysis.pdf

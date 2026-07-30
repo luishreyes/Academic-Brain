@@ -5,6 +5,7 @@ publication: OECD Publishing
 date: 2026
 url: https://doi.org/10.1787/062a7394-en
 type: article
+visibility: public
 keywords: [inteligencia-artificial, tutoria-con-ia, personalizacion-del-aprendizaje, aprendizaje-activo, creatividad, retroalimentacion-con-ia, evaluacion-educativa, formacion-docente, regulacion-de-ia, supervision-humana, educacion-k12, educacion-superior]
 date_added: 2026-06-28
 pdf_ref: oecd_2026_digital-education-outlook.pdf

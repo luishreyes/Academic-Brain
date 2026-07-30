@@ -9,6 +9,7 @@ rating: 3
 status: leído
 genre: [ficcion-literaria, mayoria-de-edad]
 type: fiction
+visibility: public
 keywords: [mayoria-de-edad, ciencia-y-sociedad]
 date_added: 2026-07-05
 ---

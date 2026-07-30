@@ -8,6 +8,7 @@ doi: 10.3390/soc15010006
 pdf_ref: gerlich_2025_cognitive-offloading-critical-thinking.pdf
 sha256: e90160a909e933f2f6e3ae29ff36990bd17057288f0a67bc9bbc5f5abf5a8d7f
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, descarga-cognitiva, pensamiento-critico, sesgo-cognitivo, etica-de-la-ia, educacion-superior, futuro-del-trabajo, adopcion-de-tecnologia, psicometria]
 date_added: 2026-06-28
 ---

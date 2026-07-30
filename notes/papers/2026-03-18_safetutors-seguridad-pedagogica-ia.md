@@ -8,6 +8,7 @@ doi: 10.48550/arXiv.2603.17373
 pdf_ref: hazra-2026-safetutors-seguridad-pedagogica.pdf
 sha256: bb940b510024bf617db57f07ff0de0da92f96de122f3a732c8c67605ffb083c5
 type: paper
+visibility: public
 keywords: [tutoria-con-ia, seguridad-de-ia, capacidades-de-ia, inteligencia-artificial, psicologia-educativa]
 date_added: 2026-06-27
 ---

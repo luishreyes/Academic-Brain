@@ -8,6 +8,7 @@ doi: 10.1016/j.foodres.2026.119233
 pdf_ref: duan-2026-emulsion-wow-soya-egcg.pdf
 sha256: a88ed473eaa1dba05aa5ac964b5040c2e05f0521fd2936be362aae71678c3d78
 type: paper
+visibility: public
 keywords: [emulsiones, ingenieria-de-alimentos, probioticos, biomateriales, microscopia-de-caracterizacion]
 date_added: 2026-07-05
 ---

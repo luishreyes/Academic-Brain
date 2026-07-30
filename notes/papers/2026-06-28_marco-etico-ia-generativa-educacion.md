@@ -8,6 +8,7 @@ doi: "10.1108/IJILT-06-2024-0113"
 pdf_ref: ofosu-asare_2025_genai-ethical-framework.pdf
 sha256: 53ccad973ede76b37cdcbec5ed47e6afec62591365d4cafd2b30b3aed12b1dff
 type: paper
+visibility: public
 keywords: [etica-de-la-ia, inteligencia-artificial, educacion-k12, integridad-academica, revision-sistematica-de-literatura, equidad-educativa, supervision-humana, regulacion-de-ia, analisis-bibliometrico, personalizacion-del-aprendizaje]
 date_added: 2026-06-28
 ---

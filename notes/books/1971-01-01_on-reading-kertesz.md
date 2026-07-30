@@ -6,6 +6,7 @@ publisher: Grossman Publishers
 url: 
 isbn: "9780393066562"
 type: book
+visibility: public
 keywords: [fotografia, fotografia-en-blanco-y-negro, composicion-visual]
 date_added: 2026-07-08
 ---

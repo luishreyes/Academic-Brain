@@ -6,6 +6,7 @@ publisher: Avid Reader Press
 url: 
 isbn: 978-1-6680-2380-4
 type: book
+visibility: public
 keywords: [economia-de-la-innovacion, politica-social, sostenibilidad, futuro-del-trabajo]
 date_added: 2026-07-05
 ---

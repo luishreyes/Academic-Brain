@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [ciencia-ficcion, space-opera, clasico-moderno]
 type: fiction
+visibility: public
 keywords: [ciencia-y-sociedad, teoria-de-juegos, colapso-civilizatorio, poder-y-persuasion]
 date_added: 2026-07-05
 ---

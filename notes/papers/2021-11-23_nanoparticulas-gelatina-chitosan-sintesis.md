@@ -8,6 +8,7 @@ doi: 10.3390/polym13234078
 pdf_ref: gonzalez-melo2021-nanoparticulas-gelatina-chitosan.pdf
 sha256: 06dc4c01f09dfa5d0929066987ddacd64f0c910ef509513dadcabf528ef0cc9c
 type: paper
+visibility: public
 keywords: [biomateriales, nanociencia, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26
 ---

@@ -5,6 +5,7 @@ publication: Institution of Chemical Engineers (IChemE)
 date: 2025
 url: 
 type: article
+visibility: public
 keywords: [etica-de-la-ciencia, ingenieria-quimica, seguridad-de-procesos, sostenibilidad, etica-de-la-ia, supervision-humana, adopcion-de-tecnologia]
 date_added: 2026-06-28
 pdf_ref: icheme_2025_code-of-conduct-ethics.pdf

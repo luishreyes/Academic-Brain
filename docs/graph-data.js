@@ -2,11 +2,11 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 390,
+    "papers": 391,
     "articles": 53,
     "books": 75,
     "fiction": 65,
-    "concepts": 212
+    "concepts": 216
   },
   "nodes": [
     {
@@ -56,7 +56,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Procesos por los cuales individuos, organizaciones o comunidades incorporan nuevas tecnologías y prácticas; incluye la difusión de innovaciones, las barreras socioeconómicas, culturales e institucionales, y los modelos de extensión y transferencia tecnológica.",
       "literature": "",
       "path": "concepts/adopcion-de-tecnologia.md",
-      "degree": 57
+      "degree": 58
     },
     {
       "id": "concepts/agentes-de-ia",
@@ -350,6 +350,23 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 13
     },
     {
+      "id": "concepts/bioseguridad",
+      "kind": "concept",
+      "label": "bioseguridad",
+      "keyword": "bioseguridad",
+      "aliases": [
+        "biosafety",
+        "biosecurity",
+        "bioprotección",
+        "contención biológica",
+        "gain-of-function"
+      ],
+      "definition": "Conjunto de prácticas, normas y decisiones orientadas a gestionar los riesgos derivados del uso de organismos y técnicas biológicas; abarca tanto la contención de material peligroso (biosafety) como la prevención de su uso malicioso (biosecurity), y su reencuadre como optimización del balance entre oportunidad y riesgo.",
+      "literature": "",
+      "path": "concepts/bioseguridad.md",
+      "degree": 1
+    },
+    {
       "id": "concepts/biosurfactantes",
       "kind": "concept",
       "label": "biosurfactantes",
@@ -481,7 +498,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Relación entre la producción científica y sus contextos sociales, políticos y culturales; estudia cómo la ciencia es construida, legitimada y aplicada en sociedad.",
       "literature": "",
       "path": "concepts/ciencia-y-sociedad.md",
-      "degree": 45
+      "degree": 46
     },
     {
       "id": "concepts/colapso-civilizatorio",
@@ -666,6 +683,25 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/creatividad.md",
       "degree": 27
+    },
+    {
+      "id": "concepts/cultivos-transgenicos",
+      "kind": "concept",
+      "label": "cultivos transgenicos",
+      "keyword": "cultivos-transgenicos",
+      "aliases": [
+        "GM crops",
+        "transgénicos",
+        "OGM",
+        "GMO",
+        "cultivos editados",
+        "gene-edited crops",
+        "biotecnología verde"
+      ],
+      "definition": "Plantas de cultivo modificadas por ingeniería genética o edición génica para conferir rasgos como tolerancia a herbicidas, resistencia a insectos o cambios de arquitectura; incluye el debate sobre su evaluación regulatoria, su impacto ambiental y agronómico, y su aceptación social.",
+      "literature": "",
+      "path": "concepts/cultivos-transgenicos.md",
+      "degree": 1
     },
     {
       "id": "concepts/cultura-organizacional",
@@ -1268,7 +1304,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Estudio filosófico del conocimiento bajo incertidumbre y riesgo; incluye el problema de la inducción, la distinción entre riesgo medible e incertidumbre radical, y las implicaciones epistemológicas de distribuciones con colas pesadas.",
       "literature": "Los cuatro libros comparten un diagnóstico: la mente humana colapsa la distribución completa de resultados posibles en el único resultado que efectivamente observó, y ese colapso es la raíz de casi todo mal razonamiento sobre el riesgo. Taleb lo formaliza con mayor precisión matemática: en el capítulo 6 de *Fooled by Randomness* distingue entre la media y la mediana de una distribución asimétrica para mostrar que una estrategia puede \"ganar\" la mayoría de las veces y aun así tener una esperanza matemática negativa —el desastre ocasional pesa más que la racha de victorias pequeñas—, y en los capítulos 2 y 3 propone la simulación mental de \"historias alternativas\" (Monte Carlo) como antídoto: juzgar una decisión no por el resultado que produjo sino por el abanico de mundos que pudo haber producido. Galloway, sin citarlo directamente pero operando en el mismo terreno financiero, traduce esa intuición en una receta práctica: rechaza a Jay-Z y Warren Buffett como modelos de conducta porque son, en sus palabras, anomalías estadísticas —la cola favorable de una distribución, no la norma reproducible— y propone en su lugar la diversificación como forma de no apostar el patrimonio a una sola trayectoria. Es notable que Galloway aplique el mismo escrutinio a sí mismo: admite que su propia estrategia de alto riesgo \"funcionó, o tuvo suerte\", una honestidad epistémica poco frecuente en el género de autoayuda financiera.\n\nGladwell traslada el problema del terreno financiero al interpersonal, y ahí el mal manejo del riesgo resulta todavía más sistemático: los estudios que cita muestran que los humanos —incluidos jueces, agentes de la CIA y policías entrenados— apenas superamos el azar al detectar el engaño, porque operamos con un sesgo evolutivo hacia la \"tendencia a la verdad\" (*truth-default*, Tim Levine) que nos vuelve funcionales en sociedad pero ciegos ante el extraño que sí miente. El capítulo sobre Bernie Madoff es el punto de contacto más directo con Taleb: Harry Markopolos calculó, con herramientas estadísticas simples, que los retornos de Madoff eran matemáticamente imposibles —el equivalente a detectar una asimetría de cola que todos preferían no ver— y fue ignorado durante años precisamente por desafiar el consenso institucional. Es el mismo patrón que documenta Edmondson en su capítulo sobre el colapso de Bridgewater Associates: el sesgo de confirmación y la aversión a la pérdida no solo distorsionan el juicio individual sino que penalizan socialmente a quien razona correctamente sobre lo improbable.\n\nEdmondson es quien más se aleja del diagnóstico puramente descriptivo para ofrecer una taxonomía normativa del riesgo: distingue el fracaso inteligente (la exploración necesaria en territorio genuinamente incierto, donde el riesgo es constitutivo del descubrimiento) del fracaso básico (el error evitable en territorio conocido, producto de descuido o sobreconfianza) y del fracaso complejo (la falla sistémica donde múltiples causas menores se combinan, como en el naufragio del Torrey Canyon en 1967). Su \"espectro de incertidumbre-ejecución\" (cap. 6) es, en efecto, una versión operacionalizada de la distinción taleana entre riesgo medible e incertidumbre radical: en dominios de baja incertidumbre, la ejecución impecable es la norma correcta y el fracaso ahí es evitable; en dominios de alta incertidumbre, insistir en la certeza previa es el verdadero error epistémico, y el fracaso inteligente es la estrategia racional. Donde Taleb y Gladwell terminan en una respuesta individual —el estoicismo ante la aleatoriedad, la humildad ante el extraño que no podemos leer—, Edmondson es la única que convierte esa humildad en un marco clasificatorio replicable: distinguir de qué tipo de riesgo se trata, antes de reaccionar a su resultado, es la disciplina epistémica que los otros tres libros reclaman sin llegar a operacionalizar.",
       "path": "concepts/epistemologia-del-riesgo.md",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "concepts/epistemologia",
@@ -1330,7 +1366,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Dimensiones normativas y de responsabilidad en la producción y aplicación del conocimiento científico; incluye integridad científica, consentimiento, impacto social y dilemas morales de la investigación.",
       "literature": "",
       "path": "concepts/etica-de-la-ciencia.md",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "concepts/etica-de-la-ia",
@@ -2030,6 +2066,23 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/ingenieria-quimica.md",
       "degree": 114
+    },
+    {
+      "id": "concepts/innovacion-responsable",
+      "kind": "concept",
+      "label": "innovacion responsable",
+      "keyword": "innovacion-responsable",
+      "aliases": [
+        "responsible innovation",
+        "RI",
+        "innovación responsable",
+        "responsible research and innovation",
+        "RRI"
+      ],
+      "definition": "Marco que exige a quien desarrolla una tecnología anticipar sus efectos, involucrar a las partes afectadas y responder por los resultados, más allá del cumplimiento normativo mínimo; incluye estándares de certificación y el compromiso recíproco de la sociedad civil en el debate público.",
+      "literature": "",
+      "path": "concepts/innovacion-responsable.md",
+      "degree": 1
     },
     {
       "id": "concepts/instante-decisivo",
@@ -2991,6 +3044,24 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 63
     },
     {
+      "id": "concepts/regulacion-de-la-biotecnologia",
+      "kind": "concept",
+      "label": "regulacion de la biotecnologia",
+      "keyword": "regulacion-de-la-biotecnologia",
+      "aliases": [
+        "principio de precaución",
+        "precautionary principle",
+        "principio de innovación",
+        "innovation principle",
+        "política regulatoria",
+        "regulación de OGM"
+      ],
+      "definition": "Regímenes normativos que autorizan o restringen aplicaciones biotecnológicas, y la tensión entre el principio de precaución —centrado en detectar daño potencial— y el principio de innovación —que pondera el costo de oportunidad de no innovar—; incluye la asimetría entre la regulación de la biotecnología médica y la agrícola.",
+      "literature": "",
+      "path": "concepts/regulacion-de-la-biotecnologia.md",
+      "degree": 1
+    },
+    {
       "id": "concepts/replicabilidad-cientifica",
       "kind": "concept",
       "label": "replicabilidad cientifica",
@@ -3272,7 +3343,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Principio de satisfacer las necesidades presentes sin comprometer la capacidad de las generaciones futuras; en educación superior incluye la integración de los ODS en el currículo, el campus como laboratorio vivo y la formación de ciudadanos comprometidos con el medioambiente y la equidad social.",
       "literature": "",
       "path": "concepts/sostenibilidad.md",
-      "degree": 34
+      "degree": 35
     },
     {
       "id": "concepts/supervision-humana",
@@ -4490,6 +4561,32 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-06-26",
       "path": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce.md",
       "pdf_ref": "rodriguez2021-cerveza-sin-alcohol-sonido.pdf"
+    },
+    {
+      "id": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad",
+      "kind": "paper",
+      "label": "New Frontiers in Biosafety and Biosecurity",
+      "authors": [
+        "Alan Raybould"
+      ],
+      "year": "2021",
+      "venue": "Frontiers in Bioengineering and Biotechnology",
+      "url": "https://doi.org/10.3389/fbioe.2021.727386",
+      "doi": "10.3389/fbioe.2021.727386",
+      "keywords": [
+        "bioseguridad",
+        "regulacion-de-la-biotecnologia",
+        "cultivos-transgenicos",
+        "innovacion-responsable",
+        "ciencia-y-sociedad",
+        "etica-de-la-ciencia",
+        "epistemologia-del-riesgo",
+        "sostenibilidad",
+        "adopcion-de-tecnologia"
+      ],
+      "date": "2026-07-30",
+      "path": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad.md",
+      "pdf_ref": "raybould_2021_new-frontiers-biosafety-biosecurity.pdf"
     },
     {
       "id": "notes/papers/2021-09-01_genome-editing-parkinson",
@@ -19747,6 +19844,51 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce",
       "target": "concepts/comportamiento-del-consumidor",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad",
+      "target": "concepts/bioseguridad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad",
+      "target": "concepts/regulacion-de-la-biotecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad",
+      "target": "concepts/cultivos-transgenicos",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad",
+      "target": "concepts/innovacion-responsable",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad",
+      "target": "concepts/ciencia-y-sociedad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad",
+      "target": "concepts/etica-de-la-ciencia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad",
+      "target": "concepts/epistemologia-del-riesgo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad",
+      "target": "concepts/sostenibilidad",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2021-07-21_nuevas-fronteras-bioseguridad",
+      "target": "concepts/adopcion-de-tecnologia",
       "kind": "keyword"
     },
     {

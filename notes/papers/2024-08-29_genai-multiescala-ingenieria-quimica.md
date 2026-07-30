@@ -8,6 +8,7 @@ doi: 10.3389/fceng.2024.1458156
 pdf_ref: decardinelson_2024_genai-multiscale-cheme.pdf
 sha256: c0846e2315991437f9dc6f0fc1057e156a913a7616de9288e85447fb2b193d8c
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, ingenieria-quimica, descubrimiento-cientifico, modelado-molecular, quimica-computacional, simulacion-computacional, agentes-de-ia, proteinas-recombinantes, alucinaciones-de-ia, sostenibilidad]
 date_added: 2026-06-27
 ---

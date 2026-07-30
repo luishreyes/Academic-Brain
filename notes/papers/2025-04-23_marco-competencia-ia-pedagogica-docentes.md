@@ -8,6 +8,7 @@ doi: 10.1111/ejed.70117
 pdf_ref: zou_2025_pedagogic-ai-competence.pdf
 sha256: 4297e529f1275bc570a314d0b2f248efab7a29e9136437b9c2d2b93e483118bd
 type: paper
+visibility: public
 keywords: [formacion-docente, alfabetizacion-en-ia, inteligencia-artificial, tpack, ensenanza-de-lenguas, etica-de-la-ia, evaluacion-educativa, adopcion-de-tecnologia, revision-sistematica-de-literatura]
 date_added: 2026-06-28
 ---

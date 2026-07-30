@@ -8,6 +8,7 @@ doi:
 pdf_ref: pyakurel_2024_authentic-assessment-engineering.pdf
 sha256: b1d934ec2436a3919c851ea090d54469f61835768d6b0c38521d483ff961598c
 type: paper
+visibility: public
 keywords: [evaluacion-educativa, educacion-en-ingenieria, integridad-academica, inteligencia-artificial, futuro-del-trabajo, pensamiento-critico, sostenibilidad, educacion-superior]
 date_added: 2026-06-27
 ---

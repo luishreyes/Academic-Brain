@@ -5,6 +5,7 @@ publication: P&M Science
 date: 2023-10-01
 url: 
 type: article
+visibility: public
 keywords: [sostenibilidad, ingenieria-de-alimentos, comportamiento-del-consumidor, economia-circular]
 date_added: 2026-06-26
 ---

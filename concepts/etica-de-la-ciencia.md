@@ -24,3 +24,4 @@ Dimensiones normativas y de responsabilidad en la producción y aplicación del 
 - [[notes/books/2016-01-01_the-gene-mukherjee]]
 - [[notes/books/2020-01-01_the-parasitic-mind-saad]]
 - [[notes/books/2021-01-01_code-breaker-isaacson]]
+- [[notes/papers/2021-07-21_nuevas-fronteras-bioseguridad]]

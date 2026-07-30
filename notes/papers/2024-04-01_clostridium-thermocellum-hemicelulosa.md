@@ -8,6 +8,7 @@ doi: 10.1016/j.ymben.2024.03.008
 pdf_ref: chou-2024-clostridium-thermocellum-hemicelulosa.pdf
 sha256: e41d3cd8051bdf7e467a0f7e77a403a5516539d086db1914433c9674c2d3b1ba
 type: paper
+visibility: public
 keywords: [ingenieria-metabolica, biomasa-lignocelulosica, biocombustibles, evolucion-de-laboratorio, biologia-molecular, proteinas-recombinantes]
 date_added: 2026-06-26
 ---

@@ -8,6 +8,7 @@ doi: 10.3390/su17104706
 pdf_ref: becerra-2025-extension-palma-dinamica-sistemas.pdf
 sha256: 6745052b857a9add0593b85b2e1dd83c63e484296573250016b03b0906131bf3
 type: paper
+visibility: public
 keywords: [sostenibilidad, desarrollo-rural, adopcion-de-tecnologia, politica-social]
 date_added: 2026-06-26
 ---

@@ -5,6 +5,7 @@ publication: Revista P&M
 date: 2022-04-25
 url: 
 type: article
+visibility: public
 keywords: [comportamiento-del-consumidor, ingenieria-de-alimentos, salud-y-sociedad]
 date_added: 2026-06-26
 ---

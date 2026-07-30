@@ -9,6 +9,7 @@ rating: 5
 status: leído
 genre: [ciencia-ficcion, thriller, ficcion-epistolar]
 type: fiction
+visibility: public
 keywords: [primer-contacto, sistemas-y-reglas, guerra-y-conflicto]
 date_added: 2026-07-05
 ---

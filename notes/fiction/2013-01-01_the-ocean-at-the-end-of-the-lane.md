@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [fantasia, mitologia]
 type: fiction
+visibility: public
 keywords: [mitologia-y-religion, mayoria-de-edad]
 date_added: 2026-07-05
 ---

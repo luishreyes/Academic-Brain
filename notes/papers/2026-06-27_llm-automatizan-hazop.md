@@ -8,6 +8,7 @@ doi: 10.1016/j.ssci.2025.107039
 pdf_ref: lee_2026_llm-automate-hazop.pdf
 sha256: 73078993b97866221de027a27c359646c295336410c3d4d8dfa09a25a6ec5f0b
 type: paper
+visibility: public
 keywords: [seguridad-de-procesos, ingenieria-quimica, inteligencia-artificial, capacidades-de-ia, supervision-humana, procesamiento-de-lenguaje-natural]
 date_added: 2026-06-27
 ---

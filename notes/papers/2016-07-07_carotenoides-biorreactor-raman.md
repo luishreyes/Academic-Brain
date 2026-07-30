@@ -8,6 +8,7 @@ doi: 10.1007/s10295-016-1808-9
 pdf_ref: olson2016-carotenoides-biorreactor-raman.pdf
 sha256: 9ba2e04a24e32c181a93b737e4bc3e92443ab4a7f7ee206c713d73249ec51ec2
 type: paper
+visibility: public
 keywords: [ingenieria-metabolica, evolucion-de-laboratorio, metabolitos-secundarios, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26
 ---

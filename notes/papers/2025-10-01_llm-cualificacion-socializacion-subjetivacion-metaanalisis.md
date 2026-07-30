@@ -8,6 +8,7 @@ doi:
 pdf_ref: huang_2025_llm-qualification-socialisation-metaanalysis.pdf
 sha256: 0a391ff3c8b68b25c472f8e1e54cb8f4a4808bb3657885398c32d546dc3aa28a
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, educacion-superior, tutoria-con-ia, evaluacion-educativa, autorregulacion-del-aprendizaje, motivacion-y-compromiso-estudiantil, personalizacion-del-aprendizaje, pensamiento-critico]
 date_added: 2026-06-28
 ---

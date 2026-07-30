@@ -8,6 +8,7 @@ doi: 10.1016/j.ijbiomac.2026.152836
 pdf_ref: rusu_2026_chitosan-nanogels-melanoma.pdf
 sha256: ad023f9531efd03c9fc72504585e5d2d860d0348b77edaa0b9d8737bf40dec3a
 type: paper
+visibility: public
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos, ingenieria-quimica, nanomotores]
 date_added: 2026-07-02
 ---

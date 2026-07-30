@@ -8,6 +8,7 @@ doi: 10.3390/info17020162
 pdf_ref: shahid_2026_chatgpt-bloom-chemeng-education.pdf
 sha256: 641ffb8741a724b3c426a2f68223f7b1863433c4cfbd9210571dcfa3fb2d0bc1
 type: paper
+visibility: public
 keywords: [capacidades-de-ia, taxonomia-de-bloom, educacion-en-ingenieria, ingenieria-quimica, evaluacion-educativa, alfabetizacion-en-ia, pensamiento-critico, alucinaciones-de-ia, integridad-academica, inteligencia-artificial]
 date_added: 2026-06-27
 ---

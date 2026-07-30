@@ -8,6 +8,7 @@ doi: "10.1073/pnas.2602649123"
 pdf_ref: trofimenko2026-poros-transitorios-cpp.pdf
 sha256: a758882bf9f63ef87fd0bc8c7ff098d3055022868365f8eb9bfd02b68d3c1755
 type: paper
+visibility: public
 keywords: [peptidos-bioactivos, biologia-molecular, desarrollo-de-farmacos, nanomedicina, neurociencia, biofisica-de-membranas, electrofisiologia]
 date_added: 2026-07-07
 ---

@@ -8,6 +8,7 @@ doi: 10.3390/info15110676
 pdf_ref: batista_2024_genai-he-trends.pdf
 sha256: 9a2e3155dd31fee467a565996be1a44e5d657625c1f057345378299d81c30aa9
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, revision-sistematica-de-literatura, integridad-academica, evaluacion-educativa, adopcion-de-tecnologia, etica-de-la-ia, regulacion-de-ia, pensamiento-critico, futuro-del-trabajo]
 date_added: 2026-06-28
 ---

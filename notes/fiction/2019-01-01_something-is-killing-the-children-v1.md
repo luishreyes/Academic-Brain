@@ -9,6 +9,7 @@ rating: 5
 status: leído
 genre: [novela-grafica, terror]
 type: fiction
+visibility: public
 keywords: [mayoria-de-edad]
 date_added: 2026-07-05
 ---

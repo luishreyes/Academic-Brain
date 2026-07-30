@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_10
 pdf_ref: ch10-trabajo-social-escolar.pdf
 sha256: b0b2a768e0b3420df920b718816059c0f6bb320852d546c285d4f9048cfad825
 type: paper
+visibility: public
 keywords: [trabajo-social, educacion-k12, salud-mental, inteligencia-artificial, analitica-predictiva, procesamiento-de-lenguaje-natural, vision-por-computadora, sesgo-algoritmico, equidad-educativa, ia-explicable]
 date_added: 2026-07-05
 ---

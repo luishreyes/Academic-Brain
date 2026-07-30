@@ -8,6 +8,7 @@ doi:
 pdf_ref: liu_2026_metaclass_arxiv.pdf
 sha256: d94b083211a38de25cba82848a0c82308004a08588d2c2075683240a046d180d
 type: paper
+visibility: public
 keywords: [tutoria-con-ia, autorregulacion-del-aprendizaje, psicologia-educativa, capacidades-de-ia, razonamiento-cuantitativo-llm, retroalimentacion-con-ia, sobredependencia-de-la-ia, aprendizaje-activo]
 date_added: 2026-06-28
 ---

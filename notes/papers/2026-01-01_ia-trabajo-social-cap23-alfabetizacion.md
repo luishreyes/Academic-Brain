@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_23
 pdf_ref: ch23-alfabetizacion-competencia-ia.pdf
 sha256: c357aff6f2cce1341748c7b1b3d78cc0dccd40826390c749da92c51c44a7124c
 type: paper
+visibility: public
 keywords: [trabajo-social, alfabetizacion-en-ia, etica-de-la-ia, pensamiento-critico, educacion-superior, acreditacion-academica, formacion-docente, brecha-digital, justicia-social]
 date_added: 2026-07-05
 ---

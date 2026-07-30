@@ -8,6 +8,7 @@ doi: 10.3390/pharmaceutics12060561
 pdf_ref: ramirez2020-nanoparticulas-entrega-plasmidos.pdf
 sha256: 50ae3ae79f240a773dfa3fb31c03585bc2d73a963c5646ca5601e9eee9e7f8d8
 type: paper
+visibility: public
 keywords: [nanociencia, biomateriales, terapia-genica, ingenieria-quimica]
 date_added: 2026-06-26
 ---

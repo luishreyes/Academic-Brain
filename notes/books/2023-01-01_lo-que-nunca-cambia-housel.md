@@ -6,6 +6,7 @@ publisher: Planeta
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [finanzas-personales, sesgo-cognitivo, epistemologia-del-riesgo, historia-de-la-innovacion]
 date_added: 2026-07-05
 ---

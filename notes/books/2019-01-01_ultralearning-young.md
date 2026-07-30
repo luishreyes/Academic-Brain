@@ -6,6 +6,7 @@ publisher: HarperBusiness
 url: 
 isbn: 978-0-06-285268-7
 type: book
+visibility: public
 keywords: [autorregulacion-del-aprendizaje, personalizacion-del-aprendizaje, desarrollo-del-caracter]
 date_added: 2026-07-05
 ---

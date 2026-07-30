@@ -8,6 +8,7 @@ doi: 10.1002/bit.26590
 pdf_ref: xiong2018-clostridium-xylose-celulosa.pdf
 sha256: 4b4f9e795ca10a7a63ff46b36537df96c45a8ae3b8739e71862c436afc5cda37
 type: paper
+visibility: public
 keywords: [biomasa-lignocelulosica, ingenieria-metabolica, biocombustibles, biologia-molecular, genomica, ingenieria-quimica]
 date_added: 2026-06-26
 ---

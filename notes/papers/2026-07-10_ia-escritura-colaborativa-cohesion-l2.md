@@ -8,6 +8,7 @@ doi: 10.1016/j.actpsy.2026.107355
 pdf_ref: han2026-ia-escritura-colaborativa-l2.pdf
 sha256: f35512467bf49012cb215ed5dbb6383ca0a2c59c5b837f6fee4804d54fe751e4
 type: paper
+visibility: public
 keywords: [ensayo-controlado-aleatorio, ensenanza-de-lenguas, motivacion-y-compromiso-estudiantil, sobredependencia-de-la-ia, tutoria-con-ia, educacion-superior]
 date_added: 2026-07-13
 ---

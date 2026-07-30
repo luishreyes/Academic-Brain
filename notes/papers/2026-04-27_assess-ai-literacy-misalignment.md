@@ -8,6 +8,7 @@ doi: 10.1145/3785022.3785088
 pdf_ref: zhang_2026_assess-ai-literacy-misalignment.pdf
 sha256: 96963326a8b8686e7b8ae50830b713f8553bcb7e884eed48b3422e834fbe0a71
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, formacion-docente, educacion-k12, evaluacion-educativa, sesgo-cognitivo, etica-de-la-ia, adopcion-de-tecnologia]
 date_added: 2026-06-27
 ---

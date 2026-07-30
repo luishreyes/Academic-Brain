@@ -8,6 +8,7 @@ doi: 10.1016/B978-0-443-15393-8.00005-1
 pdf_ref: reyes-2025-amp-analisis-estadistico.pdf
 sha256: 18cc2ebdff9d39568cde7105496d31d2fe4e52ce0fb9041565df22e32d8b580b
 type: paper
+visibility: public
 keywords: [ciencia-de-datos, peptidos-bioactivos, bioquimica-computacional]
 date_added: 2026-06-26
 ---

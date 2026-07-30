@@ -8,6 +8,7 @@ doi: 10.1016/j.heliyon.2022.e09031
 pdf_ref: benincore2022-ids-interactoma-yeast-two-hybrid.pdf
 sha256: 43ae197bd4dc53f323cacb6d123c3cf44678f70b4d97d64d9bca41e14646cdfd
 type: paper
+visibility: public
 keywords: [enfermedades-raras, proteinas-recombinantes, biologia-molecular, genomica, ingenieria-quimica]
 date_added: 2026-06-26
 ---

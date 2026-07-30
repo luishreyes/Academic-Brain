@@ -8,6 +8,7 @@ doi:
 pdf_ref: paul_2025_genai-eng-scoping-wip.pdf
 sha256: 9814518de5e72fb0b5180c3b6fda3c0065128ef477c9c7c7f78e66ab32ab7e7c
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-en-ingenieria, revision-sistematica-de-literatura, educacion-superior, futuro-del-trabajo]
 date_added: 2026-06-28
 ---

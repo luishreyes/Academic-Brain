@@ -6,6 +6,7 @@ date: 2026-02-11
 url: https://doi.org/10.1038/d41586-025-03490-x
 doi: 10.1038/d41586-025-03490-x
 type: article
+visibility: public
 keywords:
   - bienestar-academico
   - ciencia-y-sociedad

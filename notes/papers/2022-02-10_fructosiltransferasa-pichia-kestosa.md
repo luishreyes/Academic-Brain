@@ -8,6 +8,7 @@ doi: 10.1016/j.nbt.2022.02.005
 pdf_ref: alvarado-obando2022-fructosiltransferasa-pichia-kestosa.pdf
 sha256: a8bfb791c507244ae098726dc2983f217a2b3597de06e050228ce8871957f2ca
 type: paper
+visibility: public
 keywords: [ingenieria-metabolica, biologia-molecular, ingenieria-de-alimentos, ingenieria-quimica]
 date_added: 2026-06-26
 ---

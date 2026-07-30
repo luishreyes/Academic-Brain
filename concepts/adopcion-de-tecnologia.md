@@ -66,3 +66,4 @@ Procesos por los cuales individuos, organizaciones o comunidades incorporan nuev
 - [[notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria]]
 - [[notes/books/2000-01-01_the-tipping-point-gladwell]]
 - [[notes/papers/2026-01-01_clonacion-voz-ia-pedagogia-medica]]
+- [[notes/papers/2021-07-21_nuevas-fronteras-bioseguridad]]

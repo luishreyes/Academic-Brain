@@ -6,6 +6,7 @@ publisher: Random House
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [comunicacion-interpersonal, psicologia-del-bienestar, filosofia, psicologia-de-la-personalidad]
 date_added: 2026-07-05
 ---

@@ -8,6 +8,7 @@ doi: 10.1007/s40979-026-00213-1
 pdf_ref: hadra_2026_evaluating-ai-detectors-efl.pdf
 sha256: b4e2968ef21875369b2fe5549ea4276475f73c68d9750d79caf79fb65a3ee317
 type: paper
+visibility: public
 keywords: [deteccion-de-texto-ia, integridad-academica, inteligencia-artificial, ensenanza-de-lenguas, equidad-educativa, evaluacion-educativa, etica-de-la-ia, capacidades-de-ia, educacion-superior]
 date_added: 2026-06-28
 ---

@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_21
 pdf_ref: ch21-investigacion-trabajo-social.pdf
 sha256: 51439a2f8016f10601947b89baa193673990aef6e6de831068f71766b585b434
 type: paper
+visibility: public
 keywords: [trabajo-social, inteligencia-artificial, ciencia-de-datos, procesamiento-de-lenguaje-natural, analitica-predictiva, vision-por-computadora, agentes-de-ia, generacion-aumentada-por-recuperacion, ia-explicable, sesgo-algoritmico, supervision-humana, proteccion-infantil]
 date_added: 2026-07-05
 ---

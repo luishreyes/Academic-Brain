@@ -8,6 +8,7 @@ doi:
 pdf_ref: alimin_2026_chatpid-graphrag-engineering-diagrams.pdf
 sha256: d46327616f634bf9bfbe217829ee8218a9ffe47de4f4ceccc32c7e8d4c151deb
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, agentes-de-ia, alucinaciones-de-ia, capacidades-de-ia, ingenieria-quimica, grafos-de-conocimiento, generacion-aumentada-por-recuperacion, supervision-humana]
 date_added: 2026-06-27
 ---

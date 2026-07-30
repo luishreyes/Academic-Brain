@@ -8,6 +8,7 @@ doi: 10.1111/1468-229x.70092
 pdf_ref: gerteis_2026_writing-against-the-machine.pdf
 sha256: 1cf64319ba1e7c16ac7365fc11bf67da78d10c6023784134281778e3f6863b4b
 type: paper
+visibility: public
 keywords: [historiografia, humanidades, epistemologia, escritura-academica, inteligencia-artificial, pensamiento-critico, alfabetizacion-en-ia, alucinaciones-de-ia, sesgo-algoritmico, integridad-academica]
 date_added: 2026-06-30
 ---

@@ -8,6 +8,7 @@ doi: 10.3390/antibiotics9120854
 pdf_ref: ruiz2020-peptidos-antimicrobianos-ia.pdf
 sha256: 91965190ff894650ff69f2623efdf4bd9ef02e3407e45f6ef93f4a3197aac3ac
 type: paper
+visibility: public
 keywords: [biologia-molecular, bioquimica-computacional, inteligencia-artificial, ingenieria-quimica]
 date_added: 2026-06-26
 ---

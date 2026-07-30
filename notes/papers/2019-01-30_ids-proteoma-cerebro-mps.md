@@ -8,6 +8,7 @@ doi: 10.1016/j.heliyon.2019.e01667
 pdf_ref: cardona2019-ids-proteoma-cerebro.pdf
 sha256: d2812d9fa81d8c943cbd7b0645c0fb8ca37b1e8844139c3f32108b8e8fff6c9f
 type: paper
+visibility: public
 keywords: [enfermedades-raras, biologia-molecular, bioquimica-computacional, genomica, ingenieria-quimica]
 date_added: 2026-06-26
 ---

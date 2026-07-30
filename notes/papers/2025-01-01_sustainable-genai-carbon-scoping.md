@@ -8,6 +8,7 @@ doi:
 pdf_ref: kim_2025_sustainable-genai-carbon-scoping.pdf
 sha256: b28bc53c33200835651b1f57dffae708ca135b40b6ca1f8b73ac30123b1eab57
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, huella-ambiental-de-la-ia, sostenibilidad, revision-sistematica-de-literatura, regulacion-de-ia, capacidades-de-ia]
 date_added: 2026-06-28
 ---

@@ -8,6 +8,7 @@ doi: 10.1126/science.zet3i5g
 pdf_ref: glowacki2026-contrato-de-ia-en-el-aula.pdf
 sha256: 94342d25d75f99c4dc538e31ff50e526c9e601904ae209f646cc1f724c2dc1a3
 type: article
+visibility: public
 keywords: [inteligencia-artificial, alfabetizacion-en-ia, integridad-academica, pensamiento-critico, evaluacion-educativa, educacion-superior, educacion-en-programacion, sobredependencia-de-la-ia, descarga-cognitiva, futuro-del-trabajo]
 date_added: 2026-07-09
 ---

@@ -7,6 +7,7 @@ url: https://www.abet.org
 pdf_ref: abet_2025_eac-criteria-2025-2026.pdf
 sha256: 89d3124c5a6c77d6d21e5d58f0c3f7948273876f27c093883ed05e6740e8d031
 type: article
+visibility: public
 keywords: [educacion-en-ingenieria, educacion-superior, evaluacion-educativa, etica-de-la-ciencia, STEM, sostenibilidad]
 date_added: 2026-06-28
 ---

@@ -8,6 +8,7 @@ doi: 10.1016/B978-0-443-15393-8.00001-4
 pdf_ref: reyes-2025-amp-metodos-bioinformaticos.pdf
 sha256: 721c77a5014e29c56d43f77106cffd1f19b5e57dae4499119f5d01323001b859
 type: paper
+visibility: public
 keywords: [peptidos-bioactivos, bioquimica-computacional, desarrollo-de-farmacos, ciencia-de-datos]
 date_added: 2026-06-26
 ---

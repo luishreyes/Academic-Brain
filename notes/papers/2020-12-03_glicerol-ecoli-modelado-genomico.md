@@ -8,6 +8,7 @@ doi: 10.1002/bbb.2205
 pdf_ref: tafur2021-glicerol-ecoli-modelado-genomico.pdf
 sha256: 7b8726f254972e7ad69de45120e35aaef81f8f016b6ee54602e21a1c0c3f3e90
 type: paper
+visibility: public
 keywords: [ingenieria-metabolica, biocombustibles, genomica, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26
 ---

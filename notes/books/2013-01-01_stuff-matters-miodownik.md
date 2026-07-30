@@ -6,6 +6,7 @@ publisher: Houghton Mifflin Harcourt
 url: 
 isbn: 978-0-544-23604-2
 type: book
+visibility: public
 keywords: [ciencia-de-materiales, historia-de-la-innovacion, comunicacion-cientifica]
 date_added: 2026-07-05
 ---

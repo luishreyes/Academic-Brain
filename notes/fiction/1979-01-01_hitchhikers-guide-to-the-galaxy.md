@@ -9,6 +9,7 @@ rating: 5
 status: leído
 genre: [ciencia-ficcion, humor, satira]
 type: fiction
+visibility: public
 keywords: [satira, ciencia-y-sociedad]
 date_added: 2026-07-05
 ---

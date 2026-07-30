@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_8
 pdf_ref: ch08-violencia-sexual-domestica.pdf
 sha256: c9ab785e64de5cd4870a4c5098f1cc18b0bd74c03269e7695a33b121361c82ad
 type: paper
+visibility: public
 keywords: [trabajo-social, violencia-de-genero, salud-mental, inteligencia-artificial, procesamiento-de-lenguaje-natural, analitica-predictiva, trauma-y-salud, sesgo-algoritmico]
 date_added: 2026-07-05
 ---

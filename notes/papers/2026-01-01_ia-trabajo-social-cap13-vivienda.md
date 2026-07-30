@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_13
 pdf_ref: ch13-comunidades-riesgo-vivienda.pdf
 sha256: 00011feb2dbc2558e56e787d4ab4871bb5d6fdd93dab211c6ca2adc147bf67a1
 type: paper
+visibility: public
 keywords: [trabajo-social, vivienda, analitica-predictiva, politica-social, sesgo-algoritmico, procesamiento-de-lenguaje-natural, vision-por-computadora, gestion-de-riesgo-de-desastres, supervision-humana, inteligencia-artificial]
 date_added: 2026-07-05
 ---

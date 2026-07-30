@@ -6,6 +6,7 @@ publisher: Harvill Secker
 url: 
 isbn: 978-1-910-70187-4
 type: book
+visibility: public
 keywords: [gran-historia, inteligencia-artificial, futuro-del-trabajo, ciencia-y-sociedad, etica-de-la-ia, filosofia]
 date_added: 2026-07-05
 ---

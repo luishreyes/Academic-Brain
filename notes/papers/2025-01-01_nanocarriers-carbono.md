@@ -8,6 +8,7 @@ doi: 10.1201/9781003473183
 pdf_ref: rodriguez-2025-nanocarriers-carbono.pdf
 sha256: 1aec8372fc899b397a1cf24d56d2d0b2f96714548c9ba1c96e365c987ab1c89a
 type: paper
+visibility: public
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos]
 date_added: 2026-06-26
 ---

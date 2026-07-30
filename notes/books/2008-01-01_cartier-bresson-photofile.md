@@ -6,6 +6,7 @@ publisher: Thames & Hudson
 url: 
 isbn: 9780500410240
 type: book
+visibility: public
 keywords: [fotografia, fotografia-documental, fotoperiodismo, fotografia-callejera, fotografia-en-blanco-y-negro, magnum-photos, instante-decisivo, composicion-visual, surrealismo, humanidades]
 date_added: 2026-07-07
 ---

@@ -8,6 +8,7 @@ doi: 10.3389/feduc.2026.1745768
 pdf_ref: casparisadeghi_2026_ai-literacy-curriculum.pdf
 sha256: b8da58ee4c15bc7044af7a37ebe2ea0f2ee7e545a1808e1a623c57633c61d3d1
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, formacion-docente, educacion-superior, etica-de-la-ia, pensamiento-critico, ingenieria-de-prompts, taxonomia-de-bloom, adopcion-de-tecnologia, alucinaciones-de-ia]
 date_added: 2026-06-28
 ---

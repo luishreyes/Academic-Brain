@@ -8,6 +8,7 @@ doi: 10.1038/s41598-026-39237-5
 pdf_ref: sajja2026-asistente-ia-educacion-ingenieria.pdf
 sha256: 1b448282ee65e80ef4995dc9b4d484c299a9802aaf347e62cb493fd0c8364877
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, STEM, tutoria-con-ia, personalizacion-del-aprendizaje, integridad-academica, etica-de-la-ia, alucinaciones-de-ia]
 date_added: 2026-06-25
 ---
