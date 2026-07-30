@@ -8,6 +8,7 @@ doi: 10.1002/cae.70151
 pdf_ref: schleiss_2026_interdisciplinary-ai-curriculum.pdf
 sha256: 6156e1e2a15526a7be72adcd54aeab955a103592346894eadf431049b89ec49d
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, educacion-en-ingenieria, educacion-superior, interdisciplinariedad, futuro-del-trabajo, evaluacion-educativa]
 date_added: 2026-06-27
 ---

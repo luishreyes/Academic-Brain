@@ -8,6 +8,7 @@ doi: 10.1016/j.compchemeng.2025.109464
 pdf_ref: mao_2026_visual-monitoring-biomass-genai.pdf
 sha256: 7edc7bc579f7fe643f37456760f8274ca1606a6b747d5f6c98694b401c741d83
 type: paper
+visibility: public
 keywords: [biomasa-lignocelulosica, economia-circular, ingenieria-quimica, sostenibilidad, desarrollo-rural, vision-por-computadora, ia-explicable, inteligencia-artificial]
 date_added: 2026-06-27
 ---

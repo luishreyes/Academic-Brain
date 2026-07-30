@@ -5,6 +5,7 @@ publication: NIPES - Journal of Science and Technology Research
 date: 2024
 url: 
 type: article
+visibility: public
 keywords: [capacidades-de-ia, educacion-en-ingenieria, evaluacion-educativa, pensamiento-critico, creatividad, sobredependencia-de-la-ia, alucinaciones-de-ia, inteligencia-artificial]
 date_added: 2026-06-28
 pdf_ref: kwasi-effah_2024_chatgpt-fe-nipes-commentary.pdf

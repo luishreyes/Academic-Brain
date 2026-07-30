@@ -9,6 +9,7 @@ rating: 5
 status: leído
 genre: [ciencia-ficcion, thriller]
 type: fiction
+visibility: public
 keywords: [realidades-multiples, sistemas-y-reglas, libre-albedrio]
 date_added: 2026-07-05
 ---

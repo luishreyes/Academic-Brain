@@ -8,6 +8,7 @@ doi: 10.1038/s41591-025-04074-y
 pdf_ref: bean-2026-llm-asistentes-medicos-fiabilidad.pdf
 sha256: 515ac9c807bc8b219e2572be651d0adfc197bbd9fabfbb2df321119bcd4ffe71
 type: paper
+visibility: public
 keywords: [capacidades-de-ia, ensayo-controlado-aleatorio, supervision-humana, pacientes-virtuales, confianza-en-la-ia, seguridad-de-ia, salud-y-sociedad, inteligencia-artificial]
 date_added: 2026-07-05
 ---

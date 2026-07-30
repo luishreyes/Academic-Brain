@@ -5,6 +5,7 @@ publication: Education for Chemical Engineers (Elsevier)
 date: 2024-01-01
 url: https://doi.org/10.1016/j.ece.2023.10.003
 type: article
+visibility: public
 keywords: [ingenieria-quimica, educacion-superior, sostenibilidad, futuro-del-trabajo, economia-de-la-innovacion]
 date_added: 2026-06-26
 ---

@@ -8,6 +8,7 @@ doi: 10.3390/foods10092063
 pdf_ref: rodriguez2021-cerveza-sin-alcohol-sonido.pdf
 sha256: 9ad97c8e980431b4c5cf1f4b142c9044300a3ffb4895e85b94fd377bf4e82363
 type: paper
+visibility: public
 keywords: [ingenieria-de-alimentos, comportamiento-del-consumidor]
 date_added: 2026-06-26
 ---

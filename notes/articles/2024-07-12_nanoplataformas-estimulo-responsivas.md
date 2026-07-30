@@ -5,6 +5,7 @@ publication: Nanoscale Advances (RSC)
 date: 2024-07-12
 url: https://doi.org/10.1039/d4na90074j
 type: article
+visibility: public
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos]
 date_added: 2026-06-26
 ---

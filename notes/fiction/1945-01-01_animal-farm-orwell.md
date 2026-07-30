@@ -9,6 +9,7 @@ rating: 5
 status: leído
 genre: [satira, distopia, clasico-moderno]
 type: fiction
+visibility: public
 keywords: [satira, rebelion-y-revolucion, poder-y-persuasion, distopia]
 date_added: 2026-07-05
 ---

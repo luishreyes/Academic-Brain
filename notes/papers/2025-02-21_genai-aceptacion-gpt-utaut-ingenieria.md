@@ -8,6 +8,7 @@ doi: 10.1080/22054952.2025.2467500
 pdf_ref: honig_2025_utaut-gpt-teaching-tools.pdf
 sha256: d54a256e351f6b72b84cbae9ddce69444ba5eb3285a192bbe8eb9349b78cd435
 type: paper
+visibility: public
 keywords: [educacion-en-ingenieria, inteligencia-artificial, adopcion-de-tecnologia, ingenieria-quimica, alfabetizacion-en-ia, alucinaciones-de-ia, tutoria-con-ia, evaluacion-educativa, personalizacion-del-aprendizaje, pensamiento-critico]
 date_added: 2026-06-27
 ---

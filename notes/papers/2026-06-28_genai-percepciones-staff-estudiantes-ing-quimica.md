@@ -8,6 +8,7 @@ doi: 10.1016/j.ece.2026.100503
 pdf_ref: cunningham_2026_staff-student-perceptions-genai-cheme.pdf
 sha256: 62d8d5f36eae8c3b60ad390e1045ca7c9276a4383753b3a9ec6ab5963f6c0efe
 type: paper
+visibility: public
 keywords: [educacion-en-ingenieria, ingenieria-quimica, inteligencia-artificial, tpack, pensamiento-critico, sobredependencia-de-la-ia, alfabetizacion-en-ia, evaluacion-educativa, alucinaciones-de-ia, equidad-educativa, retroalimentacion-con-ia, integridad-academica]
 date_added: 2026-06-28
 ---

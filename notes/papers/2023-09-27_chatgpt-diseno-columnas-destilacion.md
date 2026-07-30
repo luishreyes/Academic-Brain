@@ -8,6 +8,7 @@ doi: 10.1016/j.dche.2023.100126
 pdf_ref: kong_2023_chatgpt-distillation-column-design.pdf
 sha256: d2ce364e8cc30bb0debaae54c4df8b4491eb95732181491949e76e09cb361548
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, ingenieria-quimica, educacion-en-ingenieria, simulacion-computacional, pensamiento-critico, etica-de-la-ia, supervision-humana, razonamiento-cuantitativo-llm]
 date_added: 2026-06-27
 ---

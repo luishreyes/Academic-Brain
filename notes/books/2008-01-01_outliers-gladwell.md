@@ -6,6 +6,7 @@ publisher: Little, Brown and Company
 url: 
 isbn: 978-0-316-01792-3
 type: book
+visibility: public
 keywords: [psicologia-social, ciencia-y-sociedad, desarrollo-del-caracter, educacion-k12, equidad-educativa]
 date_added: 2026-07-05
 ---

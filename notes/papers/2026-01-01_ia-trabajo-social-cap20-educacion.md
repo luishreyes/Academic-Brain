@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_20
 pdf_ref: ch20-educacion-trabajo-social.pdf
 sha256: 2234831c6e952a03154ae0bcc46159acbc1ccb2a3b33ca0b266eb74d659eab16
 type: paper
+visibility: public
 keywords: [trabajo-social, educacion-superior, alfabetizacion-en-ia, tutoria-con-ia, personalizacion-del-aprendizaje, pacientes-virtuales, retroalimentacion-con-ia, generacion-aumentada-por-recuperacion, sesgo-algoritmico, inteligencia-artificial]
 date_added: 2026-07-05
 ---

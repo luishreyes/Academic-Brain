@@ -8,6 +8,7 @@ doi: 10.1186/s12909-026-09518-8
 pdf_ref: xie_2026_ai-virtual-patients-dental-communication.pdf
 sha256: b93635b369f2bc9f4fd3337cab179a85b1ed6f5659dd2298fc7254c88e9b7d37
 type: paper
+visibility: public
 keywords: [educacion-medica, pacientes-virtuales, inteligencia-artificial, agentes-de-ia, retroalimentacion-con-ia, aprendizaje-activo, ensayo-controlado-aleatorio, psicometria]
 date_added: 2026-06-30
 ---

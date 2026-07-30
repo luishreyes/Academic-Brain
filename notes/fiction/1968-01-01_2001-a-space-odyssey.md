@@ -9,6 +9,7 @@ rating: 5
 status: leído
 genre: [ciencia-ficcion, hard-sf, clasico-moderno]
 type: fiction
+visibility: public
 keywords: [inteligencia-artificial, primer-contacto, sistemas-y-reglas, ciencia-y-sociedad]
 date_added: 2026-07-05
 ---

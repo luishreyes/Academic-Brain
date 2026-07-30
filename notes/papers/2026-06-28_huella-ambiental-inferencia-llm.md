@@ -8,6 +8,7 @@ doi:
 pdf_ref: jegham_2025_how-hungry-is-ai-llm-inference-footprint.pdf
 sha256: cf71deb2abe43c270fa20d098a9ecc0e73dd69e093da6d681055ed7bde56f53e
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, sostenibilidad, capacidades-de-ia, simulacion-computacional, regulacion-de-ia, geopolitica-tecnologica, futuro-del-trabajo, huella-ambiental-de-la-ia]
 date_added: 2026-06-28
 ---

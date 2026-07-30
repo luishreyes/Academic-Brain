@@ -8,6 +8,7 @@ doi: 10.3390/pharmaceutics13030428
 pdf_ref: torres-vanegas2021-delivery-nucleic-acids-nanocarriers.pdf
 sha256: c175f8ad7f28e5f85cb3e98c46b15d931fed9d3dd0de75117ce699317e059cdd
 type: paper
+visibility: public
 keywords: [biomateriales, terapia-genica, nanociencia, biologia-molecular, ingenieria-quimica]
 date_added: 2026-06-26
 ---

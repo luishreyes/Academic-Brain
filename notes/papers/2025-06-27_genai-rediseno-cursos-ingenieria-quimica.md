@@ -8,6 +8,7 @@ doi:
 pdf_ref: bilgin_2025_rebuilding-thermo-meb-kinetics-asee.pdf
 sha256: baaf4d506475d227e71f231da1e8557bed65a4147e9f14be1141f606a1c34ed0
 type: paper
+visibility: public
 keywords: [educacion-en-ingenieria, inteligencia-artificial, ingenieria-quimica, evaluacion-educativa, formacion-docente, integridad-academica, pensamiento-critico, alfabetizacion-en-ia, razonamiento-cuantitativo-llm, supervision-humana]
 date_added: 2026-06-27
 ---

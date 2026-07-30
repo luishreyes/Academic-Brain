@@ -8,6 +8,7 @@ doi: 10.12688/mep.21403.1
 pdf_ref: sanchezmendiola_2025_genai-faculty-dev-hpe.pdf
 sha256: f250fdf191af77b7d933a096492fb9dde5d9b733c434f3c1a7c7976ce9ad0b55
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, formacion-docente, etica-de-la-ia, equidad-educativa, ingenieria-de-prompts, supervision-humana, retroalimentacion-con-ia, alfabetizacion-en-ia, personalizacion-del-aprendizaje, evaluacion-educativa]
 date_added: 2026-06-28
 ---

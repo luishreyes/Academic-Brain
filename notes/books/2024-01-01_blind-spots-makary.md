@@ -6,6 +6,7 @@ publisher: Bloomsbury Publishing
 url: 
 isbn: 978-1-63973-531-0
 type: book
+visibility: public
 keywords: [ciencia-y-sociedad, etica-de-la-ciencia, salud-y-sociedad, comunicacion-cientifica, impacto-de-investigacion, medicina-basada-en-evidencia, pensamiento-critico-medico, ensayo-controlado-aleatorio]
 date_added: 2026-06-25
 ---

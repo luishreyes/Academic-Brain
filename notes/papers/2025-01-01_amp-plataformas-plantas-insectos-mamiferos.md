@@ -8,6 +8,7 @@ doi: 10.1016/B978-0-443-15393-8.00008-7
 pdf_ref: reyes-2025-amp-plataformas-plantas-insectos.pdf
 sha256: 612e9ea2351228506fba5b38ec50c223d973162f3085c9505484be58589f7592
 type: paper
+visibility: public
 keywords: [peptidos-bioactivos, proteinas-recombinantes, ingenieria-metabolica, biologia-molecular, desarrollo-de-farmacos]
 date_added: 2026-06-26
 ---

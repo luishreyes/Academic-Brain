@@ -8,6 +8,7 @@ doi: 10.1080/2331186X.2025.2549787
 pdf_ref: revesai_2025_genai-dependency-zimbabwe.pdf
 sha256: 10b1cb42c73bf68f6a2832a893413a7718e39077ec2121926a41d2f345de265d
 type: paper
+visibility: public
 keywords: [sobredependencia-de-la-ia, descarga-cognitiva, pensamiento-critico, educacion-superior, adopcion-de-tecnologia, equidad-educativa, autorregulacion-del-aprendizaje, psicometria]
 date_added: 2026-06-28
 ---

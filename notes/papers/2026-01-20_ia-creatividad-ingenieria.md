@@ -8,6 +8,7 @@ doi: 10.3389/frai.2026.1714523
 pdf_ref: tsakalerou2026-ia-creatividad-ingenieria.pdf
 sha256: 44118f08b36371812c0feb6095a8534c4164d712b9985850ba68c57f014d423c
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, creatividad, supervision-humana, educacion-superior, STEM, etica-de-la-ia, aprendizaje-activo, psicologia-educativa]
 date_added: 2026-06-25
 ---

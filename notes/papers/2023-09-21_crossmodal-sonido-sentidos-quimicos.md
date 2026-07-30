@@ -8,6 +8,7 @@ doi: 10.1163/22134808-bja10107
 pdf_ref: rodriguez-2023-crossmodal-sonido-sentidos-quimicos.pdf
 sha256: a457015a30700737fdb332ba380d53778788c493e3b6c9b884031fcd44080515
 type: paper
+visibility: public
 keywords: [percepcion-multisensorial, comportamiento-del-consumidor, ingenieria-de-alimentos, revision-sistematica-de-literatura, visualizacion-de-datos, diseno-de-producto]
 date_added: 2026-06-26
 ---

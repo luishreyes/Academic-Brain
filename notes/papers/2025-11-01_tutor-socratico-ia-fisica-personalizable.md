@@ -8,6 +8,7 @@ doi: 10.1088/1361-6552/ae0d23
 pdf_ref: tufino_2025_socratic_physics_tutor.pdf
 sha256: d8745268b14947b1950ef5392d1a7d774c96427f41093196ab6fc846836a5c44
 type: paper
+visibility: public
 keywords: [tutoria-con-ia, ingenieria-de-prompts, razonamiento-multimodal, aprendizaje-activo, filosofia, retroalimentacion-con-ia, alucinaciones-de-ia, inteligencia-artificial]
 date_added: 2026-06-28
 ---

@@ -8,6 +8,7 @@ doi: 10.1111/1750-3841.71205
 pdf_ref: wang-2026-hipe-polisacarido-probioticos.pdf
 sha256: 3a742b8005e8aa568f7118088580f6523943954c1343e449c5c6d59dcec12edb
 type: paper
+visibility: public
 keywords: [probioticos, emulsiones, ingenieria-de-alimentos, biomateriales, microscopia-de-caracterizacion]
 date_added: 2026-07-05
 ---

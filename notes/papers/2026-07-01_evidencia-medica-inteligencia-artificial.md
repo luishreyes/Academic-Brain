@@ -8,6 +8,7 @@ doi: 10.1016/j.lana.2026.101472
 pdf_ref: cruzsuarez-2026-evidencia-medica-ia.pdf
 sha256: ed8c62304b04bd309bef28ea78b69f5fc3e59dac3ed651421f02b22488fa6b30
 type: paper
+visibility: public
 keywords: [medicina-basada-en-evidencia, inteligencia-artificial, ciencia-de-datos, ensayo-controlado-aleatorio, supervision-humana, confianza-en-la-ia, ia-explicable, sesgo-algoritmico, regulacion-de-ia, salud-y-sociedad, brecha-digital, publicacion-academica]
 date_added: 2026-07-09
 ---

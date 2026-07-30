@@ -8,6 +8,7 @@ doi: 10.3390/mi15070932
 pdf_ref: rodriguez-2024-zweifach-fung-microfluidica.pdf
 sha256: c81d603405b30e39f80b35bd5392048c64693107243fd09293bdbb18df631d5c
 type: paper
+visibility: public
 keywords: [microfluidica, simulacion-computacional, ingenieria-quimica]
 date_added: 2026-06-26
 ---

@@ -8,6 +8,7 @@ doi: 10.1016/j.ijfoodmicro.2026.111786
 pdf_ref: nasuti-2026-levadura-lager-hibridacion.pdf
 sha256: 125e400baef87b1006c7bbc9ec4ea7c4a0be3e5e2c05cd3ce5f4155e48a12aaa
 type: paper
+visibility: public
 keywords: [ingenieria-de-alimentos, ingenieria-metabolica, biologia-molecular, evolucion-de-laboratorio, metabolitos-secundarios, genomica]
 date_added: 2026-07-05
 ---

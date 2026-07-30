@@ -6,6 +6,7 @@ publisher: Portfolio / Penguin
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [finanzas-personales, psicologia-del-bienestar, comportamiento-del-consumidor]
 date_added: 2026-07-05
 ---

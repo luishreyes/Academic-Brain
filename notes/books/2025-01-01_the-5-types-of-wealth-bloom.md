@@ -6,6 +6,7 @@ publisher: Portfolio / Penguin
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [psicologia-del-bienestar, finanzas-personales, desarrollo-del-caracter]
 date_added: 2026-07-05
 ---

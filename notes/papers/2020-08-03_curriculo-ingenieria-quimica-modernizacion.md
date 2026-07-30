@@ -8,6 +8,7 @@ doi: 10.1016/j.ece.2020.12.004
 pdf_ref: ballesteros2021-curriculo-ingenieria-modernizacion.pdf
 sha256: 122eb3dab9f0fadb3178d02a371d1438594e7b48db6d6900b4cec25921fd3d64
 type: paper
+visibility: public
 keywords: [ingenieria-quimica, aprendizaje-activo, educacion-superior]
 date_added: 2026-06-26
 ---

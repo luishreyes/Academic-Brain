@@ -6,6 +6,7 @@ publisher: Texere
 url: 
 isbn: 9781400067930
 type: book
+visibility: public
 keywords: [filosofia, sesgo-cognitivo, epistemologia-del-riesgo, ciencia-y-sociedad, humanidades, pensamiento-critico-medico]
 date_added: 2026-06-25
 ---

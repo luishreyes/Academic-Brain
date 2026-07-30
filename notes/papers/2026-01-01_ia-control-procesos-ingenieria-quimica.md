@@ -8,6 +8,7 @@ doi: 10.1016/j.ece.2025.10.002
 pdf_ref: huang_2026_ai-process-control-education.pdf
 sha256: 2ed1f9052eaf56db2c6ad62d081fd617e9b067398e5ee53684ce394f79a9775f
 type: paper
+visibility: public
 keywords: [educacion-en-ingenieria, ingenieria-quimica, tutoria-con-ia, inteligencia-artificial, aprendizaje-activo, alfabetizacion-en-ia, pensamiento-critico, simulacion-computacional]
 date_added: 2026-06-27
 ---

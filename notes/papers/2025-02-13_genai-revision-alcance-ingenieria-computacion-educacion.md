@@ -8,6 +8,7 @@ doi: 10.1109/ACCESS.2025.3541424
 pdf_ref: alvarezariza_2025_genai-eng-computing.pdf
 sha256: e2fc6899f25f0930a510bc87f769f3e66f64d2c5d57337252c9dbd0537f5d616
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-en-ingenieria, educacion-en-programacion, revision-sistematica-de-literatura, alfabetizacion-en-ia, ingenieria-de-prompts, pensamiento-critico, retroalimentacion-con-ia, integridad-academica, educacion-superior, educacion-k12, formacion-docente]
 date_added: 2026-06-28
 ---

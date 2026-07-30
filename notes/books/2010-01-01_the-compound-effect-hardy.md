@@ -6,6 +6,7 @@ publisher: Vanguard Press
 url: 
 isbn: 978-1-59315-724-1
 type: book
+visibility: public
 keywords: [desarrollo-del-caracter, psicologia-del-bienestar, finanzas-personales]
 date_added: 2026-07-05
 ---

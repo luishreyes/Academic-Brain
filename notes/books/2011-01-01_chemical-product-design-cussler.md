@@ -6,6 +6,7 @@ publisher: Cambridge University Press
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [ingenieria-quimica]
 date_added: 2026-06-26
 ---

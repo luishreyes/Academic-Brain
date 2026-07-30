@@ -8,6 +8,7 @@ doi: 10.3389/fpsyg.2017.00422
 pdf_ref: panadero_2017_srl_six_models.pdf
 sha256: 567d2291efeef99c99e164804fd7c642f3eb746ae21ce97c1fb45f9c1d276439
 type: paper
+visibility: public
 keywords: [autorregulacion-del-aprendizaje, psicologia-educativa, motivacion-y-compromiso-estudiantil, psicometria, evaluacion-educativa, personalizacion-del-aprendizaje]
 date_added: 2026-06-28
 ---

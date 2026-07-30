@@ -7,6 +7,7 @@ url: https://www.teqsa.gov.au/guides-resources/higher-education-good-practice-hu
 pdf_ref: teqsa_2024_genai-integrity-assessment-reform-hub.pdf
 sha256: c8db156a1b31d13260a7ec6e998597531715ece2680a130d168e53768f2feb6b
 type: article
+visibility: public
 keywords: [integridad-academica, evaluacion-educativa, inteligencia-artificial, educacion-superior, regulacion-de-ia]
 date_added: 2026-06-27
 ---

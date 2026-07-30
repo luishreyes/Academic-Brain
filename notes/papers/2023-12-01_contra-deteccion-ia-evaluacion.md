@@ -8,6 +8,7 @@ doi:
 pdf_ref: ardito_2023_contra-genai-detection.pdf
 sha256: 327df61a2577254c77a306e2abe02fc5104d56ad7927097c4dca2376eacfa28a
 type: paper
+visibility: public
 keywords: [integridad-academica, evaluacion-educativa, inteligencia-artificial, educacion-superior, etica-de-la-ia, equidad-educativa, alfabetizacion-en-ia, pensamiento-critico, supervision-humana, regulacion-de-ia]
 date_added: 2026-06-27
 ---

@@ -8,6 +8,7 @@ doi:
 pdf_ref: contractor2026-impacto-aprendizaje-genai.pdf
 sha256: d5ea73073c4400924a5e73d21399e54f80d279f0f75383b804df60b56fcfcc05
 type: paper
+visibility: public
 keywords: [ensayo-controlado-aleatorio, retencion-del-aprendizaje, descarga-cognitiva, sobredependencia-de-la-ia, tutoria-con-ia, evaluacion-educativa, motivacion-y-compromiso-estudiantil, educacion-superior]
 date_added: 2026-07-13
 ---

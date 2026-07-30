@@ -8,6 +8,7 @@ doi: 10.3390/nano10091857
 pdf_ref: ramirez2020-nanoparticulas-magnetita-plata.pdf
 sha256: 23d635454578fb5b454fbfff78c64367c761c51b88f41ce5b7b08c7f7a81e126
 type: paper
+visibility: public
 keywords: [nanociencia, biomateriales, ingenieria-quimica]
 date_added: 2026-06-26
 ---

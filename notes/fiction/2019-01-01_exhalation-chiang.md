@@ -8,6 +8,7 @@ rating: 4.5 prov
 status: leyendo
 genre: [ciencia-ficcion, cuentos, hard-sf]
 type: fiction
+visibility: public
 keywords: [libre-albedrio, sistemas-y-reglas, filosofia, ciencia-y-sociedad]
 date_added: 2026-07-05
 ---

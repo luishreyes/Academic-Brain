@@ -8,6 +8,7 @@ doi: 10.1016/j.ece.2023.05.001
 pdf_ref: tsai_2023_llms-chemeng-core-course-models.pdf
 sha256: c5e374d581fa8cf2b4e5269437a643bfd4fbff0b45b2ba17bd615c8661f76ede
 type: paper
+visibility: public
 keywords: [ingenieria-quimica, educacion-en-ingenieria, inteligencia-artificial, pensamiento-critico, alucinaciones-de-ia, integridad-academica, etica-de-la-ia, regulacion-de-ia]
 date_added: 2026-06-27
 ---

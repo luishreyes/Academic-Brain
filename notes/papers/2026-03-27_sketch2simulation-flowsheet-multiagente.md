@@ -8,6 +8,7 @@ doi: 10.48550/arXiv.2603.24629
 pdf_ref: bahamdan_2026_sketch2simulation-flowsheet-multiagent.pdf
 sha256: ef992ad62a021efb6cdeaac869d2f34bf9d6d8735496d5411adabe35c7ff7772
 type: paper
+visibility: public
 keywords: [agentes-de-ia, inteligencia-artificial, simulacion-computacional, ingenieria-quimica, alucinaciones-de-ia, capacidades-de-ia, petroleo-y-gas]
 date_added: 2026-06-27
 ---

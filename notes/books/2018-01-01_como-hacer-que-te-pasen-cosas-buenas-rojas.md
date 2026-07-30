@@ -6,6 +6,7 @@ publisher: Espasa
 url: 
 isbn: 978-84-670-5453-4
 type: book
+visibility: public
 keywords: [psicologia-del-bienestar, neurociencia, trauma-y-salud]
 date_added: 2026-07-05
 ---

@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_6
 pdf_ref: ch06-discapacidad-cognitiva-desarrollo.pdf
 sha256: 2737b6766e82f34b1084e9a06e393ffdf82e90b5b7a296a810b9205f428fdbe4
 type: paper
+visibility: public
 keywords: [trabajo-social, inteligencia-artificial, vision-por-computadora, procesamiento-de-lenguaje-natural, sesgo-algoritmico, brecha-digital, envejecimiento, salud-y-sociedad, supervision-humana]
 date_added: 2026-07-05
 ---

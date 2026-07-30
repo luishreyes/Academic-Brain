@@ -8,6 +8,7 @@ doi: 10.3390/info16100905
 pdf_ref: deep_2025_ai-detection-tools-effectiveness-ethics.pdf
 sha256: 5e65c891fbf5bbf4d1cce9013f071bca01c386860fcc2610e7c0853e2f0a3fe4
 type: paper
+visibility: public
 keywords: [deteccion-de-texto-ia, integridad-academica, inteligencia-artificial, evaluacion-educativa, educacion-superior, etica-de-la-ia, equidad-educativa, regulacion-de-ia, alfabetizacion-en-ia, revision-sistematica-de-literatura]
 date_added: 2026-06-27
 ---

@@ -8,6 +8,7 @@ doi: 10.1111/bjet.13599
 pdf_ref: xu_2025_bjet_metacognitive_support.pdf
 sha256: 11b64f7939bcaf512fdf8644e4a9981527227f1fc3f626de353b227732d9fcc8
 type: paper
+visibility: public
 keywords: [autorregulacion-del-aprendizaje, inteligencia-artificial, tutoria-con-ia, educacion-superior, pensamiento-critico, descarga-cognitiva, sobredependencia-de-la-ia, evaluacion-educativa, ensayo-controlado-aleatorio]
 date_added: 2026-06-28
 ---

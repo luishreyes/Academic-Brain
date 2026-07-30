@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [ciencia-ficcion, aventura, distopia]
 type: fiction
+visibility: public
 keywords: [realidades-multiples, distopia, sistemas-y-reglas]
 date_added: 2026-07-05
 ---

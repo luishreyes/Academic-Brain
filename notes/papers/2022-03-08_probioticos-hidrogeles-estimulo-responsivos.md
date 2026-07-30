@@ -8,6 +8,7 @@ doi: 10.3390/fermentation8030117
 pdf_ref: garcia-brand2022-probioticos-hidrogeles-estimulo-responsivos.pdf
 sha256: 981c103e60f11add276864afa1630aba3c68b66f7c651a0e734be5056bb18748
 type: paper
+visibility: public
 keywords: [biomateriales, ingenieria-quimica, ingenieria-de-alimentos, nanociencia]
 date_added: 2026-06-26
 ---

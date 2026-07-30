@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_5
 pdf_ref: ch05-salud-disparidades.pdf
 sha256: 226e6e17032c67187d02a8684e15f05e4da80201b434a2cef403d3a1945d426a
 type: paper
+visibility: public
 keywords: [trabajo-social, salud-y-sociedad, analitica-predictiva, sesgo-algoritmico, inteligencia-artificial, salud-mental, proteccion-infantil, procesamiento-de-lenguaje-natural, pensamiento-critico, supervision-humana]
 date_added: 2026-07-05
 ---

@@ -8,6 +8,7 @@ doi: 10.1007/978-1-4939-7295-1_20
 pdf_ref: reyes2018-carotenoides-ale-metodos.pdf
 sha256: 5c661c79859e42c776c0b32209dce341ebf01933ab9bf352518542a7af12bfa2
 type: paper
+visibility: public
 keywords: [evolucion-de-laboratorio, ingenieria-metabolica, metabolitos-secundarios, ingenieria-quimica]
 date_added: 2026-06-26
 ---

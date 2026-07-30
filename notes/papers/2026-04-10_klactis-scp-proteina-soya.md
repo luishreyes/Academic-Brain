@@ -8,6 +8,7 @@ doi: 10.1021/acsomega.5c13283
 pdf_ref: diaz-bustamante-2026-klactis-scp-soya.pdf
 sha256: 794507e56016cd89d844913ec92137651decdde7f92c558788953da73bd5d70c
 type: paper
+visibility: public
 keywords: [ingenieria-de-alimentos, sostenibilidad, economia-circular]
 date_added: 2026-06-26
 ---

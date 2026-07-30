@@ -6,6 +6,7 @@ publisher: Simon & Schuster
 url: 
 isbn: 978-1-9821-1585-2
 type: book
+visibility: public
 keywords: [terapia-genica, biologia-molecular, historia-de-la-innovacion, etica-de-la-ciencia, comunicacion-cientifica, genomica]
 date_added: 2026-07-05
 ---

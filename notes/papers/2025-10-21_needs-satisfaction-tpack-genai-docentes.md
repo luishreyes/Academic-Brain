@@ -8,6 +8,7 @@ doi: 10.1111/ejed.70328
 pdf_ref: xia_2025_needs-satisfaction-tpack.pdf
 sha256: 1306143c5c8a93e3be28f09321241a8befb4377abdd7f53d5784753307c85eb1
 type: paper
+visibility: public
 keywords: [formacion-docente, educacion-superior, inteligencia-artificial, adopcion-de-tecnologia, psicologia-educativa, psicometria]
 date_added: 2026-06-28
 ---

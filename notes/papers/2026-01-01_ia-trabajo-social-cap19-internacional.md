@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_19
 pdf_ref: ch19-trabajo-social-internacional.pdf
 sha256: c258d79694b2fe4ee8aa5d0a94105ab12a18963a8656c52d2df1ab59c1f0c36c
 type: paper
+visibility: public
 keywords: [trabajo-social, justicia-social, brecha-digital, analitica-predictiva, vision-por-computadora, sesgo-algoritmico, etica-de-la-ia, economia-del-desarrollo, alfabetizacion-en-ia, inteligencia-artificial]
 date_added: 2026-07-05
 ---

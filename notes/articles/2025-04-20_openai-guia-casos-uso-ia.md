@@ -5,6 +5,7 @@ publication: OpenAI (guía corporativa)
 date: 2025-04-01
 url: 
 type: article
+visibility: public
 keywords: [inteligencia-artificial, capacidades-de-ia, futuro-del-trabajo]
 date_added: 2026-06-26
 ---

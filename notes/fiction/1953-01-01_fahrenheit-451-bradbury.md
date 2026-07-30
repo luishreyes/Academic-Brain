@@ -9,6 +9,7 @@ rating: 4
 status: leído
 genre: [distopia, ciencia-ficcion, clasico-moderno]
 type: fiction
+visibility: public
 keywords: [distopia, ciencia-y-sociedad]
 date_added: 2026-07-05
 ---

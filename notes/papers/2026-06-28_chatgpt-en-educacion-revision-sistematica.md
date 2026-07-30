@@ -8,6 +8,7 @@ doi: 10.3390/a18060352
 pdf_ref: munaye_2025_chatgpt-opportunities.pdf
 sha256: 376033b2b26c477fb85427a6152ece09622e08add722b6da67a1ad44b3936969
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, revision-sistematica-de-literatura, personalizacion-del-aprendizaje, tutoria-con-ia, evaluacion-educativa, retroalimentacion-con-ia, integridad-academica, etica-de-la-ia, regulacion-de-ia, alfabetizacion-en-ia, pensamiento-critico]
 date_added: 2026-06-28
 ---

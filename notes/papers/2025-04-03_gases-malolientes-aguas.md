@@ -8,6 +8,7 @@ doi: 10.3390/pr13041077
 pdf_ref: melendez-2025-gases-malolientes-aguas.pdf
 sha256: e034cfeef464eec9d5de164ed5553ab36c2c4f889d5b11739ce1ed3a06ea982c
 type: paper
+visibility: public
 keywords: [ingenieria-ambiental, ingenieria-quimica, sostenibilidad, salud-y-sociedad]
 date_added: 2026-06-26
 ---

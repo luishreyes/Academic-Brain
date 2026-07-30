@@ -6,6 +6,7 @@ volume: "Vol 653"
 date: 2026-05-21
 url: 
 type: article
+visibility: public
 keywords:
   - agentes-de-ia
   - alucinaciones-de-ia

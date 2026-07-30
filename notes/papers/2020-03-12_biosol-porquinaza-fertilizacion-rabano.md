@@ -8,6 +8,7 @@ doi: ""
 pdf_ref: sanchez2020-biosol-porquinaza-fertilizacion.pdf
 sha256: 876ab08b9cabb5b288a27ec0b03ac35ad26efbebf784ef005722d21ca5c880dd
 type: paper
+visibility: public
 keywords: [economia-circular, ingenieria-quimica, biocombustibles]
 date_added: 2026-06-26
 ---

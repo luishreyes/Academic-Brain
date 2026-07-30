@@ -8,6 +8,7 @@ doi: 10.1021/acs.jchemed.4c00244
 pdf_ref: ramos_2024_ai-pbl-unit-operations-dryer.pdf
 sha256: 5b5169a2ab0c2f45faca75239aa62a54f2930b5907a706af540d9935f2b3ecc8
 type: paper
+visibility: public
 keywords: [educacion-en-ingenieria, ingenieria-quimica, aprendizaje-activo, inteligencia-artificial, simulacion-computacional, evaluacion-educativa, taxonomia-de-bloom, pensamiento-critico]
 date_added: 2026-06-27
 ---

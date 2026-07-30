@@ -8,6 +8,7 @@ doi: 10.1007/s44366-025-0067-6
 pdf_ref: ma_2025_genai-curriculum-reform-he.pdf
 sha256: b976f33205a109b27631519ca5f8283358642d99677aa8768e030fc08eb5bc8c
 type: paper
+visibility: public
 keywords: [alfabetizacion-en-ia, educacion-superior, inteligencia-artificial, aprendizaje-activo, interdisciplinariedad, formacion-docente, integridad-academica, etica-de-la-ia, creatividad, evaluacion-educativa]
 date_added: 2026-06-27
 ---

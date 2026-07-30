@@ -5,6 +5,7 @@ publication: CSAB, Inc.
 date: 2025-10-24
 url: https://csab.org/new-artificial-intelligence-machine-learning-ai-ml-program-criteria-approved-for-a-year-of-review-feedback/
 type: article
+visibility: public
 keywords: [acreditacion-academica, educacion-en-programacion, educacion-en-ingenieria, educacion-superior, regulacion-de-ia, inteligencia-artificial, STEM]
 date_added: 2026-06-28
 pdf_ref: csab_2025_aiml-program-criteria-announcement.pdf

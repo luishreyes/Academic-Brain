@@ -6,6 +6,7 @@ publisher: Simon & Schuster
 url: 
 isbn: 978-1-4767-0869-0
 type: book
+visibility: public
 keywords: [historia-de-la-innovacion, inteligencia-artificial, economia-de-la-innovacion, ciencia-de-datos, interdisciplinariedad]
 date_added: 2026-07-05
 ---

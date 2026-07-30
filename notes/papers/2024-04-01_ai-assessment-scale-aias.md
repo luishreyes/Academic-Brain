@@ -8,6 +8,7 @@ doi: 10.53761/q3azde36
 pdf_ref: perkins_2024_aias-scale.pdf
 sha256: 20b03b430d4d8281172880b0464b3d21f2661586aaf4de5747a1a9fbc2f00899
 type: paper
+visibility: public
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, etica-de-la-ia, pensamiento-critico, educacion-k12, equidad-educativa, adopcion-de-tecnologia]
 date_added: 2026-06-27
 ---

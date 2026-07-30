@@ -8,6 +8,7 @@ doi: 10.1007/978-3-032-18443-6_12
 pdf_ref: ch12-adultos-mayores.pdf
 sha256: dc019cd147fa509f074dd1b468940c7855e3c03ba475976a29bfe20a0b78ce0c
 type: paper
+visibility: public
 keywords: [envejecimiento, trabajo-social, inteligencia-artificial, salud-mental, confianza-en-la-ia, salud-y-sociedad, sesgo-algoritmico, sobredependencia-de-la-ia, etica-de-la-ia, procesamiento-de-lenguaje-natural]
 date_added: 2026-07-05
 ---

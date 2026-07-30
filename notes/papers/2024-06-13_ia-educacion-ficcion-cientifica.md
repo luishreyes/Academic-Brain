@@ -8,6 +8,7 @@ doi: 10.1080/17439884.2024.2365829
 pdf_ref: gidiotis2024-ia-educacion-ficcion-cientifica.pdf
 sha256: 66cb0c1096656dad2547830db91fe7956a1a080b4ab824db3e8ca945542eb598
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, etica-de-la-ia, ciencia-y-sociedad, humanidades, personalizacion-del-aprendizaje, supervision-humana]
 date_added: 2026-06-25
 ---

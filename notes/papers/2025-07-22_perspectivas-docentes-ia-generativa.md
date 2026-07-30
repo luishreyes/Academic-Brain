@@ -8,6 +8,7 @@ doi: 10.3389/feduc.2025.1632742
 pdf_ref: almisad_2025_faculty-perspectives.pdf
 sha256: f6b9fb3cfcd003d337294128037f059eac4c92f25103e10196bcd8faaaeb7e58
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, adopcion-de-tecnologia, formacion-docente, integridad-academica, etica-de-la-ia, psicometria, desigualdad-de-genero]
 date_added: 2026-06-28
 ---

@@ -8,6 +8,7 @@ doi: 10.1002/ace.70013
 pdf_ref: azevedo_2025_institutional-ai-policies.pdf
 sha256: dcac53a0ee10e7c55c5844991285b0ef1dad26849410ef402c942d7124254f37
 type: paper
+visibility: public
 keywords: [regulacion-de-ia, educacion-superior, integridad-academica, etica-de-la-ia, equidad-educativa, evaluacion-educativa, supervision-humana, alfabetizacion-en-ia, formacion-docente, liderazgo-educativo]
 date_added: 2026-06-27
 ---

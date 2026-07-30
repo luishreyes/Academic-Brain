@@ -5,6 +5,7 @@ publication: TEQSA (Tertiary Education Quality and Standards Agency)
 date: 2024-08
 url: https://www.teqsa.gov.au/
 type: article
+visibility: public
 keywords: [integridad-academica, evaluacion-educativa, inteligencia-artificial, educacion-superior, capacidades-de-ia, equidad-educativa, pensamiento-critico, regulacion-de-ia]
 date_added: 2026-06-27
 pdf_ref: teqsa-lodge_2024_evolving-risk-academic-integrity.pdf

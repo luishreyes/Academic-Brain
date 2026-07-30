@@ -8,6 +8,7 @@ doi: 10.1016/j.ijinfomgt.2025.103003
 pdf_ref: deng_2026_ai-career-first-gen-students.pdf
 sha256: 997d0103a18ca344f2785e226d26066711fbeae7c6a93a678b423279856735a9
 type: paper
+visibility: public
 keywords: [futuro-del-trabajo, equidad-educativa, inteligencia-artificial, educacion-superior, adopcion-de-tecnologia, politica-social, psicometria]
 date_added: 2026-06-28
 ---

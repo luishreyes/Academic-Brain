@@ -8,6 +8,7 @@ doi: 10.1002/adhm.71374
 pdf_ref: zhang-2026-hidrogel-macrofagos-cartilago.pdf
 sha256: 966b02ae3ad3768ae96b6d987923b5474f3450829a07e3cf5dfe0fb053ee25c7
 type: paper
+visibility: public
 keywords: [biomateriales, ingenieria-de-tejidos, biologia-molecular, nanomedicina, microscopia-de-caracterizacion]
 date_added: 2026-07-05
 ---

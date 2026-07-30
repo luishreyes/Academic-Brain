@@ -5,6 +5,7 @@ publication: AI Hub for Education, SCALE Initiative, Stanford University
 date: 2026-01-01
 url: https://scale.stanford.edu/genai/repository
 type: article
+visibility: public
 keywords: [educacion-k12, tutoria-con-ia, retroalimentacion-con-ia, descarga-cognitiva, pensamiento-critico, equidad-educativa, ensayo-controlado-aleatorio, revision-sistematica-de-literatura, autorregulacion-del-aprendizaje, capacidades-de-ia, sobredependencia-de-la-ia, formacion-docente]
 pdf_ref: fesler_2026_evidence_base_ai_k12_report.pdf
 sha256: a0c80e205731d07d55cdce1c8e1f4a1d1d87ec1b48089346911d7744a42bcf7f

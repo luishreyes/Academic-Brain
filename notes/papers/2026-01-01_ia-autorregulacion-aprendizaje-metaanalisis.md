@@ -8,6 +8,7 @@ doi: 10.1111/bjet.70058
 pdf_ref: xu-2026-ia-autorregulacion-metaanalisis.pdf
 sha256: 7154ca579b687d90195f7f44f3867ea14194e23641a9a413dc0c60b80aa7b0b1
 type: paper
+visibility: public
 keywords: [autorregulacion-del-aprendizaje, revision-sistematica-de-literatura, inteligencia-artificial, personalizacion-del-aprendizaje, retroalimentacion-con-ia, tutoria-con-ia, sobredependencia-de-la-ia, motivacion-y-compromiso-estudiantil, psicologia-educativa]
 date_added: 2026-07-05
 ---

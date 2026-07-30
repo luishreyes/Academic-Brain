@@ -7,6 +7,7 @@ url: https://www.icheme.org/accreditation-guide
 pdf_ref: icheme_2024_university-accreditation-guide.pdf
 sha256: be6a7acd2c1c67879caa283de840de6dc91719abec8242d62fdac8c994fd020b
 type: article
+visibility: public
 keywords: [educacion-en-ingenieria, ingenieria-quimica, educacion-superior, evaluacion-educativa, seguridad-de-procesos, sostenibilidad, etica-de-la-ciencia, futuro-del-trabajo]
 date_added: 2026-06-28
 ---

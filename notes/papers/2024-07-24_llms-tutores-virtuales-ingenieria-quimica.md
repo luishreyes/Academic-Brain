@@ -8,6 +8,7 @@ doi: 10.1016/j.ece.2024.07.002
 pdf_ref: caccavale_2024_llms-virtual-tutors-chemeng.pdf
 sha256: c6cc97cfc9fb9993f463d173bf96afa8c9c71563495d1aa42005be14e4257177
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, tutoria-con-ia, educacion-en-ingenieria, educacion-superior, etica-de-la-ia, regulacion-de-ia, alucinaciones-de-ia, supervision-humana, retroalimentacion-con-ia, personalizacion-del-aprendizaje]
 date_added: 2026-06-27
 ---

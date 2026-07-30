@@ -7,6 +7,7 @@ url: https://doi.org/10.1038/d41586-018-07780-5
 pdf_ref: fleming_2018_how-to-give-a-great-talk.pdf
 sha256: 2e7f8c7b00b030a455af42dc4aed68507304508efef03e8af6bf9bb7f8a5e533
 type: article
+visibility: public
 keywords: [comunicacion-cientifica, habilidades-de-presentacion, desarrollo-profesional-academico]
 date_added: 2026-07-02
 ---

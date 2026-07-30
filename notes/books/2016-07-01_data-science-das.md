@@ -6,6 +6,7 @@ publisher: Sanjiv Ranjan Das (self-published)
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [ciencia-de-datos]
 date_added: 2026-06-26
 ---

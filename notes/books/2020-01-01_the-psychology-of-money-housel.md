@@ -6,6 +6,7 @@ publisher: Harriman House
 url: 
 isbn: 978-0-857-19768-9
 type: book
+visibility: public
 keywords: [finanzas-personales, sesgo-cognitivo, psicologia-del-bienestar, epistemologia-del-riesgo]
 date_added: 2026-07-05
 ---

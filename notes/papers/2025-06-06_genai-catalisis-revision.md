@@ -8,6 +8,7 @@ doi: 10.1016/j.cjche.2025.05.013
 pdf_ref: zhang_2025_genai-catalysis.pdf
 sha256: 75b1d8aebdaae306126f30579e64397faa93bb7f6a3716e19318e8528ea8020f
 type: paper
+visibility: public
 keywords: [inteligencia-artificial, ingenieria-quimica, quimica-computacional, modelado-molecular, agentes-de-ia, alucinaciones-de-ia, descubrimiento-cientifico, ciencia-de-datos]
 date_added: 2026-06-27
 ---

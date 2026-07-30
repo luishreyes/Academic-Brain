@@ -8,6 +8,7 @@ doi:
 pdf_ref: herambourg_2025_orca-calculation-accuracy.pdf
 sha256: d269fe33ab977faae8d97edfe3dfdc947d253d62010946122239c33a736201e5
 type: paper
+visibility: public
 keywords: [capacidades-de-ia, inteligencia-artificial, razonamiento-cuantitativo-llm, alucinaciones-de-ia]
 date_added: 2026-06-27
 ---

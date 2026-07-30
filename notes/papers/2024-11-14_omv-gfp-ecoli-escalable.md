@@ -8,6 +8,7 @@ doi: 10.3389/fbioe.2024.1436352
 pdf_ref: torres-vanegas-2024-omv-gfp-ecoli.pdf
 sha256: 59517fada324f39f26bda5eacd6c8cdca46bf0fc50643eaf015db458013850b0
 type: paper
+visibility: public
 keywords: [proteinas-recombinantes, biologia-molecular, nanociencia, biomateriales, ingenieria-quimica]
 date_added: 2026-06-26
 ---

@@ -8,6 +8,7 @@ doi: 10.1002/cjce.25205
 pdf_ref: chintalapati2024-futuro-educacion-ingenieria-quimica.pdf
 sha256: 2d8da81d7d0a9050f37c98afea9e06bfc331124c15293c1dfe13c4fb9cd457c6
 type: paper
+visibility: public
 keywords: [educacion-superior, STEM, interdisciplinariedad, ciencia-y-sociedad, futuro-del-trabajo, humanidades, impacto-de-investigacion]
 date_added: 2026-06-25
 ---

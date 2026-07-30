@@ -6,6 +6,7 @@ publisher: Conecta
 url: 
 isbn: 
 type: book
+visibility: public
 keywords: [gestion-por-objetivos, liderazgo-organizacional, cultura-organizacional, futuro-del-trabajo, historia-de-la-innovacion, economia-de-la-innovacion, psicologia-educativa, creatividad]
 date_added: 2026-06-25
 ---

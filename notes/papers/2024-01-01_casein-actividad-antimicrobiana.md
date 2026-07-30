@@ -8,6 +8,7 @@ doi: 10.1016/B978-0-443-15836-0.00001-9
 pdf_ref: cifuentes-2024-casein-antimicrobiano.pdf
 sha256: 3f1b43b31faaa72a74d7fec0db0201bde7536685de5577363946a6e4ed818534
 type: paper
+visibility: public
 keywords: [peptidos-bioactivos, ingenieria-de-alimentos, biologia-molecular, desarrollo-de-farmacos, bioquimica-computacional]
 date_added: 2026-06-26
 ---

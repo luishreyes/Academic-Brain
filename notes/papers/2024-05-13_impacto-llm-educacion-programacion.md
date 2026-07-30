@@ -8,6 +8,7 @@ doi: 10.3390/app14104115
 pdf_ref: jost_2024_llm-programming-education.pdf
 sha256: a95dc6cf6a37f4e25f2e56546a0aa839e34767f7a3bcbb57974747430adf5c8e
 type: paper
+visibility: public
 keywords: [educacion-en-programacion, inteligencia-artificial, motivacion-y-compromiso-estudiantil, pensamiento-critico, evaluacion-educativa, retroalimentacion-con-ia, ensayo-controlado-aleatorio, integridad-academica, educacion-superior]
 date_added: 2026-06-28
 ---

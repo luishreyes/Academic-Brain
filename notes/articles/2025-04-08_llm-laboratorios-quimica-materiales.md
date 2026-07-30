@@ -5,6 +5,7 @@ publication: Chemistry of Materials (ACS)
 date: 2025-04-08
 url: https://doi.org/10.1021/acs.chemmater.5c00111
 type: article
+visibility: public
 keywords: [inteligencia-artificial, educacion-superior, tutoria-con-ia, generacion-aumentada-por-recuperacion, agentes-de-ia, alucinaciones-de-ia, pensamiento-critico, retroalimentacion-con-ia, aprendizaje-activo, etica-de-la-ia, equidad-educativa]
 date_added: 2026-06-27
 ---

@@ -5,6 +5,7 @@ publication: UNESCO
 date: 2024-01-01
 url: https://doi.org/10.54675/JKJB9835
 type: article
+visibility: public
 keywords: [alfabetizacion-en-ia, etica-de-la-ia, educacion-k12, regulacion-de-ia, supervision-humana, equidad-educativa, sostenibilidad, evaluacion-educativa, formacion-docente, futuro-del-trabajo]
 date_added: 2026-06-27
 ---
