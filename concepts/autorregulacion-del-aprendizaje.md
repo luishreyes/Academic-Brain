@@ -44,7 +44,6 @@ Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso
 - [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]
 - [[notes/papers/2002-01-01_becoming-self-regulated-learner-overview]]
 - [[notes/papers/2025-04-19_metacognitive-support-srl-genai]]
-- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]
 - [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]
 - [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]

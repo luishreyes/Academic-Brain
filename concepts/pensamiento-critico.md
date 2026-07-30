@@ -49,7 +49,6 @@ Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia
 - [[notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica]]
 - [[notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion]]
 - [[notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa]]
-- [[notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior]]
 - [[notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica]]
 - [[notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria]]
 - [[notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion]]

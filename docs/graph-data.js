@@ -2,8 +2,8 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 392,
-    "articles": 54,
+    "papers": 390,
+    "articles": 53,
     "books": 75,
     "fiction": 65,
     "concepts": 212
@@ -117,7 +117,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Fenómeno en que sistemas de IA generan información incorrecta o fabricada presentándola como verídica. Riesgo crítico en aplicaciones científicas donde la integridad del dato es esencial.",
       "literature": "",
       "path": "concepts/alucinaciones-de-ia.md",
-      "degree": 61
+      "degree": 60
     },
     {
       "id": "concepts/analisis-bibliometrico",
@@ -167,7 +167,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Conjunto de metodologías pedagógicas en que el estudiante participa activamente en la construcción del conocimiento mediante resolución de problemas, discusión y retroalimentación en tiempo real.",
       "literature": "",
       "path": "concepts/aprendizaje-activo.md",
-      "degree": 42
+      "degree": 40
     },
     {
       "id": "concepts/aprendizaje-en-contexto",
@@ -199,7 +199,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición).",
       "literature": "",
       "path": "concepts/autorregulacion-del-aprendizaje.md",
-      "degree": 50
+      "degree": 49
     },
     {
       "id": "concepts/bienestar-academico",
@@ -611,9 +611,7 @@ window.__ACADEMIC_BRAIN__ = {
       "aliases": [
         "trust in AI",
         "confianza en IA",
-        "AI trust",
-        "automation bias",
-        "sesgo de automatizacion"
+        "AI trust"
       ],
       "definition": "Actitud de creer que un agente de IA ayudará a alcanzar los objetivos del usuario en situaciones de incertidumbre; predice la adopción y el uso rutinario de la IA y, vía sesgo de automatización, puede derivar en la aceptación acrítica de sus salidas.",
       "literature": "Cinco trabajos —tres estudios empíricos, una revisión que cita un informe de confianza pública, y un artículo de divulgación institucional— convergen en un diagnóstico compartido: la confianza en la IA rara vez está calibrada con la fiabilidad real del sistema, y esa brecha es el mecanismo que explica tanto la sobredependencia cognitiva como los riesgos éticos documentados en el corpus. El hallazgo más contundente proviene de Choudhuri et al., cuyo modelo PLS-SEM sobre 299 estudiantes STEM de cinco universidades muestra que la confianza predice fuertemente el uso rutinario de la genAI (β = 0.64) y que este, a su vez, media casi por completo (VAF > 0.8) la caída en reflexión (β = −0.66), pensamiento crítico (β = −0.41) y necesidad de comprensión (β = −0.21). El dato más inquietante de ese estudio es que los rasgos que STEM valora como indicadores de preparación profesional —tolerancia al riesgo, autoeficacia computacional, motivación tecnofílica— predicen mayor uso y, por tanto, mayor desenganche cognitivo: la confianza no protege a los mejor preparados, los expone más.\n\nLiu, Fan y Pan documentan el mismo fenómeno desde una óptica cualitativa y en un dominio distinto (programación en Java, un semestre, teoría fundamentada). Su corpus de interacción revela una \"Ilusión de Diálogo\": los estudiantes narran su relación con Copilot como colaboración de un tutor 24/7, mientras los logs muestran que el 75% de los prompts fueron delegación transaccional de un solo paso. Dos patrones de confianza mal calibrada emergen según la experiencia: los novatos exhiben \"Trust-but-Can't-Verify\" (confían porque no tienen la base para verificar), y los estudiantes avanzados sufren el \"Boilerplate Blindspot\" (delegan acríticamente el código que juzgan trivial, y ahí es donde aparecen los defectos). Ambos casos son formas distintas de la misma \"calibración metacognitiva atenuada\": la confianza en la propia competencia se desacopla de la capacidad real sin asistencia.\n\nJamal Eddine et al. sitúan este mismo problema en un nivel estructural: dentro de su mapeo de evidencia sobre brecha digital y GenAI, señalan que la \"sobreconfianza\" estudiantil surge cuando la confianza en la adopción supera la preparación institucional y la capacitación docente, una \"paradoja de adopción\" que citan del Trust in AI Report 2025 (Melbourne/KPMG) y que resulta más aguda en economías emergentes. Es una lectura complementaria, no contradictoria, a la de Choudhuri y Liu et al.: donde estos últimos ven la descalibración como un fenómeno psicológico individual, Jamal Eddine la ve como un desfase institucional —la infraestructura de gobernanza no alcanza al ritmo de adopción—, y Georgieva y Stuart, desde EDUCAUSE, proponen la respuesta normativa a ese mismo desfase: la confianza no debe darse por sentada ni construirse solo por default de mercado, sino cultivarse deliberadamente mediante gobernanza (su propuesto Comité Institucional de Revisión Ética, AIERB) y principios explícitos de transparencia y rendición de cuentas, precisamente porque perciben que \"acelerar la creatividad\" sin marcos éticos \"arriesga... erosionar relaciones educativas\" y desplazar a los docentes de mentores a monitores.\n\nEl estudio de Cheung, Maier y Lieder aporta la pieza que explica por qué esa confianza acrítica es, en efecto, arriesgada: al comparar las decisiones morales de GPT-4, Llama 3.1-Instruct y Claude 3.5 Sonnet con las de participantes humanos, encuentran que los LLMs exhiben un sesgo de omisión muchísimo más marcado que las personas (~45 puntos porcentuales de diferencia entre elegir la opción de costo-beneficio según coincida con acción u omisión, frente a apenas ~5 puntos en humanos) y un \"sesgo sí-no\" no observado en personas, que hace que el consejo del modelo cambie según cómo se formule la pregunta. Cruzan menos de 0.7 de correlación con las respuestas humanas en la mayoría de dilemas —evidencia de que los LLMs no solo están más sesgados, sino que razonan de forma cualitativamente distinta— y localizan el origen del sesgo en el fine-tuning conversacional (RLHF), no en el preentrenamiento. Su conclusión explícita conecta directamente con el resto del corpus: la confianza acrítica en el consejo moral de un LLM puede amplificar sesgos humanos existentes e introducir sesgos enteramente nuevos. Leído junto a Choudhuri et al. y Liu et al., el conjunto sugiere que la confianza en la IA opera como un mecanismo único con manifestaciones en tres niveles —cognitivo (erosión de hábitos de pensamiento), procedimental (incapacidad de verificar lo delegado) y normativo (aceptación de juicios sesgados)— y que ninguno de los cinco estudios encuentra evidencia de que la experiencia previa, la pericia técnica o el nivel académico actúen como protección automática contra la descalibración.",
@@ -958,7 +956,6 @@ window.__ACADEMIC_BRAIN__ = {
         "terraforming",
         "ecología",
         "terraformación",
-        "medio ambiente",
         "ecosistema"
       ],
       "definition": "Ecología, medio ambiente y transformación planetaria (terraformación) como eje del mundo narrativo; incluye la dependencia entre una sociedad y su entorno físico.",
@@ -1095,7 +1092,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Sistema universitario, sus políticas, modelos pedagógicos y estructura institucional; incluye debates sobre misión de la universidad, financiamiento y reforma educativa.",
       "literature": "",
       "path": "concepts/educacion-superior.md",
-      "degree": 165
+      "degree": 162
     },
     {
       "id": "concepts/electrofisiologia",
@@ -1121,7 +1118,6 @@ window.__ACADEMIC_BRAIN__ = {
       "keyword": "emulsiones",
       "aliases": [
         "emulsions",
-        "emulsiones",
         "Pickering emulsion",
         "double emulsion",
         "W/O/W",
@@ -1367,7 +1363,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Diseño, validez y mecanismos de evaluación del aprendizaje en educación superior; incluye debates sobre autenticidad, integridad y reformas estructurales para mantener la validez ante el uso de IA generativa.",
       "literature": "",
       "path": "concepts/evaluacion-educativa.md",
-      "degree": 136
+      "degree": 135
     },
     {
       "id": "concepts/evolucion-cultural",
@@ -1995,7 +1991,6 @@ window.__ACADEMIC_BRAIN__ = {
         "medicina regenerativa",
         "regenerative medicine",
         "cultivo celular 3D",
-        "scaffolds",
         "organoides"
       ],
       "definition": "Campo que combina células, materiales de soporte (scaffolds, hidrogeles) y señales bioquímicas para reparar o regenerar tejidos; incluye la medicina regenerativa, el cultivo celular 3D, los organoides y la reprogramación celular.",
@@ -2080,7 +2075,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Tecnologías de IA —modelos de lenguaje, visión por computadora, sistemas de decisión automatizada— y sus aplicaciones, límites y consecuencias sociales.",
       "literature": "",
       "path": "concepts/inteligencia-artificial.md",
-      "degree": 282
+      "degree": 279
     },
     {
       "id": "concepts/interdisciplinariedad",
@@ -2356,7 +2351,6 @@ window.__ACADEMIC_BRAIN__ = {
       "keyword": "mitologia-y-religion",
       "aliases": [
         "mythology",
-        "religion",
         "mitología",
         "religión",
         "teología",
@@ -2414,7 +2408,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Energía, impulso y conductas que sostienen la participación, el esfuerzo y la persistencia del estudiante en el aprendizaje; el compromiso (engagement) es multidimensional (cognitivo, conductual, emocional y de agencia) y se distingue de los resultados de aprendizaje.",
       "literature": "",
       "path": "concepts/motivacion-y-compromiso-estudiantil.md",
-      "degree": 24
+      "degree": 23
     },
     {
       "id": "concepts/nanociencia",
@@ -2547,7 +2541,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Capacidad de analizar, evaluar y cuestionar información, argumentos y evidencia de forma razonada y reflexiva; en contextos de IA incluye la evaluación crítica de las salidas de sistemas automatizados, la verificación de fuentes y el discernimiento del juicio humano frente a la delegación en máquinas.",
       "literature": "",
       "path": "concepts/pensamiento-critico.md",
-      "degree": 111
+      "degree": 110
     },
     {
       "id": "concepts/peptidos-bioactivos",
@@ -2613,7 +2607,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Adaptación de contenidos, ritmo e instrucción a las características, necesidades y progreso individuales de cada estudiante.",
       "literature": "",
       "path": "concepts/personalizacion-del-aprendizaje.md",
-      "degree": 38
+      "degree": 37
     },
     {
       "id": "concepts/petroleo-y-gas",
@@ -3049,7 +3043,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Uso de sistemas de IA para producir retroalimentación formativa y sumativa, y para apoyar o automatizar la calificación del trabajo estudiantil; incluye debates sobre precisión, equidad, transparencia y sesgo algorítmico.",
       "literature": "",
       "path": "concepts/retroalimentacion-con-ia.md",
-      "degree": 54
+      "degree": 52
     },
     {
       "id": "concepts/revision-sistematica-de-literatura",
@@ -3065,7 +3059,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.",
       "literature": "",
       "path": "concepts/revision-sistematica-de-literatura.md",
-      "degree": 60
+      "degree": 58
     },
     {
       "id": "concepts/salud-mental",
@@ -3474,7 +3468,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Uso de sistemas de inteligencia artificial para proporcionar instrucción individualizada, retroalimentación adaptativa y orientación al estudiante de manera análoga a un tutor humano.",
       "literature": "",
       "path": "concepts/tutoria-con-ia.md",
-      "degree": 57
+      "degree": 56
     },
     {
       "id": "concepts/universidades-chinas",
@@ -9450,37 +9444,6 @@ window.__ACADEMIC_BRAIN__ = {
       "pdf_local": "sources/pdfs/learning-impact-evidence/delikoura_2025_superficial-outputs-learning.pdf"
     },
     {
-      "id": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
-      "kind": "paper",
-      "label": "Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review",
-      "authors": [
-        "Rafael Martínez-Peláez",
-        "Luis J. Mena",
-        "Homero Toral-Cruz",
-        "Alberto Ochoa-Brust",
-        "Víctor Flores",
-        "Rodolfo Ostos",
-        "Julio C. Ramírez Pacheco",
-        "Apolinar González Potes",
-        "Ramón A. Félix",
-        "Vanessa G. Félix"
-      ],
-      "year": "2025",
-      "venue": "Systems (MDPI)",
-      "url": "https://doi.org/10.3390/systems13111013",
-      "doi": "10.3390/systems13111013",
-      "keywords": [
-        "inteligencia-artificial",
-        "pensamiento-critico",
-        "educacion-superior",
-        "revision-sistematica-de-literatura",
-        "aprendizaje-activo"
-      ],
-      "date": "2026-06-27",
-      "path": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior.md",
-      "pdf_local": "sources/pdfs/cheme-applications/martinez-pelaez_2025_llm-critical-thinking-higher-ed-review.pdf"
-    },
-    {
       "id": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
       "kind": "paper",
       "label": "Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review",
@@ -13243,36 +13206,6 @@ window.__ACADEMIC_BRAIN__ = {
       "pdf_local": "sources/pdfs/integrity-by-design/bittle_2025_genai-integrity-systematic-review.pdf"
     },
     {
-      "id": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis",
-      "kind": "paper",
-      "label": "AI support in self-regulated learning: A decade of technological evolution and meta-analysis",
-      "authors": [
-        "Jun Xu",
-        "Yuying Luo",
-        "Mengji Wang",
-        "Yonghe Wu",
-        "Chengliang Wang"
-      ],
-      "year": "2026",
-      "venue": "British Journal of Educational Technology",
-      "url": "https://doi.org/10.1111/bjet.70058",
-      "doi": "10.1111/bjet.70058",
-      "keywords": [
-        "autorregulacion-del-aprendizaje",
-        "inteligencia-artificial",
-        "revision-sistematica-de-literatura",
-        "tutoria-con-ia",
-        "personalizacion-del-aprendizaje",
-        "retroalimentacion-con-ia",
-        "educacion-superior",
-        "motivacion-y-compromiso-estudiantil",
-        "evaluacion-educativa"
-      ],
-      "date": "2026-06-28",
-      "path": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/xu_2026_bjet_ai_srl_decade_meta.pdf"
-    },
-    {
       "id": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
       "kind": "paper",
       "label": "Large language models in education: a systematic review of empirical applications, benefits, and challenges",
@@ -15035,28 +14968,6 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-06-27",
       "path": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales.md",
       "pdf_local": ""
-    },
-    {
-      "id": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
-      "kind": "article",
-      "label": "Integrating Large Language Models into the Chemistry and Materials Science Laboratory Curricula",
-      "authors": [
-        "Chem. Mater. editorial team"
-      ],
-      "year": "2025",
-      "venue": "Chemistry of Materials (ACS)",
-      "url": "https://doi.org/10.1021/acs.chemmater.5c00111",
-      "doi": "",
-      "keywords": [
-        "inteligencia-artificial",
-        "educacion-superior",
-        "aprendizaje-activo",
-        "retroalimentacion-con-ia",
-        "alucinaciones-de-ia"
-      ],
-      "date": "2026-06-27",
-      "path": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales.md",
-      "pdf_local": "sources/pdfs/cheme-applications/maughan_2025_llms-chem-materials-lab-curricula-editorial.pdf"
     },
     {
       "id": "notes/articles/2025-04-16_openai-o3-o4-mini-system-card",
@@ -26354,31 +26265,6 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
-      "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
-      "target": "concepts/inteligencia-artificial",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
-      "target": "concepts/pensamiento-critico",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
-      "target": "concepts/educacion-superior",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
-      "target": "concepts/revision-sistematica-de-literatura",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2025-11-04_llms-pensamiento-critico-educacion-superior",
-      "target": "concepts/aprendizaje-activo",
-      "kind": "keyword"
-    },
-    {
       "source": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
       "target": "concepts/revision-sistematica-de-literatura",
       "kind": "keyword"
@@ -32089,51 +31975,6 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
-      "source": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis",
-      "target": "concepts/autorregulacion-del-aprendizaje",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis",
-      "target": "concepts/inteligencia-artificial",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis",
-      "target": "concepts/revision-sistematica-de-literatura",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis",
-      "target": "concepts/tutoria-con-ia",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis",
-      "target": "concepts/personalizacion-del-aprendizaje",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis",
-      "target": "concepts/retroalimentacion-con-ia",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis",
-      "target": "concepts/educacion-superior",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis",
-      "target": "concepts/motivacion-y-compromiso-estudiantil",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/papers/2026-06-28_ia-srl-decada-meta-analisis",
-      "target": "concepts/evaluacion-educativa",
-      "kind": "keyword"
-    },
-    {
       "source": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
       "target": "concepts/revision-sistematica-de-literatura",
       "kind": "keyword"
@@ -34571,31 +34412,6 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
       "target": "concepts/equidad-educativa",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
-      "target": "concepts/inteligencia-artificial",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
-      "target": "concepts/educacion-superior",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
-      "target": "concepts/aprendizaje-activo",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
-      "target": "concepts/retroalimentacion-con-ia",
-      "kind": "keyword"
-    },
-    {
-      "source": "notes/articles/2025-04-08_llms-laboratorio-quimica-materiales",
-      "target": "concepts/alucinaciones-de-ia",
       "kind": "keyword"
     },
     {

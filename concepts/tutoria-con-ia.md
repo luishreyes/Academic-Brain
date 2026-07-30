@@ -53,7 +53,6 @@ Uso de sistemas de inteligencia artificial para proporcionar instrucción indivi
 - [[notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable]]
 - [[notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct]]
 - [[notes/papers/2025-04-19_metacognitive-support-srl-genai]]
-- [[notes/papers/2026-06-28_ia-srl-decada-meta-analisis]]
 - [[notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica]]
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
 - [[notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem]]
