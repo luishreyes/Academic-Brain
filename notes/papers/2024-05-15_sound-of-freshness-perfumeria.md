@@ -5,7 +5,8 @@ year: 2024
 journal: Food Quality and Preference
 url: https://doi.org/10.1016/j.foodqual.2024.105228
 doi: 10.1016/j.foodqual.2024.105228
-pdf_local: sources/pdfs/multisensory-consumer/rodriguez-2024-sound-of-freshness-perfumeria.pdf
+pdf_ref: rodriguez-2024-sound-of-freshness-perfumeria.pdf
+sha256: 2befdf2f7bf3f6769d9205baa051ad039c653d807c7b3f0f878f165e3e61c191
 type: paper
 keywords: [percepcion-multisensorial, comportamiento-del-consumidor, diseno-de-producto]
 date_added: 2026-06-26

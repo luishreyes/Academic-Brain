@@ -5,7 +5,8 @@ year: 2025
 journal: "Social Sciences & Humanities Open, 12, 102287"
 url: https://doi.org/10.1016/j.ssaho.2025.102287
 doi: 10.1016/j.ssaho.2025.102287
-pdf_local: sources/pdfs/learning-impact-evidence/barcaui2025-chatgpt-muleta-cognitiva.pdf
+pdf_ref: barcaui2025-chatgpt-muleta-cognitiva.pdf
+sha256: 99f39d0bb90752f24043e123aad32173597c76d3cf4c41627625c5f98dac8192
 type: paper
 keywords: [ensayo-controlado-aleatorio, descarga-cognitiva, sobredependencia-de-la-ia, retencion-del-aprendizaje, educacion-superior]
 date_added: 2026-07-13

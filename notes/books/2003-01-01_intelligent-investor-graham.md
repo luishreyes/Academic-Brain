@@ -5,7 +5,6 @@ year: 1949
 publisher: HarperCollins Publishers
 url: 
 isbn: 9780060555665
-pdf_local: 
 type: book
 keywords: [finanzas-personales, sesgo-cognitivo]
 date_added: 2026-06-26

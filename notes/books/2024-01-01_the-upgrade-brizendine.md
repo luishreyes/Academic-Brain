@@ -5,7 +5,6 @@ year: 2024
 publisher: Harmony Books
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [neurociencia, salud-y-sociedad, desigualdad-de-genero, psicologia-del-bienestar]
 date_added: 2026-07-05

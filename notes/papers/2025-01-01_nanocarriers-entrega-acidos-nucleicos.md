@@ -5,7 +5,8 @@ year: 2025
 journal: "Nano Carriers for Nucleic Acids and Proteins (Routledge/CRC, eds. Reyes, Cruz & Pathak), cap. 11"
 url: https://doi.org/10.1201/9781003473183
 doi: 10.1201/9781003473183
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/guzman-sastoque-2025-nanocarriers-acidos-nucleicos.pdf
+pdf_ref: guzman-sastoque-2025-nanocarriers-acidos-nucleicos.pdf
+sha256: d4e4ac8e42afda04a02f54229661edfade1b920010d15d9fdd1061daff19d338
 type: paper
 keywords: [nanociencia, biomateriales, terapia-genica, desarrollo-de-farmacos, biologia-molecular]
 date_added: 2026-06-26

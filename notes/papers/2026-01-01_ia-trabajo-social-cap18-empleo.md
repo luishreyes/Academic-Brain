@@ -5,7 +5,8 @@ year: 2026
 journal: "Artificial Intelligence in Social Work (An & Lindsey, eds.), Springer"
 url: https://doi.org/10.1007/978-3-032-18443-6_18
 doi: 10.1007/978-3-032-18443-6_18
-pdf_local: sources/pdfs/ai-social-work/ch18-futuro-del-trabajo.pdf
+pdf_ref: ch18-futuro-del-trabajo.pdf
+sha256: e221a964f0edf040a7198514f039cb07a6336259a9b3ce024bd40051af18f0e0
 type: paper
 keywords: [trabajo-social, futuro-del-trabajo, comportamiento-organizacional, sesgo-algoritmico, etica-de-la-ia, regulacion-de-ia, salud-mental, inteligencia-artificial]
 date_added: 2026-07-05

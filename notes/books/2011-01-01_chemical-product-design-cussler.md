@@ -5,7 +5,6 @@ year: 2011
 publisher: Cambridge University Press
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [ingenieria-quimica]
 date_added: 2026-06-26

@@ -5,7 +5,8 @@ year: 2013
 journal: "Methods in Molecular Biology, vol. 985"
 url: https://doi.org/10.1007/978-1-62703-299-5_11
 doi: 10.1007/978-1-62703-299-5_11
-pdf_local: sources/pdfs/metabolic-biotechnology/winkler2013-adaptive-lab-evolution.pdf
+pdf_ref: winkler2013-adaptive-lab-evolution.pdf
+sha256: 1266386773b7571975e2c598190d8ccda2d39935d59ca0ad1e6dee14f4c9232b
 type: paper
 keywords: [evolucion-de-laboratorio, ingenieria-metabolica, dinamica-de-poblaciones, ingenieria-quimica]
 date_added: 2026-06-26

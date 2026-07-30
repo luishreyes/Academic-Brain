@@ -5,7 +5,8 @@ year: 2025
 journal: "Proceedings of the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025)"
 url: https://doi.org/10.1145/3641554.3701863
 doi: 10.1145/3641554.3701863
-pdf_local: sources/pdfs/existing-reviews-gapmap/raihan_2025_llm-cs-education.pdf
+pdf_ref: raihan_2025_llm-cs-education.pdf
+sha256: ca94b9cdb318adc3988f46060fc68d6ba3e28ddd21704c6df64f61aed9b8be74
 type: paper
 keywords: [educacion-en-programacion, inteligencia-artificial, revision-sistematica-de-literatura, integridad-academica, deteccion-de-texto-ia, retroalimentacion-con-ia, tutoria-con-ia, ingenieria-de-prompts, evaluacion-educativa, adopcion-de-tecnologia]
 date_added: 2026-06-28

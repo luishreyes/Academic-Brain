@@ -7,7 +7,8 @@ url: https://doi.org/10.1787/062a7394-en
 type: article
 keywords: [inteligencia-artificial, tutoria-con-ia, personalizacion-del-aprendizaje, aprendizaje-activo, creatividad, retroalimentacion-con-ia, evaluacion-educativa, formacion-docente, regulacion-de-ia, supervision-humana, educacion-k12, educacion-superior]
 date_added: 2026-06-28
-pdf_local: sources/pdfs/learning-impact-evidence/oecd_2026_digital-education-outlook.pdf
+pdf_ref: oecd_2026_digital-education-outlook.pdf
+sha256: dd21a1b9edd94f803631d10244663af1638cbb3af9fd7e9b294f18c0406f9ccb
 doi: 10.1787/062a7394-en
 ---
 

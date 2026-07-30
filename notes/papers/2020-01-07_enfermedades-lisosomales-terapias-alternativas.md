@@ -5,7 +5,8 @@ year: 2020
 journal: Journal of Molecular Medicine
 url: https://doi.org/10.1007/s00109-020-01935-6
 doi: 10.1007/s00109-020-01935-6
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/leal2020-enfermedades-lisosomales-terapias.pdf
+pdf_ref: leal2020-enfermedades-lisosomales-terapias.pdf
+sha256: 70699cfdd9ffd0c239626555b1615c12a7922abb2aa88b9ae1abcca40a948346
 type: paper
 keywords: [enfermedades-raras, proteinas-recombinantes, biologia-molecular, terapia-genica, ingenieria-quimica]
 date_added: 2026-06-26

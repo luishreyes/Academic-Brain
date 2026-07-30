@@ -5,7 +5,6 @@ year: 2016
 publisher: Sanjiv Ranjan Das (self-published)
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [ciencia-de-datos]
 date_added: 2026-06-26

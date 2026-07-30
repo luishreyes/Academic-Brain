@@ -5,7 +5,6 @@ year: 2012
 publisher: Viking / Penguin
 url: 
 isbn: 978-0-670-02496-5
-pdf_local: 
 type: book
 keywords: [desarrollo-del-caracter, autorregulacion-del-aprendizaje, creatividad, psicologia-educativa, futuro-del-trabajo, filosofia, humanidades, historia-de-la-innovacion]
 date_added: 2026-06-25

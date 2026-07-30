@@ -5,7 +5,8 @@ year: 2026
 journal: "Computers and Education: Artificial Intelligence"
 url: https://doi.org/10.1016/j.caeai.2026.100561
 doi: 10.1016/j.caeai.2026.100561
-pdf_local: sources/pdfs/risks-overreliance-equity/tao_2026_k12-genai-risks-scoping.pdf
+pdf_ref: tao_2026_k12-genai-risks-scoping.pdf
+sha256: c526a6a3014977c5a86a30a1efc85c83898f127032a76504bd1f5b15a1616c84
 type: paper
 keywords: [educacion-k12, sobredependencia-de-la-ia, descarga-cognitiva, pensamiento-critico, creatividad, equidad-educativa, regulacion-de-ia, supervision-humana, alfabetizacion-en-ia, revision-sistematica-de-literatura]
 date_added: 2026-06-28

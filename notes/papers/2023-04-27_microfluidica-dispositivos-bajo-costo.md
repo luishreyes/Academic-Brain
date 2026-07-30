@@ -5,7 +5,8 @@ year: 2023
 journal: "Frontiers in Bioengineering and Biotechnology"
 url: "https://doi.org/10.3389/fbioe.2023.1176557"
 doi: "10.3389/fbioe.2023.1176557"
-pdf_local: sources/pdfs/microfluidics/rodriguez-2023-microfluidica-bajo-costo.pdf
+pdf_ref: rodriguez-2023-microfluidica-bajo-costo.pdf
+sha256: 5af330bfaf9219c367d276aac76fa1472a51e57e238b5d3f3e6ae94e574dc3b5
 type: paper
 keywords: [microfluidica, ingenieria-quimica, nanociencia]
 date_added: 2026-06-26

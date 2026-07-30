@@ -5,7 +5,8 @@ year: 2026
 journal: Education Sciences
 url: https://doi.org/10.3390/educsci16060838
 doi: 10.3390/educsci16060838
-pdf_local: sources/pdfs/faculty-development-implementation/yang_2025_multilevel-barriers.pdf
+pdf_ref: yang_2025_multilevel-barriers.pdf
+sha256: e3805aad269c5bd4327455c9682205364ed253bec07eb2b9cf1257ecb7545a6c
 type: paper
 keywords: [adopcion-de-tecnologia, educacion-superior, inteligencia-artificial, etica-de-la-ia, integridad-academica, regulacion-de-ia, psicometria, procesamiento-de-lenguaje-natural, pensamiento-critico, cultura-organizacional]
 date_added: 2026-06-28

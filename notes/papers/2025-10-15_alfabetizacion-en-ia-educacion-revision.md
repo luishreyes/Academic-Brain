@@ -5,7 +5,8 @@ year: 2025
 journal: Discover Education
 url: https://doi.org/10.1007/s44217-025-00924-6
 doi: 10.1007/s44217-025-00924-6
-pdf_local: sources/pdfs/ai-literacy-competency/vanderlinde_2025_ai-literacy-landscape-review.pdf
+pdf_ref: vanderlinde_2025_ai-literacy-landscape-review.pdf
+sha256: 61e486c960f607fe093363bc5ba0167e67ff144c8a42d7c20247e03691c0fda4
 type: paper
 keywords: [alfabetizacion-en-ia, etica-de-la-ia, educacion-superior, educacion-k12, formacion-docente, aprendizaje-activo, futuro-del-trabajo, equidad-educativa, interdisciplinariedad, autorregulacion-del-aprendizaje]
 date_added: 2026-06-27

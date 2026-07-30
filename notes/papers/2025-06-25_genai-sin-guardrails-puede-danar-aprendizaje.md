@@ -5,7 +5,8 @@ year: 2025
 journal: Proceedings of the National Academy of Sciences (PNAS)
 url: https://doi.org/10.1073/pnas.2422633122
 doi: 10.1073/pnas.2422633122
-pdf_local: sources/pdfs/learning-impact-evidence/bastani_2025_genai-without-guardrails.pdf
+pdf_ref: bastani_2025_genai-without-guardrails.pdf
+sha256: a60a9c9213cff3e901066a9826ef183a5a5878a304bf460503e07d802c3b068b
 type: paper
 keywords: [inteligencia-artificial, equidad-educativa, tutoria-con-ia, ensayo-controlado-aleatorio, educacion-k12, ingenieria-de-prompts, alucinaciones-de-ia, autorregulacion-del-aprendizaje, supervision-humana, evaluacion-educativa, futuro-del-trabajo]
 date_added: 2026-06-28

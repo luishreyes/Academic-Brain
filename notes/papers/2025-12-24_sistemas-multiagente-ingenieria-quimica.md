@@ -5,7 +5,8 @@ year: 2026
 journal: Current Opinion in Chemical Engineering
 url: https://doi.org/10.1016/j.coche.2025.101209
 doi: 10.1016/j.coche.2025.101209
-pdf_local: sources/pdfs/capability-reliability/rupprecht_2026_multiagent-systems-chemeng.pdf
+pdf_ref: rupprecht_2026_multiagent-systems-chemeng.pdf
+sha256: 460f0b5ea083113cc9d816f64dd61d7411cf68cb20ac183f5bcd759ea4ec4559
 type: paper
 keywords: [agentes-de-ia, inteligencia-artificial, ingenieria-quimica, capacidades-de-ia, supervision-humana]
 date_added: 2026-06-27

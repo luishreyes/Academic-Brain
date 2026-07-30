@@ -17,7 +17,8 @@ keywords:
   - STEM
   - tecnocracia
   - universidades-chinas
-pdf_local: sources/pdfs/engineering-education/fan2026-ciencia-humanidades.pdf
+pdf_ref: fan2026-ciencia-humanidades.pdf
+sha256: af581c6e9f1223aee151562c1b54cf9f0d2cb365147c7423f4bfe35f2fdae580
 date_added: 2026-06-25
 ---
 

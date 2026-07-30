@@ -4,7 +4,8 @@ author: Anthropic
 publication: Anthropic
 date: 2026-05-28
 url: https://www.anthropic.com
-pdf_local: sources/pdfs/capability-reliability/anthropic_2026_claude-opus-4-8-system-card.pdf
+pdf_ref: anthropic_2026_claude-opus-4-8-system-card.pdf
+sha256: 97f11ae3fb305c7105c958599bcf90f216669543393220f674610ddb83ee611a
 type: article
 keywords: [capacidades-de-ia, seguridad-de-ia, alineamiento-de-ia, etica-de-la-ia, alucinaciones-de-ia, supervision-humana, agentes-de-ia, regulacion-de-ia, inteligencia-artificial]
 date_added: 2026-06-27

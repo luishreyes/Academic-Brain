@@ -5,7 +5,6 @@ year: 2019
 publisher: Little, Brown and Company
 url: 
 isbn: 9780316478526
-pdf_local: 
 type: book
 keywords: [sesgo-cognitivo, psicologia-educativa, ciencia-y-sociedad, filosofia, humanidades, salud-y-sociedad, epistemologia-del-riesgo, comunicacion-cientifica]
 date_added: 2026-06-25

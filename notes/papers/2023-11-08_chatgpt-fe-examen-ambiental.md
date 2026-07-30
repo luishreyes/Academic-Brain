@@ -5,7 +5,8 @@ year: 2023
 journal: "Computers and Education: Artificial Intelligence"
 url: https://doi.org/10.1016/j.caeai.2023.100183
 doi: 10.1016/j.caeai.2023.100183
-pdf_local: sources/pdfs/capability-reliability/pursnani_2023_chatgpt-fe-environmental-exam.pdf
+pdf_ref: pursnani_2023_chatgpt-fe-environmental-exam.pdf
+sha256: a14f4277ca4110af3763a4ade10aac7dbf8d60c9eef0ae8ff34bd56c5039e956
 type: paper
 keywords: [capacidades-de-ia, educacion-en-ingenieria, evaluacion-educativa, integridad-academica, inteligencia-artificial, ingenieria-ambiental, alucinaciones-de-ia, supervision-humana, equidad-educativa]
 date_added: 2026-06-27

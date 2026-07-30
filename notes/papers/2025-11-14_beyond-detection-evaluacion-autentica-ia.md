@@ -5,7 +5,8 @@ year: 2025
 journal: Education Sciences
 url: https://doi.org/10.3390/educsci15111537
 doi: 10.3390/educsci15111537
-pdf_local: sources/pdfs/assessment-redesign/kickbusch_2025_beyond-detection-authentic-assessment.pdf
+pdf_ref: kickbusch_2025_beyond-detection-authentic-assessment.pdf
+sha256: 6cdac626c311a29f6ea6f805c8a8cf189ae4ad982f27114f49c9cf4f7caf2c85
 type: paper
 keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, pensamiento-critico, etica-de-la-ia, alfabetizacion-en-ia, futuro-del-trabajo, supervision-humana, equidad-educativa]
 date_added: 2026-06-27

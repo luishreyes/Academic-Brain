@@ -5,7 +5,8 @@ year: 2025
 journal: TechTrends
 url: https://doi.org/10.1007/s11528-025-01150-5
 doi: 10.1007/s11528-025-01150-5
-pdf_local: sources/pdfs/faculty-development-implementation/wu_2025_evolving-perspectives-stakeholder.pdf
+pdf_ref: wu_2025_evolving-perspectives-stakeholder.pdf
+sha256: 3f7873f8a98117890f0bcaa327f26b58eaae2ceefb407829386100d2b6363482
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, adopcion-de-tecnologia, integridad-academica, alfabetizacion-en-ia, regulacion-de-ia, futuro-del-trabajo, formacion-docente, psicometria]
 date_added: 2026-06-28

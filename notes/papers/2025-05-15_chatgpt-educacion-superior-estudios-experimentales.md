@@ -5,7 +5,8 @@ year: 2025
 journal: Journal of Computer Assisted Learning
 url: https://doi.org/10.1111/jcal.70072
 doi: 10.1111/jcal.70072
-pdf_local: sources/pdfs/existing-reviews-gapmap/jin_2025_chatgpt-experimental.pdf
+pdf_ref: jin_2025_chatgpt-experimental.pdf
+sha256: e5b0c590240dfbe6e10457e7e3c8cfd63a984898144d69f1f9d289d78da79a03
 type: paper
 keywords: [inteligencia-artificial, revision-sistematica-de-literatura, educacion-superior, tutoria-con-ia, ensayo-controlado-aleatorio, evaluacion-educativa]
 date_added: 2026-06-28

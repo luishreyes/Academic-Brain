@@ -5,7 +5,8 @@ year: 2024
 journal: Frontiers in Bioengineering and Biotechnology
 url: https://doi.org/10.3389/fbioe.2024.1450694
 doi: 10.3389/fbioe.2024.1450694
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/salgado-2024-cpp-captacion-magnetita.pdf
+pdf_ref: salgado-2024-cpp-captacion-magnetita.pdf
+sha256: df48b353465b913af4da03552b98db0f1b1b27cc872bdd3cbc127332d4e40788
 type: paper
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos, biologia-molecular]
 date_added: 2026-06-26

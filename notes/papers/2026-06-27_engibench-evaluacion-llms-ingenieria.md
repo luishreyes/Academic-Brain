@@ -5,7 +5,8 @@ year: 2025
 journal: "arXiv preprint (arXiv:2509.17677)"
 url: https://arxiv.org/abs/2509.17677
 doi:
-pdf_local: sources/pdfs/capability-reliability/zhou_2025_engibench-engineering-problem-solving.pdf
+pdf_ref: zhou_2025_engibench-engineering-problem-solving.pdf
+sha256: 85b80d252465c170d69195ad4979a1531c7cd31b43c20c17586cf7ea50a6702c
 type: paper
 keywords: [capacidades-de-ia, inteligencia-artificial, educacion-en-ingenieria, pensamiento-critico]
 date_added: 2026-06-27

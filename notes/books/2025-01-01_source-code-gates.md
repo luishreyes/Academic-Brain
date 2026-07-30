@@ -5,7 +5,6 @@ year: 2025
 publisher: Alfred A. Knopf
 url: 
 isbn: 
-pdf_local: 
 type: book
 keywords: [educacion-en-programacion, historia-de-la-innovacion, economia-de-la-innovacion]
 date_added: 2026-07-05

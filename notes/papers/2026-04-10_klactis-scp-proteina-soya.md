@@ -5,7 +5,8 @@ year: 2026
 journal: ACS Omega
 url: https://doi.org/10.1021/acsomega.5c13283
 doi: 10.1021/acsomega.5c13283
-pdf_local: sources/pdfs/food-engineering/diaz-bustamante-2026-klactis-scp-soya.pdf
+pdf_ref: diaz-bustamante-2026-klactis-scp-soya.pdf
+sha256: 794507e56016cd89d844913ec92137651decdde7f92c558788953da73bd5d70c
 type: paper
 keywords: [ingenieria-de-alimentos, sostenibilidad, economia-circular]
 date_added: 2026-06-26

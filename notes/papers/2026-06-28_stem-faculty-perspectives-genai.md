@@ -5,7 +5,8 @@ year: 2026
 journal: "arXiv preprint (Department of Computer Science, San Francisco State University)"
 url: https://arxiv.org/abs/2603.04001
 doi:
-pdf_local: sources/pdfs/faculty-development-implementation/desilva_2026_stem-faculty-perspectives.pdf
+pdf_ref: desilva_2026_stem-faculty-perspectives.pdf
+sha256: c7058b42197613aba3920abd2fde05fe2344bd9826afbcbd102a4c79e7da4b7c
 type: paper
 keywords: [educacion-superior, inteligencia-artificial, STEM, evaluacion-educativa, integridad-academica, pensamiento-critico, formacion-docente, ingenieria-de-prompts, deteccion-de-texto-ia, regulacion-de-ia, educacion-en-programacion]
 date_added: 2026-06-28

@@ -5,7 +5,8 @@ year: 2023
 journal: arXiv (preprint)
 url: https://arxiv.org/abs/2309.13059
 doi: 10.48550/arXiv.2309.13059
-pdf_local: sources/pdfs/cheme-applications/abedi_2023_chatbot-graduate-fluid-mechanics-preprint.pdf
+pdf_ref: abedi_2023_chatbot-graduate-fluid-mechanics-preprint.pdf
+sha256: db07f29a0ef34a7a0701370aa097eccf9d334586e5a10b645d2df315e51f4ba8
 type: paper
 keywords: [tutoria-con-ia, inteligencia-artificial, educacion-en-ingenieria, educacion-superior, capacidades-de-ia, razonamiento-cuantitativo-llm, alucinaciones-de-ia, retroalimentacion-con-ia, integridad-academica, STEM]
 date_added: 2026-06-27

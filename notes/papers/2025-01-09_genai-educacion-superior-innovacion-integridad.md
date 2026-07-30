@@ -5,7 +5,8 @@ year: 2025
 journal: British Journal of Biomedical Science
 url: https://doi.org/10.3389/bjbs.2024.14048
 doi: 10.3389/bjbs.2024.14048
-pdf_local: sources/pdfs/integrity-by-design/francis_2025_balancing-innovation-integrity.pdf
+pdf_ref: francis_2025_balancing-innovation-integrity.pdf
+sha256: d9f42fd52cd1613b2058d6a06b656a6e2a340b9ba817e7870e1a6869758c2772
 type: paper
 keywords: [inteligencia-artificial, educacion-superior, integridad-academica, evaluacion-educativa, personalizacion-del-aprendizaje, etica-de-la-ia, equidad-educativa, alfabetizacion-en-ia, deteccion-de-texto-ia, retroalimentacion-con-ia, autorregulacion-del-aprendizaje, pensamiento-critico]
 date_added: 2026-06-28

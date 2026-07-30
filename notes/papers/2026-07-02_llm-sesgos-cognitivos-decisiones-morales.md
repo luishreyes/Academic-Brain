@@ -5,7 +5,8 @@ year: 2025
 journal: Proceedings of the National Academy of Sciences (PNAS)
 url: https://doi.org/10.1073/pnas.2412015122
 doi: 10.1073/pnas.2412015122
-pdf_local: sources/pdfs/ai-science-society/cheung_2025_llm-cognitive-biases-moral-decisions.pdf
+pdf_ref: cheung_2025_llm-cognitive-biases-moral-decisions.pdf
+sha256: 03f56df8da8e98a381dc363add69ea460d583f6c2d1bc0fb2cb3cdb25ac5623f
 type: paper
 keywords: [sesgo-cognitivo, etica-de-la-ia, inteligencia-artificial, alineamiento-de-ia, confianza-en-la-ia, sobredependencia-de-la-ia, capacidades-de-ia]
 date_added: 2026-07-02

@@ -5,7 +5,6 @@ year: 2014
 publisher: Doubleday
 url: 
 isbn: 978-0-385-53082-8
-pdf_local: 
 type: book
 keywords: [neurociencia, inteligencia-artificial, fisica-y-cosmologia, filosofia, comunicacion-cientifica]
 date_added: 2026-07-05

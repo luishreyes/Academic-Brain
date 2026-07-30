@@ -5,7 +5,8 @@ year: 2026
 journal: "Computers and Education: Artificial Intelligence"
 url: https://doi.org/10.1016/j.caeai.2026.100540
 doi: 10.1016/j.caeai.2026.100540
-pdf_local: sources/pdfs/ai-education/hackl2026-heptagon-alfabetizacion-ia.pdf
+pdf_ref: hackl2026-heptagon-alfabetizacion-ia.pdf
+sha256: 4b3d5d5a0ab8c0ae2a9cb730599a9c211e91b150090c88ccffd75e02037f3425
 type: paper
 keywords: [alfabetizacion-en-ia, inteligencia-artificial, educacion-superior, etica-de-la-ia, regulacion-de-ia, revision-sistematica-de-literatura, evaluacion-educativa, interdisciplinariedad]
 date_added: 2026-06-25

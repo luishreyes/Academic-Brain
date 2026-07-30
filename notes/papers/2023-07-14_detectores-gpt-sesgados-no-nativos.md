@@ -5,7 +5,8 @@ year: 2023
 journal: "Patterns"
 url: https://doi.org/10.1016/j.patter.2023.100779
 doi: 10.1016/j.patter.2023.100779
-pdf_local: sources/pdfs/integrity-by-design/liang_2023_gpt-detectors-biased-nonnative.pdf
+pdf_ref: liang_2023_gpt-detectors-biased-nonnative.pdf
+sha256: 759fe608f6765e93fe30da202ba2b38b483a071d68f762eda9a0c4d81721ac6e
 type: paper
 keywords: [deteccion-de-texto-ia, integridad-academica, equidad-educativa, inteligencia-artificial, procesamiento-de-lenguaje-natural, ensenanza-de-lenguas, etica-de-la-ia, evaluacion-educativa]
 date_added: 2026-06-28

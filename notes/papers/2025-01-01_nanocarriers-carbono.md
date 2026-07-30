@@ -5,7 +5,8 @@ year: 2025
 journal: "Nano Carriers for Nucleic Acids and Proteins (Routledge/CRC, eds. Reyes, Cruz & Pathak), cap. 6"
 url: https://doi.org/10.1201/9781003473183
 doi: 10.1201/9781003473183
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/rodriguez-2025-nanocarriers-carbono.pdf
+pdf_ref: rodriguez-2025-nanocarriers-carbono.pdf
+sha256: 1aec8372fc899b397a1cf24d56d2d0b2f96714548c9ba1c96e365c987ab1c89a
 type: paper
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos]
 date_added: 2026-06-26

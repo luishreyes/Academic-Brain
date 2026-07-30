@@ -5,7 +5,6 @@ year: 2023
 publisher: Penguin Publishing Group
 url: 
 isbn: 9780593653159
-pdf_local: 
 type: book
 keywords: [psicologia-educativa, autorregulacion-del-aprendizaje, equidad-educativa, educacion-k12, evaluacion-educativa, creatividad, futuro-del-trabajo, desarrollo-del-caracter]
 date_added: 2026-06-25

@@ -5,7 +5,8 @@ year: 2024
 journal: arXiv preprint (arXiv:2407.18745)
 url: https://arxiv.org/abs/2407.18745
 doi:
-pdf_local: sources/pdfs/risks-overreliance-equity/yin_2024_fairaied-fairness-bias-eduai.pdf
+pdf_ref: yin_2024_fairaied-fairness-bias-eduai.pdf
+sha256: 0b0a69893d11f5c606bc2c0a2bee7a01585969d4d5f4478dbfd0ce8cee2c85ed
 type: paper
 keywords: [sesgo-algoritmico, equidad-educativa, etica-de-la-ia, inteligencia-artificial, retroalimentacion-con-ia, personalizacion-del-aprendizaje, regulacion-de-ia, revision-sistematica-de-literatura, desigualdad-de-genero, evaluacion-educativa]
 date_added: 2026-06-28

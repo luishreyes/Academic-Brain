@@ -5,7 +5,8 @@ year: 2026
 journal: Computers & Education
 url: https://doi.org/10.1016/j.compedu.2026.105616
 doi: 10.1016/j.compedu.2026.105616
-pdf_local: sources/pdfs/integrity-by-design/sun_2026_trusting-ai-detect-ai.pdf
+pdf_ref: sun_2026_trusting-ai-detect-ai.pdf
+sha256: 0766a6d169ee68674fb71edaef56a39a47bdc9deffd7a1be26df719d12d34f1d
 type: paper
 keywords: [deteccion-de-texto-ia, integridad-academica, evaluacion-educativa, educacion-superior, equidad-educativa, educacion-en-programacion, inteligencia-artificial, capacidades-de-ia]
 date_added: 2026-06-28

@@ -4,7 +4,8 @@ author: American Society of Civil Engineers (ASCE)
 publication: ASCE Policy Statements
 date: 2024-07-18
 url: https://www.asce.org/advocacy/policy-statements/ps573---artificial-intelligence-and-engineering-responsibility
-pdf_local: sources/pdfs/risks-overreliance-equity/asce_2024_policy-statement-573-ai.pdf
+pdf_ref: asce_2024_policy-statement-573-ai.pdf
+sha256: 2351c35f1d3bc256f9179b9c0a17760613749628735b44ff25b20f9ef227aaf8
 type: article
 keywords: [regulacion-de-ia, supervision-humana, etica-de-la-ia, sobredependencia-de-la-ia, profesion-de-la-ingenieria, inteligencia-artificial]
 date_added: 2026-06-28

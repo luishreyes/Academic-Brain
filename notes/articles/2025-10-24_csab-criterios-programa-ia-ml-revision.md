@@ -7,7 +7,8 @@ url: https://csab.org/new-artificial-intelligence-machine-learning-ai-ml-program
 type: article
 keywords: [acreditacion-academica, educacion-en-programacion, educacion-en-ingenieria, educacion-superior, regulacion-de-ia, inteligencia-artificial, STEM]
 date_added: 2026-06-28
-pdf_local: sources/pdfs/policy-ethics-accreditation/csab_2025_aiml-program-criteria-announcement.pdf
+pdf_ref: csab_2025_aiml-program-criteria-announcement.pdf
+sha256: f4a19257fc548ced454916254e9ea806f380a188e700f0c9ce785f1285f9038d
 ---
 
 # Nuevos Criterios de Programa de IA / ML aprobados para un ano de revision y comentarios

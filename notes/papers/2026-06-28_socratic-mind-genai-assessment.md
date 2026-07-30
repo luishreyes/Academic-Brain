@@ -5,7 +5,8 @@ year: 2025
 journal: arXiv (preprint)
 url: 
 doi: 
-pdf_local: sources/pdfs/scaffolding-socratic-metacognition/lee_2025_socraticmind_arxiv.pdf
+pdf_ref: lee_2025_socraticmind_arxiv.pdf
+sha256: ece0b357c37b481c711a3b8729e4f028d6410798f37a239cd70eca338c867496
 type: paper
 keywords: [evaluacion-educativa, tutoria-con-ia, retroalimentacion-con-ia, motivacion-y-compromiso-estudiantil, pensamiento-critico, autorregulacion-del-aprendizaje, educacion-en-programacion, inteligencia-artificial, equidad-educativa, aprendizaje-activo, filosofia]
 date_added: 2026-06-28

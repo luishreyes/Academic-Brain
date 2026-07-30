@@ -5,7 +5,8 @@ year: 2025
 journal: Journal of Nanotheranostics (MDPI)
 url: https://doi.org/10.3390/jnt6020010
 doi: 10.3390/jnt6020010
-pdf_local: sources/pdfs/nanomedicine-drug-delivery/guzman-sastoque-2025-nanoteranostica-terapia-genica.pdf
+pdf_ref: guzman-sastoque-2025-nanoteranostica-terapia-genica.pdf
+sha256: 52efb6df6e97901cb69b4ab64b8c639830c4fe1750dd3be2f6caf4d6d520621c
 type: paper
 keywords: [nanociencia, terapia-genica, biomateriales, desarrollo-de-farmacos, biologia-molecular]
 date_added: 2026-06-26

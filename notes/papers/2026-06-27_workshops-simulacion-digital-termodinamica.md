@@ -5,7 +5,8 @@ year: 2026
 journal: Interactive Learning Environments
 url: https://doi.org/10.1080/10494820.2025.2529445
 doi: 10.1080/10494820.2025.2529445
-pdf_local: sources/pdfs/cheme-applications/luberti_2026_digital-simulation-workshops-thermo.pdf
+pdf_ref: luberti_2026_digital-simulation-workshops-thermo.pdf
+sha256: 00f1734aaf62b74ed9ac3223b5311bcd6bf261845d041131653618c02ff6a47d
 type: paper
 keywords: [educacion-en-ingenieria, ingenieria-quimica, simulacion-computacional, aprendizaje-activo, pensamiento-critico, evaluacion-educativa, psicologia-educativa]
 date_added: 2026-06-27

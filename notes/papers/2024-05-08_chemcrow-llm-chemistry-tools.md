@@ -5,7 +5,8 @@ year: 2024
 journal: Nature Machine Intelligence
 url: https://www.nature.com/articles/s42256-024-00832-8
 doi: 10.1038/s42256-024-00832-8
-pdf_local: sources/pdfs/capability-reliability/bran_2024_chemcrow-llm-chemistry-tools.pdf
+pdf_ref: bran_2024_chemcrow-llm-chemistry-tools.pdf
+sha256: 28be4990cf5fc5fa50b379684a9d4c31c3a0ad36aeab1759d324ee428b29de16
 type: paper
 keywords: [agentes-de-ia, inteligencia-artificial, quimica-computacional, descubrimiento-cientifico, desarrollo-de-farmacos, alucinaciones-de-ia, capacidades-de-ia, supervision-humana, seguridad-de-ia]
 date_added: 2026-06-27

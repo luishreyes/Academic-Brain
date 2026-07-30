@@ -5,7 +5,8 @@ year: 2024
 journal: Digital Chemical Engineering
 url: https://doi.org/10.1016/j.dche.2024.100168
 doi: 10.1016/j.dche.2024.100168
-pdf_local: sources/pdfs/cheme-applications/daniel_2024_responsible-genai-chemeng.pdf
+pdf_ref: daniel_2024_responsible-genai-chemeng.pdf
+sha256: da76150a736bc087dfa0ece92720b12cebae92f55c10f06766a7cbc8066335cc
 type: paper
 keywords: [inteligencia-artificial, etica-de-la-ia, ingenieria-quimica, regulacion-de-ia, supervision-humana, ia-explicable, seguridad-de-ia, educacion-en-ingenieria]
 date_added: 2026-06-27

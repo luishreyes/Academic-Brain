@@ -5,7 +5,8 @@ year: 2026
 journal: Educational Psychology Review
 url: https://doi.org/10.1007/s10648-026-10166-z
 doi: 10.1007/s10648-026-10166-z
-pdf_local: sources/pdfs/scaffolding-socratic-metacognition/huang_2026_ai_feedback_srl_meta.pdf
+pdf_ref: huang_2026_ai_feedback_srl_meta.pdf
+sha256: d54daf316a4f6944ca7d4aacdbbb8b2cd0154e474a57f6423cfcc1d249e0fe8f
 type: paper
 keywords: [retroalimentacion-con-ia, autorregulacion-del-aprendizaje, educacion-superior, inteligencia-artificial, tutoria-con-ia, revision-sistematica-de-literatura, motivacion-y-compromiso-estudiantil, psicologia-educativa, descarga-cognitiva]
 date_added: 2026-06-28

@@ -3576,7 +3576,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/1996-01-01_enhancing-teaching-constructive-alignment.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/biggs_1996_constructive-alignment.pdf"
+      "pdf_ref": "biggs_1996_constructive-alignment.pdf"
     },
     {
       "id": "notes/papers/2002-01-01_becoming-self-regulated-learner-overview",
@@ -3598,7 +3598,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2002-01-01_becoming-self-regulated-learner-overview.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/zimmerman_2002_becoming_srl.pdf"
+      "pdf_ref": "zimmerman_2002_becoming_srl.pdf"
     },
     {
       "id": "notes/papers/2007-05-18_force-constants-alanine-polypeptides",
@@ -3621,7 +3621,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2007-05-18_force-constants-alanine-polypeptides.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/reyes2007-force-constants-alanine.pdf"
+      "pdf_ref": "reyes2007-force-constants-alanine.pdf"
     },
     {
       "id": "notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres",
@@ -3642,7 +3642,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-04",
       "path": "notes/papers/2008-01-01_seguridad-alimentaria-resiliencia-desastres.md",
-      "pdf_local": "sources/pdfs/agriculture-sustainability/dehaen_2008_food-security-resilience-disasters.pdf"
+      "pdf_ref": "dehaen_2008_food-security-resilience-disasters.pdf"
     },
     {
       "id": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli",
@@ -3666,7 +3666,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2011-03-08_genomic-screens-nbutanol-ecoli.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/reyes2011-genomic-screens-nbutanol.pdf"
+      "pdf_ref": "reyes2011-genomic-screens-nbutanol.pdf"
     },
     {
       "id": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol",
@@ -3694,7 +3694,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2012-05-29_vert-mecanismos-tolerancia-nbutanol.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/reyes2012-vert-nbutanol-mechanisms.pdf"
+      "pdf_ref": "reyes2012-vert-nbutanol-mechanisms.pdf"
     },
     {
       "id": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas",
@@ -3717,7 +3717,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2012-05-29_vert-metodo-ingenieria-cepas.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/reyes2012-vert-strain-engineering-review.pdf"
+      "pdf_ref": "reyes2012-vert-strain-engineering-review.pdf"
     },
     {
       "id": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos",
@@ -3740,7 +3740,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2013-01-01_adaptive-lab-evolution-protocolos.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/winkler2013-adaptive-lab-evolution.pdf"
+      "pdf_ref": "winkler2013-adaptive-lab-evolution.pdf"
     },
     {
       "id": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos",
@@ -3766,7 +3766,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2013-06-28_nbutanol-tolerancia-determinantes-geneticos.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/reyes2013-nbutanol-cross-adaptation.pdf"
+      "pdf_ref": "reyes2013-nbutanol-cross-adaptation.pdf"
     },
     {
       "id": "notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria",
@@ -3794,7 +3794,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-04",
       "path": "notes/papers/2013-07-01_fidelidad-implementacion-rbis-ingenieria.md",
-      "pdf_local": "sources/pdfs/engineering-education/borrego_2013_fidelity-implementation-rbis.pdf"
+      "pdf_ref": "borrego_2013_fidelity-implementation-rbis.pdf"
     },
     {
       "id": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa",
@@ -3820,7 +3820,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2013-07-11_vert-saccharomyces-hidrolizados-biomasa.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/almario2013-vert-saccharomyces-hidrolizados.pdf"
+      "pdf_ref": "almario2013-vert-saccharomyces-hidrolizados.pdf"
     },
     {
       "id": "notes/papers/2013-11-18_carotenoides-levadura-ale",
@@ -3845,7 +3845,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2013-11-18_carotenoides-levadura-ale.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/reyes2014-carotenoides-ale-levadura.pdf"
+      "pdf_ref": "reyes2014-carotenoides-ale-levadura.pdf"
     },
     {
       "id": "notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso",
@@ -3880,7 +3880,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2014-12-01_biomasa-conversion-hongo-oleaginoso.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/xie2015-biomasa-conversion-hongo-oleaginoso.pdf"
+      "pdf_ref": "xie2015-biomasa-conversion-hongo-oleaginoso.pdf"
     },
     {
       "id": "notes/papers/2016-07-07_carotenoides-biorreactor-raman",
@@ -3907,7 +3907,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2016-07-07_carotenoides-biorreactor-raman.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/olson2016-carotenoides-biorreactor-raman.pdf"
+      "pdf_ref": "olson2016-carotenoides-biorreactor-raman.pdf"
     },
     {
       "id": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica",
@@ -3934,7 +3934,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2017-06-20_rhGALNS-ecoli-biologia-sintetica.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/reyes2017-rhGALNS-ecoli-produccion.pdf"
+      "pdf_ref": "reyes2017-rhGALNS-ecoli-produccion.pdf"
     },
     {
       "id": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion",
@@ -3961,7 +3961,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2017-11-21_clostridium-xylose-cofermentacion.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/xiong2018-clostridium-xylose-celulosa.pdf"
+      "pdf_ref": "xiong2018-clostridium-xylose-celulosa.pdf"
     },
     {
       "id": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento",
@@ -3983,7 +3983,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2018-01-01_carotenoides-ale-acoplado-crecimiento.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/reyes2018-carotenoides-ale-metodos.pdf"
+      "pdf_ref": "reyes2018-carotenoides-ale-metodos.pdf"
     },
     {
       "id": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones",
@@ -4007,7 +4007,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2018-04-06_pbl-ingenieria-quimica-operaciones.md",
-      "pdf_local": "sources/pdfs/engineering-education/ballesteros2019-pbl-ingenieria-quimica.pdf"
+      "pdf_ref": "ballesteros2019-pbl-ingenieria-quimica.pdf"
     },
     {
       "id": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps",
@@ -4037,7 +4037,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2019-01-30_ids-proteoma-cerebro-mps.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/cardona2019-ids-proteoma-cerebro.pdf"
+      "pdf_ref": "cardona2019-ids-proteoma-cerebro.pdf"
     },
     {
       "id": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica",
@@ -4065,7 +4065,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-01-01_clostridium-xylose-transcriptomica.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/tafur2020-clostridium-xylose-transcriptomica.pdf"
+      "pdf_ref": "tafur2020-clostridium-xylose-transcriptomica.pdf"
     },
     {
       "id": "notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia",
@@ -4087,7 +4087,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-01-01_demulsificacion-crudo-pesado-colombia.md",
-      "pdf_local": "sources/pdfs/modeling-simulation/acosta2020-demulsificacion-crudo-pesado.pdf"
+      "pdf_ref": "acosta2020-demulsificacion-crudo-pesado.pdf"
     },
     {
       "id": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas",
@@ -4115,7 +4115,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-01-07_enfermedades-lisosomales-terapias-alternativas.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/leal2020-enfermedades-lisosomales-terapias.pdf"
+      "pdf_ref": "leal2020-enfermedades-lisosomales-terapias.pdf"
     },
     {
       "id": "notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano",
@@ -4141,7 +4141,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-03-12_biosol-porquinaza-fertilizacion-rabano.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/sanchez2020-biosol-porquinaza-fertilizacion.pdf"
+      "pdf_ref": "sanchez2020-biosol-porquinaza-fertilizacion.pdf"
     },
     {
       "id": "notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd",
@@ -4166,7 +4166,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-04-17_biorreactor-airlift-mililitros-cfd.md",
-      "pdf_local": "sources/pdfs/engineering-education/marroquin2020-biorreactor-airlift-mililitros.pdf"
+      "pdf_ref": "marroquin2020-biorreactor-airlift-mililitros.pdf"
     },
     {
       "id": "notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis",
@@ -4191,7 +4191,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-04-21_hidrogeles-gelatina-encapsulacion-lactis.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/patarroyo2020-hidrogeles-gelatina-encapsulacion.pdf"
+      "pdf_ref": "patarroyo2020-hidrogeles-gelatina-encapsulacion.pdf"
     },
     {
       "id": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes",
@@ -4218,7 +4218,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-05-12_nanoparticulas-magnetita-plata-entrega-genes.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/ramirez2020-nanoparticulas-entrega-plasmidos.pdf"
+      "pdf_ref": "ramirez2020-nanoparticulas-entrega-plasmidos.pdf"
     },
     {
       "id": "notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores",
@@ -4242,7 +4242,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-06-23_biorreactor-cfd-kla-impeladores.md",
-      "pdf_local": "sources/pdfs/engineering-education/ramirez2020-biorreactor-cfd-kla.pdf"
+      "pdf_ref": "ramirez2020-biorreactor-cfd-kla.pdf"
     },
     {
       "id": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica",
@@ -4267,7 +4267,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-07-30_wil-employability-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/engineering-education/reedy2020-wil-employability-quimica.pdf"
+      "pdf_ref": "reedy2020-wil-employability-quimica.pdf"
     },
     {
       "id": "notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion",
@@ -4291,7 +4291,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-08-03_curriculo-ingenieria-quimica-modernizacion.md",
-      "pdf_local": "sources/pdfs/engineering-education/ballesteros2021-curriculo-ingenieria-modernizacion.pdf"
+      "pdf_ref": "ballesteros2021-curriculo-ingenieria-modernizacion.pdf"
     },
     {
       "id": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde",
@@ -4314,7 +4314,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-09-01_nanoparticulas-magnetita-plata-sintesis-verde.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/ramirez2020-nanoparticulas-magnetita-plata.pdf"
+      "pdf_ref": "ramirez2020-nanoparticulas-magnetita-plata.pdf"
     },
     {
       "id": "notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica",
@@ -4345,7 +4345,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-11-05_peptidos-antimicrobianos-ia-microfluidica.md",
-      "pdf_local": "sources/pdfs/modeling-simulation/ruiz2020-peptidos-antimicrobianos-ia.pdf"
+      "pdf_ref": "ruiz2020-peptidos-antimicrobianos-ia.pdf"
     },
     {
       "id": "notes/papers/2020-11-06_sal-queso-costeno-multiscale",
@@ -4366,7 +4366,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-11-06_sal-queso-costeno-multiscale.md",
-      "pdf_local": "sources/pdfs/food-engineering/diaz2020-sal-queso-costeno-multiscale.pdf"
+      "pdf_ref": "diaz2020-sal-queso-costeno-multiscale.pdf"
     },
     {
       "id": "notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico",
@@ -4391,7 +4391,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2020-12-03_glicerol-ecoli-modelado-genomico.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/tafur2021-glicerol-ecoli-modelado-genomico.pdf"
+      "pdf_ref": "tafur2021-glicerol-ecoli-modelado-genomico.pdf"
     },
     {
       "id": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers",
@@ -4415,7 +4415,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2021-03-01_delivery-nucleic-acids-nanocarriers.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/torres-vanegas2021-delivery-nucleic-acids-nanocarriers.pdf"
+      "pdf_ref": "torres-vanegas2021-delivery-nucleic-acids-nanocarriers.pdf"
     },
     {
       "id": "notes/papers/2021-03-12_data-science-ciencia-molecular",
@@ -4442,7 +4442,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2021-03-12_data-science-ciencia-molecular.md",
-      "pdf_local": "sources/pdfs/capability-reliability/ashraf_2021_data-science-molecular.pdf"
+      "pdf_ref": "ashraf_2021_data-science-molecular.pdf"
     },
     {
       "id": "notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion",
@@ -4467,7 +4467,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2021-07-01_gelatin-graphene-lactis-encapsulacion.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/patarroyo2021-gelatin-graphene-lactis.pdf"
+      "pdf_ref": "patarroyo2021-gelatin-graphene-lactis.pdf"
     },
     {
       "id": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce",
@@ -4489,7 +4489,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2021-07-07_cerveza-sin-alcohol-sonido-ecommerce.md",
-      "pdf_local": "sources/pdfs/multisensory-consumer/rodriguez2021-cerveza-sin-alcohol-sonido.pdf"
+      "pdf_ref": "rodriguez2021-cerveza-sin-alcohol-sonido.pdf"
     },
     {
       "id": "notes/papers/2021-09-01_genome-editing-parkinson",
@@ -4518,7 +4518,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2021-09-01_genome-editing-parkinson.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/arango2021-genome-editing-parkinson.pdf"
+      "pdf_ref": "arango2021-genome-editing-parkinson.pdf"
     },
     {
       "id": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados",
@@ -4544,7 +4544,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2021-09-02_microfluidica-encapsulacion-liposomal-nanobioconjugados.md",
-      "pdf_local": "sources/pdfs/microfluidics/giraldo2021-microfluidica-encapsulacion-nanobioconjugados.pdf"
+      "pdf_ref": "giraldo2021-microfluidica-encapsulacion-nanobioconjugados.pdf"
     },
     {
       "id": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos",
@@ -4571,7 +4571,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2021-11-01_microfluidica-liposomas-gigantes-peptidos.md",
-      "pdf_local": "sources/pdfs/microfluidics/gomez2021-microfluidica-liposomas-gigantes.pdf"
+      "pdf_ref": "gomez2021-microfluidica-liposomas-gigantes.pdf"
     },
     {
       "id": "notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis",
@@ -4597,7 +4597,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2021-11-23_nanoparticulas-gelatina-chitosan-sintesis.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/gonzalez-melo2021-nanoparticulas-gelatina-chitosan.pdf"
+      "pdf_ref": "gonzalez-melo2021-nanoparticulas-gelatina-chitosan.pdf"
     },
     {
       "id": "notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel",
@@ -4625,7 +4625,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-01-01_chitosan-metacrilato-grafeno-hidrogel.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/cespedes2022-chitosan-grafeno-hidrogel-hueso.pdf"
+      "pdf_ref": "cespedes2022-chitosan-grafeno-hidrogel-hueso.pdf"
     },
     {
       "id": "notes/papers/2022-01-10_biobricks-genomica-sintetica",
@@ -4648,7 +4648,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-01-10_biobricks-genomica-sintetica.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/reyes2022-biobricks-genomica-sintetica.pdf"
+      "pdf_ref": "reyes2022-biobricks-genomica-sintetica.pdf"
     },
     {
       "id": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral",
@@ -4681,7 +4681,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-02-01_magnetoliposomas-microfluidica-entrega-oral.md",
-      "pdf_local": "sources/pdfs/microfluidics/torres2022-magnetoliposomas-microfluidica-entrega-oral.pdf"
+      "pdf_ref": "torres2022-magnetoliposomas-microfluidica-entrega-oral.pdf"
     },
     {
       "id": "notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa",
@@ -4711,7 +4711,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-02-10_fructosiltransferasa-pichia-kestosa.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/alvarado-obando2022-fructosiltransferasa-pichia-kestosa.pdf"
+      "pdf_ref": "alvarado-obando2022-fructosiltransferasa-pichia-kestosa.pdf"
     },
     {
       "id": "notes/papers/2022-02-24_multiscale-productos-lacteos",
@@ -4734,7 +4734,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-02-24_multiscale-productos-lacteos.md",
-      "pdf_local": "sources/pdfs/food-engineering/diaz-bustamante2022-multiscale-productos-lacteos.pdf"
+      "pdf_ref": "diaz-bustamante2022-multiscale-productos-lacteos.pdf"
     },
     {
       "id": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid",
@@ -4762,7 +4762,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-02-28_ids-interactoma-yeast-two-hybrid.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/benincore2022-ids-interactoma-yeast-two-hybrid.pdf"
+      "pdf_ref": "benincore2022-ids-interactoma-yeast-two-hybrid.pdf"
     },
     {
       "id": "notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos",
@@ -4794,7 +4794,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-03-08_probioticos-hidrogeles-estimulo-responsivos.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/garcia-brand2022-probioticos-hidrogeles-estimulo-responsivos.pdf"
+      "pdf_ref": "garcia-brand2022-probioticos-hidrogeles-estimulo-responsivos.pdf"
     },
     {
       "id": "notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata",
@@ -4823,7 +4823,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-03-14_hidrogeles-antibacterianos-gelatin-grafeno-plata.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/patarroyo2022-hidrogeles-antibacterianos-gelatin-grafeno-plata.pdf"
+      "pdf_ref": "patarroyo2022-hidrogeles-antibacterianos-gelatin-grafeno-plata.pdf"
     },
     {
       "id": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike",
@@ -4865,7 +4865,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-06-10_peptidos-translocadores-sars-cov2-spike.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/henao2022-peptidos-translocadores-sars-cov2.pdf"
+      "pdf_ref": "henao2022-peptidos-translocadores-sars-cov2.pdf"
     },
     {
       "id": "notes/papers/2022-07-14_peptidos-antimicrobianos-ia",
@@ -4900,7 +4900,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-07-14_peptidos-antimicrobianos-ia.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/ruiz-puentes2022-peptidos-antimicrobianos-ia.pdf"
+      "pdf_ref": "ruiz-puentes2022-peptidos-antimicrobianos-ia.pdf"
     },
     {
       "id": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas",
@@ -4942,7 +4942,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-09-01_crispr-ncas9-mps-iva-nanoparticulas.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/leal2022-crispr-ncas9-mps-iva-nanoparticulas.pdf"
+      "pdf_ref": "leal2022-crispr-ncas9-mps-iva-nanoparticulas.pdf"
     },
     {
       "id": "notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales",
@@ -4972,7 +4972,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-09-14_crispr-ncas9-gm2-gangliosidosis-no-virales.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/leal-2022-crispr-ncas9-gm2-gangliosidosis.pdf"
+      "pdf_ref": "leal-2022-crispr-ncas9-gm2-gangliosidosis.pdf"
     },
     {
       "id": "notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal",
@@ -5000,7 +5000,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-09-15_bufii-grafeno-internalizacion-endosomal.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/torres-vanegas-2022-bufii-grafeno-endosomal.pdf"
+      "pdf_ref": "torres-vanegas-2022-bufii-grafeno-endosomal.pdf"
     },
     {
       "id": "notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest",
@@ -5025,7 +5025,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-10-17_tension-superficial-surfactantes-random-forest.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/ricardo-2022-tension-superficial-random-forest.pdf"
+      "pdf_ref": "ricardo-2022-tension-superficial-random-forest.pdf"
     },
     {
       "id": "notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional",
@@ -5051,7 +5051,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2022-12-07_biosurfactantes-peptidos-diseno-racional.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/perez-bejarano-2022-biosurfactantes-peptidos-md.pdf"
+      "pdf_ref": "perez-bejarano-2022-biosurfactantes-peptidos-md.pdf"
     },
     {
       "id": "notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno",
@@ -5080,7 +5080,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2023-03-20_naringenina-biofabrica-ecoli-oxigeno.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/parra-daza-2023-naringenina-biofabrica-ecoli.pdf"
+      "pdf_ref": "parra-daza-2023-naringenina-biofabrica-ecoli.pdf"
     },
     {
       "id": "notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial",
@@ -5104,7 +5104,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2023-03-31_levadura-encapsulada-cerveza-perfil-sensorial.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/bolanos-barbosa-2023-levadura-encapsulada-cerveza.pdf"
+      "pdf_ref": "bolanos-barbosa-2023-levadura-encapsulada-cerveza.pdf"
     },
     {
       "id": "notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo",
@@ -5130,7 +5130,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2023-04-27_microfluidica-dispositivos-bajo-costo.md",
-      "pdf_local": "sources/pdfs/microfluidics/rodriguez-2023-microfluidica-bajo-costo.pdf"
+      "pdf_ref": "rodriguez-2023-microfluidica-bajo-costo.pdf"
     },
     {
       "id": "notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso",
@@ -5157,7 +5157,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2023-05-08_llms-ingenieria-quimica-modelos-curso.md",
-      "pdf_local": "sources/pdfs/capability-reliability/tsai_2023_llms-chemeng-core-course-models.pdf"
+      "pdf_ref": "tsai_2023_llms-chemeng-core-course-models.pdf"
     },
     {
       "id": "notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular",
@@ -5187,7 +5187,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2023-05-09_silice-fullerenol-entrega-intracelular.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/ravelo-nieto-2023-silice-fullerenol-entrega.pdf"
+      "pdf_ref": "ravelo-nieto-2023-silice-fullerenol-entrega.pdf"
     },
     {
       "id": "notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria",
@@ -5220,7 +5220,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2023-05-26_chatgpt-evaluacion-ingenieria.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/nikolic_2023_chatgpt-engineering-assessment.pdf"
+      "pdf_ref": "nikolic_2023_chatgpt-engineering-assessment.pdf"
     },
     {
       "id": "notes/papers/2023-05-31_crispra-magnetita-entrega-genes",
@@ -5251,7 +5251,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2023-05-31_crispra-magnetita-entrega-genes.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/arango-2023-crispra-magnetita-entrega-genes.pdf"
+      "pdf_ref": "arango-2023-crispra-magnetita-entrega-genes.pdf"
     },
     {
       "id": "notes/papers/2023-06-03_proteinas-alternativas-lacteos",
@@ -5274,7 +5274,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2023-06-03_proteinas-alternativas-lacteos.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/diaz-bustamante-2023-proteinas-alternativas-lacteos.pdf"
+      "pdf_ref": "diaz-bustamante-2023-proteinas-alternativas-lacteos.pdf"
     },
     {
       "id": "notes/papers/2023-06-12_invertasa-magnetita-fos",
@@ -5298,7 +5298,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2023-06-12_invertasa-magnetita-fos.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/polania-melo-2023-invertasa-magnetita-fos.pdf"
+      "pdf_ref": "polania-melo-2023-invertasa-magnetita-fos.pdf"
     },
     {
       "id": "notes/papers/2023-06-28_testing-detection-tools-ai-text",
@@ -5329,7 +5329,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2023-06-28_testing-detection-tools-ai-text.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/weberwulff_2023_testing-detection-tools.pdf"
+      "pdf_ref": "weberwulff_2023_testing-detection-tools.pdf"
     },
     {
       "id": "notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos",
@@ -5358,7 +5358,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2023-07-14_detectores-gpt-sesgados-no-nativos.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/liang_2023_gpt-detectors-biased-nonnative.pdf"
+      "pdf_ref": "liang_2023_gpt-detectors-biased-nonnative.pdf"
     },
     {
       "id": "notes/papers/2023-08-22_tpack-en-la-era-de-chatgpt-y-genai",
@@ -5386,7 +5386,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2023-08-22_tpack-en-la-era-de-chatgpt-y-genai.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/mishra_2023_tpack-genai.pdf"
+      "pdf_ref": "mishra_2023_tpack-genai.pdf"
     },
     {
       "id": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos",
@@ -5411,7 +5411,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2023-09-21_crossmodal-sonido-sentidos-quimicos.md",
-      "pdf_local": "sources/pdfs/multisensory-consumer/rodriguez-2023-crossmodal-sonido-sentidos-quimicos.pdf"
+      "pdf_ref": "rodriguez-2023-crossmodal-sonido-sentidos-quimicos.pdf"
     },
     {
       "id": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion",
@@ -5439,7 +5439,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2023-09-27_chatgpt-diseno-columnas-destilacion.md",
-      "pdf_local": "sources/pdfs/cheme-applications/kong_2023_chatgpt-distillation-column-design.pdf"
+      "pdf_ref": "kong_2023_chatgpt-distillation-column-design.pdf"
     },
     {
       "id": "notes/papers/2023-10-05_mails-meta-ai-literacy-scale",
@@ -5466,7 +5466,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2023-10-05_mails-meta-ai-literacy-scale.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/carolus_2023_mails-meta-ai-literacy-scale.pdf"
+      "pdf_ref": "carolus_2023_mails-meta-ai-literacy-scale.pdf"
     },
     {
       "id": "notes/papers/2023-11-01_assessment-reform-era-ia",
@@ -5496,7 +5496,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2023-11-01_assessment-reform-era-ia.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/lodge_2023_teqsa-assessment-reform.pdf"
+      "pdf_ref": "lodge_2023_teqsa-assessment-reform.pdf"
     },
     {
       "id": "notes/papers/2023-11-08_chatgpt-fe-examen-ambiental",
@@ -5525,7 +5525,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2023-11-08_chatgpt-fe-examen-ambiental.md",
-      "pdf_local": "sources/pdfs/capability-reliability/pursnani_2023_chatgpt-fe-environmental-exam.pdf"
+      "pdf_ref": "pursnani_2023_chatgpt-fe-environmental-exam.pdf"
     },
     {
       "id": "notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas",
@@ -5554,7 +5554,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2023-11-15_microfluidica-low-cost-separacion-particulas.md",
-      "pdf_local": "sources/pdfs/microfluidics/rodriguez-2023-microfluidica-pmma.pdf"
+      "pdf_ref": "rodriguez-2023-microfluidica-pmma.pdf"
     },
     {
       "id": "notes/papers/2023-12-01_contra-deteccion-ia-evaluacion",
@@ -5581,7 +5581,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2023-12-01_contra-deteccion-ia-evaluacion.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/ardito_2023_contra-genai-detection.pdf"
+      "pdf_ref": "ardito_2023_contra-genai-detection.pdf"
     },
     {
       "id": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado",
@@ -5611,7 +5611,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2023-12-21_llms-chatbots-educacion-ingenieria-posgrado.md",
-      "pdf_local": "sources/pdfs/cheme-applications/abedi_2023_chatbot-graduate-fluid-mechanics-preprint.pdf"
+      "pdf_ref": "abedi_2023_chatbot-graduate-fluid-mechanics-preprint.pdf"
     },
     {
       "id": "notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria",
@@ -5637,7 +5637,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-01-01_authenticidad-evaluaciones-ingenieria.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/pyakurel_2024_authentic-assessment-engineering.pdf"
+      "pdf_ref": "pyakurel_2024_authentic-assessment-engineering.pdf"
     },
     {
       "id": "notes/papers/2024-01-01_casein-actividad-antimicrobiana",
@@ -5664,7 +5664,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-01-01_casein-actividad-antimicrobiana.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/cifuentes-2024-casein-antimicrobiano.pdf"
+      "pdf_ref": "cifuentes-2024-casein-antimicrobiano.pdf"
     },
     {
       "id": "notes/papers/2024-01-01_casein-polimorfismos-queso",
@@ -5688,7 +5688,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-01-01_casein-polimorfismos-queso.md",
-      "pdf_local": "sources/pdfs/food-engineering/ricardo-2024-casein-polimorfismos-queso.pdf"
+      "pdf_ref": "ricardo-2024-casein-polimorfismos-queso.pdf"
     },
     {
       "id": "notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai",
@@ -5718,7 +5718,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/kadel_2024_crafting-tomorrows-evaluations.pdf"
+      "pdf_ref": "kadel_2024_crafting-tomorrows-evaluations.pdf"
     },
     {
       "id": "notes/papers/2024-01-01_generacion-automatica-control-pfd-llm",
@@ -5740,7 +5740,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-01-01_generacion-automatica-control-pfd-llm.md",
-      "pdf_local": "sources/pdfs/capability-reliability/hirtreiter_2024_pfd-control-structures-llm.pdf"
+      "pdf_ref": "hirtreiter_2024_pfd-control-structures-llm.pdf"
     },
     {
       "id": "notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio",
@@ -5767,7 +5767,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-01-01_integrar-educacion-ia-ingenieria-cambio.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/schleiss_2024_integrating-ai-systems-change.pdf"
+      "pdf_ref": "schleiss_2024_integrating-ai-systems-change.pdf"
     },
     {
       "id": "notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes",
@@ -5794,7 +5794,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2024-01-01_unesco-marco-competencias-ia-docentes.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/unesco_2024_ai-competency-teachers.pdf"
+      "pdf_ref": "unesco_2024_ai-competency-teachers.pdf"
     },
     {
       "id": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica",
@@ -5822,7 +5822,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2024-01-15_futuro-educacion-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/engineering-education/chintalapati2024-futuro-educacion-ingenieria-quimica.pdf"
+      "pdf_ref": "chintalapati2024-futuro-educacion-ingenieria-quimica.pdf"
     },
     {
       "id": "notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics",
@@ -5852,7 +5852,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-01-18_chatgpt-potential-pitfalls-physics.md",
-      "pdf_local": "sources/pdfs/capability-reliability/wang_2024_chatgpt-science-engineering-pitfalls.pdf"
+      "pdf_ref": "wang_2024_chatgpt-science-engineering-pitfalls.pdf"
     },
     {
       "id": "notes/papers/2024-04-01_ai-assessment-scale-aias",
@@ -5881,7 +5881,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-04-01_ai-assessment-scale-aias.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/perkins_2024_aias-scale.pdf"
+      "pdf_ref": "perkins_2024_aias-scale.pdf"
     },
     {
       "id": "notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa",
@@ -5917,7 +5917,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-04-01_clostridium-thermocellum-hemicelulosa.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/chou-2024-clostridium-thermocellum-hemicelulosa.pdf"
+      "pdf_ref": "chou-2024-clostridium-thermocellum-hemicelulosa.pdf"
     },
     {
       "id": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica",
@@ -5944,7 +5944,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-04-24_extension-agricola-adopcion-tecnologica.md",
-      "pdf_local": "sources/pdfs/agriculture-sustainability/becerra-2024-extension-agricola-en.pdf"
+      "pdf_ref": "becerra-2024-extension-agricola-en.pdf"
     },
     {
       "id": "notes/papers/2024-05-08_chemcrow-llm-chemistry-tools",
@@ -5975,7 +5975,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-05-08_chemcrow-llm-chemistry-tools.md",
-      "pdf_local": "sources/pdfs/capability-reliability/bran_2024_chemcrow-llm-chemistry-tools.pdf"
+      "pdf_ref": "bran_2024_chemcrow-llm-chemistry-tools.pdf"
     },
     {
       "id": "notes/papers/2024-05-09_genai-process-systems-engineering",
@@ -6003,7 +6003,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-05-09_genai-process-systems-engineering.md",
-      "pdf_local": "sources/pdfs/capability-reliability/decardi-nelson_2024_genai-process-systems-engineering.pdf"
+      "pdf_ref": "decardi-nelson_2024_genai-process-systems-engineering.pdf"
     },
     {
       "id": "notes/papers/2024-05-13_impacto-llm-educacion-programacion",
@@ -6031,7 +6031,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2024-05-13_impacto-llm-educacion-programacion.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/jost_2024_llm-programming-education.pdf"
+      "pdf_ref": "jost_2024_llm-programming-education.pdf"
     },
     {
       "id": "notes/papers/2024-05-15_sound-of-freshness-perfumeria",
@@ -6056,7 +6056,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-05-15_sound-of-freshness-perfumeria.md",
-      "pdf_local": "sources/pdfs/multisensory-consumer/rodriguez-2024-sound-of-freshness-perfumeria.pdf"
+      "pdf_ref": "rodriguez-2024-sound-of-freshness-perfumeria.pdf"
     },
     {
       "id": "notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva",
@@ -6088,7 +6088,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-06-10_galns-recombinante-ecoli-mps-iva.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/pimentel-vera-2024-galns-recombinante.pdf"
+      "pdf_ref": "pimentel-vera-2024-galns-recombinante.pdf"
     },
     {
       "id": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica",
@@ -6113,7 +6113,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2024-06-13_ia-educacion-ficcion-cientifica.md",
-      "pdf_local": "sources/pdfs/ai-education/gidiotis2024-ia-educacion-ficcion-cientifica.pdf"
+      "pdf_ref": "gidiotis2024-ia-educacion-ficcion-cientifica.pdf"
     },
     {
       "id": "notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria",
@@ -6138,7 +6138,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-06-23_alfabetizacion-ia-primer-ano-ingenieria.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/feldman_2024_first-year-eng-ai-literacy.pdf"
+      "pdf_ref": "feldman_2024_first-year-eng-ai-literacy.pdf"
     },
     {
       "id": "notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia",
@@ -6166,7 +6166,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2024-06-28_teacher-copilot-llm-integrar-ia.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/seufert_2024_teacher-copilot.pdf"
+      "pdf_ref": "seufert_2024_teacher-copilot.pdf"
     },
     {
       "id": "notes/papers/2024-07-01_prompting-quimica-preservice",
@@ -6189,7 +6189,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2024-07-01_prompting-quimica-preservice.md",
-      "pdf_local": "sources/pdfs/ai-education/tassoti2024-prompting-quimica-preservice.pdf"
+      "pdf_ref": "tassoti2024-prompting-quimica-preservice.pdf"
     },
     {
       "id": "notes/papers/2024-07-01_yeastsim-simulador-control-procesos",
@@ -6211,7 +6211,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-07-01_yeastsim-simulador-control-procesos.md",
-      "pdf_local": "sources/pdfs/engineering-education/jaramillo-2024-yeastsim-control-procesos.pdf"
+      "pdf_ref": "jaramillo-2024-yeastsim-control-procesos.pdf"
     },
     {
       "id": "notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros",
@@ -6236,7 +6236,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-07-16_chatgpt4-stpa-analisis-de-peligros.md",
-      "pdf_local": "sources/pdfs/cheme-applications/charalampidou_2024_chatgpt-stpa-hazard-analysis.pdf"
+      "pdf_ref": "charalampidou_2024_chatgpt-stpa-hazard-analysis.pdf"
     },
     {
       "id": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias",
@@ -6262,7 +6262,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-07-20_ia-catalizador-pbl-operaciones-unitarias.md",
-      "pdf_local": "sources/pdfs/cheme-applications/ramos_2024_ai-pbl-unit-operations-dryer.pdf"
+      "pdf_ref": "ramos_2024_ai-pbl-unit-operations-dryer.pdf"
     },
     {
       "id": "notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion",
@@ -6287,7 +6287,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-07-22_zweifach-fung-microfluidica-separacion.md",
-      "pdf_local": "sources/pdfs/microfluidics/rodriguez-2024-zweifach-fung-microfluidica.pdf"
+      "pdf_ref": "rodriguez-2024-zweifach-fung-microfluidica.pdf"
     },
     {
       "id": "notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica",
@@ -6317,7 +6317,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-07-24_llms-tutores-virtuales-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/capability-reliability/caccavale_2024_llms-virtual-tutors-chemeng.pdf"
+      "pdf_ref": "caccavale_2024_llms-virtual-tutors-chemeng.pdf"
     },
     {
       "id": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo",
@@ -6344,7 +6344,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2024-07-26_genai-educacion-investigacion-mapeo.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/yusuf_2024_genai-mapping.pdf"
+      "pdf_ref": "yusuf_2024_genai-mapping.pdf"
     },
     {
       "id": "notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica",
@@ -6372,7 +6372,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-08-01_chatgpt-fe-ingenieria-mecanica.md",
-      "pdf_local": "sources/pdfs/capability-reliability/frenkel_2024_chatgpt-mech-eng-fe-exams.pdf"
+      "pdf_ref": "frenkel_2024_chatgpt-mech-eng-fe-exams.pdf"
     },
     {
       "id": "notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro",
@@ -6402,7 +6402,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-08-08_crispra-gdnf-parkinson-invitro.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/guzman-sastoque-2024-crispra-gdnf-parkinson.pdf"
+      "pdf_ref": "guzman-sastoque-2024-crispra-gdnf-parkinson.pdf"
     },
     {
       "id": "notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica",
@@ -6428,7 +6428,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-08-11_optimizando-colaboracion-humano-ia-quimica.md",
-      "pdf_local": "sources/pdfs/capability-reliability/vidhani_2024_human-ai-ingenieria-de-prompts-chemistry.pdf"
+      "pdf_ref": "vidhani_2024_human-ai-prompt-engineering-chemistry.pdf"
     },
     {
       "id": "notes/papers/2024-08-13_widening-gap-ia-novatos",
@@ -6460,7 +6460,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2024-08-13_widening-gap-ia-novatos.md",
-      "pdf_local": "sources/pdfs/ai-education/reeves2024-widening-gap-ia-novatos.pdf"
+      "pdf_ref": "reeves2024-widening-gap-ia-novatos.pdf"
     },
     {
       "id": "notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma",
@@ -6487,7 +6487,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-08-22_separacion-magnetica-microfluidica-pmma.md",
-      "pdf_local": "sources/pdfs/microfluidics/rodriguez-2024-separacion-magnetica-microfluidica.pdf"
+      "pdf_ref": "rodriguez-2024-separacion-magnetica-microfluidica.pdf"
     },
     {
       "id": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica",
@@ -6516,7 +6516,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-08-29_genai-multiescala-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/cheme-applications/decardinelson_2024_genai-multiscale-cheme.pdf"
+      "pdf_ref": "decardinelson_2024_genai-multiscale-cheme.pdf"
     },
     {
       "id": "notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria",
@@ -6540,7 +6540,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-09-02_marco-roles-competencias-ia-ingenieria.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/schleiss_2024_rcaie-roles-competency-framework.pdf"
+      "pdf_ref": "schleiss_2024_rcaie-roles-competency-framework.pdf"
     },
     {
       "id": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos",
@@ -6569,7 +6569,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-09-10_gpt-roleplay-seguridad-procesos.md",
-      "pdf_local": "sources/pdfs/cheme-applications/honig_2024_gpt-roleplay-process-safety.pdf"
+      "pdf_ref": "honig_2024_gpt-roleplay-process-safety.pdf"
     },
     {
       "id": "notes/papers/2024-09-25_peptidos-interfaciales-in-silico",
@@ -6595,7 +6595,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-09-25_peptidos-interfaciales-in-silico.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/ricardo-2024-peptidos-interfaciales-in-silico.pdf"
+      "pdf_ref": "ricardo-2024-peptidos-interfaciales-in-silico.pdf"
     },
     {
       "id": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo",
@@ -6620,7 +6620,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2024-10-01_simbiosis-ia-liderazgo-educativo.md",
-      "pdf_local": "sources/pdfs/ai-education/arar2024-simbiosis-ia-liderazgo-educativo.pdf"
+      "pdf_ref": "arar2024-simbiosis-ia-liderazgo-educativo.pdf"
     },
     {
       "id": "notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma",
@@ -6646,7 +6646,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-10-04_magnetita-nanobioconjugados-melanoma.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/diaz-2024-magnetita-nanobioconjugados-melanoma.pdf"
+      "pdf_ref": "diaz-2024-magnetita-nanobioconjugados-melanoma.pdf"
     },
     {
       "id": "notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia",
@@ -6668,7 +6668,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2024-10-20_no-cumplimiento-declaraciones-ia.md",
-      "pdf_local": "sources/pdfs/ai-education/gonsalves2025-no-cumplimiento-declaraciones-ia.pdf"
+      "pdf_ref": "gonsalves2025-no-cumplimiento-declaraciones-ia.pdf"
     },
     {
       "id": "notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa",
@@ -6699,7 +6699,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2024-11-02_fairaied-equidad-sesgo-etica-ia-educativa.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/yin_2024_fairaied-fairness-bias-eduai.pdf"
+      "pdf_ref": "yin_2024_fairaied-fairness-bias-eduai.pdf"
     },
     {
       "id": "notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje",
@@ -6732,7 +6732,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/fan_2024_metacognitive-laziness.pdf"
+      "pdf_ref": "fan_2024_metacognitive-laziness.pdf"
     },
     {
       "id": "notes/papers/2024-11-14_omv-gfp-ecoli-escalable",
@@ -6759,7 +6759,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-11-14_omv-gfp-ecoli-escalable.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/torres-vanegas-2024-omv-gfp-ecoli.pdf"
+      "pdf_ref": "torres-vanegas-2024-omv-gfp-ecoli.pdf"
     },
     {
       "id": "notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa",
@@ -6786,7 +6786,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/bridgeman_2024_aligning-assessments-genai.pdf"
+      "pdf_ref": "bridgeman_2024_aligning-assessments-genai.pdf"
     },
     {
       "id": "notes/papers/2024-12-02_cpp-posicion-captacion-magnetita",
@@ -6813,7 +6813,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-12-02_cpp-posicion-captacion-magnetita.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/salgado-2024-cpp-captacion-magnetita.pdf"
+      "pdf_ref": "salgado-2024-cpp-captacion-magnetita.pdf"
     },
     {
       "id": "notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante",
@@ -6843,7 +6843,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2024-12-03_dna-shuffling-ompa-biosurfactante.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/nunez-2024-dna-shuffling-ompa-biosurfactante.pdf"
+      "pdf_ref": "nunez-2024-dna-shuffling-ompa-biosurfactante.pdf"
     },
     {
       "id": "notes/papers/2024-12-03_scaffold-or-crutch-genai-stem",
@@ -6877,7 +6877,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2024-12-03_scaffold-or-crutch-genai-stem.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/wang_2024_scaffold-or-crutch.pdf"
+      "pdf_ref": "wang_2024_scaffold-or-crutch.pdf"
     },
     {
       "id": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior",
@@ -6910,7 +6910,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2024-12-31_genai-transforma-evaluacion-educacion-superior.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/xia_2024_genai-assessment-scoping.pdf"
+      "pdf_ref": "xia_2024_genai-assessment-scoping.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_amp-analisis-estadistico-datos",
@@ -6931,7 +6931,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_amp-analisis-estadistico-datos.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/reyes-2025-amp-analisis-estadistico.pdf"
+      "pdf_ref": "reyes-2025-amp-analisis-estadistico.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica",
@@ -6955,7 +6955,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_amp-caracterizacion-fisicoquimica.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/quezada-2025-amp-caracterizacion-fisicoquimica.pdf"
+      "pdf_ref": "quezada-2025-amp-caracterizacion-fisicoquimica.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_amp-downstream-processing",
@@ -6978,7 +6978,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_amp-downstream-processing.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/almario-2025-amp-downstream-processing.pdf"
+      "pdf_ref": "almario-2025-amp-downstream-processing.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_amp-introduccion-bench-to-bedside",
@@ -6999,7 +6999,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_amp-introduccion-bench-to-bedside.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/reyes-2025-amp-introduccion-bench-bedside.pdf"
+      "pdf_ref": "reyes-2025-amp-introduccion-bench-bedside.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno",
@@ -7021,7 +7021,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_amp-metodos-bioinformaticos-diseno.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/reyes-2025-amp-metodos-bioinformaticos.pdf"
+      "pdf_ref": "reyes-2025-amp-metodos-bioinformaticos.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras",
@@ -7044,7 +7044,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_amp-plataformas-bacterias-levaduras.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/cruz-2025-amp-plataformas-bacterias-levaduras.pdf"
+      "pdf_ref": "cruz-2025-amp-plataformas-bacterias-levaduras.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos",
@@ -7067,7 +7067,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_amp-plataformas-plantas-insectos-mamiferos.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/reyes-2025-amp-plataformas-plantas-insectos.pdf"
+      "pdf_ref": "reyes-2025-amp-plataformas-plantas-insectos.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos",
@@ -7094,7 +7094,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_amp-screening-bibliotecas-peptidos.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/rodriguez-2025-amp-screening-bibliotecas.pdf"
+      "pdf_ref": "rodriguez-2025-amp-screening-bibliotecas.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp",
@@ -7125,7 +7125,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-01-01_chatgmp-chatbot-auditoria-gmp.md",
-      "pdf_local": "sources/pdfs/cheme-applications/caccavale_2025_chatgmp-interview-gmp.pdf"
+      "pdf_ref": "caccavale_2025_chatgmp-interview-gmp.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_chatgpt-error-rates-mlr",
@@ -7150,7 +7150,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-01-01_chatgpt-error-rates-mlr.md",
-      "pdf_local": "sources/pdfs/capability-reliability/garousi_2025_chatgpt-error-rates-mlr.pdf"
+      "pdf_ref": "garousi_2025_chatgpt-error-rates-mlr.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional",
@@ -7179,7 +7179,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-01-01_codiseno-pereza-metacognitiva-genai-vocacional.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/yunus_2025_codesign-metacognitive-laziness.pdf"
+      "pdf_ref": "yunus_2025_codesign-metacognitive-laziness.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_creatividad-divagacion-cognicion-trabajo",
@@ -7202,7 +7202,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-04",
       "path": "notes/papers/2025-01-01_creatividad-divagacion-cognicion-trabajo.md",
-      "pdf_local": "sources/pdfs/organizational-behavior/ibaceta_2025_daydreaming-creativity-work.pdf"
+      "pdf_ref": "ibaceta_2025_daydreaming-creativity-work.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento",
@@ -7226,7 +7226,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-01-01_curso-basico-ia-alfabetizacion-empoderamiento.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/chen_2025_basic-ai-course-impact.pdf"
+      "pdf_ref": "chen_2025_basic-ai-course-impact.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica",
@@ -7254,7 +7254,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-01-01_efce-white-paper-ia-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/efce_2025_ai-cheme-white-paper.pdf"
+      "pdf_ref": "efce_2025_ai-cheme-white-paper.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes",
@@ -7284,7 +7284,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-01-01_ia-carreras-ingenieria-egresados-recientes.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/martin_2025_ai-engineering-careers-graduates.pdf"
+      "pdf_ref": "martin_2025_ai-engineering-careers-graduates.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia",
@@ -7312,7 +7312,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-01-01_marco-competencias-alfabetizacion-ia.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/chee_2025_competency-framework-learner-groups.pdf"
+      "pdf_ref": "chee_2025_competency-framework-learner-groups.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_nanocarriers-carbono",
@@ -7337,7 +7337,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_nanocarriers-carbono.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/rodriguez-2025-nanocarriers-carbono.pdf"
+      "pdf_ref": "rodriguez-2025-nanocarriers-carbono.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos",
@@ -7364,7 +7364,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_nanocarriers-entrega-acidos-nucleicos.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/guzman-sastoque-2025-nanocarriers-acidos-nucleicos.pdf"
+      "pdf_ref": "guzman-sastoque-2025-nanocarriers-acidos-nucleicos.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_nanocarriers-inorganicos",
@@ -7385,7 +7385,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_nanocarriers-inorganicos.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/cruz-2025-nanocarriers-inorganicos.pdf"
+      "pdf_ref": "cruz-2025-nanocarriers-inorganicos.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas",
@@ -7408,7 +7408,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_nanocarriers-intro-acidos-proteinas.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/cruz-2025-nanocarriers-introduccion.pdf"
+      "pdf_ref": "cruz-2025-nanocarriers-introduccion.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_nanocarriers-polimericos",
@@ -7429,7 +7429,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_nanocarriers-polimericos.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/cruz-2025-nanocarriers-polimericos.pdf"
+      "pdf_ref": "cruz-2025-nanocarriers-polimericos.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_nanocarriers-principios-diseno",
@@ -7450,7 +7450,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-01_nanocarriers-principios-diseno.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/cruz-2025-nanocarriers-principios-diseno.pdf"
+      "pdf_ref": "cruz-2025-nanocarriers-principios-diseno.pdf"
     },
     {
       "id": "notes/papers/2025-01-01_sustainable-genai-carbon-scoping",
@@ -7475,7 +7475,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-01-01_sustainable-genai-carbon-scoping.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/kim_2025_sustainable-genai-carbon-scoping.pdf"
+      "pdf_ref": "kim_2025_sustainable-genai-carbon-scoping.pdf"
     },
     {
       "id": "notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico",
@@ -7501,7 +7501,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-01-03_ia-descarga-cognitiva-pensamiento-critico.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/gerlich_2025_cognitive-offloading-critical-thinking.pdf"
+      "pdf_ref": "gerlich_2025_cognitive-offloading-critical-thinking.pdf"
     },
     {
       "id": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo",
@@ -7537,7 +7537,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-01-08_genai-educacion-superior-revision-mapeo.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/tillmanns_2025_genai-he-mapping.pdf"
+      "pdf_ref": "tillmanns_2025_genai-he-mapping.pdf"
     },
     {
       "id": "notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad",
@@ -7568,7 +7568,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-01-09_genai-educacion-superior-innovacion-integridad.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/francis_2025_balancing-innovation-integrity.pdf"
+      "pdf_ref": "francis_2025_balancing-innovation-integrity.pdf"
     },
     {
       "id": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias",
@@ -7596,7 +7596,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-01-11_po-pbl-operaciones-unitarias.md",
-      "pdf_local": "sources/pdfs/engineering-education/acuna-2025-po-pbl-operaciones-unitarias.pdf"
+      "pdf_ref": "acuna-2025-po-pbl-operaciones-unitarias.pdf"
     },
     {
       "id": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio",
@@ -7625,7 +7625,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2025-01-13_genai-ingenieria-quimica-laboratorio.md",
-      "pdf_local": "sources/pdfs/ai-education/keith2025-genai-ingenieria-quimica-laboratorio.pdf"
+      "pdf_ref": "keith2025-genai-ingenieria-quimica-laboratorio.pdf"
     },
     {
       "id": "notes/papers/2025-02-02_redesigning-assessments-gen-ai",
@@ -7655,7 +7655,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-02-02_redesigning-assessments-gen-ai.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/khlaif_2025_redesigning-assessments-framework.pdf"
+      "pdf_ref": "khlaif_2025_redesigning-assessments-framework.pdf"
     },
     {
       "id": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion",
@@ -7686,7 +7686,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-02-13_genai-revision-alcance-ingenieria-computacion-educacion.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/alvarezariza_2025_genai-eng-computing.pdf"
+      "pdf_ref": "alvarezariza_2025_genai-eng-computing.pdf"
     },
     {
       "id": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria",
@@ -7715,7 +7715,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-02-21_genai-aceptacion-gpt-utaut-ingenieria.md",
-      "pdf_local": "sources/pdfs/cheme-applications/honig_2025_utaut-gpt-teaching-tools.pdf"
+      "pdf_ref": "honig_2025_utaut-gpt-teaching-tools.pdf"
     },
     {
       "id": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr",
@@ -7745,7 +7745,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-02-26_llm-educacion-ciencias-computacion-slr.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/raihan_2025_llm-cs-education.pdf"
+      "pdf_ref": "raihan_2025_llm-cs-education.pdf"
     },
     {
       "id": "notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas",
@@ -7769,7 +7769,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-03-11_potencial-y-riesgos-ia-resolucion-problemas.md",
-      "pdf_local": "sources/pdfs/capability-reliability/memis_2025_ai-pitfalls-problem-solving.pdf"
+      "pdf_ref": "memis_2025_ai-pitfalls-problem-solving.pdf"
     },
     {
       "id": "notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion",
@@ -7793,7 +7793,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/curtis_2025_two-lane-road-all-or-none-critique.pdf"
+      "pdf_ref": "curtis_2025_two-lane-road-all-or-none-critique.pdf"
     },
     {
       "id": "notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada",
@@ -7819,7 +7819,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-04-01_evaluaciones-resilientes-ia-retroalimentacion-automatizada.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/akbar_2025_ai-resilient-automated-feedback.pdf"
+      "pdf_ref": "akbar_2025_ai-resilient-automated-feedback.pdf"
     },
     {
       "id": "notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion",
@@ -7848,7 +7848,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-04-01_genai-educacion-superior-casos-implementacion.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/belkina_2025_genai-he-casestudies.pdf"
+      "pdf_ref": "belkina_2025_genai-he-casestudies.pdf"
     },
     {
       "id": "notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas",
@@ -7872,7 +7872,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-04-01_genai-integridad-evaluaciones-autenticas.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/kofinas_2025_genai-authentic-assessment-integrity.pdf"
+      "pdf_ref": "kofinas_2025_genai-authentic-assessment-integrity.pdf"
     },
     {
       "id": "notes/papers/2025-04-03_gases-malolientes-aguas",
@@ -7903,7 +7903,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-04-03_gases-malolientes-aguas.md",
-      "pdf_local": "sources/pdfs/agriculture-sustainability/melendez-2025-gases-malolientes-aguas.pdf"
+      "pdf_ref": "melendez-2025-gases-malolientes-aguas.pdf"
     },
     {
       "id": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior",
@@ -7934,7 +7934,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-04-04_revision-genai-respuestas-actitudes-educacion-superior.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/wu_2025_genai-attitudes-he.pdf"
+      "pdf_ref": "wu_2025_genai-attitudes-he.pdf"
     },
     {
       "id": "notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms",
@@ -7962,7 +7962,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-04-08_feabench-razonamiento-multiphysics-llms.md",
-      "pdf_local": "sources/pdfs/capability-reliability/mudur_2025_feabench-multiphysics-reasoning.pdf"
+      "pdf_ref": "mudur_2025_feabench-multiphysics-reasoning.pdf"
     },
     {
       "id": "notes/papers/2025-04-09_nanoteranostica-terapia-genica",
@@ -7990,7 +7990,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-04-09_nanoteranostica-terapia-genica.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/guzman-sastoque-2025-nanoteranostica-terapia-genica.pdf"
+      "pdf_ref": "guzman-sastoque-2025-nanoteranostica-terapia-genica.pdf"
     },
     {
       "id": "notes/papers/2025-04-19_metacognitive-support-srl-genai",
@@ -8020,7 +8020,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-04-19_metacognitive-support-srl-genai.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/xu_2025_bjet_metacognitive_support.pdf"
+      "pdf_ref": "xu_2025_bjet_metacognitive_support.pdf"
     },
     {
       "id": "notes/papers/2025-04-23_marco-competencia-ia-pedagogica-docentes",
@@ -8048,7 +8048,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-04-23_marco-competencia-ia-pedagogica-docentes.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/zou_2025_pedagogic-ai-competence.pdf"
+      "pdf_ref": "zou_2025_pedagogic-ai-competence.pdf"
     },
     {
       "id": "notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia",
@@ -8082,7 +8082,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-04-24_engineers-views-chatgpt-pedagogia.md",
-      "pdf_local": "sources/pdfs/capability-reliability/murray_2026_engineering-practitioners-views-chatgpt.pdf"
+      "pdf_ref": "murray_2026_engineering-practitioners-views-chatgpt.pdf"
     },
     {
       "id": "notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal",
@@ -8107,7 +8107,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-05-02_sostenibilidad-cerveza-artesanal.md",
-      "pdf_local": "sources/pdfs/food-engineering/fuentes-2025-sostenibilidad-cerveza-artesanal.pdf"
+      "pdf_ref": "fuentes-2025-sostenibilidad-cerveza-artesanal.pdf"
     },
     {
       "id": "notes/papers/2025-05-06_retractado-chatgpt-rendimiento-metaanalisis",
@@ -8133,7 +8133,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-05-06_retractado-chatgpt-rendimiento-metaanalisis.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/wangfan_2025_chatgpt-metaanalysis-RETRACTED-typeset.pdf"
+      "pdf_ref": "wangfan_2025_chatgpt-metaanalysis-RETRACTED-typeset.pdf"
     },
     {
       "id": "notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior",
@@ -8166,7 +8166,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-05-08_genai-reforma-curricular-educacion-superior.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/ma_2025_genai-curriculum-reform-he.pdf"
+      "pdf_ref": "ma_2025_genai-curriculum-reform-he.pdf"
     },
     {
       "id": "notes/papers/2025-05-12_factores-alfabetizacion-ia-docentes",
@@ -8197,7 +8197,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-05-12_factores-alfabetizacion-ia-docentes.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/ayyoub_2025_educator-ai-literacy.pdf"
+      "pdf_ref": "ayyoub_2025_educator-ai-literacy.pdf"
     },
     {
       "id": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina",
@@ -8225,7 +8225,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-05-12_magnetoliposomas-nanomedicina.md",
-      "pdf_local": "sources/pdfs/microfluidics/rodriguez-2025-magnetoliposomas-nanomedicina.pdf"
+      "pdf_ref": "rodriguez-2025-magnetoliposomas-nanomedicina.pdf"
     },
     {
       "id": "notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales",
@@ -8249,7 +8249,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-05-15_chatgpt-educacion-superior-estudios-experimentales.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/jin_2025_chatgpt-experimental.pdf"
+      "pdf_ref": "jin_2025_chatgpt-experimental.pdf"
     },
     {
       "id": "notes/papers/2025-05-15_evaluacion-estructural-genai",
@@ -8274,7 +8274,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2025-05-15_evaluacion-estructural-genai.md",
-      "pdf_local": "sources/pdfs/ai-education/corbin2025-talk-is-cheap-evaluacion.pdf"
+      "pdf_ref": "corbin2025-talk-is-cheap-evaluacion.pdf"
     },
     {
       "id": "notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas",
@@ -8299,7 +8299,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-05-20_extension-palma-aceite-dinamica-sistemas.md",
-      "pdf_local": "sources/pdfs/agriculture-sustainability/becerra-2025-extension-palma-dinamica-sistemas.pdf"
+      "pdf_ref": "becerra-2025-extension-palma-dinamica-sistemas.pdf"
     },
     {
       "id": "notes/papers/2025-05-22_brecha-digital-ia-generativa-espana",
@@ -8326,7 +8326,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-05-22_brecha-digital-ia-generativa-espana.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/suarez_2025_genai-digital-divide-spain.pdf"
+      "pdf_ref": "suarez_2025_genai-digital-divide-spain.pdf"
     },
     {
       "id": "notes/papers/2025-05-23_alfabetizacion-ia-componente-central",
@@ -8353,7 +8353,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-05-23_alfabetizacion-ia-componente-central.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/tadimalla_2025_ai-literacy-core-component.pdf"
+      "pdf_ref": "tadimalla_2025_ai-literacy-core-component.pdf"
     },
     {
       "id": "notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica",
@@ -8380,7 +8380,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-05-27_phase-field-fusion-esferoides-magnetica.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/rodriguez-2025-phase-field-esferoides-magnetica.pdf"
+      "pdf_ref": "rodriguez-2025-phase-field-esferoides-magnetica.pdf"
     },
     {
       "id": "notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado",
@@ -8412,7 +8412,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-05-28_genai-examenes-bioprocesos-posgrado.md",
-      "pdf_local": "sources/pdfs/capability-reliability/xiao_2025_genai-bioprocess-engineering-exams.pdf"
+      "pdf_ref": "xiao_2025_genai-bioprocess-engineering-exams.pdf"
     },
     {
       "id": "notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior",
@@ -8441,7 +8441,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-06-03_framework-ia-generativa-evaluacion-educacion-superior.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/ilieva_2025_genai-driven-assessment-framework.pdf"
+      "pdf_ref": "ilieva_2025_genai-driven-assessment-framework.pdf"
     },
     {
       "id": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct",
@@ -8472,7 +8472,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2025-06-03_tutoria-ia-supera-aprendizaje-activo-rct.md",
-      "pdf_local": "sources/pdfs/ai-education/kestin2025-tutoria-ia-supera-activo.pdf"
+      "pdf_ref": "kestin2025-tutoria-ia-supera-activo.pdf"
     },
     {
       "id": "notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack",
@@ -8502,7 +8502,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-06-04_genai-desarrollo-profesional-docente-tpack.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/lakheshrestha_2025_pd-narrative-tpack.pdf"
+      "pdf_ref": "lakheshrestha_2025_pd-narrative-tpack.pdf"
     },
     {
       "id": "notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales",
@@ -8535,7 +8535,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-06-05_agentic-ai-generativa-sistemas-industriales.md",
-      "pdf_local": "sources/pdfs/capability-reliability/boskabadi_2025_industrial-agentic-genai.pdf"
+      "pdf_ref": "boskabadi_2025_industrial-agentic-genai.pdf"
     },
     {
       "id": "notes/papers/2025-06-06_genai-catalisis-revision",
@@ -8565,7 +8565,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-06-06_genai-catalisis-revision.md",
-      "pdf_local": "sources/pdfs/capability-reliability/zhang_2025_genai-catalysis.pdf"
+      "pdf_ref": "zhang_2025_genai-catalysis.pdf"
     },
     {
       "id": "notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision",
@@ -8589,7 +8589,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-06-06_ia-educacion-ciencias-quimica-revision.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/erumit_2025_ai-science-chemistry.pdf"
+      "pdf_ref": "erumit_2025_ai-science-chemistry.pdf"
     },
     {
       "id": "notes/papers/2025-06-22_genai-educacion-ingenieria-scoping",
@@ -8614,7 +8614,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-06-22_genai-educacion-ingenieria-scoping.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/paul_2025_genai-eng-scoping-wip.pdf"
+      "pdf_ref": "paul_2025_genai-eng-scoping-wip.pdf"
     },
     {
       "id": "notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje",
@@ -8647,7 +8647,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/bastani_2025_genai-without-guardrails.pdf"
+      "pdf_ref": "bastani_2025_genai-without-guardrails.pdf"
     },
     {
       "id": "notes/papers/2025-06-27_adapting-university-policies-genai",
@@ -8675,7 +8675,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-06-27_adapting-university-policies-genai.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/beale_2025_adapting-university-policies-preprint.pdf"
+      "pdf_ref": "beale_2025_adapting-university-policies-preprint.pdf"
     },
     {
       "id": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica",
@@ -8704,7 +8704,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-06-27_genai-rediseno-cursos-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/cheme-applications/bilgin_2025_rebuilding-thermo-meb-kinetics-asee.pdf"
+      "pdf_ref": "bilgin_2025_rebuilding-thermo-meb-kinetics-asee.pdf"
     },
     {
       "id": "notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr",
@@ -8733,7 +8733,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-06-30_genai-etica-regulacion-educacion-slr.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/garcia-lopez_2025_genai-ethical-regulatory-review.pdf"
+      "pdf_ref": "garcia-lopez_2025_genai-ethical-regulatory-review.pdf"
     },
     {
       "id": "notes/papers/2025-07-06_talking-like-pids",
@@ -8760,7 +8760,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-07-06_talking-like-pids.md",
-      "pdf_local": "sources/pdfs/capability-reliability/alimin_2025_talking-like-pids-escape35.pdf"
+      "pdf_ref": "alimin_2025_talking-like-pids-escape35.pdf"
     },
     {
       "id": "notes/papers/2025-07-09_genai-divide-estudiantes-universitarios",
@@ -8790,7 +8790,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-07-09_genai-divide-estudiantes-universitarios.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/beckman_2025_genai-divide-university-students.pdf"
+      "pdf_ref": "beckman_2025_genai-divide-university-students.pdf"
     },
     {
       "id": "notes/papers/2025-07-16_ai-skills-empleabilidad-egresados",
@@ -8821,7 +8821,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-07-16_ai-skills-empleabilidad-egresados.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/portocarrero_2025_ai-skills-employability-peru.pdf"
+      "pdf_ref": "portocarrero_2025_ai-skills-employability-peru.pdf"
     },
     {
       "id": "notes/papers/2025-07-22_perspectivas-docentes-ia-generativa",
@@ -8847,7 +8847,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-07-22_perspectivas-docentes-ia-generativa.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/almisad_2025_faculty-perspectives.pdf"
+      "pdf_ref": "almisad_2025_faculty-perspectives.pdf"
     },
     {
       "id": "notes/papers/2025-07-28_efectividad-politicas-institucionales-genai",
@@ -8874,7 +8874,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-07-28_efectividad-politicas-institucionales-genai.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/jiang_2025_institutional-ai-policies.pdf"
+      "pdf_ref": "jiang_2025_institutional-ai-policies.pdf"
     },
     {
       "id": "notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa",
@@ -8901,7 +8901,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-08-03_alfabetizacion-ia-revision-integrativa.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/gu_2025_ai-literacy-integrative-review.pdf"
+      "pdf_ref": "gu_2025_ai-literacy-integrative-review.pdf"
     },
     {
       "id": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis",
@@ -8930,7 +8930,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-08-05_genai-motivacion-compromiso-meta-analisis.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/xia_2025_genai-motivation-metaanalysis.pdf"
+      "pdf_ref": "xia_2025_genai-motivation-metaanalysis.pdf"
     },
     {
       "id": "notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe",
@@ -8955,7 +8955,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-08-25_dependencia-ia-generativa-zimbabwe.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/revesai_2025_genai-dependency-zimbabwe.pdf"
+      "pdf_ref": "revesai_2025_genai-dependency-zimbabwe.pdf"
     },
     {
       "id": "notes/papers/2025-08-28_i-tpack-marco-alfabetizacion-ia-docente",
@@ -8981,7 +8981,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-08-28_i-tpack-marco-alfabetizacion-ia-docente.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/chiu_2025_itpack-framework.pdf"
+      "pdf_ref": "chiu_2025_itpack-framework.pdf"
     },
     {
       "id": "notes/papers/2025-08-29_soundscapes-sostenibilidad",
@@ -9007,7 +9007,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2025-08-29_soundscapes-sostenibilidad.md",
-      "pdf_local": "sources/pdfs/multisensory-consumer/rodriguez-2025-soundscapes-sostenibilidad.pdf"
+      "pdf_ref": "rodriguez-2025-soundscapes-sostenibilidad.pdf"
     },
     {
       "id": "notes/papers/2025-09-05_formulario-divulgacion-ia-quimica",
@@ -9033,7 +9033,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-09-05_formulario-divulgacion-ia-quimica.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/garciaramos_2025_ai-disclosure-form-chemistry.pdf"
+      "pdf_ref": "garciaramos_2025_ai-disclosure-form-chemistry.pdf"
     },
     {
       "id": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst",
@@ -9062,7 +9062,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-09-10_chatgpt-educacion-revision-gst.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/lee_2025_chatgpt-gst.pdf"
+      "pdf_ref": "lee_2025_chatgpt-gst.pdf"
     },
     {
       "id": "notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai",
@@ -9090,7 +9090,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-09-20_takes-a-village-rediseno-evaluacion-genai.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/nicola-richmond_2025_program-wide-assessment-redesign.pdf"
+      "pdf_ref": "nicola-richmond_2025_program-wide-assessment-redesign.pdf"
     },
     {
       "id": "notes/papers/2025-10-01_llm-cualificacion-socializacion-subjetivacion-metaanalisis",
@@ -9123,7 +9123,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-10-01_llm-cualificacion-socializacion-subjetivacion-metaanalisis.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/huang_2025_llm-qualification-socialisation-metaanalysis.pdf"
+      "pdf_ref": "huang_2025_llm-qualification-socialisation-metaanalysis.pdf"
     },
     {
       "id": "notes/papers/2025-10-01_orca-benchmark-calculo-llm",
@@ -9150,7 +9150,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-10-01_orca-benchmark-calculo-llm.md",
-      "pdf_local": "sources/pdfs/capability-reliability/herambourg_2025_orca-calculation-accuracy.pdf"
+      "pdf_ref": "herambourg_2025_orca-calculation-accuracy.pdf"
     },
     {
       "id": "notes/papers/2025-10-06_danos-ia-educacion-programacion",
@@ -9180,7 +9180,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2025-10-06_danos-ia-educacion-programacion.md",
-      "pdf_local": "sources/pdfs/ai-education/bernstein2025-danos-ia-cs.pdf"
+      "pdf_ref": "bernstein2025-danos-ia-cs.pdf"
     },
     {
       "id": "notes/papers/2025-10-06_genai-quimica-computacional-roadmap",
@@ -9210,7 +9210,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-10-06_genai-quimica-computacional-roadmap.md",
-      "pdf_local": "sources/pdfs/capability-reliability/tiwary_2025_genai-computational-chemistry-roadmap.pdf"
+      "pdf_ref": "tiwary_2025_genai-computational-chemistry-roadmap.pdf"
     },
     {
       "id": "notes/papers/2025-10-06_siete-olas-evaluacion-genai",
@@ -9237,7 +9237,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-10-06_siete-olas-evaluacion-genai.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/elkhoury_2025_seven-waves-assessment-genai.pdf"
+      "pdf_ref": "elkhoury_2025_seven-waves-assessment-genai.pdf"
     },
     {
       "id": "notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia",
@@ -9267,7 +9267,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/tomisu_2025_cognitive_mirror.pdf"
+      "pdf_ref": "tomisu_2025_cognitive_mirror.pdf"
     },
     {
       "id": "notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision",
@@ -9296,7 +9296,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/vanderlinde_2025_ai-literacy-landscape-review.pdf"
+      "pdf_ref": "vanderlinde_2025_ai-literacy-landscape-review.pdf"
     },
     {
       "id": "notes/papers/2025-10-16_deteccion-ia-educacion-superior",
@@ -9326,7 +9326,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-10-16_deteccion-ia-educacion-superior.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/deep_2025_ai-detection-tools-effectiveness-ethics.pdf"
+      "pdf_ref": "deep_2025_ai-detection-tools-effectiveness-ethics.pdf"
     },
     {
       "id": "notes/papers/2025-10-21_needs-satisfaction-tpack-genai-docentes",
@@ -9353,7 +9353,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-10-21_needs-satisfaction-tpack-genai-docentes.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/xia_2025_needs-satisfaction-tpack.pdf"
+      "pdf_ref": "xia_2025_needs-satisfaction-tpack.pdf"
     },
     {
       "id": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica",
@@ -9384,7 +9384,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-10-27_genai-educacion-cientifica-revision-sistematica.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/cheung_2025_genai-science-education.pdf"
+      "pdf_ref": "cheung_2025_genai-science-education.pdf"
     },
     {
       "id": "notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable",
@@ -9410,7 +9410,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-11-01_tutor-socratico-ia-fisica-personalizable.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/tufino_2025_socratic_physics_tutor.pdf"
+      "pdf_ref": "tufino_2025_socratic_physics_tutor.pdf"
     },
     {
       "id": "notes/papers/2025-11-03_riesgos-llm-educacion-revision-sistematica",
@@ -9441,7 +9441,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-11-03_riesgos-llm-educacion-revision-sistematica.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/delikoura_2025_superficial-outputs-learning.pdf"
+      "pdf_ref": "delikoura_2025_superficial-outputs-learning.pdf"
     },
     {
       "id": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision",
@@ -9477,7 +9477,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-11-12_llm-pensamiento-critico-educacion-superior-revision.md",
-      "pdf_local": "sources/pdfs/cheme-applications/martinez-pelaez_2025_llm-critical-thinking-higher.pdf"
+      "pdf_ref": "martinez-pelaez_2025_llm-critical-thinking-higher-ed-review.pdf"
     },
     {
       "id": "notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior",
@@ -9507,7 +9507,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-11-13_politicas-institucionales-ia-educacion-superior.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/azevedo_2025_institutional-ai-policies.pdf"
+      "pdf_ref": "azevedo_2025_institutional-ai-policies.pdf"
     },
     {
       "id": "notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia",
@@ -9538,7 +9538,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-11-14_beyond-detection-evaluacion-autentica-ia.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/kickbusch_2025_beyond-detection-authentic-assessment.pdf"
+      "pdf_ref": "kickbusch_2025_beyond-detection-authentic-assessment.pdf"
     },
     {
       "id": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis",
@@ -9568,7 +9568,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-11-27_llm-educacion-revision-sistematica-topic-analysis.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/cibu_2025_llm-topic-analysis.pdf"
+      "pdf_ref": "cibu_2025_llm-topic-analysis.pdf"
     },
     {
       "id": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
@@ -9590,7 +9590,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-13",
       "path": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/barcaui2025-chatgpt-muleta-cognitiva.pdf"
+      "pdf_ref": "barcaui2025-chatgpt-muleta-cognitiva.pdf"
     },
     {
       "id": "notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms",
@@ -9619,7 +9619,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-12-01_qcbench-quimica-cuantitativa-llms.md",
-      "pdf_local": "sources/pdfs/capability-reliability/xie_2025_qcbench-quantitative-chemistry.pdf"
+      "pdf_ref": "xie_2025_qcbench-quantitative-chemistry.pdf"
     },
     {
       "id": "notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia",
@@ -9649,7 +9649,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/choi_2025_reflection_satisfaction_arxiv.pdf"
+      "pdf_ref": "choi_2025_reflection_satisfaction_arxiv.pdf"
     },
     {
       "id": "notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct",
@@ -9678,7 +9678,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-12-15_socratic-ai-k12-ciencias-rct.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/kao_2025_socratic_ai_k12_rct_preprint.pdf"
+      "pdf_ref": "kao_2025_socratic_ai_k12_rct_preprint.pdf"
     },
     {
       "id": "notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica",
@@ -9703,7 +9703,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-12-24_sistemas-multiagente-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/capability-reliability/rupprecht_2026_multiagent-systems-chemeng.pdf"
+      "pdf_ref": "rupprecht_2026_multiagent-systems-chemeng.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_chatgpt-estatica-ingenieria",
@@ -9731,7 +9731,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_chatgpt-estatica-ingenieria.md",
-      "pdf_local": "sources/pdfs/engineering-education/hope-2026-chatgpt-estatica-ingenieria.pdf"
+      "pdf_ref": "hope-2026-chatgpt-estatica-ingenieria.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes",
@@ -9762,7 +9762,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-09",
       "path": "notes/papers/2026-01-01_chatgpt5-glaucoma-residentes.md",
-      "pdf_local": "sources/pdfs/capability-reliability/gobira-2026-chatgpt5-glaucoma-residentes.pdf"
+      "pdf_ref": "gobira-2026-chatgpt5-glaucoma-residentes.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_clonacion-voz-ia-pedagogia-medica",
@@ -9788,7 +9788,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_clonacion-voz-ia-pedagogia-medica.md",
-      "pdf_local": "sources/pdfs/ai-education/gavoille-2026-clonacion-voz-pedagogia-medica.pdf"
+      "pdf_ref": "gavoille-2026-clonacion-voz-pedagogia-medica.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria",
@@ -9815,7 +9815,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/quince_2026_genai-ethical-awareness-ejee.pdf"
+      "pdf_ref": "quince_2026_genai-ethical-awareness-ejee.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_dataset-feedback-formativo-uml-llm",
@@ -9840,7 +9840,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_dataset-feedback-formativo-uml-llm.md",
-      "pdf_local": "sources/pdfs/ai-education/pecuchova-2026-dataset-feedback-uml.pdf"
+      "pdf_ref": "pecuchova-2026-dataset-feedback-uml.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict",
@@ -9865,7 +9865,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-01_disenar-evaluaciones-era-ia-generativa-ict.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/ahangama_2026_ict-tailored-assessment-framework.pdf"
+      "pdf_ref": "ahangama_2026_ict-tailored-assessment-framework.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente",
@@ -9892,7 +9892,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-01_falcon-ai-escala-alfabetizacion-docente.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/song_2026_falcon-ai-faculty-scale.pdf"
+      "pdf_ref": "song_2026_falcon-ai-faculty-scale.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_genai-brecha-digital-educacion-superior",
@@ -9920,7 +9920,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-01-01_genai-brecha-digital-educacion-superior.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/jamaleddine_2026_genai-digital-divide-evidence-map.pdf"
+      "pdf_ref": "jamaleddine_2026_genai-digital-divide-evidence-map.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica",
@@ -9949,7 +9949,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-01_genai-computing-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/cheme-applications/zhang_2026_genai-computing-course.pdf"
+      "pdf_ref": "zhang_2026_genai-computing-course.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_genai-educacion-biotecnologia",
@@ -9972,7 +9972,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2026-01-01_genai-educacion-biotecnologia.md",
-      "pdf_local": "sources/pdfs/ai-education/cruz-2026-genai-educacion-biotecnologia.pdf"
+      "pdf_ref": "cruz-2026-genai-educacion-biotecnologia.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis",
@@ -10002,7 +10002,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-autorregulacion-aprendizaje-metaanalisis.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/xu-2026-ia-autorregulacion-metaanalisis.pdf"
+      "pdf_ref": "xu-2026-ia-autorregulacion-metaanalisis.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica",
@@ -10027,7 +10027,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-01_ia-control-procesos-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/cheme-applications/huang_2026_ai-process-control-education.pdf"
+      "pdf_ref": "huang_2026_ai-process-control-education.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-educacion-farmacologia-scoping",
@@ -10053,7 +10053,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-educacion-farmacologia-scoping.md",
-      "pdf_local": "sources/pdfs/ai-education/cordier-2026-ia-farmacologia-scoping.pdf"
+      "pdf_ref": "cordier-2026-ia-farmacologia-scoping.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-preguntas-opcion-multiple-patologia",
@@ -10082,7 +10082,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-preguntas-opcion-multiple-patologia.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/ouldismail-2026-ia-preguntas-patologia.pdf"
+      "pdf_ref": "ouldismail-2026-ia-preguntas-patologia.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap01-introduccion",
@@ -10109,7 +10109,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap01-introduccion.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch01-introduccion.pdf"
+      "pdf_ref": "ch01-introduccion.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap02-etica",
@@ -10135,7 +10135,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap02-etica.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch02-fundamentos-eticos.pdf"
+      "pdf_ref": "ch02-fundamentos-eticos.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap03-pobreza",
@@ -10162,7 +10162,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap03-pobreza.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch03-pobreza-desigualdad-economica.pdf"
+      "pdf_ref": "ch03-pobreza-desigualdad-economica.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap04-bienestar-infantil",
@@ -10189,7 +10189,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap04-bienestar-infantil.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch04-bienestar-infantil-familias.pdf"
+      "pdf_ref": "ch04-bienestar-infantil-familias.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap05-salud-disparidades",
@@ -10219,7 +10219,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap05-salud-disparidades.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch05-salud-disparidades.pdf"
+      "pdf_ref": "ch05-salud-disparidades.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap06-discapacidad",
@@ -10246,7 +10246,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap06-discapacidad.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch06-discapacidad-cognitiva-desarrollo.pdf"
+      "pdf_ref": "ch06-discapacidad-cognitiva-desarrollo.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap07-lgbtqia",
@@ -10272,7 +10272,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap07-lgbtqia.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch07-poblaciones-lgbtqia.pdf"
+      "pdf_ref": "ch07-poblaciones-lgbtqia.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap08-violencia-pareja",
@@ -10298,7 +10298,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap08-violencia-pareja.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch08-violencia-sexual-domestica.pdf"
+      "pdf_ref": "ch08-violencia-sexual-domestica.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap09-salud-mental",
@@ -10326,7 +10326,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap09-salud-mental.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch09-salud-mental.pdf"
+      "pdf_ref": "ch09-salud-mental.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap10-escolar",
@@ -10354,7 +10354,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap10-escolar.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch10-trabajo-social-escolar.pdf"
+      "pdf_ref": "ch10-trabajo-social-escolar.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap11-adicciones",
@@ -10382,7 +10382,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap11-adicciones.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch11-uso-sustancias-adicciones.pdf"
+      "pdf_ref": "ch11-uso-sustancias-adicciones.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap12-adultos-mayores",
@@ -10410,7 +10410,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap12-adultos-mayores.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch12-adultos-mayores.pdf"
+      "pdf_ref": "ch12-adultos-mayores.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap13-vivienda",
@@ -10438,7 +10438,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap13-vivienda.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch13-comunidades-riesgo-vivienda.pdf"
+      "pdf_ref": "ch13-comunidades-riesgo-vivienda.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap14-justicia-penal",
@@ -10466,7 +10466,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap14-justicia-penal.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch14-justicia-penal-rehabilitacion.pdf"
+      "pdf_ref": "ch14-justicia-penal-rehabilitacion.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap15-trata-personas",
@@ -10492,7 +10492,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap15-trata-personas.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch15-trata-de-personas.pdf"
+      "pdf_ref": "ch15-trata-de-personas.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social",
@@ -10522,7 +10522,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap16-justicia-social.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch16-incidencia-justicia-social.pdf"
+      "pdf_ref": "ch16-incidencia-justicia-social.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap17-ambiental-clima",
@@ -10551,7 +10551,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap17-ambiental-clima.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch17-trabajo-social-ambiental-clima.pdf"
+      "pdf_ref": "ch17-trabajo-social-ambiental-clima.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap18-empleo",
@@ -10577,7 +10577,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap18-empleo.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch18-futuro-del-trabajo.pdf"
+      "pdf_ref": "ch18-futuro-del-trabajo.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap19-internacional",
@@ -10605,7 +10605,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap19-internacional.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch19-trabajo-social-internacional.pdf"
+      "pdf_ref": "ch19-trabajo-social-internacional.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion",
@@ -10634,7 +10634,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch20-educacion-trabajo-social.pdf"
+      "pdf_ref": "ch20-educacion-trabajo-social.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion",
@@ -10665,7 +10665,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch21-investigacion-trabajo-social.pdf"
+      "pdf_ref": "ch21-investigacion-trabajo-social.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap22-gobernanza",
@@ -10692,7 +10692,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap22-gobernanza.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch22-etica-gobernanza-ia.pdf"
+      "pdf_ref": "ch22-etica-gobernanza-ia.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion",
@@ -10719,7 +10719,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap23-alfabetizacion.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch23-alfabetizacion-competencia-ia.pdf"
+      "pdf_ref": "ch23-alfabetizacion-competencia-ia.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion",
@@ -10748,7 +10748,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-01-01_ia-trabajo-social-cap24-conclusion.md",
-      "pdf_local": "sources/pdfs/ai-social-work/ch24-conclusion.pdf"
+      "pdf_ref": "ch24-conclusion.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_monitoreo-visual-biomasa-genai",
@@ -10778,7 +10778,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-01_monitoreo-visual-biomasa-genai.md",
-      "pdf_local": "sources/pdfs/capability-reliability/mao_2026_visual-monitoring-biomass-genai.pdf"
+      "pdf_ref": "mao_2026_visual-monitoring-biomass-genai.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_normas-atribucion-ia-programacion",
@@ -10807,7 +10807,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-01_normas-atribucion-ia-programacion.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/ye_2026_ai-attribution-disclosure-programming.pdf"
+      "pdf_ref": "ye_2026_ai-attribution-disclosure-programming.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_tres-estrategias-progreso-investigacion",
@@ -10832,7 +10832,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-04",
       "path": "notes/papers/2026-01-01_tres-estrategias-progreso-investigacion.md",
-      "pdf_local": "sources/pdfs/research-methodology/gal_2026_three-strategies-research-progress.pdf"
+      "pdf_ref": "gal_2026_three-strategies-research-progress.pdf"
     },
     {
       "id": "notes/papers/2026-01-01_writing-against-the-machine",
@@ -10859,7 +10859,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-30",
       "path": "notes/papers/2026-01-01_writing-against-the-machine.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/gerteis_2026_writing-against-the-machine.pdf"
+      "pdf_ref": "gerteis_2026_writing-against-the-machine.pdf"
     },
     {
       "id": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia",
@@ -10886,7 +10886,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2026-01-05_heptagon-alfabetizacion-ia.md",
-      "pdf_local": "sources/pdfs/ai-education/hackl2026-heptagon-alfabetizacion-ia.pdf"
+      "pdf_ref": "hackl2026-heptagon-alfabetizacion-ia.pdf"
     },
     {
       "id": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa",
@@ -10911,7 +10911,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-07_automatizar-excel-genai-transferencia-masa.md",
-      "pdf_local": "sources/pdfs/cheme-applications/garcia-morales_2026_genai-excel-vba-mass-transfer-separations.pdf"
+      "pdf_ref": "garcia-morales_2026_genai-excel-vba-mass-transfer-separations.pdf"
     },
     {
       "id": "notes/papers/2026-01-08_llm-ecuaciones-ingenieria",
@@ -10934,7 +10934,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2026-01-08_llm-ecuaciones-ingenieria.md",
-      "pdf_local": "sources/pdfs/engineering-education/kodathala2026-llm-ecuaciones-ingenieria.pdf"
+      "pdf_ref": "kodathala2026-llm-ecuaciones-ingenieria.pdf"
     },
     {
       "id": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia",
@@ -10961,7 +10961,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2026-01-10_diseno-especulativo-biodesign-ia.md",
-      "pdf_local": "sources/pdfs/engineering-education/ojedaramirez2026-diseno-especulativo-biodesign-ia.pdf"
+      "pdf_ref": "ojedaramirez2026-diseno-especulativo-biodesign-ia.pdf"
     },
     {
       "id": "notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos",
@@ -10990,7 +10990,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-11_text-to-simulation-multiagente-procesos-quimicos.md",
-      "pdf_local": "sources/pdfs/capability-reliability/tian_2026_text-to-simulation-multiagent.pdf"
+      "pdf_ref": "tian_2026_text-to-simulation-multiagent.pdf"
     },
     {
       "id": "notes/papers/2026-01-12_pd-docentes-ia-k12",
@@ -11018,7 +11018,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2026-01-12_pd-docentes-ia-k12.md",
-      "pdf_local": "sources/pdfs/ai-education/aravantinos2026-pd-docentes-ia-k12.pdf"
+      "pdf_ref": "aravantinos2026-pd-docentes-ia-k12.pdf"
     },
     {
       "id": "notes/papers/2026-01-13_estrategias-competencias-ia-educacion-superior",
@@ -11045,7 +11045,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-01-13_estrategias-competencias-ia-educacion-superior.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/petrova_2026_ai-competency-strategies.pdf"
+      "pdf_ref": "petrova_2026_ai-competency-strategies.pdf"
     },
     {
       "id": "notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria",
@@ -11072,7 +11072,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-14_curriculo-interdisciplinario-ia-ingenieria.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/schleiss_2026_interdisciplinary-ai-curriculum.pdf"
+      "pdf_ref": "schleiss_2026_interdisciplinary-ai-curriculum.pdf"
     },
     {
       "id": "notes/papers/2026-01-15_autorregulacion-genai-rct-k12",
@@ -11100,7 +11100,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2026-01-15_autorregulacion-genai-rct-k12.md",
-      "pdf_local": "sources/pdfs/ai-education/futterer2026-autorregulacion-genai-rct.pdf"
+      "pdf_ref": "futterer2026-autorregulacion-genai-rct.pdf"
     },
     {
       "id": "notes/papers/2026-01-15_hcap-marco-pedagogia-ia",
@@ -11125,7 +11125,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-15_hcap-marco-pedagogia-ia.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/chiu_2026_hcap-framework.pdf"
+      "pdf_ref": "chiu_2026_hcap-framework.pdf"
     },
     {
       "id": "notes/papers/2026-01-16_evaluacion-detectores-ia-contextos-academicos",
@@ -11153,7 +11153,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-01-16_evaluacion-detectores-ia-contextos-academicos.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/hadra_2026_evaluating-ai-detectors-efl.pdf"
+      "pdf_ref": "hadra_2026_evaluating-ai-detectors-efl.pdf"
     },
     {
       "id": "notes/papers/2026-01-20_ia-creatividad-ingenieria",
@@ -11181,7 +11181,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2026-01-20_ia-creatividad-ingenieria.md",
-      "pdf_local": "sources/pdfs/ai-education/tsakalerou2026-ia-creatividad-ingenieria.pdf"
+      "pdf_ref": "tsakalerou2026-ia-creatividad-ingenieria.pdf"
     },
     {
       "id": "notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados",
@@ -11207,7 +11207,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-21_evaluaciones-resilientes-ia-problemas-interconectados.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/ding_2026_interconnected-problems.pdf"
+      "pdf_ref": "ding_2026_interconnected-problems.pdf"
     },
     {
       "id": "notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica",
@@ -11238,7 +11238,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-01-24_dialogo-socratico-chatgpt-fisica.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/santosguevara_2026_socratic_chatgpt_thermo.pdf"
+      "pdf_ref": "santosguevara_2026_socratic_chatgpt_thermo.pdf"
     },
     {
       "id": "notes/papers/2026-01-29_authentic-assessment-genai",
@@ -11266,7 +11266,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-29_authentic-assessment-genai.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/su_2026_embracing-authentic-assessment-designs.pdf"
+      "pdf_ref": "su_2026_embracing-authentic-assessment-designs.pdf"
     },
     {
       "id": "notes/papers/2026-02-03_asistente-ia-educacion-superior",
@@ -11294,7 +11294,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2026-02-03_asistente-ia-educacion-superior.md",
-      "pdf_local": "sources/pdfs/ai-education/sajja2026-asistente-ia-educacion-ingenieria.pdf"
+      "pdf_ref": "sajja2026-asistente-ia-educacion-ingenieria.pdf"
     },
     {
       "id": "notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica",
@@ -11322,7 +11322,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-02-05_chatgpt-bloom-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/capability-reliability/shahid_2026_chatgpt-bloom-chemeng-education.pdf"
+      "pdf_ref": "shahid_2026_chatgpt-bloom-chemeng-education.pdf"
     },
     {
       "id": "notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico",
@@ -11357,7 +11357,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-02-09_llm-asistentes-medicos-fiabilidad-publico.md",
-      "pdf_local": "sources/pdfs/capability-reliability/bean-2026-llm-asistentes-medicos-fiabilidad.pdf"
+      "pdf_ref": "bean-2026-llm-asistentes-medicos-fiabilidad.pdf"
     },
     {
       "id": "notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo",
@@ -11386,7 +11386,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-02-11_genai-calculos-procesos-celdas-combustible-flujo.md",
-      "pdf_local": "sources/pdfs/capability-reliability/garg_2026_genai-process-calculations-fuelcells-flowbatteries.pdf"
+      "pdf_ref": "garg_2026_genai-process-calculations-fuelcells-flowbatteries.pdf"
     },
     {
       "id": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos",
@@ -11413,7 +11413,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-03-03_modelos-fundacionales-seguridad-procesos-quimicos.md",
-      "pdf_local": "sources/pdfs/cheme-applications/yang_2026_foundation-models-process-safety.pdf"
+      "pdf_ref": "yang_2026_foundation-models-process-safety.pdf"
     },
     {
       "id": "notes/papers/2026-03-06_clusters-sostenibilidad-palma",
@@ -11441,7 +11441,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2026-03-06_clusters-sostenibilidad-palma.md",
-      "pdf_local": "sources/pdfs/agriculture-sustainability/becerra-2026-clusters-sostenibilidad-palma.pdf"
+      "pdf_ref": "becerra-2026-clusters-sostenibilidad-palma.pdf"
     },
     {
       "id": "notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica",
@@ -11471,7 +11471,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-03-06_ia-ingenieria-quimica-promesa-a-practica.md",
-      "pdf_local": "sources/pdfs/capability-reliability/chew_2026_ai-chemeng-promise-to-practice.pdf"
+      "pdf_ref": "chew_2026_ai-chemeng-promise-to-practice.pdf"
     },
     {
       "id": "notes/papers/2026-03-06_responsible-genai-se-education",
@@ -11503,7 +11503,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-03-06_responsible-genai-se-education.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/garousi_2026_responsible-genai-see-jss.pdf"
+      "pdf_ref": "garousi_2026_responsible-genai-see-jss.pdf"
     },
     {
       "id": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo",
@@ -11532,7 +11532,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-03-12_chatgpt-pensamiento-critico-creativo.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/li_2026_chatgpt-cognition.pdf"
+      "pdf_ref": "li_2026_chatgpt-cognition.pdf"
     },
     {
       "id": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion",
@@ -11564,7 +11564,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-03-12_fermbench-benchmark-llms-fermentacion.md",
-      "pdf_local": "sources/pdfs/cheme-applications/caccavale_2026_fermbench-fermentation-llm-benchmark.pdf"
+      "pdf_ref": "caccavale_2026_fermbench-fermentation-llm-benchmark.pdf"
     },
     {
       "id": "notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales",
@@ -11589,7 +11589,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-03-14_evaluacion-resiliente-ia-examenes-verbales.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/perkins-g_2026_resilient-assessment-verbal-exams.pdf"
+      "pdf_ref": "perkins-g_2026_resilient-assessment-verbal-exams.pdf"
     },
     {
       "id": "notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia",
@@ -11618,7 +11618,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-03-18_safetutors-seguridad-pedagogica-ia.md",
-      "pdf_local": "sources/pdfs/ai-education/hazra-2026-safetutors-seguridad-pedagogica.pdf"
+      "pdf_ref": "hazra-2026-safetutors-seguridad-pedagogica.pdf"
     },
     {
       "id": "notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion",
@@ -11647,7 +11647,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-30",
       "path": "notes/papers/2026-03-23_genai-educacion-superior-revision-paradoja-integracion.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/altamirano_2026_genai-higher-ed-systematic-review.pdf"
+      "pdf_ref": "altamirano_2026_genai-higher-ed-systematic-review.pdf"
     },
     {
       "id": "notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria",
@@ -11673,7 +11673,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-03-25_chatpid-graphrag-diagramas-ingenieria.md",
-      "pdf_local": "sources/pdfs/capability-reliability/alimin_2026_chatpid-graphrag-engineering-diagrams.pdf"
+      "pdf_ref": "alimin_2026_chatpid-graphrag-engineering-diagrams.pdf"
     },
     {
       "id": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia",
@@ -11706,7 +11706,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2026-03-26_ai-scientist-automatizacion-ciencia.md",
-      "pdf_local": "sources/pdfs/ai-science-society/lu2026-ai-scientist-automatizacion.pdf"
+      "pdf_ref": "lu2026-ai-scientist-automatizacion.pdf"
     },
     {
       "id": "notes/papers/2026-03-26_sesgo-detectores-gpt-no-nativos-checo",
@@ -11732,7 +11732,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-03-26_sesgo-detectores-gpt-no-nativos-checo.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/alali_2026_revisiting-bias-nonnative-czech.pdf"
+      "pdf_ref": "alali_2026_revisiting-bias-nonnative-czech.pdf"
     },
     {
       "id": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas",
@@ -11760,7 +11760,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-03-27_chatgpt-prompting-prediccion-reacciones-organicas.md",
-      "pdf_local": "sources/pdfs/cheme-applications/thrall_2026_chatgpt-prompting-organic-reaction-prediction.pdf"
+      "pdf_ref": "thrall_2026_chatgpt-prompting-organic-reaction-prediction.pdf"
     },
     {
       "id": "notes/papers/2026-03-27_genai-percepciones-docentes-tpack",
@@ -11789,7 +11789,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-03-27_genai-percepciones-docentes-tpack.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/georgiou_2026_teachers-tpack-perceptions_XWP.pdf"
+      "pdf_ref": "georgiou_2026_teachers-tpack-perceptions_XWP.pdf"
     },
     {
       "id": "notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente",
@@ -11816,7 +11816,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-03-27_sketch2simulation-flowsheet-multiagente.md",
-      "pdf_local": "sources/pdfs/capability-reliability/bahamdan_2026_sketch2simulation-flowsheet-multiagent.pdf"
+      "pdf_ref": "bahamdan_2026_sketch2simulation-flowsheet-multiagent.pdf"
     },
     {
       "id": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots",
@@ -11845,7 +11845,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2026-04-08_microfluidica-liposomas-carbon-dots.md",
-      "pdf_local": "sources/pdfs/microfluidics/reyes-marin-2026-microfluidica-liposomas-carbon-dots.pdf"
+      "pdf_ref": "reyes-marin-2026-microfluidica-liposomas-carbon-dots.pdf"
     },
     {
       "id": "notes/papers/2026-04-10_klactis-scp-proteina-soya",
@@ -11868,7 +11868,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2026-04-10_klactis-scp-proteina-soya.md",
-      "pdf_local": "sources/pdfs/food-engineering/diaz-bustamante-2026-klactis-scp-soya.pdf"
+      "pdf_ref": "diaz-bustamante-2026-klactis-scp-soya.pdf"
     },
     {
       "id": "notes/papers/2026-04-14_ai-literacy-educadores-docentes",
@@ -11894,7 +11894,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-04-14_ai-literacy-educadores-docentes.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/casparisadeghi_2026_ai-literacy-curriculum.pdf"
+      "pdf_ref": "casparisadeghi_2026_ai-literacy-curriculum.pdf"
     },
     {
       "id": "notes/papers/2026-04-27_assess-ai-literacy-misalignment",
@@ -11924,7 +11924,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-04-27_assess-ai-literacy-misalignment.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/zhang_2026_assess-ai-literacy-misalignment.pdf"
+      "pdf_ref": "zhang_2026_assess-ai-literacy-misalignment.pdf"
     },
     {
       "id": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad",
@@ -11953,7 +11953,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-04-29_genai-autoria-pedagogia-integridad.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/slimi_2026_genai-authorship-integrity.pdf"
+      "pdf_ref": "slimi_2026_genai-authorship-integrity.pdf"
     },
     {
       "id": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra",
@@ -11980,7 +11980,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-05-09_genai-generacion-escenarios-peligro-qra.md",
-      "pdf_local": "sources/pdfs/cheme-applications/yang_2026_genai-hazard-scenario-generation-qra.pdf"
+      "pdf_ref": "yang_2026_genai-hazard-scenario-generation-qra.pdf"
     },
     {
       "id": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos",
@@ -12007,7 +12007,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-05-12_llm-agent-simulaciones-procesos-quimicos.md",
-      "pdf_local": "sources/pdfs/cheme-applications/liang_2026_llm-agent-process-simulations.pdf"
+      "pdf_ref": "liang_2026_llm-agent-process-simulations.pdf"
     },
     {
       "id": "notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo",
@@ -12030,7 +12030,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-05-14_sycophancy-tutores-llm-riesgo.md",
-      "pdf_local": "sources/pdfs/ai-education/kasneci-2026-sycophancy-tutores-llm.pdf"
+      "pdf_ref": "kasneci-2026-sycophancy-tutores-llm.pdf"
     },
     {
       "id": "notes/papers/2026-05-20_salud-mental-investigadores-carrera-temprana-metaanalisis",
@@ -12056,7 +12056,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-01",
       "path": "notes/papers/2026-05-20_salud-mental-investigadores-carrera-temprana-metaanalisis.md",
-      "pdf_local": "sources/pdfs/academic-wellbeing/dreisoerner_2026_ecr-mental-health-meta-analysis.pdf"
+      "pdf_ref": "dreisoerner_2026_ecr-mental-health-meta-analysis.pdf"
     },
     {
       "id": "notes/papers/2026-05-21_genai-misuse-assessment-reform",
@@ -12083,7 +12083,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-05-21_genai-misuse-assessment-reform.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/chirikov_2026_genai-misuse-assessment-reform.pdf"
+      "pdf_ref": "chirikov_2026_genai-misuse-assessment-reform.pdf"
     },
     {
       "id": "notes/papers/2026-05-27_barreras-multinivel-adopcion-genai",
@@ -12115,7 +12115,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-05-27_barreras-multinivel-adopcion-genai.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/yang_2025_multilevel-barriers.pdf"
+      "pdf_ref": "yang_2025_multilevel-barriers.pdf"
     },
     {
       "id": "notes/papers/2026-06-01_genai-comunicacion-farmacia-educador",
@@ -12146,7 +12146,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-06-01_genai-comunicacion-farmacia-educador.md",
-      "pdf_local": "sources/pdfs/ai-education/lim-2026-genai-comunicacion-farmacia.pdf"
+      "pdf_ref": "lim-2026-genai-comunicacion-farmacia.pdf"
     },
     {
       "id": "notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria",
@@ -12171,7 +12171,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-06-18_adaptive-prompting-tutoria-secundaria.md",
-      "pdf_local": "sources/pdfs/ai-education/chang-2026-adaptive-prompting-tutoria.pdf"
+      "pdf_ref": "chang-2026-adaptive-prompting-tutoria.pdf"
     },
     {
       "id": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles",
@@ -12195,7 +12195,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/papers/2026-06-20_genai-hamburguesas-sostenibles.md",
-      "pdf_local": "sources/pdfs/multisensory-consumer/tac-2026-genai-hamburguesas-sostenibles.pdf"
+      "pdf_ref": "tac-2026-genai-hamburguesas-sostenibles.pdf"
     },
     {
       "id": "notes/papers/2026-06-25_ia-literacy-formacion-docente",
@@ -12224,7 +12224,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/papers/2026-06-25_ia-literacy-formacion-docente.md",
-      "pdf_local": "sources/pdfs/ai-education/le2026-ia-literacy-formacion-docente.pdf"
+      "pdf_ref": "le2026-ia-literacy-formacion-docente.pdf"
     },
     {
       "id": "notes/papers/2026-06-27_capchat-genai-capstone",
@@ -12250,7 +12250,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-06-27_capchat-genai-capstone.md",
-      "pdf_local": "sources/pdfs/cheme-applications/farahmand_2025_capchat-capstone.pdf"
+      "pdf_ref": "farahmand_2025_capchat-capstone.pdf"
     },
     {
       "id": "notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria",
@@ -12282,7 +12282,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-06-27_engibench-evaluacion-llms-ingenieria.md",
-      "pdf_local": "sources/pdfs/capability-reliability/zhou_2025_engibench-engineering-problem-solving.pdf"
+      "pdf_ref": "zhou_2025_engibench-engineering-problem-solving.pdf"
     },
     {
       "id": "notes/papers/2026-06-27_llm-automatizan-hazop",
@@ -12308,7 +12308,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-06-27_llm-automatizan-hazop.md",
-      "pdf_local": "sources/pdfs/cheme-applications/lee_2026_llm-automate-hazop.pdf"
+      "pdf_ref": "lee_2026_llm-automate-hazop.pdf"
     },
     {
       "id": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes",
@@ -12334,7 +12334,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-06-27_llm-simular-pensamiento-cientifico-estudiantes.md",
-      "pdf_local": "sources/pdfs/cheme-applications/nguyen_2026_llm-simulate-student-scientific-thinking.pdf"
+      "pdf_ref": "nguyen_2026_llm-simulate-student-scientific-thinking.pdf"
     },
     {
       "id": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica",
@@ -12358,7 +12358,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-06-27_percepciones-uso-ia-generativa-diseno-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/cheme-applications/verrett_2025_student-perceptions-design.pdf"
+      "pdf_ref": "verrett_2025_student-perceptions-design.pdf"
     },
     {
       "id": "notes/papers/2026-06-27_superstudent-llm-termodinamica",
@@ -12391,7 +12391,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-06-27_superstudent-llm-termodinamica.md",
-      "pdf_local": "sources/pdfs/cheme-applications/loubet_2025_superstudent-thermodynamics-preprint.pdf"
+      "pdf_ref": "loubet_2025_superstudent-thermodynamics-preprint.pdf"
     },
     {
       "id": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica",
@@ -12417,7 +12417,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-06-27_uso-responsable-ia-generativa-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/cheme-applications/daniel_2024_responsible-genai-chemeng.pdf"
+      "pdf_ref": "daniel_2024_responsible-genai-chemeng.pdf"
     },
     {
       "id": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica",
@@ -12445,7 +12445,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-06-27_utqa-benchmark-llm-termodinamica.md",
-      "pdf_local": "sources/pdfs/cheme-applications/geissler_2025_utqa-thermodynamics-benchmark-preprint.pdf"
+      "pdf_ref": "geissler_2025_utqa-thermodynamics-benchmark-preprint.pdf"
     },
     {
       "id": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica",
@@ -12471,7 +12471,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-06-27_workshops-simulacion-digital-termodinamica.md",
-      "pdf_local": "sources/pdfs/cheme-applications/luberti_2026_digital-simulation-workshops-thermo.pdf"
+      "pdf_ref": "luberti_2026_digital-simulation-workshops-thermo.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_ai-academy-alfabetizacion-genai-docentes",
@@ -12503,7 +12503,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_ai-academy-alfabetizacion-genai-docentes.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/chen_2025_ai-academy.pdf"
+      "pdf_ref": "chen_2025_ai-academy.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_ai-detectors-fail-diverse-populations",
@@ -12526,7 +12526,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_ai-detectors-fail-diverse-populations.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/garland_2026_structural-detection-limits.pdf"
+      "pdf_ref": "garland_2026_structural-detection-limits.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_ai-tpack-evaluacion-formadores",
@@ -12551,7 +12551,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_ai-tpack-evaluacion-formadores.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/eyal_2025_aitpack-assessment.pdf"
+      "pdf_ref": "eyal_2025_aitpack-assessment.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_ai-tpack-vocational",
@@ -12578,7 +12578,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_ai-tpack-vocational.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/setiyawan_2025_aitpack-vocational.pdf"
+      "pdf_ref": "setiyawan_2025_aitpack-vocational.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva",
@@ -12610,7 +12610,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/kosmyna_2025_your-brain-on-chatgpt.pdf"
+      "pdf_ref": "kosmyna_2025_your-brain-on-chatgpt.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global",
@@ -12638,7 +12638,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_chatgpt-acceso-digital-desigualdad-global.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/bencsik_2026_chatgpt-access-global-inequality.pdf"
+      "pdf_ref": "bencsik_2026_chatgpt-access-global-inequality.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar",
@@ -12668,7 +12668,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_chatgpt-educacion-superior-aprendizaje-bienestar.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/abdallah_2025_chatgpt-he-wellbeing.pdf"
+      "pdf_ref": "abdallah_2025_chatgpt-he-wellbeing.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica",
@@ -12701,7 +12701,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_chatgpt-en-educacion-revision-sistematica.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/munaye_2025_chatgpt-opportunities.pdf"
+      "pdf_ref": "munaye_2025_chatgpt-opportunities.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_chatgpt-pregrado-resultados-aprendizaje-metaanalisis",
@@ -12733,7 +12733,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_chatgpt-pregrado-resultados-aprendizaje-metaanalisis.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/mo_2026_undergrad-chatgpt-metaanalysis.pdf"
+      "pdf_ref": "mo_2026_undergrad-chatgpt-metaanalysis.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis",
@@ -12762,7 +12762,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_chatgpt-rendimiento-academico-meta-analisis.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/liu_2025_chatgpt-achievement-metaanalysis.pdf"
+      "pdf_ref": "liu_2025_chatgpt-achievement-metaanalysis.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico",
@@ -12789,7 +12789,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_confiabilidad-detectores-aigc-trabajo-academico.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/sun_2026_trusting-ai-detect-ai.pdf"
+      "pdf_ref": "sun_2026_trusting-ai-detect-ai.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_deskilling-reskilling-upskilling-ia-generativa",
@@ -12819,7 +12819,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_deskilling-reskilling-upskilling-ia-generativa.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/yang_2026_deskilling-reskilling-upskilling.pdf"
+      "pdf_ref": "yang_2026_deskilling-reskilling-upskilling.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_genai-divide-japan-rat",
@@ -12844,7 +12844,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_genai-divide-japan-rat.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/nakagomi_2026_genai-divide-japan-rat.pdf"
+      "pdf_ref": "nakagomi_2026_genai-divide-japan-rat.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria",
@@ -12873,7 +12873,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_genai-educacion-quimica-bibliometria.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/park_2026_genai-chemistry-bibliometric.pdf"
+      "pdf_ref": "park_2026_genai-chemistry-bibliometric.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_genai-educacion-superior-revision",
@@ -12902,7 +12902,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_genai-educacion-superior-revision.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/batista_2024_genai-he-trends.pdf"
+      "pdf_ref": "batista_2024_genai-he-trends.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_genai-faculty-development-hpe",
@@ -12934,7 +12934,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_genai-faculty-development-hpe.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/sanchezmendiola_2025_genai-faculty-dev-hpe.pdf"
+      "pdf_ref": "sanchezmendiola_2025_genai-faculty-dev-hpe.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_genai-formadores-docentes-triada-ai-literacy",
@@ -12965,7 +12965,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_genai-formadores-docentes-triada-ai-literacy.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/prilop_2025_teacher-educators-ai-literacy.pdf"
+      "pdf_ref": "prilop_2025_teacher-educators-ai-literacy.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes",
@@ -12996,7 +12996,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_genai-habitos-cognitivos-estudiantes.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/choudhuri_2026_thinking-less-trusting-more.pdf"
+      "pdf_ref": "choudhuri_2026_thinking-less-trusting-more.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica",
@@ -13028,7 +13028,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_genai-percepciones-staff-estudiantes-ing-quimica.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/cunningham_2026_staff-student-perceptions-genai-cheme.pdf"
+      "pdf_ref": "cunningham_2026_staff-student-perceptions-genai-cheme.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_huella-ambiental-inferencia-llm",
@@ -13057,7 +13057,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_huella-ambiental-inferencia-llm.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/jegham_2025_how-hungry-is-ai-llm-inference-footprint.pdf"
+      "pdf_ref": "jegham_2025_how-hungry-is-ai-llm-inference-footprint.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem",
@@ -13087,7 +13087,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_ia-andamiaje-metacognicion-stem.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/tsakeni_2025_ai_metacognition_stem_review.pdf"
+      "pdf_ref": "tsakeni_2025_ai_metacognition_stem_review.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion",
@@ -13112,7 +13112,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_ia-desarrollo-profesional-estudiantes-primera-generacion.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/deng_2026_ai-career-first-gen-students.pdf"
+      "pdf_ref": "deng_2026_ai-career-first-gen-students.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_ia-feedback-srl-meta-analisis",
@@ -13144,7 +13144,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_ia-feedback-srl-meta-analisis.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/huang_2026_ai_feedback_srl_meta.pdf"
+      "pdf_ref": "huang_2026_ai_feedback_srl_meta.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior",
@@ -13176,7 +13176,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_ia-generativa-brecha-digital-educacion-superior.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/gonzabay-jimenez_2026_genai-digital-divide-higher-ed.pdf"
+      "pdf_ref": "gonzabay-jimenez_2026_genai-digital-divide-higher-ed.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_ia-generativa-integridad-academica-revision",
@@ -13203,7 +13203,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_ia-generativa-integridad-academica-revision.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/bittle_2025_genai-integrity-systematic-review.pdf"
+      "pdf_ref": "bittle_2025_genai-integrity-systematic-review.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica",
@@ -13235,7 +13235,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_llm-educacion-revision-sistematica-empirica.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/shi_2026_llm-education-systrev.pdf"
+      "pdf_ref": "shi_2026_llm-education-systrev.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_marco-etico-ia-generativa-educacion",
@@ -13262,7 +13262,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_marco-etico-ia-generativa-educacion.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/ofosu-asare_2025_genai-ethical-framework.pdf"
+      "pdf_ref": "ofosu-asare_2025_genai-ethical-framework.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_metaclass-coaching-metacognitivo",
@@ -13289,7 +13289,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_metaclass-coaching-metacognitivo.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/liu_2026_metaclass_arxiv.pdf"
+      "pdf_ref": "liu_2026_metaclass_arxiv.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_percepciones-estudiantes-genai-ingenieria",
@@ -13318,7 +13318,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_percepciones-estudiantes-genai-ingenieria.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/quince_2025_genai-liability-engineering.pdf"
+      "pdf_ref": "quince_2025_genai-liability-engineering.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior",
@@ -13345,7 +13345,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_perspectivas-genai-stakeholders-educacion-superior.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/wu_2025_evolving-perspectives-stakeholder.pdf"
+      "pdf_ref": "wu_2025_evolving-perspectives-stakeholder.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia",
@@ -13377,7 +13377,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia.md",
-      "pdf_local": "sources/pdfs/integrity-by-design/ncube_2026_redefining-assessment-integrity.pdf"
+      "pdf_ref": "ncube_2026_redefining-assessment-integrity.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_revision-srl-seis-modelos",
@@ -13400,7 +13400,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_revision-srl-seis-modelos.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/panadero_2017_srl_six_models.pdf"
+      "pdf_ref": "panadero_2017_srl_six_models.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_riesgos-genai-k12-scoping-review",
@@ -13430,7 +13430,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_riesgos-genai-k12-scoping-review.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/tao_2026_k12-genai-risks-scoping.pdf"
+      "pdf_ref": "tao_2026_k12-genai-risks-scoping.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai",
@@ -13458,7 +13458,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_self-scaffolding-modelado-computacional-genai.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/haraldsrud_2025_self-scaffolding-computational-modeling.pdf"
+      "pdf_ref": "haraldsrud_2025_self-scaffolding-computational-modeling.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar",
@@ -13482,7 +13482,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_silicon-gaze-sesgos-llm-lugar.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/kerche_2026_silicon-gaze-llm-place-bias.pdf"
+      "pdf_ref": "kerche_2026_silicon-gaze-llm-place-bias.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_socratic-mind-genai-assessment",
@@ -13517,7 +13517,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_socratic-mind-genai-assessment.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/lee_2025_socraticmind_arxiv.pdf"
+      "pdf_ref": "lee_2025_socraticmind_arxiv.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_stem-faculty-evaluacion-genai",
@@ -13547,7 +13547,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_stem-faculty-evaluacion-genai.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/butt_2025_stem-assessment-design.pdf"
+      "pdf_ref": "butt_2025_stem-assessment-design.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_stem-faculty-perspectives-genai",
@@ -13578,7 +13578,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_stem-faculty-perspectives-genai.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/desilva_2026_stem-faculty-perspectives.pdf"
+      "pdf_ref": "desilva_2026_stem-faculty-perspectives.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_taics-escala-competencia-ia-docente",
@@ -13604,7 +13604,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_taics-escala-competencia-ia-docente.md",
-      "pdf_local": "sources/pdfs/faculty-development-implementation/chiu_2024_taics-scale.pdf"
+      "pdf_ref": "chiu_2024_taics-scale.pdf"
     },
     {
       "id": "notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading",
@@ -13632,7 +13632,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/liu_2026_tool_tutor_crutch.pdf"
+      "pdf_ref": "liu_2026_tool_tutor_crutch.pdf"
     },
     {
       "id": "notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica",
@@ -13664,7 +13664,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-30",
       "path": "notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica.md",
-      "pdf_local": "sources/pdfs/ai-education/xie_2026_ai-virtual-patients-dental-communication.pdf"
+      "pdf_ref": "xie_2026_ai-virtual-patients-dental-communication.pdf"
     },
     {
       "id": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial",
@@ -13701,7 +13701,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-09",
       "path": "notes/papers/2026-07-01_evidencia-medica-inteligencia-artificial.md",
-      "pdf_local": "sources/pdfs/ai-science-society/cruzsuarez-2026-evidencia-medica-ia.pdf"
+      "pdf_ref": "cruzsuarez-2026-evidencia-medica-ia.pdf"
     },
     {
       "id": "notes/papers/2026-07-02_alginato-biofilm-probioticos",
@@ -13728,7 +13728,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-02",
       "path": "notes/papers/2026-07-02_alginato-biofilm-probioticos.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/alginate-probiotics-encapsulation_2026.pdf"
+      "pdf_ref": "alginate-probiotics-encapsulation_2026.pdf"
     },
     {
       "id": "notes/papers/2026-07-02_cubosomes-mrna-ards",
@@ -13759,7 +13759,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-02",
       "path": "notes/papers/2026-07-02_cubosomes-mrna-ards.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/gao_2026_cubosomes-mrna-delivery-ards.pdf"
+      "pdf_ref": "gao_2026_cubosomes-mrna-delivery-ards.pdf"
     },
     {
       "id": "notes/papers/2026-07-02_labor-market-impacts-ai",
@@ -13783,7 +13783,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-02",
       "path": "notes/papers/2026-07-02_labor-market-impacts-ai.md",
-      "pdf_local": "sources/pdfs/ai-science-society/massenkoff-mccrory_2026_labor-market-impacts-ai.pdf"
+      "pdf_ref": "massenkoff-mccrory_2026_labor-market-impacts-ai.pdf"
     },
     {
       "id": "notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales",
@@ -13809,7 +13809,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-02",
       "path": "notes/papers/2026-07-02_llm-sesgos-cognitivos-decisiones-morales.md",
-      "pdf_local": "sources/pdfs/ai-science-society/cheung_2025_llm-cognitive-biases-moral-decisions.pdf"
+      "pdf_ref": "cheung_2025_llm-cognitive-biases-moral-decisions.pdf"
     },
     {
       "id": "notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia",
@@ -13837,7 +13837,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-02",
       "path": "notes/papers/2026-07-02_melittin-nanoparticulas-magneticas-hipertermia.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/campian_2026_melittin-magnetite-nanoparticles.pdf"
+      "pdf_ref": "campian_2026_melittin-magnetite-nanoparticles.pdf"
     },
     {
       "id": "notes/papers/2026-07-02_nanogeles-quitosano-melanoma",
@@ -13865,7 +13865,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-02",
       "path": "notes/papers/2026-07-02_nanogeles-quitosano-melanoma.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/rusu_2026_chitosan-nanogels-melanoma.pdf"
+      "pdf_ref": "rusu_2026_chitosan-nanogels-melanoma.pdf"
     },
     {
       "id": "notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata",
@@ -13896,7 +13896,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-02",
       "path": "notes/papers/2026-07-02_pgc1a-nanogeles-cancer-prostata.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/dabas_2026_pgc1a-nanogels-prostate-cancer.pdf"
+      "pdf_ref": "dabas_2026_pgc1a-nanogels-prostate-cancer.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_biofilm-bacillus-subtilis-intestinal",
@@ -13919,7 +13919,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_biofilm-bacillus-subtilis-intestinal.md",
-      "pdf_local": "sources/pdfs/metabolic-biotechnology/kunyeit-2026-biofilm-bacillus-intestinal.pdf"
+      "pdf_ref": "kunyeit-2026-biofilm-bacillus-intestinal.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_dna-hidrogel-microparticulas-3d",
@@ -13951,7 +13951,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_dna-hidrogel-microparticulas-3d.md",
-      "pdf_local": "sources/pdfs/microfluidics/walther-2026-dna-hidrogel-microparticulas.pdf"
+      "pdf_ref": "walther-2026-dna-hidrogel-microparticulas.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg",
@@ -13981,7 +13981,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_emulsion-w-o-w-proteina-soya-egcg.md",
-      "pdf_local": "sources/pdfs/food-engineering/duan-2026-emulsion-wow-soya-egcg.pdf"
+      "pdf_ref": "duan-2026-emulsion-wow-soya-egcg.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_hidrogel-inyectable-macrofagos-cartilago",
@@ -14011,7 +14011,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_hidrogel-inyectable-macrofagos-cartilago.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/zhang-2026-hidrogel-macrofagos-cartilago.pdf"
+      "pdf_ref": "zhang-2026-hidrogel-macrofagos-cartilago.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_hipe-polisacarido-probioticos-supervivencia",
@@ -14038,7 +14038,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_hipe-polisacarido-probioticos-supervivencia.md",
-      "pdf_local": "sources/pdfs/food-engineering/wang-2026-hipe-polisacarido-probioticos.pdf"
+      "pdf_ref": "wang-2026-hipe-polisacarido-probioticos.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor",
@@ -14066,7 +14066,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_levadura-lager-hibridacion-sin-off-flavor.md",
-      "pdf_local": "sources/pdfs/food-engineering/nasuti-2026-levadura-lager-hibridacion.pdf"
+      "pdf_ref": "nasuti-2026-levadura-lager-hibridacion.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_levaduras-no-saccharomyces-cerveza-baja-alcohol",
@@ -14093,7 +14093,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_levaduras-no-saccharomyces-cerveza-baja-alcohol.md",
-      "pdf_local": "sources/pdfs/food-engineering/wang-2026-levaduras-no-saccharomyces-cerveza.pdf"
+      "pdf_ref": "wang-2026-levaduras-no-saccharomyces-cerveza.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_microfluidica-doble-emulsion-prediccion",
@@ -14117,7 +14117,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_microfluidica-doble-emulsion-prediccion.md",
-      "pdf_local": "sources/pdfs/microfluidics/tang-2026-doble-emulsion-microfluidica.pdf"
+      "pdf_ref": "tang-2026-doble-emulsion-microfluidica.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica",
@@ -14146,7 +14146,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_peptidos-nanoparticulas-microfluidica.md",
-      "pdf_local": "sources/pdfs/peptides-proteins/hammoum-2026-peptidos-nanoparticulas-microfluidica.pdf"
+      "pdf_ref": "hammoum-2026-peptidos-nanoparticulas-microfluidica.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza",
@@ -14178,7 +14178,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_pichia-glucosidasa-aroma-terpenos-cerveza.md",
-      "pdf_local": "sources/pdfs/food-engineering/yuan-2026-pichia-glucosidasa-terpenos-cerveza.pdf"
+      "pdf_ref": "yuan-2026-pichia-glucosidasa-terpenos-cerveza.pdf"
     },
     {
       "id": "notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos",
@@ -14206,7 +14206,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/papers/2026-07-05_synbiotic-alginato-pickering-probioticos.md",
-      "pdf_local": "sources/pdfs/food-engineering/subhash-2026-synbiotic-alginato-pickering.pdf"
+      "pdf_ref": "subhash-2026-synbiotic-alginato-pickering.pdf"
     },
     {
       "id": "notes/papers/2026-07-07_never-skilling-ia-educacion-medica",
@@ -14250,7 +14250,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-07",
       "path": "notes/papers/2026-07-07_never-skilling-ia-educacion-medica.md",
-      "pdf_local": "sources/pdfs/ke2026-never-skilling-educacion-medica.pdf"
+      "pdf_ref": "ke2026-never-skilling-educacion-medica.pdf"
     },
     {
       "id": "notes/papers/2026-07-07_poros-transitorios-cpp-homeoproteinas",
@@ -14282,7 +14282,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-07",
       "path": "notes/papers/2026-07-07_poros-transitorios-cpp-homeoproteinas.md",
-      "pdf_local": "sources/pdfs/trofimenko2026-poros-transitorios-cpp.pdf"
+      "pdf_ref": "trofimenko2026-poros-transitorios-cpp.pdf"
     },
     {
       "id": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones",
@@ -14313,7 +14313,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-09",
       "path": "notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/grion-2026-ia-retroalimentacion-universidad.pdf"
+      "pdf_ref": "grion-2026-ia-retroalimentacion-universidad.pdf"
     },
     {
       "id": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
@@ -14339,7 +14339,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-13",
       "path": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/contractor2026-impacto-aprendizaje-genai.pdf"
+      "pdf_ref": "contractor2026-impacto-aprendizaje-genai.pdf"
     },
     {
       "id": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2",
@@ -14362,7 +14362,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-13",
       "path": "notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/han2026-ia-escritura-colaborativa-l2.pdf"
+      "pdf_ref": "han2026-ia-escritura-colaborativa-l2.pdf"
     },
     {
       "id": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes",
@@ -14394,7 +14394,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-09",
       "path": "notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes.md",
-      "pdf_local": "sources/pdfs/ai-education/bayici-2026-ia-cirugia-cardiovascular-examenes.pdf"
+      "pdf_ref": "bayici-2026-ia-cirugia-cardiovascular-examenes.pdf"
     },
     {
       "id": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
@@ -14426,7 +14426,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook.md",
-      "pdf_local": "sources/pdfs/cheme-applications/loubet_2026_llm-textbook-thermo-problems.pdf"
+      "pdf_ref": "loubet_2026_llm-textbook-thermo-problems.pdf"
     },
     {
       "id": "notes/articles/2018-12-20_como-dar-una-gran-charla",
@@ -14446,7 +14446,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-02",
       "path": "notes/articles/2018-12-20_como-dar-una-gran-charla.md",
-      "pdf_local": "sources/pdfs/academic-wellbeing/fleming_2018_how-to-give-a-great-talk.pdf"
+      "pdf_ref": "fleming_2018_how-to-give-a-great-talk.pdf"
     },
     {
       "id": "notes/articles/2021-01-01_eur-ace-marco-acreditacion-ingenieria",
@@ -14470,7 +14470,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2021-01-01_eur-ace-marco-acreditacion-ingenieria.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/enaee_2021_eur-ace-framework-part1.pdf"
+      "pdf_ref": "enaee_2021_eur-ace-framework-part1.pdf"
     },
     {
       "id": "notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol",
@@ -14490,7 +14490,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/articles/2022-04-25_mercadeo-sensorial-cerveza-sin-alcohol.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2023-01-01_academia-sostenibilidad-abp",
@@ -14512,7 +14512,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/articles/2023-01-01_academia-sostenibilidad-abp.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia",
@@ -14533,7 +14533,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/articles/2023-10-01_alimentacion-sostenible-insectos-colombia.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria",
@@ -14558,7 +14558,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2024-01-01_chatgpt-fe-fallas-educacion-ingenieria.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/kwasi-effah_2024_chatgpt-fe-nipes-commentary.pdf"
+      "pdf_ref": "kwasi-effah_2024_chatgpt-fe-nipes-commentary.pdf"
     },
     {
       "id": "notes/articles/2024-01-01_ingenieria-quimica-america-latina",
@@ -14580,7 +14580,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/articles/2024-01-01_ingenieria-quimica-america-latina.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes",
@@ -14607,7 +14607,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2024-01-01_unesco-marco-competencias-ia-estudiantes.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica",
@@ -14632,7 +14632,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2024-05-01_icheme-acreditacion-programas-ingenieria-quimica.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/icheme_2024_university-accreditation-guide.pdf"
+      "pdf_ref": "icheme_2024_university-accreditation-guide.pdf"
     },
     {
       "id": "notes/articles/2024-07-02_two-lane-approach-faq",
@@ -14657,7 +14657,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2024-07-02_two-lane-approach-faq.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/bridgeman_2024_two-lane-approach-faq.pdf"
+      "pdf_ref": "bridgeman_2024_two-lane-approach-faq.pdf"
     },
     {
       "id": "notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas",
@@ -14677,7 +14677,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/articles/2024-07-12_nanoplataformas-estimulo-responsivas.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2024-07-18_asce-ps573-ia-responsabilidad-ingenieria",
@@ -14700,7 +14700,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2024-07-18_asce-ps573-ia-responsabilidad-ingenieria.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/asce_2024_policy-statement-573-ai.pdf"
+      "pdf_ref": "asce_2024_policy-statement-573-ai.pdf"
     },
     {
       "id": "notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa",
@@ -14725,7 +14725,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2024-08-01_riesgo-integridad-academica-ia-generativa.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/teqsa-lodge_2024_evolving-risk-academic-integrity.pdf"
+      "pdf_ref": "teqsa-lodge_2024_evolving-risk-academic-integrity.pdf"
     },
     {
       "id": "notes/articles/2024-08-13_dawn-genai-quimica-educacion",
@@ -14752,7 +14752,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2024-08-13_dawn-genai-quimica-educacion.md",
-      "pdf_local": "sources/pdfs/existing-reviews-gapmap/yuriev_2024_catalyst-editorial-genai-chem-ed.pdf"
+      "pdf_ref": "yuriev_2024_catalyst-editorial-genai-chem-ed.pdf"
     },
     {
       "id": "notes/articles/2024-09-29_genai-ciencia-ambiental",
@@ -14777,7 +14777,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2024-09-29_genai-ciencia-ambiental.md",
-      "pdf_local": "sources/pdfs/cheme-applications/wu_2024_genai-environmental-science-viewpoint.pdf"
+      "pdf_ref": "wu_2024_genai-environmental-science-viewpoint.pdf"
     },
     {
       "id": "notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina",
@@ -14797,7 +14797,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/articles/2024-10-09_hidrogeles-biocompatibles-biomedicina.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2024-10-25_abet-eac-criterios-acreditacion-ingenieria-2025-2026",
@@ -14820,7 +14820,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2024-10-25_abet-eac-criterios-acreditacion-ingenieria-2025-2026.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/abet_2025_eac-criteria-2025-2026.pdf"
+      "pdf_ref": "abet_2025_eac-criteria-2025-2026.pdf"
     },
     {
       "id": "notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion",
@@ -14845,7 +14845,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/neal_2024_risk-reward-genai-assessment.pdf"
+      "pdf_ref": "neal_2024_risk-reward-genai-assessment.pdf"
     },
     {
       "id": "notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial",
@@ -14870,7 +14870,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2025-01-01_abet-acreditacion-inteligencia-artificial.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/abet_2025_ai-accreditation-policy.pdf"
+      "pdf_ref": "abet_2025_ai-accreditation-policy.pdf"
     },
     {
       "id": "notes/articles/2025-01-01_abet-cac-criterios-computacion-ia-ml",
@@ -14894,7 +14894,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2025-01-01_abet-cac-criterios-computacion-ia-ml.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/abet-cad_2025_computing-criteria-changes-aiml.pdf"
+      "pdf_ref": "abet-cad_2025_computing-criteria-changes-aiml.pdf"
     },
     {
       "id": "notes/articles/2025-01-01_icheme-codigo-conducta-etica",
@@ -14918,7 +14918,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2025-01-01_icheme-codigo-conducta-etica.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/icheme_2025_code-of-conduct-ethics.pdf"
+      "pdf_ref": "icheme_2025_code-of-conduct-ethics.pdf"
     },
     {
       "id": "notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico",
@@ -14939,7 +14939,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2025-04-07_ai-index-2025-rendimiento-tecnico.md",
-      "pdf_local": "sources/pdfs/capability-reliability/stanford-hai_2025_ai-index-ch2-technical-performance.pdf"
+      "pdf_ref": "stanford-hai_2025_ai-index-ch2-technical-performance.pdf"
     },
     {
       "id": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales",
@@ -14967,7 +14967,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2025-04-08_llm-laboratorios-quimica-materiales.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2025-04-16_openai-o3-o4-mini-system-card",
@@ -14992,7 +14992,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2025-04-16_openai-o3-o4-mini-system-card.md",
-      "pdf_local": "sources/pdfs/capability-reliability/openai_2025_o3-o4-mini-system-card.pdf"
+      "pdf_ref": "openai_2025_o3-o4-mini-system-card.pdf"
     },
     {
       "id": "notes/articles/2025-04-20_openai-guia-casos-uso-ia",
@@ -15012,7 +15012,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/articles/2025-04-20_openai-guia-casos-uso-ia.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar",
@@ -15039,7 +15039,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2025-05-01_marco-alfabetizacion-ia-educacion-escolar.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/ec-oecd_2025_ailit-framework-review-draft.pdf"
+      "pdf_ref": "ec-oecd_2025_ailit-framework-review-draft.pdf"
     },
     {
       "id": "notes/articles/2025-06-24_ethics-is-the-edge-ia-educacion-superior",
@@ -15064,7 +15064,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2025-06-24_ethics-is-the-edge-ia-educacion-superior.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/georgieva_2025_ethics-is-the-edge-educause.pdf"
+      "pdf_ref": "georgieva_2025_ethics-is-the-edge-educause.pdf"
     },
     {
       "id": "notes/articles/2025-07-31_alfabetizacion-competencia-ia",
@@ -15089,7 +15089,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2025-07-31_alfabetizacion-competencia-ia.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico",
@@ -15116,7 +15116,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2025-08-11_casf-ia-generativa-modelo-dialogico.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky",
@@ -15140,7 +15140,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision",
@@ -15164,7 +15164,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2025-10-24_csab-criterios-programa-ia-ml-revision.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/csab_2025_aiml-program-criteria-announcement.pdf"
+      "pdf_ref": "csab_2025_aiml-program-criteria-announcement.pdf"
     },
     {
       "id": "notes/articles/2025-11-26_impacto-ia-empleo-graduados",
@@ -15189,7 +15189,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2025-11-26_impacto-ia-empleo-graduados.md",
-      "pdf_local": "sources/pdfs/risks-overreliance-equity/intuitionlabs_2025_ai-graduate-jobs-trade-analysis.pdf"
+      "pdf_ref": "intuitionlabs_2025_ai-graduate-jobs-trade-analysis.pdf"
     },
     {
       "id": "notes/articles/2025-12-01_dec-marco-alfabetizacion-ia",
@@ -15215,7 +15215,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2025-12-01_dec-marco-alfabetizacion-ia.md",
-      "pdf_local": "sources/pdfs/ai-literacy-competency/dec_2025_ai-literacy-framework.pdf"
+      "pdf_ref": "dec_2025_ai-literacy-framework.pdf"
     },
     {
       "id": "notes/articles/2026-01-01_evidence-base-ia-k12-review",
@@ -15244,7 +15244,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2026-01-01_evidence-base-ia-k12-review.md",
-      "pdf_local": "sources/pdfs/scaffolding-socratic-metacognition/fesler_2026_evidence_base_ai_k12_report.pdf"
+      "pdf_ref": "fesler_2026_evidence_base_ai_k12_report.pdf"
     },
     {
       "id": "notes/articles/2026-02-01_nspe-declaracion-posicion-ia",
@@ -15269,7 +15269,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2026-02-01_nspe-declaracion-posicion-ia.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/nspe_2026_position-statement-03-1774-ai.pdf"
+      "pdf_ref": "nspe_2026_position-statement-03-1774-ai.pdf"
     },
     {
       "id": "notes/articles/2026-02-11_investigacion-impacto-mundo-real",
@@ -15293,7 +15293,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/articles/2026-02-11_investigacion-impacto-mundo-real.md",
-      "pdf_local": "sources/pdfs/engineering-education/chaplin2026-investigacion-impacto-real.pdf"
+      "pdf_ref": "chaplin2026-investigacion-impacto-real.pdf"
     },
     {
       "id": "notes/articles/2026-03-08_genai-aula-ingenieria-quimica",
@@ -15319,7 +15319,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2026-03-08_genai-aula-ingenieria-quimica.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2026-03-12_shape-of-thing-mollick",
@@ -15340,7 +15340,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/articles/2026-03-12_shape-of-thing-mollick.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2026-04-23_gpt-5-5-system-card",
@@ -15365,7 +15365,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2026-04-23_gpt-5-5-system-card.md",
-      "pdf_local": "sources/pdfs/capability-reliability/openai_2026_gpt-5-5-system-card.pdf"
+      "pdf_ref": "openai_2026_gpt-5-5-system-card.pdf"
     },
     {
       "id": "notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia",
@@ -15392,7 +15392,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2026-05-04_seis-marcos-alfabetizacion-ia.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2026-05-06_teqsa-genai-integridad-reforma-evaluacion",
@@ -15414,7 +15414,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2026-05-06_teqsa-genai-integridad-reforma-evaluacion.md",
-      "pdf_local": "sources/pdfs/assessment-redesign/teqsa_2024_genai-integrity-assessment-reform-hub.pdf"
+      "pdf_ref": "teqsa_2024_genai-integrity-assessment-reform-hub.pdf"
     },
     {
       "id": "notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos",
@@ -15440,7 +15440,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/articles/2026-05-21_ia-no-puede-hacer-ciencia-sin-humanos.md",
-      "pdf_local": "sources/pdfs/nanomedicine-drug-delivery/nature2026-ia-ciencia-sin-humanos.pdf"
+      "pdf_ref": "nature2026-ia-ciencia-sin-humanos.pdf"
     },
     {
       "id": "notes/articles/2026-05-28_claude-opus-4-8-system-card",
@@ -15466,7 +15466,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2026-05-28_claude-opus-4-8-system-card.md",
-      "pdf_local": "sources/pdfs/capability-reliability/anthropic_2026_claude-opus-4-8-system-card.pdf"
+      "pdf_ref": "anthropic_2026_claude-opus-4-8-system-card.pdf"
     },
     {
       "id": "notes/articles/2026-06-08_ai-coming-for-your-job",
@@ -15491,7 +15491,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2026-06-08_ai-coming-for-your-job.md",
-      "pdf_local": "sources/pdfs/policy-ethics-accreditation/rhymer_2026_ai-coming-for-your-job.pdf"
+      "pdf_ref": "rhymer_2026_ai-coming-for-your-job.pdf"
     },
     {
       "id": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas",
@@ -15514,7 +15514,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/articles/2026-06-19_noruega-prohibe-ia-escuelas.md",
-      "pdf_local": "sources/pdfs/ai-education/reuters2026-noruega-prohibe-ia-escuelas.pdf"
+      "pdf_ref": "reuters2026-noruega-prohibe-ia-escuelas.pdf"
     },
     {
       "id": "notes/articles/2026-06-24_ia-labs-contratan-filosofos",
@@ -15541,7 +15541,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/articles/2026-06-24_ia-labs-contratan-filosofos.md",
-      "pdf_local": "sources/pdfs/ai-science-society/economist2026-filosofos-ia.pdf"
+      "pdf_ref": "economist2026-filosofos-ia.pdf"
     },
     {
       "id": "notes/articles/2026-06-25_ciencia-necesita-humanidades",
@@ -15568,7 +15568,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/articles/2026-06-25_ciencia-necesita-humanidades.md",
-      "pdf_local": "sources/pdfs/engineering-education/fan2026-ciencia-humanidades.pdf"
+      "pdf_ref": "fan2026-ciencia-humanidades.pdf"
     },
     {
       "id": "notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico",
@@ -15593,7 +15593,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-01",
       "path": "notes/articles/2026-06-25_ia-matematicas-que-significa-ser-matematico.md",
-      "pdf_local": "sources/pdfs/ai-science-society/skuse_2026_ai-mathematics-big-questions.pdf"
+      "pdf_ref": "skuse_2026_ai-mathematics-big-questions.pdf"
     },
     {
       "id": "notes/articles/2026-06-28_oecd-digital-education-outlook-2026",
@@ -15622,7 +15622,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-28",
       "path": "notes/articles/2026-06-28_oecd-digital-education-outlook-2026.md",
-      "pdf_local": "sources/pdfs/learning-impact-evidence/oecd_2026_digital-education-outlook.pdf"
+      "pdf_ref": "oecd_2026_digital-education-outlook.pdf"
     },
     {
       "id": "notes/articles/2026-06-30_twilight-chatbots-mollick",
@@ -15647,7 +15647,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-01",
       "path": "notes/articles/2026-06-30_twilight-chatbots-mollick.md",
-      "pdf_local": "sources/pdfs/ai-science-society/mollick_2026_twilight-of-chatbots.pdf"
+      "pdf_ref": "mollick_2026_twilight-of-chatbots.pdf"
     },
     {
       "id": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula",
@@ -15674,7 +15674,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-09",
       "path": "notes/articles/2026-07-02_contrato-de-ia-en-el-aula.md",
-      "pdf_local": "sources/pdfs/glowacki2026-contrato-de-ia-en-el-aula.pdf"
+      "pdf_ref": "glowacki2026-contrato-de-ia-en-el-aula.pdf"
     },
     {
       "id": "notes/articles/2026-07-04_ia-cambia-lenguaje-guardian",
@@ -15698,7 +15698,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/articles/2026-07-04_ia-cambia-lenguaje-guardian.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/1946-01-01_mans-search-for-meaning-frankl",
@@ -15718,7 +15718,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/1946-01-01_mans-search-for-meaning-frankl.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/1952-01-01_the-decisive-moment-cartier-bresson",
@@ -15738,7 +15738,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/1952-01-01_the-decisive-moment-cartier-bresson.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/1958-01-01_the-americans-frank",
@@ -15761,7 +15761,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-08",
       "path": "notes/books/1958-01-01_the-americans-frank.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/1971-01-01_on-reading-kertesz",
@@ -15781,7 +15781,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-08",
       "path": "notes/books/1971-01-01_on-reading-kertesz.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/1985-01-01_surely-youre-joking-feynman",
@@ -15804,7 +15804,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/1985-01-01_surely-youre-joking-feynman.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2000-01-01_the-48-laws-of-power-greene",
@@ -15828,7 +15828,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2000-01-01_the-48-laws-of-power-greene.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2000-01-01_the-tipping-point-gladwell",
@@ -15850,7 +15850,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2000-01-01_the-tipping-point-gladwell.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2001-01-01_fooled-by-randomness",
@@ -15873,7 +15873,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2001-01-01_fooled-by-randomness.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2003-01-01_intelligent-investor-graham",
@@ -15892,7 +15892,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/books/2003-01-01_intelligent-investor-graham.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2003-01-01_stiff-roach",
@@ -15917,7 +15917,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2003-01-01_stiff-roach.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2006-01-01_aquel-dia-ronis",
@@ -15940,7 +15940,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-08",
       "path": "notes/books/2006-01-01_aquel-dia-ronis.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2007-01-01_einstein-isaacson",
@@ -15962,7 +15962,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2007-01-01_einstein-isaacson.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2007-01-01_koudelka-photofile",
@@ -15989,7 +15989,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-07",
       "path": "notes/books/2007-01-01_koudelka-photofile.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2007-01-01_salgado-photofile",
@@ -16016,7 +16016,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-07",
       "path": "notes/books/2007-01-01_salgado-photofile.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2008-01-01_cartier-bresson-photofile",
@@ -16043,7 +16043,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-07",
       "path": "notes/books/2008-01-01_cartier-bresson-photofile.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2008-01-01_outliers-gladwell",
@@ -16065,7 +16065,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2008-01-01_outliers-gladwell.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2009-01-01_start-with-why-sinek",
@@ -16088,7 +16088,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2009-01-01_start-with-why-sinek.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2010-01-01_the-compound-effect-hardy",
@@ -16108,7 +16108,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2010-01-01_the-compound-effect-hardy.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee",
@@ -16131,7 +16131,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2010-01-01_the-emperor-of-all-maladies-mukherjee.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2010-01-01_the-grand-design-hawking-mlodinow",
@@ -16153,7 +16153,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2010-01-01_the-grand-design-hawking-mlodinow.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2010-06-15_the-rational-optimist-ridley",
@@ -16178,7 +16178,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2010-06-15_the-rational-optimist-ridley.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2011-01-01_chemical-product-design-cussler",
@@ -16199,7 +16199,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/books/2011-01-01_chemical-product-design-cussler.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2011-01-01_poor-economics-banerjee",
@@ -16221,7 +16221,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2011-01-01_poor-economics-banerjee.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2011-01-01_sapiens-harari",
@@ -16244,7 +16244,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2011-01-01_sapiens-harari.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2011-01-01_steve-jobs-isaacson",
@@ -16266,7 +16266,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2011-01-01_steve-jobs-isaacson.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2012-01-23_quiet-susan-cain",
@@ -16291,7 +16291,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2012-01-23_quiet-susan-cain.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2012-11-13_mastery-robert-greene",
@@ -16316,7 +16316,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2012-11-13_mastery-robert-greene.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2013-01-01_stuff-matters-miodownik",
@@ -16336,7 +16336,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2013-01-01_stuff-matters-miodownik.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2013-01-01_the-courage-to-be-disliked-kishimi-koga",
@@ -16357,7 +16357,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2013-01-01_the-courage-to-be-disliked-kishimi-koga.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2014-01-01_innovators-isaacson",
@@ -16379,7 +16379,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2014-01-01_innovators-isaacson.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2014-01-01_the-future-of-the-mind-kaku",
@@ -16401,7 +16401,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2014-01-01_the-future-of-the-mind-kaku.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2015-01-01_elon-musk-vance",
@@ -16422,7 +16422,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2015-01-01_elon-musk-vance.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2015-01-01_homo-deus-harari",
@@ -16445,7 +16445,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2015-01-01_homo-deus-harari.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2015-01-01_storytelling-with-data-knaflic",
@@ -16464,7 +16464,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/books/2015-01-01_storytelling-with-data-knaflic.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2016-01-01_the-gene-mukherjee",
@@ -16488,7 +16488,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2016-01-01_the-gene-mukherjee.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2016-01-01_the-subtle-art-of-not-giving-a-fck-manson",
@@ -16508,7 +16508,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2016-01-01_the-subtle-art-of-not-giving-a-fck-manson.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2016-02-02_originals-grant",
@@ -16533,7 +16533,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2016-02-02_originals-grant.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2016-07-01_data-science-das",
@@ -16551,7 +16551,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-26",
       "path": "notes/books/2016-07-01_data-science-das.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2017-04-04_pandoras-lab-offit",
@@ -16577,7 +16577,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2017-04-04_pandoras-lab-offit.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2018-01-01_como-hacer-que-te-pasen-cosas-buenas-rojas",
@@ -16597,7 +16597,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2018-01-01_como-hacer-que-te-pasen-cosas-buenas-rojas.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2018-01-01_mide-lo-que-importa-doerr",
@@ -16622,7 +16622,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2018-01-01_mide-lo-que-importa-doerr.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2018-01-01_origin-story-christian",
@@ -16644,7 +16644,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2018-01-01_origin-story-christian.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2018-01-01_storyworthy-dicks",
@@ -16665,7 +16665,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2018-01-01_storyworthy-dicks.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2018-02-20_educated-tara-westover",
@@ -16690,7 +16690,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2018-02-20_educated-tara-westover.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2019-01-01_ultralearning-young",
@@ -16710,7 +16710,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2019-01-01_ultralearning-young.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2019-09-10_talking-to-strangers-gladwell",
@@ -16735,7 +16735,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2019-09-10_talking-to-strangers-gladwell.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2020-01-01_apocalypse-never-shellenberger",
@@ -16756,7 +16756,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2020-01-01_apocalypse-never-shellenberger.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2020-01-01_the-parasitic-mind-saad",
@@ -16776,7 +16776,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2020-01-01_the-parasitic-mind-saad.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2020-01-01_the-psychology-of-money-housel",
@@ -16797,7 +16797,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2020-01-01_the-psychology-of-money-housel.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2020-04-04_how-innovation-works-ridley",
@@ -16823,7 +16823,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2020-04-04_how-innovation-works-ridley.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2020-08-11_almanack-naval-ravikant-jorgenson",
@@ -16848,7 +16848,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2020-08-11_almanack-naval-ravikant-jorgenson.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2021-01-01_code-breaker-isaacson",
@@ -16871,7 +16871,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2021-01-01_code-breaker-isaacson.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2021-01-01_think-again-grant",
@@ -16893,7 +16893,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2021-01-01_think-again-grant.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2022-01-01_the-song-of-the-cell-mukherjee",
@@ -16915,7 +16915,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2022-01-01_the-song-of-the-cell-mukherjee.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2022-08-11_el-poder-de-las-palabras-sigman",
@@ -16941,7 +16941,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2022-08-11_el-poder-de-las-palabras-sigman.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2022-09-13_the-myth-of-normal",
@@ -16967,7 +16967,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2022-09-13_the-myth-of-normal.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2022-09-26_of-boys-and-men-reeves",
@@ -16994,7 +16994,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2022-09-26_of-boys-and-men-reeves.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2022-10-04_chip-war-miller",
@@ -17021,7 +17021,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2022-10-04_chip-war-miller.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2023-01-01_how-to-know-a-person-brooks",
@@ -17042,7 +17042,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2023-01-01_how-to-know-a-person-brooks.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2023-01-01_lo-que-nunca-cambia-housel",
@@ -17063,7 +17063,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2023-01-01_lo-que-nunca-cambia-housel.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2023-09-05_right-kind-of-wrong-edmondson",
@@ -17089,7 +17089,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2023-09-05_right-kind-of-wrong-edmondson.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2023-10-24_hidden-potential-grant",
@@ -17114,7 +17114,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2023-10-24_hidden-potential-grant.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2024-01-01_blind-spots-makary",
@@ -17139,7 +17139,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2024-01-01_blind-spots-makary.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2024-01-01_la-imagen-como-arte-caicedo",
@@ -17162,7 +17162,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-08",
       "path": "notes/books/2024-01-01_la-imagen-como-arte-caicedo.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2024-01-01_nexus-harari",
@@ -17185,7 +17185,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2024-01-01_nexus-harari.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2024-01-01_supercommunicators-duhigg",
@@ -17205,7 +17205,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2024-01-01_supercommunicators-duhigg.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2024-01-01_the-let-them-theory-robbins",
@@ -17225,7 +17225,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2024-01-01_the-let-them-theory-robbins.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2024-01-01_the-upgrade-brizendine",
@@ -17246,7 +17246,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2024-01-01_the-upgrade-brizendine.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2024-04-02_co-intelligence-mollick",
@@ -17274,7 +17274,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2024-04-02_co-intelligence-mollick.md",
-      "pdf_local": "sources/pdfs/mollick2024-co-intelligence.epub"
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2024-04-23_the-algebra-of-wealth-galloway",
@@ -17299,7 +17299,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2024-04-23_the-algebra-of-wealth-galloway.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2024-06-07_la-generacion-ansiosa-haidt",
@@ -17325,7 +17325,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-06-25",
       "path": "notes/books/2024-06-07_la-generacion-ansiosa-haidt.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2025-01-01_abundance-klein",
@@ -17347,7 +17347,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2025-01-01_abundance-klein.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2025-01-01_source-code-gates",
@@ -17367,7 +17367,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2025-01-01_source-code-gates.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2025-01-01_the-5-types-of-wealth-bloom",
@@ -17387,7 +17387,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2025-01-01_the-5-types-of-wealth-bloom.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/books/2025-01-01_the-art-of-spending-money-housel",
@@ -17407,7 +17407,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/books/2025-01-01_the-art-of-spending-money-housel.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1932-01-01_brave-new-world-huxley",
@@ -17426,7 +17426,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1932-01-01_brave-new-world-huxley.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1937-01-01_the-hobbit",
@@ -17444,7 +17444,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1937-01-01_the-hobbit.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1945-01-01_animal-farm-orwell",
@@ -17465,7 +17465,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1945-01-01_animal-farm-orwell.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1949-01-01_1984-orwell",
@@ -17484,7 +17484,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1949-01-01_1984-orwell.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1951-01-01_foundation",
@@ -17505,7 +17505,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1951-01-01_foundation.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1953-01-01_fahrenheit-451-bradbury",
@@ -17524,7 +17524,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1953-01-01_fahrenheit-451-bradbury.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1965-01-01_dune",
@@ -17545,7 +17545,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1965-01-01_dune.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1968-01-01_2001-a-space-odyssey",
@@ -17566,7 +17566,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1968-01-01_2001-a-space-odyssey.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1969-01-01_slaughterhouse-five",
@@ -17587,7 +17587,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1969-01-01_slaughterhouse-five.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1973-01-01_rendezvous-with-rama",
@@ -17607,7 +17607,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1973-01-01_rendezvous-with-rama.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1979-01-01_hitchhikers-guide-to-the-galaxy",
@@ -17626,7 +17626,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1979-01-01_hitchhikers-guide-to-the-galaxy.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1985-01-01_enders-game",
@@ -17648,7 +17648,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1985-01-01_enders-game.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1987-01-01_watchmen",
@@ -17669,7 +17669,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1987-01-01_watchmen.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1988-01-01_v-for-vendetta-moore",
@@ -17690,7 +17690,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1988-01-01_v-for-vendetta-moore.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1990-01-01_good-omens",
@@ -17711,7 +17711,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1990-01-01_good-omens.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1993-01-01_the-giver-lowry",
@@ -17730,7 +17730,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1993-01-01_the-giver-lowry.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/1996-01-01_a-game-of-thrones",
@@ -17750,7 +17750,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/1996-01-01_a-game-of-thrones.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2001-01-01_american-gods",
@@ -17770,7 +17770,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2001-01-01_american-gods.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2006-01-01_mistborn-final-empire",
@@ -17790,7 +17790,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2006-01-01_mistborn-final-empire.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2006-01-01_world-war-z-brooks",
@@ -17810,7 +17810,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2006-01-01_world-war-z-brooks.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2007-01-01_mistborn-well-of-ascension",
@@ -17830,7 +17830,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2007-01-01_mistborn-well-of-ascension.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2008-01-01_mistborn-hero-of-ages",
@@ -17850,7 +17850,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2008-01-01_mistborn-hero-of-ages.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2008-01-01_the-dark-forest",
@@ -17871,7 +17871,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2008-01-01_the-dark-forest.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2008-01-01_the-hunger-games",
@@ -17891,7 +17891,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2008-01-01_the-hunger-games.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2008-01-01_three-body-problem",
@@ -17912,7 +17912,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2008-01-01_three-body-problem.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2009-01-01_catching-fire",
@@ -17931,7 +17931,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2009-01-01_catching-fire.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2010-01-01_deaths-end",
@@ -17952,7 +17952,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2010-01-01_deaths-end.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2010-01-01_mockingjay",
@@ -17972,7 +17972,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2010-01-01_mockingjay.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2011-01-01_butcher-of-anderson-station",
@@ -17991,7 +17991,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2011-01-01_butcher-of-anderson-station.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2011-01-01_divergent",
@@ -18011,7 +18011,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2011-01-01_divergent.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2011-01-01_leviathan-wakes",
@@ -18032,7 +18032,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2011-01-01_leviathan-wakes.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2011-01-01_mistborn-alloy-of-law",
@@ -18051,7 +18051,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2011-01-01_mistborn-alloy-of-law.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2011-01-01_ready-player-one",
@@ -18071,7 +18071,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2011-01-01_ready-player-one.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2012-01-01_calibans-war",
@@ -18092,7 +18092,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2012-01-01_calibans-war.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2012-01-01_drive",
@@ -18111,7 +18111,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2012-01-01_drive.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2012-01-01_gods-of-risk",
@@ -18130,7 +18130,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2012-01-01_gods-of-risk.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2012-01-01_insurgent",
@@ -18149,7 +18149,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2012-01-01_insurgent.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2012-01-01_wool-omnibus",
@@ -18169,7 +18169,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2012-01-01_wool-omnibus.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2013-01-01_abaddons-gate",
@@ -18190,7 +18190,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2013-01-01_abaddons-gate.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2013-01-01_the-ocean-at-the-end-of-the-lane",
@@ -18209,7 +18209,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2013-01-01_the-ocean-at-the-end-of-the-lane.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2014-01-01_cibola-burn",
@@ -18230,7 +18230,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2014-01-01_cibola-burn.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2014-01-01_red-rising",
@@ -18252,7 +18252,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2014-01-01_red-rising.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2014-01-01_the-churn",
@@ -18271,7 +18271,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2014-01-01_the-churn.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2015-01-01_golden-son",
@@ -18291,7 +18291,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2015-01-01_golden-son.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2015-01-01_nemesis-games",
@@ -18312,7 +18312,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2015-01-01_nemesis-games.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2015-01-01_the-vital-abyss",
@@ -18331,7 +18331,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2015-01-01_the-vital-abyss.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2016-01-01_babylons-ashes",
@@ -18352,7 +18352,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2016-01-01_babylons-ashes.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2016-01-01_dark-matter",
@@ -18372,7 +18372,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2016-01-01_dark-matter.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2016-01-01_morning-star",
@@ -18392,7 +18392,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2016-01-01_morning-star.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2016-01-01_sleeping-giants",
@@ -18412,7 +18412,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2016-01-01_sleeping-giants.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2017-01-01_artemis",
@@ -18431,7 +18431,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2017-01-01_artemis.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2017-01-01_strange-dogs",
@@ -18450,7 +18450,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2017-01-01_strange-dogs.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2018-01-01_an-absolutely-remarkable-thing",
@@ -18469,7 +18469,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2018-01-01_an-absolutely-remarkable-thing.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2019-01-01_exhalation-chiang",
@@ -18490,7 +18490,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2019-01-01_exhalation-chiang.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2019-01-01_recursion",
@@ -18510,7 +18510,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2019-01-01_recursion.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2019-01-01_something-is-killing-the-children-v1",
@@ -18529,7 +18529,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2019-01-01_something-is-killing-the-children-v1.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2021-01-01_firekeepers-daughter-boulley",
@@ -18548,7 +18548,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2021-01-01_firekeepers-daughter-boulley.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2021-01-01_project-hail-mary",
@@ -18568,7 +18568,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2021-01-01_project-hail-mary.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/2025-01-01_sunrise-on-the-reaping",
@@ -18587,7 +18587,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2025-01-01_sunrise-on-the-reaping.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/saga-divergent",
@@ -18607,7 +18607,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/saga-divergent.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/saga-hunger-games",
@@ -18629,7 +18629,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/saga-hunger-games.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/saga-mistborn",
@@ -18649,7 +18649,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/saga-mistborn.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/saga-red-rising",
@@ -18671,7 +18671,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/saga-red-rising.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/saga-remembrance-of-earths-past",
@@ -18692,7 +18692,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/saga-remembrance-of-earths-past.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     },
     {
       "id": "notes/fiction/saga-the-expanse",
@@ -18715,7 +18715,7 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/saga-the-expanse.md",
-      "pdf_local": ""
+      "pdf_ref": ""
     }
   ],
   "links": [

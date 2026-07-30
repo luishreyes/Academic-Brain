@@ -5,7 +5,8 @@ year: 2025
 journal: The Assessment Review (CUNY), Vol. 6, Issue 1
 url: https://assessatcuny.commons.gc.cuny.edu/2025/10/two-years-in-higher-education-the-seven-waves-of-assessment-and-genai/
 doi: 
-pdf_local: sources/pdfs/assessment-redesign/elkhoury_2025_seven-waves-assessment-genai.pdf
+pdf_ref: elkhoury_2025_seven-waves-assessment-genai.pdf
+sha256: 9e620a36dad38f17c17a94b49652686f696e30ae042d7e27b2c3b74e25c8dfbf
 type: paper
 keywords: [inteligencia-artificial, evaluacion-educativa, educacion-superior, integridad-academica, etica-de-la-ia, alfabetizacion-en-ia, retroalimentacion-con-ia, formacion-docente, supervision-humana, adopcion-de-tecnologia]
 date_added: 2026-06-27

@@ -5,7 +5,8 @@ year: 2024
 journal: Computer Applications in Engineering Education
 url: https://onlinelibrary.wiley.com/doi/10.1002/cae.22781
 doi: 10.1002/cae.22781
-pdf_local: sources/pdfs/capability-reliability/frenkel_2024_chatgpt-mech-eng-fe-exams.pdf
+pdf_ref: frenkel_2024_chatgpt-mech-eng-fe-exams.pdf
+sha256: 49756ffc3f41a133e2fe691edc7e9fad53f7c7fe9f79d1deec76d7be80a159c4
 type: paper
 keywords: [capacidades-de-ia, educacion-en-ingenieria, evaluacion-educativa, alucinaciones-de-ia, integridad-academica, inteligencia-artificial, pensamiento-critico, STEM, retroalimentacion-con-ia, educacion-superior]
 date_added: 2026-06-27

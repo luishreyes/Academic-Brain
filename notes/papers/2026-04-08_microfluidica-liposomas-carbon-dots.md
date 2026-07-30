@@ -5,7 +5,8 @@ year: 2026
 journal: ACS Omega
 url: https://doi.org/10.1021/acsomega.5c13301
 doi: 10.1021/acsomega.5c13301
-pdf_local: sources/pdfs/microfluidics/reyes-marin-2026-microfluidica-liposomas-carbon-dots.pdf
+pdf_ref: reyes-marin-2026-microfluidica-liposomas-carbon-dots.pdf
+sha256: 822100984a75819502b7386843b2269f75e4cfc9f016e832936b76e695aebacf
 type: paper
 keywords: [microfluidica, simulacion-computacional, nanociencia, biomateriales, desarrollo-de-farmacos]
 date_added: 2026-06-26

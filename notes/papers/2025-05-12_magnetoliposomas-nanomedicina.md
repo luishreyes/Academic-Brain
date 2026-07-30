@@ -5,7 +5,8 @@ year: 2025
 journal: Expert Opinion on Drug Delivery
 url: https://doi.org/10.1080/17425247.2025.2506829
 doi: 10.1080/17425247.2025.2506829
-pdf_local: sources/pdfs/microfluidics/rodriguez-2025-magnetoliposomas-nanomedicina.pdf
+pdf_ref: rodriguez-2025-magnetoliposomas-nanomedicina.pdf
+sha256: f35fbdca32c125a219ca8849c18807ad2ed5ae2a0bdee108e8e07204a3a08141
 type: paper
 keywords: [nanociencia, biomateriales, desarrollo-de-farmacos, terapia-genica, microfluidica]
 date_added: 2026-06-26

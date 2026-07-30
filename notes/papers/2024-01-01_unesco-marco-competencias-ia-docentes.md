@@ -5,7 +5,8 @@ year: 2024
 journal: "UNESCO"
 url: https://doi.org/10.54675/ZJTE2084
 doi: 10.54675/ZJTE2084
-pdf_local: sources/pdfs/faculty-development-implementation/unesco_2024_ai-competency-teachers.pdf
+pdf_ref: unesco_2024_ai-competency-teachers.pdf
+sha256: 83de1071587769436b3f8c8d26510582fc436c5cf0546aeb965da732edfc93bd
 type: paper
 keywords: [formacion-docente, alfabetizacion-en-ia, etica-de-la-ia, regulacion-de-ia, supervision-humana, equidad-educativa, sostenibilidad, inteligencia-artificial, liderazgo-educativo]
 date_added: 2026-06-28

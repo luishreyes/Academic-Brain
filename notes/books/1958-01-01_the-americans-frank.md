@@ -5,7 +5,6 @@ year: 1958
 publisher: Delpire / Aperture
 url: 
 isbn: "9781597115711"
-pdf_local: 
 type: book
 keywords: [fotografia, fotografia-documental, fotografia-callejera, fotografia-en-blanco-y-negro, fotografia-social, composicion-visual]
 date_added: 2026-07-08

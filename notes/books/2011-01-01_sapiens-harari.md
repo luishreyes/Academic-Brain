@@ -5,7 +5,6 @@ year: 2011
 publisher: Harper
 url: 
 isbn: 978-0-06-231609-7
-pdf_local: 
 type: book
 keywords: [gran-historia, evolucion-cultural, historia-de-la-innovacion, ciencia-y-sociedad, filosofia, comercio-y-prosperidad]
 date_added: 2026-07-05

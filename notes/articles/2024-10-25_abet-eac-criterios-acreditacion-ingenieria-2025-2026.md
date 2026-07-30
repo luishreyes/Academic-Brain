@@ -4,7 +4,8 @@ author: Engineering Accreditation Commission (EAC)
 publication: ABET
 date: 2024-10-25
 url: https://www.abet.org
-pdf_local: sources/pdfs/policy-ethics-accreditation/abet_2025_eac-criteria-2025-2026.pdf
+pdf_ref: abet_2025_eac-criteria-2025-2026.pdf
+sha256: 89d3124c5a6c77d6d21e5d58f0c3f7948273876f27c093883ed05e6740e8d031
 type: article
 keywords: [educacion-en-ingenieria, educacion-superior, evaluacion-educativa, etica-de-la-ciencia, STEM, sostenibilidad]
 date_added: 2026-06-28

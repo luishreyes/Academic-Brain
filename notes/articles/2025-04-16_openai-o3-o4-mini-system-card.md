@@ -7,7 +7,8 @@ url: https://openai.com/index/o3-o4-mini-system-card/
 type: article
 keywords: [inteligencia-artificial, seguridad-de-ia, capacidades-de-ia, alineamiento-de-ia, alucinaciones-de-ia, agentes-de-ia, etica-de-la-ia, supervision-humana]
 date_added: 2026-06-27
-pdf_local: sources/pdfs/capability-reliability/openai_2025_o3-o4-mini-system-card.pdf
+pdf_ref: openai_2025_o3-o4-mini-system-card.pdf
+sha256: 32d7ca19fff2ed0dc2d06f84e3143900bbd7898bb6f443c094477fb4ce0fc4ab
 ---
 
 # OpenAI o3 and o4-mini System Card
