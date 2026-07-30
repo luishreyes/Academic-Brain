@@ -107,3 +107,6 @@ Principios éticos y normas institucionales que regulan el comportamiento honest
 - [[notes/papers/2026-01-01_writing-against-the-machine]]
 - [[notes/articles/2025-08-27_crisis-trampa-ia-universidades-shirky]]
 - [[notes/articles/2026-07-02_contrato-de-ia-en-el-aula]]
+- [[notes/articles/2024-07-02_two-lane-approach-faq]]
+- [[notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion]]
+- [[notes/articles/2026-05-06_teqsa-genai-integridad-reforma-evaluacion]]

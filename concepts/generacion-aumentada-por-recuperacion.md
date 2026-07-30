@@ -22,3 +22,4 @@ Técnica que enriquece las respuestas de un LLM recuperando información relevan
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap20-educacion]]
 - [[notes/papers/2026-01-01_ia-trabajo-social-cap21-investigacion]]
 - [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]
+- [[notes/articles/2025-04-08_llm-laboratorios-quimica-materiales]]

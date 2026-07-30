@@ -65,3 +65,4 @@ Uso de sistemas de inteligencia artificial para proporcionar instrucción indivi
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
 - [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]
 - [[notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2]]
+- [[notes/articles/2025-04-08_llm-laboratorios-quimica-materiales]]

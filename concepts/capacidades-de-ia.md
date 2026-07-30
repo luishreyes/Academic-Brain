@@ -78,3 +78,4 @@ Evaluación empírica del rendimiento y limitaciones de los sistemas de IA en ta
 - [[notes/papers/2026-01-01_ia-educacion-farmacologia-scoping]]
 - [[notes/papers/2026-01-01_chatgpt5-glaucoma-residentes]]
 - [[notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes]]
+- [[notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion]]

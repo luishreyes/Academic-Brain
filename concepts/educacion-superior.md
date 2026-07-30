@@ -169,3 +169,8 @@ Sistema universitario, sus políticas, modelos pedagógicos y estructura institu
 - [[notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion]]
 - [[notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2]]
 - [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]
+- [[notes/articles/2024-07-02_two-lane-approach-faq]]
+- [[notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion]]
+- [[notes/articles/2025-04-08_llm-laboratorios-quimica-materiales]]
+- [[notes/articles/2025-04-08_llms-laboratorio-quimica-materiales]]
+- [[notes/articles/2026-05-06_teqsa-genai-integridad-reforma-evaluacion]]
