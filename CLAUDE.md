@@ -54,7 +54,22 @@ faltantes y 1 obsoleto acumulados en 586 notas.
 
 **Regla:** después de escribir o editar un boletín, ejecutar `node docs/build-noticias.mjs` y commitear `docs/noticias-data.js` junto al `.md`.
 
-**Limitación del entorno:** la política de red responde 403 a `arxiv.org`, `biorxiv.org`, `chemrxiv.org`, `ncbi.nlm.nih.gov` y `api.crossref.org`. No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP; queda WebSearch y los conectores de PubMed y Scholar Gateway.
+**Limitación del entorno:** la política de red responde 403 al CONNECT hacia
+prácticamente todo host académico. Verificado el 2026-08-03 contra
+`curl -sS "$HTTPS_PROXY/__agentproxy/status"`: además de `arxiv.org`,
+`biorxiv.org`, `chemrxiv.org`, `ncbi.nlm.nih.gov` y `api.crossref.org`, están
+bloqueados `onlinelibrary.wiley.com`, `sciencedirect.com`, `ieeexplore.ieee.org`,
+`link.springer.com`, `pubs.acs.org`, `pubs.rsc.org`, `journals.aps.org`,
+`tandfonline.com`, `dl.acm.org`, `api.openalex.org`, `api.semanticscholar.org`,
+`europepmc.org`, `doaj.org`, `osf.io`, `api.datacite.org` y `huggingface.co`.
+
+No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP.
+Quedan operativos WebSearch y el conector de PubMed. **El conector de Scholar
+Gateway responde, pero su corpus está congelado en mayo de 2026**, así que no
+sirve para ninguna ventana posterior; conviene comprobarlo antes de confiar en
+sus resultados. Ojo también con el resumidor de WebSearch: alucina fechas de
+envío de preprints. Contrastar la fecha contra el identificador de arXiv, cuyos
+cuatro primeros dígitos son año y mes (`2607` = julio de 2026).
 
 ## Dónde poner los PDFs
 
