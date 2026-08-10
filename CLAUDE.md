@@ -63,11 +63,22 @@ bloqueados `onlinelibrary.wiley.com`, `sciencedirect.com`, `ieeexplore.ieee.org`
 `tandfonline.com`, `dl.acm.org`, `api.openalex.org`, `api.semanticscholar.org`,
 `europepmc.org`, `doaj.org`, `osf.io`, `api.datacite.org` y `huggingface.co`.
 
+**Actualización del 2026-08-10: el bloqueo se amplió y `WebFetch` dejó de servir.**
+Los cuatro agentes de la octava edición reportaron 403 también en `frontiersin.org`,
+`nature.com`, `mdpi.com` y en todos los espejos habituales de preprints
+(`alphaxiv.org`, `emergentmind.com`, `r.jina.ai`, `papers.cool`, `synthical.com`,
+`arxiv-sanity-lite.com`, `escholarship.org`). `WebFetch` falló en **todos** los
+intentos de esa sesión, incluidos dominios de acceso abierto que antes respondían.
+Dese por hecho que no hay forma de abrir una página primaria y planee la
+verificación en consecuencia.
+
 No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP.
-Quedan operativos WebSearch y el conector de PubMed. **El conector de Scholar
-Gateway responde, pero su corpus está congelado en mayo de 2026**, así que no
-sirve para ninguna ventana posterior; conviene comprobarlo antes de confiar en
-sus resultados. Ojo también con el resumidor de WebSearch: alucina fechas de
+Quedan operativos WebSearch y el conector de PubMed, que sigue siendo la fuente
+más firme del entorno. **El conector de Scholar Gateway responde, pero su corpus
+está congelado en mayo de 2026**: su propio payload declara
+`latest 2026-05-16` y `Last corpus update: May 2026`, así que no sirve para
+ninguna ventana posterior; conviene comprobarlo antes de confiar en sus
+resultados. Ojo también con el resumidor de WebSearch: alucina fechas de
 envío de preprints. Contrastar la fecha contra el identificador de arXiv, cuyos
 cuatro primeros dígitos son año y mes (`2607` = julio de 2026).
 
