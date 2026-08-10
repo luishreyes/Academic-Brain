@@ -54,6 +54,14 @@ faltantes y 1 obsoleto acumulados en 586 notas.
 
 **Regla:** después de escribir o editar un boletín, ejecutar `node docs/build-noticias.mjs` y commitear `docs/noticias-data.js` junto al `.md`.
 
+**Regla:** los boletines de `Noticias/` y `Noticias-Biotec/` van siempre a `main`,
+nunca a una rama de trabajo. El lector publicado en `docs/noticias.html` se sirve de
+`main`, así que un boletín que se queda en una rama no existe para el lector. Si la
+sesión trae una rama de desarrollo asignada, commitear ahí y además empujar a `main`
+con `git push origin HEAD:main`; el avance es de fast-forward mientras nadie más
+escriba. Esto ya pasó: tres boletines quedaron represados en una rama y el lector
+estuvo dos semanas atrasado.
+
 **Limitación del entorno:** la política de red responde 403 al CONNECT hacia
 prácticamente todo host académico. Verificado el 2026-08-03 contra
 `curl -sS "$HTTPS_PROXY/__agentproxy/status"`: además de `arxiv.org`,
