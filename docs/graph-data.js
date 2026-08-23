@@ -5,8 +5,8 @@ window.__ACADEMIC_BRAIN__ = {
     "papers": 388,
     "articles": 54,
     "books": 75,
-    "fiction": 65,
-    "concepts": 212
+    "fiction": 66,
+    "concepts": 213
   },
   "nodes": [
     {
@@ -499,7 +499,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Colapso social, apocalipsis o amenaza de extinción a escala de civilización o especie; incluye la supervivencia, la reconstrucción y la fragilidad de las instituciones.",
       "literature": "",
       "path": "concepts/colapso-civilizatorio.md",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "concepts/comercio-y-prosperidad",
@@ -964,7 +964,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Ecología, medio ambiente y transformación planetaria (terraformación) como eje del mundo narrativo; incluye la dependencia entre una sociedad y su entorno físico.",
       "literature": "",
       "path": "concepts/ecologia-y-terraformacion.md",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "concepts/economia-circular",
@@ -1368,6 +1368,25 @@ window.__ACADEMIC_BRAIN__ = {
       "literature": "",
       "path": "concepts/evaluacion-educativa.md",
       "degree": 133
+    },
+    {
+      "id": "concepts/evolucion-biologica",
+      "kind": "concept",
+      "label": "evolucion biologica",
+      "keyword": "evolucion-biologica",
+      "aliases": [
+        "evolution",
+        "biological evolution",
+        "natural selection",
+        "selección natural",
+        "uplift",
+        "darwinismo",
+        "adaptación"
+      ],
+      "definition": "La evolución biológica, la selección natural y la aceleración o dirección artificial del desarrollo de una especie (uplift) como motor narrativo o tema científico; el interés está en cómo la biología, dejada correr bajo presión, produce mente, sociedad y diferencia.",
+      "literature": "",
+      "path": "concepts/evolucion-biologica.md",
+      "degree": 1
     },
     {
       "id": "concepts/evolucion-cultural",
@@ -2681,7 +2700,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Motivo de la ciencia ficción que explora el encuentro con una inteligencia no humana o extraterrestre y el problema de comunicarse y coexistir a través de una diferencia radical; incluye la incomprensión, la amenaza mutua y la hipótesis del bosque oscuro.",
       "literature": "",
       "path": "concepts/primer-contacto.md",
-      "degree": 17
+      "degree": 18
     },
     {
       "id": "concepts/probioticos",
@@ -3242,7 +3261,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Construcción de mundos de ficción que operan como mecanismos coherentes: reglas explícitas y consistentes (físicas, mágicas, económicas o sociales) de las que se deducen las consecuencias de la trama; el interés está en cómo funciona el sistema, más allá de la etiqueta de género.",
       "literature": "",
       "path": "concepts/sistemas-y-reglas.md",
-      "degree": 21
+      "degree": 22
     },
     {
       "id": "concepts/sobredependencia-de-la-ia",
@@ -18229,6 +18248,28 @@ window.__ACADEMIC_BRAIN__ = {
       ],
       "date": "2026-07-05",
       "path": "notes/fiction/2014-01-01_the-churn.md",
+      "pdf_local": ""
+    },
+    {
+      "id": "notes/fiction/2015-01-01_children-of-time-tchaikovsky",
+      "kind": "fiction",
+      "label": "Children of Time",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ],
+      "year": "2015",
+      "venue": "",
+      "url": "",
+      "doi": "",
+      "keywords": [
+        "evolucion-biologica",
+        "ecologia-y-terraformacion",
+        "primer-contacto",
+        "sistemas-y-reglas",
+        "colapso-civilizatorio"
+      ],
+      "date": "2026-08-23",
+      "path": "notes/fiction/2015-01-01_children-of-time-tchaikovsky.md",
       "pdf_local": ""
     },
     {
@@ -38434,6 +38475,31 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/fiction/2014-01-01_the-churn",
       "target": "notes/fiction/saga-the-expanse",
       "kind": "related"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_children-of-time-tchaikovsky",
+      "target": "concepts/evolucion-biologica",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_children-of-time-tchaikovsky",
+      "target": "concepts/ecologia-y-terraformacion",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_children-of-time-tchaikovsky",
+      "target": "concepts/primer-contacto",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_children-of-time-tchaikovsky",
+      "target": "concepts/sistemas-y-reglas",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/fiction/2015-01-01_children-of-time-tchaikovsky",
+      "target": "concepts/colapso-civilizatorio",
+      "kind": "keyword"
     },
     {
       "source": "notes/fiction/2015-01-01_golden-son",

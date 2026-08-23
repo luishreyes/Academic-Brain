@@ -18,4 +18,5 @@ Colapso social, apocalipsis o amenaza de extinción a escala de civilización o 
 - [[notes/fiction/2014-01-01_cibola-burn]]
 - [[notes/fiction/2015-01-01_nemesis-games]]
 - [[notes/fiction/2016-01-01_babylons-ashes]]
+- [[notes/fiction/2015-01-01_children-of-time-tchaikovsky]]
 - [[notes/fiction/saga-the-expanse]]

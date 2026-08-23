@@ -30,3 +30,4 @@ Construcción de mundos de ficción que operan como mecanismos coherentes: regla
 - [[notes/fiction/2017-01-01_artemis]]
 - [[notes/fiction/2019-01-01_recursion]]
 - [[notes/fiction/2021-01-01_project-hail-mary]]
+- [[notes/fiction/2015-01-01_children-of-time-tchaikovsky]]

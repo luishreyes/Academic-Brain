@@ -157,6 +157,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **evolucion-cultural** — Proceso por el cual las ideas, tecnologías, normas y prácticas sociales cambian a lo largo del tiempo mediante mecanismos análogos a la selección natural: variación, transmisión y selección diferencial; incluye la teoría de la evolución de doble herencia y el concepto de memes. _Aliases: cultural evolution, evolución de la cultura, memética, cultural transmission, double inheritance theory_
 
+**evolucion-biologica** — La evolución biológica, la selección natural y la aceleración o dirección artificial del desarrollo de una especie (uplift) como motor narrativo o tema científico; el interés está en cómo la biología, dejada correr bajo presión, produce mente, sociedad y diferencia. _Aliases: evolution, biological evolution, natural selection, selección natural, uplift, darwinismo, adaptación_
+
 **ecologia-y-terraformacion** — Ecología, medio ambiente y transformación planetaria (terraformación) como eje del mundo narrativo; incluye la dependencia entre una sociedad y su entorno físico. _Aliases: ecology, terraforming, ecología, terraformación, medio ambiente, ecosistema_
 
 **economia-circular** — Modelo económico que busca eliminar residuos y maximizar el uso de recursos manteniendo materiales y nutrientes en ciclos cerrados; incluye valorización de subproductos, bioeconomía y producción sostenible. _Aliases: circular economy, bioeconomía, waste valorization, economía regenerativa_

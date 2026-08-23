@@ -25,4 +25,5 @@ Motivo de la ciencia ficción que explora el encuentro con una inteligencia no h
 - [[notes/fiction/2017-01-01_strange-dogs]]
 - [[notes/fiction/2018-01-01_an-absolutely-remarkable-thing]]
 - [[notes/fiction/2021-01-01_project-hail-mary]]
+- [[notes/fiction/2015-01-01_children-of-time-tchaikovsky]]
 - [[notes/fiction/saga-the-expanse]]
