@@ -1846,7 +1846,7 @@ window.__ACADEMIC_BRAIN__ = {
         "AMF",
         "magnetic field therapy"
       ],
-      "definition": "Técnica terapéutica que expone nanopartículas magnéticas a un campo magnético alterno (AMF) para generar calor localizado e inducir estrés celular o apoptosis en tejido tumoral, potenciando el efecto de agentes citotóxicos coadministrados.",
+      "definition": "Técnica terapéutica que expone nanopartículas magnéticas a un campo magnético alterno (AMF) para inducir estrés celular o apoptosis en tejido tumoral, potenciando el efecto de agentes citotóxicos coadministrados. La vía canónica es el calentamiento localizado del tejido, y es la que sostiene el criterio de dosis térmica acumulada (CEM43) con el que se diseñan los dispositivos.",
       "literature": "",
       "path": "concepts/hipertermia-magnetica.md",
       "degree": 1
