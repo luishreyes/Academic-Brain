@@ -84,11 +84,21 @@ No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP.
 Quedan operativos WebSearch y el conector de PubMed, que sigue siendo la fuente
 más firme del entorno. **El conector de Scholar Gateway responde, pero su corpus
 está congelado en mayo de 2026**: su propio payload declara
-`latest 2026-05-16` y `Last corpus update: May 2026`, así que no sirve para
+`latest 2026-05-28` y `Last corpus update: May 2026` (verificado el 2026-08-31;
+antes se anotó aquí el 16 de mayo, que era incorrecto), así que no sirve para
 ninguna ventana posterior; conviene comprobarlo antes de confiar en sus
-resultados. Ojo también con el resumidor de WebSearch: alucina fechas de
+resultados. **Pero úselo primero, no último, en toda pregunta retrospectiva:**
+el 2026-08-31 encontró un paper del *Journal of Engineering Education* que siete
+búsquedas web distintas no encontraron. El corpus congelado limita la ventana
+reciente, no la búsqueda hacia atrás.
+
+Ojo también con el resumidor de WebSearch: alucina fechas de
 envío de preprints. Contrastar la fecha contra el identificador de arXiv, cuyos
-cuatro primeros dígitos son año y mes (`2607` = julio de 2026).
+cuatro primeros dígitos son año y mes (`2607` = julio de 2026); dentro del mes,
+el día es aproximadamente `NNNNN/1000` (`2608.12292` = 12 de agosto). **Y
+alucina URLs:** el 2026-08-31 inventó un repositorio de GitHub que la API de
+GitHub desmiente. La API de GitHub sí responde y sirve para comprobar si un
+repositorio existe de verdad.
 
 ## Dónde poner los PDFs
 
