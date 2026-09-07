@@ -82,15 +82,27 @@ verificación en consecuencia.
 
 No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP.
 Quedan operativos WebSearch y el conector de PubMed, que sigue siendo la fuente
-más firme del entorno. **El conector de Scholar Gateway responde, pero su corpus
-está congelado en mayo de 2026**: su propio payload declara
-`latest 2026-05-28` y `Last corpus update: May 2026` (verificado el 2026-08-31;
-antes se anotó aquí el 16 de mayo, que era incorrecto), así que no sirve para
-ninguna ventana posterior; conviene comprobarlo antes de confiar en sus
-resultados. **Pero úselo primero, no último, en toda pregunta retrospectiva:**
-el 2026-08-31 encontró un paper del *Journal of Engineering Education* que siete
-búsquedas web distintas no encontraron. El corpus congelado limita la ventana
-reciente, no la búsqueda hacia atrás.
+más firme del entorno. **El conector de Scholar Gateway dejó de estar congelado.**
+Su payload declaraba `latest 2026-05-28` y `Last corpus update: May 2026` el
+2026-08-31; el 2026-09-07 declara actualización de septiembre de 2026 y devolvió
+artículos fechados hasta el 27 de agosto, verificado en nueve consultas
+independientes. Compruebe la frescura en cada sesión en lugar de asumirla.
+
+**Su límite real no es la fecha, es el catálogo: solo indexa Wiley.** Los más de
+doscientos resultados revisados el 2026-09-07 salen todos de
+`onlinelibrary.wiley.com`. Eso explica por qué *Computers & Education*
+(Elsevier), *IEEE Transactions on Education*, *European Journal of Engineering
+Education* (Taylor & Francis) y *Learning and Instruction* (Elsevier) no
+aparecieron en doce ediciones del boletín. Sí cubre *Journal of Engineering
+Education*, *Computer Applications in Engineering Education*, *BJET*, *JCAL* y
+*Educational Measurement: Issues and Practice*. Durante tres semanas se atribuyó
+a un corpus congelado lo que era un catálogo parcial.
+
+**Úselo primero, no último, en toda pregunta retrospectiva:** el 2026-08-31
+encontró un paper del *Journal of Engineering Education* que siete búsquedas web
+distintas no encontraron, y el 2026-09-07 encontró en *Computer Applications in
+Engineering Education* el estudio de transferencia que el boletín llevaba once
+ediciones buscando.
 
 Ojo también con el resumidor de WebSearch: alucina fechas de
 envío de preprints. Contrastar la fecha contra el identificador de arXiv, cuyos
@@ -99,6 +111,14 @@ el día es aproximadamente `NNNNN/1000` (`2608.12292` = 12 de agosto). **Y
 alucina URLs:** el 2026-08-31 inventó un repositorio de GitHub que la API de
 GitHub desmiente. La API de GitHub sí responde y sirve para comprobar si un
 repositorio existe de verdad.
+
+`search_repositories` y `search_code` consultan todo GitHub aunque
+`get_file_contents` esté restringido al repo de la sesión, y sirven para dos
+cosas distintas. La primera devuelve el objeto completo del API, con fechas de
+creación y de último empuje, que el resumidor no puede inventar. La segunda
+verifica **contenido**, no solo existencia: el 2026-09-07 el resumidor dio dos
+listas distintas y ambas parcialmente falsas de las ocho directrices de Baltes,
+y solo los nombres de archivo del repositorio fuente resolvieron el desacuerdo.
 
 ## Dónde poner los PDFs
 
