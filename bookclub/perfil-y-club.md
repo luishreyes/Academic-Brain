@@ -4,7 +4,7 @@ tipo: modulo-de-recomendacion
 alcance: lectura y conversacion sobre libros
 no_alcance: escritura, edicion de prosa, generacion de texto de autor
 registro: usted
-actualizado: 2026-07-09
+actualizado: 2026-09-10
 ---
 
 # Módulo: Club de Lectura
@@ -32,6 +32,8 @@ En no ficción busca ideas grandes con motor por debajo: ciencia, medicina, tecn
 Es completista de sagas. Cuando una serie lo atrapa, la termina entera, novelas y novellas incluidas. Ejemplos: The Expanse, Red Rising, Remembrance of Earth's Past, Mistborn.
 
 Lee en inglés y en español según la edición.
+
+Hay un tercer carril que no se comporta como los otros dos: la fotografía. Ahí no lee para entretenerse, lee para su propia práctica. Él mismo lo marcó el 2026-09-10 al empezar La cámara lúcida, diciendo que está cerca de su pasión y que no cuenta como lectura de ocio. Eso cambia el criterio con que se recomienda aquí. No se mide por si engancha, se mide por si le sirve al ojo.
 
 ## Patrones de valoración
 
@@ -66,6 +68,8 @@ Al terminar cada libro: conversación breve, dos o tres preguntas concretas, nad
 ## Estado actual del club
 
 - Leyendo ahora: Exhalation, de Ted Chiang. Valoración provisional 4.5, ya encargó la pasta dura para coleccionarlo.
+- Segundo frente abierto: La cámara lúcida, de Roland Barthes, en español y por iniciativa propia, sin pasar por el club. Reporta que lo disfruta y aclara que la fotografía es pasión, no ocio. El dato vale por dos cosas. Una, el carril de fotografía se alimenta solo y no necesita que el club lo empuje. Otra, más interesante: Barthes apunta justo al punto ciego declarado. Los cuatro libros de fotografía anteriores eran imagen y oficio. Este es un ensayo sobre el duelo y sobre eso que en una foto hiere sin dejarse explicar, el punctum. Está entrando a lo íntimo por la puerta de su propia práctica, que quizá sea la única puerta por la que iba a entrar.
+- Hilo abierto para cobrar: contrastar Barthes contra el rebote de Stoner cuando llegue. Si Barthes le funciona y Stoner no, el punto ciego no es la vida interior, es la vida interior sin oficio de por medio. Esa distinción reordena las recomendaciones a ciegas de todo el año.
 - Hilo abierto: la segunda máquina de Chiang sobre el libre albedrío, todavía sin aparecer en su lectura. Retomar al cierre.
 - Fotografía confirmada como vena real, no capricho: cerró tres Photofile, Salgado, Koudelka y Cartier-Bresson, los tres en 4.5. El dato fino está en la distancia con el 5 que dio a The Decisive Moment. Prefiere la obra completa a la monografía de bolsillo que la resume. Esto refuerza el salto lateral pendiente hacia Calvino: el ojo de observador tiene hambre de material, y el libro literario construido como sistema de imágenes es la apuesta natural.
 - Stoner comprado en audiolibro para más tarde, con esto queda entregado el tiro a ciegas y cerrada la rotación completa de los tres tipos. La lectura real de Stoner sigue pendiente: el rebote, o la rendición, es el dato que interesa.

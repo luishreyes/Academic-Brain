@@ -3,8 +3,8 @@ titulo: Catálogo de lecturas
 tipo: fuente-de-datos
 proposito: base para el módulo Club de Lectura y para generar notas de ficción y enlaces en el grafo
 total_leidos: 120
-en_curso: 1
-actualizado: 2026-07-07
+en_curso: 2
+actualizado: 2026-09-10
 leyenda_valoracion: "5, 4, 3 (entero) · 's/c' sin calificar · 'prov' provisional"
 leyenda_idioma: "EN edición en inglés · ES edición en español · ND no determinado"
 leyenda_estado: "leído · leyendo · recomendado"
@@ -191,6 +191,7 @@ Uso: el módulo `/bookclub` lee este catálogo para entender el criterio de Luis
 | Sebastião Salgado (Photofile) | Sebastião Salgado | EN | 4.5 | leído |
 | Josef Koudelka (Photofile) | Josef Koudelka | EN | 4.5 | leído |
 | Henri Cartier-Bresson (Photofile) | Henri Cartier-Bresson | EN | 4.5 | leído |
+| La cámara lúcida (La chambre claire) | Roland Barthes | ES | s/c | leyendo |
 
 ## Thriller
 
@@ -204,3 +205,4 @@ Uso: el módulo `/bookclub` lee este catálogo para entender el criterio de Luis
 | Título | Autor | Categoría | Idioma | Valoración | Estado |
 |---|---|---|---|---|---|
 | Exhalation | Ted Chiang | SciFi (cuentos) | ND | 4.5 prov | leyendo |
+| La cámara lúcida (La chambre claire) | Roland Barthes | Fotografía (ensayo) | ES | s/c | leyendo |
