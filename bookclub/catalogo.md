@@ -40,7 +40,7 @@ Uso: el módulo `/bookclub` lee este catálogo para entender el criterio de Luis
 | An Absolutely Remarkable Thing | Hank Green | The Carls · #1 | EN | 4 | leído |
 | Ready Player One | Ernest Cline | Ready Player One · #1 | EN | 4 | leído |
 | Slaughterhouse-Five | Kurt Vonnegut | n/a | EN | 4 | leído |
-| Exhalation (cuentos) | Ted Chiang | n/a | ND | 4.5 prov | leído |
+| Exhalation (cuentos) | Ted Chiang | n/a | ND | 5 | leído |
 
 ## The Expanse (saga completa)
 

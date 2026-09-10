@@ -4,7 +4,7 @@ authors: [Ted Chiang]
 year: 2019
 saga: ""
 language: ND
-rating: 4.5 prov
+rating: 5
 status: leído
 genre: [ciencia-ficcion, cuentos, hard-sf]
 type: fiction
@@ -22,7 +22,7 @@ Colección de cuentos de Ted Chiang. Cada relato toma una premisa conceptual (un
 Chiang es ciencia ficción de ideas tan rigurosa como el Liu Cixin que enganchó a Luis: mecanismos impecables, mundos que funcionan como sistemas. La diferencia, y la trampa deliberada de esta recomendación, es que cada relato mete un golpe emocional por debajo de la línea de flotación, y demuestra que el rigor y el corazón no son enemigos. El libre albedrío es el hilo que Chiang deja abierto, con dos máquinas distintas dedicadas al asunto dentro del mismo volumen: el predictor que desarma la voluntad y el dispositivo que parte el mundo en ramas paralelas. Estrena además el cuento corto, formato casi ausente en su historial.
 
 ## Ficha de lectura
-- Estado: leído (2026-09-10). Valoración provisional 4.5, pendiente de confirmar.
+- Estado: leído (2026-09-10). Valoración final 5, subió desde la provisional de 4.5.
 - Hilo por cobrar: cuál de las dos máquinas del libre albedrío le pesó más y por qué.
 
 ## Notas relacionadas

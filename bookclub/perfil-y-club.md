@@ -38,12 +38,15 @@ Hay un tercer carril que no se comporta como los otros dos: la fotografía. Ahí
 ## Patrones de valoración
 
 - Cinco estrellas: ideas con ingeniería por debajo, o artesanía ejecutada con limpieza.
+- Matiz añadido con el 5 a Exhalation: el golpe emocional no le baja la nota si viene dentro de un mecanismo que funciona. Lo que castiga es la emoción suelta, sin máquina que la sostenga. Son dos cosas distintas y conviene no confundirlas al recomendar.
 - Cuatro estrellas: sólido, disfrutado, sin llegar a marcarlo.
 - Tres estrellas, la zona reveladora. Sus notas más bajas caen en dos sitios.
   1. Autoayuda blanda y productividad de aeropuerto. Ejemplos: The Let Them Theory, Ultralearning, Right Kind of Wrong.
   2. Ficción que corre con emociones en vez de mecanismo. Ejemplos: Firekeeper's Daughter, Gods of Risk, Artemis.
 
 Punto ciego declarado: el interior. Lo íntimo, lo que no se puede diagramar. Ahí es donde un buen libro puede expandirlo, y donde se aprende más de él cuando algo le falla.
+
+Reformulación en curso desde el 2026-09-10: el 5 a Chiang sugiere que el punto ciego es más estrecho de lo declarado. No sería el interior, sería el interior sin mecanismo. Barthes y Stoner deciden si la corrección se queda.
 
 Regla de aprendizaje: un tres enseña más que diez cincos. Preste atención a dónde y por qué se cae un libro.
 
@@ -67,10 +70,11 @@ Al terminar cada libro: conversación breve, dos o tres preguntas concretas, nad
 
 ## Estado actual del club
 
-- Exhalation, de Ted Chiang, terminado (confirmado por Luis el 2026-09-10). Queda con la provisional de 4.5 y la pasta dura ya encargada. Falta la valoración final, que él tiene que dar. El registro estuvo desfasado dos meses porque el perfil, el catálogo y la nota se quedaron en "leyendo" sin que nadie los cerrara: al terminar un libro hay que actualizar los tres.
-- Segundo frente abierto: La cámara lúcida, de Roland Barthes, en español y por iniciativa propia, sin pasar por el club. Reporta que lo disfruta y aclara que la fotografía es pasión, no ocio. El dato vale por dos cosas. Una, el carril de fotografía se alimenta solo y no necesita que el club lo empuje. Otra, más interesante: Barthes apunta justo al punto ciego declarado. Los cuatro libros de fotografía anteriores eran imagen y oficio. Este es un ensayo sobre el duelo y sobre eso que en una foto hiere sin dejarse explicar, el punctum. Está entrando a lo íntimo por la puerta de su propia práctica, que quizá sea la única puerta por la que iba a entrar.
+- Exhalation, de Ted Chiang, cerrado en 5 el 2026-09-10, con pasta dura encargada. Subió desde la provisional de 4.5, y lo que importa es lo que ese medio punto desmiente: la apuesta del club era que el golpe emocional podía costarle nota, y le sumó. Chiang entra al carril de sus cinco estrellas. Nota de proceso: el registro estuvo dos meses desfasado porque el perfil, el catálogo y la nota se quedaron en "leyendo". Al cerrar un libro hay que actualizar los tres.
+- Lectura en curso: La cámara lúcida, de Roland Barthes, en español y por iniciativa propia, sin pasar por el club. Reporta que lo disfruta y aclara que la fotografía es pasión, no ocio. El dato vale por dos cosas. Una, el carril de fotografía se alimenta solo y no necesita que el club lo empuje. Otra, más interesante: Barthes apunta justo al punto ciego declarado. Los cuatro libros de fotografía anteriores eran imagen y oficio. Este es un ensayo sobre el duelo y sobre eso que en una foto hiere sin dejarse explicar, el punctum. Está entrando a lo íntimo por la puerta de su propia práctica, que quizá sea la única puerta por la que iba a entrar. Va en la parte 4 de 48 el 2026-09-10 y le llama la atención lo cortas que son: es la forma del libro, fragmentos numerados en dos mitades, no un ensayo corrido. Ahí mismo Barthes descarta el punto de vista del fotógrafo y decide hablar solo como quien mira, lo cual choca de frente con el carril de oficio por el que Luis llegó a la fotografía. Volver a preguntarle pasada la mitad, donde el libro se da la vuelta.
 - Hilo abierto para cobrar: contrastar Barthes contra el rebote de Stoner cuando llegue. Si Barthes le funciona y Stoner no, el punto ciego no es la vida interior, es la vida interior sin oficio de por medio. Esa distinción reordena las recomendaciones a ciegas de todo el año.
 - Hilo de Chiang por cobrar ahora que el libro está cerrado: cuál de las dos máquinas del libre albedrío le pesó más, la que predice y desarma la voluntad o la que parte el mundo en ramas. Si ninguna le movió nada, el golpe emocional del libro no aterrizó y la recomendación acertó a medias.
+- Candidato en cola para el carril Chiang, sin entregar todavía porque Children of Time sigue sin leer: Stories of Your Life and Others, su otra colección. Ahí está otra vuelta al determinismo, contada como física. Su completismo la va a pedir solo.
 - Fotografía confirmada como vena real, no capricho: cerró tres Photofile, Salgado, Koudelka y Cartier-Bresson, los tres en 4.5. El dato fino está en la distancia con el 5 que dio a The Decisive Moment. Prefiere la obra completa a la monografía de bolsillo que la resume. Esto refuerza el salto lateral pendiente hacia Calvino: el ojo de observador tiene hambre de material, y el libro literario construido como sistema de imágenes es la apuesta natural.
 - Stoner comprado en audiolibro para más tarde, con esto queda entregado el tiro a ciegas y cerrada la rotación completa de los tres tipos. La lectura real de Stoner sigue pendiente: el rebote, o la rendición, es el dato que interesa.
 - El crédito de Audible por vencer seguía vivo: Stoner lo pagó aparte por despiste. Blindsight quedó descartado porque su marketplace de Audible no lo lista. El crédito se gastó en Children of Time, que abre el nuevo ciclo como tiro con efecto. Lectura pendiente, con antena puesta en si la empatía forzada hacia una mente alienígena le mueve el punto ciego.
