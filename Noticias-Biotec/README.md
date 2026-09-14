@@ -20,4 +20,12 @@ Tras agregar una entrada, regenerar los datos:
 node docs/build-noticias.mjs
 ```
 
-_Sin entradas por ahora._
+## Boletines publicados
+
+Doce ediciones semanales desde el 2 de julio de 2026, con la convención
+`AAAA-MM-DD-boletin.md`. La última es la del 14 de septiembre de 2026.
+
+Cada boletín cierra con una sección **"Hilo abierto para mañana"**: es la memoria
+de la rutina, y el PASO 0 de la sesión siguiente la lee para saber por dónde
+seguir. Los pendientes no caducan por antigüedad, así que conviene recorrer la
+carpeta completa y no solo el último número.
