@@ -328,6 +328,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 **modernizacion** — Procesos de transformación social, económica e institucional guiados por ideales de progreso técnico y racionalidad científica; históricamente asociados a industrialización y construcción de Estado-nación. _Aliases: modernidad, alto modernismo_
 
+**monitoreo-espectroscopico-bioprocesos** — Medición en línea o en tiempo casi real del estado de un cultivo mediante espectroscopía (Raman, infrarrojo medio y cercano, dieléctrica, fluorescencia) acoplada a modelos de calibración multivariados, para estimar biomasa, sustratos y producto sin muestreo destructivo; incluye la tecnología analítica de procesos (PAT), el diseño de conjuntos de calibración y la transferencia de modelos entre escalas. _Aliases: bioprocess monitoring, spectroscopic monitoring, process analytical technology, PAT, espectroscopía Raman en bioprocesos, in-line monitoring, soft sensors, quimiometría de bioprocesos_
+
 ## N
 
 **nanociencia** — Estudio y manipulación de materiales y dispositivos a escala nanométrica (1–100 nm); incluye electrónica molecular, nanotecnología y propiedades emergentes de la materia a nanoescala. _Aliases: nanotechnology, nanotecnología, molecular electronics, electrónica molecular, nanoescala_

@@ -40,6 +40,7 @@ Síntesis y funcionalización de MNPs con PEG, AEDP y OmpA. Conjugación de tDNA
 - La funcionalidad se demostró con un solo gen (pink1); generalización a otros genes no evaluada
 - No se realizaron estudios in vivo
 - La estabilidad a largo plazo del sistema bajo condiciones fisiológicas no fue evaluada
+- **Nota añadida el 2026-09-14, sobre el método de cuantificación.** La magnitud de 130 veces se midió por RT-qPCR en presencia del ARN guía de CRISPRa. Un trabajo de septiembre de 2026 mostró que los ARN guía inhiben la reacción de RT-qPCR, sesgo que en ensayos de silenciamiento sobrestima la eficiencia reportada. Aquí el sentido del sesgo se invierte: una inhibición de la amplificación deprimiría la señal del transcrito diana y haría que 130 veces sea un piso y no un techo. El punto no es que la cifra esté mal, es que el ensayo no está controlado frente a ese artefacto, y el control es barato: una curva de amplificación con el guía añadido a un molde de concentración conocida.
 
 ## Notas relacionadas
 - [[concepts/terapia-genica]]
