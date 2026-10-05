@@ -80,6 +80,21 @@ intentos de esa sesión, incluidos dominios de acceso abierto que antes respond�
 Dese por hecho que no hay forma de abrir una página primaria y planee la
 verificación en consecuencia.
 
+**Mapa de legibilidad por sello, medido el 2026-10-05.** Ninguna página primaria
+se abre, pero el buscador indexa unas y no otras, y eso decide si una fecha de
+publicación se puede verificar.
+
+| Sello | Estado | Cómo leerlo |
+|---|---|---|
+| Frontiers | legible, y sirve como barrido | la línea del encabezado del PDF está indexada como texto literal: busque la frase exacta `"PUBLISHED 29 September 2026"` más palabras de tema y devuelve los PDF que coinciden, sin necesitar el DOI. Si solo devuelve la URL del texto completo, la fecha es del resumidor y va marcada |
+| MDPI | legible hacia atrás, ciego en la quincena corriente | hasta principios de septiembre devuelve las líneas Recibido/Revisado/Aceptado/Publicado intactas. Para las dos últimas semanas, dieciocho consultas por volumen, prefijo de DOI, URL de número y frase del encabezado devolvieron solo convocatorias y números viejos. Cuente con un rezago de unas dos semanas |
+| Elsevier | visible e inútil para fechas | devuelve título e identificador, nunca la fecha de publicación en línea, que es la que importa en revistas de flujo continuo. Repórtela como inobtenible, no la adivine |
+| Taylor & Francis | visible y no confiable | lo reciente aparece como volumen 0 número 0 y el resumidor rellena el hueco inventando. No publique una fecha de T&F |
+| IEEE, Springer | ciegos | un resultado negativo aquí es evidencia débil, dígalo así |
+
+`doi.org` y `api.crossref.org` responden 403 al CONNECT, así que ningún DOI se
+puede resolver directamente para comprobarlo.
+
 No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP.
 Quedan operativos WebSearch y el conector de PubMed, que sigue siendo la fuente
 más firme del entorno. **El conector de Scholar Gateway dejó de estar congelado.**
@@ -88,15 +103,32 @@ Su payload declaraba `latest 2026-05-28` y `Last corpus update: May 2026` el
 artículos fechados hasta el 27 de agosto, verificado en nueve consultas
 independientes. Compruebe la frescura en cada sesión en lugar de asumirla.
 
-**Su límite real no es la fecha, es el catálogo: solo indexa Wiley.** Los más de
+**Su límite real no es la fecha, es el sello: solo indexa Wiley.** Los más de
 doscientos resultados revisados el 2026-09-07 salen todos de
 `onlinelibrary.wiley.com`. Eso explica por qué *Computers & Education*
 (Elsevier), *IEEE Transactions on Education*, *European Journal of Engineering
 Education* (Taylor & Francis) y *Learning and Instruction* (Elsevier) no
-aparecieron en doce ediciones del boletín. Sí cubre *Journal of Engineering
-Education*, *Computer Applications in Engineering Education*, *BJET*, *JCAL* y
-*Educational Measurement: Issues and Practice*. Durante tres semanas se atribuyó
+aparecieron en doce ediciones del boletín. Durante tres semanas se atribuyó
 a un corpus congelado lo que era un catálogo parcial.
+
+**Corrección del 2026-10-05: el catálogo es Wiley entero, no cinco revistas.**
+Durante tres ediciones este archivo afirmó que cubría solo *Journal of
+Engineering Education*, *Computer Applications in Engineering Education*,
+*BJET*, *JCAL* y *Educational Measurement: Issues and Practice*. Veintisiete
+consultas devolvieron además *European Journal of Education*, *Journal of
+Educational Measurement*, *British Educational Research Journal*, *Review of
+Education*, *TESOL Quarterly*, *Expert Systems*, *Systems Engineering*,
+*Engineering Reports*, *Decision Sciences Journal of Innovative Education*,
+*Computer Graphics Forum*, *INCOSE International Symposium*, *AIChE Journal* y
+*Applied Cognitive Psychology*. *European Journal of Education* es un sitio de
+volumen alto en este tema y se venía desaprovechando. Las exclusiones sí se
+sostienen: ni Elsevier, ni IEEE, ni Taylor & Francis.
+
+**Y su rezago de ingesta es de diez a catorce días.** El 2026-10-05 la etiqueta
+declaró «September 2026» en veintisiete consultas idénticas y el techo real de
+publicación fue el 24 de septiembre. La etiqueta no sobreafirma el mes, lo cumple
+hasta el día 24; lo que no hace es alcanzar la semana corriente. Para una rutina
+semanal es fuente retrospectiva, no de actualidad.
 
 **Úselo primero, no último, en toda pregunta retrospectiva:** el 2026-08-31
 encontró un paper del *Journal of Engineering Education* que siete búsquedas web
@@ -106,11 +138,40 @@ ediciones buscando.
 
 Ojo también con el resumidor de WebSearch: alucina fechas de
 envío de preprints. Contrastar la fecha contra el identificador de arXiv, cuyos
-cuatro primeros dígitos son año y mes (`2607` = julio de 2026); dentro del mes,
-el día es aproximadamente `NNNNN/1000` (`2608.12292` = 12 de agosto). **Y
-alucina URLs:** el 2026-08-31 inventó un repositorio de GitHub que la API de
+cuatro primeros dígitos son año y mes (`2607` = julio de 2026).
+
+**Dentro del mes, el día hay que calibrarlo; el divisor no es mil.** Este archivo
+usó `NNNNN/1000` durante meses y es falso. El volumen de arXiv crece: septiembre
+de 2026 pasó de `2609.389xx`, es decir unas 1.290 entregas por día. Ancla
+verificada de primera mano: `2609.38737` corresponde al 30 de septiembre de 2026,
+y `2610.00863` al 1 de octubre. Con el divisor viejo se fecharon como del 28 o 29
+de septiembre media docena de preprints que eran del 24 al 27, y se acusó
+falsamente al resumidor de alucinar una fecha que tenía bien. **Regla corregida:**
+ancle el mes contra un identificador de fecha conocida antes de fechar nada, y
+calcule el día como `NNNNN / (entregas por día del mes)`.
+
+**Y alucina URLs:** el 2026-08-31 inventó un repositorio de GitHub que la API de
 GitHub desmiente. La API de GitHub sí responde y sirve para comprobar si un
 repositorio existe de verdad.
+
+**`git clone` atraviesa el proxy, y es hoy la mejor vía para datos
+depositados.** Verificado el 2026-10-05: el depósito `obastani/GenAICanHarmLearning`
+devolvió 404 en todos sus archivos de datos por `raw.githubusercontent.com` y la
+API de GitHub respondió con bloqueo de sesión, de modo que por las dos vías
+documentadas era inaccesible. `git clone --depth 1` lo trajo entero, igual que el
+paquete de la KAUST de 549 MB y 6.039 archivos. El clon además explica esos 404:
+los nombres de carpeta que un README escribe con espacios suelen llevar guion bajo
+en el disco. Orden de preferencia para datos depositados: `git clone`, luego
+`raw.githubusercontent.com`, luego la API.
+
+**Para encontrar preprints de la semana corriente, búsqueda de código, no
+WebSearch.** El 2026-10-05 ninguna consulta web encontró un solo preprint dentro
+de la ventana de siete días, porque el índice web va una o dos semanas atrás.
+Todos los candidatos salieron de `search_code` sobre digestos curados en markdown
+(por ejemplo `edtechdev/aied`, en `content/en/articles/*.md`), que llevan citación
+completa con identificador, autores y síntesis, e iban indexados hasta
+`2610.015xx`. Úselos como generador de pistas y verifique cada identificador y
+título después.
 
 `search_repositories` y `search_code` consultan todo GitHub aunque
 `get_file_contents` esté restringido al repo de la sesión, y sirven para dos
