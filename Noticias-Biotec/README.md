@@ -22,8 +22,10 @@ node docs/build-noticias.mjs
 
 ## Boletines publicados
 
-Doce ediciones semanales desde el 2 de julio de 2026, con la convención
-`AAAA-MM-DD-boletin.md`. La última es la del 14 de septiembre de 2026.
+Quince ediciones semanales desde el 2 de julio de 2026, con la convención
+`AAAA-MM-DD-boletin.md`. La última es la del 12 de octubre de 2026. No hubo
+edición el 5 de octubre: la del 12 cubre una ventana de dos semanas y lo dice
+en su cabecera.
 
 Cada boletín cierra con una sección **"Hilo abierto para mañana"**: es la memoria
 de la rutina, y el PASO 0 de la sesión siguiente la lee para saber por dónde
