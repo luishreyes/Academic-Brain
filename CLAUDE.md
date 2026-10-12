@@ -86,18 +86,35 @@ publicación se puede verificar.
 
 | Sello | Estado | Cómo leerlo |
 |---|---|---|
-| Frontiers | legible, y sirve como barrido | la línea del encabezado del PDF está indexada como texto literal: busque la frase exacta `"PUBLISHED 29 September 2026"` más palabras de tema y devuelve los PDF que coinciden, sin necesitar el DOI. Si solo devuelve la URL del texto completo, la fecha es del resumidor y va marcada |
+| Frontiers | legible solo para **verificar**, no para barrer | **Corregido el 2026-10-12:** la línea del encabezado del PDF está indexada, pero solo se recupera cuando la consulta **lleva el DOI**: `"DOI 10.3389/frai.2026.1863666"` devuelve `TYPE Original Research PUBLISHED 13 July 2026 DOI ...`. Con la frase del encabezado más palabras de tema, el resumidor descarta las comillas y responde temáticamente: nueve consultas cubriendo los siete días de una ventana no devolvieron un solo artículo nuevo. Sirve para comprobar la fecha de un DOI que ya se tiene |
 | MDPI | legible hacia atrás, ciego en la quincena corriente | hasta principios de septiembre devuelve las líneas Recibido/Revisado/Aceptado/Publicado intactas. Para las dos últimas semanas, dieciocho consultas por volumen, prefijo de DOI, URL de número y frase del encabezado devolvieron solo convocatorias y números viejos. Cuente con un rezago de unas dos semanas |
-| Elsevier | visible e inútil para fechas | devuelve título e identificador, nunca la fecha de publicación en línea, que es la que importa en revistas de flujo continuo. Repórtela como inobtenible, no la adivine |
-| Taylor & Francis | visible y no confiable | lo reciente aparece como volumen 0 número 0 y el resumidor rellena el hueco inventando. No publique una fecha de T&F |
-| IEEE, Springer | ciegos | un resultado negativo aquí es evidencia débil, dígalo así |
+| Elsevier | inútil para fechas **por buscador**; PubMed sí las da | el buscador devuelve título e identificador, nunca la fecha de publicación en línea. **Corregido el 2026-10-12:** para revistas biomédicas indexadas, el conector de PubMed entrega esa fecha de primera mano. Pruebe PubMed antes de declararla inobtenible |
+| Taylor & Francis | no confiable **por buscador**; PubMed sí la da | lo reciente aparece como volumen 0 número 0 y el resumidor rellena el hueco inventando. La prohibición de publicar fechas de T&F vale para la vía del buscador. **Corregido el 2026-10-12:** por PubMed sí es publicable (así se fechó Hart, `10.1080/0142159X.2026.2743049`, el 8 de octubre) |
+| IEEE | ciego | un resultado negativo aquí es evidencia débil, dígalo así |
+| Springer | ciego al texto completo, legible en el listado | **Añadido el 2026-10-12:** los listados de revista sí están indexados con fecha y número de artículo (`Research Open access 06 October 2026 Article: 62`). Sirve para establecer que un artículo existe y cuándo salió, nunca para leer resultados |
 
 `doi.org` y `api.crossref.org` responden 403 al CONNECT, así que ningún DOI se
 puede resolver directamente para comprobarlo.
 
 No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP.
 Quedan operativos WebSearch y el conector de PubMed, que sigue siendo la fuente
-más firme del entorno. **El conector de Scholar Gateway dejó de estar congelado.**
+más firme del entorno.
+
+**ALERTA DEL 2026-10-12: el conector de Scholar Gateway agotó su cuota y no vuelve
+hasta el 1 de noviembre de 2026.** No es el corpus congelado ni el catálogo parcial
+descritos abajo: el payload responde `"type": "free_tier_limit_reached"` con
+`query_as_executed: null` y `result_count: 0`, es decir, **la búsqueda no se ejecuta**.
+Verificado por dos agentes independientes el mismo día, con tres y una consulta
+respectivamente. Las ediciones del 12, 19 y 26 de octubre no tienen vía retrospectiva a
+Wiley. Lección de uso: las ~27 consultas idénticas del 2026-10-05, disparadas solo para
+medir la frescura, probablemente ayudaron a consumir la cuota. **Mida la frescura con una
+consulta, no con veintisiete, y presupuestelas cuando el conector vuelva.** Sustituto
+verificado: WebSearch con `allowed_domains` a `onlinelibrary.wiley.com`, que alcanzó nueve
+artículos nuevos de *European Journal of Education*. Dos correcciones de catálogo medidas
+por esa vía: *Engineering Reports* y *Decision Sciences Journal of Innovative Education*
+están **vacías** del tema, y *Systems Engineering* tiene un solo artículo; el rendimiento
+real está en *European Journal of Education*, *Review of Education*, *British Educational
+Research Journal* y *Expert Systems*. **El conector de Scholar Gateway dejó de estar congelado.**
 Su payload declaraba `latest 2026-05-28` y `Last corpus update: May 2026` el
 2026-08-31; el 2026-09-07 declara actualización de septiembre de 2026 y devolvió
 artículos fechados hasta el 27 de agosto, verificado en nueve consultas
@@ -140,15 +157,22 @@ Ojo también con el resumidor de WebSearch: alucina fechas de
 envío de preprints. Contrastar la fecha contra el identificador de arXiv, cuyos
 cuatro primeros dígitos son año y mes (`2607` = julio de 2026).
 
-**Dentro del mes, el día hay que calibrarlo; el divisor no es mil.** Este archivo
-usó `NNNNN/1000` durante meses y es falso. El volumen de arXiv crece: septiembre
-de 2026 pasó de `2609.389xx`, es decir unas 1.290 entregas por día. Ancla
-verificada de primera mano: `2609.38737` corresponde al 30 de septiembre de 2026,
-y `2610.00863` al 1 de octubre. Con el divisor viejo se fecharon como del 28 o 29
-de septiembre media docena de preprints que eran del 24 al 27, y se acusó
-falsamente al resumidor de alucinar una fecha que tenía bien. **Regla corregida:**
-ancle el mes contra un identificador de fecha conocida antes de fechar nada, y
-calcule el día como `NNNNN / (entregas por día del mes)`.
+**No calcule la fecha de un preprint: léala. El divisor está jubilado desde el
+2026-10-12.** El repositorio `ehijano/rss_fetch` archiva el RSS diario de arXiv por
+categoría con **la fecha en el nombre del archivo** (`rss_data/cs.CY/2026-10-08_cs.CY.xml`),
+y cada entrada trae identificador, título, autores, tipo de anuncio y **resumen completo**.
+`git clone --depth 1` lo baja entero (unos 6 GB) a través del proxy en unos cinco minutos.
+Esa es hoy la forma correcta de fechar y de barrer arXiv, y da fecha de primera mano.
+
+Cualquier divisor da resultados falsos, por dos razones que ninguna constante absorbe.
+El identificador ordena **envíos**, no anuncios, y entre uno y otro pasan uno o dos días.
+Y el ritmo varía demasiado: del 1 al 4 de octubre de 2026 se consumieron unos 2.290
+identificadores (~570 por día, por el fin de semana), y el 6 de octubre saltó unos 3.100
+de golpe. No hay anuncios sábado ni domingo (arXiv declara `skipDays`). Bandas medidas de
+primera mano en octubre de 2026, contiguas y sin solape: 5 oct `2610.02293`–`2610.03695`;
+6 oct `2610.03720`–`2610.06830`; 7 oct `2610.06889`–`2610.08781`; 8 oct
+`2610.08794`–`2610.10533`; 9 oct `2610.10550`–`2610.12455`; 12 oct
+`2610.12545`–`2610.13912`.
 
 **Y alucina URLs:** el 2026-08-31 inventó un repositorio de GitHub que la API de
 GitHub desmiente. La API de GitHub sí responde y sirve para comprobar si un
@@ -172,6 +196,26 @@ Todos los candidatos salieron de `search_code` sobre digestos curados en markdow
 completa con identificador, autores y síntesis, e iban indexados hasta
 `2610.015xx`. Úselos como generador de pistas y verifique cada identificador y
 título después.
+
+**La búsqueda de repositorios de GitHub es frágil de una forma que engaña, medido el
+2026-10-12.** Solo encuentra con frases cortas que coincidan con el nombre o la
+descripción (`"replication package" education AI` funcionó; `"generative AI" students
+experiment in:description` también). Al agregar calificadores como `created:>2026-01-01`,
+o al encadenar cuatro o cinco términos, devuelve **cero resultados en lugar de resultados
+parciales**. Un cero ahí no es evidencia de nada. `search_code` sobre contenidos de CSV
+resultó casi inútil.
+
+**Y el resumidor inventa edades relativas, no solo fechas.** El 2026-10-12 marcó como «0
+días» y «11 días» artículos que eran del 23 de abril, el 3 de septiembre y el 30 de
+septiembre. Ninguna edad relativa suya es utilizable; exija la fecha absoluta y verifíquela.
+
+**Señal de alerta sobre paquetes de replicación.** El 2026-10-12 apareció un repositorio
+con toda la apariencia de un paquete completo (veinte scripts en R y Python, instrumentos,
+figuras, carpeta `data/`) cuyos «datos crudos» eran **sintéticos**, reconstruidos a partir
+de momentos publicados, con el DOI de Zenodo literalmente en `10.5281/zenodo.placeholder`.
+Antes de calcular sobre un depósito, lea el README entero y los nombres de archivo, y
+reproduzca primero alguna cifra que el autor ya publique: si no cuadra, no calcule nada
+nuevo encima.
 
 `search_repositories` y `search_code` consultan todo GitHub aunque
 `get_file_contents` esté restringido al repo de la sesión, y sirven para dos
