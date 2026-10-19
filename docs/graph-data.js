@@ -2,7 +2,7 @@
 window.__ACADEMIC_BRAIN__ = {
   "generated": null,
   "counts": {
-    "papers": 391,
+    "papers": 392,
     "articles": 53,
     "books": 75,
     "fiction": 65,
@@ -21,7 +21,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineering, Mathematics) como conjunto disciplinar en contextos de política educativa e inversión científica.",
       "literature": "",
       "path": "concepts/STEM.md",
-      "degree": 25
+      "degree": 26
     },
     {
       "id": "concepts/acreditacion-academica",
@@ -87,7 +87,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Conjunto de competencias necesarias para comprender, evaluar críticamente y usar sistemas de IA de manera efectiva en contextos personales, académicos y profesionales; incluye dimensiones técnicas, éticas, sociales, legales y de aplicación.",
       "literature": "",
       "path": "concepts/alfabetizacion-en-ia.md",
-      "degree": 102
+      "degree": 103
     },
     {
       "id": "concepts/alineamiento-de-ia",
@@ -199,7 +199,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso de aprendizaje; incluye dimensiones motivacionales (valor de utilidad, autoeficacia) y cognitivas (uso de estrategias de elaboración, metacognición).",
       "literature": "",
       "path": "concepts/autorregulacion-del-aprendizaje.md",
-      "degree": 49
+      "degree": 50
     },
     {
       "id": "concepts/bienestar-academico",
@@ -666,7 +666,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Proceso de desarrollo, evaluación y refinamiento de teorías y marcos teóricos que explican fenómenos; incluye la distinción entre teorías locales de un efecto y marcos teóricos generales que integran múltiples efectos, y los criterios de poder explicativo, alcance y parsimonia.",
       "literature": "",
       "path": "concepts/construccion-de-teoria.md",
-      "degree": 1
+      "degree": 2
     },
     {
       "id": "concepts/creatividad",
@@ -799,7 +799,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integración de información) a apoyos externos —herramientas, dispositivos o IA— en lugar de ejecutarlo internamente; en contextos de aprendizaje puede saltarse procesos mentales integrales a la formación de conocimiento (cognitive offloading, deuda cognitiva).",
       "literature": "",
       "path": "concepts/descarga-cognitiva.md",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "concepts/descubrimiento-cientifico",
@@ -2887,7 +2887,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Disciplina que estudia los procesos cognitivos, motivacionales y sociales que subyacen al aprendizaje y la enseñanza; informa el diseño de intervenciones pedagógicas.",
       "literature": "",
       "path": "concepts/psicologia-educativa.md",
-      "degree": 42
+      "degree": 43
     },
     {
       "id": "concepts/psicologia-social",
@@ -3116,7 +3116,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Persistencia del conocimiento y las habilidades a lo largo del tiempo, más allá del desempeño inmediato durante la intervención. Incluye la medición diferida (pruebas sin asistencia tras días o semanas), la transferencia a tareas nuevas y el principio de las \"dificultades deseables\": el esfuerzo costoso que fija el aprendizaje.",
       "literature": "La retención medida en diferido es la prueba que separa el desempeño del aprendizaje real, y es donde la evidencia sobre IA generativa se vuelve discriminante. Xu y colegas ya habían nombrado la brecha desempeño-competencia: la IA levanta mucho más lo que el estudiante hace mientras la usa que lo que llega a saber. Dos ensayos controlados aleatorizados con medición diferida la anclan ahora en cifras, y a primera vista se contradicen.\n\nContractor y Reyes (2026), con 211 estudiantes evaluados sin asistencia a una semana, encuentran que el acceso a IA eleva el desempeño inmediato en 0,27 SD y que esa ganancia persiste. Barcaui (2025), con 120 estudiantes y una prueba sorpresa a los 45 días, encuentra lo opuesto: el grupo con ChatGPT retuvo 57,5 % frente al 68,5 % del grupo tradicional (d = 0,68), una muleta cognitiva que deteriora la memoria duradera.\n\nLa contradicción se disuelve en el diseño. Barcaui entregó ChatGPT sin restricciones, la condición que empuja hacia la automatización. Contractor y Reyes separaron a quienes usaban la IA para entender (aumentación) de quienes le pedían que produjera el texto (automatización), y solo los primeros conservaron la habilidad al retirar la herramienta. La tesis conjunta: la IA sin barandas favorece el uso que erosiona el aprendizaje, y solo el uso deliberado como andamiaje conceptual preserva la habilidad. El corolario metodológico es tan importante como el hallazgo: la foto durante la intervención casi siempre favorece a la IA (Han 2026), y la foto una semana o mes y medio después es la que discrimina.",
       "path": "concepts/retencion-del-aprendizaje.md",
-      "degree": 2
+      "degree": 3
     },
     {
       "id": "concepts/retroalimentacion-con-ia",
@@ -3150,7 +3150,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Metodología de síntesis de evidencia que sigue protocolos explícitos (búsqueda, selección, extracción, codificación) para ofrecer una visión comprehensiva y reproducible de un campo.",
       "literature": "",
       "path": "concepts/revision-sistematica-de-literatura.md",
-      "degree": 58
+      "degree": 59
     },
     {
       "id": "concepts/salud-mental",
@@ -3345,7 +3345,7 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario acepta sus salidas sin verificarlas y delega en exceso el esfuerzo propio; se asocia con erosión de habilidades, pérdida de agencia y aprendizaje superficial (over-reliance).",
       "literature": "",
       "path": "concepts/sobredependencia-de-la-ia.md",
-      "degree": 27
+      "degree": 28
     },
     {
       "id": "concepts/sostenibilidad",
@@ -14545,6 +14545,32 @@ window.__ACADEMIC_BRAIN__ = {
       "date": "2026-06-27",
       "path": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook.md",
       "pdf_ref": "loubet_2026_llm-textbook-thermo-problems.pdf"
+    },
+    {
+      "id": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "kind": "paper",
+      "label": "Augmentation or Erosion? Regulating Cognitive Offloading in Generative AI-Supported STEM Learning",
+      "authors": [
+        "Daiki Nakamura"
+      ],
+      "year": "2026",
+      "venue": "Educational Psychology Review",
+      "url": "https://doi.org/10.1007/s10648-026-10224-6",
+      "doi": "10.1007/s10648-026-10224-6",
+      "keywords": [
+        "descarga-cognitiva",
+        "construccion-de-teoria",
+        "psicologia-educativa",
+        "STEM",
+        "alfabetizacion-en-ia",
+        "retencion-del-aprendizaje",
+        "sobredependencia-de-la-ia",
+        "autorregulacion-del-aprendizaje",
+        "revision-sistematica-de-literatura"
+      ],
+      "date": "2026-10-19",
+      "path": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva.md",
+      "pdf_ref": ""
     },
     {
       "id": "notes/articles/2018-12-20_como-dar-una-gran-charla",
@@ -33826,6 +33852,61 @@ window.__ACADEMIC_BRAIN__ = {
       "source": "notes/papers/2026-08-17_llm-problemas-termodinamica-textbook",
       "target": "concepts/evaluacion-educativa",
       "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "concepts/descarga-cognitiva",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "concepts/construccion-de-teoria",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "concepts/psicologia-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "concepts/STEM",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "concepts/alfabetizacion-en-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "concepts/retencion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "concepts/sobredependencia-de-la-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "concepts/autorregulacion-del-aprendizaje",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion",
+      "kind": "related"
+    },
+    {
+      "source": "notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva",
+      "target": "notes/papers/2026-07-09_impacto-aprendizaje-genai-rct",
+      "kind": "related"
     },
     {
       "source": "notes/articles/2018-12-20_como-dar-una-gran-charla",
