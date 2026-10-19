@@ -63,8 +63,14 @@ escriba. Esto ya pasó: tres boletines quedaron represados en una rama y el lect
 estuvo dos semanas atrasado.
 
 **Limitación del entorno:** la política de red responde 403 al CONNECT hacia
-prácticamente todo host académico. Verificado el 2026-08-03 contra
-`curl -sS "$HTTPS_PROXY/__agentproxy/status"`: además de `arxiv.org`,
+prácticamente todo host académico. **No pregunte por el estado del proxy, pregunte
+por el host.** El endpoint `curl -sS "$HTTPS_PROXY/__agentproxy/status"` informa
+`bundleCoversEveryHost: true` y una lista vacía de fallos mientras los hosts siguen
+cerrados; medido así el 2026-09-28 y otra vez el 2026-10-19, cuando `arxiv.org`,
+`biorxiv.org`, `chemrxiv.org`, `doi.org` y hasta `pubmed.ncbi.nlm.nih.gov`
+devolvieron los cinco código `000`. La única prueba fiable es
+`curl -sS -o /dev/null -w "%{http_code}" --max-time 12 "https://<host>/"` sobre el
+host concreto. Lista bloqueada conocida: además de `arxiv.org`,
 `biorxiv.org`, `chemrxiv.org`, `ncbi.nlm.nih.gov` y `api.crossref.org`, están
 bloqueados `onlinelibrary.wiley.com`, `sciencedirect.com`, `ieeexplore.ieee.org`,
 `link.springer.com`, `pubs.acs.org`, `pubs.rsc.org`, `journals.aps.org`,

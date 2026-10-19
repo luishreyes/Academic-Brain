@@ -37,6 +37,14 @@ Modelo de machine learning (random forest), simulaciones moleculares en interfaz
 ## Limitaciones
 - Conjunto pequeño de péptidos (seis) validados.
 - Correlación imperfecta entre propiedades dilatacionales y estabilización de espumas.
+- **No declara la pureza del material de validación.** Los dos trabajos de Baccile
+  cubiertos en el boletín del 21 de septiembre de 2026 muestran que medio por ciento
+  de un congénere invierte la morfología del autoensamblaje y que un 9 % de ácido
+  graso residual cambia el radio micelar un 40 %, con umbral de inversión de esfera
+  a cilindro en 6,1 % en peso. Un descriptor validado contra material impuro predice
+  la mezcla, no la molécula. La STCMC medida aquí sostiene la clasificación del
+  modelo solo en la medida en que el péptido sintetizado esté puro, y ese dato no
+  aparece en el artículo.
 
 ## Notas relacionadas
 - [[concepts/biosurfactantes]]
