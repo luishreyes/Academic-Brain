@@ -63,8 +63,17 @@ escriba. Esto ya pasó: tres boletines quedaron represados en una rama y el lect
 estuvo dos semanas atrasado.
 
 **Limitación del entorno:** la política de red responde 403 al CONNECT hacia
-prácticamente todo host académico. Verificado el 2026-08-03 contra
-`curl -sS "$HTTPS_PROXY/__agentproxy/status"`: además de `arxiv.org`,
+prácticamente todo host académico. **No use `curl -sS "$HTTPS_PROXY/__agentproxy/status"`
+para comprobarlo: ese endpoint miente por omisión.** Medido el 2026-09-28 y otra vez el
+2026-10-26, informa `bundleCoversEveryHost: true`, `selective: false` y
+`recentRelayFailures: []` mientras todos los hosts de la lista siguen cerrados. No es que
+el endpoint se equivoque, es que describe el estado del bundle de certificados y no la
+política de salida. **La única prueba fiable es un `curl` al host concreto:**
+`curl -sS -o /dev/null -w '%{http_code}' --max-time 12 https://<host>/`. Un `000` es
+CONNECT bloqueado. Un código HTTP cualquiera, incluido un `400`, significa que el host
+sí es alcanzable; así se distingue `github.com`, que responde 400 y funciona, de
+`pubmed.ncbi.nlm.nih.gov`, que da 000 por HTTP aunque su conector MCP sí opere, porque el
+conector no sale por este proxy. Verificado el 2026-08-03: además de `arxiv.org`,
 `biorxiv.org`, `chemrxiv.org`, `ncbi.nlm.nih.gov` y `api.crossref.org`, están
 bloqueados `onlinelibrary.wiley.com`, `sciencedirect.com`, `ieeexplore.ieee.org`,
 `link.springer.com`, `pubs.acs.org`, `pubs.rsc.org`, `journals.aps.org`,
@@ -99,6 +108,23 @@ puede resolver directamente para comprobarlo.
 No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP.
 Quedan operativos WebSearch y el conector de PubMed, que sigue siendo la fuente
 más firme del entorno.
+
+**El conector de PubMed borra caracteres, y uno de esos borrados es peligroso.** Ya estaba
+documentado que se come el símbolo de porcentaje. Medidos además el 2026-09-28: la letra
+griega del potencial zeta, los subíndices de número de repeticiones, los exponentes de
+unidades en el texto completo de PMC, y el peor de todos, **nombres de gen borrados dejando
+dos palabras pegadas**, como «knocked downin cultured» o «increase ingene expression». Este
+último es el que hace daño porque la frase resultante sigue leyéndose como frase completa y
+nada avisa de la pérdida. Regla: **cuando un resumen indexado traiga dos palabras pegadas sin
+espacio, sospeche que ahí iba un nombre de gen o una variable, y no lo reconstruya por
+contexto sin decir que lo reconstruyó.**
+
+**Y su filtro `edat` sobregenera.** Acote por `edat` y después **descarte a mano los
+resultados cuya `publication_date` caiga fuera de la ventana**: varios entran al índice en
+octubre con fecha de julio. *ACS Synthetic Biology* es un caso aparte: PubMed la carga por
+números completos, aproximadamente una vez al mes, y todos los registros de un número llevan
+la misma fecha, así que esa revista nunca aparece en una ventana de siete días y hay que
+consultarla a nivel de número.
 
 **ALERTA DEL 2026-10-12: el conector de Scholar Gateway agotó su cuota y no vuelve
 hasta el 1 de noviembre de 2026.** No es el corpus congelado ni el catálogo parcial
