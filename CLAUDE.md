@@ -159,10 +159,23 @@ cuatro primeros dígitos son año y mes (`2607` = julio de 2026).
 
 **No calcule la fecha de un preprint: léala. El divisor está jubilado desde el
 2026-10-12.** El repositorio `ehijano/rss_fetch` archiva el RSS diario de arXiv por
-categoría con **la fecha en el nombre del archivo** (`rss_data/cs.CY/2026-10-08_cs.CY.xml`),
-y cada entrada trae identificador, título, autores, tipo de anuncio y **resumen completo**.
-`git clone --depth 1` lo baja entero (unos 6 GB) a través del proxy en unos cinco minutos.
-Esa es hoy la forma correcta de fechar y de barrer arXiv, y da fecha de primera mano.
+categoría (`rss_data/cs.CY/2026-10-08_cs.CY.xml`), y cada entrada trae identificador,
+título, autores, tipo de anuncio y **resumen completo**. Esa es hoy la forma correcta de
+fechar y de barrer arXiv, y da fecha de primera mano.
+
+**Corrección del 2026-10-26: el nombre del archivo NO es la fecha de anuncio. Lea el
+`<pubDate>` interno de cada XML.** Esa semana el desfase fue de un día a mitad de semana, y
+**el anuncio del martes 20 de octubre no existe en el archivo**: ningún XML de ninguna
+categoría lleva `pubDate` «Tue, 20 Oct 2026», el archivo `2026-10-20` ya trae el feed del
+miércoles 21, y su banda de 812 identificadores nuevos es casi el doble de un día normal,
+como si fusionara los dos. Días realmente archivados en esa ventana: lunes 19, miércoles 21,
+jueves 22, viernes 23, lunes 26, con los archivos `2026-10-22` y `2026-10-23` idénticos por
+md5. Fiarse del nombre habría fechado mal cuatro de cinco días.
+
+No hace falta bajar los 6 GB: `git clone --filter=blob:none --no-checkout --depth 1` más
+`git sparse-checkout set rss_data/cs.CY rss_data/cs.HC rss_data/cs.CL rss_data/cs.AI
+rss_data/cs.CV rss_data/cs.DL rss_data/cs.SE rss_data/cs.LG` trae ocho categorías en 1,5 GB.
+Verificado el 2026-10-26: 5.065 entradas únicas en una ventana de siete días.
 
 Cualquier divisor da resultados falsos, por dos razones que ninguna constante absorbe.
 El identificador ordena **envíos**, no anuncios, y entre uno y otro pasan uno o dos días.
@@ -173,6 +186,11 @@ primera mano en octubre de 2026, contiguas y sin solape: 5 oct `2610.02293`–`2
 6 oct `2610.03720`–`2610.06830`; 7 oct `2610.06889`–`2610.08781`; 8 oct
 `2610.08794`–`2610.10533`; 9 oct `2610.10550`–`2610.12455`; 12 oct
 `2610.12545`–`2610.13912`.
+
+Bandas de la semana del 19 al 26 de octubre de 2026, solo `announce_type=new`, medidas de
+primera mano y contiguas: lun 19 `2610.22379`–`2610.23856` (380); mié 21
+`2610.23857`–`2610.28632` (812, incluye el martes ausente); jue 22 `2610.28637`–`2610.30132`
+(469); vie 23 `2610.30151`–`2610.31671` (452); lun 26 `2610.31678`–`2610.32982` (416).
 
 **Y alucina URLs:** el 2026-08-31 inventó un repositorio de GitHub que la API de
 GitHub desmiente. La API de GitHub sí responde y sirve para comprobar si un
@@ -216,6 +234,42 @@ de momentos publicados, con el DOI de Zenodo literalmente en `10.5281/zenodo.pla
 Antes de calcular sobre un depósito, lea el README entero y los nombres de archivo, y
 reproduzca primero alguna cifra que el autor ya publique: si no cuadra, no calcule nada
 nuevo encima.
+
+**Mediciones del 2026-10-26, cuatro correcciones al mapa.**
+
+- **`list_commits` del conector de GitHub está restringido al repo de la sesión** y rechaza
+  cualquier otro («Allowed repositories: luishreyes/academic-brain»), mientras `search_code`
+  y `search_repositories` siguen consultando todo GitHub. Para fechar el commit de un
+  repositorio de terceros, que es el método con que se vigila el depósito de FIE, la vía es
+  `git clone` más `git log` y `git ls-remote`. Funcionó en siete repositorios, uno de 751 MB.
+- **`WebFetch` cambió de modo de falla: ahora devuelve `getaddrinfo ENOTFOUND`**, sin
+  resolución de DNS, en lugar de 403. Importa porque un fallo de DNS se confunde con un
+  problema transitorio de red y no lo es.
+- **No queda agregador de acceso abierto en pie.** Bloqueados, además de los ya listados: la
+  API de Unpaywall, `core.ac.uk`, `deepdyve.com`, `semanticscholar.org`,
+  `scholar.archive.org`, `openalex.org`, `colab.ws`, `ouci.dntb.gov.ua`, `x-mol.com`,
+  `researchgate.net` y `scholar.google.com`. Añádase `doaj.org`, `stemeducationjournal.springeropen.com`
+  y `portalcientifico.uned.es`. **Eso convierte el clon de repositorios de fichas de lectura
+  en la única vía a un texto cerrado:** así se consiguieron las cifras de Wong y Qiu, desde
+  `Learning-Design-Alliance/learning-wiki` (751 MB). Es fuente secundaria que transcribe, no
+  el PDF, y su tubería se declara no revisada por una persona: cítese con esa salvedad.
+- **La consulta de PubMed restringida por revista es la más productiva de la rutina.** Con la
+  forma `"Acad Med"[Journal] OR "JMIR Med Educ"[Journal] OR …` salieron los dos trabajos
+  sobre calificación automática que las consultas temáticas no encontraron. Conviértase en
+  consulta fija. Y el filtro `edat` sobregenera: acote por `edat` y luego **descarte a mano
+  los resultados cuya `publication_date` cae fuera de la ventana**, porque varios entran al
+  índice en octubre con fecha de julio.
+
+**Dos matices nuevos de Wiley y Springer, medidos el 2026-10-26.** Las primeras páginas de
+los PDF de Wiley están indexadas en `onlinelibrary.wiley.com/doi/pdfdirect/…` y se recuperan
+con el encabezado literal (`1 of 12 European Journal of Education, 2026; 61:e70801`), lo que
+da revista, volumen y número de artículo sin necesitar el DOI. **Pero no da fecha**, así que
+la prohibición de publicar fechas de Wiley obtenidas por buscador se sostiene intacta: una
+consulta de frase exacta por `"First published: 22 October 2026"` devolvió cero, y el
+resumidor rellenó el hueco atribuyendo febrero a junio a DOI numerados más alto que los ya
+cubiertos, lo cual es imposible. Y la frescura del listado de Springer **varía por revista y
+no se extrapola**: ese día `41239` llegaba al 23 de octubre, `40561` al 17, `10639` al 12 y
+`40594` al 6. Mida el techo de cada revista por separado.
 
 `search_repositories` y `search_code` consultan todo GitHub aunque
 `get_file_contents` esté restringido al repo de la sesión, y sirven para dos
