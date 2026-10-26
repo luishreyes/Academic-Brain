@@ -6,7 +6,7 @@ window.__ACADEMIC_BRAIN__ = {
     "articles": 53,
     "books": 75,
     "fiction": 65,
-    "concepts": 217
+    "concepts": 218
   },
   "nodes": [
     {
@@ -2145,6 +2145,24 @@ window.__ACADEMIC_BRAIN__ = {
       "degree": 19
     },
     {
+      "id": "concepts/juicio-evaluativo",
+      "kind": "concept",
+      "label": "juicio evaluativo",
+      "keyword": "juicio-evaluativo",
+      "aliases": [
+        "evaluative judgement",
+        "evaluative judgment",
+        "juicio evaluativo",
+        "what good looks like",
+        "locus del juicio",
+        "quality judgement"
+      ],
+      "definition": "Capacidad del estudiante para decidir sobre la calidad de un trabajo, el propio y el ajeno, y para reconocer \"qué se ve como bueno\" sin que se lo diga una autoridad externa. En contextos de IA generativa designa la pregunta de diseño sobre quién emite el veredicto de calidad, el estudiante o la máquina: incluye la verificación de las salidas del modelo, la crítica de respuestas deficientes y el andamiaje explícito de esa capacidad en la evaluación.",
+      "literature": "El término llega al vault por una puerta estrecha y lo recorre entero. Seis de las siete notas que lo usan son trabajo sobre diseño de evaluación, no sobre aprendizaje con tutores, y en todas aparece como el residuo que la IA no puede tomar. Bridgeman, Weeks y Liu (2024) lo convierten en arquitectura: su enfoque de dos carriles reserva el carril asegurado para certificar resultados de aprendizaje y abre el carril no asegurado precisamente para desarrollar el juicio evaluativo, con uso de IA permitido y andamiado. La asimetría importa, porque el carril donde la IA entra es el carril donde se construye la capacidad de juzgarla. Curtis (2025) ataca la versión degradada de esa misma idea y su argumento es el complemento necesario: un régimen de todo o nada elimina las evaluaciones intermedias, y sin ellas el juicio evaluativo no tiene dónde desarrollarse de forma gradual. Su y colegas (2026) llegan al mismo lugar por revisión de literatura, listando el juicio evaluativo junto a la metacognición entre lo que la evaluación auténtica bien diseñada consigue preservar.\n\nLo que nadie en ese grupo hace es medirlo, y ahí está la tensión productiva de la página. Kadel y colegas (2024) lo postulan como principio de diseño sin datos; Neal, Grundy y Nikolic (2024) lo colocan en el nivel de rediseño de su jerarquía de controles, por encima del aislamiento y muy por encima de los detectores de IA, también sin medirlo. La única nota que lo operacionaliza es Quince y Nikolic (2026), con 64 estudiantes de ingeniería de la University of Southern Queensland: la Parte A de su evaluación les pedía analizar críticamente una salida de ChatGPT generada a propósito con un prompt pobre, identificar implicaciones faltantes, verificar alucinaciones y calidad de fuentes, y proponer mejores prompts. Las respuestas se codificaron contra un catálogo de 32 implicaciones. Es el único diseño del vault donde el ejercicio de juicio evaluativo es la tarea misma y deja rastro codificable, y conviene notar su fecha de campo, enero y febrero de 2023, cuando la universidad prohibía el uso de GenAI.\n\nContra ese conjunto normativo, Liu, Fan y Pan (2026) aportan la medición conductual que lo contradice en su supuesto más básico. En su teoría fundamentada sobre programación asistida, la delegación transaccional domina el 75 % de los prompts y se intensifica al acercarse las entregas. Más importante para esta página: documentan dos fallos de juicio evaluativo según experiencia, y son fallos distintos. Los novatos confían sin poder verificar, es decir carecen de la capacidad. Los avanzados la tienen y no la aplican al código rutinario, que aceptan acríticamente. La literatura de evaluación trata el juicio evaluativo como una competencia que se desarrolla y se acumula; estos logs muestran que tenerla no basta, porque su ejercicio depende de la presión temporal y del tipo de artefacto. Un estudiante competente a las diez de la mañana no juzga a las dos de la madrugada.\n\nLa síntesis que el conjunto sostiene, entonces, es más incómoda que la que sus autores individuales proponen. Hay acuerdo amplio y poca evidencia sobre que el juicio evaluativo sea lo que hay que proteger, y la única nota que mide comportamiento encuentra que la capacidad y su ejercicio se disocian bajo condiciones ordinarias de curso. Eso convierte el andamiaje en problema de diseño de la actividad más que de desarrollo de una competencia transferible, y deja una pregunta sin responder en el vault: ninguna de las siete notas mide si el juicio evaluativo ejercido en una tarea sobrevive a la retirada de la estructura que lo exigía.",
+      "path": "concepts/juicio-evaluativo.md",
+      "degree": 7
+    },
+    {
       "id": "concepts/justicia-penal",
       "kind": "concept",
       "label": "justicia penal",
@@ -3114,7 +3132,7 @@ window.__ACADEMIC_BRAIN__ = {
         "desirable difficulties"
       ],
       "definition": "Persistencia del conocimiento y las habilidades a lo largo del tiempo, más allá del desempeño inmediato durante la intervención. Incluye la medición diferida (pruebas sin asistencia tras días o semanas), la transferencia a tareas nuevas y el principio de las \"dificultades deseables\": el esfuerzo costoso que fija el aprendizaje.",
-      "literature": "La retención medida en diferido es la prueba que separa el desempeño del aprendizaje real, y es donde la evidencia sobre IA generativa se vuelve discriminante. Xu y colegas ya habían nombrado la brecha desempeño-competencia: la IA levanta mucho más lo que el estudiante hace mientras la usa que lo que llega a saber. Dos ensayos controlados aleatorizados con medición diferida la anclan ahora en cifras, y a primera vista se contradicen.\n\nContractor y Reyes (2026), con 211 estudiantes evaluados sin asistencia a una semana, encuentran que el acceso a IA eleva el desempeño inmediato en 0,27 SD y que esa ganancia persiste. Barcaui (2025), con 120 estudiantes y una prueba sorpresa a los 45 días, encuentra lo opuesto: el grupo con ChatGPT retuvo 57,5 % frente al 68,5 % del grupo tradicional (d = 0,68), una muleta cognitiva que deteriora la memoria duradera.\n\nLa contradicción se disuelve en el diseño. Barcaui entregó ChatGPT sin restricciones, la condición que empuja hacia la automatización. Contractor y Reyes separaron a quienes usaban la IA para entender (aumentación) de quienes le pedían que produjera el texto (automatización), y solo los primeros conservaron la habilidad al retirar la herramienta. La tesis conjunta: la IA sin barandas favorece el uso que erosiona el aprendizaje, y solo el uso deliberado como andamiaje conceptual preserva la habilidad. El corolario metodológico es tan importante como el hallazgo: la foto durante la intervención casi siempre favorece a la IA (Han 2026), y la foto una semana o mes y medio después es la que discrimina.",
+      "literature": "La retención medida en diferido es la prueba que separa el desempeño del aprendizaje real, y es donde la evidencia sobre IA generativa se vuelve discriminante. Xu y colegas ya habían nombrado la brecha desempeño-competencia: la IA levanta mucho más lo que el estudiante hace mientras la usa que lo que llega a saber. Dos ensayos controlados aleatorizados con medición diferida la anclan en cifras, y a primera vista se contradicen.\n\nContractor y Reyes (2026), con 211 estudiantes evaluados sin asistencia a una semana, encuentran que el acceso a IA eleva el desempeño inmediato en 0,27 SD y que esa ganancia persiste. Barcaui (2025), con 120 estudiantes y una prueba sorpresa a los 45 días, encuentra lo opuesto: el grupo con ChatGPT retuvo 57,5 % frente al 68,5 % del grupo tradicional (d = 0,68), una muleta cognitiva que deteriora la memoria duradera.\n\nLa contradicción se disuelve en el diseño. Barcaui entregó ChatGPT sin restricciones, la condición que empuja hacia la automatización. Contractor y Reyes separaron a quienes usaban la IA para entender (aumentación) de quienes le pedían que produjera el texto (automatización), y solo los primeros conservaron la habilidad al retirar la herramienta. El corolario metodológico pesa tanto como el hallazgo: la foto durante la intervención casi siempre favorece a la IA (Han 2026), y la foto una semana o mes y medio después es la que discrimina.\n\nNakamura (2026) llega después y le pone nombre teórico a lo que esos dos ensayos muestran por separado. Su tesis es que el efecto sobre el aprendizaje no es propiedad de la herramienta sino del reparto del trabajo cognitivo: delegar operaciones periféricas al objetivo de aprendizaje aumenta, delegar las constitutivas erosiona, salvo que medie procesamiento sustantivo o reconstrucción posterior. Eso reinterpreta la oposición aumentación/automatización como un caso particular de una frontera más general, y explica por qué los metaanálisis del área reportan tanta heterogeneidad: están promediando sobre repartos distintos del mismo trabajo.\n\nY Nakamura añade la pieza que vuelve incómoda la lectura optimista de esta página. Juzgar si la salida de la IA es correcta exige competencia disciplinar que el aprendiz puede no tener todavía, de modo que regular la propia descarga no es una habilidad transferible sin más. Es decir, la condición que preserva la retención, que el estudiante conserve el [[concepts/juicio-evaluativo]] sobre lo que la máquina produce, es justamente la que el novato no puede cumplir. La frontera periférico/constitutivo es además relativa al objetivo y al nivel, así que la misma operación delegada resulta inocua o dañina según el caso. Lo que el conjunto de las tres notas sostiene, entonces, no es que la IA andamiada preserve el aprendizaje, sino algo más estrecho y más verificable: la retención sobrevive cuando el estudiante emite el veredicto de calidad, y esa posibilidad depende de un nivel de competencia previa que ninguno de los tres estudios midió por separado. Ahí está el hueco del vault sobre este concepto, y se cierra con diseños que estratifiquen por competencia inicial en lugar de promediarla.",
       "path": "concepts/retencion-del-aprendizaje.md",
       "degree": 3
     },
@@ -5832,7 +5850,8 @@ window.__ACADEMIC_BRAIN__ = {
         "pensamiento-critico",
         "equidad-educativa",
         "supervision-humana",
-        "educacion-en-ingenieria"
+        "educacion-en-ingenieria",
+        "juicio-evaluativo"
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai.md",
@@ -6900,7 +6919,8 @@ window.__ACADEMIC_BRAIN__ = {
         "regulacion-de-ia",
         "alfabetizacion-en-ia",
         "futuro-del-trabajo",
-        "supervision-humana"
+        "supervision-humana",
+        "juicio-evaluativo"
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa.md",
@@ -7907,7 +7927,8 @@ window.__ACADEMIC_BRAIN__ = {
         "educacion-superior",
         "equidad-educativa",
         "pensamiento-critico",
-        "adopcion-de-tecnologia"
+        "adopcion-de-tecnologia",
+        "juicio-evaluativo"
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion.md",
@@ -9929,7 +9950,8 @@ window.__ACADEMIC_BRAIN__ = {
         "integridad-academica",
         "alfabetizacion-en-ia",
         "taxonomia-de-bloom",
-        "inteligencia-artificial"
+        "inteligencia-artificial",
+        "juicio-evaluativo"
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria.md",
@@ -11380,7 +11402,8 @@ window.__ACADEMIC_BRAIN__ = {
         "educacion-superior",
         "pensamiento-critico",
         "equidad-educativa",
-        "revision-sistematica-de-literatura"
+        "revision-sistematica-de-literatura",
+        "juicio-evaluativo"
       ],
       "date": "2026-06-27",
       "path": "notes/papers/2026-01-29_authentic-assessment-genai.md",
@@ -13746,7 +13769,8 @@ window.__ACADEMIC_BRAIN__ = {
         "pensamiento-critico",
         "confianza-en-la-ia",
         "psicologia-educativa",
-        "STEM"
+        "STEM",
+        "juicio-evaluativo"
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading.md",
@@ -14985,7 +15009,8 @@ window.__ACADEMIC_BRAIN__ = {
         "educacion-superior",
         "pensamiento-critico",
         "etica-de-la-ia",
-        "capacidades-de-ia"
+        "capacidades-de-ia",
+        "juicio-evaluativo"
       ],
       "date": "2026-06-27",
       "path": "notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion.md",
@@ -21329,6 +21354,11 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai",
+      "target": "concepts/juicio-evaluativo",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2024-01-01_generacion-automatica-control-pfd-llm",
       "target": "concepts/inteligencia-artificial",
       "kind": "keyword"
@@ -22714,6 +22744,11 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa",
+      "target": "concepts/juicio-evaluativo",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2024-12-02_cpp-posicion-captacion-magnetita",
       "target": "concepts/nanociencia",
       "kind": "keyword"
@@ -24076,6 +24111,11 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion",
       "target": "concepts/adopcion-de-tecnologia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion",
+      "target": "concepts/juicio-evaluativo",
       "kind": "keyword"
     },
     {
@@ -27004,6 +27044,11 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria",
+      "target": "concepts/juicio-evaluativo",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-01-01_dataset-feedback-formativo-uml-llm",
       "target": "concepts/educacion-en-programacion",
       "kind": "keyword"
@@ -29351,6 +29396,11 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2026-01-29_authentic-assessment-genai",
       "target": "concepts/revision-sistematica-de-literatura",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-01-29_authentic-assessment-genai",
+      "target": "concepts/juicio-evaluativo",
       "kind": "keyword"
     },
     {
@@ -32874,6 +32924,11 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading",
+      "target": "concepts/juicio-evaluativo",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2026-06-30_pacientes-virtuales-ia-comunicacion-odontologica",
       "target": "concepts/educacion-medica",
       "kind": "keyword"
@@ -34471,6 +34526,11 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion",
       "target": "concepts/capacidades-de-ia",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/articles/2024-12-20_riesgo-recompensa-genai-evaluacion",
+      "target": "concepts/juicio-evaluativo",
       "kind": "keyword"
     },
     {

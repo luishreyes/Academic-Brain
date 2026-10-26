@@ -284,6 +284,8 @@ Este archivo se almacena en GitHub para revisión: los cambios son visibles como
 
 ## J
 
+**juicio-evaluativo** — Capacidad del estudiante para decidir sobre la calidad de un trabajo, el propio y el ajeno, y para reconocer "qué se ve como bueno" sin que se lo diga una autoridad externa. En contextos de IA generativa designa la pregunta de diseño sobre quién emite el veredicto de calidad, el estudiante o la máquina: incluye la verificación de las salidas del modelo, la crítica de respuestas deficientes y el andamiaje explícito de esa capacidad en la evaluación. Se distingue de `pensamiento-critico` por su objeto, que es la calidad de un producto de trabajo contra criterios, y de `supervision-humana`, que describe el control institucional sobre sistemas automatizados y no la capacidad del aprendiz. _Aliases: evaluative judgement, evaluative judgment, juicio evaluativo, what good looks like, locus del juicio, quality judgement_
+
 **justicia-penal** — Sistema de justicia penal, policía, tribunales y rehabilitación, y el uso de IA y analítica predictiva en decisiones de riesgo, vigilancia y reinserción; incluye sus riesgos de sesgo y criminalización. _Aliases: criminal justice, justicia penal, policía predictiva, rehabilitación, reincidencia, encarcelamiento_
 
 **justicia-social** — Principio y movimiento orientado a una distribución equitativa de recursos, derechos y oportunidades, y a la defensa de los derechos humanos y de las poblaciones marginadas; incluye la incidencia (advocacy), la equidad y el uso de datos y tecnología para documentar abusos y movilizar apoyo. _Aliases: social justice, justicia social, derechos humanos, human rights, incidencia, advocacy, equidad social_

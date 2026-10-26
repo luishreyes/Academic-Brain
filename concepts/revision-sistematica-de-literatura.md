@@ -67,3 +67,4 @@ Metodología de síntesis de evidencia que sigue protocolos explícitos (búsque
 - [[notes/papers/2026-06-28_marco-etico-ia-generativa-educacion]]
 - [[notes/papers/2026-06-28_redefinir-evaluacion-integridad-academica-ia]]
 - [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
+- [[notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva]]

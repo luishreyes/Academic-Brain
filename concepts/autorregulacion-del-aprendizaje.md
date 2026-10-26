@@ -58,3 +58,4 @@ Capacidad del estudiante para planificar, monitorear y evaluar su propio proceso
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
 - [[notes/papers/2026-07-08_ia-retroalimentacion-universidad-percepciones]]
+- [[notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva]]

@@ -9,7 +9,7 @@ pdf_ref: su_2026_embracing-authentic-assessment-designs.pdf
 sha256: 13bab7d5b2f08a0d2d01430d4c6d588c8d6cab6b968860c4d1afd580614633e3
 type: paper
 visibility: public
-keywords: [evaluacion-educativa, inteligencia-artificial, integridad-academica, alfabetizacion-en-ia, educacion-superior, pensamiento-critico, equidad-educativa, revision-sistematica-de-literatura]
+keywords: [evaluacion-educativa, inteligencia-artificial, integridad-academica, alfabetizacion-en-ia, educacion-superior, pensamiento-critico, equidad-educativa, revision-sistematica-de-literatura, juicio-evaluativo]
 date_added: 2026-06-27
 ---
 

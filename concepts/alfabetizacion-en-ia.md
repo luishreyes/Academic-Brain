@@ -111,3 +111,4 @@ Conjunto de competencias necesarias para comprender, evaluar críticamente y usa
 - [[notes/papers/2026-06-28_riesgos-genai-k12-scoping-review]]
 - [[notes/papers/2026-06-28_taics-escala-competencia-ia-docente]]
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
+- [[notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva]]

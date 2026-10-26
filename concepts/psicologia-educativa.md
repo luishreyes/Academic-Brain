@@ -51,3 +51,4 @@ Disciplina que estudia los procesos cognitivos, motivacionales y sociales que su
 - [[notes/papers/2026-06-28_metaclass-coaching-metacognitivo]]
 - [[notes/papers/2026-06-28_revision-srl-seis-modelos]]
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
+- [[notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva]]

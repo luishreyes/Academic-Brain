@@ -36,3 +36,4 @@ Dependencia excesiva o acrítica de los sistemas de IA, en la que el usuario ace
 - [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]
 - [[notes/papers/2026-07-10_ia-escritura-colaborativa-cohesion-l2]]
 - [[notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes]]
+- [[notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva]]

@@ -9,7 +9,7 @@ pdf_ref: quince_2026_genai-ethical-awareness-ejee.pdf
 sha256: ef55e6682f2818037c2fab98fe587c8618a9733297e0f0c4f48b7438bf1c95f0
 type: paper
 visibility: public
-keywords: [etica-de-la-ia, educacion-en-ingenieria, evaluacion-educativa, pensamiento-critico, sostenibilidad, integridad-academica, alfabetizacion-en-ia, taxonomia-de-bloom, inteligencia-artificial]
+keywords: [etica-de-la-ia, educacion-en-ingenieria, evaluacion-educativa, pensamiento-critico, sostenibilidad, integridad-academica, alfabetizacion-en-ia, taxonomia-de-bloom, inteligencia-artificial, juicio-evaluativo]
 date_added: 2026-06-28
 ---
 

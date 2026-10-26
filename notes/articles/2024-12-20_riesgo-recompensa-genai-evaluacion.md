@@ -8,7 +8,7 @@ pdf_ref: neal_2024_risk-reward-genai-assessment.pdf
 sha256: c79743a513a9cb1b886b4e039e1285d08231df932dd67bb82f5589d1a8d79d9a
 type: article
 visibility: public
-keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-en-ingenieria, educacion-superior, pensamiento-critico, etica-de-la-ia, capacidades-de-ia]
+keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-en-ingenieria, educacion-superior, pensamiento-critico, etica-de-la-ia, capacidades-de-ia, juicio-evaluativo]
 date_added: 2026-06-27
 ---
 

@@ -29,3 +29,4 @@ Transferencia del esfuerzo cognitivo (memoria, cálculo, razonamiento, integraci
 - [[notes/papers/2026-07-07_never-skilling-ia-educacion-medica]]
 - [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]
 - [[notes/papers/2026-07-21_ia-formacion-cirugia-cardiovascular-examenes]]
+- [[notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva]]

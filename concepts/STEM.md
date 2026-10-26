@@ -34,3 +34,4 @@ Ciencias, tecnología, ingeniería y matemáticas (Science, Technology, Engineer
 - [[notes/papers/2026-06-28_stem-faculty-evaluacion-genai]]
 - [[notes/papers/2026-06-28_stem-faculty-perspectives-genai]]
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]
+- [[notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva]]

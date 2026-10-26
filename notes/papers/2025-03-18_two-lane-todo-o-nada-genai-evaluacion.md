@@ -9,7 +9,7 @@ pdf_ref: curtis_2025_two-lane-road-all-or-none-critique.pdf
 sha256: de6241d89d1bfd0dc0ee70a285949804fcddc5e83e9677e79fd8ec9e5224c65c
 type: paper
 visibility: public
-keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, equidad-educativa, pensamiento-critico, adopcion-de-tecnologia]
+keywords: [evaluacion-educativa, integridad-academica, inteligencia-artificial, educacion-superior, equidad-educativa, pensamiento-critico, adopcion-de-tecnologia, juicio-evaluativo]
 date_added: 2026-06-27
 ---
 

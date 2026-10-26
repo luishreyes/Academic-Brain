@@ -10,3 +10,4 @@ Proceso de desarrollo, evaluación y refinamiento de teorías y marcos teóricos
 
 ## Notas que usan este concepto
 - [[notes/papers/2026-01-01_tres-estrategias-progreso-investigacion]]
+- [[notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva]]
