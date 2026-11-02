@@ -23,6 +23,8 @@ La síntesis que el conjunto sostiene, entonces, es más incómoda que la que su
 - [[notes/papers/2024-01-01_crafting-tomorrows-evaluations-genai]]
 - [[notes/papers/2024-11-26_alinear-evaluaciones-era-ia-generativa]]
 - [[notes/papers/2025-03-18_two-lane-todo-o-nada-genai-evaluacion]]
+- [[notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia]]
+- [[notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia]]
 - [[notes/papers/2026-01-01_conciencia-etica-genai-estudiantes-ingenieria]]
 - [[notes/papers/2026-01-29_authentic-assessment-genai]]
 - [[notes/papers/2026-06-28_tool-tutor-crutch-scaffolding-offloading]]

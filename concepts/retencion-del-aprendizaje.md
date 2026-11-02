@@ -21,6 +21,9 @@ Nakamura (2026) llega después y le pone nombre teórico a lo que esos dos ensay
 Y Nakamura añade la pieza que vuelve incómoda la lectura optimista de esta página. Juzgar si la salida de la IA es correcta exige competencia disciplinar que el aprendiz puede no tener todavía, de modo que regular la propia descarga no es una habilidad transferible sin más. Es decir, la condición que preserva la retención, que el estudiante conserve el [[concepts/juicio-evaluativo]] sobre lo que la máquina produce, es justamente la que el novato no puede cumplir. La frontera periférico/constitutivo es además relativa al objetivo y al nivel, así que la misma operación delegada resulta inocua o dañina según el caso. Lo que el conjunto de las tres notas sostiene, entonces, no es que la IA andamiada preserve el aprendizaje, sino algo más estrecho y más verificable: la retención sobrevive cuando el estudiante emite el veredicto de calidad, y esa posibilidad depende de un nivel de competencia previa que ninguno de los tres estudios midió por separado. Ahí está el hueco del vault sobre este concepto, y se cierra con diseños que estratifiquen por competencia inicial en lugar de promediarla.
 
 ## Notas que usan este concepto
+- [[notes/papers/2024-11-10_pereza-metacognitiva-genai-aprendizaje]]
+- [[notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje]]
 - [[notes/papers/2025-11-29_chatgpt-muleta-cognitiva-retencion]]
+- [[notes/papers/2026-06-28_socratic-mind-genai-assessment]]
 - [[notes/papers/2026-07-09_impacto-aprendizaje-genai-rct]]
 - [[notes/papers/2026-10-01_nakamura-aumento-o-erosion-descarga-cognitiva]]
