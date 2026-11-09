@@ -6,7 +6,7 @@ window.__ACADEMIC_BRAIN__ = {
     "articles": 53,
     "books": 75,
     "fiction": 65,
-    "concepts": 218
+    "concepts": 219
   },
   "nodes": [
     {
@@ -2158,7 +2158,7 @@ window.__ACADEMIC_BRAIN__ = {
         "quality judgement"
       ],
       "definition": "Capacidad del estudiante para decidir sobre la calidad de un trabajo, el propio y el ajeno, y para reconocer \"qué se ve como bueno\" sin que se lo diga una autoridad externa. En contextos de IA generativa designa la pregunta de diseño sobre quién emite el veredicto de calidad, el estudiante o la máquina: incluye la verificación de las salidas del modelo, la crítica de respuestas deficientes y el andamiaje explícito de esa capacidad en la evaluación.",
-      "literature": "El término llega al vault por una puerta estrecha y lo recorre entero. Seis de las siete notas que lo usan son trabajo sobre diseño de evaluación, no sobre aprendizaje con tutores, y en todas aparece como el residuo que la IA no puede tomar. Bridgeman, Weeks y Liu (2024) lo convierten en arquitectura: su enfoque de dos carriles reserva el carril asegurado para certificar resultados de aprendizaje y abre el carril no asegurado precisamente para desarrollar el juicio evaluativo, con uso de IA permitido y andamiado. La asimetría importa, porque el carril donde la IA entra es el carril donde se construye la capacidad de juzgarla. Curtis (2025) ataca la versión degradada de esa misma idea y su argumento es el complemento necesario: un régimen de todo o nada elimina las evaluaciones intermedias, y sin ellas el juicio evaluativo no tiene dónde desarrollarse de forma gradual. Su y colegas (2026) llegan al mismo lugar por revisión de literatura, listando el juicio evaluativo junto a la metacognición entre lo que la evaluación auténtica bien diseñada consigue preservar.\n\nLo que nadie en ese grupo hace es medirlo, y ahí está la tensión productiva de la página. Kadel y colegas (2024) lo postulan como principio de diseño sin datos; Neal, Grundy y Nikolic (2024) lo colocan en el nivel de rediseño de su jerarquía de controles, por encima del aislamiento y muy por encima de los detectores de IA, también sin medirlo. La única nota que lo operacionaliza es Quince y Nikolic (2026), con 64 estudiantes de ingeniería de la University of Southern Queensland: la Parte A de su evaluación les pedía analizar críticamente una salida de ChatGPT generada a propósito con un prompt pobre, identificar implicaciones faltantes, verificar alucinaciones y calidad de fuentes, y proponer mejores prompts. Las respuestas se codificaron contra un catálogo de 32 implicaciones. Es el único diseño del vault donde el ejercicio de juicio evaluativo es la tarea misma y deja rastro codificable, y conviene notar su fecha de campo, enero y febrero de 2023, cuando la universidad prohibía el uso de GenAI.\n\nContra ese conjunto normativo, Liu, Fan y Pan (2026) aportan la medición conductual que lo contradice en su supuesto más básico. En su teoría fundamentada sobre programación asistida, la delegación transaccional domina el 75 % de los prompts y se intensifica al acercarse las entregas. Más importante para esta página: documentan dos fallos de juicio evaluativo según experiencia, y son fallos distintos. Los novatos confían sin poder verificar, es decir carecen de la capacidad. Los avanzados la tienen y no la aplican al código rutinario, que aceptan acríticamente. La literatura de evaluación trata el juicio evaluativo como una competencia que se desarrolla y se acumula; estos logs muestran que tenerla no basta, porque su ejercicio depende de la presión temporal y del tipo de artefacto. Un estudiante competente a las diez de la mañana no juzga a las dos de la madrugada.\n\nLa síntesis que el conjunto sostiene, entonces, es más incómoda que la que sus autores individuales proponen. Hay acuerdo amplio y poca evidencia sobre que el juicio evaluativo sea lo que hay que proteger, y la única nota que mide comportamiento encuentra que la capacidad y su ejercicio se disocian bajo condiciones ordinarias de curso. Eso convierte el andamiaje en problema de diseño de la actividad más que de desarrollo de una competencia transferible, y deja una pregunta sin responder en el vault: ninguna de las siete notas mide si el juicio evaluativo ejercido en una tarea sobrevive a la retirada de la estructura que lo exigía.",
+      "literature": "El término llega al vault por una puerta estrecha y lo recorre entero. Seis de las nueve notas que lo usan son trabajo sobre diseño de evaluación, no sobre aprendizaje con tutores, y en todas aparece como el residuo que la IA no puede tomar. Las otras tres llegaron después, en la reindexación de noviembre de 2026, y son de otra especie: en ellas el estudiante emite el veredicto sobre una salida concreta del modelo en lugar de discutirse como principio. Bridgeman, Weeks y Liu (2024) lo convierten en arquitectura: su enfoque de dos carriles reserva el carril asegurado para certificar resultados de aprendizaje y abre el carril no asegurado precisamente para desarrollar el juicio evaluativo, con uso de IA permitido y andamiado. La asimetría importa, porque el carril donde la IA entra es el carril donde se construye la capacidad de juzgarla. Curtis (2025) ataca la versión degradada de esa misma idea y su argumento es el complemento necesario: un régimen de todo o nada elimina las evaluaciones intermedias, y sin ellas el juicio evaluativo no tiene dónde desarrollarse de forma gradual. Su y colegas (2026) llegan al mismo lugar por revisión de literatura, listando el juicio evaluativo junto a la metacognición entre lo que la evaluación auténtica bien diseñada consigue preservar.\n\nLo que nadie en ese grupo hace es medirlo, y ahí está la tensión productiva de la página. Kadel y colegas (2024) lo postulan como principio de diseño sin datos; Neal, Grundy y Nikolic (2024) lo colocan en el nivel de rediseño de su jerarquía de controles, por encima del aislamiento y muy por encima de los detectores de IA, también sin medirlo. La única nota que lo operacionaliza es Quince y Nikolic (2026), con 64 estudiantes de ingeniería de la University of Southern Queensland: la Parte A de su evaluación les pedía analizar críticamente una salida de ChatGPT generada a propósito con un prompt pobre, identificar implicaciones faltantes, verificar alucinaciones y calidad de fuentes, y proponer mejores prompts. Las respuestas se codificaron contra un catálogo de 32 implicaciones. Es el único diseño del vault donde el ejercicio de juicio evaluativo es la tarea misma y deja rastro codificable, y conviene notar su fecha de campo, enero y febrero de 2023, cuando la universidad prohibía el uso de GenAI.\n\nContra ese conjunto normativo, Liu, Fan y Pan (2026) aportan la medición conductual que lo contradice en su supuesto más básico. En su teoría fundamentada sobre programación asistida, la delegación transaccional domina el 75 % de los prompts y se intensifica al acercarse las entregas. Más importante para esta página: documentan dos fallos de juicio evaluativo según experiencia, y son fallos distintos. Los novatos confían sin poder verificar, es decir carecen de la capacidad. Los avanzados la tienen y no la aplican al código rutinario, que aceptan acríticamente. La literatura de evaluación trata el juicio evaluativo como una competencia que se desarrolla y se acumula; estos logs muestran que tenerla no basta, porque su ejercicio depende de la presión temporal y del tipo de artefacto. Un estudiante competente a las diez de la mañana no juzga a las dos de la madrugada.\n\nLa síntesis que el conjunto sostiene, entonces, es más incómoda que la que sus autores individuales proponen. Hay acuerdo amplio y poca evidencia sobre que el juicio evaluativo sea lo que hay que proteger, y las dos notas que miden conducta apuntan en direcciones complementarias. Liu, Fan y Pan encuentran que la capacidad y su ejercicio se disocian bajo condiciones ordinarias de curso; Choi, Phung, Wu, Singla y Brooks (2025) encuentran que mover la reflexión antes de la pista casi duplica la proporción de juicios realmente emitidos, 67,3 % contra 37,5 % con p de 0,003, y que el estudiante lo agradece menos. Juntas dicen que el ejercicio del juicio depende más de dónde lo pone la actividad que de cuánta competencia acumuló el aprendiz, lo cual convierte el andamiaje en problema de diseño y lo empuja hacia el [[concepts/orden-del-turno]], que es la página donde ese eje queda indexado desde noviembre de 2026. Y deja una pregunta sin responder en el vault: ninguna de las nueve notas mide si el juicio evaluativo ejercido en una tarea sobrevive a la retirada de la estructura que lo exigía. Choi mide la emisión y el desempeño inmediato, no la posprueba diferida.",
       "path": "concepts/juicio-evaluativo.md",
       "degree": 9
     },
@@ -2582,6 +2582,26 @@ window.__ACADEMIC_BRAIN__ = {
       "definition": "Investigación básica, preclínica y traslacional sobre el cáncer y sus terapias; abarca las bases biológicas de la enfermedad (líneas celulares tumorales, inducción de apoptosis por vías extrínseca/intrínseca vía caspasas), la evaluación de selectividad tumor-normal de nuevas terapias, y su aplicación al diagnóstico y tratamiento mediante nanotecnología, terapia génica y otras modalidades dirigidas.",
       "literature": "Los dos estudios del corpus abordan el cáncer desde la misma premisa —un nanovehículo que concentra el efecto terapéutico en el tumor y limita el daño colateral— pero por caminos mecanísticos opuestos: uno busca matar la célula tumoral por daño físico directo, el otro busca reprogramarla metabólicamente para que deje de proliferar. Câmpian et al. atacan el adenocarcinoma colorrectal (Caco-2) con nanopartículas de magnetita cargadas de melitina, un péptido citolítico del veneno de abeja, y potencian su efecto con hipertermia magnética; el daño mitocondrial resultante (pérdida de crestas, caída de ATP al 53% del control, caspasa 9 elevada un 2164%) es esencialmente destructivo y agudo, confirmado por TEM como necrosis/apoptosis mitocondrial directa. Dabas et al., en cambio, tratan el cáncer de próstata (modelo C4-2b) restaurando la expresión de PGC1α vía ARNm encapsulado en nanogeles dirigidos a PSMA, lo que activa la biogénesis mitocondrial (+300% de masa mitocondrial, TOMM20) no para dañar la célula sino para revertir su metabolismo tumoral, reprimiendo MYC, KRAS y el eje del receptor de andrógenos. Es una convergencia reveladora: ambos usan la mitocondria como palanca terapéutica, pero una la destruye y la otra la repuebla — el mismo órgano celular funciona como diana antitética según el mecanismo de entrega.\n\nAmbos trabajos comparten también la lógica de la doble selectividad —un ligando o campo externo que dirige la nanopartícula, y una vulnerabilidad biológica específica del tumor que amplifica el efecto solo donde importa— pero difieren notablemente en madurez. Câmpian et al. se quedan en una prueba de concepto in vitro con una sola línea tumoral, una sola dosis y sin validación in vivo, mientras que Dabas et al. avanzan hasta un modelo de xenoinjerto murino con reducción del 73% en volumen tumoral y sin toxicidad hepática aguda, un salto traslacional que el estudio de melitina todavía no ha dado. Leídos juntos, sugieren que la oncología de nanovehículos dirigidos vive hoy dos velocidades distintas: la citotoxicidad física (hipertermia, péptidos líticos) sigue en fase de caracterización mecanística temprana, mientras que la reprogramación metabólica basada en ARNm ya empieza a mostrar eficacia en modelos animales.",
       "path": "concepts/oncologia.md",
+      "degree": 4
+    },
+    {
+      "id": "concepts/orden-del-turno",
+      "kind": "concept",
+      "label": "orden del turno",
+      "keyword": "orden-del-turno",
+      "aliases": [
+        "turn order",
+        "orden del turno",
+        "quién habla primero",
+        "who goes first",
+        "secuencia estudiante-máquina",
+        "ubicación de la reflexión",
+        "attempt-first",
+        "answer-first"
+      ],
+      "definition": "Posición del aporte del modelo respecto de la producción del estudiante dentro de una misma actividad: si el estudiante intenta, explica o emite su veredicto antes de ver la salida de la máquina, o si la recibe primero y trabaja sobre ella. Es una variable de diseño de la secuencia, no una capacidad del aprendiz: se instancia cuando un estudio manipula, contrabalancea o declara ese orden.",
+      "literature": "La página nace con cuatro notas porque el criterio es estrecho a propósito: no basta que un estudio use IA en una actividad secuenciada, hace falta que el orden sea la variable que se manipula o, al menos, que se declare. Esa estrechez es el hallazgo. De las 393 notas del vault, cuatro cumplen, y entre las descartadas hay diseños excelentes cuya sección de métodos no permite saber quién habló primero.\n\nChoi, Phung, Wu, Singla y Brooks (2025) es el único experimento que aísla la variable y la aísla bien. Aleatorizaron la ubicación de la reflexión respecto de la pista generada por IA en dos cursos de Python, y el efecto sobre la conducta es grande: pedir la reflexión antes elevó la proporción de reflexiones no vacías al 67,3 % contra 37,5 % cuando se pedía después, con χ² de 8,90 y p de 0,003. El desempeño inmediato no se movió, y la satisfacción bajó, 54,0 % contra 61,0 % del control, sin alcanzar significación. Reflexionar después derivó en evaluar la utilidad de la pista en lugar del propio proceso, lo cual es la forma precisa de decir que cuando la máquina habla primero el estudiante juzga la máquina y no su trabajo. Conviene no exagerar el resultado: menos del 10 % de las reflexiones explicaba por qué importaba el problema, así que lo que el orden duplica es la emisión del juicio, no su profundidad.\n\nBastani y colegas (2025) manipulan el orden sin nombrarlo, y de ahí sale la mejor evidencia de que importa para el aprendizaje y no solo para la conducta. Sus dos brazos de IA se diferencian en que GPT Tutor retiene la solución y empuja al estudiante a producir, mientras GPT Base responde de entrada. En la práctica asistida los dos ganan, GPT Base un 48 % y GPT Tutor un 127 % sobre el control. En el examen sin asistencia, preregistrado como análisis primario, GPT Base cae un 17 % y GPT Tutor queda indistinguible del control, con un coeficiente un orden de magnitud menor. El detalle que cierra el argumento es que los errores lógicos de GPT Base, que acierta apenas el 51 % de las veces, afectan la práctica y no se trasladan al examen pareado: el patrón es consistente con copiar, no con aprender de una fuente equivocada. Leídos juntos, Choi y Bastani dicen cosas compatibles en niveles distintos. Poner al estudiante primero duplica el juicio que emite y no cuesta desempeño inmediato; dejar que la máquina vaya primero no cuesta desempeño asistido y se cobra la competencia cuando se retira la herramienta.\n\nKosmyna y colegas (2025) aportan la única medición fisiológica y el único contrabalanceo entre sesiones. Con 54 participantes en tres grupos y 18 en una cuarta sesión con reasignación cruzada, el orden de exposición deja de ser un detalle de procedimiento y se vuelve el objeto: lo que se mide es qué le pasa a quien escribió primero con la herramienta y luego sin ella, y al revés. Es también la nota que marca el límite del eje, porque su granularidad es la sesión y no el turno dentro de la tarea.\n\nTomisu, Ueda y Yamanaka (2025) son el caso teórico y el más incómodo de clasificar. Su Espejo Cognitivo invierte el orden por diseño: el bucle de cuatro pasos obliga al estudiante a presentar su explicación antes de consultar, y la ignorancia del modelo se esculpe a propósito para que el aporte de la máquina llegue en segundo lugar y en forma de reflejo. Pero el propio artículo declara que su demostración con 36 estudiantes de secundaria es ilustrativa y no un estudio controlado, así que la nota entra como especificación de diseño y no como evidencia.\n\nLo que el conjunto deja sin responder es si la ventaja sobrevive a la actividad que la produjo. Ninguna de las cuatro notas mide el orden del turno y la retirada de la herramienta en el mismo diseño con una posprueba diferida de la misma habilidad. Choi mide conducta y desempeño inmediato; Bastani mide competencia residual pero no declara el orden como su variable; Kosmyna cruza condiciones entre sesiones sin posprueba de contenido; Tomisu no mide. Esa es la casilla vacía, y es la razón de existir de esta página.",
+      "path": "concepts/orden-del-turno.md",
       "degree": 4
     },
     {
@@ -3132,7 +3152,7 @@ window.__ACADEMIC_BRAIN__ = {
         "desirable difficulties"
       ],
       "definition": "Persistencia del conocimiento y las habilidades a lo largo del tiempo, más allá del desempeño inmediato durante la intervención. Incluye la medición diferida (pruebas sin asistencia tras días o semanas), la transferencia a tareas nuevas y el principio de las \"dificultades deseables\": el esfuerzo costoso que fija el aprendizaje.",
-      "literature": "La retención medida en diferido es la prueba que separa el desempeño del aprendizaje real, y es donde la evidencia sobre IA generativa se vuelve discriminante. Xu y colegas ya habían nombrado la brecha desempeño-competencia: la IA levanta mucho más lo que el estudiante hace mientras la usa que lo que llega a saber. Dos ensayos controlados aleatorizados con medición diferida la anclan en cifras, y a primera vista se contradicen.\n\nContractor y Reyes (2026), con 211 estudiantes evaluados sin asistencia a una semana, encuentran que el acceso a IA eleva el desempeño inmediato en 0,27 SD y que esa ganancia persiste. Barcaui (2025), con 120 estudiantes y una prueba sorpresa a los 45 días, encuentra lo opuesto: el grupo con ChatGPT retuvo 57,5 % frente al 68,5 % del grupo tradicional (d = 0,68), una muleta cognitiva que deteriora la memoria duradera.\n\nLa contradicción se disuelve en el diseño. Barcaui entregó ChatGPT sin restricciones, la condición que empuja hacia la automatización. Contractor y Reyes separaron a quienes usaban la IA para entender (aumentación) de quienes le pedían que produjera el texto (automatización), y solo los primeros conservaron la habilidad al retirar la herramienta. El corolario metodológico pesa tanto como el hallazgo: la foto durante la intervención casi siempre favorece a la IA (Han 2026), y la foto una semana o mes y medio después es la que discrimina.\n\nNakamura (2026) llega después y le pone nombre teórico a lo que esos dos ensayos muestran por separado. Su tesis es que el efecto sobre el aprendizaje no es propiedad de la herramienta sino del reparto del trabajo cognitivo: delegar operaciones periféricas al objetivo de aprendizaje aumenta, delegar las constitutivas erosiona, salvo que medie procesamiento sustantivo o reconstrucción posterior. Eso reinterpreta la oposición aumentación/automatización como un caso particular de una frontera más general, y explica por qué los metaanálisis del área reportan tanta heterogeneidad: están promediando sobre repartos distintos del mismo trabajo.\n\nY Nakamura añade la pieza que vuelve incómoda la lectura optimista de esta página. Juzgar si la salida de la IA es correcta exige competencia disciplinar que el aprendiz puede no tener todavía, de modo que regular la propia descarga no es una habilidad transferible sin más. Es decir, la condición que preserva la retención, que el estudiante conserve el [[concepts/juicio-evaluativo]] sobre lo que la máquina produce, es justamente la que el novato no puede cumplir. La frontera periférico/constitutivo es además relativa al objetivo y al nivel, así que la misma operación delegada resulta inocua o dañina según el caso. Lo que el conjunto de las tres notas sostiene, entonces, no es que la IA andamiada preserve el aprendizaje, sino algo más estrecho y más verificable: la retención sobrevive cuando el estudiante emite el veredicto de calidad, y esa posibilidad depende de un nivel de competencia previa que ninguno de los tres estudios midió por separado. Ahí está el hueco del vault sobre este concepto, y se cierra con diseños que estratifiquen por competencia inicial en lugar de promediarla.",
+      "literature": "La retención medida en diferido es la prueba que separa el desempeño del aprendizaje real, y es donde la evidencia sobre IA generativa se vuelve discriminante. Xu y colegas ya habían nombrado la brecha desempeño-competencia: la IA levanta mucho más lo que el estudiante hace mientras la usa que lo que llega a saber. Dos ensayos controlados aleatorizados con medición diferida la anclan en cifras, y a primera vista se contradicen.\n\nContractor y Reyes (2026), con 211 estudiantes evaluados sin asistencia a una semana, encuentran que el acceso a IA eleva el desempeño inmediato en 0,27 SD y que esa ganancia persiste. Barcaui (2025), con 120 estudiantes y una prueba sorpresa a los 45 días, encuentra lo opuesto: el grupo con ChatGPT retuvo 57,5 % frente al 68,5 % del grupo tradicional (d = 0,68), una muleta cognitiva que deteriora la memoria duradera.\n\nBastani y colegas (2025) rompen el empate con el diseño más limpio de la página, porque su examen sin asistencia estaba preregistrado como análisis primario y sus problemas estaban pareados con los de práctica. El brazo que recibía la respuesta de entrada subió un 48 % en la práctica y cayó un 17 % en el examen; el brazo que retenía la solución y empujaba al estudiante a producir subió un 127 % en la práctica y quedó indistinguible del control al retirar la herramienta. La diferencia entre los dos brazos no es la calidad del modelo, es el [[concepts/orden-del-turno]].\n\nLa contradicción se disuelve en el diseño. Barcaui entregó ChatGPT sin restricciones, la condición que empuja hacia la automatización. Contractor y Reyes separaron a quienes usaban la IA para entender (aumentación) de quienes le pedían que produjera el texto (automatización), y solo los primeros conservaron la habilidad al retirar la herramienta. El corolario metodológico pesa tanto como el hallazgo: la foto durante la intervención casi siempre favorece a la IA (Han 2026), y la foto una semana o mes y medio después es la que discrimina.\n\nNakamura (2026) llega después y le pone nombre teórico a lo que esos dos ensayos muestran por separado. Su tesis es que el efecto sobre el aprendizaje no es propiedad de la herramienta sino del reparto del trabajo cognitivo: delegar operaciones periféricas al objetivo de aprendizaje aumenta, delegar las constitutivas erosiona, salvo que medie procesamiento sustantivo o reconstrucción posterior. Eso reinterpreta la oposición aumentación/automatización como un caso particular de una frontera más general, y explica por qué los metaanálisis del área reportan tanta heterogeneidad: están promediando sobre repartos distintos del mismo trabajo.\n\nY Nakamura añade la pieza que vuelve incómoda la lectura optimista de esta página. Juzgar si la salida de la IA es correcta exige competencia disciplinar que el aprendiz puede no tener todavía, de modo que regular la propia descarga no es una habilidad transferible sin más. Es decir, la condición que preserva la retención, que el estudiante conserve el [[concepts/juicio-evaluativo]] sobre lo que la máquina produce, es justamente la que el novato no puede cumplir. La frontera periférico/constitutivo es además relativa al objetivo y al nivel, así que la misma operación delegada resulta inocua o dañina según el caso. Lo que el conjunto de las tres notas sostiene, entonces, no es que la IA andamiada preserve el aprendizaje, sino algo más estrecho y más verificable: la retención sobrevive cuando el estudiante emite el veredicto de calidad, y esa posibilidad depende de un nivel de competencia previa que ninguno de los tres estudios midió por separado. Ahí está el hueco del vault sobre este concepto, y se cierra con diseños que estratifiquen por competencia inicial en lugar de promediarla.",
       "path": "concepts/retencion-del-aprendizaje.md",
       "degree": 6
     },
@@ -8784,7 +8804,8 @@ window.__ACADEMIC_BRAIN__ = {
         "supervision-humana",
         "evaluacion-educativa",
         "futuro-del-trabajo",
-        "retencion-del-aprendizaje"
+        "retencion-del-aprendizaje",
+        "orden-del-turno"
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje.md",
@@ -9405,7 +9426,8 @@ window.__ACADEMIC_BRAIN__ = {
         "ensenanza-de-lenguas",
         "personalizacion-del-aprendizaje",
         "supervision-humana",
-        "juicio-evaluativo"
+        "juicio-evaluativo",
+        "orden-del-turno"
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia.md",
@@ -9788,7 +9810,8 @@ window.__ACADEMIC_BRAIN__ = {
         "ensayo-controlado-aleatorio",
         "psicologia-educativa",
         "inteligencia-artificial",
-        "juicio-evaluativo"
+        "juicio-evaluativo",
+        "orden-del-turno"
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia.md",
@@ -12751,7 +12774,8 @@ window.__ACADEMIC_BRAIN__ = {
         "motivacion-y-compromiso-estudiantil",
         "evaluacion-educativa",
         "procesamiento-de-lenguaje-natural",
-        "psicologia-educativa"
+        "psicologia-educativa",
+        "orden-del-turno"
       ],
       "date": "2026-06-28",
       "path": "notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva.md",
@@ -25284,6 +25308,11 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-06-25_genai-sin-guardrails-puede-danar-aprendizaje",
+      "target": "concepts/orden-del-turno",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-06-27_adapting-university-policies-genai",
       "target": "concepts/educacion-superior",
       "kind": "keyword"
@@ -26234,6 +26263,11 @@ window.__ACADEMIC_BRAIN__ = {
       "kind": "keyword"
     },
     {
+      "source": "notes/papers/2025-10-09_cognitive-mirror-metacognicion-ia",
+      "target": "concepts/orden-del-turno",
+      "kind": "keyword"
+    },
+    {
       "source": "notes/papers/2025-10-15_alfabetizacion-en-ia-educacion-revision",
       "target": "concepts/alfabetizacion-en-ia",
       "kind": "keyword"
@@ -26836,6 +26870,11 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia",
       "target": "concepts/juicio-evaluativo",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2025-12-04_reflection-satisfaction-tradeoff-hints-ia",
+      "target": "concepts/orden-del-turno",
       "kind": "keyword"
     },
     {
@@ -31291,6 +31330,11 @@ window.__ACADEMIC_BRAIN__ = {
     {
       "source": "notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva",
       "target": "concepts/psicologia-educativa",
+      "kind": "keyword"
+    },
+    {
+      "source": "notes/papers/2026-06-28_brain-on-chatgpt-deuda-cognitiva",
+      "target": "concepts/orden-del-turno",
       "kind": "keyword"
     },
     {
