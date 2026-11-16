@@ -100,8 +100,24 @@ No se pueden descargar figuras ni verificar DOI contra fuente primaria por HTTP.
 Quedan operativos WebSearch y el conector de PubMed, que sigue siendo la fuente
 más firme del entorno.
 
-**ALERTA DEL 2026-10-12: el conector de Scholar Gateway agotó su cuota y no vuelve
-hasta el 1 de noviembre de 2026.** No es el corpus congelado ni el catálogo parcial
+**ESTADO DEL CONECTOR DE SCHOLAR GATEWAY, medido el 2026-11-16: alcanza la semana
+corriente y su presupuesto real es de DOS consultas. No reinicia hasta el 1 de
+diciembre de 2026.** Su techo medido ese día fue el 14 de noviembre, dos días atrás,
+de modo que dejó de ser retrospectivo. Pero la tercera consulta devolvió
+`free_tier_limit_reached` con `query_as_executed: null` y `result_count: 0`, y el
+mensaje del payload fija el reinicio el 1 de diciembre. Las ediciones del 23 y del 30
+de noviembre no tienen conector. **Presupueste dos consultas: una para medir frescura y
+una para buscar**, y gaste la de búsqueda en el hueco más viejo del archivo. Vía de
+fechado admisible confirmada: el payload trae `publicationDate` por artículo en
+`metadata.additionalMetadata.publicationDate`, con formato `14 November 2026`; no viene
+del resumidor y por tanto es publicable. **Corrección al sustituto:** WebSearch con
+`allowed_domains` a Wiley **no alcanza la semana corriente**; once consultas el
+2026-11-16 dieron cero resultados dentro de una ventana de siete días. Sirve para
+rellenar temas, no para frescura. Su filtro de dominios además se respeta solo
+parcialmente, así que hay que filtrar a mano.
+
+**Nota histórica del 2026-10-12: el conector agotó su cuota y se anotó mal la fecha de
+reinicio como el 1 de noviembre de 2026.** No es el corpus congelado ni el catálogo parcial
 descritos abajo: el payload responde `"type": "free_tier_limit_reached"` con
 `query_as_executed: null` y `result_count: 0`, es decir, **la búsqueda no se ejecuta**.
 Verificado por dos agentes independientes el mismo día, con tres y una consulta
@@ -187,6 +203,19 @@ primera mano en octubre de 2026, contiguas y sin solape: 5 oct `2610.02293`–`2
 `2610.08794`–`2610.10533`; 9 oct `2610.10550`–`2610.12455`; 12 oct
 `2610.12545`–`2610.13912`.
 
+Bandas del 10 al 16 de noviembre de 2026, solo `announce_type=new`, sobre siete
+categorías (`cs.CY`, `cs.HC`, `cs.CL`, `cs.AI`, `cs.DL`, `cs.SE`, `cs.LG`): mar 10
+`2611.09895`-`2611.12884` (699); mié 11 `2611.12889`-`2611.14516` (352); **jue 12
+ausente**; vie 13 `2611.14520`-`2611.17332` (468); lun 16 `2611.17338`-`2611.18563`
+(221). Referencia anterior: lun 9 `2611.08490`-`2611.09891` (301). El archivo del jueves
+12 existe en las siete categorías, pesa 892 bytes en todas, declara su `pubDate` del
+jueves y **no contiene un solo `<item>`**. Las bandas son contiguas sin salto, así que no
+hay bloque huérfano, y el viernes trae 468 entradas sobre 2.812 identificadores contra
+las 352 del miércoles sobre 1.627: compatible con que el viernes absorbiera el jueves,
+sin forma de confirmarlo. Esa semana, a diferencia de la del 20 de octubre, el nombre
+del archivo **sí** coincidió con el `pubDate` interno en todos los días comprobados, lo
+cual confirma que hay que leer el `pubDate` siempre, porque la coincidencia no es regla.
+
 Bandas de la semana del 19 al 26 de octubre de 2026, solo `announce_type=new`, medidas de
 primera mano y contiguas: lun 19 `2610.22379`–`2610.23856` (380); mié 21
 `2610.23857`–`2610.28632` (812, incluye el martes ausente); jue 22 `2610.28637`–`2610.30132`
@@ -253,7 +282,18 @@ nuevo encima.
   en la única vía a un texto cerrado:** así se consiguieron las cifras de Wong y Qiu, desde
   `Learning-Design-Alliance/learning-wiki` (751 MB). Es fuente secundaria que transcribe, no
   el PDF, y su tubería se declara no revisada por una persona: cítese con esa salvedad.
-- **La consulta de PubMed restringida por revista es la más productiva de la rutina.** Con la
+- **Corrección del 2026-11-16: en PubMed acote por `pdat`, no por `edat`.** Con `edat`
+hubo que descartar a mano 8 de 34 resultados cuya `publication_date` real era de agosto
+o septiembre; con `pdat` no hubo un solo descarte en más de 300 registros revisados. Y
+**la consulta más productiva de esa sesión no fue la restringida por revista**, sino una
+nueva: inteligencia artificial en el campo `[Title]` más una palabra educativa en el
+campo `[Title]`, que dio 7 candidatos de 53 resultados sin ningún descarte por fecha.
+Restringir ambos términos al título elimina casi todo el ruido de IA clínica sin perder
+los estudios educativos. Conviértase en consulta fija junto a la de revistas. *Acta
+Psychologica* apareció tres veces en una semana con estudios de IA y estudiantes
+universitarios y merece entrar en la lista de revistas.
+
+**La consulta de PubMed restringida por revista sigue rindiendo.** Con la
   forma `"Acad Med"[Journal] OR "JMIR Med Educ"[Journal] OR …` salieron los dos trabajos
   sobre calificación automática que las consultas temáticas no encontraron. Conviértase en
   consulta fija. Y el filtro `edat` sobregenera: acote por `edat` y luego **descarte a mano
@@ -270,6 +310,26 @@ resumidor rellenó el hueco atribuyendo febrero a junio a DOI numerados más alt
 cubiertos, lo cual es imposible. Y la frescura del listado de Springer **varía por revista y
 no se extrapola**: ese día `41239` llegaba al 23 de octubre, `40561` al 17, `10639` al 12 y
 `40594` al 6. Mida el techo de cada revista por separado.
+
+**Medido el 2026-11-16: ASEE quedó cerrado y la puerta lateral a los congresos cambió
+de naturaleza.** `peer.asee.org` y `nemo.asee.org` responden 403 al CONNECT, igual que
+`scale.stanford.edu`, `cs.purdue.edu` y `stanford.edu`. El vector de los sitios
+personales de autores **sigue generando pistas por el índice del buscador pero ya no
+entrega archivos**: así aparecieron el estudio cruzado de N=220 de SIGCSE 2026
+(`arXiv:2607.27586`) y el trabajo de Deutsch y Oca de ASEE, los dos por fragmentos
+indexados de páginas que no se pueden abrir. Consérvelo con esa expectativa rebajada:
+sirve para descubrir que algo existe y qué dice su resumen, no para leerlo.
+
+**La digesta curada `edtechdev/aied` sube de categoría.** El 2026-11-16 su último commit
+era del mismo día y su artículo más reciente estaba fechado el 10 de noviembre, un rezago
+de seis días, mejor que el de Springer en tres de sus cuatro revistas. Fue además la
+única fuente con fecha de publicación declarada y verificada contra texto completo para
+artículos de MDPI y de Frontiers que el buscador no alcanza. Deja de ser solo generador
+de pistas para preprints. Siga verificando cada identificador y título después.
+
+**Techos de los listados de Springer, medidos uno por uno el 2026-11-16** (no se
+extrapolan entre revistas): `s41239` al 9 de noviembre, `s10639` al 5, `s40561` al 31 de
+octubre, `s40594` al 22 de octubre.
 
 `search_repositories` y `search_code` consultan todo GitHub aunque
 `get_file_contents` esté restringido al repo de la sesión, y sirven para dos
