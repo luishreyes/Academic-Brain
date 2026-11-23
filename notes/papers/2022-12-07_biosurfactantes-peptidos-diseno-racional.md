@@ -40,6 +40,14 @@ Diseño in silico de péptidos basado en propiedades de aminoácidos. Simulacion
 - Estudio puramente in silico; se requiere síntesis y validación experimental
 - Solo se evaluó la interfaz decano-agua, no otras interfaces industrialmente relevantes
 - La barrera de adsorción post-saturación podría limitar la eficiencia en aplicaciones reales
+- **Condición que la validación experimental pendiente debe cumplir: declarar la
+  pureza del material.** La simulación describe una especie molecular única, y el
+  trabajo de Baccile cubierto en el boletín del 21 de septiembre de 2026 muestra que
+  medio por ciento de un congénere basta para invertir la morfología del
+  autoensamblaje, con el radio micelar moviéndose un 40 % ante un 9 % de ácido graso
+  residual. Si Surf-UAC1 y Surf-UAC2 se validan alguna vez contra producto de
+  fermentación o contra péptido sin purificar, la comparación contra Tween 20 queda
+  midiendo una mezcla y el acuerdo con la MD no significará lo que parece.
 
 ## Notas relacionadas
 - [[concepts/ingenieria-quimica]]
