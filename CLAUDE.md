@@ -293,6 +293,23 @@ los estudios educativos. Conviértase en consulta fija junto a la de revistas. *
 Psychologica* apareció tres veces en una semana con estudios de IA y estudiantes
 universitarios y merece entrar en la lista de revistas.
 
+**Medido el 2026-11-23: PubMed descarta EN SILENCIO las abreviaturas de revista que no
+reconoce, y eso casi cuesta el artículo de portada.** La consulta fija por revista devolvió
+un solo resultado porque la traducción eliminó `"Adv Health Sci Educ"[Journal]` y
+`"Acta Psychol"[Journal]` sin avisar. Las formas que sí funcionan son
+`"Adv Health Sci Educ Theory Pract"[Journal]` y `"Acta Psychol (Amst)"[Journal]`. **Corrija
+la consulta fija**, porque tal como estaba escrita perdía justamente *Acta Psychologica*, la
+revista añadida a la lista la semana anterior, de donde salieron los dos mejores candidatos
+de la ventana. Revise siempre el `query_translation` que devuelve el conector: lo que no
+aparece ahí, no se buscó.
+
+**Y PubMed no sirve para educación en ingeniería; ahí el cero sí es informativo.** Una
+consulta estricta con `engineering education`, `computing education`, `computer science
+education`, `programming education` y `engineering students` devolvió **cero** en la ventana,
+con términos que PubMed reconoce como frases. No es fragilidad del buscador, es ausencia de
+catálogo. La versión amplia de esa consulta (332 resultados, cero candidatos nuevos) debe
+jubilarse: la prioridad de ingeniería se cubre por arXiv y por `edtechdev/aied`.
+
 **La consulta de PubMed restringida por revista sigue rindiendo.** Con la
   forma `"Acad Med"[Journal] OR "JMIR Med Educ"[Journal] OR …` salieron los dos trabajos
   sobre calificación automática que las consultas temáticas no encontraron. Conviértase en
@@ -330,6 +347,45 @@ de pistas para preprints. Siga verificando cada identificador y título después
 **Techos de los listados de Springer, medidos uno por uno el 2026-11-16** (no se
 extrapolan entre revistas): `s41239` al 9 de noviembre, `s10639` al 5, `s40561` al 31 de
 octubre, `s40594` al 22 de octubre.
+
+**Medidos de nuevo el 2026-11-23, y el techo TAMPOCO es monótono:** `s41239` al 18 de
+noviembre, `s10639` al 11, `s40594` al 13, y `s40561` **retrocedió** al 14 de septiembre,
+seis semanas por detrás de su propia medición de la semana anterior. No es que la revista
+dejara de publicar: el índice sirvió una instantánea más vieja. Una medición de techo no es
+un piso garantizado para la semana siguiente, así que vuelva a medir cada sesión. `s41239`
+fue la única que alcanzó la ventana y produjo los dos únicos candidatos con fecha plenamente
+publicable del barrido.
+
+**Y la vía del DOI de Frontiers se cayó, medido el 2026-11-23.** La forma documentada en la
+tabla de legibilidad (`"DOI 10.3389/..."` entre comillas) devolvió cero en los dos DOI
+recientes que se probaron, igual que las consultas por título exacto. Peor: el resumidor no
+declaró el vacío, ofreció artículos con DOI numéricamente cercanos y fechas de octubre.
+**Frontiers queda como MDPI, legible hacia atrás y ciego en la quincena corriente.** Era la
+última vía de fechado publicable para ese sello.
+
+**Trampa del digesto `edtechdev/aied`, medida el 2026-11-23.** Su rezago bajó a tres días,
+mejor que las cuatro revistas de Springer, y eso confirma su ascenso. Pero el campo `created`
+del frontmatter es la fecha de **ingesta**, no de publicación: de los 157 artículos ingeridos
+en una ventana de siete días, apenas seis declaran fecha completa dentro de ella en el campo
+`published`, muchos declaran solo el año y algunos no lo traen. Filtrar por `created` da 157
+falsos positivos. `git log --diff-filter=A` tampoco sirve, porque un commit de mantenimiento
+reescribió frontmatter en masa. El filtro correcto es `published` con fecha completa; lo
+demás queda sin fechar. La citación con DOI vive al final de cada artículo bajo `## Citation`
+y sí es fiable.
+
+**El archivo de RSS de arXiv puede faltar días enteros, no solo venir vacío. Medido el
+2026-11-23 por dos agentes independientes.** Los archivos del 17, 18, 19 y 20 de noviembre
+**no existen** en ninguna de las siete categorías. Es un tercer modo de falla, distinto del
+archivo vacío de 892 bytes (jueves 12 de noviembre) y de la absorción por el día siguiente
+(martes 20 de octubre): aquí el recolector no corrió. Compruebe siempre que el día existe
+antes de concluir que arXiv no publicó nada. Rareza asociada: el **sábado** 21 trajo 119
+entradas nuevas y solo en `cs.LG`, con las otras seis categorías vacías, pese a los
+`skipDays` de arXiv. Bandas medidas: lun 16 `2611.17338`-`2611.18563` (221); sáb 21
+`2611.24999`-`2611.26607` (119, solo cs.LG); lun 23 `2611.26663`-`2611.27978` (271). Entre
+el lunes 16 y el sábado 21 quedan 6.435 identificadores sin archivar. **Un identificador que
+cae en un hueco se puede fechar por intervalo**, que es defendible y hay que declarar como
+intervalo: si no aparece en la banda del día siguiente archivado, se anunció dentro del
+hueco. Cuando el archivo falle así, el sustituto es `edtechdev/aied`.
 
 `search_repositories` y `search_code` consultan todo GitHub aunque
 `get_file_contents` esté restringido al repo de la sesión, y sirven para dos
