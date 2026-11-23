@@ -22,10 +22,23 @@ node docs/build-noticias.mjs
 
 ## Boletines publicados
 
-Quince ediciones semanales desde el 2 de julio de 2026, con la convención
-`AAAA-MM-DD-boletin.md`. La última es la del 12 de octubre de 2026. No hubo
-edición el 5 de octubre: la del 12 cubre una ventana de dos semanas y lo dice
-en su cabecera.
+Quince ediciones con la convención `AAAA-MM-DD-boletin.md`. Las catorce
+primeras son semanales y van del 2 de julio al 28 de septiembre de 2026. La
+decimoquinta es la del 23 de noviembre de 2026, y entre una y otra hubo ocho
+semanas sin edición.
+
+Esa interrupción cambia cómo se lee el número del 23 de noviembre. Su ventana
+primaria cubre solo los siete días previos, del 16 al 23 de noviembre. El
+material publicado entre el 1 de octubre y el 15 de noviembre se trata como
+ventana secundaria: entra únicamente si cierra o mueve un hilo abierto, o si es
+demasiado importante para omitirlo. Cada hallazgo declara a qué ventana
+pertenece.
+
+Una versión anterior de este archivo afirmaba quince ediciones ya en octubre y
+situaba la última el 12 de octubre de 2026. Era falso: ese archivo no existe en
+ninguna rama del repositorio, comprobado con
+`git log --all --name-only -- Noticias-Biotec/`. Tampoco hubo edición el 5 de
+octubre, y ninguna edición cubre una ventana de dos semanas.
 
 Cada boletín cierra con una sección **"Hilo abierto para mañana"**: es la memoria
 de la rutina, y el PASO 0 de la sesión siguiente la lee para saber por dónde
